@@ -1,0 +1,179 @@
+网页及App设计 笔记
+主要参考教程为 [FreeTutorials.Eu] Udemy - The Complete 2019 Web Development Bootcamp-- 30. Bonus Module Design School 101
+
+对比  设计师和非设计师 Designer Non-Designer 
+
+颜色选型
+字体选型：参考国外、苹果等大公司的字体，注意版权
+type families ，font 
+
+（一）色彩理论 Colour Theory
+Hue - 色相  
+色相 = 原色 + 间色 + 复色
+原色 = 红绿蓝
+颜料三原色：橙、绿、紫
+
+CMYK = 青、洋红、黄、黑
+
+
+红 + 绿 + 蓝 = 白
+红 + 绿 = 黄 
+红 + 蓝 = 紫
+绿 + 蓝 = 青
+
+间色 = 品红 + 黄 + 青
+复色 = 原色 + 间色 或 间色 + 间色
+
+
+Saturation - 饱和度 含色部分与消色部分（灰色）的比例。数值越小越接近灰色
+Lightness - 明度 深浅差别 数值越小越接近黑色
+
+HSB ≈ HSL   : Brightness 百分比    Lightness 用最大255
+
+
+
+暖色调（红、橙、黄） 大面积使用视觉疲劳
+中性色调（绿、棕、黑、灰、白）  
+冷色调（青、蓝、紫） 大面积使用乏味
+
+
+
+颜色与心情
+红色——LOVE/ENERGY/INTENSITY等(RGB(199,49,45))
+黄色——JOY欢乐/INTELLECT/ATTENTION(RGB(230,172,33))
+绿色——FRESHNESS/SAFETY/GROWTH(RGB(60,132,41))
+蓝色——STABILITY/TRUST/SERENITY沉着（RGB(18,52,129)）--> Family Stuff 可以用这个色系，代表可信赖
+紫色——ROYALTY皇权/WEALTH富裕/FEMININITY娇柔(RGB(73,49,130 ))
+
+Analogous Colours 相似色（色环相邻的颜色）
+Complementary colours 互补色（色环相对的颜色）
+Split-Complementary Colours 互补相邻色-不直接选互补色，而是互补色的相邻两色
+Triadic Colours 三角平衡色
+
+推荐使用工具和网站
+http://www.peise.net/tools/web/#  配色网站，可提供对比色等
+https://colorhunt.co/palette/168306 
+flatuicolors.com  可用于iOS
+materialpalette.com 可用于Android ，这里还有icon可以下载
+colorzilla 这是firefox和chrome浏览器的扩展
+http://zhongguose.com/#danshuhong  中国色 好用
+nippon-color 
+ColorBlender  只需要输入主色的RGB数值就可以生成相应的配色方案~
+Color Claim  可以把网站给出的背景色和字体色直接抱走使用
+
+总结：
+不自己配
+①logo取色
+②使用行业的代表色
+③直接“偷”别人PPT的配色
+自己配
+①一个原则：不要使用饱和度过高的颜色
+②一个方法：任意色+黑白灰
+
+
+（二）字体排版 Typography 确定可读性
+两大家族
+1. Serif    
+英文字符尾部有弯折。 比san字体族要古老。来源于石刻和金属制品
+一般用于严肃场合，例如律所文书
+老一代的 如 Adobe Jenson、Baskerville 、Didot、American typewriter
+
+
+2. San-Serifs
+字符尾部为直角
+分为四大类
+Grotesque ：例如News Gothic
+Neo-Grotesque：例如Helvetica
+Humanist：例如Gill Sans
+Geometric  例如 Futura
+
+为何关注这种分类、子类
+MIT 试验汽车仪表盘显示字体，使用Humanist字体族比Grotesque族更有利于阅读，比如C的开口更大（open shapes），更容易识别。 字母之间有足够的间隔(ample intercharacter spacing )，数字和字母9和g 外形区别明显，不含糊（Unambiguous forms） ，字母o和数字0 区别，变动比例（varing proportions）
+例如 Delicious 
+
+
+（三） 准则
+1. Serif和 Sans-Serif可以混用
+比如Head 可以用 Serif
+ Body 可以用 Sans-Serif （利用更利于阅读的特性）
+反之也可
+*避免使用相同字体同时用在Head 和 Body（看起来像是没有设计过）
+
+*避免使用3种或以上字体用在同一个板块
+
+字体也有使用地域
+
+*避免使用不同的心情反应字体（传统和现代的不要混用，不用领域也不要混用）
+*千万避免使用以下几种字体
+Kristen、curlz、viner、Papyrus、Comic sans、 
+
+推荐工具和网站
+Chrome 和 firefox的  whatfont 插件——用来查看网页中的字体
+Font Squirrel 网站
+Sky Fonts mac软件
+
+2. 字体版权
+中文下免费字体
+2.1 方正系免费字体：方正黑体、方正书宋、方正仿宋、方正楷体。 基础字体收费比精选字体价格便宜。
+2.2 谷歌思源：谷歌和Adobe合作开发 Noto Sans CJK（思源黑体），支持中日韩，国家标准GB-18030以及教育部于2013年颁布的《通用规范汉字表》里规定的所有汉字。
+
+3. 字体格式Format
+ttf: TureTpe Format,支持Windows和Mac，一种RAW格式，并未对Web优化
+otf: OpenType Format,在TureType的基础上增加功能
+svg：Scalable Vector Graphics 基于矢量图SVG字体渲染的一种格式，适合手机设备
+eot：Embedded Open Type，是IE专用字体，可以从TrueType创建此格式字体
+woff(2)：Web Open Font Format，是Web字体中最佳格式。一个开放的TrueType/OpenType的压缩版本，同时支持元数据包的分离.所有现代浏览器都支持。
+
+4. 字体术语
+衬线
+字重
+
+（四） 用户界面设计
+1. 每个App是一个旅行
+不应该在界面中扔出一堆数据，而是应该给出一个向导 
+用户观察的是 从上到下， 从大到小的信息、方的，粗体、亮的部分；然后到圆形物体，小、暗的物体
+
+*避免全部采用一种大小和排版，而是改为有大小，分区块的分布
+Title
+subTitle
+large Image 、small Image
+body text
+
+推荐网站
+Web Design in 4 minutes
+
+2. 关于对齐
+如何假装你有一个设计师
+* 注意 文字左对齐的情况。 标题和内文要列对齐
+
+存在  边缘对齐Edge Alignment 、中心对齐 Centre Alignment 
+例如 名片可用 右对齐
+
+3. 注意光线一定从顶上照下
+指 按钮的阴影通常都在下部， 按下的时候 消除阴影
+flat button ——在文字周围有边框代表按钮，再加上背景色和阴影，并且在按钮中加上图像图标
+
+4. 如何设计网站和App
+从简单黑白色设计--再到双色--再到多色
+
+推荐网站 
+dribble.coms
+
+5. 图片上显示文字
+一种方法是文字后添加背景（黑色、紫酱红RGB(112,26,46)）
+另一种是在整个背景图片上覆盖一层黑色遮罩alpha 20%，用来突出文字
+再一种是在文字后加上模糊遮罩 ，从中间往下遮罩由深变浅
+
+6. 吸引用户注意力的向导
+可以采用 文字 大小  颜色差异  文字粗细  大小写字母  字母间距
+Title 中可以用不同字体和大小的文字突出重点
+
+
+Harlow Solid Italic 字体为英文手写体，可以用来参考手写
+
+
+
+别再谈颜色变，PPT配色看这篇就够了（上篇）   https://www.pptfan.com/317.html
+如何做好PPT——配色篇（下）  https://www.jianshu.com/p/fa123d86da33
+
+

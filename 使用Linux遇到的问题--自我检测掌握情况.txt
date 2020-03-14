@@ -1,0 +1,642 @@
+目录
+Part 0 关于帮助
+Part 1 安装过程--忽略
+Part 2 命令行无法执行ifconfig
+Part 3 使用 Telnet 命令 没有安装 
+Part 4 使用光盘(优盘)问题
+Part 5 关于不用鼠标快捷键——参考文章说明
+Part 6 使用Find 查找特定文件目录
+Part 7 输出重定向
+Part 8 tr 命令   将特定字符做转换
+Part 9 cut 和 paste 命令
+Part 10 sort 排序
+Part 11 挂载点
+Part 12 grep =  global regular expressions print
+Part 13 sed    stream editor 
+Part 14 awk  人名缩写  用来分段格式化输出  
+Part 15 Vi（Vim）
+Part 16 关于用Set 设置 局部变量  只能在当前的shell环境中生效
+Part 17 shell 启动脚本shell startup script 
+Part 18 硬件设备
+Part 19 安装相关 日志等
+Part 20 修改root密码
+Part 21 关于启动及系统初始化
+Part 22 如何管理和维护服务
+Part 23 关机和重启
+Part 24 关于系统内核模块及配置
+Part 25 虚拟文件系统 /proc --目的是 将内核管理维护与文件系统相同操作
+Part 26 对硬件检查和监督
+Part 27 关于系统监视和进程控制工具——top和free
+Part 28 启用ssh 服务
+Part 29 RPM相关
+Part 30 关于压缩打包
+Part 31 软件安装
+Part 32 备份
+
+
+
+
+
+//***********************************************
+Part 0 关于帮助
+--help  只能是shell内部命令帮助
+man  info  外部命令
+注意可用  type 命令名称 来查看是外部或内部命令
+
+
+使用Linux遇到的问题--自我检测掌握情况
+
+Part 1 安装过程--忽略
+
+
+Part 2 命令行无法执行ifconfig
+1.需要用root， sudo 不能为何提示密码不对
+2. 默认使用的   环境变量要求改， ifconfig在 /sbin目录下     用 where 查找
+
+Part 3 使用 Telnet 命令 没有安装 
+/sbin/chkconfig telnet --listd 无法找到 文件
+方法1.需要打开菜单——Application——System Tools——Software Update 安装（不联网无法打开）
+方法2.打开安装光盘，进入Server目录，运行 telnet-0.17-39.el5.i386.rpm和elnet-server-0.17-39.el5.i386.rpm
+复制后 运行 #rpm -ivh telnet-0.17-39.el5.i386.rpm
+
+
+Part 4 使用光盘(优盘)问题
+外部设备加入系统，产生挂载点（目录） /media 或 /mnt  目录下 
+/media/CDRom  RH5.0 为 /media
+
+
+Part 5 关于不用鼠标快捷键——参考文章说明
+
+
+Part 6 使用Find 查找特定文件目录
+find 路径(可用~ 或 .) -size +20(可用-atime +3 访问时间大于3天前 -mtime +3修改时间大于3天前，-mtime -3修改时间小于3天)
+-name 文件名 
+
+
+Part 7 输出重定向
+ stdin   0
+ stdout  1
+ stderr  2ｃ
+ 
+     >    
+	 >>
+例子：find /etc -name passwd  > output.txt  2&1   意思是 将标准错误也输出到 前面输出的文件中
+
+
+Part 8 tr 命令   将特定字符做转换
+tr -d "\r" < dept.data > dept.data.unix    将 windows下 回车 \r  换行 \n(表现为^M$) 替换为 换行 \n (表现为$)
+
+用 cat -A 命令查看 字符
+tr - 'A-Z' 'a-z' < winsql.sql > unixsql.sql (大写改小写字母)
+
+Part 9 cut 和 paste 命令 
+cut -f切割的列号  -c切割字符从XX到XX -d分隔符(默认是Tab)
+cut -f4 emp.data  
+
+paste name.txt salary.txt > emplist.txt
+
+Part 10 sort 排序
+sort [选项] ... [文件名]...
+-r 降序 reverse
+-f 忽略大小写 folds
+-n 以数字排序 numeric 不然会以ASCII排序
+-u 去重复 unique
+-t -tc 以c分隔
+-k -kN 以N字段排序 -k N1,N2 重复按N2排序
+例子： sort -t: -k3 -n /etc/passwd 
+
+Part 11 挂载点
+默认挂载点  /media
+
+手动 mount CD
+只读型  mount /media/cdrom
+擦写型  mount /media/cdrecorder
+
+使用 ejectd 命令退出（unmount）CD/DVD
+
+有时 umount  出现 device is busy
+用命令  umount -l /media/cdrom
+
+一般推荐在 /media/下建  cdrom 目录，然后 挂载
+mount /dev/cdrom /media/cdrom
+
+优盘挂载默认安装从  /dev/sdc 安装到 /media/disk   
+mount -t vfat /dev/sdc  /media/disk
+卸载umount -l /media/disk  (主要要先创建 media/disk目录)
+
+Part 12 grep =  global regular expressions print
+[概念] 元字符 regular expression metacharacters 通配符  *、+、{、|、（、）
+转义 \
+
+[样例] 
+c*: 0-n个"c"
+.:任意一个字符
+[xyz]:中间任意一个字符
+[^xyz]:不包含其中字符以外的所有字符 
+^:锁定开头
+$:锁定结尾
+
+[命令格式]  grep 参数 模式  文档名
+例: grep -ci CLErK  emp.data
+grep -l root group passwd hosts  （返回group passwd hosts三个文件中是否含有root字段）
+[参数]
+c: 记录匹配行数
+i: 区分大小写
+n: 结果加入行号
+v: 反向选择
+w：按单词匹配查找，否则某一部分匹配就算
+
+使用管道 与其他命令完成复杂操作
+
+grep -i Clerk emp.data | sort  -n -k4   (以第四列排序，注意用n参数尽心数字排序)
+
+grep '1..[0123456789]' emp.data  (查找最后一位任意数字的1开头的四位数记录)
+
+关于 egrep 包含的 扩展正则表达式元字符
++: 匹配一个或多个前导字符
+a|b：匹配a或b
+(RE): 匹配括号中的正则表达式RE
+
+关于 fgrep   将出现的通配符都当做普通字符来搜索
+区分
+grep '.' news.fmt  
+egrep '.' news.fmt  
+以上都会将整篇文档都显示出来
+fgrep '.' news.fmt 才会将含有. 的行显示出来
+
+Part 13 sed    stream editor 
+pipe内的数据为 steam
+
+[命令格式]
+sed [选项]... {以引号包括起来的命令表达式}[输入文件]
+
+[选项]
+e  编辑文件
+g  替换全部符合的结果，默认不加此参数只替换同行第一个结果
+d  删除结果行  比如 1d  或者 1,2d  删除第1，2行 注意前面要加/
+
+
+
+[例子]
+sed -e 's/ ;/g' emp.fmt  #将 emp.fmt文件中的空格替换为；
+
+grep -i Clerk emp.fmt|sed -e 's/CLERK/ASSISTANT MANAGER/g' #先忽略大小写列出Clerk职位的人，管道到sed后将 所有 CLERK职位变为 ASSISTANT MANAGER 
+
+sed '/^$/d;/CLERK/d;s/PRESIDENT/CEO/g' emp.data   # 将 emp.fmt 文件中去除空行，去除含有CLERK的行，同时将 PRESIDENT职位转为 CEO
+
+sed' '/^$/d;s/^/> /g' sedtest > email.sed 
+
+
+Part 14 awk  人名缩写  用来分段格式化输出  
+
+awk -F: '{print $7}' /etc/passwd | sort | uniq -c
+
+[选项]
+-F 后面跟的字符是 文档中的分隔符合 这个主意不要省略 比如 ； ; , 制表符，空格等
+$7 表示  文档中的第7列
+sort 命令 排序
+uniq 命令去重复， -c 参数是 计算显示出现的次数
+
+参数是
+END 组后一行
+NF   有多少个字段  $NF 每一行的最后字段
+NR 数据行的数目
+
+
+变量 
+$0 整个数据行
+
+主意 用echo命令 导出命令到脚本中 
+
+Part 15 Vi（Vim）
+
+输入 !!  为 执行命令行并把结果返回到文本中
+键入 !}  为选择范围后执行命令
+
+提示行会出现 :.,$! 代表到最后一行
+
+样例 可以先用!!执行 date 插入日期
+再用 cat empm.data  插入工资结果
+光标到用户信息的起始行第一栏位
+执行后!} 修改为 :.,$!  表示到最后   然后工资按倒序排列结果  sort -nr -k4  （表示按照数字、倒序、对第四列排序） 
+
+查找和替换是用 sed实现的
+# 不指定  仅仅为当前行
+# n1，n2 从n1到n2行 ，自然数
+# 1，$或%   :整个文件
+#.,.+n :从当前行到当前行加n行（.+n）,其中n 自然数
+#.,.-n: 从当前行到当前行减n行（.-n） n 自然数
+
+Part 16 关于用Set 设置 局部变量  只能在当前的shell环境中生效
+
+
+其中有个  局部变量 noclobber   不损毁变量  改为 ON 就不会讲重定向文件覆盖 
+使用命令 set -o noclobber
+然后用 set -o |grep noclobber 检查
+
+将局部变量升级为环境变量， 使得shell和子shell都能使用
+
+语法：export 变量名
+
+一般常用的环境变量
+HOME
+PWD
+LANG
+TERM  用户终端类型
+reset  屏幕奔溃出现乱码 重新设置终端的命令
+PATH 可执行文件搜索路径
+which  定位可执行程序的路径命令
+SHELL
+USER
+DISPLAY  x 显示器的名字
+
+Part 17 shell 启动脚本shell startup script |初始化文件 Initialization Files |系统配置文件 System Configuration Files     登录shell
+将定义和升级为环境变量操作记录到shell启动脚本
+
+关于启动脚本作用
+1. 设置局部变量和set shell
+2. 建立环境变量设置其他程序
+3. 创建启用 alias
+4. 定义启动时要执行的程序
+
+登陆Shell Login shell 和 非登陆Shell  Non-login shell
+区别是什么？
+Non-login shell  是 不带- 的su命令 或者当前系统提示符下启动新shell
+
+1. /etc/profile 
+2. ~/.bash_profile
+3. ~/.bashrc
+4. /etc/bashrc 
+
+使用 login shell 登陆 执行全部4个脚本
+
+使用Non-login 登陆Shell
+不执行  /etc/profile 和 ~/.bash_profle 脚本
+
+
+Part 18 硬件设备
+设备主要两类 
+（1） Block Devices  块设备
+	分为三类：
+	1. IDE(Intergrated Device Electroinics)驱动器 /dev/hda 编号从a开始  如果有分区（Partitions） /dev/hda1  、  /dev/hda2 
+	2. SCSI(Small Computer System Interface) 驱动器 /dev/sda 编号从a开始 如果有分区 /dev/sda1、/dev/sda2
+	3. Flooy Device  /dev/fd0  0是编号
+
+
+（2） Character Devices 字符设备
+	/dev/tty[0-7]  虚拟终端窗口
+	/dev/st0  SCSI 磁带机
+	
+两种设备的对比
+
+1. 访问单位区别  块设备 512/1025字节， 每次访问1块  字符设备 1字符（1字节），每次一个字符
+2. 访问速度   块设备 速度快，随即访问   字符设备 速度慢，顺序访问
+3. 权限   块设备 brw-rw----   字符设备  crw-rw----
+
+Part 19 安装相关 日志等
+硬件设备的信息  # dmesg | more
+
+/var/log/dmesg  查看日志
+# more /var/log/dmsg
+
+Part 20 修改root密码
+进入单用户模式修改方法啊
+
+1.进入grub 选单 
+2.选中操作系统 比如Red Hat Enterprise 5 
+3. 按a 进入编辑内核参数
+4.出现的 grub append>提示后 出现  ro root=LABEL=/  rhbg quiet 字样
+将  rhgb quiet 删除后加1个空格和1  代表使用单用户模式登陆Linux。
+5. 按Enter 后启动完毕，可用whoami检查用户是否为root
+6. 使用passwd命令修改
+
+可以添加grub密码 防止修改 注意用Vim编辑， 可以语法高亮。 password为关键字显示为橙色
+修改  /boot/grub/grub.conf  文件中  第一部分后添加一段 password myPassWord 保存后重启即可
+运行   grub-md5-crypt 输入密码后得到加密后密码，复制此密码并 修改 grub.conf 密码行为 password -md5 $1$XXXXXXXXXXXXXX即可。
+如果在单用户密码中修改容易输错字符,最好图形界面复制。
+
+Part 21 关于启动及系统初始化
+查看 /etc/inittab 文件     注意在Ubuntu（Debian)下 /etc/default/grub  段落在GRUB_CMDLINE-LINUX-DEFAULT = "quiet splash" 改为 "quiet splash text" ，然后要sudo update-grub
+inittab文件中系统初始化顺序
+1  id:5:initdefault
+2  /etc/rc.sysinit
+3  /etc/rc.5d/*
+	(/etc/rc.local)  //这个文件是执行完所有rc.Xd 内脚本才执行的
+4  /sbin/mingeftty
+5    run level = 5  N  →  Text mode
+       Y
+	   /etc/X11/prefdm
+
+
+注意 run level还有 S 和 emergency 都为单用户模式  4-是用户自定义模式，默认与run leve 3相同
+设置错误后 修复方法
+1. 开机进入grub选择界面 按 e编辑
+2. 选择kernel行 后 再按e
+3. 最后添加 runleve 比如 grub edit> kernel /boot/vmlinuz-2.4.20-8smp ro root=LABEL=/ 3
+以上代码意思是 开机后修改传一个参数给内核
+
+
+调用 /etc/rc.d 下  rc 文件
+
+Part 22 如何管理和维护服务
+控制服务有两类工具
+1. 开机默认预设自动启动服务工具类
+(1)ntsysv: 更改 run level 服务设置 使用 --level 可修改其他 run level 服务设置 如ntsysv --level 35
+
+(2)chkconfig: 使用 -- list 参数 显示所有 System V 脚本服务 在每个run level上启动停止列表
+查看 ls -l /etc/rc*.d/*vsftp
+查看 /sbin/chkconfig vsftpd --list
+修改 /sbin/chkconfig vsftpd --level 2 on
+注意 Ubuntu上 用 sysv-rc-conf 
+先安装 sudo apt-get install sysv-rc-conf 
+检查设置开机自启动服务  sudo sysv-rc-conf
+
+(3)system-config-services:图形界面 X window下操作 只对应当前 run level ，如需修改，菜单 Edit Runlevel(只限3-5) 
+
+2. 手动控制服务类
+(1) service:
+查看  service gpm status       //此种方法不是所有linux都有
+或者使用绝对路径  /etc/init.d/vsftpd start  //这种方法所有linux和Unix都可使用 有reload、restart、status三个参数
+
+(2) chkconfig:
+查看 /sbin/chkconfig telnet --list
+停用 /sbin/chkconfig telnet off
+
+(3) system-config-services  图形界面
+
+Part 23 关机和重启
+增减硬件、升级Linux或kernel 需要重启或关闭。
+关机命令有4种
+(1) shutdown -h now    
+例子：shutdown -h 23:55
+(2) halt:  -n 不做同步 
+(3) poweroff : 关闭系统关闭电源
+(4) init 0 进入 run level 0 关机
+
+以上会自动sync(synchronize)同步 将内存中变化的数据块和super block 写入硬盘
+
+重启命令有4个
+(1) shutdown -r now  
+(2) reboot 
+(3) init 6
+(4) 虚拟终端下 Ctrl+Alt+Delete
+
+Part 24 关于系统内核模块及配置
+最小内核 + 模块  动态载入  不增加核心的大小
+内核模块= 内核中组件 编译为可动态载入的形式
+注意 受污染的内核  tainted kernel 不提供技术支持
+检查是否受污染
+查看 /proc/sys/kernel/tainted 内容
+0   //没有污染 not tainted 
+1   //已污染 tainted    
+有时候显示是64，最好知道一下具体含义
+
+
+功能：
+（1）外围设备的驱动程序
+（2）其他文件系统的支持
+保存路径
+/lib/modules 
+查看当前载入的模块
+lsmod
+临时载入某个模块-- 和insmod相比可以同时载入依赖的模块 
+modprobe 模块名
+
+查看具体某个模块的配置信息 含许可证
+/sbin/modinfo 模块名
+
+配置模块，修改
+/etc/modprobe.conf
+
+模块的依赖性记录
+/lib/modules/$(uname -r)子目录下modules.dep文件中 
+
+手工增加单一内核模块
+insmod 模块名
+
+手工卸载单一内核模块
+rmmod 模块名
+
+Part 25 虚拟文件系统 /proc --目的是 将内核管理维护与文件系统相同操作
+特点：不存在硬盘，存在内存虚拟目录 速度快、重启后配置消失。
+
+可以显示的内容：进程信息、内存资源、硬件设备、内核占用内存
+
+子目录： 
+（1）PID子目录（数字编号）  是所有进程的信息 
+（2）/proc/scsi/ 所有scsi设备信息
+（3）/proc/sys/  内核参数
+
+列出硬件（内存）的详细信息
+cat /proc/meminfo
+
+修改内核参数例子--忽略ICMP封包 含忽略本机
+配置文件在 /proc/sys/net/ipv4/icmp_echo_ignore_all 
+echo "1" > /proc/sys/net/ipv4/icmp_echo_ignore_all
+改完后 cat看下文件内容
+！！！测试后别忘记改回
+echo "0" > /proc/sys/net/ipv4/icmp_echo_ignore_all
+
+如何持久化保存配置
+使用sysctl 命令 修改 /etc/sysctl.conf
+
+系统启动后自动执行 rc.sysinit 脚本   自动读取/etc/sysctl.conf 执行其中的系统配置
+就是 /proc/sys目录中的全部内容
+
+sysctl 完成三类工作
+（1）列出当前系统配置: sysctl -a |more  //不用more  难以阅读
+（2）从/etc/sysctl.conf 重新载入系统配置 :  sysctl -p
+（3）动态设置/proc/目录中文件的值：sysctl -w kernel.shmmax=2147483648
+注意检验
+
+Part 26 对硬件检查和监督
+系统内核kernel 通过klogd 服务将硬件信息写入内存环形缓冲区 ring buffer ，通过dmesg 查看 
+环形缓冲区写满后 记录到/var/log/dmesg 日志文件
+
+PCI -- Peripheral Component Interconnect 外部部件互联标准  总线设备可以通过
+/sbin/lspci 命令查看 PCI插槽中设备
+信息存放在  /proc/bus/pci 子目录中 
+/sbin/lspci 
+
+热插拔 USB或 1394设备 
+（1）执行 /sbin/hotplug程序 从 /etc/hotplug/ 载入驱动程序
+（2）将设备信息吸入/proc/bus/usb/子目录
+
+/sbin/lsusb 命令查看 USb插槽中设备
+
+热插拔 PCMCIA设备 
+（1）执行 /sbin/cardmgr程序 从 /etc/pcmcia/ 载入驱动程序
+（2）设备信息写入 /proc/bus/pccard
+
+/sbin/cardmgr 命令查看插槽中设备
+/sbin/cardctl 查看状态
+
+
+Part 27 关于系统监视和进程控制工具——top和free
+
+top命令 可以执行后 用？ 获取帮助
+按u 可以切换用户，查看特定用户的资源占用
+
+free 命令查看内存使用状态
+
+
+Part 28 启用ssh 服务
+(1)检查是否安装
+# /sbin/service sshd status
+
+(2)有客户端和服务器端
+
+Part 29 RPM相关
+特点：
+(1) 没有交互界面
+(2) RPM可以安装操作系统的核心程序和附加软件
+(3) 安装时不需要安装之前的版本
+
+组成：
+(1)RPM本地数据库 在 /var/lib/rpm 
+(2)RPM命令和可执行文件
+(3)rpm软件包文件名分5个部分。name-version-release.architectures.rpm 名-版本-发布次数.适合平台.扩展名 （SPARC、Alpha、PowerPC、x86   noarch代表所有CPU）含 src.rpm  是源代码形式，需要编译为rpm才可安装
+
+功能：
+install/remove:
+query: 查询包信息
+verify: 验证是否有修改
+build: 源代码编译成rpm文件
+
+
+命令：
+(1)rpm -i, --install
+(2)rpm -U, --upgrade
+(3)rpm -F, --freshen  刷新旧版本软件
+(4)rpm -e, --erase 删除软件
+(5)-v --verbose 详细输出
+(6)-h --hash  以#显示进度
+
+---待补充----
+
+
+Part 30 关于压缩打包
+分类：
+*.tar *
+
+--待补充----
+
+
+Part 31 软件安装
+tar 及 gzipi 产生 *.tar.gz   *.tar.tgz    bizp2 和 xz产生 *.tar.bz2   *.tar.xz
+
+tarball 包内容：
+1.源代码
+2.侦测程序文件
+3.软件说明及安装说明  INSTALL 或 README
+
+源码->编译->安装或升级
+编译过的binary programme 安装或升级
+
+安装流程
+1. 从官网下载Tarball
+2. 解压获取原始码
+3. 用gcc 对源码编译，产生 目标文件 ojbect files
+4. gcc 链接 函数库、主、子程序。 形成binary file
+5. 安装 binary 文件和配置文件
+
+要确保系统中有 gcc 和 make 软件存在
+
+make install 作用是将可执行程序复制到/usr/local/bin， 这样才可以命令行直接执行
+
+
+Part 32 备份
+
+备份考量因素
+32.1 备份的文件：/etc 、 /home 等
+分类：系统和数据
+主机系统包括：账号和系统配置文件
+/etc/passwd
+/etc/shadow
+/etc/group
+/etc/gshadow
+/home
+/var/spool/mail 用户的邮件
+基本所有的主机信息配置参数都在/etc下
+修改过核心 需要备份 /boot 下信息
+/root 
+安装过其他软件 /usr/local/opt
+网络服务和数据库 /etc/ 或者/usr/local/下  
+www网络  /var/www 或者 /srv/www 
+MySQL 数据库最好看下说明 /var/lib/mysql  
+
+最少化备份
+/boot
+/etc
+/home
+/root
+/usr/local 或 /opt  /srv等
+/var  注意有些临时目录不备份
+
+注意不要备份的目录
+文件权限与目录配置 中的  /proc目录 记录当前系统正在运行的进程。
+外挂的 /mnt、 /media 无需备份
+/dev 
+/tmp
+
+2. 备份的媒介：可擦写光盘、同磁盘不同分区、额外硬盘、磁带、网络备份系统。速度快、单价便宜、保存时间久。
+常见的设备号：
+光驱：/dev/cdrom
+磁带机:/dev/st0(SCSI接口)、/dev/ht0(IDE接口)
+软驱：/dev/fd0、/dev/fd1
+硬盘：/dev/hd[a-d][1-16](IDE接口)、/dev/sd[a-p][1-16](SCSI接口)
+移动硬盘：/dev/sd[a-p][1-16]和SCSI接口相同
+打印机：/dev/lp[0-2]
+
+3. 备份的方式：完全备份、部分备份
+Full Backup  即 "/"  下所有数据
+应当对刚完成的系统做备份。
+
+Implement backup 
+备份最重要的数据。出现问题重新安装即可。
+
+4. 备份的频率：日备份、周备份等
+重点部分备份频率高，每天都需要备份。一个星期甚至一个月完整备份一次。
+
+5. 备份的工具：tar、cpio等
+没有磁带机用tar  要压缩
+有磁带机用cpio 可以备份一般的设备文件
+
+5.1 完整备份的工具
+tar cpio dump dd
+cpio 可以备份一般的设备文件，需要配合find ，需要完全备份的硬盘或磁带机
+
+命令格式
+cpio备份还原命令
+# find / -print | cpio -covB > /dev/st0   <==备份到磁带机
+# cpio -iduv < /dev/st0
+
+tar备份还原
+# tar --exclude /proc --exclude /mnt --exclude /tmp \
+> -zcvpf host.tgz /
+# tar -zxvf host.tgz
+
+dd备份一模一样的硬盘
+# dd if=/dev/hda of=/dev/hdb
+# 完整的将 /dev/hda 备份到 /dev/hdb
+
+5.2 部分备份的基础工具
+例子 按日期每天备份
+# tar -N '2005/10/25' -zpavf home.tgz /home 
+# 打包 /home下比 2005/10/25 新的文件
+
+例行性备份 参考  cron 和 at命令
+
+备份策略
+日备份、周备份 备份时间在凌晨3-4点
+
+
+备份脚本样本
+（1）所有数据放到/disk2/backup中
+（2）进行打包压缩，传送到内网 192.168.1.100
+制作脚本
+# mkdir /disk2/backup
+# vi /disk2/backup/backupweekly.sh
+#!/bin/bash
+# 说明：
+# 这个程序是用来备份网站数据库的

@@ -1,0 +1,516 @@
+Git实践要点
+
+官方参考文献 地址：https://git-scm.com/book/zh/v2
+
+目录
+第零部分	Git基本信息
+第一部分	Git 实践
+	一、Git基础
+		1 课程综述
+		2 安装Git
+			2.1 源码安装
+			2.2 二进制安装
+		3 使用Git之前需要做的最小配置
+			3.1 配置文件路径
+			3.2 各级别配置命令
+			3.3 设定用户信息的命令
+			3.4 设定默认编辑器
+			3.5 设定色彩
+			3.6 git命令下中文名无法显示
+		4 创建第一个仓库并配置local用户信息
+			4.1 本地创建
+			4.2 从远端克隆
+		5 通过几次commit来认识工作区和暂存区
+			5.1 添加 
+			5.2 丢弃工作区的修改
+		6 给文件重命名的简便方法
+		7 通过git log 查看版本演变历史
+			7.1 查看当前分支所有提交者及其提交次数，按次数由高到低排序
+			7.2 每个月项目组统计工作绩效，统计提交每个月的git提交数
+			7.3 分析 Git 日志来统计代码量
+			7.4 git log 的帮助文档
+			7.5 查看所有的commit数
+		8 gitk:通过图形界面工具来查看版本历史
+		9 探秘 .git目录
+		10 commit、tree和blob 三个对象之间的关系
+		11 小练习：数一数tree的个数
+		12 分离头指针情况下的注意事项
+		13 进一步理解HEAD和 branch
+		14 各种比较文件
+			14.1 diff比较的区别 
+			14.2 vimdiff 工具的使用
+	二、独自使用Git时的常见场景
+		1 怎么删除不需要的分支
+		2 怎么修改最新commit的message？
+		3 怎么修改老旧commit的message？
+		4 怎样把连续的多个commit整理成1个？
+		5 怎样把间隔的几个commit整理成1个？
+		6 怎么比较暂存区和HEAD所含文件的差异？
+		7 怎么比较工作区和暂存区所含文件的差异？
+		8 如何让暂存区恢复成和HEAD的一样？
+		9 如何让工作区的文件恢复为何暂存区一样？
+		10 怎样取消暂存区部分文件的更改？
+		11 清除最近的几次提交
+		12 看看不同提交的指定文件的差异
+		13 正确删除文件的方法
+			13.1 将文件从已跟踪文件中删除，再提交
+			13.2 将文件从暂存区域移除， 但保留在工作区。
+		14 开发中临时加塞了紧急任务怎么处理？
+		15 如何指定不需要Git管理的文件？
+		16 如何将Git仓库备份到本地？
+	三、Git与GitHub的简单同步
+		1 注册一个gitHub账号
+		2 配置公私钥
+		3 在GitHub上创建个人仓库
+		4 把本地仓库同步到GitHub
+			4.1 本地库里
+			4.2 推送到远端
+			4.3 后续推送
+			4.4 从远端获取
+	四、Git多人单分支集成协作时常见场景
+		1 不同人修改了不同文件如何处理？
+		2 不同人修改了同文件的不同区域如何处理？
+		3 不同人修改了同文件的同一区域如何处理？
+		4 同时变更了文件名和文件内容如何处理？
+		5 把同一文件改成了不同的文件名如何处理
+	五、Git集成使用禁忌
+		1 禁止向集成分支执行 push -f 操作
+		2 禁止对集成分支执行变更历史的操作
+第二部分：GitHub 实践
+	一、初识 GitHub
+		1 GitHub 为什么会火？
+		2 GitHub 都有哪些核心功能？
+		3 怎么快速淘到感兴趣的开源项目？
+		4 开源项目怎么保证代码质量
+		5 为何需要组织类型的仓库？
+	二、使用 GitHub 进行团队协作
+		1 创建团队的项目
+		2 怎样选择适合自己团队的工作流？
+		3 如何挑选合适的分支集成策略？
+		4 启用 issue 跟踪需求和任务
+		5 如何用 project 管理 issue？
+		6 项目内部怎么实施 code review？
+		7 团队协作时如何做多分支的集成？
+		8 怎样保证集成的质量？
+		9 怎样把产品包发布到GitHub上？
+		10 怎么给项目增加详细的指导文档？
+第三部分：GitLab 实践
+	一、GitLab和GitHub差异及相同点
+		1 国内互联网企业为什么喜欢 GitLab？
+		2 GitLab 有哪些核心的功能？
+		3 GitLab 上怎么做项目管理？
+		4 GitLab 上怎么做 code review？
+		5 GitLab 上怎么保证集成的质量？
+		6 怎么把应用部署到 AWS 上？
+
+正文	
+
+第零部分
+Git基本信息
+
+主要功能：代码评审、项目管理  CI/CD功能(持续构建/持续发布)
+
+
+detached HEAD的含义
+push 不上  non fast-forwards
+同时push到 公司代码平台和GitHub
+rebase 不好用？ 所以只能用merge？
+master 的变更历史查询  pull --rebase 有多个 commit要rebase
+GitLab 怎么做code review
+
+
+一、吃透Git的核心概念和背后的工作原理
+二、不会使用不常见但却非常有效的Git命令
+三、分支管理不熟练， 比如集成分支没有禁用某些功能，问题频发，协作效率低下
+四、没有发挥出GitHub、GitLab 这些协作平台的最大功能
+
+
+第一部分	Git 实践
+一、Git基础
+1 课程综述
+2 安装Git
+2.1 源码安装  http://git-scm.com
+安装依赖
+Fedora 
+$ yum install curl-devel expat-devel gettext-devel \  openssl-devel zlib-devel
+Debian
+$ apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \  libz-dev libssl-dev
+
+
+$ tar -zxf git-1.7.2.2.tar.gz
+$ cd git-1.7.2.2
+$ make prefix=/usr/local all
+$ sudo make prefix=/usr/local install
+
+安装后可将git项目仓库克隆下来，随时更新
+$ git clone git://git.kernel.org/pub/scm/git/git.git
+
+2.2 二进制安装
+Fedora Linux
+$ yum install git-core
+Ubuntu Linux
+$ apt-get install git-core
+Mac 
+图形界面
+http://code.google.com/p/git-osx-insatller
+MacPorts (http://www.macports.org) 无需依赖库
+$ sudo port install git-core +svn +doc +bash_completion +gitweb
+homebrew (https://github.com/mxcl/homebrew)
+$ brew insatll git
+Windows
+http://code.google.com/p/msysgit
+
+
+
+
+3 使用Git之前需要做的最小配置
+
+3.1 配置文件路径
+System级别 /etc/gitconifg 或  Program Files\Git\etc\gitconfig
+User级别 ~/.gitconfig  或  $HOME\.gitconfig
+Project级别 my_project/.git/config
+
+3.2 各级别配置命令
+·System
+  git config --system
+·User
+  git config --global
+·Project
+  git config
+  
+3.3 设定用户信息的命令
+#git config --global user.name "lastName firstName"
+#git config --global user.email "someone@nowhere.com"
+#git config --list  
+ 
+3.4 设定默认编辑器
+#git config --global core.editor "notepad.exe"
+
+3.5 设定色彩
+#git config --global color.ui true
+
+3.6 git命令下中文名无法显示
+在使用git bash时git 默认中文文件名是 xx%
+是因为 对0x80以上的字符进行quote
+只需要运行配置
+#git config core.quotepath false
+core.quotepath设为false的话，就不会对0x80以上的字符进行quote。中文显示正常
+
+
+4 创建第一个仓库并配置local用户信息
+4.1 本地创建
+进入项目目录 $git init
+
+4.2 从远端克隆
+$ git clone git@github.com:YourName/YourProject.git 
+或者用https形式（每次推送都必须输入口令）
+$ git clone https://github.com/YourName/YourProject.git
+
+
+
+
+
+
+5 通过几次commit来认识工作区和暂存区
+5.1 添加 
+$ git add .(或选择文件) 
+
+当修改了仓库中已经存在的文件的内容的时候，只需要使用git add -u，这样可以直接将所有更改的文件更新，而不需要重新将文件加到暂存区。
+$git add -u
+
+提交修改
+$ git commit -m"Comments”
+
+5.2 丢弃工作区的修改
+没加入stated的直接丢弃，加入过的还原到加入的状态
+$ git checkout -- filename
+
+可以把暂存区的修改撤销掉（unstage），重新放回工作区
+$ git reset HEAD <file> 
+
+
+6 给文件重命名的简便方法
+$ git mv readme.txt  readme.md
+$ git commit -m 'Move read.txt to read.md'
+直接重命名的，不需要重新添加该文件，直接提交可留有记录
+
+7 通过git log 查看版本演变历史
+$ git log --pretty=oneline   
+
+
+7.1 查看当前分支所有提交者及其提交次数，按次数由高到低排序
+$ git log | grep "^Author: " | awk '{print $2}' | sort | uniq -c | sort -k1,1nr
+也可用git自带的命令
+$ git shortlog --numbered --summary
+
+7.2 每个月项目组统计工作绩效，统计提交每个月的git提交数目
+$ git log --author=yourname --since="2014-07-01" --no-merges | grep -e 'commit [a-zA-Z0-9]*' | wc -l
+
+7.3 分析 Git 日志来统计代码量
+指定用户名
+$ git log --author="_your_name_" --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2 } END { printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc }' -
+
+7.4 git log 的帮助文档
+$ git log --help 
+查看最后面的两个日志记录
+$ git log -n number
+比如：
+$ git log -n 2
+
+以一行的方式显示git log 记录
+$ git log  --oneline
+
+在git bash中以树状展示提交记录
+$ git log  --graph
+
+以树状的方式展示最后的两次提交
+$ git log --graph  -n 2
+
+一行显示+树状+最后两次记录
+$ git log --graph  --oneline -n 2 
+
+7.5 查看所有的commit数
+$ git log --oneline | wc -l
+提交删除行数
+$ git log --author="$(git config --get user.name)" --pretty=tformat: --numstat | awk '{ add += $1 ; subs += $2 ; loc += $1 - $2 } END { printf "added lines: %s removed lines : %s total lines: %s\n",add,subs,loc }'
+
+8 gitk:通过图形界面工具来查看版本历史
+$ gitk
+
+版本回退   
+HEAD表示当前版本  HEAD^ 表示上个版本 HEAD^^上上个版本 HEAD~100 上100个版本
+$ git reset --hard HEAD^  
+指定还原到特定版本
+$ git reset --hard 1094a
+
+通过查看原先的commit id 和描述回退到 指定的版本
+$ git reflog 
+
+9 探秘 .git目录
+
+
+10 commit、tree和blob 三个对象之间的关系  
+10.1 进入到有git管理的项目所在的磁盘目录下：  
+执行git log查看版本提交历史  
+每个commit都对应唯一的编号  
+
+10.2 查看指定commit具体的内容：  
+$git cat-file -p XXXXXXXX  
+看到了这个commit中有1个或多个tree  
+
+10.3 接着看下这个tree的具体内容：  
+$git cat-file -p XXXXXXXX  
+注意没显示的都是被忽略的文件，tree中又包括tree和blob  
+也可查看blob的具体内容  
+
+10.4 commit、tree、和blob三者之间的关系  
+commit存储一次提交的信息，包括所在的tree,parent是谁，以及提交的作者是谁等信息。  
+tag：标签，实际可当做是commit的别名。  
+tree：代表的是目录结构，或者简单理解为代表一个目录  
+blob：用来存储文件内容，或者说表示一个文件  
+每一次commit对应一个tree，这个tree又记录了整个文档的目录结构，文件的每一次修改又会生成一个blob，blob信息记录至少挂靠在1个tree下面。  
+
+10.5 git cat-file 命令详解  
+$git cat-file -t + 对象哈希值 命令 ， 查看 git 对象的类型  
+$git cat-file -p + 对象哈希值 命令， 查看 git 对象的内容  
+$git cat-file -s + 对象哈希值 命令， 查看 git 对象的大小  
+10.6 关系图参考  
+![commit和Tree和blob关系图](d:\工作内容\要看的电子书\版本控制version control-SVN-Git\commit和tree和blob关系图.png) 
+
+11 小练习：数一数tree的个数
+
+12 分离头指针情况下的注意事项
+
+13 进一步理解HEAD和 branch
+
+14 各种比较文件
+14.1 diff比较的区别 
+$ git diff 比较的是工作区文件与缓冲区文件的区别（修改后但未git add） 
+$ git diff --cached 或--staged比较的是暂存区与已提交库内文件（stage）文件的区别
+$ git diff HEAD -- readme.txt   工作区和分支的对比
+
+$git add的反向命令git checkout，就是将工作区提交到暂存区的数据撤销掉。
+$git commit的反向命令git reset HEAD，就是将提交到暂存区的数据以仓库数据为基准撤销暂存。
+
+14.2 vimdiff 工具的使用
+
+
+
+二、独自使用Git时的常见场景
+1 怎么删除不需要的分支
+2 怎么修改最新commit的message？
+2.1 查看当前分支的日志情况
+可在命令行上一行的括号中看先看下当前分支，如（master）
+$git log --oneline 
+可以看到最新一次commit的messag
+$git log -1
+2.2 执行变更message命令
+$git commit --amend
+打开的编辑窗口操作同VI，保存退出后可重新查看log
+
+3 怎么修改老旧commit的message？
+3.1 先查看历史日志  
+$git log --oneline  
+找到对应commit的message 的ID号  
+执行 git log + commit_ID  查看具体是否为需要修改的message  
+3.2 记录下对应的commit ID值
+使用git rebase 的交互操作 参数  -i
+例如：我们对temp分支的第三次commit的message进行变更，因为message是作为commit数据结构当中的一个属性，所以如果要对message进行变更，那么该commit的ID号是肯定要做改变的。这里需要注意一下。
+3. 要变更第三个commit的message信息，这个rebase(变基)中这个基，要选择被变更的commit的父亲的ID。就是下面一个commit（很重要）
+$git rebase -i 父Commit_ID
+4. 出现交互界面
+将对应commit id的message 做修改， 即将该行“Pick” 文字改为“reword”。保存退出。
+5. 出现新交互界面。
+编辑第一行的message后保存退出。
+出现 detached HEAD commit_ID  和 “Successfully rebased and updated refs/heads/temp.”即可。
+6. 查看git log 日志 确认
+
+修改之后的commit ID 都会变化。
+7.特别要注意！
+上边所讲的变基（rebase）的行为，是正在自己的分支上做变更，还没有贡献到团队的集成分支上。
+假如已经贡献到集成分支上，就不能轻易的使用变基了。不然会影响到团队的其他成员。
+
+4 怎样把连续的多个commit整理成1个？
+5 怎样把间隔的几个commit整理成1个？
+6 怎么比较暂存区和HEAD所含文件的差异？
+7 怎么比较工作区和暂存区所含文件的差异？
+8 如何让暂存区恢复成和HEAD的一样？
+9 如何让工作区的文件恢复为何暂存区一样？
+10 怎样取消暂存区部分文件的更改？
+11 清除最近的几次提交
+12 看看不同提交的指定文件的差异
+$ git diff commit-id1 commit-id2 path-to-filename
+
+
+13 正确删除文件的方法
+13.1 将文件从已跟踪文件中删除，再提交
+$ git rm NeedDelete.txt 
+同时会工作目录中删除，也不会出现在未跟踪文件列表中
+
+不建议直接从工作目录删除，被删除查看状态会
+$ git status
+还需要 $ git rm NeedDelete.txt 记录此次操作
+提交后该文件就不列入版本管理
+
+之前提交过也修改过内容的文件，需要 $git rm -f NeedDelete.txt  强制
+
+13.2 将文件从暂存区域移除， 但保留在工作区。比如日志文件不小心纳入仓库， 移出跟踪，不删除文件。后续在 .gitignore添加
+$ git rm --cached log2019.1.1.txt
+$ git rm log/\*.log
+
+14 开发中临时加塞了紧急任务怎么处理？
+隐藏工作区域
+git stash
+git status
+查询隐藏的列表
+git stash list
+处理完bug，提交之后，再恢复隐藏的工作区域
+git stash pop
+
+
+15 如何指定不需要Git管理的文件？
+编写 .gitignore 
+采用glob 模式匹配  
+
+16 如何将Git仓库备份到本地？  
+
+三、Git与GitHub的简单同步
+1 注册一个gitHub账号
+用邮箱注册
+2 配置公私钥
+需要先在windows的git bash或Mac（Unix、Linux）下终端 用命令生成私钥和公钥
+$ ssh-keygen -t rsa -C "yourEmail@example.com" 
+pathphrase 可不用设置（若设置后需要每次push时输入）
+
+公钥可发布，私钥保存好
+windows下默认保存的ssh 秘钥和公钥 路径
+c:\Users\userName\.ssh\  
+如没有id_rsa 两个文件 
+id_rsa
+known_hosts
+id_rsa.pub
+要推送到github上， 需要登陆后在"Personal Settings——SSH and GPG Keys " 添加公钥进去，支持多台PC端名称作为备注。目前vingleo账号下已有dell-laptop(此为公司笔记本)和macbook-pro-mid2012 两台，如有无法使用可以重新在客户机生成ssh秘钥。
+
+还有提示无法访问远端主机，根据提示的ip，将它添加到自己电脑到hosts文件中，如13.229.188.59为例：
+13.229.188.59   github.com
+
+3 在GitHub上创建个人仓库
+创建同时可以生成 README.md， 目前可以免费使用private 和 public
+
+
+4 把本地仓库同步到GitHub
+4.1 本地库里 $git remote add origin git@github.com:YourName/YourRepository.git
+注意要保证ssh公钥添加到github
+origin 一般是默认的远程库名称，也可改为别的
+
+4.2 推送到远端
+$git push -u origin master 
+-u 参数将本地的master分支和远端master 分支关联，简化 推送和拉取命令
+
+4.3 后续推送
+$git push origin master
+
+4.4 从远端获取
+有pull fetch两种命令之分
+*********************************************
+不要用git pull，用git fetch和git merge代替它。
+git pull的问题是它把过程的细节都隐藏了起来，以至于你不用去了解git中各种类型分支的区别和使用方法。当然，多数时候这是没问题的，但一旦代码有问题，你很难找到出错的地方。看起来git pull的用法会使你吃惊，简单看一下git的使用文档应该就能说服你。
+将下载（fetch）和合并（merge）放到一个命令里的另外一个弊端是，你的本地工作目录在未经确认的情况下就会被远程分支更新。当然，除非你关闭所有的安全选项，否则git pull在你本地工作目录还不至于造成不可挽回的损失，但很多时候我们宁愿做的慢一些，也不愿意返工重来。
+*********************************************
+
+pull语法
+$ git pull <远程主机名> <远程分支名>:<本地分支名>			
+例：取回origin主机的next分支，与本地的master分支合并
+$git pull origin next:master
+例：远程分支(next)要与当前分支合并，则冒号后面的部分可以省略。
+$git pull origin next
+
+四、Git多人单分支集成协作时常见场景
+1 不同人修改了不同文件如何处理？
+
+
+
+2 不同人修改了同文件的不同区域如何处理？
+3 不同人修改了同文件的同一区域如何处理？
+4 同时变更了文件名和文件内容如何处理？
+5 把同一文件改成了不同的文件名如何处理
+
+五、Git集成使用禁忌
+1 禁止向集成分支执行 push -f 操作
+2 禁止对集成分支执行变更历史的操作
+
+第二部分：GitHub 实践
+一、初识 GitHub
+1 GitHub 为什么会火？
+2 GitHub 都有哪些核心功能？
+3 怎么快速淘到感兴趣的开源项目？
+4 开源项目怎么保证代码质量
+5 为何需要组织类型的仓库？
+
+二、使用 GitHub 进行团队协作
+1 创建团队的项目
+2 怎样选择适合自己团队的工作流？
+3 如何挑选合适的分支集成策略？
+4 启用 issue 跟踪需求和任务
+5 如何用 project 管理 issue？
+6 项目内部怎么实施 code review？
+7 团队协作时如何做多分支的集成？
+8 怎样保证集成的质量？
+9 怎样把产品包发布到GitHub上？
+10 怎么给项目增加详细的指导文档？
+
+第三部分：GitLab 实践
+1 国内互联网企业为什么喜欢 GitLab？
+2 GitLab 有哪些核心的功能？
+3 GitLab 上怎么做项目管理？
+4 GitLab 上怎么做 code review？
+5 GitLab 上怎么保证集成的质量？
+6 怎么把应用部署到 AWS 上？
+
+
+
+
+
+
+
+

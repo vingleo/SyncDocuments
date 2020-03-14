@@ -1,0 +1,828 @@
+
+Logic pro 官方帮助文件 https://help.apple.com/logicpro/mac/10.4.7/#/lgsife419f90
+www.soundonsound.com/series/synth-secrets
+learningmusic.ableton.com
+Cubase Pro 10.5 Manual  https://steinberg.help/cubase-manuals/cubase-pro/cubase-10-5/
+https://www.steinberg.net/fileadmin/files/PRODUCTS/Apps/Cubasis/Cubasis_Help/ACCESSORIES.html
+Korg Krome https://www.korgclub.cn/zh/products.asp?id=3
+Korg English version help https://www.korg.com/us/support/download/#
+Roland r-26  Manual http://www.roland-china.com/support/support_documents/n_s  
+Yamaha Modx Manual  https://asia-latinamerica-mea.yamaha.com/en/support/manuals/index.html?l=zh&c=&k=modx  
+Yamaha FM Converter  https://yamahasynth.com/index.php?option=com_content&view=article&id=111&Itemid=937
+Sylenth1 manual    https://www.lennardigital.com/sylenth1/manual.php
+Ableton Live 10 Mac中文版 10.1.7   https://www.7down.com/mac/337177.html
+Yamaha 音色下载网址 bobbyblues.recup.ch
+
+
+
+
+
+
+静态声音三要素：
+振幅 - 振动越大音量越大。 音量（Volume） - 振动物体迫使运动的空气分析的数量决定。原始振幅和放大后振幅的比例就是“增益” Gain
+频率 - 振动的快慢，慢的音调低。每秒钟空气压缩和释放的次数，称为“周期”，或振动频率。 Hertz， 决定音高（Pitch）
+波形 - 波形决定声音的泛音频率分布情况和各个泛音频率上的声压强度（倒锯齿波Intverse Saw，方波进行脉冲宽度调制（Pulse Width Modulation）行成脉冲波PWM）
+物体振动“振荡” 速度越快，压缩和释放之间的周期越短。
+
+相位Phase - 物体振动周期内都会反复通过相同的位置，在运动中的每个单独的位置。每次振动周期从零点开始，振动后再次通过这个位置。称为零点交叉（Zero Crossing）
+相位抵消 - 两个波形频率相同但相互180°反相，第一个波形达到顶峰，第二个达到低谷，将不会产生声音。
+谐振 Sympathetic Vibration - 琴弦的振动频率符合其他琴弦的固有振动频率，将带动这些琴弦一起振动。大部分乐器的发声依据此原理。
+基频 - 最低频率的整数倍的频率都相互呈和声关系（毕达哥拉斯三大定律）
+1. 音的频率乘以或除以2，产生同音不同八度。
+2. 音的频率乘以或除以3，产成强烈的和声关系。
+和第一定律结合，2:3的比例形成了纯五度，产生音阶
+3. 音的频率乘以或除以5，产成强烈的和声关系。
+和第一定律结合，5:4的比例形成了大三度
+
+单一正弦波产生的单音色叫基频，决定了音符音高。更多相位偏离的正弦波叠加，若与基频成整数倍关系叫“谐波”Harmonic ， 不与基频成整数倍叫“分波” Partial，都增加波形复杂性。通过调整谐波和分波的不同成分，产生各种音色变化。
+基频影响音高
+谐波影响音色
+
+
+
+
+动态声音要素：
+1.音长 毫秒（ms）音长 ≠ 节奏
+影响音长因素：不同力度、不同音高（音调越低越久）、不同材料等自然属性和使用信号处理器、效果器改变。
+2.音量包络
+声音持续时，响度随时间的改变自身也在变化。这是动态声音自然属性，称音量包络，可通过软硬件制造或控制。淡入淡出
+3.声像包络 - 感知声音的方向
+4. 表情控制包络 
+
+总结:  只要是可变量（时间、频率、音调）等，都用发生包络的设备来实现。
+
+
+频谱仪 - 观察声音的频率分布情况，显示为图形，称为声谱图。
+
+控制电压 - CV  Control Voltage
+
+
+
+
+WT POS   -- Wave Table Position
+减法合成器
+构成：
+OSC：合成器的发声源 里面有不同的波形参数：正弦波 方波 锯齿波 三角波 噪音
+Env：控制发声的状态 声音的快慢或者强弱。FM合成器里它也可以用来调制其他的参数
+LFO：来调制我们的OSC振荡器让它的声音充满动态，比如哇呜哇哦的声音
+Filter：改变声音的色彩 ，是明亮还是暗淡
+AMP：声音放大器 
+detune	:	失谐
+
+
+
+
+
+波表合成器
+FM合成器
+采样合成器
+粒子合成器
+共振峰合成器 Formant Synthesis
+
+什么是 AUv3 – iOS Audio Unit 插件支持 
+
+测试ipad上合成器 旋钮  Double click 恢复预设值的功能
+
+
+Intensity 旋钮 
+Amp  --  amplitude　　　振幅（しんぷく）
+
+第2章 认识合成器
+
+
+低频振荡器
+Phase 波形相位控制端，表示振动开始的位置，也叫做定位控制端。慢速运动的波形移动在不同位置会带来不同的感觉。
+1-shot 模式 ，每次触发低频振荡器，波形只进行一个周期工作。
+2. 低频振荡器与常规振荡器的区别
+其频率Freq 受控于自身设定和接入其端口的其他控制设备，和键盘音高无关。操作控制上称为”速率“--Rate或Speed
+其振幅Amp 控于自身设定和接入其端口的其他控制设备，和琴键下键力度无关。操作控制上称为”深度“--Depth后Amount
+
+其作用是控制其他随时间改变的可变量参数，所以Output信号输出端用来接入受控设备而非音频方大设备。
+实际使用时用来控制包络完成自动控制。
+低频振荡器发生的频率影响到声像左右晃动的速度--速率；
+低频振荡器发生的振幅影响到左右晃动的范围--深度
+
+2.1.3 滤波器
+Filter ， 在电压控制的模拟合成器上写为VCF（Voltage Controlled Filter）
+减法合成的必需设备，用来对合成器中的声音进行波形滤除，达到修饰声音的目的。
+具备4要素：
+滤波类型：在工作时的状态
+截止频率：发生作用的频率位置，也叫截频位置。单位：赫兹（Hz） cutoff
+共振能量：强调声压在截止频率上的能量大小，也叫共鸣强度。单位百分比（%）Res
+衰减斜率：滤波器对截止频率进行衰减的缓急程度。单位：分贝（dB）/八度（Octave）  slope
+
+滤波类型决定滤波器性质和功能
+低通滤波器（Low Pass Filter）：让截止频率以下区域的声音通过，滤除其以上区域的声音。
+高通滤波器（High Pass Filter）：让截止频率以上区域的声音通过，滤除其以下区域的声音。
+带通滤波器（Band Pass Filter): 让截止频率频段之内的声音通过，滤除其两边区域的声音。
+带除滤波器（Band Reject Filter）：让截止频率以外的声音通过，滤除其自身区域的声音。
+
+要注意滤波器的截止频率可以改变其位置，截止频率设置得非常高时，低通滤波器同样能让高频通过。要配合滤波器类型正确地设置其截止频率的参数才能用好滤波器。
+
+滤波器处理音频信号时，截止频率处并不是直接将要滤除的部分砍掉，而是经过了一个“斜坡”慢慢衰减后，逐渐消失。
+斜坡的陡度，就是衰减率--弯曲值（Slope）。  按单位固定，分贝（dB）/八度(Octave）)
+常见 -6dB/Oct  、 -12dB/Oct 和 -24dB/Oct ,数字越大斜坡越陡，衰减越厉害。
+
+听觉上，如高于截频位置（440Hz）以上的声音被衰减，直到更高处完全消失，明亮的噪音变沉闷了。
+
+2.1.4 包络发生器
+Envelope Generator 简称 Env或 EG
+
+包络发生器
+
+包络线弯曲值 - Slope
+触发时间值 - Attack  起音
+衰减时间值 - Decay 回落
+延留时间值 - Sustain 保持
+释放时间值 - Release 释音
+
+键盘下键到抬起所控制的区域
+横坐标 Time
+纵坐标 Volume
+
+触发 - 从0 到Max Level时间
+衰减 - 从Max Level 到保持水平的时间
+延留 - 保持延留不变的时间内的 Sustain Level 
+释放 - 从延留到0的时间
+
+
+包络发生器和低频振荡器的区别
+包络发生器被出发后，不再次或反复触发不具有周期性和重复性；
+低频振荡器启动后， 随时间移动按照固定波形轨迹来运动。具备周期性和重复性。
+
+2.1.7 放大器 Amplitude  或者 Master 、 Main
+模拟合成器上写为 VCA（Voltage Controlled Amplitude） 只要控制输出音量（Master Output Volume/Level、增益 Gain 和声像（Pan）
+
+
+2.2 效果设备
+信号处理器（均衡，压缩） -- 控制声音增益（Gain）
+效果器（混响、延迟） -- 控制声音干湿比例（Mix）  = 音频处理效果器 Effects 、 声音效果FX
+
+
+2.2.1 均衡处理器 Equalizer 简称EQ
+本质为多段多带的滤波器，增益能量不如滤波器的共振能量提升明显，对频率段的划分更精细。
+滤波器适合前期对声音大幅度处理，均衡器适合后期对声音进行精细修改。
+
+分两大类：图示均衡器和参量均衡器
+1. 图示均衡器 
+各个可调频率段是固定在设备上不变。只能通过提升和衰减各个频率段上的音量增益来达到处理音频信号的目的。一般标准硬件图示均衡器分31个频率段，许多集成在调音台等设备的均衡器只有高、中、低3个频率。
+2. 参量均衡器
+可控制任意一个点选择需要处理的频率位置和增益强度。更加精确地定义需要处理的地方，采用包络线对各个频率点进行连接。可以自定义包络线类型。
+坐标和升声谱图一致，X轴代表频率， Y轴代表音量。
+主要常用参数
+[TYPE]: 频点类型（高通、低通等）
+[Freq]: 频率位置
+[Gain]: 增益
+[Q]: Q值，决定需要处理所在频点位置上的带宽区域大小。
+
+2.2.2 压缩处理器 - Compress
+处理音频信号“动态”。记录音频信号，最高电平和最低电平各有一个限度，这个限度之间的声压范围叫动态范围（Dynamic Range）。
+通俗说法，一段音频中， 最大音量与最小音量之间的音量差距大小。采用声压振幅单位：分贝（dB) decibel
+压缩处理器的作用是缩小音频信号中最高电平与最低电平之间的动态范围，使其提高整体音量时避免音频信号 失真，另声音更清晰，突出表现音乐和声音的细节部分。
+
+将声音录入电脑、采样器或录音机应该尽量获取最响的信号，可以避免在后期大幅度增加音量。若后期增加电平，除了会使音源的音量提高，也加大了背景噪声的音量。
+
+
+
+
+用来做动态处理还有扩大音频信号动态范围的"扩展处理器 - Expand”；
+用来是微弱低电平声音变得听不见的“噪声门 - Gate"；
+将音频信号限制在一个固定电平内的“限制器 - Limiter”；
+
+主要处理参数
+{Threshold}: 压缩阈值。决定对信号进行压缩处理的电平大小位置。
+[Ratio]: 决定对超过所设压缩阈值的音频信号电平进行压缩处理的强度。
+[Attack]: 启动时间。音频信号电平超过设定阈值后， 达到所设压缩比例的处理强度所经过时间。
+[Release]: 释放时间。音频信号电平离开设定阈值后， 完全逃离压缩器所进行的压缩处理了经过的时间。
+
+2.2.3 混响效果器 - Reverb (回响)
+模拟声音在一定空间内因声波的反射而造成的空间感。听觉上，将枯燥干涩的声音变得柔美和湿润。
+常用来修饰人声和乐器。对于一般的声学乐器音色，需要模拟音乐厅的环境来调试混响效果，才能表现出声学乐器应有的声学特性美。
+
+主要参数：
+[Predelay]: 预延迟。 控制直达声与第一次混响之间的时间间隔。
+[Time/Decay]: 衰减时间。控制混响效果慢慢消失所需要的时间。
+[Reverb]:混响强度。控制混响效果能够产生的作用强度。
+[Size]:空间大小。决定混响声场的空间大小。
+[Lo Damp]：低频阻尼。决定声音在反射时被吸收了部分低频后所得到的剩余低频强度。
+{Hi Damp} 高频阻尼。决定声音在反射时被吸收了部分高频后所得到的剩余高频强度。
+[Mix]: 干湿比例。决定输出时原始干声与混响湿声所占比例大小。
+
+2.2.4 失真效果器 - Distortion
+常用在电吉他，把清晰的声音变得嘈杂。
+工作原理是降低标准电平阈限0dB的位置， 特意让电平信号过载而产生失真。
+过载处理器 - Overdrive 与失真效果器类似。将信号放大，不停冲击标准电平阈限0dB 后得到的效果。用于电吉他和电子乐器的音色修饰。
+
+主要参数 
+[Dist/Drive] : 失真强度。决定对信号进行失真处理的强度。
+[Gain]：增益强度。决定对型号进行增益处理的强度。
+[Tone]: 声音色彩。选择偏向沉闷还是明亮。
+
+2.2.5 延迟效果器 - Delay
+概念来自回声。相对混响更有颗粒感和清晰度。每次声音延迟反弹的时间间隔会更久。
+原理是将原始声音信号输出的同时又将原始声音信号进行复制，然后按照用户所设置的延迟时间来进行反复再输出。
+
+立体声延迟效果器 （Stereo Delay) 还增加实现了延迟声在声像声场位置里的自由变化，让声音时左时右时远时近反复跳跃。
+回声效果器 - Echo 与延迟效果器有时整合一个设备上。
+主要参数 
+[Time]：延迟时间。决定原始声与延迟声之间的时间间隔。
+[Feedback]：反馈数量。 决定延迟效果的持续时间或反复次数。
+[Mix]:干湿比例。输出时原始干声与延迟湿声所占比例大小。
+
+2.2.6 合唱效果器 - Chrous
+另声音变得丰厚饱满。由各个演唱者的音色、音高和音长等因素不同而造成群体感。
+原理：一个控制着音高音长的低频振荡器，让原始声产生微量的晃动用来模拟出合唱的群体感。
+
+立体声处理，可以用于立体声声场内，拓宽声音声场。
+主要参数 
+[Rate]:	合唱速率。决定合唱效果的发生速率快慢。
+[Depth]： 合唱深度。决定合唱效果的发生深度大小。
+[Width]：声场宽度。决定合唱效果的立体声声场扩宽程度。
+
+2.2.7 移相效果器 - Phaser
+将输入的原始音频信号进行分离，将其中一个音频信号进行全通滤波处理，再将它们混合，来产生频率上的峰谷和峰顶。同样采用一个低频振荡器对立体声中每个通道进行相位差调制。
+主要参数
+[Rate] ：移相速率。决定发生速率的快慢。
+[Depth]：决定发生深度大小
+[Width]：决定立体声声场宽度。
+
+2.2.8 镶边效果器 - 弗兰戈效果器 Flanger 
+将原始信号复制，加上延时效果后再进行移相处理。是声音回旋与声场中。变梦幻和缥缈感觉。融合了延迟效果和移相效果的双重效果器
+常用参数
+[Rate]:镶边速率。决定发生速率快慢
+[Depth]：镶边深度 决定发生深度大小
+[Delay]：镶边延迟 决定延迟时间间隔
+[Feedback] ：反馈数量 决定持续时间或反复次数
+
+2.2.9 哇音效果器 - Wahwah
+利用参量均衡器提高某一频率的声压能量，并在这个频率和高频之间的区域进行来回扫动产生的效果。
+分手动和自动哇音
+主要参数
+[Speed]：速率。决定速率快慢
+[Range] ：范围。决定扫频范围大小
+[Mode]：模式，可选择Auto - 根据 Speed和Range的设置来发生，或Manual - 根据踏板等控制器作用。 
+
+2.9.10 限幅器 -- Limiter
+
+2.9.11 门 -- Gate
+
+
+
+
+2.3.2 琶音器 - Arpeggiator  简称 Arp
+按操作方式分 参数琶音器和步进琶音器
+参数琶音器：设置好琶音模式、速度、八度等参数就能快速完成琶音动作。
+步进琶音器：配备琶音图示编辑窗（Pattern Editor） 自由写入琶音的音符、节奏、范围和速度等详细参数。可以为用户创建各种分解和弦类型和节奏类型。
+成为现代电子音乐快速跳跃音型制作的必备工具。配合一些延迟，并和声像上的效果器同时采用，音乐中色彩效果会变得更加绚丽和动感。
+
+2.3.3 音序器 - Sequencer
+记录和编辑 MIDI信息的设备。合成器集成音序器后除了演奏，还可编曲、音乐制作。变成音乐工作站
+
+
+
+MIDI THRU & Daisy Chain  Demo
+
+
+
+
+
+
+***************************************
+中英文对照
+Polyphonic	--	和弦
+GROOVE	--	律动
+cutoff	-- 截止频率
+slope	-- 衰减率
+simultaneously	--	同时的，同步的
+acoustic	--	声学的 [ku:]
+omnidirectional	--	全向
+excessive	--	过大
+Resonance	--	共振  这将强调截止频率附近的泛音谱，为声音增添独特的特征。 较高的设置会强调泛音，增加共振效果。
+EXCITER -- 激励  调整高频区域，较高的设置将使高频区域更明亮，更清晰。
+
+Envelope Generator	-- 包络发生器
+Granular -- 粒子
+Peak	-	峰值
+RMS	-	平均值
+ 除了鼓和打击乐，都建议使用RMS
+
+side Chain	-	侧链：播放唱片时讲话，音乐音量降低，说话一停止，音乐回到原来的音量。
+wet/dry  - 干湿比例 调整原声用与效果声的混合输出比例
+
+Instrument 
+Articulation - 清晰程度
+Genre - 风格流派
+
+Portamento - 滑音
+Overdrive - 过载处理器 
+Tube Amp - 电子管放大器 
+Cabinet - 音箱模拟器
+Shelving EQ - 斜坡式均衡器
+Tremolo  - 振音效果器
+Psyche Delay - 神经延迟
+narration - 旁白
+legato - 连奏
+HARMONICS - 谐振
+
+
+Timbre - 音色品质
+Ribbon controller -
+
+VDF - Variable Digital Low PassFilter 数字低通滤波器
+VDA - Variable Digital Amplifier  电压数字放大器
+
+Vibrato(VIB) - 颤音
+glissando - 滑音
+expressive manner - 表达方式 
+Guitar/Plucked - 弹拨
+conventional = common - 常规
+polyphony - 复音
+
+
+
+五线谱
+step - 符杆
+note head - 符头
+flag - 符尾
+open note head - 空心符头
+closed note head - 实心符头
+
+Treble Clef - 高音谱号
+Fine(F)   
+Does(D)
+Boys(B)
+Good(G)
+Every(E)
+
+E
+C
+A
+F
+
+Bass Clef
+Around
+Fool
+Don't 
+Boys
+Good
+
+Grass
+Eat
+Cows
+All
+
+
+
+pp（很弱）
+p（弱）
+mp（中弱）
+mf（中强）  -- 默认常用音量
+f（强）
+ff（很强）
+fff（特强）
+
+
+
+
+【类别】
+Rock
+Pop Rock
+Ballad 
+Chillout / Ambient
+Hip Hop
+Funk
+Modern R&B
+Classic R&B
+House /Dcance Pop
+Techno / Trance
+Jazz /Swing
+D&B / Breakbeats
+Latin
+World
+General
+
+
+
+Ionian（1） Dorian（2） Phrygian（3） Lydian（4）
+Mixolydian（5） Aeolian（6） Locrian（7）
+来源古希腊调式
+我的霹雳猫阿洛
+ 
+ 
+-------------------------------------------------------
+
+
+要通过找视频资料、网页介绍观察比对Gadget2
+Kamata -- Wave Table Synthesizer -- ¥68
+Gladstone -- Acoustic Drum Module -- ¥68
+Madrid -- Dynamic Bass Machine -- ¥68
+Vancouver -- Layering Melogy Sampler -- ¥68 
+Lisbon -- Poly Sci-Fi Synthesizer -- ¥68 
+Stockholm -- Octo-Sampler Loop Player -- ¥68  
+Ebina -- TAITO ARCADE Synthesizer -- ¥68 
+Otorii -- SEGA 16-BIT DRUM Machine -- ¥68 
+Gadgets from KORG Module -- ¥128 
+Lexington from ARP ODYSSEi -- Duophonic Analogue Synth -- ¥98
+Milpitas from KORG iWAVESTATION -- Wave Seq Synth -- ¥98
+Montpellier from KORG iMonoPoly -- ¥98
+Memphis from KORG iMS-20 -- Semi-Modular Analogue Synth -- 已购
+Pompei from KORG iPolysix -- 6Voices Polyphonic Synth --已购
+
+[硬件]
+TB303 -- 贝斯合成器
+
+TR808 -- 鼓机
+TR909 -- 鼓机
+
+-------------------------------------------------------
+
+GATE 门限是什么含义？ 按住音符的持续时间
+Combi 、Seq 的含义?
+答： Korg的Combi 和 Yamaha的Performance 、Roland的 scene 场景类似
+
+用在Montage 贝森朵夫帝王钢琴 扩展包 能否用在 Modx上？ CP-1钢琴音色，S90es钢琴音色包，Motif ES和Motif XF经典钢琴音色
+Montage和Modx的异同点对比
+
+Bosendorfer Imperial 290
+
+
+Kronos的SGX-1 声音比Montage扎实，包含钢琴音色数量多。Kronos2包含意大利音色（Fazioli）
+
+冒红  ？
+削波  ？
+
+
+
+
+电音曲风 EDM 
+TR式录音 为什么含义
+
+
+舞曲音乐人	曲名	原音乐人	原曲名
+Stardust|Music Sound Better With you|Chaka Khan	|Fate
+Armand Van Helden|HYOu Don't Know Me|Carrie Lucas|Dance With You
+David Morales|Needin' You|Rare Pleasure The Chi-lites|Let MeDown Easy My First Mistake
+Daft Punk|Didital Love|Georage Duke|I Love You More
+Phats and Small	| Turn Around | Tony Lee Change | Reach Up The Glow Of Love
+
+【风格】
+Techno 130~150 BPM
+1981 A Number of Names Shari Vari
+Donna Summers - I Feel Love 
+Cybotron - Techno City
+Belleville Three
+1988 Techno-The New Dance Sound of Detroit - Neil Rushton
+Thomas Krome、Redhead Zync、Henrik B、Tobias、Carl Craig、Kenny Larkin、Richie Hawtin
+推荐
+Derrrick May
+Juan Atkins
+Kevin Saunderson
+Eddie Fowlkes
+Richie Hawitin(Plastikman)
+Carl Craig
+Kenny Larkin
+Stacey Pullen
+Jeff Mills Mike Banks
+James Pennington
+Robert Hood
+Blake Baxter
+Alan Oldham
+
+
+
+
+流行歌曲结构
+Intro	-	前奏
+Verse	-	主歌
+Pre-Chorus	-	前副歌
+Chorus	-	副歌
+Bridge	-	桥段
+Interlude	-	间奏
+Inst solo	-	乐器独奏
+Outro	-	尾奏
+pan - 声像
+
+合成器插件安装形式
+
+VSTi （Virtual Studio Technology  Instruments  of Steinberg）- Cubase、Nuendo、FL Studio、Live、Sonar（5.0后）、Audition（3.0后） 宿主软件
+DXi - Sonar 4.0前
+RTAS - Pro Tools
+
+
+WaveStation
+
+Oscillator * (ABCD 共4个)  -- Wave（256 max）-- Wave SEQ --  Performance  （8 Part max）
+
+
+
+*****************************************************************************************
+logic pro x 安装外部音源方便吗？
+(虽然知道logic自带音色很全面)，但是与Windows的cubase fl等相比，想要加载外部音源方便吗？大概要怎样安装？
+非常方便。目前第三方 Audio Unit 插件基本都是通过 pkg 包来安装，安装过程中会提示你选择需要安装的插件格式，勾选 AU 即可，插件会被安装到 /Library/Audio/Plug-Ins/Components 当中。安装完成后再启动 Logic 或 MainStage 时，会自动扫描已安装插件。
+
+比windows下差不多，或者更简单省事。而且方便管理。Logic Pro X只支持AU插件。大的音源如NI公司的，是pkg安装包，点击下一步下一步就好。直接安装在主磁盘里，或者选择安装在移动硬盘里。注意勾掉不要的插件类型AXX之类的。安装起来和windows还是挺像的，而且比windows简单。比较小的插件直接拖到Library下对应插件的文件夹里就行了。Mac OS系统里专门有一个文件夹给你放音频插件的，比windows下vst插东一个西一个好整理多了。
+
+*********************************************************************************************
+macOS 下 FFmpeg 视频转码入门及进阶使用心得
+
+
+
+如今较为常见的视频封装格式有 mp4 和 mkv 等， 内部的视频编码格式从前几年盛行的 H.264/x264 逐渐开始向新一代的 HEVC/x265（ High Efficiency Video Coding 高效视频编码）过渡，而常见的音频编码格式无非 AC3、DTS 或者 AAC 等。无论是借助带有 GUI 的编码软件，还是使用命令行，FFmpeg 是最为广泛使用的工具，理论上 FFmpeg 支持各个平台，包括 Windows、macOS、iOS 以及 Android 等，这里只介绍在 macOS 下的使用。通过简单的命令，你可以大致了解 FFmpeg 在视频转换上的强大之处，视频编码部分也集中在 x264、x265，以及如何压制 macOS High Sierra 和 iOS 11 可以正确识别并生成缩略图的 HEVC 10bit 视频。最后会用一个较为复杂的例子，应用 -filter_complex 进行视频帧率的插值运算、嵌入 pgs 图形字幕，以及最后输出 HEVC 编码进行说明。
+安装
+
+如果有看过我以前文章的朋友，可能会注意到使用 Homebrew 编译 mpv 的一个重要依赖就是 FFmpeg。不过，如果将其用作视频转码，默认编译的 FFmpeg 会缺少一部分组件，因此这里可能需要重新安装 FFmpeg。以我个人编译版本为例，使用 --HEAD 来配合最新的 mpv，在 Terminal 中输入如下命令：
+
+brew install ffmpeg --HEAD --with-fdk-aac --with-sdl2 --with-freetype --with-libass --with-libbluray --with-libvorbis --with-libvpx --with-opus --with-webp --with-x265
+
+等待安装结束即可。
+基础篇
+压制 x264 编码视频文件
+
+ffmpeg -i input.mp4 -c:a libfdk_aac -c:v libx264 -crf 20 -preset slow output.mp4
+
+使用 FFmpeg 编码的基本规则， -i 之后的文件为输入的视频文件，即 input.mp4 ，支持的格式众多，例如 mkv、flv、vob 等等，文件可以包含目录，使用 macOS 的文件拖拽功能很方便。output.mp4 即为输出文件，文件名可自定义，视频封装格式建议对应编码格式，不应将 mpeg-2 或者 vp8 编码的视频也封装为 mp4。-c:a 之后表示输出文件的音频编码器，一般 mp4 常用的音频编码为 AAC-LC，按照官方 Wiki 指南，建议使用编码器 libfdk_aac 而不是 aac，libfdk_aac 音质更好，这也是为什么在前文中编译 FFmpeg 增加 --with-fdk-aac 的原因。-c:v 之后代表输出文件的视频编码器，使用 libx264 即可压制 x264 编码的视频流。-crf 20 代表视频编码的码率系数，数字越大，压制的效果越差，建议选择范围在 16 - 28，压制高质量的视频建议取值 20 以下。-preset slow 代表一组控制压缩时间和文件大小的参数选择，一般常选 fast、medium 和 slow。
+
+以上都是基于 one-pass 压制，如果需要严格控制码率则需要使用 two-pass，更详细的介绍，可以参考 Encode / H.264。
+压制 HEVC 10bit 编码视频文件
+
+其实 FFmpeg 很早就开始支持 HEVC (x265) 的视频转码，只是一直改动较大，而最近的版本也终于支持编码 macOS High Sierra 下 Quicktime 可以播放，并且在系统中能够正确预览并生成缩略图的视频文件。编码命令的改动很小，添加一个 format tag 参数即可，如下：
+
+ffmpeg -i input.mp4 \
+       -c:v libx265 -preset medium -crf 18 -pix_fmt yuv420p10le \
+       -c:a libfdk_aac -b:a 256k \
+       -tag:v hvc1 \
+       output_10bit.mp4
+
+和压制 x264 视频非常类似，主要的不同点在于 -c:v 视频编码器需换为 libx265，并且压制 10bit 需要指定色彩空间，添加 -pix_fmt yuv420p10le。在音频编码参数中，如何增加的 -b:a，可以控制音频文件的码率，按需使用。最后，非常重要的一点，必须添加参数 tag:v hvc1，这样输出的 Video Stream 会被标记为 hvc1，可以被 macOS 以及 iOS 11 原生支持播放，否则默认会被标记为 hev1，不被原生支持，第三方播放器播放倒没什么问题。
+进阶篇
+修改视频分辨率
+
+假如原视频的分辨率为 1920x1080，为了降低文件大小，最简单的办法是将其转压成一个分辨率较低的版本，例如 720p，即 1280x720，那么我们可以使用 scale 视频滤镜来缩放视频：
+
+ffmpeg -i input.mp4 -vf scale=-2:720 -c:v libx264 -crf 20 -preset slow -c:a copy output.mp4
+
+-vf scale=-2:720 会自动计算对应的横向分辨率（需为 2 的倍数，因此为 -2 ），源文件音频编码保持不变，因此设为 copy 即可。特殊情况下，遇到源文件视频比例错误，除了修改分辨率数值，还需要设置 dar 参数，例如：
+
+ffmpeg -i input.avi -vf scale=722x406,setdar=16/9 -c:v libx264 -c:a libfdk_aac -preset slow -crf 20 output.mp4
+
+另外，绝对不建议增大分辨率，因为毫无意义，受限于原视频的视频质量，增大分辨率除了体积增大，画质只会更差。
+反交错（ Deinterlace ）
+
+偶尔我会遇到一些早期使用 VCD/DVD 时代编码的视频，其中一个重要的特点就是隔行扫描，而直接转码的结果就是视频中快速运动的物体都能看到非常明显的扫描线。解决办法同样需要应用 vf 视频滤镜中的 yadif 来进行反交错，如下：
+
+ffmpeg -i input.vob -vf yadif -c:v libx264 -preset slow -crf 20 -c:a libfdk_aac -b:a 256k output.mp4
+
+如果压制出来的效果不佳（还是有扫描线），可以尝试将 vf 的部分改为 -vf yadif=1:-1:0,mcdeint=2:1:10。
+旋转视频
+
+需要将原视频进行旋转，同样可以应用视频滤镜来达到目的，如下：
+
+ffmpeg -i input.mov -vf "transpose=1" -c:a copy output.mov
+
+其中，
+
+0 = 90 Counter Clockwise and Vertical Flip  (default) 
+1 = 90 Clockwise 
+2 = 90 Counter Clockwise 
+3 = 90 Clockwise and Vertical Flip
+
+如果想要 180 度翻转视频，则需要改为 -vf "transpose=2,transpose=2"。值得注意的是，旋转视频意味着对视频进行重编码，输出质量会稍微受到影响，可以添加 crf 参数控制视频输出质量，音频部分可以使用 copy。
+一个复杂的“栗子”
+
+最后的这个例子，是我最近遇到的一个视频，简要的编码信息如下：
+
+Input #0, matroska,webm, from 'Input.mkv':
+    Duration: 00:23:55.97, start: 0.000000, bitrate: 16372 kb/s
+    Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x1080, SAR 1:1 DAR 16:9, 59.94 fps, 59.94 tbr, 1k tbn, 59.94 tbc (default)
+    Stream #0:1(jpn): Audio: flac, 48000 Hz, stereo, s32 (24 bit) (default)
+    Stream #0:2(jpn): Audio: flac, 48000 Hz, stereo, s32 (24 bit)
+    Stream #0:3(chi): Subtitle: hdmv_pgs_subtitle (default)
+    Stream #0:4(chi): Subtitle: hdmv_pgs_subtitle
+
+可以看到，这是一个 HEVC 10bit 编码，分辨率 1080p，帧率 59.94 fps 的视频文件，带有两条 flac 编码的音轨，另有两条是 pgs 格式的图形字幕。我自己的 Macbook Pro 已经无法完全流畅地播放这个视频了，除了 HEVC 带来的巨大计算量，高帧率也是一个麻烦，可惜网上没有其它好的片源，因此，我只有自己尝试压缩。目标：维持分辨率但帧率减半，即降为 29. 97 fps，音轨只需要第一条，并且重编码为 AAC-LC，原片为日语，因此必须带有字幕，图形字幕直接嵌入视频，最后以 HEVC 10bit 重编码，少许降低码率。
+
+改变帧率普遍会使用 -vf fps=fps=29.97 这类的参数，但自己尝试后发现一个问题，视频观看的感觉有跳跃性，不流畅，很像是丢帧的感觉。因为将帧率减半，意味着有一半的信息都丢弃了，而普通降低帧率的算法只有简单的插值运算甚至完全没有，造成了视频不连贯的效果。因此，改变帧率正确的做法是进行运动插值运算（ Motion Interpolation ），此法既可用在提高帧率上，也可以用于降低帧率，最终的结果都是提高视频播放的流畅度。这里会使用 -filter_complex 代替 vf，联合应用 minterpolate、overlay 以及 map 来解决帧率、嵌入视频，和保留一条音轨的问题。压制命令如下：
+
+ffmpeg -i input.mkv \
+-filter_complex "[0:v]minterpolate='fps=29.97:mi_mode=mci:me_mode=bidir:mc_mode=aobmc:vsbmc=1'[bg],[bg][0:s:0]overlay[v]" -map "[v]" -map 0:a:0 \
+-c:v libx265 -preset medium -crf 18 -pix_fmt yuv420p10le \
+-c:a libfdk_aac -b:a 256k \
+-tag:v hvc1 \
+output_10bit.mp4
+
+这里看起来会很复杂，实际上 -filter_complex 的工作模式就像是 pipe，[0:v] 表示输入文件的视频流，对应 Stream #0:0。从 minterpolate 到 vsbmc=1 都是插补滤镜的设置参数，具体的作用可以查看官方文档。[bg]代表该滤镜输出后的视频流，并传递给下一个滤镜 overlay。[0:s:0]表示输入文件的第一个字幕通，对应 Stream #0:3，所以如果是 [0:s:1] 则对应 Stream #0:4。 overlay 就会将该图形字幕嵌入到视频中，然后输出为 [v]，进行 mapping。视频取处理后的 [v]，音频取原输入文件的第一个音频通道，[0:a:0] 即代表 Stream #0:1。最后和此前压制视频的参数就一模一样了，压制为 HEVC 10bit 编码的视频文件。
+
+需要注意的是，运动插值运算非常耗时，CPU 占用确不高，应该是 minterpolate 滤镜只能调用单核的缘故。在我的电脑上， 此 23 分钟左右的视频压制一次耗时约 20 小时，请谨慎使用。
+
+我的原文链接： http://kris2d.info/posts/a7465832/
+第 1 条附言  ·  2018-02-25 18:28:17 +08:00
+
+补充一条用来自动切黑边的脚本吧，因为有时候碰到比较懒的小组发的片源，连黑边都不切，这样外挂字幕就跑到黑边去了，我很不喜欢....... 保存代码为 crop-border.sh 并修改权限，用法：./crop-border.sh input.mp4 output.mp4
+
+#!/bin/bash
+
+# autodetect crop size
+crop=`ffmpeg -i $1 -t 1 -vf cropdetect -f null - 2>&1 | awk '/crop/ { print $NF }' | tail -1`
+echo "detected crop fromat:	$crop"
+echo "input:			$1"
+echo "output:			$2"
+date ; read -t 5 -p "Hit ENTER or wait five seconds" ; date
+ffmpeg -i $1 -c:a copy -c:v libx265 -preset medium -crf 18 -pix_fmt yuv420p10le -tag:v hvc1 -vf $crop -y $2
+
+压制的参数 -c:a 和 -c:v 部分还需调整
+expy 		
+    1
+expy   2018-02-24 22:13:02 +08:00 via Android
+预处理多可以考虑 vapoursynth.
+Pudge1337 		
+    2
+Pudge1337   2018-02-24 23:28:06 +08:00 via Android
+一串代码就可以对视频转码，感觉不错！
+likuku 		
+    3
+likuku   2018-02-24 23:55:31 +08:00
+ffmpeg v3.4 目前不建议用，编码完成后的打包时，遇到多次无法完成打包而进入死循环 /假死。
+likuku 		
+    4
+likuku   2018-02-24 23:56:55 +08:00
+3# 的状况，目前只在 macOS 上见到，多次复现。
+mrcotter2013 		
+    5
+mrcotter2013   2018-02-25 00:16:07 +08:00
+@likuku #3 查看了一下 FFmpeg 目前通过 brew 安装的稳定版是 3.4.2 （ commit 6a97ba5 ），情况是否改善？
+
+我在教程中使用的是 --HEAD 版本（ commit 28924f4 ），自己平时也经常使用，不过没碰到过你说的死循环情况。
+ashfinal 		
+    6
+ashfinal   2018-02-25 00:30:26 +08:00
+好文先马再看。
+zhang1215 		
+    7
+zhang1215   2018-02-25 00:33:37 +08:00
+win 下一直用 ffmpeg，来学习学习
+Cavolo 		
+    8
+Cavolo   2018-02-25 01:13:06 +08:00 via iPhone
+不建议笔记本，煎鸡蛋
+xxx027 		
+    9
+xxx027   2018-02-25 02:08:37 +08:00
+如果帧率减少了，那音频也要相应减速吧？不然会音画不同步。
+xxx027 		
+    10
+xxx027   2018-02-25 02:13:45 +08:00
+@xxx027 #9 又再想了一下，应该不需要。
+wwqgtxx 		
+    11
+wwqgtxx   2018-02-25 06:37:41 +08:00 via iPhone
+很多情况下如果通过-x265-programs 设置设置 x265 的参数还能优化优化压制速度
+ech0x 		
+    12
+ech0x   2018-02-25 07:58:39 +08:00 via iPhone
+有没有类似对各种编码，封装详细解释的文章资料啊，求推荐。
+mrcotter2013 		
+    13
+mrcotter2013   2018-02-25 08:59:41 +08:00
+@expy #1 嗯，很早就知道，不过一直没用过......猜测在字幕组压视频用 vapoursynth 比较多
+mrcotter2013 		
+    14
+mrcotter2013   2018-02-25 09:03:21 +08:00
+@Cavolo #8 ffmpeg -threads 了解一下，另外 brew info cputhrottle 也可以了解一下
+
+Ubuntu 等 Linux 系统有 cpulimit 可以用来限制进程对 CPU 的占用率
+FindHao 		
+    15
+FindHao   2018-02-25 09:06:38 +08:00
+你的这个不算入门了，这个才算：
+https://help.findyoutube.net/ffmpeg
+LOL
+mrcotter2013 		
+    16
+mrcotter2013   2018-02-25 09:07:26 +08:00
+@xxx027 #9 当你改变了视频速率，用到了 setpts，就需要对音频进行重采样，记得是用 atempo
+mrcotter2013 		
+    17
+mrcotter2013   2018-02-25 09:07:59 +08:00
+@wwqgtxx #11 太细致了，有特殊需求才会用到......
+mrcotter2013 		
+    18
+mrcotter2013   2018-02-25 09:15:47 +08:00
+@ech0x #12 这个话题大概可以写一本书了.....不同的封装格式有一定的限制，支持的音视频格式也不同。
+
+比如标准 mp4 常见视频格式 H.264/x264、x265，但也可以是 vp8、vp9，音频格式只支持 AAC ；如果要封装 AC-3 音轨，macOS 和 iOS 需要使用 m4v 封装； DTS 就需要换成 mkv 了。
+yuzenan888 		
+    19
+yuzenan888   2018-02-25 09:34:44 +08:00 via iPhone
+谢谢，已收藏。不过用 MacBook Pro 编码效率实在是低的可怜。
+tony1016 		
+    20
+tony1016   2018-02-25 10:10:33 +08:00
+非常不错
+liwufan 		
+    21
+liwufan   2018-02-25 10:26:21 +08:00 via iPhone
+写的挺全的，有点想看用 ffmpeg 切割合并封装之类的操作，笔记本上面视频转码太烫了
+Cavolo 		
+    22
+Cavolo   2018-02-25 15:13:50 +08:00
+@mrcotter2013 thanks
+WindowPain 		
+    23
+WindowPain   2018-02-25 16:34:26 +08:00 via iPhone
+一直想入门一下 ffmpeg，现在懂了点皮毛，感谢。
+likuku 		
+    24
+likuku   2018-02-25 17:21:34 +08:00
+@yuzenan888 追求效率，那么 Mac 上就用 videotoolbox GPU 加速编码器，
+速度感人，12 寸 macbook 都可以飞速编码。
+yuzenan888 		
+    25
+yuzenan888   2018-02-25 17:37:00 +08:00
+@likuku HEVC 10bit 可以 GPU 加速么？
+mrcotter2013 		
+    26
+mrcotter2013   2018-02-25 18:20:21 +08:00
+@likuku #24 如果硬件支持，Video Toolbox 确实支持 HEVC 硬件编码和解码，不过 Mac 上有什么工具可以用？
+mrcotter2013 		
+    27
+mrcotter2013   2018-02-25 18:31:10 +08:00
+@liwufan #21 参考官方指南 Concatenate： https://trac.ffmpeg.org/wiki/Concatenate
+
+另外，我补充一个切黑边的脚本。至于按时间分割，搜索参数 -ss
+likuku 		
+    28
+likuku   2018-02-25 19:52:45 +08:00
+@yuzenan888
+@mrcotter2013
+
+目前 videotoolbox 的确只支持 h264 编码。N 卡在 Ubuntu 16.04 上 ffmpeg 可以用 nvenc 编 hevc/h265
+likuku 		
+    29
+likuku   2018-02-25 19:56:01 +08:00
+补充：NVENC 在笔记本电脑上对显卡要求特别高，我自己试验时，只有 N 家的专业线显卡在笔记本上可以用。
+
+台式机，就没那么多限制了，普通 GTX 的 N 卡 就可以玩 NVENC
+
+追求画质的，请忽略这些，目前 GPU 加速编码的视频画质还逃不脱挑剔的视频编码大佬的鄙视。
+mrcotter2013 		
+    30
+mrcotter2013   2018-02-25 20:19:32 +08:00
+@likuku #29 GPU 硬件编码得到的画质较差是共识，这么多年都这样..... 直播类型、需要实时传输的视频不追求高画质，HEVC 又能极大地缩小体积，更倾向于用硬件编码
+JerryCha 		
+    31
+JerryCha   2018-02-25 21:08:18 +08:00
+gui 用户路过
+njwangchuan 		
+    32
+njwangchuan   2018-04-24 10:52:23 +08:00
+@mrcotter2013 请教楼主一个问题，我有一个需求，从 mp4 文件中抽取音频，视频只有 15fps，直接抽取音频的话，时长跟原视频不一样，调研了一下是音频和容器的帧率不一样导致。
+
+ffmpeg -i iput.mp4 -vn -acodec copy output.aac
+
+原视频信息：
+
+Duration: 01:51:19.68, start: 0.000000, bitrate: 332 kb/s
+Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 640x272 [SAR 1:1 DAR 40:17], 263 kb/s, 15 fps, 15 tbr, 16k tbn, 30 tbc (default)
+Metadata:
+handler_name : VideoHandler
+Stream #0:1(und): Audio: aac (HE-AAC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 63 kb/s (default)
+Metadata:
+handler_name : SoundHandler
+
+抽取后的音频：
+
+Duration: 01:27:37.50, bitrate: 82 kb/s
+Stream #0:0: Audio: aac (HE-AAC), 44100 Hz, stereo, fltp, 82 kb/s
+
+音频码率和时长都发生了变化，重新编码录音有比较耗时，请问有什么方法能快速解决这个问题，谢谢！
+mrcotter2013 		
+    33
+mrcotter2013   2018-04-24 13:56:23 +08:00
+我倒没遇到过这种，所以源视频中两者的帧率就不一样？用 -map 试试呢？
+
+ffmpeg -i input.mp4 -map 0:1 -c:a copy output.aac
+
+如果仍然会变，那就必须重编码
+
+ffmpeg -i input.mp4 -map 0:1 -c:a libfdk_aac output.aac
+mgcnrx11 		
+    34
+mgcnrx11   2019-02-08 10:17:32 +08:00
+brew 上关于 ffmpeg 的编译选项都被移除了，尝试找了一个别人维护的 formula
+
+https://github.com/justinmayer/homebrew-tap/blob/master/Formula/ffmpeg.rb
+
+tag 完后，执行编译安装的选项可能略有不同
+
+brew install justinmayer/tap/ffmpeg --with-fdk-aac --with-libass --with-libbluray --with-webp
+thelderfrog 		
+    35
+thelderfrog   341 天前
+https://uploader.shimo.im/f/A6zlKDoviNYGNj9B.zip?attname=BilibiliEncoder.dmg.zip
+做了一个 GUI，libx264 参数可调，支持 VideoToolbox 硬件加速
+![1.png]( https://i.loli.net/2019/03/05/5c7df4a3a4ef0.png)
+![2.png]( https://i.loli.net/2019/03/05/5c7df4a3aaca7.png)
+
+
+
+
