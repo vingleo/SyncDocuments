@@ -439,8 +439,8 @@ id_rsa.pub
 
 
 4 把本地仓库同步到GitHub
-4.1 本地库里 $git remote add origin git@github.com:YourName/YourRepository.git
-注意要保证ssh公钥添加到github
+4.1 在本地库里创建一个远端连接 $git remote add origin git@github.com:YourName/YourRepository.git
+注意要保证ssh公钥添加到github后才可以
 origin 一般是默认的远程库名称，也可改为别的
 
 4.2 推送到远端
