@@ -252,3 +252,26 @@ pod install
 h.265 HEVC 10bit 4k  HDR-High Dynamic Range 
 
 
+
+
+
+
+
+
+
+
+
+
+ffmpeg-20191219-99f505d-win64-static\bin>ffmpeg.exe -i D:\工作内容\要看的电子书\日语Japanese\标日视频\标日第08课(ED2000.COM).wmv -c:a aac -c:v libx265 -crf 18 -preset medium -pix_fmt yuv420p10le -tag:v hvc1 D:\工作内容\要看的电子书\日语Japanese\标日视频\标日第08课10bit.mp4
+
+文件大小对比
+AVI WMV9 + MP3 240,828,416
+MP4 X264 + AAC 161,052,151
+
+
+
+
+
+
+
+
