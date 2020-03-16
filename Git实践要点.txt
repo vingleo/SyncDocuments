@@ -407,9 +407,21 @@ git stash list
 处理完bug，提交之后，再恢复隐藏的工作区域
 git stash pop
 
-
 15 如何指定不需要Git管理的文件？
-编写 .gitignore 
+15.1 在Git工作区的根目录下创建一个特殊的.gitignore文件 
+15.2 编写 .gitignore，不需要从头写.gitignore文件，GitHub已经为我们准备了各种配置文件，只需要组合一下就可以使用了。所有配置文件可以直接在线浏览：https://github.com/github/gitignore
+15.3 如果你确实想添加文件管理，可以用-f强制添加到Git：
+$ git add -f App.class
+15.4 添加一个文件到Git，但发现添加不了，原因是这个文件被.gitignore忽略了
+$ git add App.class
+The following paths are ignored by one of your .gitignore files:
+App.class
+Use -f if you really want to add them.
+15.5 检查哪个规则写错了，可以用git check-ignore命令
+$ git check-ignore -v App.class
+.gitignore:3:*.class	App.class
+Git会告诉我们，.gitignore的第3行规则忽略了该文件，于是我们就可以知道应该修订哪个规则。
+
 采用glob 模式匹配  
 
 16 如何将Git仓库备份到本地？  
