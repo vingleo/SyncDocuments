@@ -39,6 +39,7 @@ GitÊµ¼ùÒªµã
 		14 ¸÷ÖÖ±È½ÏÎÄ¼ş
 			14.1 diff±È½ÏµÄÇø±ğ 
 			14.2 vimdiff ¹¤¾ßµÄÊ¹ÓÃ
+		15 ·ÖÖ§¹ÜÀí
 	¶ş¡¢¶À×ÔÊ¹ÓÃGitÊ±µÄ³£¼û³¡¾°
 		1 ÔõÃ´É¾³ı²»ĞèÒªµÄ·ÖÖ§
 		2 ÔõÃ´ĞŞ¸Ä×îĞÂcommitµÄmessage£¿
@@ -58,6 +59,7 @@ GitÊµ¼ùÒªµã
 		14 ¿ª·¢ÖĞÁÙÊ±¼ÓÈûÁË½ô¼±ÈÎÎñÔõÃ´´¦Àí£¿
 		15 ÈçºÎÖ¸¶¨²»ĞèÒªGit¹ÜÀíµÄÎÄ¼ş£¿
 		16 ÈçºÎ½«Git²Ö¿â±¸·İµ½±¾µØ£¿
+		17 ÈçºÎÉèÖÃÃüÁî±ğÃû
 	Èı¡¢GitÓëGitHubµÄ¼òµ¥Í¬²½
 		1 ×¢²áÒ»¸ögitHubÕËºÅ
 		2 ÅäÖÃ¹«Ë½Ô¿
@@ -67,6 +69,7 @@ GitÊµ¼ùÒªµã
 			4.2 ÍÆËÍµ½Ô¶¶Ë
 			4.3 ºóĞøÍÆËÍ
 			4.4 ´ÓÔ¶¶Ë»ñÈ¡
+		5 É¾³ıGithubÉÏµÄ¸öÈË²Ö¿â
 	ËÄ¡¢Git¶àÈËµ¥·ÖÖ§¼¯³ÉĞ­×÷Ê±³£¼û³¡¾°
 		1 ²»Í¬ÈËĞŞ¸ÄÁË²»Í¬ÎÄ¼şÈçºÎ´¦Àí£¿
 		2 ²»Í¬ÈËĞŞ¸ÄÁËÍ¬ÎÄ¼şµÄ²»Í¬ÇøÓòÈçºÎ´¦Àí£¿
@@ -224,10 +227,18 @@ $ git commit -m"Comments¡±
 5.2 ¶ªÆú¹¤×÷ÇøµÄĞŞ¸Ä
 Ã»¼ÓÈëstatedµÄÖ±½Ó¶ªÆú£¬¼ÓÈë¹ıµÄ»¹Ô­µ½¼ÓÈëµÄ×´Ì¬
 $ git checkout -- filename
-
-¿ÉÒÔ°ÑÔİ´æÇøµÄĞŞ¸Ä³·Ïúµô£¨unstage£©£¬ÖØĞÂ·Å»Ø¹¤×÷Çø
-$ git reset HEAD <file> 
-
+Ò»ÖÖÇé¿öreadme.txt×ÔĞŞ¸Äºó»¹Ã»ÓĞ±»·Åµ½Ôİ´æÇø£¬ÏÖÔÚ£¬³·ÏúĞŞ¸Ä¾Í»Øµ½ºÍ°æ±¾¿âÒ»Ä£Ò»ÑùµÄ×´Ì¬£»
+Ò»ÖÖÊÇreadme.txtÒÑ¾­Ìí¼Óµ½Ôİ´æÇøºó£¬ÓÖ×÷ÁËĞŞ¸Ä£¬ÏÖÔÚ£¬³·ÏúĞŞ¸Ä¾Í»Øµ½Ìí¼Óµ½Ôİ´æÇøºóµÄ×´Ì¬¡£
+ÒÑ¾­¼ÓÈëÔİ´æÇøµÄ£¬¿ÉÒÔ°ÑÔİ´æÇøµÄĞŞ¸Ä³·Ïúµô£¨unstage£©£¬ÖØĞÂ·Å»Ø¹¤×÷Çø
+$ git reset HEAD <filename> 
+ÔÙÊ¹ÓÃÉÏÃægit checkout -- filename·½·¨£¬¶ªÆú¹¤×÷ÇøµÄĞŞ¸Ä
+×¢Òâ£¡£¡£º
+×îĞÂ°æ±¾µÄgitÒÑ¾­Ê¹ÓÃgit restore ´úÌæÁËÔ­À´µÄresetºÍcheckoutÃüÁîÁË£¬ÈçÏÂ£º
+$ git resotre readme.txt //£¨Ê¹ÓÃ "git restore <ÎÄ¼ş>..." ¶ªÆú¹¤×÷ÇøµÄ¸Ä¶¯£©
+  (use "git restore <file>..." to discard changes in working directory)
+$ git restore --staged readme.txt  £¨Ê¹ÓÃ "git restore --staged <ÎÄ¼ş>..." ÒÔÈ¡ÏûÔİ´æ£©
+  (use "git restore --staged <file>..." to unstage)
+  
 
 6 ¸øÎÄ¼şÖØÃüÃûµÄ¼ò±ã·½·¨
 $ git mv readme.txt  readme.md
@@ -334,7 +345,8 @@ $git commitµÄ·´ÏòÃüÁîgit reset HEAD£¬¾ÍÊÇ½«Ìá½»µ½Ôİ´æÇøµÄÊı¾İÒÔ²Ö¿âÊı¾İÎª»ù×¼³·Ï
 
 14.2 vimdiff ¹¤¾ßµÄÊ¹ÓÃ
 
-
+15 ·ÖÖ§¹ÜÀí
+15.1 
 
 ¶ş¡¢¶À×ÔÊ¹ÓÃGitÊ±µÄ³£¼û³¡¾°
 1 ÔõÃ´É¾³ı²»ĞèÒªµÄ·ÖÖ§
@@ -421,10 +433,20 @@ Use -f if you really want to add them.
 $ git check-ignore -v App.class
 .gitignore:3:*.class	App.class
 Git»á¸æËßÎÒÃÇ£¬.gitignoreµÄµÚ3ĞĞ¹æÔòºöÂÔÁË¸ÃÎÄ¼ş£¬ÓÚÊÇÎÒÃÇ¾Í¿ÉÒÔÖªµÀÓ¦¸ÃĞŞ¶©ÄÄ¸ö¹æÔò¡£
-
-²ÉÓÃglob Ä£Ê½Æ¥Åä  
+15.6 ²ÉÓÃglob Ä£Ê½Æ¥Åä  
 
 16 ÈçºÎ½«Git²Ö¿â±¸·İµ½±¾µØ£¿  
+17 ÉèÖÃÃüÁî±ğÃû
+17.1 Óï·¨¸ñÊ½
+$ git config --global alias.st status  
+ÒÔºóst¾Í±íÊ¾status£¬ºÜ¶àÈË¶¼ÓÃco±íÊ¾checkout£¬ci±íÊ¾commit£¬br±íÊ¾branch
+17.2 ¿ÉÒÔ½«git reset HEAD file°ÑÔİ´æÇøµÄĞŞ¸Ä³·Ïúµô£¨unstage£©£¬ÖØĞÂ·Å»Ø¹¤×÷ÇøµÄ²Ù×÷ÅäÖÃÒ»¸öunstage±ğÃû£º
+$ git config --global alias.unstage 'reset HEAD'
+17.3 ¿ÉÒÔÅäÖÃÒ»¸ögit last£¬ÈÃÆäÏÔÊ¾×îºóÒ»´ÎÌá½»ĞÅÏ¢£º
+$ git config --global alias.last 'log -1'
+17.4 ÅäÖÃ²ÊÉ«ÏÔÊ¾·ÖÖ§ºÏ²¢Ìá½»ÈÕÖ¾
+$ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+
 
 Èı¡¢GitÓëGitHubµÄ¼òµ¥Í¬²½
 1 ×¢²áÒ»¸ögitHubÕËºÅ
@@ -451,7 +473,8 @@ id_rsa.pub
 
 
 4 °Ñ±¾µØ²Ö¿âÍ¬²½µ½GitHub
-4.1 ÔÚ±¾µØ¿âÀï´´½¨Ò»¸öÔ¶¶ËÁ¬½Ó $git remote add origin git@github.com:YourName/YourRepository.git
+4.1 ÔÚ±¾µØ¿âÀï´´½¨Ò»¸öÔ¶¶ËÁ¬½Ó 
+$git remote add origin git@github.com:YourName/YourRepository.git
 ×¢ÒâÒª±£Ö¤ssh¹«Ô¿Ìí¼Óµ½githubºó²Å¿ÉÒÔ
 origin Ò»°ãÊÇÄ¬ÈÏµÄÔ¶³Ì¿âÃû³Æ£¬Ò²¿É¸ÄÎª±ğµÄ
 
@@ -476,6 +499,10 @@ $ git pull <Ô¶³ÌÖ÷»úÃû> <Ô¶³Ì·ÖÖ§Ãû>:<±¾µØ·ÖÖ§Ãû>
 $git pull origin next:master
 Àı£ºÔ¶³Ì·ÖÖ§(next)ÒªÓëµ±Ç°·ÖÖ§ºÏ²¢£¬ÔòÃ°ºÅºóÃæµÄ²¿·Ö¿ÉÒÔÊ¡ÂÔ¡£
 $git pull origin next
+
+5 É¾³ıGithubÉÏµÄ¸öÈË²Ö¿â
+½øÈë×Ô¼ºµÄ²Ö¿â¡ª¡ªSettings¡ª¡ªDanger Zone¡ª¡ªDelete this repository 
+ÊäÈë²Ö¿âÃûºó¼üÈëÃÜÂë½øĞĞÈ·ÈÏ¡£
 
 ËÄ¡¢Git¶àÈËµ¥·ÖÖ§¼¯³ÉĞ­×÷Ê±³£¼û³¡¾°
 1 ²»Í¬ÈËĞŞ¸ÄÁË²»Í¬ÎÄ¼şÈçºÎ´¦Àí£¿
