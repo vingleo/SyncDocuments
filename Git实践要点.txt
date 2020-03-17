@@ -357,7 +357,8 @@ $ git branch
 15.3 切换分支
 $ git checkout master
 Switched to branch 'master'
-
+15.4 将dev分支的工作结果合并到master分支上
+$ git merge dev 
 
 
 二、独自使用Git时的常见场景
