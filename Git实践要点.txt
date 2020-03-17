@@ -346,7 +346,19 @@ $git commitµÄ·´ÏòÃüÁîgit reset HEAD£¬¾ÍÊÇ½«Ìá½»µ½Ôİ´æÇøµÄÊı¾İÒÔ²Ö¿âÊı¾İÎª»ù×¼³·Ï
 14.2 vimdiff ¹¤¾ßµÄÊ¹ÓÃ
 
 15 ·ÖÖ§¹ÜÀí
-15.1 
+Ö÷·ÖÖ§£¬¼´master·ÖÖ§£¬HEAD Ö¸Ïòmaster£¬gitÓÃmasterÖ¸Ïò×îĞÂµÄÌá½»¡£
+´´½¨ĞÂ·ÖÖ§£¬ÀıÈçdev£¬Ö¸ÏòmasterÏàÍ¬µÄÌá½»£¬ÔÙ°ÑHEADÖ¸Ïòdev£¬±íÊ¾µ±Ç°·ÖÖ§ÔÚdevÉÏ
+15.1 ´´½¨·ÖÖ§
+´´½¨dev·ÖÖ§£¬²¢ÇĞ»»µ½dev·ÖÖ§
+$ git checkout -b dev  ºÍ $ git branch dev | $ git checkout dev 
+Switched to a new branch 'dve'
+15.2 ²é¿´µ±Ç°·ÖÖ§ £¬µ±Ç°·ÖÖ§Ç°»á±ê*ºÅ
+$ git branch 
+15.3 ÇĞ»»·ÖÖ§
+$ git checkout master
+Switched to branch 'master'
+
+
 
 ¶ş¡¢¶À×ÔÊ¹ÓÃGitÊ±µÄ³£¼û³¡¾°
 1 ÔõÃ´É¾³ı²»ĞèÒªµÄ·ÖÖ§
