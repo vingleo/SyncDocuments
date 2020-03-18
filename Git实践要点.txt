@@ -105,7 +105,7 @@ GitÊµ¼ùÒªµã
 		4 GitLab ÉÏÔõÃ´×ö code review£¿
 		5 GitLab ÉÏÔõÃ´±£Ö¤¼¯³ÉµÄÖÊÁ¿£¿
 		6 ÔõÃ´°ÑÓ¦ÓÃ²¿Êğµ½ AWS ÉÏ£¿
-
+		7 Î´½â¾öµÄÎÊÌâ»ã×Ü
 ÕıÎÄ	
 
 µÚÁã²¿·Ö
@@ -348,18 +348,42 @@ $git commitµÄ·´ÏòÃüÁîgit reset HEAD£¬¾ÍÊÇ½«Ìá½»µ½Ôİ´æÇøµÄÊı¾İÒÔ²Ö¿âÊı¾İÎª»ù×¼³·Ï
 15 ·ÖÖ§¹ÜÀí
 Ö÷·ÖÖ§£¬¼´master·ÖÖ§£¬HEAD Ö¸Ïòmaster£¬gitÓÃmasterÖ¸Ïò×îĞÂµÄÌá½»¡£
 ´´½¨ĞÂ·ÖÖ§£¬ÀıÈçdev£¬Ö¸ÏòmasterÏàÍ¬µÄÌá½»£¬ÔÙ°ÑHEADÖ¸Ïòdev£¬±íÊ¾µ±Ç°·ÖÖ§ÔÚdevÉÏ
+
 15.1 ´´½¨·ÖÖ§
 ´´½¨dev·ÖÖ§£¬²¢ÇĞ»»µ½dev·ÖÖ§
 $ git checkout -b dev  ºÍ $ git branch dev | $ git checkout dev 
 Switched to a new branch 'dve'
+ĞÂ°æ±¾ÓÃ $ git switch -c dev
+
 15.2 ²é¿´µ±Ç°·ÖÖ§ £¬µ±Ç°·ÖÖ§Ç°»á±ê*ºÅ
 $ git branch 
+
 15.3 ÇĞ»»·ÖÖ§
 $ git checkout master
 Switched to branch 'master'
+ĞÂ°æ±¾Ê¹ÓÃgit switchÀ´ÇĞ»»
+$ git switch master
+
 15.4 ½«dev·ÖÖ§µÄ¹¤×÷½á¹ûºÏ²¢µ½master·ÖÖ§ÉÏ
 $ git merge dev 
+Updating d46f35e..b17d20e
+Fast-forward 
+Ê¹ÓÃµÄÊÇ¿ì½øÄ£Ê½£¬¼´Ö±½Ó°ÑmasterÖ¸ÏòdevµÄµ±Ç°Ìá½»£¬ºÏ²¢ËÙ¶È¿ì¡£
 
+15.5 ºÏ²¢Íê³Éºó£¬¿ÉÒÔ·ÅĞÄÉ¾³ıdev·ÖÖ§ÁË
+$ git branch -d dev 
+Delete bransch dev (wasa b17d20e).
+É¾³ıÔ¶³Ì·ÖÖ§
+ÏÈÍ¨¹ı$ git branch -d <branch name>É¾³ı±¾µØ·ÖÖ§£¬ÔÙÍ¨¹ıgit push origin :<branch name>É¾³ıÔ¶³Ì·ÖÖ§£¬¿ÉÒÔ²Î¿¼ÈçºÎÉ¾³ıÔ¶³ÌµÄ±êÇ©
+git push origin -d <branch name>Ğ§¹ûÒ»Ñù
+
+±¾µØÉ¾³ı·ÖÖ§ºó£¬ÔÚgithubÖĞÍ¬²½£¬Àı£º
+$ git push origin :dev //É¾³ıÔ¶³Ì·ÖÖ§dev£¬originºÍ:devÖ®¼äÓĞ¿Õ¸ñ
+
+15.6 ×¢Òâµã
+15.6.1 ¶ÔÓÚËùÓĞ·ÖÖ§¶øÑÔ£¬ ¹¤×÷ÇøºÍÔİ´æÇøÊÇ¹«¹²µÄ¡£
+15.6.2 ·ÖÖ§ĞŞ¸ÄºóÃ»ÓĞÌá½»ÊÇÎŞ·¨ÇĞ»»µ½ÁíÒ»·ÖÖ§µÄ
+15.6.3 ÄãÔÚdev·ÖÖ§ĞŞ¸ÄÁËÎÄ¼ş£¬µ«ÊÇÄãÃ»ÓĞÌá½»µ½²Ö¿â£¬Êµ¼ÊÉÏ¾ÍÊÇÏàµ±ÓÚÄãÔÚ±¾µØÊÖ¶¯ĞŞ¸ÄÁËÕâ¸öÎÄ¼ş£¬²Ö¿â²¢²»ÄÜ±£´æÄã×öµÄ¸Ä¶¯£¬ËùÒÔÔÚmaster·ÖÖ§ÄÜ¿´µ½ÎÄ¼ş±»¸Ä¶¯ÁË£¨Ïàµ±ÓÚÄãÃ»ÓÃdev·ÖÖ§Ö±½ÓĞŞ¸ÄÁËÕâ¸öÎÄ¼şÒ»Ñù£©£¬ËùÒÔÄã¿ÉÒÔÓÃmaster·ÖÖ§add¡¢commit
 
 ¶ş¡¢¶À×ÔÊ¹ÓÃGitÊ±µÄ³£¼û³¡¾°
 1 ÔõÃ´É¾³ı²»ĞèÒªµÄ·ÖÖ§
@@ -558,10 +582,13 @@ $git pull origin next
 4 GitLab ÉÏÔõÃ´×ö code review£¿
 5 GitLab ÉÏÔõÃ´±£Ö¤¼¯³ÉµÄÖÊÁ¿£¿
 6 ÔõÃ´°ÑÓ¦ÓÃ²¿Êğµ½ AWS ÉÏ£¿
+7 Î´½â¾öµÄÎÊÌâ»ã×Ü
+$ git branch -d newBranch
+Deleted branch newBranch (was 22fe582).
+warning: deleting branch 'newBranch' that has been merged to
+         'refs/remotes/origin/newBranch', but not yet merged to HEAD.
 
-
-
-
+¾ßÌåº¬ÒåÊÇÊ²Ã´
 
 
 
