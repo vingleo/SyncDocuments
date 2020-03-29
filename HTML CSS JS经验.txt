@@ -1,13 +1,14 @@
 学习曲线    (参考  wix.com  样式) 
 
-
-参考网站
-选色 http://paletton.com/#uid=1000u0kq1o2g-v-lrrkt3jG-rex 
-选色 https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=0&name=My%20Color%20Theme&mode=rgb&rgbvalues=1,0.42626123425793594,0,0.91,0.22975141850769798,0.04550000000000004,1,0,0,0.91,0.04550000000000004,0.6772191491703454,0.7608761448507153,0.050000000000000044,1&swatchOrder=0,1,2,3,4
-
-选色 http://www.peise.net
-
-选色  日本颜色  https://www.colordic.org/w/
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXX  PART 0 参考网站              XXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1.选色参考网站   
+1.1 http://paletton.com/#uid=1000u0kq1o2g-v-lrrkt3jG-rex 
+1.2 https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=0&name=My%20Color%20Theme&mode=rgb&rgbvalues=1,0.42626123425793594,0,0.91,0.22975141850769798,0.04550000000000004,1,0,0,0.91,0.04550000000000004,0.6772191491703454,0.7608761448507153,0.050000000000000044,1&swatchOrder=0,1,2,3,4
+1.3 http://www.peise.net
+1.4 日本颜色  https://www.colordic.org/w/
+1.5 中国颜色  httPs://www.zhongguose.com
 
 https://waitbutwhy.com    参考别人网站的制作方法
 
@@ -37,7 +38,6 @@ https://www.runoob.com/css/css-border.html
 
 MDN web docs
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement
-
 
 
 检查标签是否可用 https://caniuse.com/#search=queryselectorAll
@@ -88,15 +88,84 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 var input = document.getElementById('email');
 console.log(input.value);
 
+2. 超链接
+使用href 属性 
+可以在网页任何地方加入锚点
+例如：
+<a name="151 dates 日期">
+<h3>151 dates 日期 >/h3>
+</a>
+然后可在超链接中引用，注意#符号，伪类
+<li><a href="#chap151">151 dates 日期 ></a></li>
+建议超链接只对文字部分添加，不然会整行都带有超链接
 
+3. 表格 （参考页面https://www.w3school.com.cn/html/html_tables.asp）
+3.1 用<table>标签定义
+3.2 行用<tr>
+3.3 单元格用<td>定义，代表 table data
+3.4 单元格可包含文本、图片、列表、段落、表单、水平线及表格
+3.5 不定义border边框属性，表格将不显示边框
+<table border="1">
+3.6 表头用<th>，也要跟在<tr>属性后面，自带黑体效果
+3.7 空单元格可用&nbsp; 空占位符填充， 避免边框不显示
+3.8 可在<table>属性之后添加表格标题
+<caption>我的标题</caption>
+3.9 横跨两列的单元格
+<th colspan="2">电话</th>
+横跨两行的单元格
+<th rowspan="2">电话</th>
+3.10 对齐单元格内文字
+<th align="left">项目</th>
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXX  PART II   CSS           XXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+结构为4部分
+1. selector
+2. declaration 大括号内包含 {}
+3. property 用分号分隔不同属性 ;
+4. value   属性和值之间用冒号:
 
-使用href 属性的有
-<a>   //链接
+1. selector
+1.1 element selector
+1.2 class selectors
+1.3 ID selectors 每页只有一个，在css文件中引用时用分号 #加名字
+1.4 element-specific selectors
+例子：
+h2.subheading {color:blue;}
+div#sidebar {font-size:80%;}
+
+CLASS 和 ID 命名惯例
+不用白空格和特殊字符
+大小写敏感
+
+
+
+
+
+
+<a>   //链接伪类
+例子：
+a:link {
+	color: cadetblue;
+	text-decoration-line: none; // 默认链接不加下划线
+
+}
+
+a:visited {
+	color: black //访问后的连接为黑色
+}
+
+a:hover {
+	color: dodgerblue;
+	text-decoration: underline;
+}
+
+
+
+
+
 <link>   //css文件链接
 
 <div>  和 <span>的区别用法
