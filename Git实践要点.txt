@@ -25,7 +25,7 @@ Git实践要点
 			5.2 丢弃工作区的修改
 		6 给文件重命名的简便方法
 		7 通过git log 查看版本演变历史
-			7.1 查看当前分支所有提交者及其提交次数，按次数由高到低排序
+			7.1 查5.1 添加 看当前分支所有提交者及其提交次数，按次数由高到低排序
 			7.2 每个月项目组统计工作绩效，统计提交每个月的git提交数
 			7.3 分析 Git 日志来统计代码量
 			7.4 git log 的帮助文档
@@ -217,12 +217,14 @@ $ git clone https://github.com/YourName/YourProject.git
 5 通过几次commit来认识工作区和暂存区
 5.1 添加 
 $ git add .(或选择文件) 
+$ git add -A (增值、修改、删除的操作文件都加入stage状态)
 
 当修改了仓库中已经存在的文件的内容的时候，只需要使用git add -u，这样可以直接将所有更改的文件更新，而不需要重新将文件加到暂存区。
 $git add -u
 
 提交修改
 $ git commit -m"Comments”
+$ git commit -am'描述' （添加并提交）
 
 5.2 丢弃工作区的修改
 没加入stated的直接丢弃，加入过的还原到加入的状态
@@ -238,6 +240,8 @@ $ git resotre readme.txt //（使用 "git restore <文件>..." 丢弃工作区的改动）
   (use "git restore <file>..." to discard changes in working directory)
 $ git restore --staged readme.txt  （使用 "git restore --staged <文件>..." 以取消暂存）
   (use "git restore --staged <file>..." to unstage)
+
+$ git rm -f --cached . （删除缓存区所有文件）
   
 
 6 给文件重命名的简便方法
@@ -357,6 +361,9 @@ Switched to a new branch 'dve'
 
 15.2 查看当前分支 ，当前分支前会标*号
 $ git branch 
+
+$ git branch -a (查看本地和远程的所有分支)
+$ git branch -r (查看远程所有分支)
 
 15.3 切换分支
 $ git checkout master
@@ -522,20 +529,26 @@ $git remote add origin git@github.com:YourName/YourRepository.git
 注意要保证ssh公钥添加到github后才可以
 origin 一般是默认的远程库名称，也可改为别的
 
+
+
 4.2 推送到远端
 $git push -u origin master 
+-u ，就是创建 upStream 上传流，
 -u 参数将本地的master分支和远端master 分支关联，简化 推送和拉取命令
 
 4.3 后续推送
 $git push origin master
 
 4.4 从远端获取
-有pull fetch两种命令之分
+有pull 和 fetch + merge 两种命令并非完全相同
+git fetch 只从远端拉到本地，不进行合并
 *********************************************
 不要用git pull，用git fetch和git merge代替它。
 git pull的问题是它把过程的细节都隐藏了起来，以至于你不用去了解git中各种类型分支的区别和使用方法。当然，多数时候这是没问题的，但一旦代码有问题，你很难找到出错的地方。看起来git pull的用法会使你吃惊，简单看一下git的使用文档应该就能说服你。
 将下载（fetch）和合并（merge）放到一个命令里的另外一个弊端是，你的本地工作目录在未经确认的情况下就会被远程分支更新。当然，除非你关闭所有的安全选项，否则git pull在你本地工作目录还不至于造成不可挽回的损失，但很多时候我们宁愿做的慢一些，也不愿意返工重来。
 *********************************************
+
+
 
 pull语法
 $ git pull <远程主机名> <远程分支名>:<本地分支名>			

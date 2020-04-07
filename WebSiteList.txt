@@ -1,0 +1,123 @@
+##############################
+### Part I 影视相关:
+电影巴士 https://www.dy8c.com/entertainment/category/movie-channel/
+新闻编辑室 第一季 https://www.dy8c.com/entertainment/20855/
+新闻编辑室 全集 https://www.dy8c.com/entertainment/80695/
+犯罪现场调查之迈阿密篇全集 犯罪现场调查之迈阿密篇 https://www.dy8c.com/entertainment/72963/
+福尔摩斯：基本演绎法第七季 https://www.dy8c.com/entertainment/214357/
+识骨寻踪 第一季 https://www.dy8c.com/entertainment/58137/
+律师本色 全集 https://www.dy8c.com/entertainment/76592/
+萤火虫/宁静号 第一季  https://www.dy8c.com/entertainment/111206/
+
+动画搜索网站 http://www.acgsou.com/  （已阵亡）
+萌娘百科 https://zh.moegirl.org/%E6%A4%8E%E5%90%8D%E7%9C%9F%E7%94%B1%E7%90%86#
+
+
+##############################
+### Part II 知识点
+面向新手的V2Ray搭建指南 https://yuan.ga/v2ray-build-guide-for-novices/
+kitsunebi，IOS上优秀的v2ray软件，附带使用教程和规则 https://www.nutgeek.com/kitsunebi-a-ios-v2ray-app/
+各种编程语言的参考资料网站 https://www.cambiaresearch.com/#modalSearch
+大端小端 Big Endian 和 Little Endian 详解 https://blog.csdn.net/waitingbb123/article/details/80504093
+ASCII，Unicode和UTF-8终于找到一个能完全搞清楚的文章了 https://blog.csdn.net/Deft_MKJing/article/details/79460485
+字符编码笔记：ASCII，Unicode 和 UTF-8 http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html
+理解字节序 http://www.ruanyifeng.com/blog/2016/11/byte-order.html
+
+
+Swift中文教程（三） 字符串和字符  https://www.iteye.com/blog/justcoding-2077323
+Swift 相关
+swift最新同步官方文档中文化 https://www.cnswift.org/classes-and-structures
+Swift 帮助你更好的了解 Swift 的字符编码格式 - Unicode Scalars https://blog.csdn.net/felicity294250051/article/details/81175361
+升级Xcode10.2 Swift5.0 兼容之前的老版本SWift 3.x https://www.jianshu.com/p/64a3a8c44f6a
+iOS开发 社区 Cocoa China iOS 8 AutoLayout与Size Class自悟 http://www.cocoachina.com/articles/10669
+Block实现iOS回调 https://www.jianshu.com/p/c8ed6c3e40d0
+iOS开发"Socket"简单使用 https://www.cnblogs.com/wzyking/p/5174971.html
+
+微信小程序官方文档 https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/share.html
+微信小程序服务端 https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/signature.html
+微信小程序网络 https://developers.weixin.qq.com/miniprogram/dev/framework/ability/network.html
+企业微信自建应用授权登录（内嵌式扫码登录） https://blog.csdn.net/yzhbyssgdbd123/article/details/90412164
+微信或企业微信实现扫码登录的三种方式 https://blog.csdn.net/qb170217/article/details/81324552
+企业微信如何实现PC端扫码登录第三方网站 https://blog.csdn.net/u010957293/article/details/76572137
+前端vue实现企业微信扫码登录 https://www.jianshu.com/p/1439ca18089f
+
+
+配色相关
+关于颜色理论 https://blog.csdn.net/weixin_33716941/article/details/90626346
+
+linux相关
+User space 与 Kernel space http://www.ruanyifeng.com/blog/2016/12/user_space_vs_kernel_space.html
+
+git相关
+git 官网手册 https://git-scm.com/book/zh/v2/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%AE%80%E4%BB%8B
+GitHub Actions 入门教程 http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html
+廖雪峰的Git教程 https://www.liaoxuefeng.com/wiki/896043488029600/900788941487552
+
+Bomb后端 官网手册 http://doc.bmob.cn/data/ios/swift_develop_doc/#acl
+iOS端 https://docs.bmob.cn/data/iOS/a_faststart/doc/index.html#%E6%B3%A8%E5%86%8CBmob%E5%B8%90%E5%8F%B7
+视频教程 http://doc.bmob.cn/video/index.html
+使用Bmob代替无法访问的firebase和无法注册的野狗云 https://www.jianshu.com/p/43d2ccdd40cd
+
+##############################
+### Part III 乐乐学习相关网站
+苏州市学校安全教育平台 https://suzhou.xueanquan.com/Login.html
+苏州市学校安全教育平台活动 https://huodong.xueanquan.com/winter2020/chakan.html
+第2课堂 https://www.2-class.com/competition
+苏州线上教育中心 https://xs.szjyj.gov.cn/pagesV2/home.html#/
+苏州线上教育中心 名师直播课表 https://xscdn.emooc-sys.com/pub/platform/schedule.html
+易加互动 http://study.sipedu.org/pub/platform/home.html#2
+https://sso.sipedu.org/cas/login?service=http%3A%2F%2Fstudy.sipedu.org%2Flogin%2FjumpToLogin%3Bjsessionid%3D7h0ukxq4cze0lf4urpt5fpg7%3Fgoto%3Dhttp%253A%252F%252Fstudy.sipedu.org%252Fpub%252Fresource%252FresDetail.html%253FresCode%253DMT10003410042341%2526resTypeL1%253D10%2526shareLevel%253D30
+
+
+##############################
+### Part IV 资讯
+虎嗅首页 https://www.huxiu.com/
+虎嗅文章 内讧凶狠 https://www.huxiu.com/article/325491.html
+剁手评测网站 https://www.chiphell.com/
+北海道 屈斜路湖 风光美女照 https://www.chiphell.com/thread-2175410-2-1.html 非阿寒湖
+Chrome浏览器用起来很爽，还想要更爽？用好这些插件能上天  https://www.chiphell.com/thread-1982088-2-1.html
+
+##############################
+### Part V 汽车相关
+爱卡汽车 http://www.xcar.com.cn/
+美国IIHS 官网 https://www.iihs.org/ratings/vehicle/toyota/avalon-4-door-sedan/2019
+本田官网手册下载地址 https://owners.honda.com/vehicle-information/manuals?year=2019&model=Accord-Sedan
+丰田北美官网手册下载地址 https://www.toyota.com/owners/resources/warranty-owners-manuals/rav4-hv/2019?garagePrefVehicle=0&garageModelName=RAV4%20HV&garageYearValue=2019&addToVehicleList=false&remRecentVehicle=false&csrfToken=15580537343684483680466303510889
+福特美国官网手册下载 https://owner.ford.com/tools/account/how-tos/owner-manuals.html?year=2020&make=Ford&model=F-150
+牛车网 http://www.niuche.com/news
+车质网 提升安全与操控 丰田新凯美瑞车身解析 http://www.12365auto.com/parts/20180120/321946-all.shtml
+Tesla Gigafactory: a look at the robots and ‘machine building the machine’ at the battery factory https://electrek.co/2016/07/31/tesla-gigafactory-robots-machines-battery-factory/
+
+
+汽车模型
+尼桑日产 GT-R 模型制作（日本）http://mokehana.com/j-build-fujimi_r35gtr02.htm
+GT-R35 模型参考（日本）http://build.yu-nagi.com/r35gtr_fujimi_finished.html
+
+
+##############################
+### Part VI 各种工业相关
+中国与日本的智能制造，差距到底多少年 http://www.myzaker.com/article/5d27136c8e9f09757709bcb4/
+litmus 官网日语http://litmusautomation.jig-saw.com/faq/
+
+1. 轮毂  铝业
+Aluminium alloy wheels manufacturing process, materials and design https://www.engineeringclicks.com/aluminium-car-wheels/
+
+http://wheelmachinery.com/profile/wheel-manufacturing/199771/0/
+http://wheelmachinery.com/2-tooling-design-and-manufacture/199707/
+https://www.alibaba.com/product-detail/automatic-steel-wheel-rim-manufacturing-line_967246126.html
+http://wheelmachinery.com/#
+
+ 直击全自动化轮毂锻造工艺生产线
+ https://www.sohu.com/a/220930274_513558
+Type and characteristics of Diamond/CBN wheels  https://www.allied-material.co.jp/en/products/diamond/knowledge/diamond_cbn-wheel_type.html
+ 
+##############################
+### Part VII 音乐 乐理 乐器器材相关
+乐器社  乐理 https://www.musicbody.net/music/theory/index.html
+迷音 各种资源 http://www.miyinlos.com/index.php?m=content&c=index&a=show&catid=74&id=2274
+Korg 手册下载地址 https://www.korg.com/us/support/download/#
+Roland 手册下载地址 http://www.roland-china.com/support/owners_manuals/t_z
+美国Roland 手册下载地址 https://www.roland.com/global/support/owners_manuals/
+
+Part VIII 电子书 
+两小无猜教育 http://www.lxwc.com.cn/post-10825-1-1.html
