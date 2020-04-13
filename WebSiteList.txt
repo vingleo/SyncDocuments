@@ -22,7 +22,7 @@ kitsunebi，IOS上优秀的v2ray软件，附带使用教程和规则 https://www
 ASCII，Unicode和UTF-8终于找到一个能完全搞清楚的文章了 https://blog.csdn.net/Deft_MKJing/article/details/79460485
 字符编码笔记：ASCII，Unicode 和 UTF-8 http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html
 理解字节序 http://www.ruanyifeng.com/blog/2016/11/byte-order.html
-
+git-pull 的用法总结 https://blog.csdn.net/chaiyu2002/article/details/82120256
 
 Swift中文教程（三） 字符串和字符  https://www.iteye.com/blog/justcoding-2077323
 Swift 相关
