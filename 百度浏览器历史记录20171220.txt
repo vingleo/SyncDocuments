@@ -1,0 +1,23 @@
+https://ss64.com/osx/     Mac OS X 命令行说明
+https://www.zhihu.com/question/20995941    如何使用 Excel 绘制甘特图？
+https://www.khanacademy.org/         可汗教育网站
+http://119.119.119.8/home/oc_chart.php   华冠公司组织架构
+https://www.w3cschool.cn/html/dict  W3CSchool 词典
+http://119.119.119.40:8080/bussinessTrip/login.jsp    华冠出差系统 内网
+http://119.119.119.80/vacate_request/login.php   华冠请假系统
+http://222.92.112.66:9008/redmine/login?back_url=http%3A%2F%2F222.92.112.66%3A9008%2Fredmine%2Fissues%2F4273    华冠 Redmine
+http://119.119.119.78:8080/  华冠Jasper
+file:///D:/temp/CorePlot_2.2.HTML.docs.iOS/iOS/index.html   Core Plot 站点
+https://developer.apple.com/documentation/foundation/nsjsonserialization?language=objc   苹果开发网站  NSJSON
+http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652550690&idx=1&sn=db1cac3da1bc8f6155fc7d585da381f5&chksm=bcd2f32c8ba57a3ab9942d488ed9da5e82bdb465d8c749e796da5d08993760f6cb9f7d400e1b&scene=21#wechat_redirect       iOS高级调试&逆向技术 
+http://119.119.119.8/home/news_center.php   华冠门户
+http://119.119.119.8/mantis/login_page.php  华冠 Mantis
+https://japanfreewifi.com/   日本旅行 wifi
+https://en.wikipedia.org/wiki/Purdue_Enterprise_Reference_Architecture    维基Purdue Enterprise Reference Architecture
+http://www.cocoachina.com/apple/20171117/21209.html    来了，支持 iOS 开发的 Kotlin/Native v0.4 发布
+http://www.cocoachina.com/   Cocoa门户
+http://www.cocoachina.com/apple/20171108/21099.html   iPhone X屏幕详解：DisplayMate史上最高A+评级
+https://www.zhihu.com/question/19590714   天使投资、VC 以及 PE 的区别是什么 
+https://www.zhihu.com/question/32281244?sort=created   美剧《硅谷》中提到了哪些创业知识 
+
+
