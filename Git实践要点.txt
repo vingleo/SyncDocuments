@@ -450,7 +450,7 @@ $ git diff commit-id1 commit-id2 path-to-filename
 $ git rm NeedDelete.txt 
 同时会工作目录中删除，也不会出现在未跟踪文件列表中
 
-不建议直接从工作目录删除，被删除查看状态会
+不建议直接从工作目录删除，会无法查看跟踪被删除的文件
 $ git status
 还需要 $ git rm NeedDelete.txt 记录此次操作
 提交后该文件就不列入版本管理
@@ -460,6 +460,11 @@ $ git status
 13.2 将文件从暂存区域移除， 但保留在工作区。比如日志文件不小心纳入仓库， 移出跟踪，不删除文件。后续在 .gitignore添加
 $ git rm --cached log2019.1.1.txt
 $ git rm log/\*.log
+
+13.3 无法删除文件，提示错误
+error: the following file has local modifications:
+可以使用f参数强制删除
+$ git rm -f 文件名
 
 14 开发中临时加塞了紧急任务怎么处理？
 隐藏工作区域

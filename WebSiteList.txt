@@ -1,29 +1,64 @@
 ##############################
 ### Part I 影视相关:
-电影巴士 https://www.dy8c.com/entertainment/category/movie-channel/
-新闻编辑室 第一季 https://www.dy8c.com/entertainment/20855/
-新闻编辑室 全集 https://www.dy8c.com/entertainment/80695/
-犯罪现场调查之迈阿密篇全集 犯罪现场调查之迈阿密篇 https://www.dy8c.com/entertainment/72963/
-福尔摩斯：基本演绎法第七季 https://www.dy8c.com/entertainment/214357/
-识骨寻踪 第一季 https://www.dy8c.com/entertainment/58137/
-律师本色 全集 https://www.dy8c.com/entertainment/76592/
-萤火虫/宁静号 第一季  https://www.dy8c.com/entertainment/111206/
+【影视】
+https://www.dy8c.com/entertainment/category/movie-channel/   电影巴士 
+https://www.dy8c.com/entertainment/20855/  新闻编辑室 第一季 
+https://www.dy8c.com/entertainment/80695/  新闻编辑室 全集 
+https://www.dy8c.com/entertainment/72963/  犯罪现场调查之迈阿密篇全集 犯罪现场调查之迈阿密篇
+https://www.dy8c.com/entertainment/214357/  福尔摩斯：基本演绎法第七季 
+https://www.dy8c.com/entertainment/58137/   识骨寻踪 第一季 
+https://www.dy8c.com/entertainment/76592/  律师本色 全集 
+https://www.dy8c.com/entertainment/111206/  萤火虫/宁静号 第一季  
+http://www.acgsou.com/  动画搜索网站 （已阵亡）
+https://zh.moegirl.org/%E6%A4%8E%E5%90%8D%E7%9C%9F%E7%94%B1%E7%90%86#  萌娘百科 
+https://www.zhihu.com/question/32281244?sort=created     美剧《硅谷》中提到了哪些创业知识 
+http://www.jilupianzhijia.com/vodhtml/9.html   食彩王国 纪录片下载 
+https://www.36dm.com/show-f44fbd25a0f7a7f2c8505183cf6eaf1c876d817e.html   简单动漫 
+http://www.dy8c.com/entertainment/78692/?_t_t_t=0.060560131257419325   十三号仓库全集 
+http://www.dy8c.com/entertainment/163578/
+http://www.dy8c.com/?s=%E5%88%9B%E4%B8%9A%E5%85%AC%E5%8F%B8
+http://www.btbtt.pw/thread-index-fid-950-tid-4377861.htm  
+http://www.btbtt.pw/thread-index-fid-981-tid-4412561.htm
+http://www.btbtt.pw/thread-index-fid-950-tid-4339152.htm  亿万 billions 
+http://www.torrentbit.net/search/?torrent=lynda++scenekit&cat_id=0  BT种子下载搜索  
 
-动画搜索网站 http://www.acgsou.com/  （已阵亡）
-萌娘百科 https://zh.moegirl.org/%E6%A4%8E%E5%90%8D%E7%9C%9F%E7%94%B1%E7%90%86#
-
+【音乐Music】
+http://www.90xz.com/YinLe/542374   电驴下载Ape 
+http://mp3bst.com/category/%E5%8E%9F%E5%A3%B0    百视听音乐下载  
 
 ##############################
-### Part II 知识点
-面向新手的V2Ray搭建指南 https://yuan.ga/v2ray-build-guide-for-novices/
-kitsunebi，IOS上优秀的v2ray软件，附带使用教程和规则 https://www.nutgeek.com/kitsunebi-a-ios-v2ray-app/
-各种编程语言的参考资料网站 https://www.cambiaresearch.com/#modalSearch
-大端小端 Big Endian 和 Little Endian 详解 https://blog.csdn.net/waitingbb123/article/details/80504093
-ASCII，Unicode和UTF-8终于找到一个能完全搞清楚的文章了 https://blog.csdn.net/Deft_MKJing/article/details/79460485
-字符编码笔记：ASCII，Unicode 和 UTF-8 http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html
-理解字节序 http://www.ruanyifeng.com/blog/2016/11/byte-order.html
-git-pull 的用法总结 https://blog.csdn.net/chaiyu2002/article/details/82120256
+### Part II 软件知识点
 
+【硬件】
+http://www.cocoachina.com/apple/20171108/21099.html  iPhone X屏幕详解：DisplayMate史上最高A+评级 
+http://blog.csdn.net/mydreamremindme/article/details/9670583    内存对齐详解 
+ 
+【微软Windows】
+https://www.cnblogs.com/visionfeng/p/5611592.html       ATL CLR MFC Win32 常规的区别 
+
+【数据库】
+http://blog.csdn.net/cserchen/article/details/5649557    sqlite中遍历数据的一些方法 
+http://blog.csdn.net/pupilxiaoming/article/details/59074898  Mysql的收费方式 
+https://github.com/Alamofire/Alamofire    Alamofire数据库 
+http://www.cocoachina.com/ios/20150505/11756.html     Realm数据库基础教程 
+https://realm.io/docs/objc/latest/            realm 说明 
+
+
+https://yuan.ga/v2ray-build-guide-for-novices/   面向新手的V2Ray搭建指南 
+https://www.nutgeek.com/kitsunebi-a-ios-v2ray-app/  kitsunebi，iOS上优秀的v2ray软件，附带使用教程和规则 
+https://www.cambiaresearch.com/#modalSearch  各种编程语言的参考资料网站 
+https://blog.csdn.net/waitingbb123/article/details/80504093  大端小端 Big Endian 和 Little Endian 详解 
+https://blog.csdn.net/Deft_MKJing/article/details/79460485  ASCII，Unicode和UTF-8终于找到一个能完全搞清楚的文章了 
+http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html  字符编码笔记：ASCII，Unicode 和 UTF-8 
+http://www.ruanyifeng.com/blog/2016/11/byte-order.html  理解字节序 
+https://blog.csdn.net/chaiyu2002/article/details/82120256  git-pull 的用法总结 
+
+【Office相关】
+https://www.zhihu.com/question/20995941    如何使用 Excel 绘制甘特图？
+
+【Mac和iOS】
+http://lib.csdn.net/base/objective-c   CSDN Objective-C知识库
+https://ss64.com/osx/      Mac OS X 命令行说明 
 Swift中文教程（三） 字符串和字符  https://www.iteye.com/blog/justcoding-2077323
 Swift 相关
 swift最新同步官方文档中文化 https://www.cnswift.org/classes-and-structures
@@ -32,7 +67,56 @@ Swift 帮助你更好的了解 Swift 的字符编码格式 - Unicode Scalars htt
 iOS开发 社区 Cocoa China iOS 8 AutoLayout与Size Class自悟 http://www.cocoachina.com/articles/10669
 Block实现iOS回调 https://www.jianshu.com/p/c8ed6c3e40d0
 iOS开发"Socket"简单使用 https://www.cnblogs.com/wzyking/p/5174971.html
+苹果开发网站 NSJSON   https://developer.apple.com/documentation/foundation/nsjsonserialization?language=objc   
+iOS高级调试&逆向技术  http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652550690&idx=1&sn=db1cac3da1bc8f6155fc7d585da381f5&chksm=bcd2f32c8ba57a3ab9942d488ed9da5e82bdb465d8c749e796da5d08993760f6cb9f7d400e1b&scene=21#wechat_redirect   
+支持 iOS 开发的 Kotlin/Native v0.4 发布 http://www.cocoachina.com/apple/20171117/21209.html    
+Cocoa官网    http://www.cocoachina.com/  
+swift  objective  内存对齐   
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=monline_4_dg&wd=swift%20%20objective%20%20%E5%86%85%E5%AD%98%E5%AF%B9%E9%BD%90&oq=ios%2520%25E5%2586%2585%25E5%25AD%2598%25E5%25AF%25B9%25E9%25BD%2590&rsv_pq=c8be8ff10000b363&rsv_t=0276z1tHZRRjFwlaUiMM%2Bn5lOhImovr%2BU6ZEq6XoHdK%2FjZjXyWpbEKKNGjyMXyru8jcI&rqlang=cn&rsv_enter=1&rsv_sug3=21&rsv_sug2=0&inputT=4893&rsv_sug4=7254  
+关于Swift4中内存安全访问 https://www.cnblogs.com/tingxins/p/7750026.html   
+Swift内存模型的那点事儿 http://blog.csdn.net/brycegao321/article/details/75412629   
+swift懒加载 https://www.baidu.com/baidu?wd=swift+%C0%C1%BC%D3%D4%D8&tn=monline_4_dg  
+Swift - 懒加载的实现 http://www.jianshu.com/p/af0702a91e92     
+Swift—UIButton的基本用法 http://www.jianshu.com/p/30db749bf18b  
+Swift 字符(Character) http://www.runoob.com/swift/swift-characters.html   
+Swift类和结构体（Classes and Structures） https://www.kancloud.cn/digest/swift937447974/161142   
+CSDN swift 知识库 http://lib.csdn.net/swift/node/5     
+swift中国  类和结构体（Classes and Structures） http://swiftcn.io/doc/chapter2/09_Classes_and_Structures.html  
+WatchOS系统开发大全  http://www.cocoachina.com/ios/20170728/20052.html    
+iOS iPad开发~demo http://www.cocoachina.com/ios/20170808/20176.html   
+iOS---RunLoop深度剖析  http://www.cnblogs.com/superYou/p/4645168.html   
+Swift多线程：使用GCD实现异步下载图片 http://www.cocoachina.com/swift/20170731/20065.html  
+开发者所需要知道的iOS11SDK新特性 http://www.cocoachina.com/ios/20170607/19457.html      
+Swift3.0 URLSession学习笔记 http://blog.csdn.net/brycegao321/article/details/54387376   
+iOS开发网络篇—发送GET和POST请求（使用NSURLSession） http://www.cnblogs.com/wendingding/p/5168772.html   
+NSURLSession与NSURLConnection区别 http://www.cnblogs.com/kakaluote123/articles/5426923.html    
+iTunes的API  https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/      
+icloud https://www.icloud.com/     
+Swift - 解析JSON数据（内置JSONSerialization与第三方JSONKit） http://www.hangge.com/blog/cache/detail_647.html   
+Stackoverflow  https://stackoverflow.com/questions/40166175/accessing-json-objects-parsed-from-itunes-api-in-swift-3-0   
+iOS 判断名字、省份证号、电话号码、邮箱 、车牌号码的正则表达式 http://blog.csdn.net/yxxxiao/article/details/49965365   
+socket在iOS上的应用  http://blog.csdn.net/nyankun/article/details/52206537   
+XCode中 instruments 工具使用  http://lib.csdn.net/article/swift/68037     
+iOS view的frame和bounds之区别（位置和大小） http://www.cocoachina.com/ios/20150623/12187.html   
+iOS夯实：内存管理   https://github.com/100mango/zen/blob/master/iOS%E5%A4%AF%E5%AE%9E%EF%BC%9A%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/iOS%E5%A4%AF%E5%AE%9E%EF%BC%9A%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md     
+iOS性能优化：Instruments使用实战 http://www.cocoachina.com/ios/20150225/11163.html   
+Swift - 使用URLSession加载数据、下载、上传文件 http://www.hangge.com/blog/cache/detail_780.html   
+苹果官网Wi-Fi 基站：设置和配置漫游网络 (802.11 a/b/g/n)  https://support.apple.com/zh-cn/HT204616    
+苹果开发官网NSData  https://developer.apple.com/documentation/foundation/nsdata   
+Array https://developer.apple.com/documentation/swift/array   苹果官网
+http://www.cocoachina.com/swift/20170808/20173.html  Chris Lattner 访谈录 Xcode 的编译器 LLVM 和Swift的作者 
+https://immanito.github.io/2017/01/06/Runloop%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/   Runloop笔记
+http://www.cocoachina.com//ios/20160612/16631.html   解密——神秘的RunLoop
+https://www.cnblogs.com/kenshincui/p/6823841.html  iOS刨根问底-深入理解RunLoop
+https://blog.csdn.net/u014795020/article/details/72084735 深入理解Runloop，看我一篇就够了
+https://www.jianshu.com/p/3105b7f9fb8c  深入理解RunLoop
+https://stackoverflow.com/questions/33436288/how-to-use-socket-in-swift-connect-send-and-get-message      使用Swift的socket 
+https://www.raywenderlich.com/157128/real-time-communication-streams-tutorial-ios     swift5 下开发使用socket编写网络应用
+http://www.ios-blog.co.uk/tutorials/swift/developing-ios8-apps-using-swift-part-2-connect-to-the-itunes-search-api/    Developing iOS8 Apps Using Swift- Part 2 - Connect to the iTunes Search API
+http://www.cocoachina.com/ios/20170413/19048.html  面试时如何优雅的谈论源码
 
+
+【微信相关】
 微信小程序官方文档 https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/share.html
 微信小程序服务端 https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/signature.html
 微信小程序网络 https://developers.weixin.qq.com/miniprogram/dev/framework/ability/network.html
@@ -41,22 +125,50 @@ iOS开发"Socket"简单使用 https://www.cnblogs.com/wzyking/p/5174971.html
 企业微信如何实现PC端扫码登录第三方网站 https://blog.csdn.net/u010957293/article/details/76572137
 前端vue实现企业微信扫码登录 https://www.jianshu.com/p/1439ca18089f
 
+人工智能 博客 https://my.csdn.net/jiangjunshow 
+对于iOS开发，人工智能意味着什么 http://www.cocoachina.com/ios/20170911/20526.html  
+构建库管理工具 Maven 入门 https://juejin.im/post/5a4a5e2bf265da4322418d7f
 
-配色相关
+【前后端】
+http://vingleo.byethost12.com/?ckattempt=1    vingleo主页
+https://panel.byethost.com/panel/indexpl.php?id=87dd3839b2d9a8b95b0a6aa23f5ccfe50ea5650b   vingleo主页管理页面
+https://www.w3cschool.cn/html/dict   W3CSchool 词典 
+史上最简单的 SpringCloud 教程 | 终章 https://blog.csdn.net/forezp/article/details/70148833 
+SpringBoot非官方教程 | 第二十五篇：2小时学会springboot https://blog.csdn.net/forezp/article/details/61472783
+怎样搭建一个赚钱的个人博客网站 https://www.10besty.com/how-to-start-a-successful-blog/  
+Wordpress.org   VS   Wordpress.com 博客程序对比 https://www.10besty.com/wordpress-org-vs-wordpress-com/   
+最受欢迎的虚拟主机 https://www.10besty.com/bluehost/  bluehost  
+图标下载处理网站 http://www.favicon.cc/?   
+JSON 在线格式解析  http://www.json.cn/    
+理解javascript的闭包,原型,和匿名函数及IIFE   http://www.cnblogs.com/isdom/p/webclips012.html   
+开始使用React Native  http://reactnative.cn/docs/0.22/getting-started.html#content 
+https://www.w3cschool.cn/webservices/    W3CSchool  Web Services教程   
+http://www.runoob.com/webservices/ws-platform.html   Web Services 平台元素    
+
+
+
+【配色相关】
 关于颜色理论 https://blog.csdn.net/weixin_33716941/article/details/90626346
 
-linux相关
+【linux相关】
 User space 与 Kernel space http://www.ruanyifeng.com/blog/2016/12/user_space_vs_kernel_space.html
 
-git相关
+【git相关】
 git 官网手册 https://git-scm.com/book/zh/v2/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%AE%80%E4%BB%8B
 GitHub Actions 入门教程 http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html
 廖雪峰的Git教程 https://www.liaoxuefeng.com/wiki/896043488029600/900788941487552
+Git本地服务器搭建及使用详解 http://www.cnblogs.com/linsanshu/p/5512038.html   
+架设本地git服务器 https://www.baidu.com/baidu?wd=%BC%DC%C9%E8%B1%BE%B5%D8git%B7%FE%CE%F1%C6%F7&tn=monline_4_dg  
+
+
 
 Bomb后端 官网手册 http://doc.bmob.cn/data/ios/swift_develop_doc/#acl
 iOS端 https://docs.bmob.cn/data/iOS/a_faststart/doc/index.html#%E6%B3%A8%E5%86%8CBmob%E5%B8%90%E5%8F%B7
 视频教程 http://doc.bmob.cn/video/index.html
 使用Bmob代替无法访问的firebase和无法注册的野狗云 https://www.jianshu.com/p/43d2ccdd40cd
+
+【Java】
+教程 https://www.runoob.com/java/java-package.html
 
 ##############################
 ### Part III 乐乐学习相关网站
@@ -69,11 +181,15 @@ iOS端 https://docs.bmob.cn/data/iOS/a_faststart/doc/index.html#%E6%B3%A8%E5%86%
 https://sso.sipedu.org/cas/login?service=http%3A%2F%2Fstudy.sipedu.org%2Flogin%2FjumpToLogin%3Bjsessionid%3D7h0ukxq4cze0lf4urpt5fpg7%3Fgoto%3Dhttp%253A%252F%252Fstudy.sipedu.org%252Fpub%252Fresource%252FresDetail.html%253FresCode%253DMT10003410042341%2526resTypeL1%253D10%2526shareLevel%253D30
 
 
+【Android】
+https://www.ithome.com/html/android/309497.htm  一文看懂Android O（安卓8.0）所有新功能 
+
 ##############################
 ### Part IV 资讯
 虎嗅首页 https://www.huxiu.com/
 虎嗅文章 内讧凶狠 https://www.huxiu.com/article/325491.html
-剁手评测网站 https://www.chiphell.com/
+https://www.guokr.com/  果壳网
+https://www.chiphell.com/  剁手评测网站 Chiphell网 
 北海道 屈斜路湖 风光美女照 https://www.chiphell.com/thread-2175410-2-1.html 非阿寒湖
 Chrome浏览器用起来很爽，还想要更爽？用好这些插件能上天  https://www.chiphell.com/thread-1982088-2-1.html
 
@@ -89,17 +205,25 @@ Chrome浏览器用起来很爽，还想要更爽？用好这些插件能上天  
 Tesla Gigafactory: a look at the robots and ‘machine building the machine’ at the battery factory https://electrek.co/2016/07/31/tesla-gigafactory-robots-machines-battery-factory/
 
 
-汽车模型
+【汽车模型】
 尼桑日产 GT-R 模型制作（日本）http://mokehana.com/j-build-fujimi_r35gtr02.htm
 GT-R35 模型参考（日本）http://build.yu-nagi.com/r35gtr_fujimi_finished.html
 
 
 ##############################
-### Part VI 各种工业相关
+### Part VI 各种制造业工业4.0相关
 中国与日本的智能制造，差距到底多少年 http://www.myzaker.com/article/5d27136c8e9f09757709bcb4/
 litmus 官网日语http://litmusautomation.jig-saw.com/faq/
+精益化生产  https://baike.baidu.com/item/%E7%B2%BE%E7%9B%8A%E5%8C%96%E7%94%9F%E4%BA%A7/5918835?fr=aladdin&fromid=18081497&fromtitle=Lean+Manufacturing
+ISA95 官网https://isa-95.com/login/?redirect_to=https%3A%2F%2Fisa-95.com%2Fdownloads%2F&reauth=1     
+ISA95-MES标准  https://wenku.baidu.com/view/89e8bbd349649b6648d74775.html###    
+MES 盘古 Pangus  http://www.pangus-ims.com/Info-ims-cat-9.html    
 
-1. 轮毂  铝业
+
+【电子SMT】
+SMT 单板追溯系统解决方案 v3.0（追溯基于时间和ASM贴片机社备） https://detail.1688.com/offer/540991865396.html    
+
+【轮毂铝业】
 Aluminium alloy wheels manufacturing process, materials and design https://www.engineeringclicks.com/aluminium-car-wheels/
 
 http://wheelmachinery.com/profile/wheel-manufacturing/199771/0/
@@ -107,7 +231,7 @@ http://wheelmachinery.com/2-tooling-design-and-manufacture/199707/
 https://www.alibaba.com/product-detail/automatic-steel-wheel-rim-manufacturing-line_967246126.html
 http://wheelmachinery.com/#
 
- 直击全自动化轮毂锻造工艺生产线
+直击全自动化轮毂锻造工艺生产线
  https://www.sohu.com/a/220930274_513558
 Type and characteristics of Diamond/CBN wheels  https://www.allied-material.co.jp/en/products/diamond/knowledge/diamond_cbn-wheel_type.html
  
@@ -119,5 +243,31 @@ Korg 手册下载地址 https://www.korg.com/us/support/download/#
 Roland 手册下载地址 http://www.roland-china.com/support/owners_manuals/t_z
 美国Roland 手册下载地址 https://www.roland.com/global/support/owners_manuals/
 
-Part VIII 电子书 
+##############################
+### Part VIII 教育及电子书 
 两小无猜教育 http://www.lxwc.com.cn/post-10825-1-1.html
+如何使用 Excel 绘制甘特图？ https://www.zhihu.com/question/20995941  
+开发电子书下载页面 https://salttiger.com/archives/  
+http://www.itpub.net/thread-1902681-1-1.html    电子书下载网站 ITPub
+http://www.itpub.net/forum-61-1.html   电子书下载网站 ITPub  
+
+##############################
+### Part IX 旅游美食
+日本旅行wifi https://japanfreewifi.com/   
+一期一会日料研究  https://mp.weixin.qq.com/mp/homepage?__biz=MzAwOTc5MDYxOA==&hid=1&sn=d85fb87f39ae2b5dd0b3cd53ad846b5e&scene=18&uin=&key=&devicetype=Windows+7&version=6206021b&lang=zh_CN&ascene=7&winzoom=1   
+做派的英文网站 https://www.everythingpies.com/pie-school-of-pie-making/  
+去日本自助旅游应该注意什么 https://jp.hjenglish.com/new/p1123663/   
+
+ 
+##############################
+### Part X 投资理财
+天使投资、VC 以及 PE 的区别是什么  https://www.zhihu.com/question/19590714   
+维基Purdue Enterprise Reference Architecture https://en.wikipedia.org/wiki/Purdue_Enterprise_Reference_Architecture    
+
+##############################
+### Part XI 外语相关
+
+【日语】
+https://dict.hjenglish.com/jp/jc/%E6%97%AD%E5%B7%9D   沪江字典 日语
+https://jp.hjenglish.com/c/new/763361/   自学日语应该从哪里学起
+https://zhuanlan.zhihu.com/cdteikyo   日语考级经验 
