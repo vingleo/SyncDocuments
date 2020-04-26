@@ -82,7 +82,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <input type="radio">   // 取值要用checked 属性
 <input type="checkbox">  // 取值要用checked 属性
 <input type="hidden">
-<select>
+<input type="submit" value="Submit">
+<select name="choise">
+   <option value="Pic1.jpg">图1</option>
+   <option value="Pic2.jpg">图2</option>
+</select>
 
 获取值和设置
 var input = document.getElementById('email');

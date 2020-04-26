@@ -27,6 +27,7 @@ http://www.btba.cc/down/41663441570/1.html
 http://www.jlpcn.net/vodtypehtml/19-2.html  纪录片天地
 http://www.btba.cc/down/970543741143/1.html
 https://www.36dm.com/  简单动漫 好网站
+http://www.acgxxx.com/cosq-002-%E4%B8%AD%E5%87%BA%E3%81%97%E3%81%94%E3%81%A3%E3%81%8F%E3%82%93%E3%82%B3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC-%E4%BB%81%E7%A7%91%E7%99%BE%E8%8F%AF/  绅士网站下载 磁力 
 
 【音乐Music】
 http://www.90xz.com/YinLe/542374   电驴下载Ape 
@@ -118,7 +119,16 @@ https://www.jianshu.com/p/3105b7f9fb8c  深入理解RunLoop
 https://stackoverflow.com/questions/33436288/how-to-use-socket-in-swift-connect-send-and-get-message      使用Swift的socket 
 https://www.raywenderlich.com/157128/real-time-communication-streams-tutorial-ios     swift5 下开发使用socket编写网络应用
 http://www.ios-blog.co.uk/tutorials/swift/developing-ios8-apps-using-swift-part-2-connect-to-the-itunes-search-api/    Developing iOS8 Apps Using Swift- Part 2 - Connect to the iTunes Search API
-iOS端 https://docs.bmob.cn/data/iOS/a_faststart/doc/index.html#%E6%B3%A8%E5%86%8CBmob%E5%B8%90%E5%8F%B7
+https://docs.bmob.cn/data/iOS/a_faststart/doc/index.html#%E6%B3%A8%E5%86%8CBmob%E5%B8%90%E5%8F%B7  iOS端
+apple Machina Learning 
+https://developer.apple.com/documentation/createml/mlimageclassifierbuilder
+https://www.jianshu.com/p/62490b81466e  Core ML第一弹：用Core ML创建一款小的图像识别App
+https://www.jianshu.com/p/28428b90b07a  iOS 整体框架及类继承框架图
+https://developer.apple.com/documentation/driverkit   驱动编写
+https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/SoftwareProducts/SoftwareProducts.html#//apple_ref/doc/uid/TP40001067-CH206-TPXREF123   设备驱动编写
+
+【arduino】
+https://www.arduino.cn/thread-11353-1-1.html  用Arduino扩展无人飞行器+普及无人机知识，不会算法的人必看
 
 【微信相关】
 https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/share.html  微信小程序官方文档 
@@ -203,6 +213,8 @@ https://owner.ford.com/tools/account/how-tos/owner-manuals.html?year=2020&make=F
 http://www.niuche.com/news  牛车网新闻
 http://www.12365auto.com/parts/20180120/321946-all.shtml  车质网 提升安全与操控 丰田新凯美瑞车身解析 
 https://electrek.co/2016/07/31/tesla-gigafactory-robots-machines-battery-factory/  Tesla Gigafactory: a look at the robots and ‘machine building the machine’ at the battery factory 
+https://car.autohome.com.cn/shuyu/detail_57_50_730.html   法拉利288GTO
+
 
 
 【汽车模型】
@@ -214,6 +226,7 @@ http://build.yu-nagi.com/r35gtr_fujimi_finished.html  GT-R35 模型参考（日�
 ### Part VI 各种制造业工业4.0相关
 http://www.myzaker.com/article/5d27136c8e9f09757709bcb4/  中国与日本的智能制造，差距到底多少年 
 http://litmusautomation.jig-saw.com/faq/  litmus 官网日语
+https://litmusautomation.jp/    litmus 官网
 https://baike.baidu.com/item/%E7%B2%BE%E7%9B%8A%E5%8C%96%E7%94%9F%E4%BA%A7/5918835?fr=aladdin&fromid=18081497&fromtitle=Lean+Manufacturing  精益化生产  
 https://isa-95.com/login/?redirect_to=https%3A%2F%2Fisa-95.com%2Fdownloads%2F&reauth=1      ISA95 官网 
 https://wenku.baidu.com/view/89e8bbd349649b6648d74775.html###      ISA95-MES标准  
@@ -239,6 +252,7 @@ http://www.miyinlos.com/index.php?m=content&c=index&a=show&catid=74&id=2274  迷
 https://www.korg.com/us/support/download/#  Korg 手册下载地址 
 http://www.roland-china.com/support/owners_manuals/t_z  Roland 手册下载地址 
 https://www.roland.com/global/support/owners_manuals/  美国Roland 手册下载地址 
+https://yamahamusicians.com/forum/viewtopic.php?t=11655   yamaha Bösendorfer Imperial Premium Grand Piano FREE download for all MODX owners
 
 ##############################
 ### Part VIII 教育及电子书 
@@ -276,6 +290,14 @@ https://game.ali213.net/thread-3170820-1-1.html 街霸3.3
 https://www.mamecn.com/search?q=marvel+vs+capcom 街机CN
 https://www.66game.cn/sou?typeid=6&q=marvel+vs+capcom 66cn
 http://www.winkawaks.org/roms/cps2/index.htm cps2 rom下载
+https://www.ed2000.com/ShowFile/140476.html  DC游戏下载
+http://kickasstorrents.ee/my-complete-sega-dreamcast-collection-ntsc-usa-pal-jap-t8005298.html  DC游戏bt下载和列表
+https://www.mamecn.com/jiejiyunxingban/6576.html  cave射击游戏
+https://baijiahao.baidu.com/s?id=1619289642404965548&wfr=spider&for=pc   Cave射击游戏
+https://game.ali213.net/thread-5945746-1-1.html  cave下载
+https://tieba.baidu.com/p/5436039400  Cave相册下载
+https://tieba.baidu.com/p/5444225145?red_tag=3406786533  怒首领蜂大复活全系统说明
+
 
 ##############################
 ### Part XIII 打印厂商
