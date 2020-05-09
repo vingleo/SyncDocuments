@@ -110,14 +110,14 @@ Git实践要点
 		7 未解决的问题汇总
 第四部分：自行假设Git服务器
 	一、选择通讯协议
-		1. 协议类型
+		1 协议类型
 			1.1 本地协议
 			1.2 HTTP协议
 			1.3 SSH协议
 			1.4 Git协议
 	二、自己架设git服务器
-		1. 服务器和客户机端设置方法
-		2. 权限设置相关
+		1 服务器和客户机端设置方法
+		2 权限设置相关
 		
 正文	
 
@@ -647,10 +647,10 @@ warning: deleting branch 'newBranch' that has been merged to
 
 一个远程仓库通常是一个裸仓库（bare repository）————没有当前工作目录的仓库（无需从磁盘检查快照；只存放Git资料），相当于工程目录内.git 目录内容
 
-	一、选择通讯协议
-	1. 协议类型
+一、选择通讯协议
+1 协议类型
 	分本地协议（local Protocol）、HTTP协议、SSH（Secure Shell）协议、Git协议
-	1.1 本地协议——硬盘内另一个目录（常见为团队共用一个挂载的NFS）
+1.1 本地协议——硬盘内另一个目录（常见为团队共用一个挂载的NFS）
 	优点：套用现有文件权限和网络访问权限。只需将裸版本库的副本放置到成员都可访问的路径，设置读写权限
 	缺点：共享文件系统较难配置，不方便从多个位置访问，比网络连接速度慢。每个用户都可对目录操作，无法避免损坏仓库
 	支持 clone、push、pull
@@ -660,44 +660,43 @@ warning: deleting branch 'newBranch' that has been merged to
 	$ git clone file:///opt/git/progject.git
 	例：增加一个本地版本库到现有git项目
 	$ git remote add local_proj /opt/git/project.git
-	1.2 HTTP协议 （分智能HTTP协议和哑HTTP协议）
+1.2 HTTP协议 （分智能HTTP协议和哑HTTP协议）
 	优点：使用简单，只用用户名密码，无需公钥上传，满足没有SSH使用环境，快速和高效，一般企业防火墙允许端口通过
 	缺点：假设HTTP/S 协议的服务端较复杂
 	智能协议运行在HTTP/S端口，使用多种HTTP验证机制，可使用HTTP协议的用户名/密码，免去设置SSH公钥。
 	即支持git://协议的匿名服务器，也支持类似SSH 传输时授权和加密，并只用一个URL。
 	哑（Dumb）HTTP协议
-	1.3 SSH协议
+1.3 SSH协议
 	优点：假设简单，访问安全，高效，传输前会压缩数据
 	缺点：无法匿名访问，读取也需权限。
 	例：
 	$ git clone ssh://user@server/project.git
 	或更简单类 scp写法
 	$ git clone user@server:project.git
-	1.4 Git协议 
+1.4 Git协议 
 	包含在Git里的 特殊守护进程；监听特殊端口（8418）。
 	版本库需先创建git-daemon-export-ok 文件 。
 	优点： 协议里最快
 	缺点： 没有授权机制 。一般同时提供SSH和HTTPS协议，让少数开发者有推送权限，其他用户用git://访问权限。防火墙必须要开9418端口
-	
-	二、自己架设git服务器
-	1. 服务器和客户机端设置方法
-	1.1 通过克隆，将现有的仓库导出为裸仓库
+二、自己架设git服务器
+1 服务器和客户机端设置方法
+1.1 通过克隆，将现有的仓库导出为裸仓库
 	$ git clone --bare my_project my_project.git
 	效果与 $ cp -Rf my_project/.git my_project.git 相同
-	1.2 把裸仓库放到服务器上并设置协议。
+1.2 把裸仓库放到服务器上并设置协议。
 	先准备好允许SSH连接的服务器，把所有的Git仓库放在/opt/git目录下，需要先创建该目录并修改为所有人都可读写
 	$ chmod 777 /opt/git
-	1.3 从客户端创建服务器上目录
+1.3 从客户端创建服务器上目录
 	$ scp -r my_project.git user@git.example.com:/opt/git 
-	1.4 其他用户可以通过ssh访问该服务器，并对/opt/git目录拥有可读写权限，可以克隆该仓库
+1.4 其他用户可以通过ssh访问该服务器，并对/opt/git目录拥有可读写权限，可以克隆该仓库
 	$ git clone user@git.example.com:/opt/git/my_project.git
-	1.5 一个用户用SSH连到服务器，并对/opt/git/my_project.git 目录可写，其自动拥有推送权限。
-	1.6 到项目下运行 git init 加上 --shared选项， Git会自动修改该仓库目录的组权限为可写。
+1.5 一个用户用SSH连到服务器，并对/opt/git/my_project.git 目录可写，其自动拥有推送权限。
+1.6 到项目下运行 git init 加上 --shared选项， Git会自动修改该仓库目录的组权限为可写。
 	$ ssh user@git.example.com
 	$ cd /opt/git/my_project.git
 	$ git init --bare --shared 
 	整个过程只需在服务器上加入可以用SSH登录的账号，把裸仓库放在大家都有读写权限的地方。	
-	2. 权限设置相关
+2 权限设置相关
 	
 
 
