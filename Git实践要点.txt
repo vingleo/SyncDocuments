@@ -690,7 +690,11 @@ warning: deleting branch 'newBranch' that has been merged to
 	$ scp -r my_project.git user@git.example.com:/opt/git 
 1.4 其他用户可以通过ssh访问该服务器，并对/opt/git目录拥有可读写权限，可以克隆该仓库
 	$ git clone user@git.example.com:/opt/git/my_project.git
-1.5 一个用户用SSH连到服务器，并对/opt/git/my_project.git 目录可写，其自动拥有推送权限。
+	或者客户端本地仓库已经有了项目文件， 可直接进入项目目录后创建远程链接
+	$ git remote add my_project user@git_server:/opt/git/my_project.git
+	之后就可以在客户端进行推送，见1.5节
+	1.5 一个用户用SSH连到服务器，并对/opt/git/my_project.git 目录可写，其自动拥有推送权限。
+	$ git push -u origin master
 1.6 到项目下运行 git init 加上 --shared选项， Git会自动修改该仓库目录的组权限为可写。
 	$ ssh user@git.example.com
 	$ cd /opt/git/my_project.git
