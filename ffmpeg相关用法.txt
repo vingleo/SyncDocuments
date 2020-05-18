@@ -269,6 +269,19 @@ AVI WMV9 + MP3 240,828,416
 MP4 X264 + AAC 161,052,151
 
 
+ffmpeg修复视频
+
+iOS平台，有时候视频不能播放，需要ffmpeg修复一下
+
+    安装ffmpeg
+    Windows安装方法：https://blog.csdn.net/yy3097/article/details/51063950
+    Mac安装方法：https://www.jianshu.com/p/627b2d462151
+
+    修复mp4命令
+    打开一个终端，cd到mp4的目录，运行命令(before.mp4是需要修复的视频文件，after.mp4是修复后保存的视频文件)
+    ffmpeg -i before.mp4 -codec copy after.mp4
+
+    这下就可以播放了
 
 
 
