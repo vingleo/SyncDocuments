@@ -120,7 +120,8 @@ console.log(input.value);
 <th rowspan="2">电话</th>
 3.10 对齐单元格内文字
 <th align="left">项目</th>
-
+3.11 设置表格边框粗细为1的线条
+例：<table border="1" style="BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" bordercolor="#000000">
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXX  PART II   CSS           XXXXXXXXXXXX
