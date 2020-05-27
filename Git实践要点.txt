@@ -71,7 +71,8 @@ Git实践要点
 			4.2 推送到远端
 			4.3 后续推送
 			4.4 从远端获取
-		5 删除Github上的个人仓库
+		5 从远程仓库同步获取最新数据
+		6 删除Github上的个人仓库
 	四、Git多人单分支集成协作时常见场景
 		1 不同人修改了不同文件如何处理？
 		2 不同人修改了同文件的不同区域如何处理？
@@ -422,6 +423,7 @@ $ git log --graph
 
 二、独自使用Git时的常见场景
 1 怎么删除不需要的分支
+
 2 怎么修改最新commit的message？
 2.1 查看当前分支的日志情况
 可在命令行上一行的括号中看先看下当前分支，如（master）
@@ -590,7 +592,53 @@ $git pull origin next:master
 例：远程分支(next)要与当前分支合并，则冒号后面的部分可以省略。
 $git pull origin next
 
-5 删除Github上的个人仓库
+5 从远程仓库同步获取最新数据
+5.1 查看远程分支
+$ git remote -v
+显示下面信息
+origin  git@github.com:username/My-site.git (fetch)
+origin  git@github.com:username/My-site.git (push)
+5.2 从远程获取最新版本到本地
+可以在本地新建一个temp分支，并将远程origin仓库的master分支代码下载到本地temp分支
+$ git fetch origin master:temp
+显示下面信息
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (4/4), 748 bytes | 2.00 KiB/s, done.
+From github.com:vingleo/My-site
+   938d5ca..8080d99  master     -> temp
+   938d5ca..8080d99  master     -> origin/master
+5.3 比较本地仓库与下载的temp分支
+$ git diff temp
+显示下面信息
+diff --git a/[原版英文书pdf].English.Vocabulary.Organiser.with.key-拆解/99.html b/[原版英文书pdf].English.Vocabulary.Organiser.with.key-拆解/99.html
+deleted file mode 100644
+index 7879e1c..0000000
+--- a/[原版英文书pdf].English.Vocabulary.Organiser.with.key-拆解/99.html
++++ /dev/null
+@@ -1,4 +0,0 @@
+-<html>
+-<body>
+-</body>
+-</html>
+5.4 合并temp分支到本地的master分支
+$ git merge temp
+显示下面信息
+Updating 938d5ca..8080d99
+Fast-forward
+ .../99.html                                                           | 4 ++++
+ 1 file changed, 4 insertions(+)
+ create mode 100644 [原版英文书pdf].English.Vocabulary.Organiser.with.key-拆解/99.html
+5.5 temp分支不想要保留可以删除
+$ git branch -d temp
+显示下面信息
+Deleted branch temp (was 8080d99).
+**注意**
+如果该分支的代码之前没有merge到本地，那么删除该分支会报错，可以使用git branch -D temp强制删除该分支。 
+ 
+6 删除Github上的个人仓库
 进入自己的仓库——Settings——Danger Zone——Delete this repository 
 输入仓库名后键入密码进行确认。
 
