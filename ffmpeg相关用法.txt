@@ -174,6 +174,15 @@ ffmpeg -i .input.avi -c:a aac -c:v libx265 -crf 18 -preset medium -pix_fmt yuv42
 ffmpeg -i .input.avi -c:a aac -c:v libx264 -crf 20 -preset slow  output_10bit.mp4
 ffmpeg -i .input.avi -c:a libfdk_aac -c:v libx264 -crf 20 -preset slow  output_10bit.mp4
 
+将文件mpeg2 编码视频转码为x265并将 AC3 6声道保留为6声道 aac 
+ffmpeg -i  input.mkv -c:a aac -c:v libx265 -crf 18 -preset medium -pix_fmt yuv420p10le -tag:v hvc1 output_10bit.mp4
+将文件mpeg2 编码视频转码为x265并将 AC3 6声道保留为2声道 aac 
+ffmpeg -i  input.mkv -c:a aac  -ac 2 -c:v libx265 -crf 18 -preset medium -pix_fmt yuv420p10le -tag:v hvc1 output_10bit.mp4
+
+将原视频6声道aac转为立体声
+ ffmpeg -i input.mp4 -c:v copy -ac 2 output.mp4
+
+
 将字幕合并进mp4中
 ffmpeg -i  .mp4  -i ssa -c:s mov_text -c:v  copy -c:a copy  output.mp4
 将字幕合并进mkv中
