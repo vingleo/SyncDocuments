@@ -1,77 +1,8 @@
 FFMEPG 使用方法
-
-官网地址  http://ffmpeg.org/ffmpeg.html  
-
-#####################	音视频背景知识 ###############################
-
-Part 0 音频
-0.1 aac 和 fdk_aac
-libfdk_aac介绍
-作为一个轻度电影收藏爱好者，看过的电影都会丢到硬盘里放着，但是网络上有些电影资源并没有内嵌字幕，还需要外挂一个字幕，但是这样在保存的时候就需要保存两个文件，就令我很不爽，好在可以使用ffmpeg将字幕嵌入到视频文件中。
-
-现在的大多电影都使用mkv格式，也有部分使用mp4，mkv格式本身支持字幕轨道，而mp4则需要调用mov_text编码器，在ffmpeg中可以很方便的将字幕和视频进行整合：
-
-在我的硬盘内有一个名为movie.mkv的电影文件和一个名为sub.srt的字幕文件，在终端输入如下命令：
-ffmpeg -i movie.mkv -i sub.srt -c:s copy -c:v copy -c:a copy output.mkv
-
-等待程序运行完成后，得到了一个名为output.mkv的视频文件，打开播放后，并没有出现字幕，但是在播放器里可以看到一个字幕流，于是我使用ffprobe检查了这两个视频文件：
-
-movie.mkv:
-MycBook:Downloads simon$ ffprobe moive.mkv
-Input #0, matroska,webm, from 'movie.mkv':
-...
-...
-    Stream #0:0(eng): Video: h264 (High), yuv420p(progressive), 1920x1040, SAR 1:1 DAR 24:13, 23.98 fps, 23.98 tbr, 1k tbn, 47.95 tbc (default)
-    Stream #0:1(fre): Audio: dts (DTS), 48000 Hz, 5.1(side), fltp, 1536 kb/s (default)
-    Metadata:
-      title           : DTS 5.1
-    Stream #0:2(fre): Subtitle: subrip (default) (forced)
-    Metadata:
-      title           : Forced
-
-output.mkv:
-MycBook:Downloads simon$ ffprobe output.mkv
-Input #0, matroska,webm, from 'output.mkv':
-...
-...
-    Stream #0:1(fre): Audio: dts (DTS), 48000 Hz, 5.1(side), fltp, 1536 kb/s (default)
-    Metadata:
-      title           : DTS 5.1
-      DURATION        : 01:33:20.681000000
-    Stream #0:2(fre): Subtitle: subrip (default) (forced)
-    Metadata:
-      title           : Forced
-      DURATION        : 00:10:53.068000000
-
-原来是原来的视频有一个诡异的字幕流，只有10分钟，显然我在让ffmpeg自动选择时，程序自动选择了原视频中的字幕流，而我的字幕文件根本没有被加载。找到了问题，那就手动指定要抽取的字幕流好了，这时就需要用到-map参数：
-ffmpeg -i movie.mkv -i sub.srt -map 0:v -map 0:a -map 1:s -c copy output.mkv 
-
-其中movie.mkv的编号为#0，sub.srt的是#1，v代表视频流，a代表音频流，s则代表字幕流，程序会从#0中抽取视频流和音频流、从#1中抽取字幕流，复制到output.mkv中。
-另外，最后的copy参数一定要加上，否则ffmpeg会对音视频流进行重新编码，将极大增加处理时间。
-
-但是这时问题又出现了，在运行上述命令后，程序出现报错：
-sub.srt: Invalid data found when processing input
-
-使用less命令查看srt文件，原来是缺了一行，好在ffmpeg可以对字幕进行修复，执行命令：
-ffmpeg -fix_sub_duration -i sub.srt sub2.srt
-
-所有文件准备妥当，再重新进行合并，得到的output文件成功嵌入了字幕文件！
-ffmpeg -i movie.mkv -i sub2.srt -map 0:v -map 0:a -map 1:s -c copy output.mkv 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1.	mmprobe - 查看媒体文件头信息
+###################### PART 0 套件总览  #####################
+0.1 官网地址  http://ffmpeg.org/ffmpeg.html  
+0.2 ffmpeg套件包含一系列工具
+# mmprobe - 查看媒体文件头信息
 # ffprobe ~/Desktop/32037.mp3
 
 高级选项
@@ -84,7 +15,7 @@ ffmpeg -i movie.mkv -i sub2.srt -map 0:v -map 0:a -map 1:s -c copy output.mkv
 # ffprobe -show_frame xxx.mp4 //查看帧信息
 
 
-2.	mmplay - 播放工具
+0.3 mmplay - 播放工具
 # ffplay xxx.mp3 
 
 # ffplay xxx.mp4 -loop 10  //循环播放
@@ -92,23 +23,57 @@ ffmpeg -i movie.mkv -i sub2.srt -map 0:v -map 0:a -map 1:s -c copy output.mkv
 # ffplay xxx.mp4 -ast 1 //音频
 # ffplay xxx.mp4 -vst 1//视频
 
+0.4 ffmpeg - 音视频媒体文件处理工具
+0.5 4. ffserver
 
-3.	ffmpeg - 音视频媒体文件处理工具
-3.1合并音视频文件 (Remuxer)  
-命令行格式：
-ffmpeg -i audio.m4a -i video.mp4 
+#####################　PART I音视频背景知识　###############################
+1.1 音频
+aac 和 fdk_aac
+libfdk_aac介绍
+1.2 视频
+帧率：一秒的帧数，肉眼想看到连续移动图像至少需要15帧。
+码率：比特率（Bit rate）(也叫码率，数据率)是一个确定整体视频/音频质量的参数，秒为单位处理的字节数，码率和视频质量成正比，在视频文件中中比特率用bps来表达。
+#####################　PART II安装方法　####################################
+对照 FFmpeg 官方安装说明（https://link.jianshu.com/?t=https://www.ffmpeg.org/download.html），按自己所在的平台安装就行。
+2.1 Mac下
+可用 Homebrew 来一键安装：
+$ brew install ffmpeg
+2.2 Windows下
+根据自己的操作系统选择下载最新的32位或64位静态程序版本(FFmpeg下载：http://ffmpeg.zeranoe.com/builds/)：
+解压FFmpeg文件夹，它会生成一个类似名为“ffmpeg-20150504-git-eb9fb50-win32-static”的新文件夹：
+新建一个名为“ffmpeg”的文件夹，将第二步解压生成的文件夹中的内容全部拷贝到“ffmpeg”文件夹中：
+配置FFmpeg环境变量
+点击“开始菜单”，再点击“控制面板”，再点击“系统与安全”，再点击“系统”，然后点击“高级系统设置”，跳出“系统属性”窗口后，最后点击“环境变量”按钮：点击“环境变量”按钮后，跳出“环境变量”窗口，找到并选中“Path”变量，点击编辑：在“Path”变量原有变量值内容上加上“;d:\ffmpeg\bin”（注：;代表间隔，不可遗漏；d:\ffmpeg\bin代表FFmpeg的安装路径下的bin文件夹），一路点击“确定”即可。
+打开命令提示符窗口。输入命令“ffmpeg  –version”。如果命令提示窗口返回FFmpeg的版本信息，那么就说明安装成功了，你可以在命令提示行中任意文件夹下运行FFmpeg。
+2.3 Linux下
 
-样例：
-贴士：先定位到可执行文件目录，  处理文件的路径支持拖拽，注意文件名有空格需要单引号或者用转义表达 ，注意每个输入文件前都要加 -i ， 不转码用 -c:v ，注意视频放前面
-# ./ffmpeg.exe -i '/e/360Downloads/超級簡單的流行抒情歌伴奏！ - DASH.mp4' -i '/e/360Downloads/超級簡單的流行抒情歌伴奏！ - DASH.aac' -c:v copy -c:a copy /e/360Downloads/output.mp4
+##################### 　PART III ffmpeg详细使用方法　############################
+3.1 合并视频文件和音频文件到容器
+3.1.1 先定位到可执行文件目录，  处理文件的路径支持拖拽，注意文件名有空格需要单引号或者用转义表达 ，注意每个输入文件前都要加 -i ， 不转码用 -c:v ，注意视频放前面
+ffmpeg -i video.mp4 -i audio.wav -c:v copy -c:a aac -strict experimental output.mp4
+例：# ./ffmpeg.exe -i '/e/360Downloads/超級簡單的流行抒情歌伴奏！ - DASH.mp4' -i '/e/360Downloads/超級簡單的流行抒情歌伴奏！ - DASH.aac' -c:v copy -c:a copy /e/360Downloads/output.mp4
 
+3.1.2 如果视频中已经包含了音频，这个时候还可以替换视频中的音频，使用下面命令行。
+ffmpeg -i video.mp4 -i audio.wav -c:v copy -c:a aac -strict experimental -map 0:v:0 -map 1:a:0 output.mp4
 
+3.1.3 合并两个音频
+ffmpeg -i input1.mp3 -i input2.mp3 -filter_complex amerge -ac 2 -c:a libmp3lame -q:a 4 output.mp3
 
+3.1.4 获取视频中的音频
+ffmpeg -i input.mp4 -vn -y -acodec copy output.m4a
 
+3.1.5 去掉视频中的音频
+ffmpeg -i input.mp4 -an output.mp4
 
-
-
-横向合并视频
+3.1.6 合并两个视频并保留两个视频中的音频。也就是抖音中的合拍功能。
+        3.1.6.1 合并两个视频，但是发现只有一个声音。无所谓。
+        3.1.6.2 抽取两个视频中的音频，然后合并成一个音频。
+        3.1.6.3 将这个音频替换到之前的合并视频中。
+        3.1.6.4 完成。
+        3.1.6.5 可以使用ffplay播放了。
+*********************************************************
+3.2 各种合并视频
+3.2.1 横向合并视频
 ffmpeg -i input1.mp4 -i input2.mp4 -lavfi hstack output.mp4
 
 上面的命令虽然可以合并视频，两个视频可以正常播放，但是只保留了前面一个的音频。
@@ -119,11 +84,11 @@ ffmpeg -i input1.mp4 -i input2.mp4 -lavfi hstack output.mp4
 如果希望合并多个视频，可以使用下面命令行。
 ffmpeg -i input1.mp4 -i input2.mp4 -i input3.mp4 -lavfi hstack=inputs=3 output.mp4
 其中input=3表示希望合并的视频的个数
-纵向合并视频
 
+3.2.2 纵向合并视频
 ffmpeg -i input1.mp4 -i input2.mp4 -lavfi vstack output.mp4
-网格合并视频
 
+3.2.3. 网格合并视频
 当多个视频时，还可以合并成网格状，比如2x2，3x3这种。但是视频个数不一定需要是偶数，如果是奇数，可以用黑色图片来占位。
 
 ffmpeg -f lavfi -i color=c=black:s=1280x720 -vframes 1 black.png
@@ -135,75 +100,30 @@ ffmpeg -i top_left.mp4 -i top_right.mp4 -i bottom_left.mp4 -i bottom_right.mp4 \
 -shortest 2by2grid.mp4
 
 上面创建的是正规的2x2网格视频。想象一下，现在只有三个视频，我想把第一个视频摆放在第一行的中间，然后把第二、三个视频摆放在第二行。那么就可以使用下面两个命令了。
-
 ffmpeg -f lavfi -i color=c=black:s=640x720 -vframes 1 black.png
-
 ffmpeg -i black.png -i top_center.mp4 -i bottom_left.mp4 -i bottom_right.mp4
 -lavfi "[0:v][1:v][0:v]hstack=inputs=3[top];[2:v][3:v]hstack[bottom];[top][bottom]vstack"
 -shortest 3_videos_2x2_grid.mp4
-合并音频和视频
 
-ffmpeg -i video.mp4 -i audio.wav -c:v copy -c:a aac -strict experimental output.mp4
-
-如果视频中已经包含了音频，这个时候还可以替换视频中的音频，使用下面命令行。
-ffmpeg -i video.mp4 -i audio.wav -c:v copy -c:a aac -strict experimental
--map 0:v:0 -map 1:a:0 output.mp4
-合并两个音频
-
-ffmpeg -i input1.mp3 -i input2.mp3 -filter_complex amerge -ac 2 -c:a libmp3lame -q:a 4 output.mp3
-获取视频中的音频
-
-ffmpeg -i input.mp4 -vn -y -acodec copy output.m4a
-去掉视频中的音频
-
-ffmpeg -i input.mp4 -an output.mp4
-
-现在介绍，怎么合并两个视频并保留两个视频中的音频。也就是抖音中的合拍功能。
-1.合并两个视频，但是发现只有一个声音。无所谓。
-2.抽取两个视频中的音频，然后合并成一个音频。
-3.将这个音频替换到之前的合并视频中。
-4.ok了。
-5.可以使用ffplay播放了。
-
-
-
-
-将avi转码为 mp4 （视频编码分别为x264和x265，音频编码都为aac，使用不同的库）
-
-ffmpeg -i .input.avi -c:a aac -c:v libx265 -crf 18 -preset medium -pix_fmt yuv420p10le -tag:v hvc1 output_10bit.mp4
-ffmpeg -i .input.avi -c:a aac -c:v libx264 -crf 20 -preset slow  output_10bit.mp4
-ffmpeg -i .input.avi -c:a libfdk_aac -c:v libx264 -crf 20 -preset slow  output_10bit.mp4
-
-将文件mpeg2 编码视频转码为x265并将 AC3 6声道保留为6声道 aac 
-ffmpeg -i  input.mkv -c:a aac -c:v libx265 -crf 18 -preset medium -pix_fmt yuv420p10le -tag:v hvc1 output_10bit.mp4
-将文件mpeg2 编码视频转码为x265并将 AC3 6声道保留为2声道 aac 
-ffmpeg -i  input.mkv -c:a aac  -ac 2 -c:v libx265 -crf 18 -preset medium -pix_fmt yuv420p10le -tag:v hvc1 output_10bit.mp4
-
-将原视频6声道aac转为立体声
- ffmpeg -i input.mp4 -c:v copy -ac 2 output.mp4
-
-
-将字幕合并进mp4中
+*********************************************************
+3.3 字幕合并进视频文件
+3.3.1 将字幕合并进mp4中
 ffmpeg -i  .mp4  -i ssa -c:s mov_text -c:v  copy -c:a copy  output.mp4
-将字幕合并进mkv中
+
+3.3.2 将字幕合并进mkv中
 ffmpeg -i infile.mkv -i infile.srt -c copy -c:s srt outfile.mkv
 
-##########################	以下为拓展说明	################################
-使用ffmpeg为视频嵌入字幕
+参考经验：
 作为一个轻度电影收藏爱好者，看过的电影都会丢到硬盘里放着，但是网络上有些电影资源并没有内嵌字幕，还需要外挂一个字幕，但是这样在保存的时候就需要保存两个文件，就令我很不爽，好在可以使用ffmpeg将字幕嵌入到视频文件中。
-
 现在的大多电影都使用mkv格式，也有部分使用mp4，mkv格式本身支持字幕轨道，而mp4则需要调用mov_text编码器，在ffmpeg中可以很方便的将字幕和视频进行整合：
-
 在我的硬盘内有一个名为movie.mkv的电影文件和一个名为sub.srt的字幕文件，在终端输入如下命令：
 ffmpeg -i movie.mkv -i sub.srt -c:s copy -c:v copy -c:a copy output.mkv
-
 等待程序运行完成后，得到了一个名为output.mkv的视频文件，打开播放后，并没有出现字幕，但是在播放器里可以看到一个字幕流，于是我使用ffprobe检查了这两个视频文件：
-
 movie.mkv:
 MycBook:Downloads simon$ ffprobe moive.mkv
 Input #0, matroska,webm, from 'movie.mkv':
 ...
-...额， 
+...
     Stream #0:0(eng): Video: h264 (High), yuv420p(progressive), 1920x1040, SAR 1:1 DAR 24:13, 23.98 fps, 23.98 tbr, 1k tbn, 47.95 tbc (default)
     Stream #0:1(fre): Audio: dts (DTS), 48000 Hz, 5.1(side), fltp, 1536 kb/s (default)
     Metadata:
@@ -240,60 +160,65 @@ ffmpeg -fix_sub_duration -i sub.srt sub2.srt
 
 所有文件准备妥当，再重新进行合并，得到的output文件成功嵌入了字幕文件！
 ffmpeg -i movie.mkv -i sub2.srt -map 0:v -map 0:a -map 1:s -c copy output.mkv 
+*********************************************************
+3.4 重新编码转码音视频
+3.4.1 将avi转码为 mp4 （视频编码分别为x264和x265，音频编码都为aac，使用不同的库）
+ffmpeg -i .input.avi -c:a aac -c:v libx265 -crf 18 -preset medium -pix_fmt yuv420p10le -tag:v hvc1 output_10bit.mp4
+ffmpeg -i .input.avi -c:a aac -c:v libx264 -crf 20 -preset slow  output_10bit.mp4
+ffmpeg -i .input.avi -c:a libfdk_aac -c:v libx264 -crf 20 -preset slow  output_10bit.mp4
+
+3.4.2 将文件mpeg2 编码视频转码为x265并将 AC3 6声道保留为6声道 aac 
+ffmpeg -i  input.mkv -c:a aac -c:v libx265 -crf 18 -preset medium -pix_fmt yuv420p10le -tag:v hvc1 output_10bit.mp4
+将文件mpeg2 编码视频转码为x265并将 AC3 6声道保留为2声道 aac 
+ffmpeg -i  input.mkv -c:a aac  -ac 2 -c:v libx265 -crf 18 -preset medium -pix_fmt yuv420p10le -tag:v hvc1 output_10bit.mp4
+
+3.4.3 将原视频6声道aac转为立体声
+ ffmpeg -i input.mp4 -c:v copy -ac 2 output.mp4
+*********************************************************
+3.5 ffmpeg修复视频
+有时候视频不能播放，需要ffmpeg修复一下
+修复mp4命令
+运行命令(before.mp4是需要修复的视频文件，after.mp4是修复后保存的视频文件)
+ffmpeg -i before.mp4 -codec copy after.mp4
 
 
-
-**********************************************************************************************************************************
-
-
-4. ffserver
-
-
-
-pod install  
-
-换清华的国内源
-
-不用vpn，直接避开高峰时段，在 每天早上执行命令  可以达到 满速
-
-
-
-h.265 HEVC 10bit 4k  HDR-High Dynamic Range 
-
-
-
-
-
-
-
-
-
-
-
-
+##########################	以下为拓展说明	################################
 ffmpeg-20191219-99f505d-win64-static\bin>ffmpeg.exe -i D:\工作内容\要看的电子书\日语Japanese\标日视频\标日第08课(ED2000.COM).wmv -c:a aac -c:v libx265 -crf 18 -preset medium -pix_fmt yuv420p10le -tag:v hvc1 D:\工作内容\要看的电子书\日语Japanese\标日视频\标日第08课10bit.mp4
 
 文件大小对比
 AVI WMV9 + MP3 240,828,416
 MP4 X264 + AAC 161,052,151
 
+*********************************************************
+3.6 重新编码
+3.6.1 FFmpeg将1080P视频转换成720P
+一张蓝光原盘接近50G，而720p的电影可能只有2G，这是通过压缩实现的。在保证画质的前提下使用更小的文件存储，一直是压缩的目标。然而压缩并非那么简单，比如同样是720p的电影，有的只有2个G，有的却有5个G，然而从视觉上几乎看不出区别来。 这里只介绍压缩的一个简单用途：resise。
+将1080p转成720p，宽度自适应
+例1：
+ffmpeg -i input.mkv -c copy -c:v libx264 -vf scale=-2:720 output.mkv
+-vf是-filter:v的简写，-filter指定过滤器，:v是流选择器，表示对视频流应用过滤器。scale=后面的参数是w:h，w和h可以包含一些变量，比如原始的宽高分别为iw和ih。当其中一个是负数时，假设为-n，ffmpeg自动使用另一个值按照原始的宽高比(aspect ratio)计算出该值，并且保证计算出来的值能被n整除。
+因为scale过滤器是针对未编码的原始数据，所以视频流不能用copy，需要进行重新编码。-c copy -c:v libx264表示视频流使用h.264重新编码，其他流直接copy，顺序不能颠倒。
+例2：
+ffmpeg -i input.mp4 -vf scale=1080:1920 output.mp4
 
-ffmpeg修复视频
+3.6.2 转换帧率
+    3.6.2.1 用 -r 参数设置帧率 ffmpeg –i input –r fps值 output 
+    3.6.2.2 用fps filter设置帧率 ffmpeg -i 1.mp4-vf fps=fps=25 11.mp4 例如设置帧率为29.97fps，
+下面三种方式具有相同的结果： 
+ffmpeg -i input.avi -r 29.97 output.mp4 
+ffmpeg -i input.avi -r 30000/1001 output.mp4 
+ffmpeg -i input.avi -r netsc output.mp4
 
-iOS平台，有时候视频不能播放，需要ffmpeg修复一下
+3.6.3 转换码率
+设置参数-b
+ffmpeg -i 1.mp4 -b 1.5M 2.mp4
+音频：-b:a     视频： - b:v
+设置视频码率为1500kbps
+ffmpeg -i input.avi -b:v 1500k output.mp4
 
-    安装ffmpeg
-    Windows安装方法：https://blog.csdn.net/yy3097/article/details/51063950
-    Mac安装方法：https://www.jianshu.com/p/627b2d462151
-
-    修复mp4命令
-    打开一个终端，cd到mp4的目录，运行命令(before.mp4是需要修复的视频文件，after.mp4是修复后保存的视频文件)
-    ffmpeg -i before.mp4 -codec copy after.mp4
-
-    这下就可以播放了
-
-
-
-
-
-
+3.6.4 控制输出文件大小
+-fs (file size首字母缩写) 
+ffmpeg -i input.avi -fs 1024K output.mp4
+计算输出文件大小
+	(视频码率+音频码率) * 时长 /8 = 文件大小K
+**********************************************************************************************************************************
