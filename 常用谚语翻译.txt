@@ -1,4 +1,4 @@
-常用谚语翻译
+﻿常用谚语翻译
 Part 1 教育学习类
 1.1 知识就是力量。
 1.1 Knowledge is power.
@@ -128,3 +128,11 @@ Part 10 健康类
 10.2 Good health is over wealth.
 10.3 一天一个苹果，不要求医问药。
 10.3 An apple a day keeps a doctor away.
+
+No one is perfect 人无完人
+Persistance is the key to success 持之以恒是成功的关键
+God rewards those who work hard 天道酬勤
+Opportunityknocks only once 机不可失，失不再来
+A thing distinctly hard to say Yet harder still to do 说起来很难的事，做起来更难
+a non-disclosure agreeement 一个保密协议 NDA 
+when the stakes get higher , friendships fail 涉及到更多利害关系，友谊的小船会翻
