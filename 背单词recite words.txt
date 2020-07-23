@@ -55,6 +55,9 @@ dimwit - 白痴
 twat - 傻叉
 vomit blood - 吐血
 liver failure - 肝脏衰竭
+netlect - 忽略 We shouldn't neglect our children.
+remorse - 悔恨 they were filled with remorse and shame
+
 
 possum guts - 负鼠胆汁
 be suffering from sepsis - 患上败血症
@@ -69,8 +72,7 @@ the punch lines 喜剧中的包袱
 
 
 
-相近的词形或词义
-incident 和 accident 区别 小事件和大事故
+
 
 
 
@@ -103,7 +105,10 @@ a candidate is elected on a story 候选人凭好故事当选
 
 What inferences have you drawn from this evidence? 你从这些证据汇总得到了什么推论？
 
+************************************************************************************
 拼写相近易混淆单词
+相近的词形或词义
+incident 和 accident 区别 小事件和大事故
 vocation 职业  vacation 假期
 Her vocation as a poet.
 to take a vacation 
