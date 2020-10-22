@@ -766,6 +766,12 @@
 	第二，运筹性的综合素质，包括分工协作、经济管理、预测决策等；
 	第三，渗透性因素，主要指自然科学；
 	第四，准备性因素，主要指教育。
+
+The modern productivity system includes four types of elements:
+First, independent substantive factors. Including workers, labor information, and labor objects;
+Second, the comprehensive factors of operational research. Including division of labor, economic management, forecasting and decision-making, etc.;
+Third, the permeability factor. Mainly refers to natural sciences;
+Fourth, the preparatory factor mainly refers to education.
 	
 4. 简述发达市场经济国家调控货币量的主要方法。
 答：（1）公开市场业务。中央银行在货币资本市场上公开出售或收购有价证券，从而增加或减少市场的货币供给量。
