@@ -246,7 +246,7 @@ http://www.niuche.com/news  牛车网新闻
 http://www.12365auto.com/parts/20180120/321946-all.shtml  车质网 提升安全与操控 丰田新凯美瑞车身解析 
 https://electrek.co/2016/07/31/tesla-gigafactory-robots-machines-battery-factory/  Tesla Gigafactory: a look at the robots and ‘machine building the machine’ at the battery factory 
 https://car.autohome.com.cn/shuyu/detail_57_50_730.html   法拉利288GTO
-
+https://www.sohu.com/a/298847604_751832  宝马全系车主手册电子版下载 
 
 
 【汽车模型】
@@ -265,7 +265,9 @@ https://litmusautomation.jp/    litmus 官网
 https://baike.baidu.com/item/%E7%B2%BE%E7%9B%8A%E5%8C%96%E7%94%9F%E4%BA%A7/5918835?fr=aladdin&fromid=18081497&fromtitle=Lean+Manufacturing  精益化生产  
 https://isa-95.com/login/?redirect_to=https%3A%2F%2Fisa-95.com%2Fdownloads%2F&reauth=1      ISA95 官网 
 https://wenku.baidu.com/view/89e8bbd349649b6648d74775.html###      ISA95-MES标准  
-Pangus  http://www.pangus-ims.com/Info-ims-cat-9.html     MES 盘古 
+http://www.pangus-ims.com/Info-ims-cat-9.html     MES 盘古 Pangus  
+https://www.doc88.com/p-0611772711945.html  基于精益生产的叉车混流装配线优化研究
+https://www.doc88.com/p-7718001089157.html 精益生产在叉车制造企业的应用研究
  
 
 【电子SMT】
@@ -362,12 +364,16 @@ https://www.printlimit.com/
 https://www.papercut.com/products/ng/system-requirements/   PaperCut
 
 
-Part XIV 自考相关
+##############################
+### Part XIV 自考相关
 https://tiku.kaola100.com/chapter/36/456  考拉网题库 中国近代史纲要
 https://tiku.kaola100.com/chapter/38/54   考拉网题库 公司法
 https://tiku.kaola100.com/chapter/36/808  考拉网题库 马克思主义基本原理概论
 https://tiku.kaola100.com/chapter/36/394  考拉网题库 英语（二）
 
-
+##############################
+### Part XV 摄影单反相关
+https://www.nikon.com.cn/resources/digitutor/cn/d850/d850.html#tips_and_tricks 尼康Nikon 官网学习教程
+https://downloadcenter.nikonimglib.com/zh-cn/products/545/D6.html 尼康Nikon 官网说明书下载
 
 
