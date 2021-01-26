@@ -89,6 +89,30 @@ ffmpeg -i input.mp4 -an output.mp4
         3.1.6.3 将这个音频替换到之前的合并视频中。
         3.1.6.4 完成。
         3.1.6.5 可以使用ffplay播放了。
+
+3.1.7 提取视频文件中的多轨音频
+    3.1.7.1 先用ffmpeg查看视频文件信息
+ffmpeg -i "冰雪奇缘BD双语双字.mkv" 
+显示结果
+……
+Duration: 01:42:13.06, start: 0.000000, bitrate: 2691 kb/s
+Stream #0:0: Video: h264 (High), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn, 47.95 tbc (default)
+Stream #0:1(eng): Audio: ac3, 48000 Hz, stereo, fltp, 448 kb/s (default)
+Metadata:
+title : 英语
+Stream #0:2(chi): Audio: ac3, 48000 Hz, stereo, fltp, 448 kb/s
+Metadata:
+title : 国语
+可以看到Audio的Stream有2个，分别获取这两个audio音轨的命令是：
+ffmpeg -i 冰雪奇缘BD双语双字.mkv -map 0:1 -b:a 64k -f mp3 -vn a.1.mp3   
+ffmpeg -i 冰雪奇缘BD双语双字.mkv -map 0:2 -b:a 64k -f mp3 -vn a.2.mp3
+
+参数解释：
+-i 表示input，即输入文件
+-f 表示format，即输出格式
+-vn表示vedio not，即输出不包含视频
+-b:a 64k为比特率，默认为128K，这里压缩一下，采用64K
+
 *********************************************************
 3.2 各种合并视频
 3.2.1 横向合并视频
@@ -240,3 +264,43 @@ ffmpeg -i input.avi -fs 1024K output.mp4
 计算输出文件大小
 	(视频码率+音频码率) * 时长 /8 = 文件大小K
 **********************************************************************************************************************************
+3.7 字幕处理
+3.7.1 所谓加硬字幕是把字幕加到视频流中，不是单独的字幕流，命令如下：
+ffmpeg -i demo.mp4 -vf ass=subtitle.ass output.mp4
+或
+ffmpeg -i demo.mp4 -vf subtitles=sample.srt out.mp4
+支持ass或srt两种不同格式的字幕文件。这个命令要求ffmpeg编译时加 --enable-libass 编译选项。
+
+
+3.7.2 字幕参数
+ffmpeg -i "imput.mp4" -lavfi "subtitles=subtitles.srt:force_style='Alignment=0,OutlineColour=&H100000000,BorderStyle=3,Outline=1,Shadow=0,Fontsize=18,MarginL=5,MarginV=25'" -crf 1 -c:a copy "output.mp4"
+
+01.Name             风格(Style)的名称. 区分大小写. 不能包含逗号.
+02.Fontname         使用的字体名称, 区分大小写.
+03.Fontsize         字体的字号
+04.PrimaryColour    设置主要颜色, 为蓝-绿-红三色的十六进制代码相排列, BBGGRR. 为字幕填充颜色
+05.SecondaryColour  设置次要颜色, 为蓝-绿-红三色的十六进制代码相排列, BBGGRR. 在卡拉OK效果中由次要颜色变为主要颜色.
+06.OutlineColour    设置轮廓颜色, 为蓝-绿-红三色的十六进制代码相排列, BBGGRR.
+07.BackColour       设置阴影颜色, 为蓝-绿-红三色的十六进制代码相排列, BBGGRR. ASS的这些字段还包含了alpha通道信息. (AABBGGRR), 注ASS的颜色代码要在前面加上&H
+08.Bold             -1为粗体, 0为常规
+09.Italic           -1为斜体, 0为常规
+10.Underline       [-1 或者 0] 下划线
+11.Strikeout       [-1 或者 0] 中划线/删除线
+12.ScaleX          修改文字的宽度. 为百分数
+13.ScaleY          修改文字的高度. 为百分数
+14.Spacing         文字间的额外间隙. 为像素数
+15.Angle           按Z轴进行旋转的度数, 原点由alignment进行了定义. 可以为小数
+16.BorderStyle     1=边框+阴影, 3=纯色背景. 当值为3时, 文字下方为轮廓颜色的背景, 最下方为阴影颜色背景.
+17.Outline         当BorderStyle为1时, 该值定义文字轮廓宽度, 为像素数, 常见有0, 1, 2, 3, 4.
+18.Shadow          当BorderStyle为1时, 该值定义阴影的深度, 为像素数, 常见有0, 1, 2, 3, 4.
+19.Alignment       定义字幕的位置. 字幕在下方时, 1=左对齐, 2=居中, 3=右对齐. 1, 2, 3加上4后字幕出现在屏幕上方. 1, 2, 3加上8后字幕出现在屏幕中间. 例: 11=屏幕中间右对齐. Alignment对于ASS字幕而言, 字幕的位置与小键盘数字对应的位置相同.
+20.MarginL         字幕可出现区域与左边缘的距离, 为像素数
+21.MarginR         字幕可出现区域与右边缘的距离, 为像素数
+22.MarginV         垂直距离
+
+3.7.3 老例子
+假设此处有原始视频src.avi，对应字幕sub.ass，我们要生成视频dst.mp4，使用x264进行两遍压缩，命令参数具体含义可能参考对应程序的help，实现处理时可能需要根据具体情况进行改变。
+　　ffmpeg -i "src.avi" -vf "ass=sub.ass" -f yuv4mpegpipe -an -v 0 - | x264 --bitrate 1536 --pass 1 --tune film --profile high --stats "01_pass1.stats" --demuxer y4m -o NUL -
+　　ffmpeg -i "src.avi" -vf "ass=sub.ass" -f yuv4mpegpipe -an -v 0 - | x264 --bitrate 1536 --pass 2 --tune film --profile high --stats "01_pass1.stats" --demuxer y4m -o 01_video.mkv -
+　　ffmpeg -i "src.avi" -vn -acodec pcm_s16le -ac 2 -f wav - | neroAacEnc -if - -br 192000 -ignorelength -of 01_audio.mp4
+　　ffmpeg -i 01_video.mkv -i 01_audio.mp4 -map 0:0 -map 1:0 -acodec copy -vcodec copy -f mp4 "dst.mp4"

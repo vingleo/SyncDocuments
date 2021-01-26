@@ -37,6 +37,7 @@ http://www.poxiaotv.com/vodhtml/78450.html  电视剧网站
 http://www.mjf2020.com/fenji/350183.html#35018-3-720p 美剧粉
 https://www.meijutt.tv/content/meiju25178.html 美剧 亿万
 https://www.meijutt.tv/search/index.asp  美剧 嗜血法医
+https://www.meijutt.tv/content/meiju128.html 美剧 嗜血法医
 http://subhd.tv/a/506640  字幕
 https://www.993dy.com/vod-detail-id-25015.html 
 https://www.jsr9.com/subject/10454.html bt天堂
@@ -44,6 +45,7 @@ https://www.bt-tt.com/html/rihanju/7998.html bt天堂
 https://bttang.com/v/34890.html  bt堂
 http://www.rrbt.xyz/q/384b206d7034.html  人人BT
 https://www.dacaer.com/lvzhengyiwumeiju/ThePractice1-8.html  律师本色第一至八季
+https://www.jsr9.com/subject/28310.html 山海情/2021
 
 
 http://11k.tw/JQP/45848.shtml  家庭巨乳女教师6
@@ -325,6 +327,8 @@ https://en.wikipedia.org/wiki/Purdue_Enterprise_Reference_Architecture    维基
 https://dict.hjenglish.com/jp/jc/%E6%97%AD%E5%B7%9D   沪江字典 日语
 https://jp.hjenglish.com/c/new/763361/   自学日语应该从哪里学起
 https://zhuanlan.zhihu.com/cdteikyo   日语考级经验 
+http://www.anime-manga.jp/chinese/CharacterExpressions/  日语学习网站
+http://www.erin.ne.jp/jp/lesson01/basic/index.html 
 
 ##############################
 ### Part XII 游戏Game
@@ -365,14 +369,27 @@ http://www.95105369.com/Web/Index.aspx  兄弟(中国)商业有限公司网站
 【监控软件竞争对手软件】
 https://www.printlimit.com/ 
 https://www.papercut.com/products/ng/system-requirements/   PaperCut
+【GutenPrint 打印机相关】
+https://www.gimp.org/downloads/   GIMP跨平台的图像编辑软件
+https://www.icmyk.cc/pageshow?pid=6   Gutenprint for windows安装和打印方法
+http://gimp-print.sourceforge.net/p_Download.php  gutenprint 官网
+http://www.icccolor.com/start/helpshow/11
 
 
 ##############################
 ### Part XIV 自考相关
-https://tiku.kaola100.com/chapter/36/456  考拉网题库 中国近代史纲要
-https://tiku.kaola100.com/chapter/38/54   考拉网题库 公司法
-https://tiku.kaola100.com/chapter/36/808  考拉网题库 马克思主义基本原理概论
-https://tiku.kaola100.com/chapter/36/394  考拉网题库 英语（二）
+https://tiku.kaola100.com/chapter/36/456  考拉网题库 中国近代史纲要 passed
+https://tiku.kaola100.com/chapter/38/54   考拉网题库 公司法 passwed
+https://tiku.kaola100.com/chapter/36/808  考拉网题库 马克思主义基本原理概论 passed
+https://tiku.kaola100.com/chapter/36/394  考拉网题库 英语（二）passed 
+https://tiku.kaola100.com/chapter/38/56   考拉网题库 国际经济法概论
+https://tiku.kaola100.com/chapter/38/58   考拉网题库 合同法
+https://tiku.kaola100.com/chapter/38/63   考拉网题库 劳动法
+https://tiku.kaola100.com/chapter/38/74   考拉网题库 知识产权法
+
+
+
+
 
 ##############################
 ### Part XV 摄影单反相关
