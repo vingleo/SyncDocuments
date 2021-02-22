@@ -171,6 +171,7 @@ https://www.arduino.cn/thread-11353-1-1.html  用Arduino扩展无人飞行器+�
 https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/share.html  微信小程序官方文档 
 https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/signature.html  微信小程序服务端 
 https://developers.weixin.qq.com/miniprogram/dev/framework/ability/network.html  微信小程序网络 
+https://mp.weixin.qq.com/  微信公众号和小程序的后台维护页面
 https://blog.csdn.net/yzhbyssgdbd123/article/details/90412164   企业微信自建应用授权登录（内嵌式扫码登录） 
 https://blog.csdn.net/qb170217/article/details/81324552  微信或企业微信实现扫码登录的三种方式
 https://blog.csdn.net/u010957293/article/details/76572137  企业微信如何实现PC端扫码登录第三方网站 
@@ -253,6 +254,18 @@ http://www.12365auto.com/parts/20180120/321946-all.shtml  车质网 提升安全
 https://electrek.co/2016/07/31/tesla-gigafactory-robots-machines-battery-factory/  Tesla Gigafactory: a look at the robots and ‘machine building the machine’ at the battery factory 
 https://car.autohome.com.cn/shuyu/detail_57_50_730.html   法拉利288GTO
 https://www.sohu.com/a/298847604_751832  宝马全系车主手册电子版下载 
+http://www.peugeot.com.cn/508L/ 标致508L官网
+http://www.peugeot.com.cn/508L/  广汽本田雅阁
+https://www.ghac.cn/vehicles/honda/accord-sporthybrid/p#page5  广汽本田混动雅阁
+https://www.gac-toyota.com.cn/vehicles/camryxle/interior/ 广汽丰田凯美瑞
+https://www.gac-toyota.com.cn/minisite/Campaigns/2017/camryxle/config/?model=2.0e&ly=xle 凯美瑞配置
+http://www.changan-mazda.com.cn/market/product/cx5/service/user-manual/cx5-user-manual/  长安马自达 CX-5 在线手册
+http://www.changan-mazda.com.cn/  长安马自达
+http://www.changan-mazda.com.cn/product/cx-5/  长安马自达 CX-5 配置表
+
+
+
+
 
 
 【汽车模型】
