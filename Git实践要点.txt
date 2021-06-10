@@ -173,7 +173,7 @@ http://code.google.com/p/git-osx-insatller
 MacPorts (http://www.macports.org) Œﬁ–Ë“¿¿µø‚
 $ sudo port install git-core +svn +doc +bash_completion +gitweb
 homebrew (https://github.com/mxcl/homebrew)
-$ brew insatll git
+$ brew install git
 Windows
 http://code.google.com/p/msysgit
 
