@@ -251,6 +251,11 @@ https://www.huxiu.com/article/325491.html  虎嗅文章 内讧凶狠
 https://www.guokr.com/  果壳网
 https://www.chiphell.com/  剁手评测网站 Chiphell网 
 
+【鸿蒙HarmonyOS】
+https://developer.harmonyos.com/cn/home/  鸿蒙开发页面
+https://developer.harmonyos.com/cn/docs/search?type=all&val=HarmonyOS%20sans  鸿蒙开发手册
+https://developer.harmonyos.com/cn/docs/design/des-guides/font-0000001157868583  鸿蒙开发字体
+
 
 ##############################
 ### Part V 汽车相关

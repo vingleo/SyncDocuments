@@ -304,3 +304,7 @@ ffmpeg -i "imput.mp4" -lavfi "subtitles=subtitles.srt:force_style='Alignment=0,O
 　　ffmpeg -i "src.avi" -vf "ass=sub.ass" -f yuv4mpegpipe -an -v 0 - | x264 --bitrate 1536 --pass 2 --tune film --profile high --stats "01_pass1.stats" --demuxer y4m -o 01_video.mkv -
 　　ffmpeg -i "src.avi" -vn -acodec pcm_s16le -ac 2 -f wav - | neroAacEnc -if - -br 192000 -ignorelength -of 01_audio.mp4
 　　ffmpeg -i 01_video.mkv -i 01_audio.mp4 -map 0:0 -map 1:0 -acodec copy -vcodec copy -f mp4 "dst.mp4"
+
+3.7.4 剥离字幕
+ffmpeg.exe -i input.mkv -an -vn scodec copy sub.ass
+或ffmpeg.exe -i input.mkv -map 0:s:0 sub.srt
