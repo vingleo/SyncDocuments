@@ -54,6 +54,7 @@ http://www.ktt1080.com/
 https://www.bd2020.com/search.jspx?q=Steve.Jobs
 https://www.acg23.com/acg-manhua  动漫漫画下载
 https://www.dlkoo.cc/down/2/index.htm  大连生活网 电影下载
+https://www.dlkoo.cc/down/5/2019/484613258.html  [国产]《破冰行动》[全48集][MP4-1080p/2160p]
 http://www.ktt1080.com/search?text=%E6%8D%89%E9%AC%BC%E6%95%A2%E6%AD%BB%E9%98%9F  电影下载
 https://www.dytt.com/fenlei/1.html  电影淘淘
 
@@ -255,7 +256,7 @@ https://www.chiphell.com/  剁手评测网站 Chiphell网
 https://developer.harmonyos.com/cn/home/  鸿蒙开发页面
 https://developer.harmonyos.com/cn/docs/search?type=all&val=HarmonyOS%20sans  鸿蒙开发手册
 https://developer.harmonyos.com/cn/docs/design/des-guides/font-0000001157868583  鸿蒙开发字体
-
+https://baijiahao.baidu.com/s?id=1702017729322239005&wfr=spider&for=pc  免费商用！华为全新定制字体HarmonyOS Sans上线 鸿蒙OS专属
 
 ##############################
 ### Part V 汽车相关
@@ -419,8 +420,8 @@ https://tiku.kaola100.com/chapter/36/808  考拉网题库 马克思主义基本�
 https://tiku.kaola100.com/chapter/36/394  考拉网题库 英语（二）passed 
 https://tiku.kaola100.com/chapter/38/56   考拉网题库 国际经济法概论
 https://tiku.kaola100.com/chapter/38/58   考拉网题库 合同法
-https://tiku.kaola100.com/chapter/38/63   考拉网题库 劳动法
-https://tiku.kaola100.com/chapter/38/74   考拉网题库 知识产权法
+https://tiku.kaola100.com/chapter/38/63   考拉网题库 劳动法  passed
+https://tiku.kaola100.com/chapter/38/74   考拉网题库 知识产权法  passed
 
 
 
