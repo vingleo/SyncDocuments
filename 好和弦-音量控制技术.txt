@@ -1,0 +1,57 @@
+1.音量太小
+2.破音，音量太大
+3.背景杂音、风声和摩到麦克风的声音
+4.回音太大
+5.跳剪时候切到声音
+6.左右声道
+7.背景音乐太大声
+8.音效太大声和太多音效
+9.各段落之间音量查太多
+10.影音不同步
+
+
+破音，音量太大原因：
+1.电容麦克风敏感；动圈式麦克风基本不会破音
+2.麦克风前级使用“PAD”确保不会破音
+3.ADC转换时使用GAIN来限制最大音量也比0dB 小12db
+4.DAW中使用Goniometer 来限制所有部分都没有超过0dB，可以时候用compressor和limiter 
+5.上传到Youtube等，再预留1.1dB
+
+确保把音量过大自动减低——使用compressor
+4个重要设定+1个音量表
+THRESHOLD：多大会被关小。设定在通常音量的高度
+RATIO：关小比例，通常为4:1
+ATTACK TIME：花多少时间调低音量，单位ms。设定太快<1ms,子音被压抑过多。设定太慢>50ms， 
+RELEASE TIME：花多少时间将音量恢复正常。
+
+Gain Reduction ：现在关小多少
+
+***compressor处理的步骤：
+1.找一段讲话音量平均的段落，检查音量表最高大约到多少分贝。
+2.将Threshold设定在比刚刚的分贝数低2-3分贝的地方。
+3.将ratio设定为4:1
+4.完成后，音量稳定。
+
+辨识过渡压缩的声音
+
+Attack Time = 10ms，若向听到更多子音，把Attach Time 加长
+Release time = 200-300ms，想讲话听起来更近，或者更多字尾细节，缩短Release time
+
+通过上传youtube查看视频详情中 Volume/Normalize 100%/100%（content loudness XXdB）
+content loudness 大了一点点 0~+2dB 就是被youtube关小声一点
++3dB以上 建议调整再上传
+
+使用可以同时看尖峰音量和LUFS的音量表
+免费的音量表软件  https://youlean.co/youlean-loudness-meter/
+在Final Cut Pro或Logic Pro
+将 效果——audio——MultiMeter 拖放到轨道上即可看到
+Peak 瞬间最大音量  建议整部都在-1.1dB
+LUFS下有两个
+LU-I：一整段的平均音量
+LU-S：最近几秒的平均音量 ** 建议在-14dB徘徊，突然最大声也没有超过-9dB,超过就要拉低
+
+背景音乐不卡到对白
+
+
+  
+
