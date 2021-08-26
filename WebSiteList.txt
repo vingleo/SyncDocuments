@@ -177,6 +177,7 @@ https://www.jianshu.com/p/62490b81466e  Core ML第一弹：用Core ML创建一�
 https://www.jianshu.com/p/28428b90b07a  iOS 整体框架及类继承框架图
 https://developer.apple.com/documentation/driverkit   驱动编写
 https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/SoftwareProducts/SoftwareProducts.html#//apple_ref/doc/uid/TP40001067-CH206-TPXREF123   设备驱动编写
+https://www.macappbox.com/a/kontakt.html#download  苹果软件下载
 
 【arduino】
 https://www.arduino.cn/thread-11353-1-1.html  用Arduino扩展无人飞行器+普及无人机知识，不会算法的人必看
@@ -336,6 +337,7 @@ https://yamahamusicians.com/forum/viewtopic.php?t=11655   yamaha Bösendorfer Im
 https://v.qq.com/x/search/?q=roland+fantom%E5%90%88%E6%88%90%E5%99%A82.0&stag=0&smartbox_ab=   qq视频中搜索roland fantom合成器2.0
 https://www.mfreezy.cn/archives/1034  软件下载
 https://mp.weixin.qq.com/s/oWFOL3iDyry0we2WNZe6uw  Logic Pro X全面晋级教程全集，从小白变大师（中文视频135集全）
+https://www.midivst.com/  音源下载  vingleo@gmail.com  I***m****
 
 ##############################
 ### Part VIII 教育及电子书 
