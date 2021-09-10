@@ -237,6 +237,8 @@ ffmpeg-20191219-99f505d-win64-static\bin>ffmpeg.exe -i D:\工作内容\要看的
 AVI WMV9 + MP3 240,828,416
 MP4 X264 + AAC 161,052,151
 
+
+
 *********************************************************
 3.6 重新编码
 3.6.1 FFmpeg将1080P视频转换成720P
@@ -244,6 +246,7 @@ MP4 X264 + AAC 161,052,151
 将1080p转成720p，宽度自适应
 例1：
 ffmpeg -i input.mkv -c copy -c:v libx264 -vf scale=-2:720 output.mkv
+ffmpeg -i input.mkv -c copy -c:v libx264 -vf scale=1280:720 output.mkv
 -vf是-filter:v的简写，-filter指定过滤器，:v是流选择器，表示对视频流应用过滤器。scale=后面的参数是w:h，w和h可以包含一些变量，比如原始的宽高分别为iw和ih。当其中一个是负数时，假设为-n，ffmpeg自动使用另一个值按照原始的宽高比(aspect ratio)计算出该值，并且保证计算出来的值能被n整除。
 因为scale过滤器是针对未编码的原始数据，所以视频流不能用copy，需要进行重新编码。-c copy -c:v libx264表示视频流使用h.264重新编码，其他流直接copy，顺序不能颠倒。
 例2：
