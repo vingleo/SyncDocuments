@@ -314,3 +314,9 @@ ffmpeg -i "imput.mp4" -lavfi "subtitles=subtitles.srt:force_style='Alignment=0,O
 3.7.4 剥离字幕
 ffmpeg.exe -i input.mkv -an -vn scodec copy sub.ass
 或ffmpeg.exe -i input.mkv -map 0:s:0 sub.srt
+
+**********************************************************************************************************************************
+3.8 截取部分视频
+把开始时间 -ss 1:05放到-i前面，与原来的区别是，这样会先跳转到第1:05秒在开始解码输入视频，而原来的会从开始解码，只是丢弃掉前1:05秒的结果。
+ffmpeg -ss 00:00:00 -i input.mkv -vcodec copy -acodec copy  -to 00:02:00 output.mkv
+
