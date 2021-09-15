@@ -81,6 +81,7 @@ https://www.36dm.com/  好网站 简单动漫
 https://freecourseudemy.com/100-days-of-code-the-complete-python-pro-bootcamp-for-2021/    教程视频下载
 
 
+
 【音乐Music】
 http://www.90xz.com/YinLe/542374   电驴下载Ape 
 http://mp3bst.com/category/%E5%8E%9F%E5%A3%B0    百视听音乐下载  
@@ -219,6 +220,8 @@ http://doc.bmob.cn/video/index.html  视频教程
 https://c4dsky.com/98601.html 视频处理软件及教程下载网站
 https://www.lookae.com/page/2/?s=final+cut+pro  视频处理软件及教程下载网站（好）
 https://www.mfcpx.com/fcpx-color-2017/ 视频处理软件及教程下载网站（好）
+https://www.bilibili.com/read/cv5550046/  开源社区与英伟达让你的小姐姐有了新家-简谈FFmpeg的HEVC编转码应用-NVENC与x265
+https://zhuanlan.zhihu.com/p/143109228  FFmpeg视频画面尺寸调整，必知必会
 
 
 【配色相关】
@@ -233,6 +236,12 @@ http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html 
 https://www.liaoxuefeng.com/wiki/896043488029600/900788941487552  廖雪峰的Git教程 
 http://www.cnblogs.com/linsanshu/p/5512038.html     Git本地服务器搭建及使用详解 
 https://www.baidu.com/baidu?wd=%BC%DC%C9%E8%B1%BE%B5%D8git%B7%FE%CE%F1%C6%F7&tn=monline_4_dg    架设本地git服务器 
+
+【Python相关】
+https://codingdict.com/article/7713  Python GUI工具包wxPython 
+https://www.runoob.com/python/python-reg-expressions.html  Python 正则表达式
+https://mp.weixin.qq.com/s/Euc89Uq4Av6J9jImxdv81Q  《自拍教程66》Python ffmpeg批量压缩视频
+
 
 
 【Java】
