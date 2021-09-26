@@ -285,6 +285,10 @@ ffmpeg -i input.avi -b:v 1500k output.mp4
 ffmpeg -i input.avi -fs 1024K output.mp4
 计算输出文件大小
 	(视频码率+音频码率) * 时长 /8 = 文件大小K
+
+3.6.5 利用Intel 集显QSV核心 进行硬编码缩短编码时间
+以重新编码h265为例
+ffmpeg  -hwaccel qsv -i input.mkv -c:a aac -ac 2  -c:v hevc_qsv -load_plugin hevc_hw -vf scale=1280:720  -y output.mp4"
 **********************************************************************************************************************************
 3.7 字幕处理
 3.7.1 所谓加硬字幕是把字幕加到视频流中，不是单独的字幕流，命令如下：
