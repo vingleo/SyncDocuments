@@ -420,15 +420,37 @@ C.公司
 
 
 第十八章	知识产权法
-知识产权是一种无形的人身财产权。它是在广阔的商业环境中的一种理念和信息的集合，法律意识到对其提供保护是有价值的。
+Intellectual Property Law
+Background Knowledge 背景知识
+	随着社会的进步，科学技术的发展，人民对智力劳动成果的XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+Text 课文	Introduction to Intellectual Property Law
+	Intellectual property is an example of intangible personal property. It is a collection of ideals and information in a broadly commercial context that the law recognizes as having a value by providing protection.
+	知识产权是一种无形的人身财产权。它是在广阔的商业环境中的一种理念和信息的集合，法律意识到对其提供保护是有价值的。
+
+Part One	The Subject Matter
 第一部分 标的
+
+Patents
 专利
+	
+	A patent is a monopoly right granted by the Government through the Patents Office to an individual who has invented a product or process. The basic objectives for granting this right are:to inform the public through publication of details from the application of the latest technological advances;to provide an incentive for innovation and thereby stimulate economic activity;and to provide a reward for creative and innovation effort.
 	专利是政府通过专利局给予发明了一种产品或方法的个人的一种垄断性的权利。给予这种权利的基本目标是：通过公布专利申请的细节告知公众最新的技术进步；为创新提供刺激同时鼓励经济活动；对创造和创新成果提供奖励。
-著作权
+
+	Copyright
+	著作权
+
+	This is an exclusive right to deal with original literary,dramatic, artistic and musical works. As well as protecting the fruits fo creative effort, the legislation also protects those who have invested in those efforts by providing protection for sound recording, films and published editions of literary work.
 	著作权是一种涉及原创性文学、戏剧、艺术和音乐作品的排他性权利。立法保护创造性努力的成果，同时也通过保护录音资料、电影和文学作品的出版版本保护那些投入创造性成果的人。
-数据权
+
+	Database right
+	数据权
+	
+	Information arranged in a methodical and systematic way, usually accessible by electronic means such as databases, was originally protected under copyright law. However, since the implementation of teh EU Directive on the legal protection of databases by the Copyright and Rights in Databases Regulations 1997, a new database right has been created.
 	信息通过有条理和系统的方式排列，通常采用电子手段例如数据库，这种权利最初是通过著作权法保护。然而，自从通过1997《著作权与数据库法》关于数据库的法律保护实施后一种新的数据权被创造出来。
-表演权
+
+	Performers' rights
+	表演权
 	表演权与著作权相关但旨在为著作作品的实际表演提供保护以区别于著作作品本身。
 商标
 	商标是用于相关货物或服务的文字或符合，以使所有人的货物或服务区别于其他人。现行立法正在考虑为区分味道和声音提供保护的可能性。在这个领域的法律限制他人将所有人的商标用于他们的货物或服务上。如果注册，商标所有人的权利通过制定法保护；如果没有注册，商标权基于使用和商誉产生，通过普通法保护。
