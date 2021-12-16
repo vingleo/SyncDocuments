@@ -451,8 +451,14 @@ Patents
 
 	Performers' rights
 	表演权
+	
+	There are linked with copyright but are aimed at providing for the actural performance of copyright workds as distinct from the copyright works themselves.
 	表演权与著作权相关但旨在为著作作品的实际表演提供保护以区别于著作作品本身。
-商标
+	
+	Trade marks
+	商标
+	
+	Trade marks are words or symbols 
 	商标是用于相关货物或服务的文字或符合，以使所有人的货物或服务区别于其他人。现行立法正在考虑为区分味道和声音提供保护的可能性。在这个领域的法律限制他人将所有人的商标用于他们的货物或服务上。如果注册，商标所有人的权利通过制定法保护；如果没有注册，商标权基于使用和商誉产生，通过普通法保护。
 外观设计
 	哪些赋予大量生产货物以视觉吸引力的设计通过注册外观设计保护；而那些功能性的设计通过非注册外观设计保护。一个恐龙造型的牙刷是前者的例子；一个园林设计是后者的一个例子。
