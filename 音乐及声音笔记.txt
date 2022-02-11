@@ -440,7 +440,7 @@ GATE 门限是什么含义？ 按住音符的持续时间
 Combi 、Seq 的含义?
 答： Korg的Combi 和 Yamaha的Performance 、Roland的 scene 场景类似
 
-用在Montage 贝森朵夫帝王钢琴 扩展包 能否用在 Modx上？ CP-1钢琴音色，S90es钢琴音色包，Motif ES和Motif XF经典钢琴音色
+用在Montage 贝森朵夫帝王钢琴 扩展包 能否用在 Modx上？ CP-1钢琴音色，S90es钢琴音色包，Motif ES和Motif XF经典钢琴音色 
 Montage和Modx的异同点对比
 
 Bosendorfer Imperial 290
@@ -492,14 +492,14 @@ Alan Oldham
 
 
 流行歌曲结构
-Intro	-	前奏
-Verse	-	主歌
+Intro	-	前奏:把歌曲“介绍”给听众
+Verse	-	主歌：通常会有几段主歌，具有相同的曲调，却有不同的歌词。
 Pre-Chorus	-	前副歌
-Chorus	-	副歌
+Chorus	-	副歌：主歌之间可有好几段副歌，通常有相同的歌词。
 Bridge	-	桥段
-Interlude	-	间奏
-Inst solo	-	乐器独奏
-Outro	-	尾奏
+Interlude	-	间奏：过渡段
+Inst solo	-	乐器独奏：在主歌或副歌上进行独奏，有些具有自己的结构，通常为吉他，偶尔也可鼓手
+Outro	-	尾奏：为歌曲带来结尾。没有尾奏就突然终止
 pan - 声像
 
 合成器插件安装形式
