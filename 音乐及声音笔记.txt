@@ -1,4 +1,4 @@
-
+﻿
 Logic pro 官方帮助文件 https://help.apple.com/logicpro/mac/10.4.7/#/lgsife419f90
 www.soundonsound.com/series/synth-secrets
 learningmusic.ableton.com
@@ -55,20 +55,17 @@ Yamaha 音色下载网址 bobbyblues.recup.ch
 频谱仪 - 观察声音的频率分布情况，显示为图形，称为声谱图。
 
 控制电压 - CV  Control Voltage
-
-
-
-
 WT POS   -- Wave Table Position
+
 减法合成器
 构成：
-OSC：合成器的发声源 里面有不同的波形参数：正弦波 方波 锯齿波 三角波 噪音
-Env：控制发声的状态 声音的快慢或者强弱。FM合成器里它也可以用来调制其他的参数
-LFO：来调制我们的OSC振荡器让它的声音充满动态，比如哇呜哇哦的声音
+OSC：oscillator振荡器。合成器的发声源 里面有不同的波形参数：正弦波、方波、锯齿波、三角波、噪音
+Env：envelope-包络。控制发声的状态 声音的快慢或者强弱。FM合成器里它也可以用来调制其他的参数
+LFO：Low Frequency Oscillator—低频振荡器。用来调制我们的OSC振荡器让它的声音充满动态，比如哇呜哇哦的声音
 Filter：改变声音的色彩 ，是明亮还是暗淡
-AMP：声音放大器 
+AMP：amplifier—放大器  或amplitude　　　振幅（しんぷく）
 detune	:	失谐
-
+Intensity 旋钮 
 
 
 
@@ -84,8 +81,8 @@ FM合成器
 测试ipad上合成器 旋钮  Double click 恢复预设值的功能
 
 
-Intensity 旋钮 
-Amp  --  amplitude　　　振幅（しんぷく）
+
+
 
 第2章 认识合成器
 
@@ -97,7 +94,7 @@ Phase 波形相位控制端，表示振动开始的位置，也叫做定位控�
 其频率Freq 受控于自身设定和接入其端口的其他控制设备，和键盘音高无关。操作控制上称为”速率“--Rate或Speed
 其振幅Amp 控于自身设定和接入其端口的其他控制设备，和琴键下键力度无关。操作控制上称为”深度“--Depth后Amount
 
-其作用是控制其他随时间改变的可变量参数，所以Output信号输出端用来接入受控设备而非音频方大设备。
+其作用是控制其他随时间改变的可变量参数，所以Output信号输出端用来接入受控设备而非音频放大设备。
 实际使用时用来控制包络完成自动控制。
 低频振荡器发生的频率影响到声像左右晃动的速度--速率；
 低频振荡器发生的振幅影响到左右晃动的范围--深度
@@ -112,10 +109,10 @@ Filter ， 在电压控制的模拟合成器上写为VCF（Voltage Controlled Fi
 衰减斜率：滤波器对截止频率进行衰减的缓急程度。单位：分贝（dB）/八度（Octave）  slope
 
 滤波类型决定滤波器性质和功能
-低通滤波器（Low Pass Filter）：让截止频率以下区域的声音通过，滤除其以上区域的声音。
-高通滤波器（High Pass Filter）：让截止频率以上区域的声音通过，滤除其以下区域的声音。
-带通滤波器（Band Pass Filter): 让截止频率频段之内的声音通过，滤除其两边区域的声音。
-带除滤波器（Band Reject Filter）：让截止频率以外的声音通过，滤除其自身区域的声音。
+低通滤波器LPF（Low Pass Filter）：让截止频率以下区域的声音通过，滤除其以上区域的声音。
+高通滤波器HPF（High Pass Filter）：让截止频率以上区域的声音通过，滤除其以下区域的声音。
+带通滤波器BPF（Band Pass Filter): 让截止频率频段之内的声音通过，滤除其两边区域的声音。
+带除滤波器BRF（Band Reject Filter）：让截止频率以外的声音通过，滤除其自身区域的声音。
 
 要注意滤波器的截止频率可以改变其位置，截止频率设置得非常高时，低通滤波器同样能让高频通过。要配合滤波器类型正确地设置其截止频率的参数才能用好滤波器。
 
@@ -147,14 +144,14 @@ Envelope Generator 简称 Env或 EG
 
 
 包络发生器和低频振荡器的区别
-包络发生器被出发后，不再次或反复触发不具有周期性和重复性；
+包络发生器被发出后，不再次或反复触发不具有周期性和重复性；
 低频振荡器启动后， 随时间移动按照固定波形轨迹来运动。具备周期性和重复性。
 
 2.1.7 放大器 Amplitude  或者 Master 、 Main
-模拟合成器上写为 VCA（Voltage Controlled Amplitude） 只要控制输出音量（Master Output Volume/Level、增益 Gain 和声像（Pan）
+模拟合成器上写为 VCA（Voltage Controlled Amplitude） 主要控制输出音量（Master Output Volume/Level、增益 Gain 和声像（Pan）
 
 
-2.2 效果设备
+2.2 效果设备 FX Effects
 信号处理器（均衡，压缩） -- 控制声音增益（Gain）
 效果器（混响、延迟） -- 控制声音干湿比例（Mix）  = 音频处理效果器 Effects 、 声音效果FX
 
@@ -289,6 +286,7 @@ MIDI THRU & Daisy Chain  Demo
 
 ***************************************
 中英文对照
+unison	--	齐奏
 Polyphonic	--	和弦
 GROOVE	--	律动
 cutoff	-- 截止频率
@@ -297,23 +295,20 @@ simultaneously	--	同时的，同步的
 acoustic	--	声学的 [ku:]
 omnidirectional	--	全向
 excessive	--	过大
-Resonance	--	共振  这将强调截止频率附近的泛音谱，为声音增添独特的特征。 较高的设置会强调泛音，增加共振效果。
+Resonance	--	共振  这将强调截止频率附近的泛音谱，为声音增添独特的特征。较高的设置会强调泛音，增加共振效果。
 EXCITER -- 激励  调整高频区域，较高的设置将使高频区域更明亮，更清晰。
-
 Envelope Generator	-- 包络发生器
 Granular -- 粒子
 Peak	-	峰值
-RMS	-	平均值
- 除了鼓和打击乐，都建议使用RMS
-
-side Chain	-	侧链：播放唱片时讲话，音乐音量降低，说话一停止，音乐回到原来的音量。
-wet/dry  - 干湿比例 调整原声用与效果声的混合输出比例
+RMS	-	平均值  除了鼓和打击乐，都建议使用RMS
+side Chain	--	侧链：播放唱片时讲话，音乐音量降低，说话一停止，音乐回到原来的音量。
+wet/dry	--	干湿比例 调整原声用与效果声的混合输出比例
 
 Instrument 
 Articulation - 清晰程度
 Genre - 风格流派
 
-Portamento - 滑音
+
 Overdrive - 过载处理器 
 Tube Amp - 电子管放大器 
 Cabinet - 音箱模拟器
@@ -331,14 +326,16 @@ Ribbon controller -
 VDF - Variable Digital Low PassFilter 数字低通滤波器
 VDA - Variable Digital Amplifier  电压数字放大器
 
-Vibrato(VIB) - 颤音
-glissando - 滑音
+Vibrato(VIB) 	--	颤音
+glissando 	--	滑音
+Portamento 	--	滑音
 expressive manner - 表达方式 
 Guitar/Plucked - 弹拨
 conventional = common - 常规
-polyphony - 复音
-
-
+polyphony 	--	复音
+detune	--	失谐
+coarse 	--	粗糙
+fine 	--	精细
 
 五线谱
 step - 符杆
@@ -421,12 +418,22 @@ Lisbon -- Poly Sci-Fi Synthesizer -- ¥68
 Stockholm -- Octo-Sampler Loop Player -- ¥68  
 Ebina -- TAITO ARCADE Synthesizer -- ¥68 
 Otorii -- SEGA 16-BIT DRUM Machine -- ¥68 
-Gadgets from KORG Module -- ¥128 
+Gadgets from KORG Module -- ¥128 已购
 Lexington from ARP ODYSSEi -- Duophonic Analogue Synth -- ¥98
-Milpitas from KORG iWAVESTATION -- Wave Seq Synth -- ¥98
+Milpitas from KORG iWAVESTATION -- Wave Seq Synth -- ¥98 -- 已购
 Montpellier from KORG iMonoPoly -- ¥98
 Memphis from KORG iMS-20 -- Semi-Modular Analogue Synth -- 已购
 Pompei from KORG iPolysix -- 6Voices Polyphonic Synth --已购
+
+Korg 各类合成器中 Performance 为声音组织的最高层级，还包括键盘模式的设定（比如单曲、分割、分层、力度切换）和效果设置。
+
+次一级为Part （最多8个） 效果器 ，每个Part包含一个Patch（音色）、调整声音的参数（音阶scale、音高pitch、滤波器filter和电平level），演奏范围（键区和力度区）
+
+最下级为 PATCH 和 按键和力度
+
+
+
+
 
 [硬件]
 TB303 -- 贝斯合成器
@@ -440,7 +447,7 @@ GATE 门限是什么含义？ 按住音符的持续时间
 Combi 、Seq 的含义?
 答： Korg的Combi 和 Yamaha的Performance 、Roland的 scene 场景类似
 
-用在Montage 贝森朵夫帝王钢琴 扩展包 能否用在 Modx上？ CP-1钢琴音色，S90es钢琴音色包，Motif ES和Motif XF经典钢琴音色 
+用在Montage 贝森朵夫帝王钢琴 扩展包 能否用在 Modx上？ CP-1钢琴音色，S90es钢琴音色包，Motif ES和Motif XF经典钢琴音色
 Montage和Modx的异同点对比
 
 Bosendorfer Imperial 290
@@ -488,18 +495,18 @@ Robert Hood
 Blake Baxter
 Alan Oldham
 
-
-
+平衡与非平衡线缆(unbalanced)
+接头不同：两芯或莲花接头是非平衡；立体声大三芯（尖-套-环Tip-Ring-Sleeve, TRS）或卡农（Extra Long Run,XLR）接头为平衡
 
 流行歌曲结构
-Intro	-	前奏:把歌曲“介绍”给听众
-Verse	-	主歌：通常会有几段主歌，具有相同的曲调，却有不同的歌词。
+Intro	-	前奏
+Verse	-	主歌
 Pre-Chorus	-	前副歌
-Chorus	-	副歌：主歌之间可有好几段副歌，通常有相同的歌词。
+Chorus	-	副歌
 Bridge	-	桥段
-Interlude	-	间奏：过渡段
-Inst solo	-	乐器独奏：在主歌或副歌上进行独奏，有些具有自己的结构，通常为吉他，偶尔也可鼓手
-Outro	-	尾奏：为歌曲带来结尾。没有尾奏就突然终止
+Interlude	-	间奏
+Inst solo	-	乐器独奏
+Outro	-	尾奏
 pan - 声像
 
 合成器插件安装形式
@@ -512,6 +519,17 @@ RTAS - Pro Tools
 WaveStation
 
 Oscillator * (ABCD 共4个)  -- Wave（256 max）-- Wave SEQ --  Performance  （8 Part max）
+
+*****************************************************************************************
+好和弦关于音量
+
+
+
+音量
+
+破音 
+
+
 
 
 
@@ -824,5 +842,117 @@ https://uploader.shimo.im/f/A6zlKDoviNYGNj9B.zip?attname=BilibiliEncoder.dmg.zip
 ![2.png]( https://i.loli.net/2019/03/05/5c7df4a3aaca7.png)
 
 
+#############################################################
+##### MIDIFan 电子杂志经典文章速查
+英伦之声的灵魂 ——— 200604 P.8、200605 P.15、200606 P.24
 
 
+滤波 ——— 200604 P.14
+压缩 ——— 200609 P.8
+
+民族管弦乐编曲 ——— 200604 P.19
+流行乐的编曲连载 ———200609 P.27、200610 P.8、200611 P.8 
+民族戏曲风格音乐编曲连载  ——— 200612 P.11、200701 P.17
+钢琴谱制作连载  ——— 200701 P.8、200702 P.8、200703 P.8、200704 P.12
+
+
+监听音箱连载 ——— 200604 P.23、200605 P.19、200606 P.34、200607 P.41、200608 P.46
+声卡相关连载 ——— 200609 P.29、200610 P.15、200611 P.17、200612 P.19、200701 P.19、200702 P.16
+现场设备Live Rig  ——— 2006.P12
+步进话放  ——— 200705 P.35
+模拟接口全接触  ——— 200706 P.25
+工作室小型控台对比  ——— 200708 P.32
+Korg M3合成器工作站评测  ——— 200709 P.57
+话筒大学  ——— 200712 P.34、200801 P.26、200802 P.23、200803 P.30、200804 P.32
+修正房间声场  ——— 200802 P.30
+
+电影音效 ——— 200604 P.34、200606 P.17（拟音技术）
+合成器音色合成 ——— 200604 P.30、200605 P.9、200606 P.6、200607 P.11、200608 P.8、200610 P.19、200611 P.20
+音色合成技巧 ——— 200608 P.15、200609 P.46、200610 P.31
+红白机音色合成   ——— 200612 P.21
+大片音效库X-treme FX   ——— 200701 P.12
+处理好低音  ——— 200702 P.11
+电子乐制作系统外思考  ——— 200703 P.12
+流行鼓王BFD  ——— 200704 P.18、200705 P.26
+Addictive Drums鼓介绍  ——— 200704 P.24
+华丽的交响乐篇章  ——— 200707 P.20、200708 P.10
+将世界顶级合唱团请回家Symphonic Choirs指挥宝典  ——— 200708 P.20
+你的个人世界顶级音乐厅AudioEase Altiveb采样混响效果器  ——— 200802 P.8
+现代流行音乐中的鼓声制作连载  ——— 200804 P.21、200805 P.23
+快速制作低成本弦乐  ——— 200804 P.38
+如何做drum n'bass连载  ——— 200805 P.7、200806 P.8
+Jean Michel与三十年的Oxygene
+超级鼓王 BFD2   ——— 200806 P.18
+顶级FM软件合成器大对决  ——— 200806 P.23
+
+
+合成基础教程连载  ——— 200705 P.9、200706 P.9、200707 P.10、200708 P.13、200709 P.24、200802 P.41、200803 P.6、200804 P.6
+如何做好低频连载  ——— 200705 P.13、200706 P.12
+
+音响扩声  ——— 200706 P.23、200707 P.27、200708 P.15、200711 P.57
+电脑音乐系统中的声音延迟  ——— 200707 P.12
+声场控制Waves S1  ——— 200707 P.24
+
+漫谈效果器  ——— 200710 P.36、200711 P.14
+镶边合唱与移相 ——— 200605 P.25
+镶边效果器  ——— 200709 P.14
+MIDI编程基础 ——— 200605 P.29
+电脑音乐的N个误区 ——— 200605 P.33
+软件钢琴音源的使用和评测 ——— 200605 P.62
+
+混响调节 ——— 200606 P.13、200607 P.7
+各类门N个门的使用技巧 ——— 200611 P.35
+流行乐中的混响  ——— 200703 P.22、200704 P.34
+关于混音中的音量平衡  ——— 200801 P.36
+在录音、混音、母带之间  ——— 200804 P.16
+
+消除齿音 ——— 200607 P.33
+母带处理 ——— 200606 P.53
+高端母带处理插件  ——— 200702 P.68、200703 P.51
+编辑人声 ——— 200608 P.18
+人声录音与出版级制作的秘密  ——— 200710 P.41
+缩混连载 ——— 200608 P.31、200609 P.33、200610 P.37、200611 P.29、200612 P.30、200701 P.24、200702 P.23
+防止话筒拾音的声学相位抵销 ——— 200608 P.38
+相位抵销现象  ——— 200805 P.14
+调皮效果器（声码器、铃声调制器、和弦共鸣）  ——— 200612 P.35、200701 P.22
+通道条插件  ——— 200701 P.52
+在家里录人声  ——— 200702 P.27
+用母带混音  ——— 200704 P.8
+鼓的录音技巧  ——— 200707 P.29
+如何在工作室中录制大型乐队  ——— 200708 P.27
+电吉他录音专业技巧  ——— 200709 P.26
+拯救混音——演讲厅内的现场拯救  ——— 200709 P.42
+音高修正软件Auto-Tune 5   ——— 200711 P.10
+音高修正软件Waves Tune  ——— 200801 P.7
+录音的艺术连载  ——— 200711 P.39、200712 P.13、200801 P.11、200802 P.3、200803 P.14、200805 P.31、200806 P.45
+弦乐声部的录音秘技  ——— 200711 P.49
+嘻哈风格歌曲的编曲和制作  ——— 200802 P.12
+降噪iZotope RX complete Audio Restoration  ——— 200803 P.9
+切除人声中不自然的声音  ——— 200803 P.20
+如何缩混-让你的音乐脱胎换骨  ——— 200803 P.35
+十二种常见的混音错误  ——— 200806 P.37
+
+
+Steinberg发展历史回顾 ——— 200605 P.76
+Cakewalk发展历史回顾 ——— 200606 P.72
+E-MU发展历史回顾 ——— 200607 P.74
+Propellerhead公司的ReBirth编年史  ——— 200610 P.87
+Spectrasonics创始人的传奇经历  ——— 200611 P.75
+Apple收购Emagic（Logic Pro）  ——— 200611 P.88
+Clavia的发展历史  ——— 200612 P.73
+midifan的日本Korg之行   ——— 200701 P.30、200702 P.30
+Korg四十年历史风雨之路连载   ——— 200701 P66、200702 P.98、200703 P.81、200704 P.69、200705 P.83
+Rupert Neve老先生传奇  ——— 200706 P.79
+Rhodes和他的电钢们  ——— 200707 P.87
+Ligic二十年发展史  ——— 200711 P.100
+
+大发明家Kurzweil合成器帝国  ——— 200708 P.78
+MIDI的诞生与25年的发展  ——— 200709 P.81
+MIDI之父Dave Smith  ——— 200710 P.92
+Waves十五年发展历史  ——— 200712 P.100
+Studer六十年发展历史  ——— 200801 P.86
+Cakewalk CEO回顾20年创业历程  ——— 200802 P.79
+M-Audio走过二十年  ——— 200803 P.81
+Universal Audio发展历史回顾  ——— 200804 P.82
+Grace Design的历史发展  ——— 200805 P.78
+Alesis发展历史  ——— 200806 P.91
