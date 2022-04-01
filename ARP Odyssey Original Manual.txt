@@ -1,0 +1,273 @@
+ARP Odyssey Original Manual
+
+Introduction
+介绍
+
+Welcome to the ARP Odyssey,the ultimate musical trip.
+The ARP Odyssey brings polyphonic electronic music to the performing artist—rock，pop，soul，jazz，or avant-garde.It includes such state-of-the-art firsts as phase-locked oscillators, digital ring modulator, sample & hold circuits，and most of the functions of a complete studio synthesizer.
+
+欢迎来到 ARP Odyssey，终极音乐之旅。
+ARP Odyssey 为表演艺术家带来复调电子音乐——摇滚、流行、灵魂乐、爵士乐或前卫。它包括锁相振荡器、数字环形调制器、采样和保持电路等最先进的首创 ，以及完整的工作室合成器的大部分功能。 
+
+With its ease of operation and high reliability, your ARP Odyssey can produce an enormous variety of sounds in live performance.Everything from thunder and lightning to gong,fuzz guitar,and feedback distortion is at your fingertips with the Odyssey's slider controls and patch switches.The Odyssey's foot pedal and foot switch add to your expressive control.Its two-voice,37-note keyboard has a nine-octave range.The Odyssey is compatible, and can be interfaced with all other ARP synthesizers.And, of course,the famous ARP filters and oscillators give you drift-free accuracy for professional-quality recordings.
+
+凭借其易于操作和高可靠性，您的 ARP Odyssey 可以在现场表演中产生各种各样的声音。从雷声和闪电到锣、法兹吉他和反馈失真，通过 Odyssey 的滑块控制和跳线开关，一切都在您的指尖。 Odyssey 的脚踏板和脚踏开关增加了您的表现力控制。它的两声部、37 键键盘有九个八度音程。Odyssey 兼容，并且可以与所有其他 ARP 合成器连接。当然， 著名的 ARP 滤波器和振荡器为您提供专业品质录音的无漂移精度。
+
+Odyssey Owner's Manual
+奥德赛用户手册 
+
+Contents
+目录
+（暂略）
+
+Getting Started
+入门
+
+The Odyssey belongs to the class of Variable synthesizers. A variable synthesizer, as opposed to a Preset synthesizer, allows you to shape every aspect of a sound, from the attack and decay to the harmonic structure. Your Odyssey is equipped with controls that will let you precisely shape each and every parameter of the sound you are creating.
+
+Odyssey 属于可变合成器类。 与预设合成器相反，可变合成器允许您塑造声音的各个方面，从起音和衰减到谐波结构。 您的 Odyssey 配备了控制器，可让您精确塑造您正在创建的声音的每个参数。
+
+Synthesizers create sounds electronically in much the same fashion that any natural sound is created acoustically. There are definite elements of sound which, when put together in different combinations,will precisely reproduce anything from a clarinet to a jackhammer.The Odyssey is a musical instrument comprised of a number of different electronic circuits; each one is designed to control an element of sound.
+
+合成器以电子方式创建声音，与任何自然声音通过声学创建的方式大致相同。 有一定的声音元素，当它们以不同的组合组合在一起时，将精确地再现从单簧管到手提钻的任何东西。奥德赛是一种由许多不同电子电路组成的乐器； 每一个都旨在控制声音的一个元素。 
+
+This manual is an operational guide for the Odyssey, but it should also give you a working knowledge of electronic music functions.
+
+本手册是 Odyssey 的操作指南，但它也应该让您了解电子音乐功能的使用知识。
+
+Checklist:
+● Fill out your warranty card and send it in.
+● Save the carton (It can be used to protect your Odyssey until you get a carrying case).
+● Place the Odyssey on a suitable playing surface (Don't worry about ventilation; it won't get hot).
+
+清单：
+● 填写保修卡并寄出。
+● 保存纸箱（它可以用来保护您的 Odyssey，直到您得到一个手提箱）。
+● 将 Odyssey 放在合适的演奏台面上（不要担心通风；它不会变热）。 
+
+EXTERNALAMPLIFIER AND SPEAKER
+外部放大器和扬声器
+
+The Odyssey,like all electronic musical instruments, is designed to be connected to an amplifier and loudspeaker system. This external equipment (amplifier and loudspeaker) may be a guitar amplifier, P.A.system, an electronic organ,recording console,or even a high fidelity or stereo system.Two outputs are provided on the rear panel of the synthesizer—a phono jack labeled "Low" and a smaller phono jack labeled"High."' Use the outputs in the following manner:
+
+Odyssey 与所有电子乐器一样，旨在连接到放大器和扬声器系统。 此外部设备（放大器和扬声器）可能是吉他放大器、PA 系统、电子风琴、录音控制台，甚至是高保真或立体声系统。合成器的后面板上提供了两个输出 ——一个标有“Low”的唱机插孔和一个标有“High”的较小唱机插孔。按以下方式使用输出： 
+
+● If you are planning to plug your synthesizer into a guitar amplifier,use the synthesizer's “Low"'output.A standard guitar cord can be used for this connection.
+
+● 如果您打算将合成器插入吉他放大器，请使用合成器的“Low”'输出。标准吉他线可用于此连接。
+
+● If you're using the synthesizer with an organ or a hi-fi amplifier,use the output marked "High." An input jack is already available on most organ models.In the event your organ is lacking this input,it will only take a serviceman a few moments to install one.Ask him to wire the jacks so the volume of the synthesizer can be controlled by the expression pedal of the organ.
+
+● 如果您将合成器与风琴或高保真放大器一起使用，请使用标有“High”的输出。 大多数风琴型号都提供输入插孔。如果您的风琴缺少此输入，只需维修人员几分钟即可安装。请他为插孔接线，以便合成器的音量可以通过以下方式控制风琴的表情踏板。 
+
+WHAT KIND OF AMP WORKS BEST?
+哪种放大器效果最好？
+
+The whole idea of a synthesizer is to give you the capability to shape and control every aspect of a musical sound using the synthesizer's controls. Therefore the ideal
+amplification system for synthesizers should introduce as little distortion or coloration as possible.For this reason, P.A. systems usually produce the cleanest sound with synthesizers.Likewise a bass guitar amplifier is probably the worst kind of amplification for synthesizers because bass guitar amps usually have poor high frequency response.Some lead guitar amps also have a lot of distortion and coloration.If you play your synthesizer through such an amp, your sounds will tend to be characteristic of the amplifier rather than the synthesizer.
+Sometimes,however, the combination of the synthesizer and an amplifier with a great deal of its own coloration will produce just the sound you might be looking for.
+
+合成器的整体理念是让您能够使用合成器的控制来塑造和控制音乐声音的各个方面。 因此理想
+合成器的放大系统应尽可能减少失真或染色。因此，P.A. 系统通常使用合成器产生最干净的声音。同样，低音吉他放大器可能是合成器最差的一种放大，因为低音吉他放大器通常具有较差的高频响应。一些主音吉他放大器也有很多失真和染色。如果你演奏的合成器通过这样的放大器，你的声音往往是放大器而不是合成器的特征。
+然而，有时，合成器和具有大量自身色彩的放大器的组合会产生您可能正在寻找的声音。
+
+Also,don't be afraid to use accessory devices，such as phasers,fuzz-Wow pedals，equalizers and so forth with your Odyssey. You can get interesting results.The Odyssey can also be used as an accessory device for other electronic musical instruments through use of the external audio input jack.
+
+此外，不要害怕在您的 Odyssey 中使用外设，例如移相器、Fuzz-Wow 踏板、均衡器等。 您可以获得有趣的结果。通过使用外部音频输入插孔，Odyssey 还可以用作其他电子乐器的外设。 
+
+
+Let's Begin
+
+让我们开始
+
+By now your curiosity is probably beginning to exert itself, and you may wish to start playing immediately. In this case, simply turn to page 39, read the brief description of the control functions,and then set up any of the patches starting on page 43. While these patches provide some basic ideas of the vast potential that lies within the Odyssey，,you'll ultimately discover an ever greater number of new and exciting sounds and effects on your own.
+
+至此，您的好奇心可能已经开始发挥作用，您不妨立即开始演奏。 在这种情况下，只需翻到第 39页，阅读控制功能的简要说明，然后从第43页开始设置任何音色包。由于这些音色包提供了奥德赛巨大潜力的一些基本概念， 您最终会自己发现更多崭新和令人兴奋的声音和效果。
+
+If you prefer to systematically examine each control of your Odyssey before playing，continue on to the information which follows.
+
+如果您更喜欢在演奏之前系统地检查 Odyssey 的每处控制，请继续阅读以下信息。 
+
+HOw YOUR ODYSSEY WORKS
+您的奥德赛如何运作
+
+Generally speaking,all the electronic circuits in your Odyssey perform one of three basic functions:
+一般来说，Odyssey 中的所有电子电路都执行以下三个基本功能之一：
+
+1.Signal sources: the "raw" tones or noise which will ultimately be shaped into   musical sounds.
+1.信号源：最终将形成音乐声音的“原始”音调或噪音。
+
+2.Signal Modifiers: the"raw" sounds are passed through signal modifiers where the timbre (or tone quality) is changed to produce the desired sound, and
+2.信号调制器：“原始”声音通过信号调制器传递，其中音色（或音质）被改变以产生所需的声音，并且
+
+3.Controllers: devices which determine the operating characteristics of the signal sources and the signal modifiers.For instance,the keyboard is a controller which produces a voltage to tell the oscillator what pitch to create.Similarly, the ADSR envelope generator creates an attack and decay signal that controls the Voltage Controlled Filter (VCF) so that the final musical sound has an attack and decay.
+3.控制器：确定信号源及信号调制器的操作特性的设备。例如，键盘是一个控制器，它产生一个电压来告诉振荡器要创建什么音高。同样，ADSR 包络发生器创建一个起音和控制压控滤波器 (VCF) 的衰减信号，使最终的音乐声音具有起音和衰减。 
+
+All mechanical instruments work in a similar way.A violin, for instance, has a vibrating string which would be a signal source.The vibrating string corresponds to the oscillator in your Odyssey. The vibrations from the string are transmitted to the body of the violin which modifies the sound of these vibrations.The body of the violin is actually a mechanical filter and corresponds to the voltage Controlled Filter (vCF) on the Odyssey.It is the characteristic resonances of the body that give the violin its distinctive tone quality. The fingerboard，like the keyboard on your Odyssey, determines the pitch of the sound. The movement of the bow,like the ADSR Envelope Generator, determines the attack and decay characteristics of the sound.
+所有机械乐器的工作方式都类似。例如，小提琴有一根振动的弦，它可以作为信号源。振动的弦对应于Odyssey中的振荡器。琴弦的振动传递到小提琴的琴身，从而改变这些振动的声音。小提琴的琴身实际上是一个机械滤波器，对应于Odyssey上的电压控制滤波器(VCF)。它是特征共振琴体赋予小提琴独特的音质。指板，就像Odyssey上的键盘一样，决定了声音的音高。弓的运动，就像ADSR包络发生器一样，决定了声音的起音和衰减​​特性。
+
+Interconnecting the various functions shown in Figure A is known as creating a "patch." The block diagram illustrated in Figure A is，of course，a violin patch.
+Similarly, it is possible to diagram any patch that you may play on the Odyssey.Actually , this visual representation of a patch permits you to better understand what functions of the synthesizer are being employed and how each function contributes to the finished sound.
+插图A所示的各种功能称为创建“音色包”。图A所示的框图当然是一个小提琴音色包。
+类似地，您可以绘制在 Odyssey 上播放的任何音色包。实际上，这种 Patch 的可视化表示可以让您更好地了解正在使用合成器的哪些功能以及每个功能如何对完成的声音做出贡献。 
+
+插图A （未翻译）
+插图B （未翻译）
+
+The figure above is a block diagram of all the functions and internal connections in your Odyssey.As we proceed with our discussion on the Odyssey's functions, you will be able to see exactly how the different functions interact.
+上图是您的Odyssey中所有功能和内部连接的框图。当我们继续讨论Odyssey的功能时，您将能够准确地看到不同功能如何交互。 
+
+Sound Sources
+声源
+
+The Voltage Controlled Oscillator on your Odyssey produces electrical waveforms (saw-tooth，pulse，and square waves) which are used to create a wide range of sound timbres.If a signal generated by an oscillator has the same waveform as a sound created by a traditional instrument，both will sound the same.
+Odyssey上的压控振荡器产生电波形（锯齿波、脉冲波和方波），用于创建各种音色。如果振荡器产生的信号与由传统乐器发出的声音具有相同的波形 ，则两者听起来就一样。
+
+Different waveforms have different sounds.Your Odyssey is capable of creating six basic waveforms，plus noise:
+不同的波形有不同的声音。您的Odyssey能够创建六种基本波形，外加噪声：
+
+Sawtooth wave; full, brassy
+锯齿波；饱满的，类似铜管
+
+Square wave; clarinet-like
+方波：类似单簧管的 
+
+Pulse wave; bright,nasal
+脉搏波； 明亮，鼻音
+
+Modulated pulse wave; chorus-like, rich
+调制脉冲波； 合唱般的，丰富的
+
+Sine wave; pure, whistle-like
+正弦波； 纯净的，像哨子一样
+
+various phase-synced waveforms; bright, rich
+各种相位同步波形； 明亮、丰富 
+
+
+EXPERIMENT 1.LISTENING TO WAVEFORMS
+实验 1. 收听波形
+
+1.Hook up your ODYSSEY to a speaker and amplifier as described on page 3.For the time being，set all tone controls on your amplifier for "flat"" response.
+1.按照第3页所述将ODYSSEY连接到扬声器和放大器。一开始，将放大器上的所有音调控制设置为“平坦”回响。
+
+2.Set all the controls on your ODYSSEY to match the positions shown in Figure C. Double check the settings before proceeding.
+2.将ODYSSEY上的所有控制设置为与插图C中所示的位置匹配。在继续之前仔细检查设置。 
+
+3.The controls on your ODYSSEY are now set so that you will be able to hear the different "raw"' waveforms from the ODYSSEY's VOLTAGE CONTROLLED OSCILLATOR (VCO) whenever you play the keyboard.Locate the three slide controls under the AUDIO MIXER(white, green,and blue).
+3.现在设置了 ODYSSEY 上的控件，以便您在弹奏键盘时能够从 ODYSSEY 的电压控制振荡器 (VCO) 听到不同的“原始”波形。找到 AUDIO MIXER 下的三个滑动控件（ 白色、绿色和蓝色）。
+
+4.Raise the blue slider under the AUDIO MIXER and play a few notes on the keyboard. The sound you are hearing is the raw,unprocessed sawtooth wave.
+4. 抬起 AUDIO MIXER 下方的蓝色滑块并在键盘上弹奏几个音符。 您听到的声音是未经处理的原始锯齿波。
+
+5.The pitch of this tone can be varied manually through use of the COARSE and FINE tuning sliders.These sliders are located in the part of the panel marked VOLTAGE CONTROLLED OSCILLATOR l (Figure D)
+5.可以通过使用COARSE（粗调）和FINE（精调）调音滑块手动改变此音调的音高。这些滑块位于面板上标有 VOLTAGE CONTROLLED OSCILLATOR l 的部分（插图D） 
+
+Hold a note down and push each of these sliders through its range. The CoARSE slider allows tuning through a good part of the audio spectrum, while the FINEtuning slider allows a range of about one octave.When you are tuning the voltage controlled oscillators，either to one another or to another musical instrument, you will first tune the COARSE slider to the approximate range,and then use the FINE slider to find the pitch exactly.
+按住一个音符并将这些滑块中的每一个推过它的范围。COARSE滑块允许调谐大部分音频频谱，而FINE tuning滑块允许大约一个八度音程的范围。当您调整压控振荡器时，无论是相互调整还是调整到另一种乐器，您将首先调整 COARSE 滑块到近似范围，然后使用 FINE 滑块精确找到音高。 
+
+
+6.The slide switch next to the tuning sliders lowers the frequency of vco 1 by a factor of about one hundred when this switch is placed in its L.F. position.This is far below the range of human hearing; consequently you will not hear any continuous tone but only a more or less rapid series of clicks.The rate of this low frequency signal is not controlled by the keyboard，but can be varied by adjusting the tuning sliders.
+6.当此开关置于L.F.位置时，调谐滑块旁边的滑动开关将vco1的频率降低约100倍。这远低于人类听觉范围；因此，您不会听到任何连续的音调，而只会听到或多或少的快速咔哒声。此低频信号的速率不受键盘控制，但可以通过调整调音滑块来改变。
+
+7.Return the tuning sliders to the center of their range, and set the slide switch back to the audio range. Now change the slide switch under the blue slider of the AUDIO MIXER to the bottom position.Again, play the keyboard and you will now be hearing the sound of a raw unprocessed square wave.Notice how the square wave，especially at low pitches, has a hollow, clarinet-like sound.
+7.将调音滑块返回到其范围的中心，并将滑动开关设置回音频范围。 现在将 AUDIO MIXER 的蓝色滑块下方的滑动开关更改为底部位置。再次弹奏键盘，您现在将听到未经处理的原始方波的声音。注意方波，特别是在低音调时，是如何产生的空心的，类似单簧管的声音。 
+
+
+8.The square wave on your ODYSSEY can be turned into another waveform called a PULSE WAVE by raising the blue slider labelled PULSE WIDTH located under the VOLTAGE CONTROLLED OSCILLATOR l box.Raise this slider to the halfway mark and again play on the keyboard.Notice how the pulse wave sounds brighter，more nasal,than the square wave.
+8.通过将位于 VOLTAGE CONTROLLED OSCILLATOR l 框下方标有 PULSE WIDTH 的蓝色滑块拉起，可以将 ODYSSEY 上的方波转换为另一种称为 PULSE WAVE的波形。将此滑块拉到中间标记并再次在键盘上弹奏。注意脉搏波如何听起来比方波更亮、更鼻化。 
+
+9.An even narrower pulse wave can be created by raising the PULSE WIDTH slider all the way to the MIN marking. This waveform is very buzzy and thin. At the MINmarking,the top part of the pulse waveform is only about five percent of the total waveform.A square wave, as its symbol implies, has a top part of its waveform that is exactly fifty percent of the total waveform.
+9. 将 PULSE WIDTH 滑块一直升高到 MIN 标记，可以创建更窄的脉冲波。 这个波形非常嘈杂和纤细。 在 MIN 标记处，脉冲波形的顶部仅占总波形的 5% 左右。方波，正如其符号所暗示的那样，其波形的顶部正好是总波形的 50%。 
+
+EXPERIMENT 2.PULSE WIDTH MODULATION
+实验 2.脉冲宽度调制
+
+1.Lower the PULSE WIDTH control slowly thereby gradually increasing the width of the pulse wave until it becomes a square wave again with the PULSE WIDTH slider all the way down.
+1.缓慢降低脉冲宽度控制，从而逐渐增加脉冲波的宽度，直到它再次变为方波，同时将脉冲宽度滑块一直向下。
+
+2.If you move the PULSE WIDTH control up and downwhile holding down a low note, you will hear that the changing pulse width creates a kind of chorus-like effect.The faster you move the PULSE WIDTH control,the more pronounced the effect.By changing or "modulating'' the pulse width while you play, you are creating another waveform called the “MODULATED PULSE WAVE."
+2.如果在按住低音的同时上下移动 PULSE WIDTH控制，您会听到变化的脉冲宽度产生一种类似合唱的效果。移动 PULSE WIDTH 控制越快，效果越明显。 通过在演奏时更改或“调制”脉冲宽度，您正在创建另一个称为“调制脉冲波”的波形。 
+
+3.The ODYSSEY has special PULSE WIDTH MODULATION controls that facilitate the generation of the modulated pulse waveform.Bring the blue PULSE WIDTH control all the way down, and raise the pink LFO PULSE WIDTH MOD control all the way up.Play the keyboard and you will hear a sound which is similar to the effect you created when you moved the pulse width control by hand in step 2. If you lower the pink LFO PULSE WIDTH MOD slider, the effect will diminish and finally disappear.
+3. ODYSSEY 有特殊的 PULSE WIDTH MODULATION 控制，便于调制脉冲波形的产生。将蓝色的 PULSE WIDTH 控制一直向下，将粉红色的 LFO PULSE WIDTH MOD 控制一直向上。弹奏键盘，你会听到类似于您在步骤 2 中手动移动脉冲宽度控件时创建的效果的声音。如果您降低粉红色 LFO PULSE WIDTH MOD 滑块，效果将减弱并最终消失。 
+
+Notice that the pink LFO FREQ control to the right of the Low Frequency Oscillator box changes the speed of the chorus-like sound.
+请注意，低频振荡器框右侧的粉红色 LFO FREQ 控件会更改类似合唱的声音的速度。
+
+4.Experiment with different combinations of settings of the blue PULSEWIDTH control, the pink LFO PULSE WIDTH MOD control,and the pink LFO FREQcontrol.
+4. 尝试蓝色 PULSEWIDTH 控件、粉色 LFO PULSE WIDTH MOD 控件和粉色 LFO FREQ 控件的不同设置组合。
+
+EXPERIMENT 3.略
+
+EXPERIMENT 4.略
+
+EXPERIMENT 5.略
+
+
+Modifiers are electronic devices that can process a signal and change its sound.Consequently a modifier must have an input and an output.A tone control on a hi-fi set is a simple modifier since it changes the nature of the sound signal that passes through its circuitry.
+调制器是可以处理信号并改变其声音的电子设备。因此，调节器必须具有输入和输出。高保真音响设备上的音调控制是一种简单的调节器，因为它会改变通过它电路的声音信号的性质。 
+
+The ARP ODYSSEY contains four modifiers,the Voltage Controlled Filter (VCF)，the Voltage Controlled Amplifier (VCA),the High Pass Filter (HPF)，and the Ring Modulator.Any signal that is introduced into the AUDIO MIXER,i.e.,Noise，vco or vco must pass through the VCF,HPF and the VCA before reaching the output of the ODYSSEY.
+ARP ODYSSEY 包含四个调制器，压控滤波器（VCF）、压控放大器（VCA）、高通滤波器（HPF）和环形调制器。任何引入音频混音器的信号，如噪声， vco 或 vco 必须通过 VCF、HPF 和 VCA 才能到达 ODYSSEY 的输出。 
+
+EXPERIMENT 1.RING MODULATION
+实验 1. 环形调制
+
+Lower the blue and green sliders under the AUDIO MIXER BOX, and raise the white slider again.Change the position of the slide switch under the white slider from
+Noise to RING MOD.Make sure that the PHASE SYNC switch for VCO 2 is off.Play a few notes on the keyboard and listen to the RING MODULATOR.While you are listening to it you should think of the block diagram shown in Figure L.The RING MODULATOR has no
+controls of its own.It produces, from the pulse outputs of vco 1 and VCo 2, a single complex output signal which contains all the sums and differences of the two oscillator frequencies.This means that:
+
+调低 AUDIO MIXER BOX 下方的蓝色和绿色滑块，然后再次调高白色滑块。将白色滑块下方的滑动开关位置从噪音到
+RING MOD。确保 VCO 2 的 PHASE SYNC 开关处于关闭状态。在键盘上弹奏几个音符并聆听 RING MODULATOR。在聆听时，您应该想到插图L 所示的框图。 环形调制器没有其自己的控制部分
+它由 VCO 1 和 VCO 2 的脉冲输出产生一个单一的复杂输出信号，其中包含两个振荡器频率的所有和及差异。这意味着： 
+
+The raw sound produced from the ring modulator depends entirely on the tuning of VCO l and VCO 2; and to a lesser extent on the pulse width settings for each one. Experiment with these.Note in particular that sounds from the RING MODULATOR do not necessarily have any standard musical pitch in relation to the pitch of either oscillator. (Unless they are synchronized by the SYNC switch on vco 2; try that).
+环形调制器产生的原始声音完全取决于 VCO 1 和 VCO 2 的调谐； 并且对每个脉冲宽度做较小程度的设置。 尝试一下。请特别注意，来自 RING MODULATOR 的声音不一定具有与任一振荡器音高相关的任何标准音高。 （除非它们通过 VCO 2 上的 SYNC 开关同步；试一下）。
+
+The overtones of the RING MODULATOR signal will not necessarily conform to the standard harmonic series.They may be extremely complex, like those of a bell,chimes, gongs, and other metallic or percussive sounds. All of these，in fact，can be simulated by further modifications of a suitable ring modulator signal.Some of the patches illustrate this.
+RING MODULATOR 信号的泛音不一定符合标准谐波系列。它们可能非常复杂，如铃铛、钟声、锣和其他金属或打击乐的声音。 事实上，所有这些都可以通过进一步修改合适的环形调制器信号来模拟。一些音色包说明了这一点。 
+
+EXPERIMENT 3.略
+
+EXPERIMENT 4.略
+
+
+Controller
+控制器
+
+Controllers are devices on the synthesizer which are used to create electrical signals which in turn control modifiers and sources on the synthesizer.For instance, the most obvious controller on the ODYSSEY is the keyboard. The keyboard produces a voltage which controls the vCo and can control the VCF.Other controllers on the ODYSSEY are the sample and hold，ADSR ENVELOPE GENERATOR，HPF,LFO,PITCH BEND CONTROL, and FOOTPEDAL. By this time you have had an opportunity to experiment with each of these controllers, so let's just review the functions of each of the controllers.
+控制器是合成器上的设备，用于创建电信号，进而控制合成器上的修改器和音源。例如，ODYSSEY 上最明显的控制器是键盘。 键盘产生的电压可以控制 VCO 并可以控制 VCF。ODYSSEY 上的其他控制器是采样和保持，ADSR 包络发生器，HPF，LFO，弯音轮 和 脚踏板。 至此，您已经有机会尝试使用这些控制器中的任一个，所以让我们回顾一下每个控制器的功能。
+
+
+KEYBOARD AND PEDALS:
+键盘和踏板：
+
+The KEYBOARD produces two CONTROL VOLTAGES. These voltages are the same if none or one key is depressed on the keyboard.(If no keys are depressed on the keyboard, the control voltages correspond to the last key played.) If two or more notes are depressed, the first control voltage corresponds to the lowest key depressed, and the second control voltage corresponds to the highest depressed.
+
+KEYBOARD 产生两个控制电压。 如果在键盘上没有按下任何键或按下一个键，则这些电压是相同的。（如果键盘上没有按下任何键，则控制电压对应于最后弹奏的键。）如果按下两个或多个音符，则第一个控制电压对应于 到最低按键，第二控制电压对应最高按键。 
+
+The first control voltage is always connected to VCO l, unless VCO 1 is set to the L.F. mode, in which case the keyboard is disconnected from VCO 1.The second
+control voltage is always connected to VCO 2. When VCO 2 has SYNC switched on,the keyboard is still connected to VCO 2, although in this case it does not directly control its frequency, but rather its harmonic content, as do the tuning sliders for VCO 2 in this case.(Try it.)
+第一个控制电压始终连接到 VCO l，除非 VCO 1 设置为 L.F. 模式，在这种情况下键盘与 VCO 1 断开连接。控制电压始终连接到 VCO 2。当 VCO 2 开启 SYNC 时，键盘仍然连接到 VCO 2，尽管在这种情况下它不直接控制其频率，而是控制其谐波含量，就像调谐滑块一样 在这种情况下为 VCO 2。（试试看。）
+
+
+The first keyboard control voltage can also be connected to the VCF by raising the appropriate slider under the VCF. This was investigated during the experiments with
+the VCF.
+第一个键盘控制电压也可以通过拉高 VCF 下方的相应滑块连接到 VCF。 这是在实验中研究
+VCF。 
+
+It is important to know that the ODYSSEY has a built-in
+memory，which holds the last note played on the keyboard. This keeps the pitch information around during the RELEASE cycle of the AR and ADSR envelope generators,as we shall see.
+重要的是要知道 ODYSSEY 有一个内置的内存，它保存键盘上弹奏的最后一个音符。 正如我们将看到的，这使得 AR 和 ADSR 包络发生器的 RELEASE 周期中保留了音高信息。 
+
+
+The keyboard on the ODYSSEY has several controls associated with it.These include the PORTAMENTO slider and PORTAMENTO sWITCH.The TRANSPOSE sWITCH will shift the pitch of the keyboard up or down exactly two octaves. The PITCH BEND control will be discussed in a separate section.
+ODYSSEY 上的键盘有几个与之相关的控件。这些控件包括滑音滑块和滑音开关。移调开关将键盘的音高向上或向下移动两个八度。 PITCH BEND 控制将在单独的部分中讨论。 
+
+PORTAMENTO is a"sliding effect.'Set up your ODYSSEY as shown in Figure M.Raise the ADSR control under the VCF. As you play on the keyboard, hold down the PORTAMENTO pedal，raise the PORTAMENTO slider and listen to the resulting effect. The foot switch supplied with your ODYSSEY is used to turn on thePORTAMENTO.Thus you can set the PORTAMENTO slider for a certain glide speed and then turn it on and off with the foot switch.
+PORTAMENTO 是一种“滑动效果”。如图M 所示设置您的 ODYSSEY。拉高 VCF 下的 ADSR 控制。当您在键盘上弹奏时，按下 PORTAMENTO 踏板，抬起 PORTAMENTO 滑块并聆听产生的效果。 ODYSSEY 随附的脚踏开关用于打开 PORTAMENTO。因此，您可以将 PORTAMENTO 滑块设置为一定的滑动速度，然后使用脚踏开关打开和关闭它。 
+
+When the foot pedal is plugged into the back of your ODYSSEY,VCo 2 and the VCF can be controlled by it. (The signal from the S/H Mixer is automatically disconnected by inserting the foot pedal jack as explained earlier.) Several of the patches make use of the foot pedal for wah-wah and other effects.
+当脚踏板插入您的 ODYSSEY 后部时，VCO 2 和 VCF 可以由它控制。 （如前所述，插入脚踏板插孔会自动断开来自 S/H 混音器的信号。）有几个音色使用脚踏板来实现哇音和其他效果。 
+

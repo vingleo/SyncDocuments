@@ -303,6 +303,7 @@ Peak	-	峰值
 RMS	-	平均值  除了鼓和打击乐，都建议使用RMS
 side Chain	--	侧链：播放唱片时讲话，音乐音量降低，说话一停止，音乐回到原来的音量。
 wet/dry	--	干湿比例 调整原声用与效果声的混合输出比例
+干湿比大，效果声大过直达声；干湿比小，直达声大过效果声
 
 Instrument 
 Articulation - 清晰程度
@@ -432,11 +433,63 @@ Korg 各类合成器中 Performance 为声音组织的最高层级，还包括�
 最下级为 PATCH 和 按键和力度
 
 
+电脑端Gadgets
+
+Zurich
+Wolfsburg
+Warszawa
+Vancouver
+Tokyo
+Taipei
+Stockholm
+Saizburg
+Rosario
+Recife
+Pompei
+Phoenix
+Otorill
+Montreal
+Nontpellier
+Milpitas
+Miami
+Memphis
+Marseille
+Madrid
+London
+Lisbon
+Lexington
+Kingston
+Kiev
+Kamata
+Helsinki
+Glasgow
+Gladstone
+Firenze
+Fairbanks
+Ebina
+Durban
+Darwin
+Chicago
+Chiangmai
+Brusseis
+Bilbao
+Berlin
+Amsterdam
+Alexandria
+AbuDhabi
+
+
+
 
 
 
 [硬件]
 TB303 -- 贝斯合成器
+Pattern  为16个步进的序列，使用Patch的设定作为音色，每个步进含音高Pitch、滑动slide和门限gate设定
+Patch 为音色引擎和效果设置
+Bank 为存储Pattern ，每个Bank可存储64个Pattern和Patch
+
+
 
 TR808 -- 鼓机
 TR909 -- 鼓机
@@ -1128,7 +1181,7 @@ midifan的日本Korg之行   ——— 200701 P.30、200702 P.30
 Korg四十年历史风雨之路连载   ——— 200701 P66、200702 P.98、200703 P.81、200704 P.69、200705 P.83
 Rupert Neve老先生传奇  ——— 200706 P.79
 Rhodes和他的电钢们  ——— 200707 P.87
-Ligic二十年发展史  ——— 200711 P.100
+Logic二十年发展史  ——— 200711 P.100
 大发明家Kurzweil合成器帝国  ——— 200708 P.78
 MIDI的诞生与25年的发展  ——— 200709 P.81
 MIDI之父Dave Smith  ——— 200710 P.92
