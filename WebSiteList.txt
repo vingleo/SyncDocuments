@@ -40,6 +40,7 @@ https://www.pianbar.com/Film/index.html 电影bt下载网站
 http://www.poxiaotv.com/vodhtml/78450.html  电视剧网站
 http://www.mjf2020.com/fenji/350183.html#35018-3-720p 美剧粉
 https://www.meijutt.tv/content/meiju25178.html 美剧 亿万
+https://www.meijutt.tv/content/meiju23809.html  美剧 小谢尔顿
 https://www.meijutt.tv/search/index.asp  美剧 嗜血法医
 https://www.meijutt.tv/content/meiju128.html 美剧 嗜血法医
  美剧 犯罪现场调查 维加斯 重启
@@ -365,6 +366,11 @@ https://mp.weixin.qq.com/s/oWFOL3iDyry0we2WNZe6uw  Logic Pro X全面晋级教程
 https://www.midivst.com/  音源下载  vingleo@gmail.com  I***m****
 https://mirai.one/?cat=&s=ableton  合成器预设等
 https://www.edmprod.com/lufs/  LUFS: How To Measure Your Track’s Loudness in Mastering 音量
+https://www.sequential.com/product/prophetrev2/  sequential官网
+https://www.arturia.com/support  arturia 官网
+https://2osc.com/2021/07/26/%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%BD%97%E5%85%B0Boutique/  合成器介绍网站
+https://waldorfmusic.weclapp.com/webapp/view/helpdesk/portal/iridiumkb/home.page  德国waldorf官网
+https://www.elektron.se/  瑞典electron官网
 
 ##############################
 ### Part VIII 教育及电子书 
@@ -374,7 +380,7 @@ http://www.itpub.net/thread-1902681-1-1.html    电子书下载网站 ITPub
 http://www.itpub.net/forum-61-1.html   电子书下载网站 ITPub 
 http://tujie.jianbihua.org/102638.html  折纸 
 https://book.zhishikoo.com/books/category/hejiqu/page/5   电子书百度盘下载（解压密码：zhishikoo.com）
-
+https://www.javaweb.shop/article/1378.html#emoji-mood   Java菜市场电子书下载
 
 ##############################
 ### Part IX 旅游美食
@@ -420,6 +426,7 @@ https://tieba.baidu.com/p/5436039400  Cave相册下载
 https://tieba.baidu.com/p/5444225145?red_tag=3406786533  怒首领蜂大复活全系统说明
 https://edgeemu.net/details-157504.htm　rom中缺 eeprom可以下载
 http://daisuwang.com/android-crack-game/ssyx  Hgame
+https://id.sonyentertainmentnetwork.com/signin/?ui=pr&response_type=token&scope=openid%3Auser_id%20openid%3Aonline_id%20openid%3Actry_code%20openid%3Alang%20user%3Aaccount.communication.get%20kamaji%3Aget_account_hash%20oauth%3Amanage_user_auth_sessions%20openid%3Aacct_uuid%20user%3Aaccount.authentication.mode.get%20user%3Aaccount.phone.masked.get%20user%3Aaccount.notification.create%20openid%3Acontent_ctrl%20user%3Aaccount.subaccounts.get%20openid%3Aage%20pdr%3Acam%20can%3Acontext.user.get%20can%3Acontext.user.set%20user%3AbasicProfile.get%20user%3AbasicProfile.update%20user%3AverifiedAccount.get%20kamaji%3Aaccount_link_user_link_account%20kamaji%3Aget_internal_entitlements%20user%3Aaccount.realName.get%20user%3Aaccount.communicationRestrictionStatus.get%20user%3Aaccount.restrictions.get%20ias%3Aaccount.onlineIdChange.get%20user%3Aaccount.onlineId.get%20user%3AonlineIdSuggestion.get%20kamaji%3Aactivity_feed_set_feed_privacy%20user%3Aaccount.identityMapper%20user%3Aaccount.email.create%20user%3Aaccount.emailVerification.get%20user%3Aaccount.tosua.update%20ucs%3AuserConsents.get%20ucs%3AuserConsents.revoke%20device%3Aget%20device%3Aupdate%20device%3Aactivate%20openid%3Aacct_id_str%20deviceManagement%3Adevices.deactivateAll%20digitalRightsManagement%3ApremiumServices.update&redirect_uri=https%3A%2F%2Fid.sonyentertainmentnetwork.com%2Fid%2Fmanagement%2F%3Fentry%3Dp%26pr_referer%3Dcam%26service-entity%3Dpsn&client_id=ce381e15-9cdd-4cf9-8384-0cf63db17f6a&state=db6568b2276a0854ebb4ffab798a57c7&error=login_required&error_code=4165&error_description=User+is+not+authenticated&no_captcha=false#/signin?entry=%2Fsignin   Sony id 登陆
 
 
 ##############################
