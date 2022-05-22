@@ -26,13 +26,13 @@ Part 23 关机和重启
 Part 24 关于系统内核模块及配置
 Part 25 虚拟文件系统 /proc --目的是 将内核管理维护与文件系统相同操作
 Part 26 对硬件检查和监督
-Part 27 关于系统监视和进程控制工具——top和free
+Part 27 关于系统监视和进程控制工具
 Part 28 启用ssh 服务
 Part 29 RPM相关
 Part 30 关于压缩打包
 Part 31 软件安装
 Part 32 备份
-
+Part 33 Raid
 
 
 
@@ -472,12 +472,64 @@ PCI -- Peripheral Component Interconnect 外部部件互联标准  总线设备�
 /sbin/cardctl 查看状态
 
 
-Part 27 关于系统监视和进程控制工具——top和free
+Part 27 关于系统监视和进程控制工具
+linux性能分析工具
+1.	CPU
+top —— 展示系统和进程CPU、内存信息
+uptime —— 展示系统平均负载
+vmstat —— 报告和采样内存、I/O、CPU信息总览
+procinfo —— 展示cpu和中断信息
+mpstat —— 统计和采用特定cpu信息
+sar —— 报告和采样cpu信息
+oprofile —— 分析系统和进程cpu消耗
+perf —— 剖析cpu调用路径和消耗
+time —— 报告进程cpu使用信息
+strace —— 统计系统调用信息和耗时等
+lstrace —— 统计库函数调用信息和耗时等
+ps -0 [pcpu] pid —— 特定选项统计进程cpu信息
+pidstat —— 展示进程cpu用量
+gprof —— 展示应用调用图和耗时分布
 
+2.	内存
+vmstat ——
+top ——
+free ——
+slabtop
+sar -r
+/proc/meminfo
+ps -o [vsz,rss,...] pid
+/proc/<pid>/[mem]
+memprof
+valgrind
+kcachegrind
+oprofile
+ipcs
+pmap
+
+
+
+
+
+3.	网络
+
+4.	磁盘
+
+有个综合监控工具dstat
+可以安装
+# yum -y install dstat
+格式
+# dstat 1 3 
+代表每1秒刷新一次，再刷新3次结束。
+
+top和free
 top命令 可以执行后 用？ 获取帮助
 按u 可以切换用户，查看特定用户的资源占用
 
 free 命令查看内存使用状态
+
+
+
+
 
 
 Part 28 启用ssh 服务
@@ -640,3 +692,112 @@ dd备份一模一样的硬盘
 #!/bin/bash
 # 说明：
 # 这个程序是用来备份网站数据库的
+
+
+尚硅谷的经验
+
+需要备份的内容
+*重要系统目录
+/etc/
+/home/
+/root/
+/var/spool/mail/
+/var/spool/cron/
+/var/spool/at/
+
+*服务应用数据
+例如MySQL
+RPM包安装的MySQL:  /var/lib/mysql/
+源码安装的MySQL：/usr/local/mysql/data/
+
+例如Apache服务
+网站内容：/var/www/html/     /usr/local/apache2/htdocs/
+配置文件：/etc/httpd/conf/httpd.conf    /usr/local/apache2/conf/httpd.conf
+日志文件：/var/log/httpd/  /usr/local/apache2/logs
+
+备份策略
+*完整备份
+命令：cp 、tar、dump（redhat6等）、xfsdump（redhat7等）
+
+增量备份：
+命令：  dump （redhat6等）、xfsdump（redhat7等）
+
+差异备份：
+命令： dump （redhat6等）、xfsdump（redhat7等）
+
+备份频率
+实时备份： 如MySQL主从同步
+定时备份：如每天、每周备份，通过脚本+定时任务
+
+备份存储位置
+基本原则：不要把鸡蛋放在同一个篮子
+本地备份
+异地备份 区际、城际  备用电源、备用网络
+
+常见服务器的备份方案
+*每日备份的数据（异地备份）
+*MySQL数据库（主从备份之外，增量备份一次）
+
+每周备份的数据（异地备份）
+MySQL数据库（完整备份）
+重要系统数据
+网页数据
+其他服务相关数据
+     *****主****实时
+	 *****从****
+	      ↓
+	  备份服务器（每天凌晨）
+	      ↓
+		存储集群（每周）
+		
+网站服务器每天产生的日志数量较大，如何备份
+日志为文本
+若每天20万个PV（点击），日志在200MB，
+
+日志的切割与轮替
+*系统日志管理工具：logrotate
+其他服务的日志切割与轮替的使用
+
+Part 33 Raid
+Raid0、Raid1、Raid5 特点和原理
+
+Raid0 —— 独立磁盘冗余阵列
+*必须使用2或2块以上硬盘组成
+*每块硬盘容量必须一致
+*所有Raid中读写速度最快
+*损坏几率相对最高
+*没有磁盘容错功能
+
+Raid1 
+*由2或2的倍数块硬盘组成
+*每块硬盘大小必须一致
+*硬盘使用率50%，写入速度最慢
+*具有磁盘容错功能
+
+Raid5
+*由3块或以上硬盘组成
+*每块硬盘大小必须一致
+*磁盘率用率是n-1块盘
+*利用奇偶校验实现磁盘容错功能（只能1块硬盘损坏）
+
+Raid6、Raid10的特点与原理。它们只是Raid0、Raid1、Raid5的变形
+Raid6是Raid5的增强版
+*4块或以上硬盘组成（普通1U服务器厚度为4.4cm，只能放3块盘，只可用Raid5，使用Raid6必须是2U服务器）
+*每块大小一致
+*磁盘率用率是n-2块盘
+支持磁盘容错，可以支持2块硬盘损坏
+
+Raid10是先组成Raid1 再组成Raid0
+*必须由4块大小一致硬盘组成
+*兼顾Raid0和Raid1特点，中和两种缺点
+
+
+软Raid与硬Raid的区别。
+软Raid：操作系统模拟的Raid，磁盘损坏，操作系统损坏。
+硬Raid：独立于硬盘之外，硬件Raid卡组成，硬盘损害，Raid卡无损坏，磁盘容错起作用。
+
+
+
+
+
+
