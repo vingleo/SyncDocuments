@@ -41,6 +41,7 @@ http://www.poxiaotv.com/vodhtml/78450.html  电视剧网站
 http://www.mjf2020.com/fenji/350183.html#35018-3-720p 美剧粉
 https://www.meijutt.tv/content/meiju25178.html 美剧 亿万
 https://www.meijutt.tv/content/meiju23809.html  美剧 小谢尔顿
+https://www.meijutt.tv/content/meiju27206.html   风骚律师
 https://www.meijutt.tv/search/index.asp  美剧 嗜血法医
 https://www.meijutt.tv/content/meiju128.html 美剧 嗜血法医
  美剧 犯罪现场调查 维加斯 重启
@@ -262,6 +263,8 @@ https://mp.weixin.qq.com/s/Euc89Uq4Av6J9jImxdv81Q  《自拍教程66》Python ff
 
 【Java】
 https://www.runoob.com/java/java-package.html 教程 
+https://juejin.cn/post/6844903647197806605  事务
+
 
 ##############################
 ### Part III 乐乐学习相关网站
@@ -273,6 +276,7 @@ https://xscdn.emooc-sys.com/pub/platform/schedule.html  苏州线上教育中心
 http://study.sipedu.org/pub/platform/home.html#2  易加互动 
 https://sso.sipedu.org/cas/login?service=http%3A%2F%2Fstudy.sipedu.org%2Flogin%2FjumpToLogin%3Bjsessionid%3D7h0ukxq4cze0lf4urpt5fpg7%3Fgoto%3Dhttp%253A%252F%252Fstudy.sipedu.org%252Fpub%252Fresource%252FresDetail.html%253FresCode%253DMT10003410042341%2526resTypeL1%253D10%2526shareLevel%253D30
 http://www.dzkbw.com/books/yilin/yingyu/8s/ 电子课本网
+http://espace.sipedu.org  人机对话考试服务
 
 
 【Android】
@@ -309,12 +313,19 @@ https://www.ghac.cn/vehicles/honda/accord-sporthybrid/p#page5  广汽本田混�
 https://www.gac-toyota.com.cn/vehicles/camryxle/interior/ 广汽丰田凯美瑞
 https://www.gac-toyota.com.cn/minisite/Campaigns/2017/camryxle/config/?model=2.0e&ly=xle 凯美瑞配置
 http://www.changan-mazda.com.cn/market/product/cx5/service/user-manual/cx5-user-manual/  长安马自达 CX-5 在线手册
+http://www.changan-mazda.com.cn/product/cx-5/safety/ 介绍
+http://www.changan-mazda.com.cn/service/maintenance/parts-price/ 长安马自达常用配件价格（创驰蓝天车型）
+http://www.changan-mazda.com.cn/product/cx-30/  
+http://www.changan-mazda.com.cn/product/cx-30/service/user-manual/cx-30-user-manual/  安马自达 CX-30 在线手册 
 http://www.changan-mazda.com.cn/  长安马自达
+https://www.mazda.com/en/ 美国马自达
+https://www.mazdausa.com/static/manuals/2021/cx-5/howto.html  美国马自达How to
+https://www.mazdausa.com/static/manuals/2021/cx-5/contents/04060100.html  美国马自达CX-5在线手册
 http://www.changan-mazda.com.cn/product/cx-5/  长安马自达 CX-5 配置表
 http://news.cheshi.com/special/201105/jq_speek/  速度与激情5中的跑车
-
-
-
+https://www.aarp.org/auto/car-buying/info-2021/consumer-reports-top-vehicles.html  2021 Consumer Reports Rates 10 Best Vehicles for 2021
+https://www.motorbiscuit.com/consumer-reports-loves-2021-mazda-cx-30-superpower/ Consumer Reports Loves the 2021 Mazda CX-30 for This ‘Superpower’
+https://www.usatoday.com/story/money/cars/2020/11/19/consumer-reports-auto-reliability-survey-2021-cars-trucks-suvs/6337648002/#:~:text=The%2010%20most%20reliable%20cars%20of%202021%2C%20according,Audi%20A5%209%20Audi%20A4%2010%20Mazda%20CX-5  USA Today These are the 10 most and least reliable 2021 cars, trucks and SUVs, Consumer Reports says
 
 
 
@@ -357,8 +368,11 @@ https://www.allied-material.co.jp/en/products/diamond/knowledge/diamond_cbn-whee
 https://www.musicbody.net/music/theory/index.html  乐器社  乐理 
 http://www.miyinlos.com/index.php?m=content&c=index&a=show&catid=74&id=2274  迷音 各种资源 
 https://www.korg.com/us/support/download/#  Korg 手册下载地址 
+http://korgclub.com.cn/list/index.asp?type=2  Korg中文手册下载地址
 http://www.roland-china.com/support/owners_manuals/t_z  Roland 手册下载地址 
-https://www.roland.com/global/support/owners_manuals/  美国Roland 手册下载地址 
+https://www.roland.com/global/support/owners_manuals/  美国Roland 手册下载地址
+https://rolandcloud.com/home/news/model-expansions-now-available-for-fantom-users  Zen-Core Model Expansions for FANTOM
+https://www.roland.com/cloud/signup  Fantom升级免费步骤 
 https://yamahamusicians.com/forum/viewtopic.php?t=11655   yamaha Bösendorfer Imperial Premium Grand Piano FREE download for all MODX owners
 https://v.qq.com/x/search/?q=roland+fantom%E5%90%88%E6%88%90%E5%99%A82.0&stag=0&smartbox_ab=   qq视频中搜索roland fantom合成器2.0
 https://www.mfreezy.cn/archives/1034  软件下载
@@ -371,6 +385,11 @@ https://www.arturia.com/support  arturia 官网
 https://2osc.com/2021/07/26/%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%BD%97%E5%85%B0Boutique/  合成器介绍网站
 https://waldorfmusic.weclapp.com/webapp/view/helpdesk/portal/iridiumkb/home.page  德国waldorf官网
 https://www.elektron.se/  瑞典electron官网
+https://www.cloudmidi.net/arturia-v-collection-9-macos.html  33个键盘合成乐器插件合集-Arturia V Collection 9 MacOS 待下载 10积分
+https://www.cloudmidi.net/korg-software-bundle-v2022-4-r2r-mac.html  KORG 经典键盘合成乐器插件合集-KORG Software Bundle v2022.4 R2R MAC 待下载 10积分
+https://www.cloudmidi.net/korg-wavestate-native-v1-0-2-r2r-win-mac.html   波表序列合成器-KORG Wavestate Native v1.0.2 R2R WiN-MAC 待下载 5积分
+https://www.cloudmidi.net/valhalla-dsp-bundle-v2022-1-m1-macos.html  经典混响延迟插件包9个合集-Valhalla DSP Bundle v2022.1 M1 MacOS 10积分
+
 
 ##############################
 ### Part VIII 教育及电子书 
@@ -406,6 +425,7 @@ https://zhuanlan.zhihu.com/cdteikyo   日语考级经验
 http://www.anime-manga.jp/chinese/CharacterExpressions/  日语学习网站
 http://www.erin.ne.jp/jp/lesson01/basic/index.html 
 https://kanji.jitenon.jp/  汉字辞典（查询汉字发音、含义、例句）
+https://www.erin.jpf.go.jp/jp/lesson/02/key-phrases/  艾琳学日语官网（好网站）
 
 
 ##############################
@@ -466,6 +486,7 @@ https://tiku.kaola100.com/chapter/38/56   考拉网题库 国际经济法概论
 https://tiku.kaola100.com/chapter/38/58   考拉网题库 合同法
 https://tiku.kaola100.com/chapter/38/63   考拉网题库 劳动法  passed
 https://tiku.kaola100.com/chapter/38/74   考拉网题库 知识产权法  passed
+https://tiku.kaola100.com/chapter/do/977/  考拉网题库 房地产法
 
 
 ##############################

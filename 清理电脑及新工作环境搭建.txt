@@ -1,5 +1,9 @@
 清理电脑及新工作环境搭建
 
+
+
+
+
 PART II 清理部分
 1. 我的文档
 c:\Users\ware\
@@ -7,6 +11,7 @@ c:\Users\ware\
 2. 微信及企业微信及开发
 软件卸载后
 c:\Users\ware\Documents\WeChat Files\vingleo\ 
+删除e:\WeChat-Doc\
 
 3. QQ软件卸载
 注意同步QQ聊天记录
@@ -46,7 +51,11 @@ d:\temp\xunlei\王嘉颀的东西\
 音乐的备份
 d:\temp\xunlei\mp3\
 
+各种目录的清理
+e:\software\ 下面所有文件可以删除，目录大部分已经上传至阿里云 
 
+印象笔记的清理
+e:\印象笔记
 
 *****************************************************************
 PART I 新环境搭建工作平台
