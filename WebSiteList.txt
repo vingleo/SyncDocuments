@@ -197,6 +197,7 @@ https://www.jianshu.com/p/28428b90b07a  iOS 整体框架及类继承框架图
 https://developer.apple.com/documentation/driverkit   驱动编写
 https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/SoftwareProducts/SoftwareProducts.html#//apple_ref/doc/uid/TP40001067-CH206-TPXREF123   设备驱动编写
 https://www.macappbox.com/a/kontakt.html#download  苹果软件下载
+https://macwk.com/soft/navicat-premium  苹果软件下载（好用）
 
 【arduino】
 https://www.arduino.cn/thread-11353-1-1.html  用Arduino扩展无人飞行器+普及无人机知识，不会算法的人必看

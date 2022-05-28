@@ -1,21 +1,39 @@
-目录
-Part 0 关于帮助
-Part 1 安装过程--忽略
-Part 2 命令行无法执行ifconfig
-Part 3 使用 Telnet 命令 没有安装 
-Part 4 使用光盘(优盘)问题
-Part 5 关于不用鼠标快捷键——参考文章说明
-Part 6 使用Find 查找特定文件目录
-Part 7 输出重定向
-Part 8 tr 命令   将特定字符做转换
-Part 9 cut 和 paste 命令
-Part 10 sort 排序
-Part 11 挂载点
-Part 12 grep =  global regular expressions print
-Part 13 sed    stream editor 
-Part 14 awk  人名缩写  用来分段格式化输出  
-Part 15 Vi（Vim）
-Part 16 关于用Set 设置 局部变量  只能在当前的shell环境中生效
+# 目录
+
+## Part 0 关于帮助  
+
+## Part 1 安装过程--忽略  
+
+## Part 2 命令行无法执行ifconfig  
+
+## Part 3 使用 Telnet 命令 没有安装   
+
+## Part 4 使用光盘(优盘)问题  
+
+## Part 5 关于不用
+
+## Part 6 使用Find 查找特定文件目录  
+
+## Part 7 输出重定向  
+
+## Part 8 tr 命令  将特定字符做转换   鼠标快捷键——参考文章说明  
+
+## Part 9 cut 和 paste 命令  
+
+## Part 10 sort 排序  
+
+## Part 11 挂载点  
+
+## Part 12 grep =  global regular expressions print  
+
+## Part 13 sed    stream editor 
+
+## Part 14 awk  人名缩写  用来分段格式化输出  
+
+## Part 15 Vi（Vim）
+
+## Part 16 关于用Set 设置 局部变量 只能在当前的shell环境中生效
+
 Part 17 shell 启动脚本shell startup script 
 Part 18 硬件设备
 Part 19 安装相关 日志等
@@ -38,7 +56,7 @@ Part 33 Raid
 
 
 //***********************************************
-Part 0 关于帮助
+# Part 0 关于帮助
 --help  只能是shell内部命令帮助
 man  info  外部命令
 注意可用  type 命令名称 来查看是外部或内部命令
@@ -46,34 +64,34 @@ man  info  外部命令
 
 使用Linux遇到的问题--自我检测掌握情况
 
-Part 1 安装过程--忽略
+# Part 1 安装过程--忽略
 
 
-Part 2 命令行无法执行ifconfig
+# Part 2 命令行无法执行ifconfig
 1.需要用root， sudo 不能为何提示密码不对
 2. 默认使用的   环境变量要求改， ifconfig在 /sbin目录下     用 where 查找
 
-Part 3 使用 Telnet 命令 没有安装 
+# Part 3 使用 Telnet 命令 没有安装 
 /sbin/chkconfig telnet --listd 无法找到 文件
 方法1.需要打开菜单——Application——System Tools——Software Update 安装（不联网无法打开）
 方法2.打开安装光盘，进入Server目录，运行 telnet-0.17-39.el5.i386.rpm和elnet-server-0.17-39.el5.i386.rpm
 复制后 运行 #rpm -ivh telnet-0.17-39.el5.i386.rpm
 
 
-Part 4 使用光盘(优盘)问题
+# Part 4 使用光盘(优盘)问题
 外部设备加入系统，产生挂载点（目录） /media 或 /mnt  目录下 
 /media/CDRom  RH5.0 为 /media
 
 
-Part 5 关于不用鼠标快捷键——参考文章说明
+# Part 5 关于不用鼠标快捷键——参考文章说明
 
 
-Part 6 使用Find 查找特定文件目录
+# Part 6 使用Find 查找特定文件目录
 find 路径(可用~ 或 .) -size +20(可用-atime +3 访问时间大于3天前 -mtime +3修改时间大于3天前，-mtime -3修改时间小于3天)
 -name 文件名 
 
 
-Part 7 输出重定向
+# Part 7 输出重定向
  stdin   0
  stdout  1
  stderr  2ｃ
@@ -491,28 +509,51 @@ pidstat —— 展示进程cpu用量
 gprof —— 展示应用调用图和耗时分布
 
 2.	内存
-vmstat ——
-top ——
-free ——
-slabtop
-sar -r
-/proc/meminfo
-ps -o [vsz,rss,...] pid
-/proc/<pid>/[mem]
-memprof
-valgrind
-kcachegrind
-oprofile
-ipcs
-pmap
-
-
-
-
+vmstat —— 报告和采用内存、IO、CPU信息总览
+top —— 展示系统和进程CPU、内存信息、M切换为内存排序
+free —— 统计和采样内存信息
+slabtop —— 展示内核缓存分配和使用情况
+sar -r —— 报告和菜花样内存信息
+/proc/meminfo —— 内存信息统计
+ps -o [vsz,rss,...] pid —— 特定选项统计进程内存信息
+/proc/<pid>/[mem] —— 进程内存统计信息
+memprof —— 图形化内存使用剖析
+valgrind —— 分析和检测内存问题
+kcachegrind —— 图形化剖析内存
+oprofile —— 分析cache命中、内存问题
+ipcs —— 展示共享内存—、信号量
+pmap —— 展示进程内存映射信息
 
 3.	网络
+ethtool —— 统计以太网设备数据
+ifconfig —— 配置网络接口和统计其数据
+ip —— 配置网络接口、路由和统计其数据
+sar -n [TCP ...] —— 特定选项报告网络统计信息
+iptraf —— 监控网络接口流量
+netstat —— 统计网络协议栈和接口信息
+ping —— 测试网络连通信息
+traceroute —— 测试网络路由信息
+tcpdump —— 网络抓包工具
+Wireshark —— 图形化网络抓包工具
+DTrace —— 统计和检查进程、内核网络信息
+ss —— 统计套接字信息
+lsof -[iTCP ...] —— 特定选项统计网络信息
+
+
 
 4.	磁盘
+vmstat [-D...] —— 特性选项统计磁盘I/O信息
+iostat —— 统计设备和分区磁盘I/O信息
+iotop —— 列出进程磁盘I/O信息
+blktrace —— 跟踪磁盘I/O事件
+sar -d —— 报告磁盘I/O相关信息
+lsof —— 列出进程打开文件、目录信息
+pidstat -d  —— 列出进程磁盘I/O统计信息
+
+
+
+
+
 
 有个综合监控工具dstat
 可以安装
