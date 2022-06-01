@@ -1,0 +1,405 @@
+设定Crontab计划任务执行rsync同步
+
+2022-05-17：initialized by Ware.Wang // 主机1-3 的cron语句待优化
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+主机1：119.119.119.115（ubuntu系统）
+用途：Sales系统、PMS系统、Perfree博客、vsftp、mysql
+本地路径1   /root/dockerData/ 
+远端路径1  /home/ubuntu/sync/sync-119.119.119.115/
+本地路径2   /home/ags/ 
+远端路径2   /home/ubuntu/sync/sync-119.119.119.115/home/ags/
+
+
+手动rsync同步语句
+# rsync -avuP  /root/dockerData/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.115/dockerData/
+# rsync -avuP  /home/ags/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.115/home/ags/
+
+
+定时同步crontab配置文件
+# crontab -e 
+30 12 * * * rsync -avuP  /root/dockerData/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.115/dockerData/
+30 12 * * * rsync -avuP  /home/ags/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.115/home/ags/
+30 17 * * * rsync -avuP  /root/dockerData/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.115/dockerData/
+30 17 * * * rsync -avuP  /home/ags/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.115/home/ags/
+30 23 * * * rsync -avuP  /root/dockerData/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.115/dockerData/
+30 23 * * * rsync -avuP  /home/ags/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.115/home/ags/
+
+重启服务会立即生效
+# service cron restart
+
+开启cron日志
+1.修改rsyslog文件，修改/etc/rsyslog.d/50-default.conf 文件中的#cron.*前的#删掉；
+2.# service rsyslog restart
+3.# service cron restart
+
+查看日志：
+more /var/log/cron.log
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+主机2：119.119.118.101
+用途：Redmine+Halo
+本地路径1   /home/ubuntu/redmine/
+远端路径1   /home/ubuntu/sync/sync-119.119.118.101/
+
+手动rsync同步语句
+# rsync -avuP  /home/ubuntu/redmine/ root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.101/
+
+定时同步crontab配置工具
+# crontab -e 
+*/2 * * * * rsync -avuP  /home/ubuntu/redmine/ root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.101/
+
+重启服务立即生效
+# service cron restart
+
+开启cron日志
+1.修改rsyslog文件，修改/etc/rsyslog.d/50-default.conf 文件中的#cron.*前的#删掉；
+2.# service rsyslog restart
+3.# service cron restart
+
+查看日志：
+more /var/log/cron.log
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+主机3：119.119.119.4
+用途：Gitlab服务器
+本地路径1  /srv/gitlab/
+远端路径1   /home/ubuntu/sync/sync-119.119.119.4/
+ 
+说明：由于以下文件夹都存储在/srv/gitlab/目录下，选择直接备份真个gitlab目录
+配置文件：/srv/gitlab/config
+日志路径：/srv/gitlab/logs
+数据路径：/srv/gitlab/data
+
+手动rsync同步语句
+# rsync -avuP --progress /srv/gitlab/ root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.4/
+
+定时同步crontab配置工具
+0 2 * * 5 docker exec aa9 pash -c ' cd /var/opt/gitlab/backups && ./auto_backup.sh'
+30 12 * * * rsync -avuP --progress /srv/gitlab/ root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.4/
+30 17 * * * rsync -avuP --progress /srv/gitlab/ root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.4/
+30 23 * * * rsync -avuP --progress /srv/gitlab/ root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.4/
+
+
+开启cron日志
+1.修改rsyslog文件，修改/etc/rsyslog.d/50-default.conf 文件中的#cron.*前的#删掉；
+2.# service rsyslog restart
+3.# service cron restart
+
+查看日志：
+more /var/log/cron.log
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+主机4：119.119.118.99
+用途：文档服务器
+本地路径1： /home/amaxgs/
+远端路径1： /home/ubuntu/sync/sync-119.119.118.99/home/amaxgs/
+本地路径2： /root/
+远端路径2： /home/ubuntu/sync/sync-119.119.118.99/root/ 
+
+手动rsync同步语句
+# rsync -avuP  /home/amaxgs/ root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.99/home/amaxgs/
+# rsync -avuP  /root/   root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.99/root/ 
+
+定时同步crontab配置工具
+30 12,17,23 * * * rsync -avuP  /home/amaxgs/ root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.99/home/amaxgs/
+30 12,17,23 * * * rsync -avuP  /root/   root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.99/root/
+
+已经开启了cron日志
+
+若尚未开启
+# /etc/init.d/rsyslog start
+
+查看日志：
+# more /var/log/cron.log
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+主机5：119.119.118.111  ubuntu系统
+用途：teamcity服务器
+本地路径：  /home/ubuntu/
+远端路径：  /home/ubuntu/sync/sync-119.119.118.111/ubuntu/
+
+发送端生成秘钥
+# ssh-keygen
+
+发送端将密码加入远端服务器信任列表
+# cat ~/.ssh/id_rsa.pub | ssh root@接收端IP 'cat >> ~/.ssh/authorized_keys'
+
+手动同步语句
+# rsync -avuP  /home/ubuntu/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.111/ubuntu/
+
+定时同步crontab配置工具
+30 12,17,23 * * * rsync -avuP  /home/ubuntu/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.111/ubuntu/
+
+开启cron日志
+1.修改rsyslog文件，修改/etc/rsyslog.d/50-default.conf 文件中的#cron.*前的#删掉；
+2.# service rsyslog restart
+3.# service cron restart
+
+查看日志：
+more /var/log/cron.log
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+主机6：119.119.119.40
+用途：出差系统
+本地路径1  /data/mysql-data/
+远端路径1  /home/ubuntu/sync/sync-119.119.119.40/data/mysql-data/
+本地路径2  /usr/tomcat/
+远端路径2  /home/ubuntu/sync/sync-119.119.119.40/usr/tomcat/
+
+发送端生成秘钥
+# ssh-keygen
+
+发送端将密码加入远端服务器信任列表
+# cat ~/.ssh/id_rsa.pub | ssh root@119.119.119.119 'cat >> ~/.ssh/authorized_keys'
+
+手动同步语句
+# rsync -avuP  /data/mysql-data/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.40/data/mysql-data/
+# rsync -avuP  /usr/tomcat/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.40/usr/tomcat/
+
+
+定时同步crontab配置工具
+30 12,17,23 * * * rsync -avuP  /data/mysql-data/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.40/data/mysql-data/
+30 12,17,23 * * * rsync -avuP  /usr/tomcat/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.40/usr/tomcat/
+
+开启cron日志
+1.修改rsyslog文件，修改/etc/rsyslog.d/50-default.conf 文件中的#cron.*前的#删掉；
+2.# service rsyslog restart
+3.# service cron restart
+
+查看日志：
+more /var/log/cron.log
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+主机7：119.119.118.178 
+用途：Oracle
+本地路径：/home/ubuntu/oracle/
+远端路径：/home/ubuntu/sync/sync-119.119.118.178/oracle/
+
+
+发送端生成秘钥
+# ssh-keygen
+
+发送端将密码加入远端服务器信任列表
+# cat ~/.ssh/id_rsa.pub | ssh root@119.119.119.119 'cat >> ~/.ssh/authorized_keys'
+
+
+手动同步语句
+# rsync -avuP  /home/ubuntu/oracle/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.178/oracle/
+
+
+定时同步crontab配置工具
+30 12,17,23 * * * rsync -avuP  /home/ubuntu/oracle/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.178/oracle/
+
+
+开启cron日志
+1.修改rsyslog文件，修改/etc/rsyslog.d/50-default.conf 文件中的#cron.*前的#删掉；
+2.# service rsyslog restart
+3.# service cron restart
+
+查看日志：
+more /var/log/cron.log
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+主机8：119.119.118.68
+用途：harbor
+
+
+需要备份的本地文件夹
+docker部分：
+本地路径   /home/ags/   
+远端路径  /home/ubuntu/sync/sync-119.119.118.68/home/ags/
+
+
+log部分：
+本地路径1  /var/log/harbor/
+远端路径1  /home/ubuntu/sync/sync-119.119.118.68/var/log/harbor/
+本地路径2 /home/ags/harbor/harbor/common/config/log/  
+远端路径2  /home/ubuntu/sync/sync-119.119.118.68/common/config/log/
+
+
+registry部分：
+本地路径1  /data/registry/
+远端路径1  /home/ubuntu/sync/sync-119.119.118.68/data/registry/
+本地路径2  /home/ags/harbor/harbor/common/config/registry/
+远端路径2  /home/ubuntu/sync/sync-119.119.118.68/common/config/registry/
+本地路径3  /data/secret/registry/
+远端路径3  /home/ubuntu/sync/sync-119.119.118.68/data/secret/registry/
+
+registryctl部分:
+  /data/registry/     //忽略
+本地路径1  /home/ags/harbor/harbor/common/config/registryctl/
+远端路径1  /home/ubuntu/sync/sync-119.119.118.68/common/config/registryctl/
+
+
+postgresql部分：
+本地路径1  /data/database
+远端路径1  /home/ubuntu/sync/sync-119.119.118.68/data/database/
+
+
+core部分：
+本地路径1  /data/ca_download/
+远端路径1  /home/ubuntu/sync/sync-119.119.118.68/data/ca_download/
+本地路径2  /data/psc/
+远端路径2  /home/ubuntu/sync/sync-119.119.118.68/data/psc/
+本地路径3  /home/ags/harbor/harbor/common/config/core/
+远端路径3  /home/ubuntu/sync/sync-119.119.118.68/common/config/core/
+本地路径4  /data/secret/core/
+远端路径4  /home/ubuntu/sync/sync-119.119.118.68/data/secret/core/
+本地路径5  /data/secret/keys/
+远端路径5  /home/ubuntu/sync/sync-119.119.118.68/data/secret/keys/
+
+
+jobservice部分: 
+本地路径1  /data/job_logs/ 
+远端路径1  /home/ubuntu/sync/sync-119.119.118.68/data/job_logs/
+本地路径2  /home/ags/harbor/harbor/common/config/jobservice/
+远端路径2  /home/ubuntu/sync/sync-119.119.118.68/common/config/jobservice/
+
+
+redis部分：
+本地路径  /data/redis/
+远端路径  /home/ubuntu/sync/sync-119.119.118.68/data/redis/
+
+nginx部分：
+本地路径  /home/ags/harbor/harbor/common/config/nginx/
+远端路径  /home/ubuntu/sync/sync-119.119.118.68/common/config/nginx/
+
+
+发送端生成秘钥
+# ssh-keygen
+
+发送端将密码加入远端服务器信任列表
+# cat ~/.ssh/id_rsa.pub | ssh root@119.119.119.119 'cat >> ~/.ssh/authorized_keys'
+
+手动同步语句
+
+docker部分
+
+# rsync -avuP  /home/ags/   root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/home/ags/
+
+log部分
+
+# rsync -avuP /var/log/harbor/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/var/log/harbor/
+# rsync -avuP /home/ags/harbor/harbor/common/config/log/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/common/config/log/
+
+registry部分
+
+# rsync -avuP  /data/registry/     root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/registry/
+# rsync -avuP  /home/ags/harbor/harbor/common/config/registry/    root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/common/config/registry/   
+# rsync -avuP /data/secret/registry/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/secret/registry/  
+
+registryctl部分
+
+# rsync -avuP  /home/ags/harbor/harbor/common/config/registryctl/    root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/common/config/registryctl/
+
+postgresql部分
+
+
+# rsync -avuP  /data/database/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/database/
+
+
+core部分：
+
+# rsync -avuP  /data/ca_download/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/ca_download/
+# rsync -avuP  /data/psc/   root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/psc/
+# rsync -avuP  /home/ags/harbor/harbor/common/config/core/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/common/config/core/
+# rsync -avuP  /data/secret/core/   root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/secret/core/
+# rsync -avuP  /data/secret/keys/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/secret/keys/
+
+jobservice部分: 
+
+# rsync -avuP  /data/job_logs/   root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/job_logs/
+# rsync -avuP /home/ags/harbor/harbor/common/config/jobservice/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/common/config/jobservice/
+
+
+
+redis部分：
+
+# rsync -avuP /data/redis/ root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/redis/
+
+
+nginx部分：
+
+# rsync -avuP /home/ags/harbor/harbor/common/config/nginx/ root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/common/config/nginx/
+
+
+
+决定crontab计划任务备份周期
+30 12,17,23 * * * rsync -avuP  /home/ags/   root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/home/ags/
+30 12,17,23 * * * rsync -avuP /var/log/harbor/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/var/log/harbor/
+30 12,17,23 * * * rsync -avuP /home/ags/harbor/harbor/common/config/log/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/common/config/log/
+30 12,17,23 * * * rsync -avuP  /data/registry/     root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/registry/
+30 12,17,23 * * * rsync -avuP  /home/ags/harbor/harbor/common/config/registry/    root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/common/config/registry/   
+30 12,17,23 * * * rsync -avuP /data/secret/registry/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/secret/registry/  
+30 12,17,23 * * * rsync -avuP  /home/ags/harbor/harbor/common/config/registryctl/     root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/common/config/registryctl/
+30 12,17,23 * * * rsync -avuP  /data/database/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/database/
+30 12,17,23 * * * rsync -avuP  /data/ca_download/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/ca_download/
+30 12,17,23 * * * rsync -avuP  /data/psc/   root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/psc/
+30 12,17,23 * * * rsync -avuP  /home/ags/harbor/harbor/common/config/core/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/common/config/core/
+30 12,17,23 * * * rsync -avuP  /data/secret/core/   root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/secret/core/
+30 12,17,23 * * * rsync -avuP  /data/secret/keys/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/secret/keys/
+30 12,17,23 * * * rsync -avuP  /data/job_logs/   root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/job_logs/
+30 12,17,23 * * * rsync -avuP /home/ags/harbor/harbor/common/config/jobservice/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/common/config/jobservice/
+30 12,17,23 * * * rsync -avuP /data/redis/ root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/data/redis/
+30 12,17,23 * * * rsync -avuP /home/ags/harbor/harbor/common/config/nginx/ root@119.119.119.119:/home/ubuntu/sync/sync-119.119.118.68/common/config/nginx/
+
+
+默认开启了cron日志
+查看日志：
+# more /var/log/cron.log
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+主机9 119.119.119.78
+用途：生产环境部署服务
+
+需要备份的本地文件夹
+
+本地路径1   /home/ubuntu/  
+远端路径1  /home/ubuntu/sync/sync-119.119.119.78/home/ubuntu/
+
+
+本地路径2  /var/backups/
+远端路径2 /home/ubuntu/sync/sync-119.119.119.78/var/backups/
+
+发送端生成秘钥
+# ssh-keygen
+
+发送端将密码加入远端服务器信任列表
+# cat ~/.ssh/id_rsa.pub | ssh root@119.119.119.119 'cat >> ~/.ssh/authorized_keys'
+
+手动同步语句
+# rsync -avuP /home/ubuntu/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.78/home/ubuntu/
+# rsync -avuP /var/backups/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.78/var/backups/
+
+
+定时同步crontab配置工具
+30 12,17,3 * * * rsync -avuP /home/ubuntu/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.78/home/ubuntu/
+30 12,17,3 * * * rsync -avuP /var/backups/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.78/var/backups/
+
+
+开启cron日志
+1.修改rsyslog文件，修改/etc/rsyslog.d/50-default.conf 文件中的#cron.*前的#删掉；
+2.# service rsyslog restart
+3.# service cron restart
+
+查看日志：
+more /var/log/cron.log
+
+
+
+rsync -avuP /home/ubuntu/  root@119.119.119.119:/home/ubuntu/sync/sync-119.119.119.78/home/ubuntu/
+
+
+

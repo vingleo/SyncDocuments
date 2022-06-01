@@ -1,0 +1,76 @@
+A:You can make a self-instroduction now.
+B:Thank you for giving me this opportunity to introduce myself. My name is Wang wei，and you can call me ware. I am 42 years old. I got my college education in  Suzhou Radio & Televison University ,with major in  computer science.
+After graduation, I found a job in APP aka golden hong ye  Paper Group Co., Ltd ， which is manufacturing Facial tissue paper and office paper , and I spent 1 years there。
+
+
+I really think I am suitable for this job and I am fairly experienced in this field, so I believe I can do it well. Moreover, I think I will hava a bright future in this area.
+A:What did you do after you left this hotel?
+B:I went to Shenzhen to help my friend who ran a hotel there. I was the manager there.
+
+
+
+B:I was in charge of the  XXXX   as before. I was also responsible for staff training at the same time.
+
+I used to have overseas work experience. From 2000  August  to  2000 November, I worked in Singapore Gul Technology Ltd for CAD/CAM Enigeer position。I was also responsible for staff training at the same time in headquaters.
+After returned to Suzhou , I was promoted to the supervisor of CAD/CAM department, in charge of the CAD/CAM division. 
+I present you 
+
+
+
+1. IT Department Management for customers：
+Maintenance for Permanent assets  Equipment:such as servers、workstations、Routers、Firewall（PIX）、Switches、PC、Laptops，include Windows、Macintosh、Linux Operation system， and iOS、 Android、Windows mobile device、printers etc. 
+maintaining windows domain under win 2003 , microsoft exchange System, Red hat Linux Service(vsftp,) ,Cisco System, UPS system, Panasonic TDA system, Network Monitor System etc.
+
+
+
+2. Implementation of ERP projects and follow-up maintenance for customers (ERP System)
+
+3. NC drilling machine programming, design PCB layout and planning process work-flow.
+
+4 maintaining HP and Solaris Unix Workstation 
+
+
+
+
+
+
+
+help the the company obtain ISO/IEC20000 internal cerfificatioin.
+
+
+Pre-sale proposal documents writing for PrintUsage Technical Supporting Via help-desk.
+
+Control software license.
+Develop printusage iOS app.
+
+4. Develop RFID card reader configure application for Mac platform。
+
+5. Pre-sales  proposal ducments writing for MES system.
+
+6. Tender reply documents writing
+
+
+Reasons for leaving last job:
+I  am always  on business from time to time. I think I should spend more time with my family. Becasuse my parents are old and suffer from some chronic diseases, and I need to take care of them.
+
+
+
+
+
+
+
+
+熟练部署公司使用的mysql、redis、gitlab、Harbor、teamcity、ELK等应用服务和中间件，部署公司MES 和WMS系统及其微服务。
+MES和WMS售前阶段现场调研客户需求及解决方案撰写，软件实施、提供客户远程协助支持
+编写MES系统项目方案书，投标方案文档编写。
+研发维护PrintUsage打印监控软件平台，MES、WMS及PrintUsage移动客户端iOS原生程序开发。
+对全国范围客户提供MES产品培训和技术支持。
+
+
+远程工具：webex、teamviewer、 
+
+会议工具：skepe、Zoom、Tencent Meeting
+
+VPN： Cisco or 
+
+Israel's military technology is world-leading, such as radar and optical detection.

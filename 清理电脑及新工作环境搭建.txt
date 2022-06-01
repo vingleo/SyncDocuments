@@ -1,10 +1,12 @@
 清理电脑及新工作环境搭建
 
+上传E盘的 各种python 到github  push
+ 
 
 
-
-
-PART II 清理部分
+##################################################################
+PART I 清理部分
+##################################################################
 1. 我的文档
 c:\Users\ware\
 
@@ -22,6 +24,10 @@ d:\Program Files (x86)\Tencent\QQ\各账号目录
 
 邮箱--Outlook卸载
 d:\mail\
+要复制出来 C:\Users\ware\Documents\Outlook 文件\ware_wang@amaxgs.com.pst  包关闭outlook才可以复制
+
+
+
 
 Office-OneNote笔记本
 c:\Users\ware\Documents\OneNote 笔记本\
@@ -57,8 +63,14 @@ e:\software\ 下面所有文件可以删除，目录大部分已经上传至阿�
 印象笔记的清理
 e:\印象笔记
 
+卸载Ableton Live
+
+卸载射手影音
+
+
+
 *****************************************************************
-PART I 新环境搭建工作平台
+PART II 新环境搭建工作平台
 1. 操作系统部分
 1.1 前言
 为工作中应用程序的兼容性，尽量使用Win7系统
@@ -139,6 +151,8 @@ PART I 新环境搭建工作平台
 
 2.33 TT Player播放器
 
+2.34 Captura （免费录屏工具）https://mathewsachin.github.io/Captura/
+
 ACDSee2.44.exe
 
 Brackets
@@ -163,3 +177,6 @@ Neat Convert 转换电子书格式 epub、PDF等
 
 
 3. 移动端App事项
+
+
+要下载Bilibili 视频需要用硕鼠软件

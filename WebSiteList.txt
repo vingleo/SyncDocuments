@@ -383,6 +383,7 @@ https://mirai.one/?cat=&s=ableton  合成器预设等
 https://www.edmprod.com/lufs/  LUFS: How To Measure Your Track’s Loudness in Mastering 音量
 https://www.sequential.com/product/prophetrev2/  sequential官网
 https://www.arturia.com/support  arturia 官网
+https://www.moogmusic.com/products/mother-32#widget16  moog官网
 https://2osc.com/2021/07/26/%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%BD%97%E5%85%B0Boutique/  合成器介绍网站
 https://waldorfmusic.weclapp.com/webapp/view/helpdesk/portal/iridiumkb/home.page  德国waldorf官网
 https://www.elektron.se/  瑞典electron官网
@@ -504,3 +505,5 @@ https://support.apple.com/zh-cn/guide/compressor/cpsr8747af64/mac  Compressor �
 http://ffmpeg.org/download.html   FFmpeg 官网下载
 https://mp.weixin.qq.com/s/oWFOL3iDyry0we2WNZe6uw   Logic Pro X全面晋级教程全集，从小白变大师（中文视频135集全）  
 
+
+https://www.fiverr.com/start_selling?source=top_nav   在线自由职业
