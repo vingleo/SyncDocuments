@@ -42,6 +42,10 @@ http://www.mjf2020.com/fenji/350183.html#35018-3-720p 美剧粉
 https://www.meijutt.tv/content/meiju25178.html 美剧 亿万
 https://www.meijutt.tv/content/meiju23809.html  美剧 小谢尔顿
 https://www.meijutt.tv/content/meiju27206.html   风骚律师
+https://www.meijutt.tv/content/meiju27494.html 奇异新世界
+https://www.meijutt.tv/content/meiju26898.html 奥维尔号第三季
+https://www.meijutt.tv/content/meiju27558.html 怪奇物语
+https://www.meijutt.tv/content/meiju27580.html 黑袍纠察队
 https://www.meijutt.tv/search/index.asp  美剧 嗜血法医
 https://www.meijutt.tv/content/meiju128.html 美剧 嗜血法医
  美剧 犯罪现场调查 维加斯 重启
@@ -113,6 +117,9 @@ http://blog.csdn.net/mydreamremindme/article/details/9670583    内存对齐详�
 【微软Windows】
 https://www.cnblogs.com/visionfeng/p/5611592.html       ATL CLR MFC Win32 常规的区别 
 https://www.chiphell.com/thread-1982088-2-1.html  Chrome浏览器用起来很爽，还想要更爽？用好这些插件能上天  
+https://msdn.itellyou.cn/  微软操作系统下载地址windows下载地址
+
+
 
 【数据库】
 http://blog.csdn.net/cserchen/article/details/5649557    sqlite中遍历数据的一些方法 
@@ -198,6 +205,9 @@ https://developer.apple.com/documentation/driverkit   驱动编写
 https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/SoftwareProducts/SoftwareProducts.html#//apple_ref/doc/uid/TP40001067-CH206-TPXREF123   设备驱动编写
 https://www.macappbox.com/a/kontakt.html#download  苹果软件下载
 https://macwk.com/soft/navicat-premium  苹果软件下载（好用）
+https://www.webfree.net/1535/  MacBook M1 使用虚拟机安装 WINDOWS 7 及网银
+
+
 
 【arduino】
 https://www.arduino.cn/thread-11353-1-1.html  用Arduino扩展无人飞行器+普及无人机知识，不会算法的人必看
@@ -265,7 +275,7 @@ https://mp.weixin.qq.com/s/Euc89Uq4Av6J9jImxdv81Q  《自拍教程66》Python ff
 【Java】
 https://www.runoob.com/java/java-package.html 教程 
 https://juejin.cn/post/6844903647197806605  事务
-
+http://idea.hicxy.com/?spm=a2c6h.12873639.article-detail.4.2770d8e4D203bF    IDE开发工具IntelliJ IDEA 激活方法网页
 
 ##############################
 ### Part III 乐乐学习相关网站
@@ -428,6 +438,8 @@ http://www.anime-manga.jp/chinese/CharacterExpressions/  日语学习网站
 http://www.erin.ne.jp/jp/lesson01/basic/index.html 
 https://kanji.jitenon.jp/  汉字辞典（查询汉字发音、含义、例句）
 https://www.erin.jpf.go.jp/jp/lesson/02/key-phrases/  艾琳学日语官网（好网站）
+【英语】
+https://www.deepl.com/translator/files  好用的全文翻译网站
 
 
 ##############################

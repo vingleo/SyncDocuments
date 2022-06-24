@@ -1,57 +1,47 @@
-A:You can make a self-instroduction now.
-B:Thank you for giving me this opportunity to introduce myself. My name is Wang wei，and you can call me ware. I am 42 years old. I got my college education in  Suzhou Radio & Televison University ,with major in  computer science.
-After graduation, I found a job in APP aka golden hong ye  Paper Group Co., Ltd ， which is manufacturing Facial tissue paper and office paper , and I spent 1 years there。
+A: You can make a self-introduction now.
+B: Thank you for giving me this opportunity to introduce myself. My name is Wang wei，and please can call me Leo. I am 42 years old. I got my college education in Suzhou Radio & Television University, with major in computer science.
 
+After graduation, I found a job in APP aka Golden Hong Ye Paper Group Co., Ltd , which is manufacturing Facial tissue paper and office paper , I spent 1 year there for setup and  install auto-folding machine with German engineer, training new staff, to arrange product tasks.
 
-I really think I am suitable for this job and I am fairly experienced in this field, so I believe I can do it well. Moreover, I think I will hava a bright future in this area.
-A:What did you do after you left this hotel?
-B:I went to Shenzhen to help my friend who ran a hotel there. I was the manager there.
+After that， I joined in Suzhou Gultech Electronics company as a engineer. My job included Unix c-shell programming, maintaining HP-Unix workstation, So I'm relatively familiar with UNIX systems. I also designed and modified PCB artwork film using a software called   Genesis2000, and CNC drilling machine programming, of cause planning manufacturing process work-flow etc.
 
+By the way, Genesis2000 comes from a Israeli company, Technology in Israel especially in military field is world-leading, such as radar and optical detection.
 
+I used to have overseas work experience. From 2000  August  to  2000 November, I worked in Singapore Gul Technology Ltd for CAD/CAM Engineer position。I was also responsible for staff training at the same time in headquarters.
+After returned to Suzhou, I was promoted to the supervisor of CAD/CAM department, in charge of the CAD/CAM division. 
 
-B:I was in charge of the  XXXX   as before. I was also responsible for staff training at the same time.
+Next, I worked for Selecta Technologies Suzhou corporation Ltd, which is a company that provides IT outsourcing.  
+I manage customer company IT operations: Hardware Configuration and maintain  workstations like HP/Sun , RedHat Linux server,  APC UPS; Panasonic PBX telephone switch ; deploy Windows 2003 Domain, Exchange, Lotus Domino, Enterprise Portal, vsFTP, Samba file-sharing, Vlan and other Help desk job.  I helped the company obtain ISO/IEC20000 internal certification.
 
-I used to have overseas work experience. From 2000  August  to  2000 November, I worked in Singapore Gul Technology Ltd for CAD/CAM Enigeer position。I was also responsible for staff training at the same time in headquaters.
-After returned to Suzhou , I was promoted to the supervisor of CAD/CAM department, in charge of the CAD/CAM division. 
-I present you 
-
-
-
-1. IT Department Management for customers：
-Maintenance for Permanent assets  Equipment:such as servers、workstations、Routers、Firewall（PIX）、Switches、PC、Laptops，include Windows、Macintosh、Linux Operation system， and iOS、 Android、Windows mobile device、printers etc. 
-maintaining windows domain under win 2003 , microsoft exchange System, Red hat Linux Service(vsftp,) ,Cisco System, UPS system, Panasonic TDA system, Network Monitor System etc.
-
-
-
-2. Implementation of ERP projects and follow-up maintenance for customers (ERP System)
-
-3. NC drilling machine programming, design PCB layout and planning process work-flow.
-
-4 maintaining HP and Solaris Unix Workstation 
+At last, the company I currently worked for is Amax Global Services. My position is Senior Engineer of R & D Dept, MES, WMS system operation and maintenance engineer, MES consultant of Pre-Sales Dept. 
+My main work consists of following : 
+No1：deploy Mysql, Redis, Gitlab, Harbor, TeamCity, ELK and other services system for in-house and customer use,  deploy the company's MES and WMS system microservices, we also use docker and other technology to simplify deploying those services
+No2: manage company's Linux server and application backup，system status monitoring. 
+No3: develop and maintenance of JasperMES, JasperWMS and PrintUsage Printing monitoring platform(include iOS native app), I also developed a RFID card reader program for the Mac platform.
+No4: Pre-sales customer demand research, arrangement and writing solution documents.
+No5: Write the MES,WMS and PrintUsage System project proposal and the bidding response document. On-site software implementation, providing customer remote technical support.
+No6: Provide training and technical support to domestic and overseas customer.
 
 
 
+The reasons for leaving my last job,
+Because I am always on business trip from time to time. I think I should spend more time with my family. My parents are old and suffer from some chronic diseases, and I need to take care of them. 
+
+
+At last, I think I am suitable for this job and I am fairly experienced in IT field ,  so I believe I can do it well. Moreover, I think I can grow up together with your company.
 
 
 
+Self- assessment
+With many years of experience in manufacturing IT operation and maintenance, I am good at communicating with customers and colleagues to provide solutions. At the same time, has rich experience in training staff and teaching. Be good tat discovering problems and solving them quickly, transforming and absorbing new technologies into work.
 
-help the the company obtain ISO/IEC20000 internal cerfificatioin.
+Technical Expertise
+Skilled in use of network hardware like Cisco routers, switches, PIX etc. can setup Enterprise VLAN , could configure Panasonic PBX(TD-510). Familiar with HP, Dell, Sun Unix Server. Setup Windows Domain, DNS, DHCP, WSUS, Mail service. Has extensive experience in installing and maintaining mainstream printers, copiers, scanners and MFPs in HP, Canon, and other brands in the market.
+Skilled in Domino system, and Microsoft Exchange mail system.
+Skilled in MS, Open-source office , familiar with Objective-C/Swift programming language, familiar with SQL Server and MySQL database. 
 
-
-Pre-sale proposal documents writing for PrintUsage Technical Supporting Via help-desk.
-
-Control software license.
-Develop printusage iOS app.
-
-4. Develop RFID card reader configure application for Mac platform。
-
-5. Pre-sales  proposal ducments writing for MES system.
-
-6. Tender reply documents writing
-
-
-Reasons for leaving last job:
-I  am always  on business from time to time. I think I should spend more time with my family. Becasuse my parents are old and suffer from some chronic diseases, and I need to take care of them.
+Skilled in manufacture ERP procedure. With 2 years experiences of implement ERP project.
+Skilled in PCB manufacture process flow. 
 
 
 
@@ -60,17 +50,19 @@ I  am always  on business from time to time. I think I should spend more time wi
 
 
 
-熟练部署公司使用的mysql、redis、gitlab、Harbor、teamcity、ELK等应用服务和中间件，部署公司MES 和WMS系统及其微服务。
-MES和WMS售前阶段现场调研客户需求及解决方案撰写，软件实施、提供客户远程协助支持
-编写MES系统项目方案书，投标方案文档编写。
-研发维护PrintUsage打印监控软件平台，MES、WMS及PrintUsage移动客户端iOS原生程序开发。
-对全国范围客户提供MES产品培训和技术支持。
+Remote Assistance Tools：webex、teamviewer、 
+
+On-line meeting tools：skepe、Zoom、Tencent Meeting
+
+VPN： Cisco 
 
 
-远程工具：webex、teamviewer、 
 
-会议工具：skepe、Zoom、Tencent Meeting
 
-VPN： Cisco or 
 
-Israel's military technology is world-leading, such as radar and optical detection.
+
+
+
+
+
+
