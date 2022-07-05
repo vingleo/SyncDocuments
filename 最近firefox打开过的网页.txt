@@ -22,9 +22,10 @@ https://www.huxiu.com/article/479553.html  特斯拉断的是什么轴
 
 https://www.huxiu.com/
 
-https://www.feng.com/  
+https://www.feng.com/  威锋网
 
 
+http://www.changan-mazda.com.cn/market/product/cx5/service/user-manual/cx5-user-manual/  马自达cx-5手册在线手册
 
 
 
@@ -48,6 +49,8 @@ https://mp.weixin.qq.com/
 https://mp.weixin.qq.com/s/qGRRvJDI7G_4F7jjEdIO0Q
 
 苹果开发
+https://developer.apple.com/download/all/  苹果开发官网全部下载
+
 https://developer.apple.com/documentation/corenfc   Core NFC  
 https://developer.apple.com/download/  下载
 https://developer.apple.com/library/archive/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/Printing/Printing.html#//apple_ref/doc/uid/TP40010156-CH12-SW1  Printing  打印开发文档

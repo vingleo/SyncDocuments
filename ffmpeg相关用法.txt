@@ -11,6 +11,7 @@ FFMEPG 使用方法
 8.如何给视频加文本，动态文本？
 9.如何处理图片？
 10.如何录像，添加动态logo，截图，马赛克视频？
+11.添加水印
 
 ###################### PART 0 套件总览  #####################
 0.1 官网地址  http://ffmpeg.org/ffmpeg.html  
@@ -340,3 +341,49 @@ ffmpeg.exe -i input.mkv -an -vn scodec copy sub.ass
 把开始时间 -ss 1:05放到-i前面，与原来的区别是，这样会先跳转到第1:05秒在开始解码输入视频，而原来的会从开始解码，只是丢弃掉前1:05秒的结果。
 ffmpeg -ss 00:00:00 -i input.mkv -vcodec copy -acodec copy  -to 00:02:00 output.mkv
 
+
+**********************************************************************************************************************************
+11. 添加水印
+11.1 添加图片水印
+例1：
+ffmpeg -i input.mp4 -i logo.png  -b:v 500k  -filter_complex "[1]format=rgba,colorchannelmixer=aa=0.1[logo];[0][logo]overlay=(W-w)/2:(H-h)/2:format=auto,format=yuv420p" -c:a copy output.mp4
+参数含义：
+-b:v 500k    代表设置视频比特率，默认200k，最好设置与原视频一致，不然清晰度可能变差
+alpha通道 透明度 ， 0-1 之间， 越小越透明
+
+使用format和colorchannelmixer过滤器使水印50％透明的示例：
+
+使用透明的png图片进行视频编码后，成功获得带透明水印的视频，并且画质也比较好。
+
+此参数为水印图片居中效果
+
+品质提升
+使用覆盖滤镜中的format=auto选项可以使PNG水印看起来更好：
+ffmpeg -i input.mp4 -i watermark.png -filter_complex "overlay=5:H-h-5:format=auto,format=yuv420p" -c:a copy output.mp4
+请注意，添加了格式过滤器（是，名称与该选件相同，但是是一个独立的过滤器），以将其重置为YUV 4：2：0，这是MP4输出所必需的。,format=yuv420p如果您不输出MP4，请删除。
+
+如需修改水印图片的尺寸，可以用如下命令：
+ffmpeg -i logo.png -strict -2 -s 240x240 logo1.png
+
+相对于主视频缩放水印
+使用scale2ref过滤器：
+将徽标的大小设为主视频大小的10％（1/10）的示例：
+ffmpeg -i input.mp4 -i watermark.png -filter_complex "[1][0]scale2ref=w=oh*mdar:h=ih*0.1[logo][video];[video][logo]overlay=5:H-h-5" -c:a copy output.mp4
+
+11.2 添加文字水印
+ffmpeg -i input.mp4 -vf "drawtext=fontfile=simhei.ttf: text='1':x=300:y=500:fontsize=100:fontcolor=yellow:shadowy=2" drawtext.mp4
+
+11.3 添加本地时间水印
+ffmpeg  -i src.mp4 -vf "drawtext=fontsize=160:text='%{localtime\:%T}'" -c:v libx264 -an -f mp4 output.mp4 -y
+
+
+
+11.4视频添加多个水印
+指定不同水印不同位置
+
+添加多个图片，如下命令行：
+
+ffmpeg.exe  -i input.mp4 -i logo.png -i  logo.png -i  logo.png -i  logo.png -i  logo.png  -filter_complex  overlay=10:10,overlay=10:main_h-overlay_h-10,overlay=main_w-overlay_w-10:10,overlay=main_w-overlay_w-10:main_h-overlay_h-10,overlay=main_w/2-overlay_w/2:main_h/2-overlay_h/2  output.mp4
+
+满屏斜水印
+做一张水印大图，使用上面添加单个水印方式即可。
