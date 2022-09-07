@@ -452,8 +452,10 @@ https://www.deepl.com/translator/files  好用的全文翻译网站
 https://tieba.baidu.com/p/5127185344?red_tag=1529058409 MARVEL VS CAPCOM 系列 历史回顾
 http://www.emumax.com/roms/detail/28447  街机下载
 http://www.emumax.com/roms/detail/4524
+https://www.planetemu.net/roms/mame-roms?page=I  rom下载 非常好
 https://game.ali213.net/thread-3170820-1-1.html 街霸3.3
 https://www.mamecn.com/search?q=marvel+vs+capcom 街机CN
+https://www.rendiyu.com/search.php?mod=game&searchid=218&searchsubmit=yes&kw=%E6%B5%B7%E5%BA%95%E5%A4%A7%E4%BD%9C%E6%88%98  街机rom下载
 https://www.66game.cn/sou?typeid=6&q=marvel+vs+capcom 66cn
 http://www.winkawaks.org/roms/cps2/index.htm cps2 rom下载
 https://www.ed2000.com/ShowFile/140476.html  DC游戏下载
@@ -463,9 +465,14 @@ https://baijiahao.baidu.com/s?id=1619289642404965548&wfr=spider&for=pc   Cave射
 https://game.ali213.net/thread-5945746-1-1.html  cave下载
 https://tieba.baidu.com/p/5436039400  Cave相册下载
 https://tieba.baidu.com/p/5444225145?red_tag=3406786533  怒首领蜂大复活全系统说明
+http://www.rsdown.cn/danjiyouxi/jiejiyouxi/kongzhan/index_6.html 红软模拟
 https://edgeemu.net/details-157504.htm　rom中缺 eeprom可以下载
 http://daisuwang.com/android-crack-game/ssyx  Hgame
 https://id.sonyentertainmentnetwork.com/signin/?ui=pr&response_type=token&scope=openid%3Auser_id%20openid%3Aonline_id%20openid%3Actry_code%20openid%3Alang%20user%3Aaccount.communication.get%20kamaji%3Aget_account_hash%20oauth%3Amanage_user_auth_sessions%20openid%3Aacct_uuid%20user%3Aaccount.authentication.mode.get%20user%3Aaccount.phone.masked.get%20user%3Aaccount.notification.create%20openid%3Acontent_ctrl%20user%3Aaccount.subaccounts.get%20openid%3Aage%20pdr%3Acam%20can%3Acontext.user.get%20can%3Acontext.user.set%20user%3AbasicProfile.get%20user%3AbasicProfile.update%20user%3AverifiedAccount.get%20kamaji%3Aaccount_link_user_link_account%20kamaji%3Aget_internal_entitlements%20user%3Aaccount.realName.get%20user%3Aaccount.communicationRestrictionStatus.get%20user%3Aaccount.restrictions.get%20ias%3Aaccount.onlineIdChange.get%20user%3Aaccount.onlineId.get%20user%3AonlineIdSuggestion.get%20kamaji%3Aactivity_feed_set_feed_privacy%20user%3Aaccount.identityMapper%20user%3Aaccount.email.create%20user%3Aaccount.emailVerification.get%20user%3Aaccount.tosua.update%20ucs%3AuserConsents.get%20ucs%3AuserConsents.revoke%20device%3Aget%20device%3Aupdate%20device%3Aactivate%20openid%3Aacct_id_str%20deviceManagement%3Adevices.deactivateAll%20digitalRightsManagement%3ApremiumServices.update&redirect_uri=https%3A%2F%2Fid.sonyentertainmentnetwork.com%2Fid%2Fmanagement%2F%3Fentry%3Dp%26pr_referer%3Dcam%26service-entity%3Dpsn&client_id=ce381e15-9cdd-4cf9-8384-0cf63db17f6a&state=db6568b2276a0854ebb4ffab798a57c7&error=login_required&error_code=4165&error_description=User+is+not+authenticated&no_captcha=false#/signin?entry=%2Fsignin   Sony id 登陆
+https://pan.baidu.com/s/1bnYW45D#list/path=%2Fsharelink478411709-758167115625638%2FPS2%E5%9B%BD%E8%A1%8C%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86&parentPath=%2Fsharelink478411709-758167115625638   ps2国行游戏镜像下载
+https://club.tgfcer.com/viewthread.php?tid=7324146&extra=&page=1  街机主板
+https://www.gamehome.tv/Article/psp/psp3000/List_14.shtml  ps3 ps2 等游戏下载 
+https://xiage.yy.com/forum-294-1.html   ps3 破解技术
 
 
 ##############################
