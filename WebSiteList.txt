@@ -233,6 +233,11 @@ http://www.cocoachina.com/ios/20170911/20526.html    对于iOS开发，人工智
 https://juejin.im/post/5a4a5e2bf265da4322418d7f   构建库管理工具 Maven 入门 
 http://www.cocoachina.com/ios/20170413/19048.html  面试时如何优雅的谈论源码
 
+[阿里云]
+https://account.aliyun.com/login/login.htm?oauth_callback=https%3A%2F%2Fcr.console.aliyun.com%2Fcn-hangzhou%2Finstances%2Fimages&lang=zh
+https://account.aliyun.com/login/login.htm?oauth_callback=https%3A%2F%2Fcr.console.aliyun.com%2Frepository%2Fcn-hangzhou%2Fvingleo%2Fdomestic%2Fdetails&lang=zh  
+
+
 【前后端】
 http://vingleo.byethost12.com/?ckattempt=1    vingleo主页
 https://panel.byethost.com/panel/indexpl.php?id=87dd3839b2d9a8b95b0a6aa23f5ccfe50ea5650b   vingleo主页管理页面
