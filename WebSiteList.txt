@@ -131,6 +131,9 @@ http://blog.csdn.net/pupilxiaoming/article/details/59074898  Mysql的收费方�
 https://github.com/Alamofire/Alamofire    Alamofire数据库 
 http://www.cocoachina.com/ios/20150505/11756.html     Realm数据库基础教程 
 https://realm.io/docs/objc/latest/            realm 说明 
+https://www.cnblogs.com/lca1826/p/6601395.html
+https://blog.csdn.net/weixin_43433032/article/details/89293663  数据库之六大范式详解
+https://login.oracle.com/mysso/signon.jsp   Oracle 官网技术支持
 
 
 https://yuan.ga/v2ray-build-guide-for-novices/   面向新手的V2Ray搭建指南 
