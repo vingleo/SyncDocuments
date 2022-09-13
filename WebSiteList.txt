@@ -226,6 +226,7 @@ https://blog.csdn.net/yzhbyssgdbd123/article/details/90412164   企业微信自�
 https://blog.csdn.net/qb170217/article/details/81324552  微信或企业微信实现扫码登录的三种方式
 https://blog.csdn.net/u010957293/article/details/76572137  企业微信如何实现PC端扫码登录第三方网站 
 https://www.jianshu.com/p/1439ca18089f  前端vue实现企业微信扫码登录 
+https://mp.weixin.qq.com/s/qGRRvJDI7G_4F7jjEdIO0Q  微信开发
 
 https://my.csdn.net/jiangjunshow  人工智能 博客 
 http://www.cocoachina.com/ios/20170911/20526.html    对于iOS开发，人工智能意味着什么 
