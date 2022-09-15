@@ -124,6 +124,20 @@ https://www.chiphell.com/thread-1982088-2-1.html  Chrome浏览器用起来很爽
 https://msdn.itellyou.cn/  微软操作系统下载地址windows下载地址
 
 
+【网络】
+https://www.bilibili.com/video/BV1gW411A7ay?p=1  思科学习教程
+https://www.bilibili.com/video/BV14t4y1C7or?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=a773c06f651e48deb5df3862e0d450b9
+https://www.bilibili.com/video/BV1a54y1D7Yx?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=a773c06f651e48deb5df3862e0d450b9
+
+https://www.bilibili.com/video/BV1vy4y1s7k6?p=1   - 45 尚硅谷Git入门到精通全套教程（涵盖GitHub\Gitee码云\GitLab）
+https://www.bilibili.com/video/BV1US4y1D77m?p=1   - 112 尚硅谷】微信支付&支付宝支付，一套搞定Java在线支付开发教程
+https://www.bilibili.com/video/BV19K4y1L7MT?p=81   - 87 【尚硅谷】SpringBoot2零基础入门教程（spring boot2干货满满）
+https://www.bilibili.com/video/BV1Ry4y1574R?p=1   - 97 【尚硅谷】SpringMVC教程丨一套快速上手spring mvc
+https://www.bilibili.com/video/BV17F411T7Ao?p=16   黑马程序员Java零基础视频教程(2022最新Java入门，含斯坦福大学练习题+力扣算法题+大厂java面试题）
+https://www.bilibili.com/video/BV1Kb411W75N?p=83   尚硅谷Java入门视频教程(在线答疑+Java面试真题)
+https://www.bilibili.com/video/BV14W411u7wT?p=34    -42   【尚硅谷】Oracle数据库全套教程，oracle从安装到实战应用 完成
+https://www.bilibili.com/video/BV1KJ411h7NH?p=1  -83 黑马程序员Oracle数据库精讲，从0到1学会Oracle数据库
+
 
 【数据库】
 http://blog.csdn.net/cserchen/article/details/5649557    sqlite中遍历数据的一些方法 
