@@ -1,0 +1,270 @@
+
+
+解决 返回结果中 出现乱码  ？？？？
+
+原因： 客户端环境变量 （NLS_LANG）和数据库服务端字符集不一致
+
+首先查看数据库当前字符集
+
+SQL> select userenv("language") from dual;
+
+或者
+select * from V$NLS_PARAMETERS 查询结果为
+NLS_NCHAR_CHARACTERSET
+AL16UTF16
+
+
+再查看客户端环境变量
+[oracle] echo $NLS_LANG
+结果为空
+
+设置环境变量为以下
+
+export NLS_LANG=SIMPLIFIED CHINESE_CHINA.AL32UTF8 //通过环境变量设置为utf8
+
+或者
+修改oracle变量文件.bash_profile中添加export NLS_LANG=”SIMPLIFIED CHINESE_CHINA.AL32UTF8″
+
+然后
+source .bash_profile
+生效，下次开机就自动执行。
+
+
+
+
+sqlplus system/123456@MES    
+
+用户 密码  模式名(此处的为 cdb)
+
+查看所有用户：
+select * from dba_users;   
+select * from all_users;   
+select * from user_users;
+
+
+
+查看用户或角色系统权限(直接赋值给用户或角色的系统权限)：
+select * from dba_sys_privs;   
+select * from user_sys_privs; (查看当前用户所拥有的权限)
+
+
+查看角色(只能查看登陆用户拥有的角色)所包含的权限
+sql>select * from role_sys_privs;
+
+查看用户对象权限：
+select * from dba_tab_privs;   
+select * from all_tab_privs;   
+select * from user_tab_privs;
+
+5.查看所有角色：
+select * from dba_roles;
+
+6.查看用户或角色所拥有的角色：
+select * from dba_role_privs;   
+select * from user_role_privs;
+
+7.查看哪些用户有sysdba或sysoper系统权限(查询时需要相应权限)
+select * from V$PWFILE_USERS
+
+8.SqlPlus中查看一个用户所拥有权限
+SQL>select * from dba_sys_privs where grantee='username';
+其中的username即用户名要大写才行。
+比如：
+SQL>select * from dba_sys_privs where grantee='TOM';
+
+
+9、Oracle删除指定用户所有表的方法
+select 'Drop table '||table_name||';' from all_tables
+where owner='要删除的用户名(注意要大写)';
+
+10、删除用户
+drop user user_name cascade;
+如：drop user SMCHANNEL CASCADE
+
+11、获取当前用户下所有的表：select table_name from user_tables;
+
+12、删除某用户下所有的表数据: select 'truncate table  ' || table_name from user_tables;
+
+13、禁止外键
+ORACLE数据库中的外键约束名都在表user_constraints中可以查到。其中constraint_type='R'表示是外键约束。
+启用外键约束的命令为：alter table table_name enable constraint constraint_name 
+禁用外键约束的命令为：alter table table_name disable constraint constraint_name
+然后再用SQL查出数据库中所以外键的约束名：
+select 'alter table '||table_name||' enable constraint '||constraint_name||';' from user_constraints where constraint_type='R'
+select 'alter table '||table_name||' disable constraint '||constraint_name||';' from user_constraints where constraint_type='R'
+
+14、ORACLE禁用/启用外键和触发器
+--启用脚本
+SET SERVEROUTPUT ON SIZE 1000000
+BEGIN
+for c in (select 'ALTER TABLE '||TABLE_NAME||' ENABLE CONSTRAINT '||constraint_name||' ' as v_sql from user_constraints where CONSTRAINT_TYPE='R') loop
+DBMS_OUTPUT.PUT_LINE(C.V_SQL);
+begin
+ EXECUTE IMMEDIATE c.v_sql;
+ exception when others then
+ dbms_output.put_line(sqlerrm);
+ end;
+end loop; 
+for c in (select 'ALTER TABLE '||TNAME||' ENABLE ALL TRIGGERS ' AS v_sql from tab where tabtype='TABLE') loop
+ dbms_output.put_line(c.v_sql);
+ begin
+ execute immediate c.v_sql;
+exception when others then
+ dbms_output.put_line(sqlerrm);
+ end;
+end loop;
+end;
+/ 
+commit;
+
+--禁用脚本
+SET SERVEROUTPUT ON SIZE 1000000
+BEGIN
+for c in (select 'ALTER TABLE '||TABLE_NAME||' DISABLE CONSTRAINT '||constraint_name||' ' as v_sql from user_constraints where CONSTRAINT_TYPE='R') loop
+DBMS_OUTPUT.PUT_LINE(C.V_SQL);
+begin
+ EXECUTE IMMEDIATE c.v_sql;
+ exception when others then
+ dbms_output.put_line(sqlerrm);
+ end;
+end loop; 
+for c in (select 'ALTER TABLE '||TNAME||' DISABLE ALL TRIGGERS ' AS v_sql from tab where tabtype='TABLE') loop
+ dbms_output.put_line(c.v_sql);
+ begin
+ execute immediate c.v_sql;
+exception when others then
+ dbms_output.put_line(sqlerrm);
+ end;
+end loop;
+end;
+/
+commit;
+
+
+
+
+
+
+
+######################################################################################################################################
+
+
+
+2023年1月
+
+
+
+Oracle 环境 meper.datasource.driver=oracle.jdbc.driver.OracleDrivermeper.datasource.url=jdbc:oracle:thin:@(description=(address_list= (address=(host=119.119.119.102) (protocol=tcp)(port=1521))(load_balance=yes)(failover=yes))(connect_data=(service_name=ORCLPDB1)))meper.datasource.username=electronsuite
+meper.datasource.password=electronsuite
+meper.hibernate.properties.hibernate.dialect=org.hibernate.dialect.Oracle10gDialect
+
+
+
+
+
+
+#########################################################
+#######
+# 1. 设置行宽
+set linesize 300;
+
+# 2. 查询pdb数据库状态
+select name,open_mode from v$pdbs;
+
+oracle具有四种状态: 
+shutdown (完全关闭)
+nomount(未加载)，
+mount(己加载)，
+open (完全打开)。
+只有在open状态时，我们才能正常操作数据，如果不是open状态,需要open数据库。
+
+# 查询当前系统内的所有用户或特定该用户
+select username,password from dba_users 
+where username = '用户名大写'
+
+# 3. 切换session
+alter session set container=ORCLPDB;
+
+# 4. 打开当前会话数据库
+alter database open
+
+alter pluggable database ORCLPDB open;
+
+# 5. 中文显示？？？？的解决方法
+alter session set nls_language=american;
+
+# 6. 
+select name, open_mode from V$pdbs;
+
+alter pluggable database orclpdb open;
+
+# 9. 关闭数据库
+SQL> shutdown immediate
+
+# 10. 启动数据库
+SQL> startup nomount
+
+
+
+
+step 1
+
+进oracle容器 
+
+docker exec -it  docker_id  bash
+
+sqlplus /nolog;
+
+conn sys/root as sysdba;
+
+step2
+
+sqlplus system/123456;
+
+step3
+
+alter session set container=orclpdb;
+
+step4
+在PDB上创建用户并授权
+
+SQL> create user ELECTRONSUITE2 identified by ELECTRONSUITE2;
+User created.
+SQL> grant dba,connect,resource,create view to ELECTRONSUITE2;
+Grant succeeded.
+SQL> grant select any table to ELECTRONSUITE2;
+Grant succeeded.
+
+step5
+创建临时表空间
+create bigfile  temporary tablespace  tempTablespace    tempfile '/opt/oracle/oradata/ORCLCDB/ORCLPDB/tempTablespaceNew.dbf'  size 1G    autoextend on    next 50M maxsize 512000M    extent management local;
+
+step6
+创建表空间
+create bigfile tablespace ELECTRONSUITE2  logging  datafile '/opt/oracle/oradata/ORCLCDB/ORCLPDB/ELECTRONSUITE2NEW.dbf' size 1G  autoextend on  next 50M maxsize 512000M extent management local;
+create  tablespace WARETBS  logging  datafile '/opt/oracle/oradata/ORCLCDB/ORCLPDB/WARETBS.dbf' size 50M  autoextend on  next 50M maxsize 1G extent management local;
+
+
+step7
+给现有用户指派表空间
+alter user ELECTRONSUITE2  default tablespace ELECTRONSUITE2  temporary tablespace tempTablespace;
+
+alter user ware  default tablespace WARETBS  temporary tablespace wareTempTablespace;
+
+
+create user ELECTRONSUITE2 identified by ELECTRONSUITE2  default tablespace ELECTRONSUITE2  temporary tablespace tempTablespace;  
+
+SQL> create tablespace test datafile '/home/oracle/app/oracle/oradata/helowin/tets02.dbf' size 1G reuse autoextend on next 50M maxsize unlimited default storage(initial 128k next 128k minextents 2 maxextents unlimited); 
+
+
+
+
+
+
+
+
+
+
+
+
+
