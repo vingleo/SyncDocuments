@@ -127,6 +127,20 @@ ffmpeg -i 冰雪奇缘BD双语双字.mkv -map 0:2 -b:a 64k -f mp3 -vn a.2.mp3
 -vn表示vedio not，即输出不包含视频
 -b:a 64k为比特率，默认为128K，这里压缩一下，采用64K
 
+
+3.1.8 提取原始视频
+E:\downloads\Input_Video>ffmpeg -i E:\downloads\Input_Video\时空特警Timecop.1994.Blu-ray.720p.x264.DTS-MySiLU.mkv  -vcodec copy -an video.mp4
+
+3.1.9 抽取原始音频
+E:\downloads\Input_Video>ffmpeg -i E:\downloads\Input_Video\时空特警Timecop.1994.Blu-ray.720p.x264.DTS-MySiLU.mkv  -map 0:5 -strict -2 audio.dts
+
+  -map 0:5代表 抽取第五轨
+转DTS格式  必须加入 -strict -2 audio.dts  参数
+
+3.1.9 合并音视频文件到新容器
+ffmpeg -i E:\downloads\Input_Video\video.mp4 -i E:\downloads\Input_Video\audio.dts -vcodec copy -acodec copy timecop.mkv
+
+
 *********************************************************
 3.2 各种合并视频
 3.2.1 横向合并视频
