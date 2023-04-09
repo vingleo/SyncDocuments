@@ -52,6 +52,7 @@ http://www.poxiaotv.com/vodhtml/78450.html  电视剧网站
 http://www.mjf2020.com/fenji/350183.html#35018-3-720p 美剧粉
 https://www.meijutt.tv/content/meiju25178.html 美剧 亿万
 https://www.meijutt.tv/content/meiju27962.html 美剧 小谢尔顿
+https://www.meijutt.tv/content/meiju28321.html 美剧 皮卡德第三季
 https://www.meijutt.tv/content/meiju28208.html  美剧 最后的生还者
 https://www.meijutt.tv/content/meiju27744.html 瑞克与莫蒂第六季
 https://www.lalameiju.com/video/2360.html   光明世界
@@ -69,6 +70,10 @@ https://www.meijutt.tv/search/index.asp  美剧 嗜血法医
 https://www.meijutt.tv/content/meiju128.html 美剧 嗜血法医
  美剧 犯罪现场调查 维加斯 重启
 http://subhd.tv/a/506640  字幕
+http://assrt.net/  伪射手网 字幕
+https://so.zimuku.org/ 字幕库 
+https://subscene.com/  英文字幕网站
+https://www.opensubtitles.org/zh  英文字幕
 https://www.993dy.com/vod-detail-id-25015.html 
 https://www.jsr9.com/subject/10454.html bt天堂
 https://www.bt-tt.com/html/rihanju/7998.html bt天堂
@@ -92,13 +97,14 @@ https://www.z2py.com/page/1?  资源下载网站 好网站
 https://www.btsj5.com/subject/u3othjn.html   BT世界网 好网站
 https://www.mjf2020.com/jianjie/11103.html 破产姐妹全集
 https://www.mjf2020.com/fenji/110321.html#11032-1-720p   CSI 全集 好网站
+https://www.zhihu.com/question/30279247  CSI经典案例
 http://www.qindouys.com/play/pjzjdgg/play-0-3.html 在线 披荆斩棘的哥哥
 https://www.lsj52.com/play/pijingzhanjidegegehuiyuanPlusban/1/3/ 在线 披荆斩棘的哥哥 plus
 https://www.dygod.net/html/tv/rihantv/20211021/115807.html  日剧
 
 http://www.wpzyk.cn/thread-108740.htm  4K电影
-https://www.bugutv.net/1249.html  4K电影
-
+https://www.bugutv.net/1249.html  4K电影 签到
+https://movie.douban.com/subject/26087471/discussion/637418878/
 
 http://11k.tw/JQP/45848.shtml  家庭巨乳女教师6
 https://www.ruanjianzhai.com/anzhailala-fanhao.html  安斋拉拉（安斋らら）经典作品番号及封面大全
@@ -123,7 +129,7 @@ https://freecourseudemy.com/100-days-of-code-the-complete-python-pro-bootcamp-fo
 http://www.90xz.com/YinLe/542374   电驴下载Ape 
 http://mp3bst.com/category/%E5%8E%9F%E5%A3%B0    百视听音乐下载  
 https://xclient.info/s/ableton-live.html  Ableton Live Suite 11.0 数字音乐工作站
-https://www.cloudmidi.net/ableton-live-10-sound-packs-collection.html Ableton Live 10 Sound Packs Collection 声音乐器组件拓展包合集 vingleo V*****
+https://www.cloudmidi.net/ableton-live-10-sound-packs-collection.html Ableton Live 10 Sound Packs Collection 声音乐器组件拓展包合集 vingleo V*****   签到
 https://www.cloudmidi.net/ableton-max-for-live-collections-alp.html Ableton Max for Live Collection ALP 音频MIDI效果合成控制设备拓展合集
 https://components.novationmusic.com/slmkiii/packs  Novation SL MK3 的Packs 在线版
 https://novationmusic.com/en/components Novation的components
@@ -525,8 +531,8 @@ https://www.romulation.org/roms/Sega_Saturn?sort_by=downloads&sort_order=desc&so
 http://dxspjc.com/ed2k_XiaZaiDiZhi/KeChengKeJian_35567.asp   电驴土星镜像下载 清单列表
 https://edgeemu.net/browse-saturn-V.htm
 https://www.buyiai.cn/archives/5443   PC游戏下载好用
-
-
+https://nazo.one-story.cn/false  测试游戏
+https://openemu.org 开源模拟器
 
 ##############################
 ### Part XIII 打印厂商
