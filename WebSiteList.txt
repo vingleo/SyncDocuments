@@ -52,6 +52,7 @@ http://www.poxiaotv.com/vodhtml/78450.html  电视剧网站
 http://www.mjf2020.com/fenji/350183.html#35018-3-720p 美剧粉
 https://www.meijutt.tv/content/meiju25178.html 美剧 亿万
 https://www.meijutt.tv/content/meiju27962.html 美剧 小谢尔顿
+https://www.meijutt.tv/content/meiju252.html  反恐24小时
 https://www.meijutt.tv/content/meiju28321.html 美剧 皮卡德第三季
 https://www.meijutt.tv/content/meiju28208.html  美剧 最后的生还者
 https://www.meijutt.tv/content/meiju27744.html 瑞克与莫蒂第六季
@@ -69,7 +70,7 @@ https://www.meijumi.net/7360.html   流言终结者全集下载
 https://www.meijutt.tv/search/index.asp  美剧 嗜血法医
 https://www.meijutt.tv/content/meiju128.html 美剧 嗜血法医
  美剧 犯罪现场调查 维加斯 重启
-http://subhd.tv/a/506640  字幕
+https://www.subhdtw.com/ 字幕
 http://assrt.net/  伪射手网 字幕
 https://so.zimuku.org/ 字幕库 
 https://subscene.com/  英文字幕网站
@@ -94,6 +95,7 @@ http://www.ktt1080.com/search?text=%E6%8D%89%E9%AC%BC%E6%95%A2%E6%AD%BB%E9%98%9F
 https://www.dytt.com/fenlei/1.html  电影淘淘
 http://z2py.com/page/1?type=%E5%8A%A8%E7%94%BB&area=%E7%BE%8E%E5%9B%BD 
 https://www.z2py.com/page/1?  资源下载网站 好网站
+https://www.bt-tt.com/html/3/17418.html?url=soupian.one  可下载
 https://www.btsj5.com/subject/u3othjn.html   BT世界网 好网站
 https://www.mjf2020.com/jianjie/11103.html 破产姐妹全集
 https://www.mjf2020.com/fenji/110321.html#11032-1-720p   CSI 全集 好网站
@@ -106,6 +108,8 @@ http://www.wpzyk.cn/thread-108740.htm  4K电影
 https://www.bugutv.net/1249.html  4K电影 签到
 https://movie.douban.com/subject/26087471/discussion/637418878/
 
+
+https://www.dyxiaoyu.com/xy/20212.html  春狐香婚
 http://11k.tw/JQP/45848.shtml  家庭巨乳女教师6
 https://www.ruanjianzhai.com/anzhailala-fanhao.html  安斋拉拉（安斋らら）经典作品番号及封面大全
 https://www.ruanjianzhai.com/shenshiqu/ 软件宅 绅士区
@@ -359,6 +363,10 @@ https://developer.harmonyos.com/cn/home/  鸿蒙开发页面
 https://developer.harmonyos.com/cn/docs/search?type=all&val=HarmonyOS%20sans  鸿蒙开发手册
 https://developer.harmonyos.com/cn/docs/design/des-guides/font-0000001157868583  鸿蒙开发字体
 https://baijiahao.baidu.com/s?id=1702017729322239005&wfr=spider&for=pc  免费商用！华为全新定制字体HarmonyOS Sans上线 鸿蒙OS专属
+
+
+【OpenAI】
+https://chat.gamejx.cn/#/home  国内chatGPT 平替
 
 ##############################
 ### Part V 汽车相关

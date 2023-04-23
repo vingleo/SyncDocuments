@@ -85,3 +85,160 @@ http://panel.byethost.com/index.php
 
 
 
+
+
+chrome 打开的临时网页 20220901
+http://119.119.119.78:8050/wms/platform/wms-login.html?path=/wms/storage/storage/adjustInventory
+http://119.119.119.78:8024/Meper/platform/index.html
+
+http://119.119.119.134:8199/Mes/platform/login.html?path=/Mes/ordermanagement/order/WorkOrderDetailView
+http://119.119.119.134:8198/wms/platform/login.html?path=/wms/stock/warehousing/FgStockInApplication
+
+
+
+
+https://blog.csdn.net/dishen10/article/details/108969207
+https://blog.csdn.net/qq32933432/article/details/104440175
+https://www.cnblogs.com/kongbursi-2292702937/p/14668825.html
+https://cn.bing.com/search?q=maven++setting.xml+%E8%AE%BF%E9%97%AE+%E6%8C%87%E5%AE%9Ajar%E5%8C%85&qs=n&form=QBRE&sp=-1&pq=maven+setting.xml+%E8%AE%BF%E9%97%AE+%E6%8C%87%E5%AE%9Ajar%E5%8C%85&sc=0-27&sk=&cvid=D7BAF3F1CFD44963885FCDC481015755&ghsh=0&ghacc=0&ghpl=
+https://www.cnblogs.com/jxd283465/p/12446764.html#gallery-7
+https://cn.bing.com/search?q=+jfrog%E9%85%8D%E7%BD%AE++setting.xml++maven&qs=n&form=QBRE&sp=-1&pq=jfrog%E9%85%8D%E7%BD%AE+setting.xml+maven&sc=0-25&sk=&cvid=C3F14D1B13E84045848AC12AD1358A01&ghsh=0&ghacc=0&ghpl=
+http://119.119.118.149:8081/artifactory/webapp/#/home
+http://119.119.119.134:8111/admin/admin.html?item=roles
+http://h.jaspermes.cn:18086/harbor/sign-in?redirect_url=%2Fharbor%2Fprojects
+http://119.119.119.78:8080/Jasper/platform/login.html?path=/Jasper/platform/index.html
+http://119.119.118.199:8088/mes/platform/login.html?path=/mes/Report#!StatisticReport
+
+
+20230213 
+firefox
+
+
+
+chrome
+https://www.cnswift.org/collection-types   Swift 编程语言  
+
+
+
+
+
+
+chrome 访问网站记录
+20211109
+
+https://www.test-iq.org/?gclid=EAIaIQobChMIkpag3Ma56AIVyLGWCh0A2QrbEAEYASAAEgJ9KPD_BwE
+https://www.liaoxuefeng.com/wiki/1022910821149312/1023020925712064
+https://www.w3school.com.cn/css/css_font.asp
+https://www.w3school.com.cn/tiy/t.asp?f=html_list_test
+https://www.runoob.com/css/css-font.html
+https://login.bce.baidu.com/?redirect=https%3A%2F%2Fconsole.bce.baidu.com%2Fai%2F%3F_%3D1585710667390%26fromai%3D1#/ai/ocr/app/list
+https://cloud.baidu.com/doc/OCR/index.html
+https://www.jianshu.com/p/a1688fed63e3
+https://zhuanlan.zhihu.com/p/54635411
+https://2-class.com/drugControlClassroom/courses
+https://2-class.com/courses/1110
+
+
+Chrome 打开网页 
+http://www.xamv.com/    机器视觉厂商
+http://www.etagrfid.com/News/1236.html 探感物联
+https://www.yyzq.net/Product/33.html  知擎物联
+http://milliontech.com.cn/html-zh/solutionlist-0105.html   生产报工管理系统解决方案 
+https://www.runoob.com/lua/lua-garbage-collection.html  菜鸟教程 Lua 垃圾回收
+
+
+Firefox 打开网页
+https://blog.csdn.net/m0_37190495/article/details/82756222 
+https://aegi.vmoe.info/docs/3.2/Main_Page/  字幕制作软件Aegisub 手册 
+http://aegi.vmoe.info/docs/3.2/Visual_Typesetting/ 
+https://sspai.com/post/47557  提升制作字幕的效率：Aegisub 的使用指南及技巧 
+
+
+https://cloud.tencent.com/product/cvm  腾讯云服务器 CVM
+https://cloud.tencent.com/login?s_url=https%3A%2F%2Fconsole.cloud.tencent.com%2Focr%2Fis 
+https://console.cloud.tencent.com/ocr/is 腾讯 ocr
+https://console.cloud.tencent.com/cam/capi  API
+
+https://zhuanlan.zhihu.com/p/149349915   体系解读罗克韦尔MES平台FTPC-跟我入门MES/MOM系列特别篇 
+https://mp.weixin.qq.com/s?__biz=MzIwMjMxODAzNA==&mid=2247486186&idx=1&sn=30a1a5ad27358d22ab388f88abaaccd3&chksm=96e1c357a1964a418e2d70c6072d54e77226faabbd7de8fb16c13bccc8c319110572d5ba785e&scene=21#wechat_redirect 罗克韦尔MES FTPC技术架构，组件概览-跟我入门MES/MOM系列1
+https://zhuanlan.zhihu.com/p/368241899 70页某大厂电子行业MES项目规划与实施方案
+https://zhuanlan.zhihu.com/p/45723137  CMMP 协同制造管理平台 
+https://zhuanlan.zhihu.com/p/337823028 机加工行业如何运用MES实现可追溯性
+https://max.book118.com/html/2020/1107/8130066120003013.shtm 机加工车间MES系统方案
+https://www.sohu.com/a/278250888_728387  MES 实施之难（2）——实施篇
+http://www.pdm.so/information/201910101134.html  erp与mes数据交互中间件解决方案 
+
+
+https://www.papercut.com/kb/Main/HowToEnableDebugInTheIOSProvider  打印监控 Papercut
+https://www.papercut.com/products/free-software/mobility-print/
+www.printusagepro.com 
+https://blog.csdn.net/kangear/article/details/75331026/  编译最新版本gutenprint
+https://sourceforge.net/projects/gimp-print/files/gutenprint-5.3/5.3.4/  Gutenprint - Top Quality Printer Drivers Files
+http://gimp-print.sourceforge.net/p_Download.php gimp-print官网
+http://gimp-print.sourceforge.net/gutenprint-users-manual.pdf gutenprint 手册
+https://my.oschina.net/u/3115403/blog/858899  怎么在Linux上安装打印机驱动 
+https://blog.51cto.com/waringid/274101  建立Windows环境下的Linux打印服务器
+https://www.cnblogs.com/leaven/archive/2010/10/20/1856482.html  Linux的打印服务CUPS的安装、配置和使用
+https://www.ricoh.com.cn/solutions/ds/saomiaoguanli/ecx  理光的打印管理软件
+
+http://jk.sipcdc.com/  工业园区疾病防治中心官网
+
+
+https://baike.baidu.com/item/%E6%B3%A8%E5%86%8C%E5%AE%89%E5%85%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%81%8C%E4%B8%9A%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95/58175218?fr=aladdin#5  
+注册安全工程师职业资格考试
+
+
+https://club.autohome.com.cn/bbs/forum-c-2987-1.html#pvareaid=6845239  汽车之家
+CX-5论坛
+
+
+https://www.bilibili.com/video/BV1GT4y1A756?p=4&vd_source=a773c06f651e48deb5df3862e0d450b9
+
+https://www.bilibili.com/video/BV14t4y1C7or?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=a773c06f651e48deb5df3862e0d450b9
+
+从开始  https://www.bilibili.com/video/BV1GT4y1A756?p=30
+
+
+
+
+
+【公开课】思科学习教程
+https://www.bilibili.com/video/BV1gW411A7ay?p=1
+
+
+https://www.bilibili.com/video/BV14t4y1C7or?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=a773c06f651e48deb5df3862e0d450b9
+
+https://www.bilibili.com/video/BV1a54y1D7Yx?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=a773c06f651e48deb5df3862e0d450b9
+
+
+
+https://www.bilibili.com/video/BV1vy4y1s7k6?p=1   - 45 尚硅谷Git入门到精通全套教程（涵盖GitHub\Gitee码云\GitLab）
+
+https://www.bilibili.com/video/BV1US4y1D77m?p=1   - 112 尚硅谷】微信支付&支付宝支付，一套搞定Java在线支付开发教程
+
+https://www.bilibili.com/video/BV19K4y1L7MT?p=81   - 87 【尚硅谷】SpringBoot2零基础入门教程（spring boot2干货满满）
+
+https://www.bilibili.com/video/BV1Ry4y1574R?p=1   - 97 【尚硅谷】SpringMVC教程丨一套快速上手spring mvc
+
+https://www.bilibili.com/video/BV17F411T7Ao?p=16   黑马程序员Java零基础视频教程(2022最新Java入门，含斯坦福大学练习题+力扣算法题+大厂java面试题）
+
+https://www.bilibili.com/video/BV1Kb411W75N?p=83   尚硅谷Java入门视频教程(在线答疑+Java面试真题)
+
+https://www.bilibili.com/video/BV14W411u7wT?p=34    -42   【尚硅谷】Oracle数据库全套教程，oracle从安装到实战应用 完成
+
+https://www.bilibili.com/video/BV1KJ411h7NH?p=1  -83 黑马程序员Oracle数据库精讲，从0到1学会Oracle数据库
+
+
+
+
+
+https://www.bilibili.com/video/BV1YQ4y1A7MJ?p=22  - 43 【字幕】会计学基础-北京大学光华管理学院-p4-[2.1.1]--2.1复式记账[高清版]
+
+https://www.bilibili.com/video/BV12Q4y1U7aY?p=1&vd_source=a773c06f651e48deb5df3862e0d450b9    用友ERP教程
+
+https://www.bilibili.com/video/BV1GB4y1A7C3?p=9&vd_source=a773c06f651e48deb5df3862e0d450b9   AP PP高级培训课程-大师修炼之路(SAP PP入门到中高级全套教程，学这一套就够了
+
+https://www.bilibili.com/video/BV1MA4y1Z7Fk/?spm_id_from=333.788&vd_source=a773c06f651e48deb5df3862e0d450b9   第一季：第 3 集 恐龙级CI/CD工具 Jenkins
+
+
+

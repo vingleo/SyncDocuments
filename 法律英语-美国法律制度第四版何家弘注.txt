@@ -14,6 +14,41 @@
 	
 	
 第二课 法律职业
+Background knowledge 背景知识
+      美国的法律职业由律师、法官、检察官和法学教师组成。不过这几种人又都可以称为“律师"(lawyer) ,而且他们都可以是律师协会( Bar)成员。由此可见，美国法律职业内部的“职业划分”并不像中国及世界上大多数国家那样严格和确定。诚然,这里有语言习惯问题，但它也在一定程度上反映了美国各种法律工作者之间人员变换的频繁性,而且这种变换总以律师为中心。美国的法官一般都从律师中产生,而且他们在担任法官期间仍可保留律师资格,只是不能从事律师业务而已。美国的检察官与律师之间几乎没有任何职业差别。实际上,美国的检察官就被称为律师( atorney)。检察官与律师(我们中国人所熟悉之含义上的律师)之间的区别仅在于前者受雇于政府,后者受雇于私人或自己开业;前者在刑事案件中负责公诉,后者在刑事案件中负责辩护。此外,美国的法学教师一般都是当地的律师。
+      美国律师之多,在世界上堪称第一。 据1984年的统计,美国共有64.9万名律师,其与人口的比例为1:364。美国律师多的主要原因是法律在其社会生活中起着非常重要的作用。除各种法律纠纷外,人们从生到死、从结婚到离婚、从生活到工作,往往都需要律师的帮助。有些人几乎事事都要请教律师。诚然,这说明美国人具有很强的法律意识，但也说明美国的许多法律规定过于复杂。一般来说,美国人认为到法院去解决社会生活中的法律纠纷是天经地义的,但这并不等于说美国人喜欢打官司。例如,美国有一个流传颇广的谐音字谜:“有一种套服无人喜欢,是什么?" (There is a kind of suits that nobody likes. What is it?)回答是: “打官司,"(lawsuits.)其实,美国人事事找律师也往往出于无可奈何。因此，美国的律师才得到了各种各样、褒贬不一的外号,如:“租用之枪"(hired guns)、“讼棍”(shysters)."职业投刀手"(professional knife throwers)、“限用之友”( limited purpose friends)、“社会工程师"(social engineers)."社会正义之斗+"(champions for social justice)等。
+
+Text 课文    Overview of the Legal Profession in the United States
+Part One The Bar
+    The regulation of the legal profession is primarily the concern of the states, each of which has its own requirements for admission to practice. Most require three years of college and a law degree. Each state administers its own written examination to applicants for its bar. Almost all states, however，make use of the Multistate Bar Exam, a day-long multiple- choice test, to which the state adds a day-long essay examination emphasizing is own law. Asustantal facton of all apicanti sced on the irst ty, and Tany M
+those who fail pass ona later atempt. In all, over forty thousand person ssuceed in passing these examinations each year  and, after an inquiry into their character are
+adnittet to the bar in their epetive sates No prpnticeship is required ether before 0
+after admission. The rules for admission to practice
+before the federal courts
+vary with the
+court, but generally those entitled to practice
+before the highest court of a state maybe
+admited before the federal cours upon compliance with minor fomaltie.i.
+A lawyer's practice is usually confined to a single community for, although a lawye
+may travel to represent clients , one is only peritted to practice in a state where one has
+been admited. It is customary to retain local counsel for matters in other juisdictios.
+However, one who moves to another state can usually be admitted without examinationif
+one has practiced in a state where one has been admitted for some time, often five year.
+A lawyer may not only practice law，but is permitted to engage in any activity thatis
+open to other citizens. It is not uncommon for the practicing lawyer to serve on boards of
+directors of corporate clients, to engage in business, and to participate actively in public
+affairs. A lawyer remains a member of the bar even after becoming a judge, an employee of
+the government or of a private business concern, or a law teacher, and may return to
+private practice from these other activities. A relatively small number of lawyers give up
+practice for responsible executive positions in commerce and industry. The mobility as well
+as the sense of public responsibility in the profession is evidenced by the career of Harlan
+Fiske Stone who was, at various times, a successful New York lawyer, a professor and
+dean of the Columbia School of Law, Attorney General of the United States, and Chief
+Justice of the United States.
+
+
+
+
 第一部分	律师协会
 	法律职业的规范主要是各州的事务，每一个州对于执业许可都有其自己的要求。大多数州都要求三年的学业和法律学位。各州自行管理本州申请律师资格的书面考试。不过，几乎所有的州都利用“多州律师资格考试”，这是一种长达一天的多项选择测试，在这项考试之外，各州还会再增加一次主要是关于其本州法律的时长一天的论文考试。大多数申请人都可以通过第一次考试，而且许多失败者都会在下一次考试中通过。每年有四万多人通过这些考试，在经过人品调查之后，他们便可以获准在相应的州执业许可。在获得许可之前后之后都不要求实习。到各联邦法院执业的许可规则互不相同，但一般来讲，那些获准在州最高法院执业的律师在办理一些无关紧要的手续之后即可获准在联邦法院执业。
 	职业律师范围通常仅限于一个地区，因为尽管律师可以代表当事人到其他地区办理事务，但是一个人只能在其获得许可的州内执业。人们习惯雇用本州的律师办理其他州的事务。但是，只要一个人已经在其获得执业资格的州执业达一定时间（通常是五年），那么他移居到另外一个州时通常无需考试便可获得执业许可。
