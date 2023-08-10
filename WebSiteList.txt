@@ -26,7 +26,8 @@ http://www.zimuxia.cn/portfolio/%e5%81%87%e5%a6%82  字幕侠
 http://www.btba.cc/down/41663441570/1.html
 http://www.jlpcn.net/vodtypehtml/19-2.html  纪录片天地
 http://www.btba.cc/down/970543741143/1.html
-https://www.36dm.com/  简单动漫 好网站
+https://www.36dm.com/  简单动漫 好网站 
+http://www.minxue.net/04/category-catid-504-page-6.html  漫画下载 好用
 https://bangumi.moe/lite/search#tag/62c6ce11f248710007e811b1+55b86e9224180bc3647fea43   动画好用
 https://www.acgsen.com/forum-1.htm  动画好用
 https://www.acg23.com/index.php?s=vod-search-name   动画好用
@@ -52,7 +53,7 @@ http://www.poxiaotv.com/vodhtml/78450.html  电视剧网站
 http://www.mjf2020.com/fenji/350183.html#35018-3-720p 美剧粉
 https://www.meijutt.tv/content/meiju25178.html 美剧 亿万
 https://www.meijutt.tv/content/meiju27962.html 美剧 小谢尔顿
-https://www.meijutt.tv/content/meiju28213.html 9号秘事
+https://www.meijutt.tv/content/meiju28213.html 9号秘事 第8季
 https://www.meijutt.tv/content/meiju252.html  反恐24小时
 https://www.meijutt.tv/content/meiju28321.html 美剧 皮卡德第三季
 https://www.meijutt.tv/content/meiju28208.html  美剧 最后的生还者
@@ -62,6 +63,10 @@ https://www.meijutt.tv/content/meiju21395.html 光明世界第二季
 https://www.meijutt.tv/content/meiju27734.html  美剧 安多
 https://www.meijutt.tv/content/meiju27206.html   风骚律师
 https://www.meijutt.tv/content/meiju27494.html 奇异新世界
+https://www.meijutt.tv/content/meiju28563.html 奇异新世界第二季
+https://pan.quark.cn/s/cbd5ccd2ff5e#/list/share/1b89e614dc88400e905f13839aa5446e-%E9%A3%9E%E5%87%BA%E4%B8%AA%E6%9C%AA%E6%9D%A5f   飞出个未来
+https://www.pianbar.net/euramerica/327126.html  骇人命案事件簿
+https://weibo.cn/sinaurl?u=https%3A%2F%2Fpan.quark.cn%2Fs%2F554757e5ceae  骇人命案事件簿 （微博 https://www.weibo.com/6210821977/LkkRqr0k5）
 https://www.meijutt.tv/content/meiju26898.html 奥维尔号第三季
 https://www.meijutt.tv/content/meiju27558.html 怪奇物语 第四季
 https://www.meijutt.tv/content/meiju27580.html 黑袍纠察队第三季
@@ -148,6 +153,7 @@ https://support.apple.com/zh-cn/guide/logicpro/lgcef1bee254/mac   Logic Pro 使�
 【硬件】
 http://www.cocoachina.com/apple/20171108/21099.html  iPhone X屏幕详解：DisplayMate史上最高A+评级 
 http://blog.csdn.net/mydreamremindme/article/details/9670583    内存对齐详解 
+https://doc.embedfire.com/products/link/zh/latest/linux/ebf_i.mx6ull.html   野火开发板资料汇总  i.mx6ull
  
 【微软Windows】
 https://www.cnblogs.com/visionfeng/p/5611592.html       ATL CLR MFC Win32 常规的区别 
@@ -216,7 +222,8 @@ http://www.jianshu.com/p/30db749bf18b   Swift—UIButton的基本用法
 http://www.runoob.com/swift/swift-characters.html    Swift 字符(Character) 
 https://www.kancloud.cn/digest/swift937447974/161142   Swift类和结构体（Classes and Structures） 
 http://lib.csdn.net/swift/node/5     CSDN swift 知识库 
-http://swiftcn.io/doc/chapter2/09_Classes_and_Structures.html   swift中国  类和结构体（Classes and Structures） 
+http://swiftcn.io/doc/chapter2/09_Classes_and_Structures.html   swift中国  类和结构体（Classes and Structures） （阵亡）
+https://www.cnswift.org/    swift中国    
 http://www.cocoachina.com/ios/20170728/20052.html    WatchOS系统开发大全  
 http://www.cocoachina.com/ios/20170808/20176.html    iOS iPad开发 demo 
 http://www.cnblogs.com/superYou/p/4645168.html   iOS---RunLoop深度剖析  
@@ -542,6 +549,10 @@ https://edgeemu.net/browse-saturn-V.htm
 https://www.buyiai.cn/archives/5443   PC游戏下载好用
 https://nazo.one-story.cn/false  测试游戏
 https://openemu.org 开源模拟器
+https://26vv.com/2020/04/17/sega-%E4%B8%96%E5%98%89dc%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86-dreamcast-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD-%E5%85%B1620-4gb/  sega-世嘉dc游戏合集-dreamcast-百度网盘下载-共620-4gb
+https://www.oldmanemu.net/%e5%ae%b6%e6%9c%ba%e6%b8%b8%e6%88%8f/dc/dc%e4%b8%ad%e6%96%87%e6%b8%b8%e6%88%8f%e5%85%a8%e9%9b%86  老男人 家机游戏/dc/dc中文游戏全集
+https://post.smzdm.com/p/a4wkzdw7/  nulldc 说明
+https://www.winkawaks.org/roms/cps2/index.htm#progearj  街机cps2 rom清单说明 
 
 ##############################
 ### Part XIII 打印厂商

@@ -1,0 +1,124 @@
+Legal English 翻译
+原稿路径
+d:\工作内容\要看的电子书-可删除-不要新增\Finance Legal Trade财务法律-金融\14Legal English-添加书签.pdf
+
+
+PART 1
+Business law and practice
+商业法与实务
+
+Chapter 1 Company formation
+第一章 公司成立
+
+Learning Objectives
+By completing the exercises in this chapter you will:
+· Acquire knowledge of the legal characteristics and nature of a limited company
+· Acquire an appreciation of the vocabulary and grammar relevant to company law
+· Become aware of the information required in order to incorporate a company
+· Understand and be capable of explaining the legal procedures and documentation required for company formation
+· Be able to prepare the legal documentation necessary in order to create a company
+
+学习目标
+通过完成本章中的练习，您将：
+·了解有限公司的法律特征和性质
+·了解与公司法相关的词汇和语法
+·了解成立公司所需的信息
+·了解并能够解释公司成立所需的法律程序和文件
+·能够准备创建公司所需的法律文件
+
+Company law
+公司法
+
+Characteristics of a company
+公司的特征
+
+A company is regarded in law as being a separate legal ‘person’, with a separate legal personality. This means that it has rights separate from its owners and managers to enter into contracts, employ people, own property and conduct business. The creation and management of a company is governed by the Companies Act 1985 (CA’85) and the Companies Act 1989.
+By far the largest number of incorporated companies are incorporated with limited liability, being limited by shares as defined by section 1(2)(a) CA ’85. The potential financial liability of a member (in other words shareholder) in such a company is limited to the amount, if any, remaining unpaid on the shares held by that particular member. Such a company is known as a limited company and will have the word ‘Limited’ at the end of its name.
+A company can be a private or a public company. A public company must have a minimum issued share capital of £50,000, as required by sections 11 and 118 CA ’85. Apublic company may offer its shares for sale to the public (s. 81 CA’85), whereas a private company must not. A public company may also have its shares listed (and traded) on the Stock Exchange. Information on the current values of such listed shares is publicly available and can be checked for instance in The Financial Times.
+
+
+在法律上，公司被视为具有独立法人资格的独立法“人”。这意味着它拥有独立于其所有者和经理签订合同、雇用人员、拥有财产和开展业务的权利。公司的创建和管理受《1985年公司法》（CA'85）和《1989年公司法》管辖。
+
+到目前为止，注册成立的公司数量最多，受CA '85第1（2）（a）条定义的股份限制。成员（换句话说，股东）在此类公司中的潜在财务责任仅限于该特定成员持有的股份的未支付金额（如果有的话）。这样的公司被称为有限公司，其名称末尾将有“有限公司”一词。
+
+
+公司可以是私人公司或上市公司。上市公司必须拥有 50，000 英镑的最低已发行股本，符合第 11 条和第 118 CA '85 条的要求。
+上市公司可以向公众出售其股票（第81 CA'85条），而私人公司不得。上市公司也可以将其股票在联交所上市（和交易）。有关此类上市股票当前价值的信息是公开的，例如可以在《金融时报》上查看。
+
+
+Exercise 1–reading
+
+COMPANY FORMATION
+There are a number of legal requirements which must be complied with in order to incorporate (in other words create) a company. In particular, the following documentation will normally be required.
+Memorandum of Association
+The Memorandum of Association (known as the ‘articles of incorporation’ in the US) contains the following information:
+· Name of the company
+· The company’s objects and powers (meaning basically the sphere of activities and nature of the company)
+· The company’s share capital
+Articles of Association
+The Articles of Association (the articles) are in effect a set of rules governing the conduct of the members of the company and its officers. The officers of a company are its directors and company secretary. These rules commonly relate to matters such as the conduct of shareholder and board meetings, any restriction on the transferability of shares and the powers bestowed on the directors etc. (In the US the Articles of Association are known as the bylaws.) Many companies use a standard form of articles known as ‘Table A Articles’.
+
+Form 10
+This is a standard form which must be completed with details of the intended officers of the company, as required by s. 10(2) CA ’85. Every incorporated company must have at least one director and one company secretary. (If there is to be only one director then that individual cannot also be the company secretary.) Details of the company’s registered office (at which formal documents will usually be served upon the company) should also be included in Form 10.
+
+Form 12
+This is another standard form which must be signed by a person applying for incorporation of the company to certify that the legal requirements for registration have been complied with.
+The person signing Form 12 (commonly known as the promoter of the company) can be one of the directors, the company secretary or a solicitor engaged in the formation of the company.
+Once completed, these company documents must then be sent to the Registrar of Companies (‘the registrar’), along with a fee. The registrar then registers the company and issues a Certificate of Incorporation. This is when the company comes into existence. There are further legal requirements which the incorporated company must then continue to comply with, such as having annual accounts prepared (s. 226 CA ’85), a copy of which must be filed annually at Companies House (s. 242 CA ’85).
+
+练习 1 - 阅读
+公司成立
+为了成立（换句话说，创建）公司，必须遵守许多法律要求。特别是，通常需要以下文件。
+组织章程大纲
+组织章程大纲（在美国称为“公司章程”）包含以下信息：
+  ·公司名称
+  ·公司的目标和权力（基本上是指公司的活动范围和性质）
+  ·公司股本
+公司章程
+公司章程细则（章程细则）实际上是一套管理公司成员及其高级职员行为的规则。公司的高级职员是其董事和公司秘书。这些规则通常涉及股东和董事会会议的举行、对股份可转让性的任何限制以及授予董事的权力等事项。（在美国，公司章程被称为章程。许多公司使用称为“表 A 文章”的标准形式的文章。
+
+表格 10
+这是一份标准表格，必须按照 CA '85 第 10（2） 条的要求填写公司预期官员的详细信息。每家注册公司必须至少有一名董事和一名公司秘书。（如果只有一名董事，则该人不能同时担任公司秘书。公司注册办事处的详细信息（通常向公司送达正式文件）也应包含在表格10中。
+
+表格 12
+这是另一种标准表格，必须由申请成立公司的人签署，以证明已遵守注册的法律要求。
+签署表格12的人（俗称公司的发起人）可以是董事之一、公司秘书或参与公司成立的律师。
+完成后，这些公司文件必须连同费用一起发送给公司注册处（“注册处”）。然后，注册商注册公司并颁发公司注册证书。这是公司成立的时候。注册公司必须继续遵守其他法律要求，例如准备年度账目（s. 226 CA '85），其副本必须每年在公司大楼提交（s. 242 CA '85）。
+
+
+Exercise 2–comprehension
+Answer the following questions concerning company formation, based on the above information.
+1. What is meant by ‘limited liability’?
+2. What is the minimum amount of issued share capital which a public company must maintain?
+3. List the four documents normally required in order to form a company.
+4. If a client wishes to incorporate a company and be its only director, can s/he also be the company secretary? If not then explain why not.
+5. Name the document issued by the Registrar of Companies which is in effect a ‘birth certificate’ for a new company.
+
+练习 2 – 理解
+根据上述信息，回答以下有关公司成立的问题。
+1. 什么是“有限责任”？
+2. 公众公司必须维持的最低已发行股本是多少？
+3. 列出成立公司通常需要的四份文件。
+4. 如果客户希望成立公司并担任其唯一董事，他/她也可以担任公司秘书吗？如果不可以，解释为什么不可。
+5. 命名公司注册处签发的文件，该文件实际上是新公司的“出生证明”。
+
+Exercise 3–drafting
+
+Now assume that you are a lawyer in the Business Law Department of Stringwoods & Evans, a city law firm located at 18 Bond Street, London, W1 1KR (telephone number 020 7538 2892; DX number 12432, London 1). You have been instructed by a new client named Thomas Shapiro (TS) to incorporate a company for him. TS is a successful entrepreneur with business interests throughout Europe and the Far East. He now wishes to establish a private company limited by shares to be named ‘Maplink Limited’. Maplink Limited will be run as a business, publishing various maps and guides for tourists visiting London and other cities around the world.
+Your senior partner has already drafted the Articles of Association for Maplink Limited. You are now required to complete the further documentation needed to form the company. This consists of:
+· The Memorandum of Association
+· Form 10
+· Form 12
+Taking account of the company details provided on p. 8, complete the following company formation documentation accordingly by entering the correct details in the shaded spaces.
+
+
+练习 3 – 起草
+
+现在假设您是Stringwoods & Evans商业法部门的律师，这是一家位于伦敦邦德街18号W1 1KR的城市律师事务所（电话号码020 7538 2892;DX 编号 12432，伦敦 1）。一位名叫托马斯·夏皮罗（TS）的新客户指示您为他成立一家公司。TS是一位成功的企业家，在整个欧洲和远东地区都有商业利益。他现在希望成立一家私人股份有限公司，名为“Maplink Limited”。Maplink Limited将作为一项业务运营，为访问伦敦和世界其他城市的游客发布各种地图和指南。
+您的高级合伙人已经为Maplink Limited起草了组织章程。您现在需要完成组建公司所需的进一步文件。这包括：
+·组织章程大纲
+·表格 10
+·表格 12
+考虑到第8页中提供的公司详细信息，通过在阴影空间中输入正确的详细信息来相应地完成以下公司成立文件。
+
+
