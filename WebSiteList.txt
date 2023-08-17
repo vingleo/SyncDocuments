@@ -154,6 +154,7 @@ https://support.apple.com/zh-cn/guide/logicpro/lgcef1bee254/mac   Logic Pro 使�
 http://www.cocoachina.com/apple/20171108/21099.html  iPhone X屏幕详解：DisplayMate史上最高A+评级 
 http://blog.csdn.net/mydreamremindme/article/details/9670583    内存对齐详解 
 https://doc.embedfire.com/products/link/zh/latest/linux/ebf_i.mx6ull.html   野火开发板资料汇总  i.mx6ull
+
  
 【微软Windows】
 https://www.cnblogs.com/visionfeng/p/5611592.html       ATL CLR MFC Win32 常规的区别 
@@ -204,6 +205,7 @@ http://lib.csdn.net/base/objective-c   CSDN Objective-C知识库
 https://ss64.com/osx/      Mac OS X 命令行说明 
 https://www.iteye.com/blog/justcoding-2077323 Swift中文教程（三） 字符串和字符  
 https://www.cnswift.org/classes-and-structures swift最新同步官方文档中文化 
+https://www.cnswift.org/the-basics 
 https://blog.csdn.net/felicity294250051/article/details/81175361 Swift 帮助你更好的了解 Swift 的字符编码格式 - Unicode Scalars 
 https://www.jianshu.com/p/64a3a8c44f6a  升级Xcode10.2 Swift5.0 兼容之前的老版本SWift 3.x
 http://www.cocoachina.com/articles/10669  iOS开发 社区 Cocoa China iOS 8 AutoLayout与Size Class自悟 
