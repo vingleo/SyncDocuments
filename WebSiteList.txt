@@ -148,6 +148,8 @@ https://www.cloudmidi.net/ableton-max-for-live-collections-alp.html Ableton Max 
 https://components.novationmusic.com/slmkiii/packs  Novation SL MK3 的Packs 在线版
 https://novationmusic.com/en/components Novation的components
 https://support.apple.com/zh-cn/guide/logicpro/lgcef1bee254/mac   Logic Pro 使用手册
+https://djlain.com/2011/04/08/2527/    CAVE公司游戏音乐 百度盘和国外网盘TERABOX 有无损和MP3
+
 
 
 
@@ -161,6 +163,8 @@ https://doc.embedfire.com/products/link/zh/latest/linux/ebf_i.mx6ull.html   野�
 https://www.firebbs.cn/forum.php?mod=forumdisplay&fid=151    野火开发板论坛
 https://gitee.com/Embedfire-imx6   代码库资料仓库
 https://jiangxiekeji.com/download.html   江协科技
+http://47.111.11.73/docs/boards/stm32/zdyz_stm32f103_mini_sysboard.html   正点电子  stm32f103最小系统板资料1
+http://www.openedv.com/docs/boards/stm32/zdyz_stm32f103_mini_sysboard.html  正点电子  stm32f103最小系统板资料2
 
 
  
