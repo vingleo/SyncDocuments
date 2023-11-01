@@ -1,7 +1,8 @@
 现代商务英文E-Mail写作实例精选
-3.5 例1
+3.5	有关人事安排
+3.5	例1
 
-Reception coverage - Friday 4th August
+		Reception coverage - Friday 4th August
 
 	Please be advised that reception will be covered by a Unistaff casual（adj.临时的） staff memeber today. Maria Poynton will be providing limited services due to both Susan and Doris unable to be at work today.
 	
@@ -9,7 +10,12 @@ Reception coverage - Friday 4th August
 	
 	Thanks
 	Miranda Carr
-	
+
+Words & Expressions
+assist	v.	支持;帮助
+casual	a.	临时的
+reception	n.	接待,招待;招待会.
+
 中文译文：
 保障接待处工作——8月4日，星期五
 	通知一下，今天接待处的工作将由来自大学职员处的一位临时职员代管。由于苏珊和多丽丝今天都无法来上榜，玛利亚·波因顿将提供有限的服务。
