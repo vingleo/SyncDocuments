@@ -61,7 +61,7 @@ https://www.meijutt.tv/content/meiju28213.html 9号秘事 第8季
 https://www.meijutt.tv/content/meiju252.html  反恐24小时
 https://www.meijutt.tv/content/meiju28321.html 美剧 皮卡德第三季
 https://www.meijutt.tv/content/meiju28208.html  美剧 最后的生还者
-https://www.meijutt.tv/content/meiju27744.html 瑞克与莫蒂第六季  翻墙
+https://www.meijutt.tw/content/meiju28802.html  瑞克与莫蒂第七季  翻墙
 https://www.lalameiju.com/video/2360.html   光明世界
 https://www.meijutt.tv/content/meiju21395.html 光明世界第二季
 https://www.meijutt.tv/content/meiju27734.html  美剧 安多
@@ -524,6 +524,8 @@ http://www.anime-manga.jp/chinese/CharacterExpressions/  日语学习网站
 http://www.erin.ne.jp/jp/lesson01/basic/index.html 
 https://kanji.jitenon.jp/  汉字辞典（查询汉字发音、含义、例句）
 https://www.erin.jpf.go.jp/jp/lesson/02/key-phrases/  艾琳学日语官网（好网站）
+https://www.asahi.com/  朝日新闻
+https://www.freett.com/excellent-list/   
 【英语】
 https://www.deepl.com/translator/files  好用的全文翻译网站
 
@@ -568,7 +570,9 @@ https://openemu.org 开源模拟器
 https://26vv.com/2020/04/17/sega-%E4%B8%96%E5%98%89dc%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86-dreamcast-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD-%E5%85%B1620-4gb/  sega-世嘉dc游戏合集-dreamcast-百度网盘下载-共620-4gb
 https://www.oldmanemu.net/%e5%ae%b6%e6%9c%ba%e6%b8%b8%e6%88%8f/dc/dc%e4%b8%ad%e6%96%87%e6%b8%b8%e6%88%8f%e5%85%a8%e9%9b%86  老男人 家机游戏/dc/dc中文游戏全集 好用
 https://post.smzdm.com/p/a4wkzdw7/  nulldc 说明
-https://www.winkawaks.org/roms/cps2/index.htm#progearj  街机cps2 rom清单说明 
+https://www.winkawaks.org/roms/cps2/index.htm#progearj  街机cps2 rom清单说明    
+https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox%20360/   多机种下载网站(好用) 
+
 
 ##############################
 ### Part XIII 打印厂商
