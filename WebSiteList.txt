@@ -336,6 +336,10 @@ https://zhuanlan.zhihu.com/p/143109228  FFmpeg视频画面尺寸调整，必知�
 
 【配色相关】
 https://blog.csdn.net/weixin_33716941/article/details/90626346  关于颜色理论 
+https://www.pptfan.com/341.html
+https://www.pptfan.com/317.html
+https://www.jianshu.com/p/fa123d86da33
+http://zhongguose.com/#ganlanhuanglv
 
 【linux相关】
 http://www.ruanyifeng.com/blog/2016/12/user_space_vs_kernel_space.html  User space 与 Kernel space 
@@ -488,6 +492,29 @@ https://www.cloudmidi.net/korg-software-bundle-v2022-4-r2r-mac.html  KORG 经典
 https://www.cloudmidi.net/korg-wavestate-native-v1-0-2-r2r-win-mac.html   波表序列合成器-KORG Wavestate Native v1.0.2 R2R WiN-MAC 待下载 5积分
 https://www.cloudmidi.net/valhalla-dsp-bundle-v2022-1-m1-macos.html  经典混响延迟插件包9个合集-Valhalla DSP Bundle v2022.1 M1 MacOS 10积分
 https://audioz.download/software/200591-download_korg-gadget-2-v273-macosx-incl-patch-sunlover.html  下载Korg等音乐软件
+https://www.midifan.com/modulearticle-detailview-5408.htm
+https://www.midifan.com/modulehardware-index.htm?scate=hardware&title=krome
+https://www.midifan.com/modulehardware-detailview-7537.htm
+https://www.midifan.com/modulearticle-detailview-598.htm
+https://www.midifan.com/modulearticle-detailview-597.htm
+https://www.midifan.com/modulearticle-detailview-596.htm
+https://www.midifan.com/modulearticle-detailview-595.htm
+https://www.korgclub.cn/zh/products.asp?id=3
+https://mp.weixin.qq.com/s/YkXrobIjzIvmqv14r36k-A  将80, 90, 00年代的经典KORG音色汇聚到KROME，而且是免费的
+https://www.korgclub.cn/zh/pnewsdetail.asp?id=50
+https://mp.weixin.qq.com/s?__biz=MzA5MjY4NTgzNA==&mid=401603175&idx=1&sn=c140880eb2076e42f50188a51f7104ba&scene=19#wechat_redirect  KORG KROME合成器工作站中文教程【1-3】
+http://dy.163.com/v2/article/detail/E9Q3FVB205313F68.html  不用交学费，零基础也能轻松入门乐器！这里有份最全指南 
+https://learningmusic.ableton.com/zh/  
+https://learningsynths.ableton.com/zh/  
+https://www.midifan.com/modulearticle-index.htm?scate=article&title=%C4%A3%C4%E2%BA%CF%B3%C9%C6%F7%BF%EC%CB%D9%C9%CF%CA%D6%CF%B5%C1%D0    模拟合成器快速上手系列系列
+https://cn.midifan.com/modulearticle-detailview-6233.htm
+http://www.abletive.com//course?menuId=91  Virtual Pianos Comparison- -Keyscape- Ivory- PianoTeq- NI- Motif- Roland- EZkeys- Reason and more- - DASH  
+https://www.midifan.com/modulenews-detailview-30595.htm	Korg ELECTRIBE 鼓机在 iOS 回归，加入次时代波表合成系统
+https://cn.midifan.com/modulenews-detailview-31416.htm	Korg 发布 Electribe Wave 2 版本更新，支持素材导入和 Live 工程导出
+https://www.midifan.com/modulesoftware-detailview-5413.htm	Korg - ELECTRIBE Wave for iPad
+https://audiokitpro.com/fmplayer/
+
+
 
 
 ##############################
