@@ -1071,9 +1071,501 @@ SEE: FLAW, MISCHIEVOUS, profligate, REPULSIVE, SIN, WEAK.
 	
 	
 4.63 Banel
+These words refer to what is offensive to good taste because of its want of sense, significance or freshness. Banal, most strictly, refers to something that is so commonplace that it lacks freshness: jokes, hoary-headed with age. But the word has gathered connotations that go beyond this strict meaning, referring to an odious or deplorable lack of taste: another season of banal television programmes.
+
+这些词指的是那些因为缺乏意义、重要性或新鲜感而有损高雅品味的东西。最严格地说，banal 指的是太过平凡而缺乏新鲜感的东西：笑话，随着时间的流逝而变得陈旧。但这个词已经积累了超越这一严格含义的内涵，指的是令人厌恶或可悲的缺乏品味：又一季平庸的电视节目。
+
+Both insipid and vapid, like the Latin words from which they come can literally refer to foods that lack savour. In applying to what is tasteless or gauche, both words also point to staleness, flatness, or want of spirit. They are often thought to be interchangeable, but subtle differences between them can be felt. Insipid is especially pertinent for describing instances of expression or behaviour suggesting weakness or feebleness; this contrasts it with banal, which suggests outrageous bad taste: choosing between the insipid dullness of a drawing-room comedy and the banal mediocrity of a musical extravaganza. Vapid, on the other hand, might be thought more pertinent to describing a whole personality, one of limited mentality: a vapid starlet who kept making insipid remarks about the weather. Vapid, when it describes behaviour rather than character, often suggests patent insincerity: thanking him with a vapid smile.
+
+insipid 和 vapid 就像它们所源于的拉丁语单词一样，字面意思都是缺乏味道的食物。在用来形容无味或粗俗时，这两个词也指陈腐、平淡或缺乏精神。人们常常认为它们可以互换，但仍然可以感觉到它们之间的细微差别。insipid 尤其适合描述表现出软弱或无力的表情或行为；这与 banal 形成对比，banal 暗示着极其低俗的品味：在客厅喜剧的平淡无味和平庸的音乐盛会之间做出选择。另一方面，vapid 可能被认为更适合描述整个个性，一种心智有限的个性：一个无聊的小明星不停地对天气发表无聊的评论。vapid 在描述行为而不是性格时，常常暗示明显的虚伪：用无聊的微笑感谢他。	
+	
+Unlike the foregoing, jejune and inane are less concerned with something that has lost its freshness than with something that reveals a total lack of substance to begin with. Jejune derives from a Latin word meaning hungry and applies emphatically to what is worthless and uninteresting. [This play cannot be called banal, considering its novelty, nor insipid, considering its liveliness, nor vapid, considering its sensitivity; nevertheless, it is utterly unstimulating and jejune in every particular.] Inane derives from a word meaning empty and refers to something that is regarded as worthless because it lack sense to the point of becoming foolish or silly: attempts at flattery that would be laughable if they weren’t so inane. Jejune can also suggest an enduring state of mental exhaustion or emptiness: grimly resigning herself to the jejune patterns of suburban living. Because of confusion with jejune, the French word for young, the word is also used disapprovingly to indicate immaturity or naïvetè: jejune teen-age fads. Fatuous is an intensification of inane in that it adds a suggestion of self-contented smugness to the silliness suggested by inane: a fatuous grin that revealed how witty she imagined her inane remark to be.	
+	
+与上述不同，jejune 和 inane 更关心的是事物失去新鲜感，而不是事物本身就缺乏实质内容。Jejune 源自拉丁语，意为饥饿，着重指毫无价值和无趣的事物。[考虑到它的新颖性，这部剧不能被称为平庸；考虑到它的生动性，也不能被称为乏味；考虑到它的敏感性，也不能被称为枯燥；尽管如此，它在各个方面都极其乏味和幼稚。] Inane 源自一个意为空洞的词，指被认为毫无价值的东西，因为它缺乏意义，变得愚蠢或愚蠢：奉承的企图如果不是那么幼稚，那就太可笑了。Jejune 还可以指持久的精神疲惫或空虚状态：无奈地接受郊区生活的幼稚模式。由于与法语单词 jejune（表示年轻人）相混淆，该词也被用来表示不成熟或幼稚：青少年的幼稚时尚。Fatuous 是 inane 的强化形式，它在 inane 所暗示的愚蠢中增加了一种自鸣得意的自鸣得意：一个愚蠢的笑容表明她想象她的愚蠢言论是多么的诙谐。	
+SEE: MONOTONOUS, SENTIMENTAL, SUPERFICIAL, TRITE, TRUISM.
+	ANYONYMS: meaningful, SIGNIFICANT.
+
+	
+4.64 Bar
+These words refer to public places in which alcoholic drinks are served. Bar is the general word for that section of a licensed hotel, or a licensed club, in which the serving and drinking of liquor is the primary concern. [Let’s have a drink in the bar before we go into the dining room.] In America the word refers also to the ubiquitous street bar (often small) which is not part of a hotel but which exists solely for the serving and drinking of alcoholic beverages. Saloon has a much more complicated set of meanings. In Australia, as in Britain, the saloon bar in a hotel is separate from the public bar and differs from the latter in that its appointments are superior and the drinks more costly. (A similar distinction between these tow sorts of bars exists in New Zealand hotels, but in this case the better-appointed kind is known as the lounge bar or private bar.) Drawn from the French salon, the word saloon can also indicate the main gathering place of a passenger ship, reflecting its earliest use pertaining to the room in a home where people gathered for conversation. In any case, saloon originally suggested an elegantly appointed place, one both sumptuous and respectable. As such, it was taken over in America to confer respectability on public drinking places, but with the Prohibition era the word lost favour and came to indicate any sordid, low-life bar, a connotation from which the word, in America, has never recovered.	
+	
+这些词指的是供应酒精饮料的公共场所。Bar 是指有执照的酒店或有执照的俱乐部中主要提供和饮用酒类的区域的统称。[我们先在酒吧喝一杯再去餐厅吧。] 在美国，这个词也指随处可见的街边酒吧（通常很小），它不属于酒店，而仅用于供应和饮用酒精饮料。Saloon 的含义要复杂得多。在澳大利亚和英国，酒店里的沙龙酒吧与公共酒吧是分开的，区别于公共酒吧的是，沙龙酒吧的设施更高级，酒水更贵。 （新西兰酒店也有类似的两种酒吧的区别，但在这种情况下，设备更齐全的酒吧被称为酒廊酒吧或私人酒吧。）saloon 一词源于法语 salon，也可以指客轮的主要聚会场所，反映了其最早的用法，指人们聚集在一起聊天的房间。无论如何，saloon 最初指的是一个装修优雅的地方，既豪华又体面。因此，它在美国被用来指公共饮酒场所的体面，但随着禁酒令时代的到来，这个词失去了吸引力，开始指任何肮脏、下流的酒吧，在美国，这个词从未恢复过这种含义。
+
+Cocktail lounge does indicate the elegant surroundings once suggested by saloon. Typically, such a place might be spacious and well-upholstered; it would offer a menu of food and possibly a singer or pianist for entertainment, though most likely it would not accommodate social dancing. The main function, here, is still that of serving liquor. Nightclub suggests a more lavish setting than cocktail lounge, indicating a place where eating and entertainment are as important as drinking itself. Whereas one could frequent a cocktail lounge in the afternoon or early evening, nightclub specifically indicates late hours; furthermore, the entertainment typically includes social dancing, a band (or "combo") of musicians, often with a singer, and the performances of one or more comedians. The entertainment may be on a far more lavish scale, involving an orchestra, chorus girls, etc.	
+
+鸡尾酒廊确实表明了曾经被沙龙暗示的优雅环境。通常，这样的地方可能很宽敞，装饰精美；它会提供食物菜单，可能还有歌手或钢琴师来娱乐，尽管很可能不会举办社交舞会。这里的主要功能仍然是提供酒水。夜总会比鸡尾酒廊更奢华，表明在那里吃饭和娱乐与喝酒本身一样重要。虽然人们可以在下午或傍晚经常光顾鸡尾酒廊，但夜总会特别表明时间很晚；此外，娱乐活动通常包括社交舞会、乐队（或“组合”）音乐家（通常还有歌手）以及一个或多个喜剧演员的表演。娱乐活动可能规模更大，包括管弦乐队、合唱团女孩等。
+
+Cabaret also indicates a place offering entertainment as well as liquor. It suggests smaller, more intimate surroundings, however, where singing or dancing acts are presented, though social dancing may not be involved. Recently, satirical revues and even serious plays have been presented in cabarets. At its inception, the recent word discothèque referred to a place where the new forms of social dancing were done to recorded music. Now the word is also used of places where modern social dancing is done to live music. Discothèque is the one word here that need not imply the serving of alcoholic drinks, since many of these places cater particularly to teenagers to whom alcohol may not be sold.
+
+Cabaret 也指提供娱乐和酒水的场所。但它指的是规模更小、更私密的环境，在那里有歌舞表演，但可能不涉及交际舞。最近，在 Cabaret 中上演了讽刺性歌舞剧甚至严肃的戏剧。最初，discothèque 一词指的是在录制的音乐下进行新式交际舞的场所。现在，这个词也用于指在现场音乐下进行现代交际舞的场所。Discothèque 是这里唯一一个不必暗示提供酒精饮料的词，因为许多此类场所专门为青少年提供服务，而青少年不得向他们出售酒精饮料。
+
+SEE: HOTEL, RESTAURANT.
+
+
+4.65 Bare
+These words mean devoid of clothing or of a usual covering. Bare, when applied to objects, means without covering or ornament: a bare outcropping of rock; a tree bare of leaves. When used of a person, bare usually applies to a part of the body rather than to the entire body: bare knees; bare arms and legs. By extension it is also used to indicate the omission of fancy trappings or non-essential adjuncts: Just give us the bare facts, without embellishment.
+
+这些词的意思是没有衣服或通常的遮盖物。Bare 用于物体时，意思是没有遮盖物或装饰物：裸露的岩石露头；光秃秃的树。用于人时，bare 通常适用于身体的一部分而不是整个身体：裸露的膝盖；裸露的手臂和腿。引申开来，它还用于表示省略华丽的装饰或不必要的附属物：只给我们最基本的事实，不要修饰。
+
+Naked, when applied to a person, means completely devoid of clothing. Naked is often invested with moral or emotional connotations, and may suggest sexual excitation or exhibitionism. [The hotel fire caught them both naked; She couldn’t wear bikinis because the made her feel naked.] In other contexts, naked may suggest purity or innocence or simply be a neutral description: naked nymphs; naked children frolicking in the street; The body was naked when discovered. In the sense of bare, naked is also used about physical objects or forces generally for poetic effect or for emphasis: naked boughs; naked power; the naked truth.
+
+Naked 用来形容人时，意思是完全没有衣服。Naked 常常带有道德或情感含义，可能暗示性兴奋或裸露癖。[酒店大火烧到他们俩都赤身裸体；她不能穿比基尼，因为那会让她感觉赤身裸体。] 在其他情况下，naked 可能暗示纯洁或天真，或者只是中性描述：裸体的仙女；在街上嬉戏的裸体儿童；尸体被发现时是赤裸的。在 bare 的意义上，naked 也用于形容物理对象或力量，通常是为了达到诗意效果或强调：赤裸的树枝；赤裸的力量；赤裸的真相。
+
+Nude applies only to persons and may be neutral in connotation by itself, but its context ?sexual interest being what it is in modern society ?often makes it highly charged with emotional feeling. The noun nude denotes an unclothed figure in painting or sculpture and the association of the word with aesthetic appreciation often invests it with a kind of glamorous appeal lacking in naked. Nude has a more respectable tone than naked; thus fashion writers can advertise some feminine clothing as having a nude look but dare not call it naked. For the same reason one speaks of sleeping in the nude, never naked.
+
+裸体仅适用于人，其本身可能含义中性，但其语境——现代社会的性趣味——往往使其充满情感。名词裸体表示绘画或雕塑中未穿衣服的人物，该词与审美欣赏的联系往往赋予其一种裸体所缺乏的迷人魅力。裸体比裸体更受尊重；因此，时尚作家可以宣传一些女性服装具有裸体外观，但不敢称其为裸体。出于同样的原因，人们会说裸睡，但从不说裸体。
+
+Stripped literally means having been rendered bare, naked, or nude by some outside agency but it is often used figuratively to mean deprived: stripped of his medals for disobeying a commanding officer; stripped of all his privileges pending an official investigation.
+
+“剥光”的字面意思是被一些外部机构弄得赤裸、赤身裸体或赤身裸体，但它通常用来比喻被剥夺：因不服从指挥官而被剥夺勋章；在官方调查期间被剥夺所有特权。
+
+	ANTONYMS: clothed, covered, dressed.
 	
 	
+4.66 Barter
+These words are alike in referring, most specifically, to a bargaining for goods or services that is conducted without the use of money.
+
+这些词语的含义相似，最具体地说，是指不使用金钱进行的商品或服务的讨价还价。
+
+Barter is the most formal and most specific of these. In the most primitive economic system, one gives the product he has made or grown in return for someone else’s product ?with no intermediary devices to assess abstract value. A farmer, in such a system, might barter several sacks of fodder for a pair of boots made by a shoemaker who happens to need feed for his horse. Barter in this strict definition does not involve middlemen; a person barters only for what he needs and intends to use. If the shoemaker, however, didn’t need fodder at the exact moment of his bargain, he might still take the fodder, planning to trade it with someone else for something he could use. In any but the most primitive societies, of course, bartering as such, except among children, is almost unknown, but many kinds of trading may exist. A person may trade merely for sustenance, as with barter, but more commonly in order to sell what he gets for a profit; trading, thus, can be an occupation or livelihood: a record number of shares traded on the Stock Exchange. In senses other than the economic, barter was fewer uses than trade, and would strike most ears as needlessly formal: diplomats who bartered for peace. Trade, more informal, also has a wider range of general application: trading compliments; trading glances in the crowded bar.
+
+以物易物是其中最正式、最具体的一种。在最原始的经济体系中，一个人用自己制造或种植的产品换取别人的产品——没有中介机构来评估抽象价值。在这样的体系中，农民可能会用几袋饲料来换取鞋匠做的一双靴子，而鞋匠正好需要喂马的饲料。严格意义上的以物易物不需要中间人；一个人只以物易物，交换他需要和打算使用的东西。然而，如果鞋匠在交易时并不需要饲料，他可能仍然会拿走饲料，计划与别人换取他用的东西。当然，在最原始的社会之外，除儿童之间外，以物易物这种行为几乎不为人知，但可能存在多种类型的交易。一个人可能仅仅为了维持生计而进行交易，就像以物易物一样，但更常见的是为了卖掉他得到的东西来赚取利润；因此，交易可以成为一种职业或谋生手段：股票交易所交易的股票数量创下了历史新高。除了经济意义之外，易货贸易的用途比贸易少，而且大多数人会觉得它过于正式：外交官用易货换取和平。贸易更为非正式，也有更广泛的一般应用：互相恭维；在拥挤的酒吧里互相交换眼神。
+
+In bartering and trading, a person must exchange one item for another. Exchanges is not limited to the economic sense applying to any reciprocal giving and receiving. In some uses, the things given and received may be equally valued: exchanging partners at a dance. Or the value may not be an important aspect: exchanging gifts at Christmas; exchanging letter. Perhaps more often, exchange implies the divesting of something unsuitable or unsatisfactory for something better: exchanging jobs; exchanging merchandise damaged in delivery.
+
+在易货和交易中，一个人必须用一件物品交换另一件物品。交换并不局限于任何互惠给予和接受的经济意义。在某些用途中，给予和接受的东西可能具有同等价值：在舞会上交换舞伴。或者价值可能不是一个重要方面：在圣诞节交换礼物；交换信件。也许更常见的是，交换意味着放弃不合适或不令人满意的东西，换取更好的东西：交换工作；交换在运输过程中损坏的商品。
+
+Swap, most specifically, is like barter, except for its extreme informality. [The prospector swapped his gold dust for a jug of whisky; I’ll swap my shanghai for your mouth organ.] In some cases it may enter formal speech or writing when descriptive of a specific phenomenon: The sociologist did research on housewives who swapped husbands at Saturday night parties.
+
+交换，最具体地说，就像易货贸易，只是它非常不正式。[勘探者用他的金粉换了一壶威士忌；我用我的上海琴换你的口琴。] 在某些情况下，当描述特定现象时，它可能进入正式的口语或写作：社会学家对在周六晚上聚会上交换丈夫的家庭主妇进行了研究。
+
+
+4.67 Basic
+These words are concerned with concepts of totality and completeness or of necessity. Basic and fundamental suggest first principles that underlie more complex considerations. Fundamental is the more formal of the two and is more natural in a philosophical context when applied to the principles themselves: a fundamental truth. In an educational context, it strongly suggests something that is indispensable or a pre-requisite to more advanced development: reading as a fundamental skill. While fundamental often points to what is ideally necessary, basic may point to what is actually the case. [Lacking the fundamental ability to make distinctions, their basic vocabulary was greatly reduced.] Basic also has a wider range of application: the basic black of women’s evening dress; a basic distrust of strangers. In these cases, the word may suggest not what in necessary but what is accepted or standard.
+
+这些词与整体性、完整性或必要性概念有关。Basic 和 fundamental 表示支撑更复杂考虑的第一原则。Fundamental 是两者中更正式的一个，在应用于原则本身的哲学语境中更自然：基本真理。在教育语境中，它强烈暗示了某些不可或缺的东西或更高级发展的先决条件：阅读是一项基本技能。fundamental 通常指向理想情况下的必要性，而 basic 可能指向实际情况。[由于缺乏基本的区分能力，他们的基本词汇量大大减少。]Basic 的应用范围也更广：女士晚礼服的基本黑色；对陌生人的基本不信任。在这些情况下，这个词可能不是表示必要性，而是表示被接受的或标准的。
+
+Absolute in one sense is used simply as an intensification of basic: an absolute dislike of women. Absolute, however, relates philosophically to ultimate and categorical in another sense. Here, it refers to totality of power. Where fundamental indicates an initial necessity, absolute suggests final and conclusive authority: The child’s fundamental instinct towards co-operation was over-ruled by the absolute value the tribe placed upon competition. Ultimate also suggests the highest or final authority: the ultimate court of appeal. Unlike absolute, it carries an implication of something worked through in time: What our ultimate view of the universe will be no one can say. Unlimited, while suggesting totality, contrasts with ultimate in relating more often to quantity than to time: unlimited profits. It compares to absolute in suggesting less a highest authority than one to which no opposition exists. [The king’s powers were absolute but hardly unlimited, considering the strictures of canon and common law.] Categorical in its philosophical sense refers to something, usually a principle, which is inescapable, undeniable and universal. Like fundamental, it suggests an ideal necessity; like absolute, it suggests finality and totality. [The categorical imperative of Kant was a moral truth that the structure of the universe made inevitable.]
+
+从某种意义上说，绝对只是用来强化基础：绝对不喜欢女性。然而，绝对在哲学上与终极和绝对相关，在另一种意义上。在这里，它指的是权力的总和。基础表示最初的需要，而绝对则表示最终的和决定性的权威：孩子对合作的基本本能被部落对竞争的绝对价值所压倒。终极也表示最高或最终权威：最终上诉法院。与绝对不同，它暗示着某种随着时间的推移而得到解决的东西：没有人能说我们对宇宙的最终看法是什么。无限虽然暗示了整体，但与终极形成对比，因为它更多地与数量有关而不是与时间有关：无限的利润。它与绝对相比，更多地暗示了不存在反对的权威，而不是最高权威。 [考虑到教规和普通法的严格规定，国王的权力是绝对的，但并非无限的。] 绝对命令在哲学意义上指的是某种不可避免、不可否认和普遍的东西，通常是一种原则。与基本原则一样，它表明了一种理想的必然性；与绝对原则一样，它表明了终结性和整体性。[康德的绝对命令是宇宙结构必然导致的道德真理。]
+
+SEE: CENTRE, KERNEL, SPECIFIC.
+	ANTONYMS: circumscribed, MARGINAL, peripheral, PROVISIONAL, tangent, TRIVIAL.
+
+
+4.68 Basis
+These words all refer to something upon which something else rests or depends. Basis differs from base in being more often used in metaphorical senses: The basis of his argument was that the victory was unattainable without seriously jeopardizing domestic programmes. Base, on the other hand, normally refers to physical objects that form the lowest or supporting part of anything: the base of a statue. It can be used metaphorically as well: the base of a theory. In this sense basis and base are practically synonymous; base, however, more often suggests the idea of an underlying foundation, whereas basis is broader in application and may suggest the idea of a central or fundamental part s well as that of an underlying principle. [Axioms are the base of geometry; The basis of his decision; One what basis do you propose to pay me?]
 	
+这些词全都指某物依赖或依靠其他物。Basis 与 base 不同，它更多地用于比喻：他的论点的基础是，如果不严重危及国内计划，就无法取得胜利。而 Base 通常指构成任何物体最低部分或支撑部分的实物：雕像的底座。它也可以用作比喻：理论的基础。从这个意义上讲，basis 和 base 实际上是同义词；然而，base 更多地指的是潜在基础的概念，而 basis 的应用范围更广，可能指的是中心或基本部分以及潜在原则的概念。[公理是几何学的基础；他做出决定的基础；你打算付给我什么基础？]
+
+Foundation can mean the base on which something rests: the foundation of a building. Foundation suggests a more imposing, solid structure than base, which can apply to the bottom part of anything: the base of a lamp; the foundation of an ancient city. Foundation also means that on which anything is founded, and in this sense is close to basis: The foundation of democracy is the will of the people to preserve liberty. It should perhaps be noted that foundation is now used commercially to refer to a variety support, such as facial make-up applied beneath other make-up and certain undergarments that hold in vital parts of the body so that outer-garments do not reveal their actual shape.
+
+Foundation 可以表示支撑某物的基座：建筑物的地基。Foundation 比 base 更显眼、更坚固，base 可以用于任何物体的底部：灯座；古城的地基。Foundation 也表示任何事物建立在其上的东西，在这个意义上与 basis 相近：民主的基础是人民维护自由的意愿。也许应该注意的是，foundation 现在在商业上用来指各种支撑物，例如涂抹在其他化妆品下面的面部化妆品和某些内衣，它们可以固定身体的重要部位，使外衣不会暴露其实际形状。
+
+Ground, as here considered, means a foundation or basis for a decision, argument or relationship. It often used in the plural, it may be construed as singular. [The grounds for his decision was never clearly stated; Absenteeism constitutes grounds for dismissal.] Grounds implies the underpinnings of reason: Leverrier’s mathematical computations were the grounds for his theory that there was a planet beyond Uranus.
+	
+此处所指的“理由”是指决策、论据或关系的基础或依据。它通常以复数形式使用，但也可以理解为单数。[他从未明确说明他做出这一决定的理由；旷工构成解雇的理由。]理由意味着理性的基础：勒维耶的数学计算是他提出天王星之外还有一颗行星的理论的依据。
+
+SEE: CENTRE, KERNEL.
+	ANTONYMS: superstructure, top.
+
+	
+4.69 Beat
+These words refer to physical punishment meted out by means of blows administered primarily by hand or by some instrument held in the hand. Beat is the most general of these end the least specific. It  perhaps most strongly suggests a pummelling with the fists; this may be the result of spur-of-the-moment anger between opponents: ruffians who beat him up after school. But the word can also suggest a more deliberate inflicting of punishment on an inferior by a superior: a psychotic mother who beat her children unmercifully. In these latter cases, some sort of instrument may well be used: beating the dog with a rolled-up newspaper. Thrash is more likely to be restricted to the first situation, expressing spontaneous anger between opponents. Although fisticuffs might be the main element of the attack, the word suggests a general sort of knocking about by any means whatever. Thrash indicates a more thorough or methodical act than beat and often suggests an act motivated by the wish to reprove someone for insolence or misbehavour: threatening to thrash him within an inch of his life unless he took back the insult. This word is also used to describe a thorough defeat at anything: they thrashed the opposition in the chess tournament.
+
+这些词指的是主要用手或手中握着的某种工具殴打而施加的体罚。Beat 是这些词中最普遍但也最不具体的。它可能最强烈地暗示用拳头捶打；这可能是对手之间一时愤怒的结果：放学后殴打他的流氓。但这个词也可以暗示上级对下级更有意的惩罚：一个精神病母亲无情地殴打她的孩子。在后一种情况下，很可能会使用某种工具：用卷起的报纸打狗。Thrash 更可能局限于第一种情况，表达对手之间自发的愤怒。虽然拳击可能是攻击的主要元素，但这个词暗示了一种以任何方式进行的一般性的敲打。 Thrash 表示比 beat 更彻底或更有条理的行为，通常表示出于谴责某人傲慢或不当行为的动机而采取的行为：威胁说如果他不收回侮辱，就会狠狠地揍他一顿。这个词也用来描述任何事情的彻底失败：他们在象棋比赛中击败了对手。
+
+Spank is very much more specific than either beat or thrash in its application. It refers unambiguously to the corrective or salutary punishment meted out by a parent on a child, with no intent to inflict actual harm. The action specifically involves hitting the child’s buttocks with the open hand, often with the child laid face-down across the parent’s knees. [George Bernard Shaw wondered how parents could wait until their anger had cooled in order to spank their children in cold blood.] The remaining words all relate to punishment meted out by means of some instrument, usually one held in the hand.
+
+打屁股的用法比殴打或鞭打要具体得多。它明确地指的是父母对孩子施加的矫正或有益的惩罚，而无意造成实际伤害。具体来说，这种行为是用手掌击打孩子的臀部，通常是让孩子面朝下趴在父母的膝盖上。[萧伯纳想知道父母怎么能等到怒火平息后才冷血地打孩子屁股。] 其余的词都与通过某种工具（通常是拿在手中的工具）施加的惩罚有关。
+
+The following words specifically stress the inflicting of physical injury to a degree that is not a necessary implication of the words discussed so far. Whip suggests the beating of someone usually by means of a flexible cord or series of cords expressly designed for this use, made of leather, metal or rope and attached to a handle: whipping the horse into a quicker pace; ordering that the mutinous soldiers be put in irons and whipped. The word, less specifically, can refer to any act of beating done by means of any sort of instrument, whether flexible or rigid, whether improvised or designed for the occasion: known to whip prisoners in his charge with a razor strop or a metal ruler; claiming that his interrogators had pistol-whipped him. Scourge is often used metaphorically for any calamity or harsh attack; but most concretely, it refers specifically to beating with a many-tongued or many-thonged whip. In this sense, however, it is less often used except in reference to the Biblical account of Christ being scourged.
+
+以下词语特别强调了造成身体伤害的程度，但这种程度并非上述词语的必然含义。鞭子通常指用一根或一系列专门为此设计的柔软绳索殴打某人，这些绳索由皮革、金属或绳索制成，并系在手柄上：用鞭子抽马，使其加快速度；命令将叛变士兵戴上镣铐鞭打。这个词不太具体，可以指用任何类型的工具进行的任何殴打行为，无论是柔性的还是刚性的，无论是临时的还是专门设计的：以用剃刀皮带或金属尺鞭打他负责的囚犯而闻名；声称审讯者用手枪鞭打他。鞭子通常用来比喻任何灾难或严厉的攻击；但最具体地说，它特指用多条舌头或多条皮带的鞭子殴打。然而，在这个意义上，它很少被使用，除非是指圣经中基督被鞭打的记载。
+
+Flog may specifically suggest whipping, especially with a many-tongued lash, but it can also indicate beating with any sort of instrument, flexible or rigid: suspected informers who were flogged with chains before being killed. A historical context unique to this word is the nautical one in which this sort of set punishment was inflicted upon sailors for certain infractions of orders. The word might also apply in this way to military or penal situations: Convicts were mercilessly flogged in Australia’s early days. Flagellate, most strictly, was a religious or psychosexual context. In either case the sheer infliction of pain is emphasized and is carried out by means of whip, lash or other cord-like instrument, often many-tongued, knotted, barbed or nettled, although this may be applied by oneself or by others, especially (as with flog) across the back. Religious zealots engaged in this activity to punish the flesh for its inherent sinfulness, and sado-masochistic neurotics may engage in flagellation for the sexual stimulation it affords them.
+
+Flog 可能特指鞭打，尤其是用多舌鞭子，但也可以指用任何类型的器械，无论是柔性的还是刚性的，进行殴打：被怀疑是告密者的人在被杀之前会被用锁链鞭打。这个词独有的历史背景是航海背景，在航海背景中，这种固定的惩罚是对违反某些命令的水手施加的。这个词也可能以这种方式适用于军事或刑事情况：在早期的澳大利亚，罪犯会遭到无情的鞭打。Flagellate 最严格地说是一种宗教或性心理背景。在这两种情况下，都强调纯粹的痛苦施加，并通过鞭子、皮鞭或其他绳状器械来进行，这些器械通常有许多舌状的、打结的、有倒钩的或荨麻的，尽管这可以由自己或他人施加，尤其是（与鞭打一样）在背部。宗教狂热分子从事这种活动是为了惩罚肉体固有的罪孽，而施虐受虐狂神经质患者可能会从事鞭笞以获得其带来的性刺激。
+
+
+4.70 Beautiful
+These words refer to pleasing facial appearances. Beautiful indicates a strikingly desirable or attractive face, suggesting symmetry of features or perfection of proportion, although ultimately the word is dependent on the subjective taste of the user. Because of this it is extremely unspecific in reference, although it would most often be used of a woman’s face. Good-looking is equally as weak in specificity, but it can be used appropriately of both men and women: a good-looking couple.
+
+这些词指的是令人赏心悦目的面部外观。Beautiful 表示一张令人心动或迷人的脸，暗示五官对称或比例完美，尽管这个词最终取决于使用者的主观品味。正因为如此，它在指称上非常不具体，尽管它最常用于指女性的脸。Good-looking 的具体性同样很弱，但它可以恰当地用于男性和女性：一对相貌出众的夫妇。
+
+Handsome and pretty are complementary terms in that handsome usually applies to men and pretty even more exclusively to women. Pretty, however, indicates a less elevated or more superficial appeal than beautiful: the rare woman who is truly beautiful as opposed to the many who are merely pretty. In this opposition, pretty might suggest vivacity and sweetness, while beautiful might suggest elegance and nobility. Handsome, used of men, is comparable to beautiful, used of women, suggesting regularity of features and a sturdy manliness. Sometimes handsome may be used of women as well, in which case it does not, strangely enough, suggest an epicene mannishness, but a radiant force of almost animal good health and vividness: insisting that Garbo was not merely beautiful, but breathtakingly handsome. Handsome in this sense would be used only of mature women, never of girls. Pretty would never be used of a man, except pejoratively to suggest effeminacy. Beautiful may rarely be used of a man without negative effect; in this case the face is usually regarded in an artistic light or as redolent of some special attribute: a man with beautiful features; a beautiful and expressive face that spoke both of strength and of suffering.
+
+Handsome 和 pretty 是互补词，handsome 通常适用于男性，而 pretty 则更专指女性。然而，pretty 表示的吸引力比 beautiful 更低级或更肤浅：真正美丽的女性很少，而大多数女性仅仅是漂亮而已。在这种对立中，pretty 可能暗示活泼甜美，而 beautiful 可能暗示优雅高贵。用于男性的 Handsome 相当于用于女性的 beautiful，暗示五官端正和刚强的男子气概。有时 beautiful 也用于女性，但奇怪的是，在这种情况下，它并不暗示女性化的男子气概，而是一种近乎动物般的健康和活力的光芒：坚持认为嘉宝不仅仅是漂亮，而且英俊得令人窒息。这种意义上的 Handsome 只用于成熟女性，从不用于女孩。pretty 绝不会用于男性，除非贬义地暗示女性化。beautiful 很少用于男性而不产生负面影响；在这种情况下，脸部通常被视为具有艺术感或具有某些特殊属性：一个具有美丽特征的男人；一张美丽而富有表现力的脸，既诉说着力量，也诉说着痛苦。
+
+Because comely may now sound outdated, it is sometimes used to suggest earthy or rustic good looks in women: the comely milkmaid in a Constable painting. Once its particular emphasis, however, was on freedom from blemish, as in the Song of Solomon: "I am black, but comely.?Cute is an informal word for prettiness in women that suggests general attractiveness and cheerfulness; thus it conveys something a little less than pretty. Cute may also be used by women to describe men who may not be handsome but who are boyish or sweet-tempered. Gorgeous is sometimes used hyperbolically to refer to someone extremely beautiful or handsome; like many hyperboles its extravagance has tended to strip it of meaning.	
+	
+因为“comely”现在听起来可能有些过时，所以有时它被用来形容女性朴实或质朴的美貌：康斯特布尔画作中那位漂亮的挤奶女工。然而，它曾经特别强调的是没有瑕疵，就像《所罗门之歌》中说的：“我皮肤黝黑，但长得漂亮。”“cute”是一个非正式的词，用来形容女性的漂亮，暗示着普遍的吸引力和开朗；因此它传达了一点不那么漂亮的意思。女性也可能会用“cute”来形容那些可能不帅但孩子气或性情温和的男性。“gorgeous”有时被夸张地用来指代非常漂亮或英俊的人；像许多夸张一样，它的夸张往往会剥夺它的意义。
+
+SEE: CHARMING, PLEASING.
+	ANTONYMS: UGLY, uncomely.
+
+
+4.71 Begin
+These words refer to the earliest period in a thing’s existence. Begin, the broadest term of this group, means to take the first step or do the first act or part of something: to begin a course of study leading to a doctorate; to begin to understand one’s past mistakes. In many contexts start is interchangeable with begin: The engine started (or began) smoking. But start places more emphasis on the fact of making a beginning, the mere act of setting out, whereas begin often suggests the start of a process in fulfillment of a purpose. The relationship between start and begin is not unlike that between speed and velocity; the second word in both sets implies direction. [He was beginning to think of himself as an old man; She started (or began) skiing last winter; The train started with a lurch.]
+
+这些词指事物存在的最早时期。begin 是这组词中最宽泛的术语，意为迈出第一步或做某事的第一步或第一部分：开始攻读博士学位的课程；开始认识到自己过去的错误。在很多情况下，start 可以与 begin 互换：发动机启动了（或开始）冒烟。但 start 更强调开始的事实，即出发这一单纯的行为，而 begin 通常暗示为实现某种目的而开始一个过程。start 和 begin 之间的关系类似于速度和速率之间的关系；这两个组中的第二个词都表示方向。[他开始认为自己是个老人了；她去年冬天开始（或开始）滑雪；火车突然开动了。]
+
+Commence is a more formal word for begin. There are practically no contexts in which begin will not serve very well in place of commence, but commence, and sometimes institute, is preferred in some context, especially legal, where begin is felt to be insufficiently formal, too much an everyday word, to dignify the proceedings. Thus legal action is instituted, rarely begun, and judicial sessions commence, seldom begin.Commence is sometimes used vulgarly or humorously in other than solemn contexts: We commenced to drink our beer. Institute in other senses means to begin with a view towards setting up or putting into operation: to institute needed reforms in the ministry. Institute suggests a great deal of enterprise, and frequently foresight as well: to institute new management methods that saved millions of dollars.
+
+Commence 是 begin 的更正式的词。在几乎所有情况下，begin 都不能很好地代替 begin，但在某些情况下，尤其是法律情况下，更倾向于使用 begin，有时也使用 institute，因为 begin 被认为不够正式，太过日常用语，不足以使诉讼程序显得庄重。因此，法律诉讼很少是 initiated，而司法会议很少是 begin。除了庄严的语境外，Commence 有时也被粗俗或幽默地使用：我们开始喝啤酒。Institute 的其他含义是指开始着眼于建立或实施：在部委中制定必要的改革。Institute 暗示着大量的进取心，也常常暗示着远见：制定新的管理方法，节省数百万美元。
+	
+Initiate is close to institute in pointing to the motivating force or creator that starts something, but does not, like institute, convey theidea of carrying through what one has started to the point of seeing it in operation: to initiate legislation; He initiated the reforms, but the government agency instituted them.
+
+发起与制度（institute）接近，都是指启动某件事的动机或创造者，但并不像制度那样表达将一个人已开始的事情贯彻到看到其运作的意思：发起立法；他发起了改革，但制定这些改革的是政府机构。
+
+Inaugurate means to begin formally or officially. Thus to inaugurate a new policy or legislation suggests some ceremony or traditional observance to commemorate it. [Once a president is inaugurated, he begins his term of office; The ball was inaugurated by the introduction to society of several young debutantes.] The word is also used for begin in historical contexts implying great scope or import: The Industrial Revolution inaugurated a new era.
+
+就职意味着正式开始。因此，就职一项新政策或新立法意味着要举行某种仪式或传统仪式来纪念它。[总统就职后，他的任期就开始了；舞会由几位初入社交界的年轻人介绍而开始。]这个词也用于表示开始的历史语境中，表示范围或意义重大：工业革命开创了一个新时代。
+
+Launch is a related word, but means to begin not so much with ceremony as with fanfare and publicity. [The Treasury is launching a new government loan; The advertising agency will launch a campaign to introduce a new soap.] This sense doubtless derives from the fanfare attached to the launching of large sea-going vessels.
+
+Launch 是一个相关词，但它的意思不是以仪式开始，而是以大张旗鼓和宣传开始。[财政部正在发行一笔新的政府贷款；广告公司将发起一场推广新肥皂的活动。] 这个意思无疑源于大型远洋船只下水时的喧嚣。	
+
+SEE: CREATE, ORIGIN.
+	ANTONYMS: FINISH, STOP.
+	
+	
+4.72 Beginner
+These words refer to someone who has not yet acquired the skills and experience that are required to qualify him in a given field. Beginner is the most informal of these words and is the least negative intone, suggesting someone who has already started to acquire the necessary abilities but has not worked long enough to master them; the word may imply a young person, but this is not necessarily so: a ballet class for adult beginners; piano lessons for children and beginners. Apprentice most concretely refers to a young person taken on by a master to be taught the skills of a trade: the apprentice who becomes a qualified tradesman. In broader uses, the word refers to any beginner, often with an emphasis on his low or menial position or lack of polish: a writer whose first book reveals him to be an apprentice rather than a mature artist.
+
+这些词指的是尚未获得某一领域所需技能和经验的人。Beginner 是这些词中最不正式的，也是否定语调最不严重的，指的是已经开始获得必要能力，但是还没有努力足够长的时间来掌握它们的人；这个词可能暗指年轻人，但不一定如此：针对成人初学者的芭蕾舞班；针对儿童和初学者的钢琴课。Apprentice 最具体是指被师傅收下学习一门手艺的年轻人：成为合格工匠的学徒。在更广泛的用法中，这个词指的是任何初学者，通常强调他的地位低下或卑微，或者缺乏磨练：如果一位作家的第一本书表明他还是位学徒，而不是成熟的艺术家。
+
+Both novice and neophyte, but especially the former, may refer to a newly introduced member of a religious order. In broader contexts, both are less factual and more uncomplimentary. Novice in this case may suggest clumsiness due to lack of training or even to an amateurish lack of discipline or application: light meters made so that even the rankest novice can use them; a novice whose canvases show the lowest possible standards and the worst set of influences. Neophyte may be used somewhat less negatively than novice, especially since it implies an eagerness to learn and a humble respect for an seeking out of knowledgeable authority: the neophytes who clustered around the established poet in hopes of catching some pearl of wisdom he seemed always on the verge of dropping.
+
+novice 和 neophyte 都可能指宗教团体中新加入的成员，特别是前者。在更广泛的语境中，两者都不太符合事实，而且更不恭维。在这种情况下，novice 可能暗示由于缺乏训练或甚至由于业余缺乏纪律或应用而导致的笨拙：光度计的制作方式是即使是最差的新手也可以使用；新手的画布显示出最低的标准和最糟糕的影响。Neophyte 的用法可能比 novice 稍微不那么贬义，特别是因为它意味着渴望学习和对寻求知识权威的谦卑尊重：新手们聚集在成名诗人身边，希望抓住他似乎总是即将掉落的智慧珍珠。
+
+Tyro (also tiro) is perhaps the most negative of these words in that it refers to an inexperienced and amateurish approach to a complicated field, suggesting a raw or young recruit who has yet to begin the task of mastering his craft: the tyro who has taken one or two survey courses in literature and proceeds to write critical reviews for his school paper.
+
+Tyro (也作 tiro) 可能是这些词中最负面的，因为它指的是对复杂领域采取的缺乏经验和业余的态度，指尚未开始掌握其技艺的新手或年轻人：新手已经修过一两门文学概论课程，并​​开始为校报撰写评论。
+
+SEE: AMATEUR.
+	 ANTONYMS: connoisseur, expert, old hand, old-timer, veteran, virtuoso.
+
+
+4.73 Beginning
+These words are used to refer to things that are in the initial or early stage of existence or to things that are unformed, undeveloped or elementary in character. Beginning, the most general of the five, can mean either first or early. The beginning chapter of a book is its first chapter; the beginning section of the same book would embrace the first chapter but would also include several of the other early chapters. In another sense, beginning describes something that deals with elementary principles, skills or routines: The beginning course in physics will not be offered this term.
+
+这些词用于指处于存在初始或早期阶段的事物，或指未成形、未发展或基本性质的事物。Beginning 是五个词中最常用的，可以表示第一或早期。一本书的开头章节是其第一章；同一本书的开头部分将包括第一章，但也包括其他几个早期章节。从另一个意义上讲，beginning 描述的是涉及基本原理、技能或惯例的事物：本学期将不提供物理学入门课程。
+
+Incipient shares with beginning the meaning of just coming into existence: The incipient stage of a urinary infection is often marked by high fever. Inchoate, like beginning and incipient, can describe a condition or activity that has just recently come into existence or operation. It more often suggests the absence of order, form or coherence: an inchoate plan, badly organized and full of contradictions. One of the general meanings of inchoate, that referring to a lack of completion or perfection, is part of the specialized terminology of the legal profession. An inchoate contract is one that has not been executed by all the parties involved.
+
+Incipient 与 beginning 具有相同的含义，即刚刚开始：尿路感染的早期阶段通常以高烧为特征。Inchoate 与 beginning 和 incipient 一样，可以描述刚刚出现或运行的状态或活动。它更常表示缺乏秩序、形式或连贯性：一个不完整的计划，组织混乱，充满矛盾。inchoate 的一般含义之一是指不完整或不完美，是法律专业术语的一部分。不完整的合同是指尚未由所有相关方执行的合同。
+
+Rudimentary, which means fundamental or elementary, is often used to express a limitation: He had only a rudimentary knowledge of chemistry. It also can characterize something as primitive, undeveloped or imperfectly developed. [Their dwelling place was rudimentary in nature, rather more like a hut than a house; A pair of rudimentary hind legs are part of the skeleton of the boa constrictor.]
+
+Rudimentary 的意思是基础的或初级的，通常用来表达一种局限性：他对化学只有基本的了解。它也可以描述某事物是原始的、未开发的或不完善的。[他们的住所本质上是简陋的，更像小屋而不是房子；一对未开发的后腿是蟒蛇骨骼的一部分。]
+
+Primeval refers to the earliest ages of the world, particularly to that time before the appearance of man on earth: the primeval forests of Europe. It is applied by extension to tings that are very old and have
+existed since time immemorial: primeval rocks.
+
+太古是指世界最早的时代，特别是人类出现之前的时代：欧洲的原始森林。它被引申为非常古老且自远古时代就存在的事物：原始岩石。
+
+SEE: BEGIN.
+	ANYONYMS: closing, developed, ending, late, MATURE.
+	
+	
+4.74 Behaviour
+These words refer to the characteristic ways that people reveal themselves in their actions. Behaviour is the most general of these; at its most technical, it refers to all activity of people, singly or collectively, that might be studied by psychologists, sociologists or anthropologists: paranoid behaviour; peer-group behaviour in preschool children; mating behaviour in New Guinea. In everyday use, the word more frequently refers to positive or negative social activity: promising to be on my best behaviour; such incredibly rude behaviour. Conduct can also refer to individual or group activity, but in a less technical sense than behaviour; it also may be categorized positively or negatively. It does suggest a narrower range of activity than behaviour, implying the breaking or following of prescribed rules: a bad-conduct discharge from the army; a prison sentence commuted for good conduct. The word is distinct from these other words because it may suggest an ethical or moral basis for measuring behaviour: conduct befitting an honest man.
+
+这些词指的是人们在行为中展现自我的典型方式。行为是这些词中最笼统的；从最专业的角度来说，它指的是人们的所有活动，无论是单独还是集体，可供心理学家、社会学家或人类学家研究：偏执行为；学龄前儿童的同龄群体行为；新几内亚的交配行为。在日常使用中，这个词更多指的是积极或消极的社交活动：承诺表现最好；这种极其粗鲁的行为。行为也可以指个人或群体活动，但不如行为那么专业；它也可以分为积极或消极两类。它所表示的活动范围比行为要窄，意味着违反或遵守规定的规则：因行为不端被军队开除；因行为良好而减刑。这个词与其他词不同，因为它可能表示衡量行为的伦理或道德基础：适合诚实人的行为。
+
+Manners refers not so much to adherence to ethical standards as to the arbitrary forms by which a social group has traditionally acted. Here a positive or negative evaluation may depend on subjective taste as much as anything else: the vulgar manners of the nouveau riche; the easy, natural manners that were second nature to her. The word most often refers to individuals, but can sometimes apply collectively to a whole social group: the affected manners of our debased age.
+
+礼仪不仅仅指遵守道德标准，还指社会群体传统行为的任意形式。在这里，正面或负面的评价可能取决于主观品味，而不是其他任何东西：暴发户的粗俗举止；对她来说轻松自然的举止是第二天性。这个词通常指个人，但有时也可以集体适用于整个社会群体：我们这个堕落时代的矫揉造作的举止。
+
+Deportment is a more formal synonym for conduct, but the set of rules that measure deportment may be arbitrary choices to facilitate a goal or may be superimposed from above, instigated especially to instil a respect for authority. It refers also to manner of bearing, carriage and address as well as to general conduct. A common use is to describe the behaviour of pupils in school: sending home remarks critical of his uncooperative deportment; measures to improve the deportment of her class. Demeanour is distinct from all these words in that it almost exclusively refers to the way a particular person acts at a particular time, and suggests an assessment of the person’s dress, bearing, attitude and expression: a habitually quiet man who had never shown such an agitated demeanour: a supervisor known for her invariably soft-spoken and relaxed demeanour.
+
+举止是品行更正式的同义词，但衡量举止的一套规则可能是为实现目标而任意选择，也可能是上级强加的，特别是为了培养对权威的尊重。它也指举止、姿态和称谓的方式以及一般行为。一种常见的用法是描述学生在校的行为：发送批评其不合作举止的评论回家；采取措施改善班级的举止。举止与所有这些词的不同之处在于，它几乎只指某个人在特定时间的行为方式，并表明对该人的着装、举止、态度和表情的评价：一个习惯性安静的男人从未表现出如此激动的举止：一个以说话轻声细语和举止放松而闻名的主管。
+
+SEE: ACT.
+
+
+4.75 Beleaguer
+These words mean to harass or torment, another person so persistently as to disturb his peace of mind or undermine his self-confidence. Beleaguer, from its literal meaning of surrounding and shutting in an enemy force with one’s own army, carries the implication of a hemming in on all sides by a multitude, so that escape is virtually impossible: a landlord beleaguered by complaining tenants; a man beleaguered by worries; a countryside beleaguered by a plague of locusts.
+
+这些词的意思是不断骚扰或折磨他人，以扰乱其内心的平静或破坏其自信。Beleaguer 的字面意思是用自己的军队包围和关押敌军，它隐含着四面受敌，几乎无法逃脱的意思：地主被抱怨的佃户包围；一个人被忧虑所困扰；乡村被蝗灾所困扰。
+
+Hound strongly suggests the relentless and unflagging pursuit of a hunting dog on the scent: an escaped criminal hounded from city to city by police. By extension, hound also implies repeated urging, especially to the point where the victim can do little except submit: to be hounded by bill collectors; a teacher hounded from his job because of his political views.
+
+Hound 强烈暗示着猎犬对气味的不懈追捕：逃犯被警方从一个城市追到另一个城市。从广义上讲，hound 也暗示着反复的催促，尤其是到了受害者除了屈服别无选择：被收账员追捕；因政治观点而被解雇的老师。
+
+The literal meaning of bait is to set dogs for sport on a chained or penned animal, especially a bear or a bull. Figuratively, bait implies malicious pleasure in tormenting another by teasing and ridicule, especially when retaliation is difficult: baited by the other boys at school for his poor showing in sports; to bait an old man whose ideas are not in agreement with yours. Bait may also mean to tease or twit in a more or less amiable way: He baited his wife for spending so much time talking on the telephone.
+
+bait 的字面意思是用狗来捉弄拴在链子上或关在围栏里的动物，尤其是熊或公牛。bait 的形象意思是通过戏弄和嘲笑来折磨他人，从而获得恶意的快感，尤其是在难以报复的情况下：在学校里，因为运动成绩差而被其他男孩取笑；因为意见与你不一致而被取笑。bait 也可能意味着以或多或少和蔼可亲的方式取笑或嘲弄：他取笑妻子，因为她花了很多时间打电话。
+
+Ride, which is chiefly colloquial, evokes the action of urging a mount on to greater speed by the use of spurs or a whip. Therefore, ride may imply driving or goading someone to reach a goal (not necessarily an undesirable one), but often suggests mischievous or malicious intent. [Parents complain that the fifth-grade teacher rides her brighter pupils too hard; The boys at the office are always riding me because my wife calls me at five o’clock sharp every day to make sure I’m coming straight home.]
+
+Ride 主要用于口语，指用马刺或鞭子催促坐骑加速的行为。因此，ride 可能暗示驱使或怂恿某人达到某个目标（不一定是不良目标），但通常暗示恶作剧或恶意。[家长抱怨五年级老师对聪明的学生太严厉；办公室里的男孩们总是欺负我，因为我妻子每天五点整打电话告诉我是否直接回家。]
+
+Heckle emphasizes the harassing of a speaker in public by means of taunts, questions, and other interruptions in order to confuse or intimidate him or to ferret out the weaknesses in his argument: to heckle a candidate for political office; to heckle the leader of an anti-war demonstration.
+
+诘问强调在公共场合通过嘲讽、提问和其他打断的方式骚扰演讲者，目的是使他感到困惑或恐吓他，或者找出他论点中的弱点：诘问政治职位候选人；诘问反战示威活动的领导者。
+
+Hector strongly suggests bullying and browbeating by scolding or derision: an authoritarian father who hectors his children instead of trying to understand them; a warder who keeps order by hectoring his prisoners.
+
+赫克托尔强烈暗示着通过责骂或嘲笑进行欺凌和威胁：一个专制的父亲，他威吓他的孩子而不是试图去理解他们；一个狱卒，通过威吓囚犯来维持秩序。
+
+SEE: INTIMIDATE.
+	ANTONYMS: ENCOURAGE.
+	
+
+4.76 Believable
+These words all mean capable of being believed or worthy of being accepted as real, true or trustworthy. Believable is the most general term and describes anything that is possible, probable or acceptable either because it is in accordance with one’s everyday experience and observation or because it is not directly contrary to fact. [He gave us a frightening, but believable, account of his childhood in the slums; The boy’s tale of meeting a pirate on the deserted beach is simply not believable.]
+
+这些词都表示能够被相信或值得被接受为真实、正确或值得信赖。可信是最通用的术语，描述任何可能、大概或可接受的事物，因为它符合人们的日常经验和观察，或者因为它不直接与事实相反。[他给我们讲述了一个令人恐惧但可信的童年贫民窟故事；那个男孩在荒凉的海滩上遇到海盗的故事简直令人难以置信。]
+
+Credible is sometimes used interchangeably with believable: a believable excuse for his lateness; a credible explanation for having failed to finish his work. However, credible goes a step beyond believable in that something that is credible merits belief and is supported by known facts: a credible account of the causes of World War II. Credible is now rarely used of persons except in the expression credible witness ?that is, a witness who is reliable and trustworthy in giving accurate testimony.
+
+可信有时与可信交替使用：他迟到的可信借口；未能完成工作的可信解释。然而，可信比可信更进一步，可信的东西值得相信，并有已知事实的支持：对第二次世界大战原因的可信描述。可信现在很少用于人，除了可信证人这个表达——即可靠和值得信赖的证人，能够提供准确的证词。
+
+Something that is convincing is believable because it overcomes any doubt, uncertainty, or hesitancy in accepting it. A convincing argument compels one’s belief in its soundness because it satisfies the sense of logic or fitness.
+
+令人信服的论据之所以可信，是因为它能克服人们接受它时产生的任何怀疑、不确定性或犹豫。令人信服的论据迫使人们相信它的合理性，因为它满足逻辑或适用性。
+
+The earlier meaning of plausible adhered closely to its etymology, "worthy of applause" ?that is, commendable or capable of winning favourable acceptance by the mind. It now carries a strong implication of deception and speciousness. A plausible statement will very likely be one that appears to be convincing or believable on the surface, but which, upon closer examination, is not so.
+
+plausible 的早期含义与其词源“值得称赞”密切相关，即值得称赞或能够赢得思想的青睐。现在它带有强烈的欺骗和似是而非的含义。plausible 的说法很可能表面上看起来令人信服或可信，但仔细检查后却发现并非如此。
+
+SEE: ACCURATE, GENUINE, TRUTHFUL.
+	ANTONYMS: DOUBTFUL, implausible, incredible, suspect, unbelievable.
+
+
+4.77 Belittle
+These words refer to criticism designed to diminish the worth of something. Belittle is the most general and informal of these; it may suggest a deliberately fault-finding attitude: belittle every practical suggestion she came up with. It may imply an attitude that simply cannot tolerate excellence or effort in others: belittling those who had continued to work on the project after he had given up. It may also suggest a cumulatively telling process of slight or trivial attempts to undermine another’s position: constantly belittling everything he believed in.
+	
+这些词指的是旨在贬低某事物价值的批评。贬低是这些词中最普遍和最不正式的；它可能暗示一种故意挑剔的态度：贬低她提出的每一个切实可行的建议。它可能暗示一种根本不能容忍他人优秀或努力的态度：贬低那些在他放弃后继续从事该项目的人。它也可能暗示一种累积的过程，即通过轻微或琐碎的企图来破坏他人的地位：不断贬低他所相信的一切。
+
+Minimize is a more formal substitute for belittle: it refers specifically to the attempt to set a lower value on something than it commonly carries or deserves: minimizing the worth of civil defence measures previously in force. In contrast to belittle, any not of spiteful censoriousness may be absent from this word, which by its formality may emphasize, instead, a judicious or reasoned reassessment: minimizing the effect of Augustine on later medieval thought. The sense of animus, by contrast, is definitely present in detract, even to a greater degree than in belittle. Where belittle, furthermore, may suggest a sniping at trivial failings, detract suggests an attempt at a more drastic lowering of esteem: a fiercely argued view that sought to detract from the usefulness of the earlier study.
+
+Minimize 是 belittle 的更正式替代词：它特指试图将某事物的价值设定得比其通常具有或应得的价值更低：将先前实施的民防措施的价值降至最低。与 belittle 相反，这个词可能没有任何恶意的批评，而是通过其正式性来强调明智或理性的重新评估：将奥古斯丁对后期中世纪思想的影响降至最低。相比之下，detract 中肯定存在敌意，甚至比 belittle 中更甚。此外，belittle 可能暗示对琐碎缺点的嘲讽，而 detract 则暗示试图更彻底地降低尊重：一种激烈争论的观点，试图贬低早期研究的实用性。
+
+Disparage and deprecate contrast with the foregoing words by suggesting a general effort to make something seem without worth or value. Disparage suggests the animus of detract, but may imply a seizing caustically disparaging each new production as further proof of the playwright’s worthlessness, while deprecate may sometimes suggest only an attempt to devalue rather than to reject something utterly, its effect is strengthened by the amused, scornful, or sarcastic consideration it implies: deprecating the notion of a take-over with a weary laugh. Depreciate is mainly used intransitively, meaning to fall in value, but some purists assert that depreciate and not deprecate should be used in the sense of lowering or underestimating the worth of: the tendency of people who are not talented to depreciate those who are. Many excellent writers, however, use deprecate in this sense, and it can only be considered a well-established usage today.
+
+Disparage 和 deprecate 与前面的词语形成对比，都暗示着一种普遍的努力，使某事物看起来毫无价值。Disparage 暗示着贬低的敌意，但可能意味着对每部新作品进行尖刻的贬低，以进一步证明剧作家的无用；而 deprecate 有时可能只暗示试图贬低某事物，而不是完全拒绝某事物，它的效果因其暗示的有趣、轻蔑或讽刺的考虑而得到加强：用疲倦的笑声贬低接管的概念。Depreciate 主要用于不及物动词，意思是贬低价值，但一些纯粹主义者认为 depreciate 而不是 deprecate 应该用来表示降低或低估价值：没有天​​赋的人倾向于贬低有天赋的人。然而，许多优秀的作家都以这种意义使用 deprecate，而且它只能被认为是当今一种成熟的用法。
+
+Discredit is the most severe of these words, exclusively suggesting criticism deigned to demolish a position or accomplishment utterly, often by unfair means: attempting to discredit his opponent by glancing and suggestive references to his personal life.
+
+诋毁是这些词语中最严重的一个，专指旨在彻底摧毁某个立场或成就的批评，通常采用不公平的手段：试图通过瞥一眼或暗示性地提及对手的个人生活来诋毁对手。
+
+SEE: DISAPPROVAL.
+	ANTONYMS: credit, ENCOURAGE, enhance, exagerate.
+	
+	
+4.78 Bend
+These verbs are applied to bodily movements and denote a change from a straight, natural, or fixed position. Bend implies a folding movement of the head or body or an angular movement at a joint: to bend from the waist; to bend the elbow. Lean refers to a sloping movement away from an erect position. It implies a slant in a certain direction or a propping against a support. The leaning body or part, itself, is straight or only slightly curved, though at an angle. [Lean back and relax; Lean your head on my shoulder; He leaned against the wall.] When bend and lean are close in meaning, bend suggests a more marked downward movement and implies greater effort, force or concentration. [The clerk leaned over the counter; the student bent over his books.]	
+
+这些动词用于身体动作，表示从平直、自然或固定姿势改变。弯曲意味着头部或身体的弯曲运动，或关节的成角度运动：从腰部弯曲；弯曲肘部。倾斜是指从直立姿势倾斜的动作。它意味着向某个方向倾斜或靠在支撑物上。倾斜的身体或部分本身是直的，或者只是稍微弯曲，尽管有角度。[向后靠，放松；把头靠在我肩上；他靠在墙上。]当弯曲和倾斜的意思相近时，弯曲暗示更明显的向下运动，意味着更大的努力、力量或注意力。[店员靠在柜台上；学生弯腰看书。]
+
+To bow is to bend the head or upper body forwards and down: to bend over backwards; to lean sideways; to bow before the king. Bowing is a formal action, done for a symbolic rather than a practical purpose.] Bend down and pick it up; Bow down and worship.] One may bow to show reverence, respect, humility or submission: to bow before an altar; to bow the head and bend the knee in prayer. Or one may bow as a matter of custom, formal courtesy or protocol: to bow to one’s audience after performing; a bowing headwaiter; bowing diplomats. In bending over, leaning down or bowing from the waist, one lowers the body by bending the back.
+
+鞠躬是将头或上身向前向下弯曲：向后弯腰；向侧面倾斜；在国王面前鞠躬。鞠躬是一种正式动作，具有象征意义而非实际目的。] 弯腰捡起；鞠躬崇拜。] 鞠躬可以表示敬畏、尊重、谦卑或顺从：在祭坛前鞠躬；祈祷时低头屈膝。或者，鞠躬可以作为一种习俗、正式礼节或礼节：表演后向观众鞠躬；鞠躬的领班；向外交官鞠躬。在弯腰、俯身或鞠躬时，人们通过弯曲背部来放低身体。
+
+To stoop is to lower the body by bending the knees: He stooped down to talk to the child on the child’s own level. Posture experts prefer stooping to bending because, in stooping, the head and torso remain upright and no strain is put on the back. In another sense, however, stoop indicates poor posture, describing a habitual forward inclination of the head and shoulders: stooped shoulders.
+
+弯腰是通过弯曲膝盖来降低身体：他弯下腰，与孩子在同一水平上交谈。姿势专家更喜欢弯腰而不是弯腰，因为弯腰时，头部和躯干保持直立，背部不会承受任何压力。然而，从另一个意义上讲，弯腰表示姿势不正确，描述的是头部和肩膀习惯性地向前倾斜：弯腰。
+
+Turn means to move or swing part way round. It implies rotation of the head or body and refers to a change in direction. [Turn to the left; He turned his head to look behind him; She turned to face me; Turn over; Turn round; They turned the patient on his side.] In a special sense, turn may describe a sudden inward collapse or outward wrenching of the ankle that results in a strain or sprain: She stumbled at the kerb and turned her ankle. Twist indicates a strained, contorted, or violent turning of part of the body. It suggests the muscular tension set up when one part of the body changes position while the rest remains in place. [She twisted round in her seat, craning backwards; He twisted my arm.] Twisting may also involve a sinuous bending or winding: to twist one’s legs round a chair. Or it may suggest a constant, restless turning or squirming: He twisted and turned all night.
+
+Turn 的意思是移动或摆动身体的一部分。它意味着头部或身体的旋转，指方向的改变。[转向左边；他转过头看后方；她转过身来面对我；翻身；转过身；他们把病人翻到一边。] 在特殊意义上，turn 可以描述脚踝突然向内塌陷或向外扭动，导致拉伤或扭伤：她在路边绊倒，扭伤了脚踝。Twist 表示身体某部分拉伤、扭曲或剧烈转动。它表明当身体某一部分改变位置而其他部分保持原位时产生的肌肉紧张。[她在座位上扭动身体，向后伸长脖子；他扭动我的胳膊。] Twisting 也可能涉及蜿蜒的弯曲或缠绕：把腿扭在椅子上。或者它可能暗示持续、不安的转动或蠕动：他整晚都在扭动。
+
+All these words may be used in figurative senses. Bend stresses force or flexibility, the power to subdue or the facility to yield, adapt or change: stern and unbending. [The bent to his wishes; He bent (or bowed) them to his will. Bow may imply a submissive yielding suggestive of a broken or servile spirit: bowed down by heavy sorrows; bloody but unbowed; to bow and scrape. Stoop emphasizes the idea of lowering oneself by doing something that one deems degrading: I would not stoop to such methods. Lean stresses the idea of inclination, a sympathy of views that draws one in a certain direction: a moderate who leans toward conservatism. Turn calls to mind a whirling rotation. It may be used of something that makes a person giddy or that causes him to lose his sense of proportion: Compliments turned her head. Twist implies a violent turning out of the natural course and may connote distortion or deformity: to twist someone’s words; a twisted mind.
+
+所有这些词都可以用来做比喻。Bend 强调力量或灵活性、征服的力量或屈服、适应或改变的能力：严厉而不屈从。[屈服于他的意愿；他使它们屈服于他的意志。Bow 可能暗示顺从的屈服，暗示着破碎或奴性的精神：被沉重的悲伤压倒；满身血迹但不屈服；鞠躬和刮擦。Stoop 强调通过做一些自己认为有辱人格的事情来降低自己：我不会屈尊使用这种方法。Lean 强调倾向的概念，对观点的同情将人引向某个方向：倾向于保守主义的温和派。Turn 让人想起旋转。它可能用于使人头晕或使人失去分寸感的事物：赞美使她转过头来。 Twist 暗示着自然进程的剧烈转变，可能暗指扭曲或畸形：扭曲某人的话；扭曲的心智。
+
+SEE: ROTATE.
+	ANTONYMS: rise, straighten.
+
+
+
+4.79 Beneficial
+These words describe conditions that are positive in their effect on health or financial well-being. Beneficial is general and relatively formal. While it can refer to financial well-being, it more naturally applies to things conductive to mental or physical health: government programmes beneficial to the poor; a sunny day’s beneficial influence on my darkest moods; milk and vegetables beneficial to a growing child. In one sense, it suggests something that is an added help, but is not strictly necessary: a friendship beneficial to both of them. Good is, of course, the most general word here and the least formal; it has a multitude of uses in pointing to what promotes financial or physical strength: a good climate; good circulation; a good business proposal; a good stock. Its very generality invites the substitution of a more precise synonym.
+
+这些词描述的是对健康或财务状况有积极影响的条件。有益是笼统且相对正式的。虽然它可以指财务状况，但更自然地适用于有益于精神或身体健康的事物：有利于穷人的政府计划；阳光明媚的日子对我最阴郁的情绪的有益影响；牛奶和蔬菜有益于成长中的孩子。从某种意义上说，它暗示某种额外的帮助，但并非绝对必要：对他们俩都有利的友谊。当然，好是这里最笼统、最不正式的词；它有多种用途，可以指促进财务或身体健康的因素：良好的气候；良好的流通；好的商业计划；好的股票。它的笼统性要求我们用更精确的同义词来代替。
+
+Advantageous and profitable are words which carry overtones of financial well-being. Advantageous can, of course, refer to anything chosen for its desirability or to improve one’s situation: a more advantageous view of the sunset; resorts advantageous to the husband-hunting secretary. More often, an actual monetary gain is present or implied: an advantageous position in his firm. Profitable is even clearer on this score: a profitable business in a profitable location; Good looks are a more profitable commodity in Hollywood than talent and hard work. In Victorian times, profitable was often used for something beneficial to the development of character: a profitable book to read for spiritual guidance. This use is less frequent today.
+
+Advantageous 和 profits 这两个词都带有经济富裕的含义。Advantageous 当然可以指任何因其可取性或改善个人处境而选择的事物：更有利的日落景色；对找丈夫的秘书有利的度假胜地。更常见的是，实际的金钱收益是存在或暗示的：在公司中处于有利地位。Profitable 在这一点上更加明确：在有利可图的地点做有利可图的生意；在好莱坞，美貌比才华和勤奋更有利可图。在维多利亚时代，profitable 经常用于指有益于性格发展的事物：一本有益的精神指导读物。这种用法在今天不太常见。
+
+The rest of these words relate more specifically to the promoting of health. Healthful is now fairly restricted in its use. When it is employed it refers to what will give good health or what is conducive to it: the healthful properties of certain foods. On most occasions the term healthy is used, and one has to determine from context whether it means the state of possessing health (see under HEALTHY) or what will give health. Thus the ailing person is concerned with healthy climates and healthy foods, while both he and the healthy person appreciate healthy exercise and healthy activities. Wholesome suggests less the promoting of well-being than the inherently good or healthy situation in and for itself. It also carries a tone of moral uplift and is as often used of mental as of physical health: a wholesome film for the whole family; wholesome food; wholesome good looks. Its overtones become clear when on considers that some healthy activities might decidedly not be considered wholesome in many situations.
+
+其余词语更具体与促进健康有关。Healthful 的使用现在受到严格限制。使用时，它指的是什么会给人带来健康或什么有助于健康：某些食物的健康特性。大多数情况下都会使用 healthy 一词，人们必须根据上下文确定它是指拥有健康的状态（参见 HEALTHY）还是什么会给人带来健康。因此，生病的人关心健康的气候和健康的食物，而他和健康的人都欣赏健康的锻炼和健康的活动。Wholesome 更多地是指内在良好或健康的状况，而不是促进幸福。它还带有道德提升的色彩，经常用于精神和身体健康：适合全家人观看的健康电影；健康的食物；健康的外表。当人们考虑到某些健康活动在许多情况下可能绝对不被认为是健康的时，它的内涵就变得清晰了。
+
+Salutary suggests the correcting of a physical or mental lack: a salutary diet for anemia; sea breezes salutary to insomniacs; an editorial salutary in its fierce honesty and forthright proposals. Salubrious is comparable to but more intense than salutary, suggesting a positive physical or mental enrichment, without suggesting any previous impoverishment. It also describes any invigorating or stimulating experience: the salubrious mineral waters of the spa; the salubrious effects of a long ocean voyage; a salubrious shock to the complacent middle-classes.
+
+Salutary 暗示着纠正身体或精神上的缺陷：有益的饮食可以治疗贫血；海风对失眠症患者有益；社论的诚实和直率建议非常有益。Salubrious 与 salutary 类似，但比 salutary 更强烈，暗示着积极的身体或精神充实，而不暗示任何先前的贫乏。它还描述了任何令人精神振奋或振奋的体验：温泉中有益健康的矿泉水；长途航海的有益效果；对自满的中产阶级的有益冲击。
+
+
+SEE: FAVOURABLE.
+	ANTONYMS: bad, detrimental, disadvantageous, harmful, injurious, insalubrious, ruinous, unhealthful, unhelpful, unprofitable, unwholesome.
+
+
+4.80 Benefit
+These words refer to some desirable good that can be given, acquired or earned. Benefit is the most general of these, referring to any kind of good, however, acquired, material or otherwise: lessons designed to be of benefit to growing minds; the benefits accorded to one of his lofty position. Advantage is narrower in scope than benefit, since it can suggest more strictly either material benefits or things won in competition against an opponent: all the advantages of suburban living; a naturally fortified hill that would give them the advantage over the enemy. The word, or course, can function more abstractly and without any implication of depriving someone else of the same benefit: all equally free to take advantages of our tradition of free speech and respect for dissent. Favour may suggest being given the advantage in a competition: ruling in favour of the plaintiff; unequal odds that made the battle sure to come out in the aggressor’s favour. The word, however, most often refers to benefits that result from securing the approval of others: a new product seeking public favour; audiences that looked with favour on his plays. The word can also be used to indicate narrow self-interest: acting only in his own favour.
+
+这些词指的是可以给予、获得或挣得的某种可取之物。利益是其中最普遍的，指的是任何种类的利益，无论是物质的还是其他的：旨在有益于成长的心灵的课程；赋予某人崇高地位的利益。优势的范围比利益要窄，因为它可以更严格地表示物质利益或在与对手的竞争中赢得的东西：郊区生活的所有优势；一座天然防御的山丘，可以让他们比敌人占上风。当然，这个词可以更抽象地发挥作用，而不意味着剥夺别人的同样利益：所有人都可以平等地利用我们言论自由和尊重异议的传统。青睐可能意味着在竞争中被赋予优势：有利于原告的裁决；不平等的机会使得战斗肯定会以侵略者的优势结束。然而，这个词最常指获得他人认可所带来的好处：寻求公众青睐的新产品；对他的戏剧青睐有加的观众。这个词也可以用来表示狭隘的自身利益：只为自己谋利。
+
+Like benefit, gain can suggest an intangible good given or acquired at no one’s expense: a law that resulted in a clear gain for civil liberties; a gain in technical competence over his last word. More commonly, however, the word suggests material acquisition: capital gains; greedy for gain. Profit is even more restricted to material or monetary acquisition: realizing a ten-per-cent profit on each sale; speculators eager for a quick profit. Sometimes, however, the word can refer to gains outside the context of money-making: a book anyone can read with profit.
+
+与收益一样，增益可以表示不以任何人的代价而给予或获得的无形利益：一项明显有利于公民自由的法律；技术能力的提高。然而，更常见的是，这个词表示物质上的获得：资本收益；贪得无厌。利润甚至更局限于物质或货币上的获得：每次销售实现 10% 的利润；投机者渴望快速获利。然而，有时，这个词可以指赚钱之外的收益：一本任何人都可以读并受益的书。
+
+SEE: HELP, IMPROVE.
+	ANTONYMS: disadvantage, harm, loss.
+
+	
+4.81 Benevolence
+These words refer to a well-wishing friendliness or concern for the needs and desires of other people. Benevolence has the widest range of any of these words, suggesting an expansive and good-humoured tolerance and sympathy for others: brimming over with a feeling of sunny benevolence towards everyone he encountered. Sometimes the word implies the sympathy of a superior towards a subordinate, an implication strengthened by the word’s formality: working conditions sought as a right, not as a benevolence of their employer. Generosity is more informal and focuses exclusively on the aspect of giving, referring to an unstintingly helpful act or habit: the generosity with which he shared his toys with other children. In contrast to benevolence, which may remain an unacted-upon feeling, generosity is measured by actual behaviour: a plantation owner who looked on his native workers with benevolence but could hardly be accused of treating them with generosity.
+
+这些词指的是一种善意的友好或对他人需求和愿望的关心。仁慈是这些词中含义最广的，它表明对他人的一种宽容和善意的宽容和同情：对他遇到的每个人都充满阳光般的仁慈之情。有时，这个词暗示上级对下级的同情，这个词的正式性强化了这种暗示：工作条件是一种权利，而不是雇主的仁慈。慷慨则更为不正式，只侧重于给予的方面，指的是一种无私的帮助行为或习惯：他慷慨地与其他孩子分享玩具。与仁慈（可能是一种未付诸行动的感情）相反，慷慨是通过实际行为来衡量的：一个种植园主仁慈地看待他的本地工人，但很难被指责为对他们慷慨大方。
+
+At a level of greater in formality, good will and kindness are related somewhat like the previous pair, with good will referring primarily to feeling and kindness to action. Good will may refer to an open, charitable attitude, without reservation or bitterness: Christmas carollers full of merriment and good will. The word may also refer to a willingness to be fair-minded or impartial: both sides bargaining in good will. Kindness may suggest thoughtful or courteous consideration for the feelings of others: neighbour who were always the soul of kindness. Often, however, the word specifically points to the help one person gives to someone less fortunate, less well, or less able than himself: a nurse who treated the sick and wounded with almost reverent kindness. This word, consequently, can sometimes have a patronizing flavour, like benevolence: insisting that he wanted only her good will, not her kindness.
+
+在更正式的层面上，善意和仁慈的关系与前一对有些相似，善意主要指感觉，仁慈则指行动。善意可能指一种开放、仁慈的态度，毫无保留或苦涩：圣诞颂歌充满欢乐和善意。这个词也可能指愿意公平或公正：双方善意地讨价还价。仁慈可能暗示对他人的感受深思熟虑或礼貌的考虑：邻居总是善良的灵魂。然而，这个词通常特别指一个人给予比自己不幸、不如自己好或能力差的人的帮助：一个护士以近乎虔诚的仁慈对待病人和伤员。因此，这个词有时会有一种居高临下的感觉，就像仁慈一样：坚持说他只想要她的善意，而不是她的仁慈。
+
+Unselfishness and altruism both point to a generosity that is based on a lack of self-concern. Where generosity may emphasize the quantity given, possibly for ostentatious reasons, unselfishness stresses the effacing personal sacrifice required ?even if a lesser amount is given: It was the tax deduction involve, rather than unselfishness, that prompted his generosity to the charity appeal. While unselfishness is most often used to indicate a personal trait, the more formal altruism is usually reserved to indicate a moral or ethical principle. The word refers to the setting aside of all special or personal interests in determining which course of action will most benefit the group welfare. This makes the word a more specific and exact synonym for one possibility in good will: Australian Volunteers Abroad, searching for a way to put their youthful altruism into practice.
+
+无私和利他主义都指一种基于缺乏自我关怀的慷慨。慷慨可能强调捐赠的数量，可能是出于炫耀的原因，而无私则强调需要做出谦逊的个人牺牲——即使捐赠的金额较少：正是涉及的税收减免，而不是无私，促使他慷慨地向慈善机构捐款。虽然无私最常用于表示个人品质，但更正式的利他主义通常用于表示道德或伦理原则。这个词指的是在确定哪种行动最有利于集体福利时，将所有特殊或个人利益放在一边。这使得这个词成为一种善意可能性的更具体和准确的同义词：澳大利亚志愿者在国外，正在寻找一种将他们年轻的利他主义付诸实践的方法。
+
+SEE: GENEROUS, HUMANE.
+	ANTONYMS: EGOISM, malice, miserliness, stinginess.
+
+
+8.82 Bequest
+A bequest is something given or left to a person or an institution by the will of a benefactor. A legacy is something given or passed on by an ancestor, a predecessor or an earlier era, and may be contained in a will or transmitted informally or automatically: to receive a legacy of a million dollars from the estate of a deceased aunt; to be heir to a legacy of good will through his father’s reputation. [The United Nations was left a legacy of unsolved problems by the League of Nations.]
+
+遗赠是恩人根据意愿赠予或留给个人或机构的东西。遗产是祖先、前任或更早时代赠予或传给别人的东西，可能包含在遗嘱中，也可能非正式或自动传递：从已故姑母的遗产中得到一百万美元的遗产；通过父亲的名誉继承善意的遗产。[联合国被国际联盟遗留下来一堆未解决的问题。]
+
+An endowment is something settled or bestowed on a person or institution, and is not necessarily a posthumous gift. A philanthropist may, during his lifetime, establish an endowment for scholarships at a university or may bestow upon a deserving student an endowment for paying the costs of his education.
+
+捐赠是设立或赠予个人或机构的物品，不一定是死后赠予的。慈善家在生前可以设立大学奖学金捐赠基金，也可以向优秀学生捐赠以支付其教育费用。
+
+SEE: PRESENT.
+
+
+4.83 Between
+Between, as here considered, means flanked by two objects, one on either side. [The Tasman Sea lies between Australia and New Zealand; between the devil and the deep blue sea.]
+
+此处所指的“介于”是指两个物体的两侧，一个在另一侧。[塔斯曼海位于澳大利亚和新西兰之间；介于魔鬼和深蓝色的大海之间。]
+
+When between and among are used by extension to indicate a sharing, between is normally used when two objects are involved and among when more than two are involved: an inheritance divided between two heirs and shared among three heirs. Occasionally between is used to express such a relationship involving more than two objects, particularly if the relation involves each object individually or if it involves relationships between pairs of objects within the larger group: A political dispute involving six nations may be settled by an agreement between them.
+
+当 between 和 among 被引申用来表示共享时，between 通常用于涉及两个对象，among 用于涉及两个以上对象：遗产由两个继承人分割，由三个继承人共享。有时，between 也用于表达涉及两个以上对象的关系，特别是当关系涉及每个对象时，或者涉及较大群体中对象对之间的关​​系时：涉及六个国家的政治争端可以通过它们之间的协议来解决。
+
+In precise use, amid means surrounded by either separate objects or an undifferentiated mass or quantity. [A church stands amid skyscrapers; A reaper works amid the grain; A man may keep calm amid confusion.]
+
+准确来说，amid 的意思是被单独的物体或无差别的质量或数量所包围。[教堂矗立在摩天大楼之间；收割者在谷物中劳作；一个人可以在混乱中保持冷静。]
+
+Among, as here considered, means surrounded by or included in a group of separate but similar objects. [Augustus Caesar was called princeps ?chief among equals; A diary was among the effects left by a deceased.] The motion of joint action also requires among: They decided among themselves.
+
+在这里，among 的意思是被一组独立但相似的物体包围或包含在其中。[奥古斯都·凯撒被称为“元首”——平等者中的首领；日记是死者留下的遗物之一。] 联合行动也需要 among：他们自己决定。
+
+Amidst and more particularly amongst are growing in popularity as variants of amid and among, although they were once reserved for contexts where greater dispersion and mixing were involved. Betwixt as a variant of between is generally avoided as archaic or poetic.
+
+Amidst 和 among 这两个词作为 amid 和 among 的变体越来越流行，尽管它们曾经只用于涉及较大分散和混合的语境。Betwixt 作为 between 的变体，一般被避免使用，因为它太过古雅或诗意。
+
+
+4.84 Biased
+These words refer to a lack of fairness in judging or reporting because of the favouritism given to one way of viewing a subject. Biased suggests that someone judging or reporting a controversy is already disposed for or against one of the contending sides: He insisted that the jury was already biased by improper remarks made by the prosecution; an education that gave him a biased view of cultures different from his own; a biased account referring to the local councillors as self-seekers. Prejudiced in this context suggests a mind already disposed specifically against one view of something at issue; it also pertains more to judging something than to reporting it: The fairness of the trial was prejudiced by undue publicity; people who become prejudiced, however subtly, by the constant stereotyping of minority groups. Subjective refers to an inability to put personal interests aside in order to view a situation without preconceptions; it is a relative word in that the most conscientious attempt at objectivity cannot wholly overcome one’s innately subjective perspective: a subjective account of the war, overstressing the importance of those things the author happened to see first hand.
+
+这些词指的是由于偏袒某一观点而导致判断或报道不公正。偏见表明某人在判断或报道争议时已经倾向于支持或反对争论的一方：他坚持认为陪审团已经因公诉方的不当言论而产生偏见；他所受的教育使他对不同于自己文化的文化产生了偏见；带有偏见的报道将当地议员称为利己主义者。在这种情况下，偏见表明思想上已经倾向于反对对某一问题的一种观点；它也更多地适用于判断而非报道：审判的公正性因不当宣传而受到损害；人们因对少数群体的不断刻板印象而产生偏见，无论这种偏见是多么微妙。主观指无法将个人利益放在一边，不带先入之见地看待情况；它是一个相对的词，因为即使最认真地尝试客观性也无法完全克服一个人天生的主观观点：对战争的主观描述，过分强调作者亲眼所见事物的重要性。
+
+Slanted and one-sided pertain mostly to reports rather than to judgements. Slanted suggests the deliberate suppression of some fact and expansion of others either to flatter the biased minds of readers or to convince them that the biased attitudes of the writer or publisher are correct: a news story that was slanted to make the incumbent candidate appear certain of re-election. One-sided suggests a far more extreme position than slanted in that only facts supporting a particular attitude are presented: a one-sided history of the conflict that made it appear to be a struggle between angels and monsters.
+
+偏颇和片面性主要指报道而非判断。偏颇意味着故意隐瞒某些事实而夸大其他事实，以迎​​合读者的偏见或让他们相信作者或出版商的偏见是正确的：新闻报道偏颇，使现任候选人看起来肯定会连任。片面性意味着比偏颇更为极端的立场，因为报道中只呈现了支持特定态度的事实：冲突的片面性历史让这场冲突看起来像是天使与怪物之间的斗争。
+
+Partial and partisan suggest different degrees of alignment with a cause. Partial may suggest either an unconscious or conscious favouring of a particular stand: countries that claimed to be neutral but were actually partial to the West; frankly admitting that he was partial to the union’s set of arguments. Partisan suggests wholehearted and unashamed commitment to and advocacy of a cause: to give equal time to partisan statements on the value of the proposed legislation. A partisan view of a matter is not necessarily unfair, provided the person is an advocate of that view and is not set up to judge between that view and another. One may even be partisan without being one-sided, if one is attentive to and considerate of other viewpoints.
+
+偏袒和党派性表明对某一事业的认同程度不同。偏袒可能意味着对某一立场有意识或无意识的偏袒：声称中立但实际上偏袒西方的国家；坦率地承认他偏袒联盟的一系列论点。党派性表明全心全意、毫无顾忌地致力于和倡导某一事业：对拟议立法的价值给予党派性声明同等的时间。对某件事的党派观点并不一定不公平，只要该人是该观点的拥护者，并且不打算在这种观点和另一种观点之间做出判断。如果一个人关注并考虑其他观点，那么他甚至可以是党派性的，而不会偏袒任何一方。
+
+SEE: BIGOTRY.
+	ANTONYMS: DISINTERESTED, open-minded, unbiased.
+		
+	
+4.85 Bigotry
+These words refer to an unfair, irrational or unexamined attitude towards issues or people based on blanket preconceptions. Bigotry now refers almost exclusively to an intense dislike or even violent hatred for a particular group, race or religion. The comparable use of prejudice would indicate a similar but far less intense predisposition against such a group. Bigotry almost surely would be evidenced in unashamed public utterance or behaviour, whereas prejudice might remain largely unexpressed – or even unknown to the person so afflicted: easier to cope with the outright bigotry of racialist groups than with the unexpressed prejudice of much of respectable society. Prejudice, also, can apply to any preconception: an abhorrence for the maltreatment of animals that would make him unable to hear the case without prejudice.
+
+这些词指的是基于一概而论的偏见而对问题或人采取的一种不公平、不合理或未经审查的态度。偏执现在几乎专门指对某个群体、种族或宗教的强烈厌恶甚至暴力仇恨。偏见的类似用法则表示对这样一个群体有类似但远没有那么强烈的偏见。偏执几乎肯定会表现在毫无羞耻的公开言论或行为中，而偏见可能在很大程度上仍未表达出来 – 或者甚至不为人所知：应对种族主义团体的彻头彻尾的偏执比应对许多体面社会人士未表达出来的偏见更容易。偏见也可以适用于任何先入之见：对虐待动物的憎恶会让他无法不带偏见地听取案件。
+
+Intolerance is used in its general sense of not being able to tolerate – or put up with – some idea or group of people at variance with one’s own thinking: we unfairly regard with intolerance the long hair, strange dress and weird music of our teenager. But it is also used in a similar sense to bigotry and prejudice in racial or religious matters, even if not so strong in its impact. Bias is unique among these words, since it can point to a predisposition either for or against something: He admitted that he had a sentimental bias for anything pertaining to Ireland; a strong bias in slum areas against policemen. Where prejudice can indicate a fixed, inflexible attitude, bias might suggest only a tendency to take a given view. Yet even such a mild predisposition could be disastrous where strict impartiality is required, as in a judge or juror: The lawyer argued that the judge’s bias had affected the conduct of the case.
+
+不宽容的一般含义是指不能容忍或忍受与自己想法不一致的某些想法或群体：我们不公平地以不宽容的态度看待我们十几岁孩子的长发、奇怪的衣服和奇怪的音乐。但它也与种族或宗教问题上的偏执和偏见有类似的意义，即使其影响没有那么强烈。偏见在这些词中是独一无二的，因为它可以指支持或反对某事的倾向：他承认他对任何与爱尔兰有关的事情都有感情上的偏见；贫民窟对警察有强烈的偏见。偏见可以表示一种固定的、不灵活的态度，而偏见可能只表示一种倾向于采取某一观点的倾向。然而，即使是这种轻微的倾向，在需要严格公正的情况下，比如法官或陪审员，也可能是灾难性的：律师辩称法官的偏见影响了案件的审理。
+
+Narrow-mindedness points to a rigidity of preconceived attitudes, but specifically sees them as stemming from inexperience or a lack of exposure to a broader scale of values: the typical narrow-mindedness of people who stay in one rut without ever getting out of it to see how other people live. The word often suggests habitual insularity, backwardness, provinciality and lack of sophistication, but might be evidenced by an uneventful passivity or withdrawal rather than the hostile taking of stands suggested by the first pair: She was prevented from going to theatres or dances by the narrow-mindedness of her parents. But the word can apply to any dogmatic rigidity of view: Permissive parents are often guilty of as much narrow-mindedness as those who are belaboured for their authoritarian views on child-rearing. The word frequently points specifically to a prudish or puritan attitude towards sex or pleasure: He accused her of narrow-mindedness for refusing to have dinner with him in his flat. Obviously, the word is extremely relative and can be used by someone to refer to any behaviour, however, tolerant, that he may not find sufficiently acquiescent.
+
+狭隘是指先入为主的态度僵化，但具体来说，这种态度源于缺乏经验或缺乏接触更广泛的价值观：典型的狭隘思想，指的是那些固步自封、从不跳出来看看别人生活的人。这个词通常表示习惯性的孤僻、落后、狭隘和缺乏成熟，但可能表现为平淡无奇的被动或退缩，而不是第一对句子所暗示的敌对立场：由于父母的狭隘思想，她被阻止去剧院或舞会。但这个词可以适用于任何教条的僵化观点：放纵的父母往往和那些因在育儿方面的专制观点而受到严厉批评的父母一样狭隘。这个词经常具体指对性或快乐的拘谨或清教徒态度：他指责她思想狭隘，因为她拒绝和他一起在他的公寓里吃晚饭。显然，这个词是极其相对的，一个人可以用它来指代任何行为，无论这种行为有多么宽容，但一个人可能认为这种行为还不够默许。
+
+SEE: BIASED.
+	ANTONYMS: impartiality, objectivity, open-mindedness, tolerance.
+
+
+4.86 Bisexual
+These words refer to the uniting of both sexes in one individual, either in a biological or psychological sense. Bisexual is the most general of these, having the widest range of possible meaning. In a biological sense, it can refer to any living organism in which both male and female organs are present. For many forms of life, this is normal: bisexual flowers; bisexual angleworms. Thus, as a generic term, the word can group together all normally double-sexed plants and animals. In its reference to people, however, the word would never refer to those rare individuals who are abnormally born with both male and female organs. On the contrary, it refers to those people who, physiologically normal, are psychologically responsive to both sexes: that transitional phase when adolescents are bisexual in their sympathies and loyalties. Many psychologists view every individual as being normally bisexual in make-up, although only those men and women who have both homosexual and heterosexual relations can be called actively bisexual. The word is not likely to be used to describe someone whose appearance combines both male and female characteristics.
+
+这些词语是指两种性别在一个人身上的结合，无论是在生物学意义上还是在心理学意义上。双性恋是这些词语中最普遍的，具有最广泛的含义。从生物学意义上讲，它可以指任何同时存在雄性和雌性器官的生物体。对于许多生命形式来说，这是正常的：双性花；双性蚯蚓。因此，作为一个通用术语，这个词可以将所有正常的双性植物和动物归为一类。然而，在指人时，这个词绝不会指那些生来就同时具有雄性和雌性器官的罕见个体。相反，它指的是那些生理正常、心理上对两种性别都有反应的人：青少年在同情和忠诚方面具有双性恋的过渡阶段。许多心理学家认为每个人的体质都是正常的双性恋，尽管只有那些既有同性恋又有异性恋关系的男性和女性才能被称为积极的双性恋。这个词不太可能用来描述外表兼具男性和女性特征的人。
+
+Hermaphroditic and androgynous are more clear-cut in their reference to biological description. Hermaphroditic refers most specifically as a zoological term to animals in which the organs of both sexes appear normally in each individual, whereas androgynous applies as a botanical term to such double-sexed plants: viewing the volvox either as a colony of cells or as a hermaphroditic organism; effecting the hybridizing of corn by the sexual polarization of a normally androgynous species. Among such sexually polarized species as man, of course, a hermaphroditic individual may rarely occur as a biological abnormality, but the word would be strictly reserved for those cases in which both male and female sexualorgans are anatomically present. Sometimes hermaphroditic is used less technically to refer to general appearance that partakes of both sexes. In this case, the word carries a tone of hyperbolic disapproval or amusement: The hair styles of young people grow more and more hermaphroditic. Androgynous has a more formal ring even in its strict biological use, and can sound abstruse or curious when it applies more generally; here, it is not so likely to be confused with reference to biological structure: cultures in which sexual role-playing is relatively androgynous outside such biological functions as child-bearing.
+
+雌雄同体和雌雄同体在生物学描述中更为明确，雌雄同体是一个动物学术语，指的是每个个体中两性器官都正常出现的动物，而雌雄同体则作为植物学术语适用于这种双性动物。植物：将 volox 视为细胞群或雌雄同体生物；通过正常雌雄同体物种的性极化来影响玉米的杂交，当然，在像人类这样的性极化物种中，雌雄同体个体可能很少出现。生物学上的异常，但这个词严格保留在解剖学上同时存在男性和女性性器官的情况下。夸张的反对或娱乐的语气：年轻人的发型变得越来越雌雄同体，即使在严格的生物学用途中也有一个更正式的环，当它更普遍地应用在这里时，听起来可能很深奥或好奇，但事实并非如此；因此很可能与生物结构相混淆：在这些文化中，除了生育等生物功能之外，性角色扮演相对是雌雄同体的。
+
+Epicene has no relevance to biological classification whatever, referring strictly to someone who in appearance or attitudes unites qualities of both sexes: a large, puffy face with soft features that were strikingly epicene in appearance. The word usually carries a disapproving or at least negative tone. Unlike bisexual, epicene may not refer to activity at all and may in fact suggest someone who appears sexless or is marked by no strong characteristics of either sex. In a culture that places a high value on manliness, epicene can often refer to effeminacy in men or even to neurasthenic male qualities: cultural stereotypes of the virile warrior and the epicene intellectual.
+
+无论如何，Epicene 与生物分类无关，严格指的是在外表或态度上结合了两性特质的人：一张大而浮肿的脸，有着柔和的特征，在外观上引人注目。这个词通常带有不赞成或至少是负面的语气。与双性恋不同，epicene 可能根本不指活动，实际上可能暗示某人看起来无性别或没有明显的性别特征。在高度重视男子气概的文化中，epicene 通常可以指男性的女性气质。甚至神经衰弱的男性特质：男性武士和史诗知识分子的文化刻板印象。
+
+SEE: FEMININE, MASCULINE.
+
+
+4.87 Bitterness
+These words refer to a caustic, sharp or rancorous temper or manner. Bitterness can indicate, most generally, a gloomy, dour or cold disposition, but its special connotations suggest a deep-seated rage directed inwards more than an anger directed at others, with disillusion or a conviction of injustice as its possible source and a smouldering cynicism as its possible result: lifelong bitterness at losing the woman he loved. Sourness is less intense than bitterness but suggests somewhat the same dour manner with an inward-directed disillusion as its source: What was sourness in Hamlet’s view of the world has deepened to bitterness in Timon’s. On the other hand, sourness, unlike bitterness, might suggest an external appearance only: a cheerful disposition that belied the sourness of her wrinkled face. Harshness relates more to manner than to disposition, suggesting not so much rancour as cruelty, either deliberate or unintentional: a teacher who met every infraction of the rules with harshness. Harshness, however, might merely be employed as a tactic: trying to soften his will first with wheedling, then with harshness.
+
+
+这些词指尖酸刻薄、尖锐或充满敌意的脾气或举止，最常见的是，苦毒可以表示阴沉、阴沉或冷酷的性格，但其特殊含义表明一种根深蒂固的内心愤怒，而不是针对他人的愤怒。幻灭或对不公正的信念是其可能的根源，而闷烧的愤世嫉俗则是其可能的结果：失去他所爱的女人而终生的痛苦。 ：哈姆雷特的世界观中的酸涩在丁满的世界观中加深为苦涩。另一方面，酸涩与苦涩不同，可能只表明一种外在表现：一种开朗的性格，相信她布满皱纹的脸的酸涩更多地与她有关。态度而不是性情，与其说是仇恨，不如说是残酷，无论是有意还是无意：然而，严厉对待每一次违反规则的老师可能只是一种策略：首先试图通过哄骗来软化他的意志。 ，然后严厉地。
+
+The remaining words have a greater degree of formality than the foregoing. Acerbity relates most closely to sourness, suggesting an acidity of attitude that might, however, be expressed by a more directly sharp manner than with sourness: the abrupt acerbity with which he countered our every attempt at a casual conversation. Asperity relates most closely to harshness, with special emphasis on roughness or severity of treatment; implying even an arbitrary unevenness of disposition: the bewildering asperity of a governess who first ignored his questions and then punished him for asking them. Acrimony relates most closely to bitterness, but with a more outwardly directed rancour implied, even to the point of biting, irritating and enraged actions: trying to make peace in a charged atmosphere clouded by acrimony.
+
+其余的词比前面的词具有更大程度的正式性，与酸味最密切相关，暗示着一种酸涩的态度，然而，这种态度可以通过比酸味更直接尖锐的方式来表达：他用突然的尖刻来反驳我们的观点。随意交谈的每一次尝试都与粗暴密切相关，特别强调粗暴或严厉的对待，甚至暗示着一种任意的不平衡性情：一位家庭教师首先忽视他的问题，然后因为他提出问题而惩罚他；尖刻与苦毒关系最密切，但隐含着一种更外在的怨恨，甚至达到咬人、激怒和愤怒行为的地步：试图在尖酸刻薄的紧张气氛中实现和平。
+
+SEE: SOUR, VINDICTIVE.
+	ANTONYMS: blandness, mildness, sweetness.
+	
+	
+4.88 Bizarre
+These words refer to anything that is thought extremely strange, eccentric, unusual, abnormal, ugly or deformed. Bizarre points to the strange and unusual when they cause shock or surprise because of the unexpected, incongruous or sensational forms they assume: skyscrapers that were as bizarre to him as his village of mud huts would have been to us; the flamboyant gothic style in which the stonework of the arches and windows took on bizarre convoluted designs. Grotesque suggests more readily the eccentric or deformed when seen as a comic or horrible caricature of some norm: Falstaff and the other grotesque cronies of the young prince; children with grotesque, cadaverous bodies, blighted by disease and malnutrition.
+
+这些词指的是任何被认为极其奇怪、古怪、不寻常、不正常、丑陋或畸形的东西，因为它们呈现出意想不到的、不协调的或耸人听闻的形式，从而引起震惊或惊讶，比如摩天大楼。对他来说，他的土屋村对我们来说是很奇怪的；华丽的哥特式风格，拱门和窗户的石雕呈现出奇异而复杂的设计，当被视为滑稽或可怕的漫画时，更容易暗示出古怪或变形。一些规范：福斯塔夫和年轻王子的其他怪异亲信；身体怪异、苍白的孩子，受到疾病和营养不良的折磨。
+
+Fantastic is more general and less concrete than the previous words. It can be used of anything that is fanciful or dreamlike or that appears as a departure from common-sense reality: the fantastic nightmare world of Hieronymous Bosch; a fantastic tower made of concrete, bottles, hubcaps and cans. The word is over-used as a hyperbole for anything pleasant, good or out of the ordinary. Weird is similar to fantastic in suggesting a harp break from ordinary reality: a weird feeling that time was standing still as the car hurtled down the cliff; weird forms of ocean life that live where sunlight never reaches them. This word, too, is over-used as a hyperbole for anything mildly unusual. Outlandish once suggested behaviour typical of people on the periphery of a cultural centre; now it more commonly suggests anything that is unusual to the point of shock or outrage: the outlandish dress of the pop singer; disgusted by their outlandish manners.
+
+与前面的词相比，“幻想”更笼统，更不具体，它可以用于任何幻想或梦幻般的事物，或者看起来与常识现实背道而驰的东西：希罗尼姆斯·博斯的梦幻般的噩梦世界；一座由混凝土制成的梦幻般的塔楼；这个词被过度用作夸大任何令人愉快的、美好的或不同寻常的东西，就像暗示竖琴脱离平凡现实一样：一种时间静止的奇怪感觉。汽车冲下悬崖；生活在阳光照射不到的地方的奇怪的海洋生物，这个词也被过度用作夸张，用来描述文化中心外围人们的典型行为。现在，它更常见地暗示任何不寻常到令人震惊或愤怒的事物：流行歌手的古怪着装，对他们古怪的举止感到厌恶。
+
+Way-out and far-out are current fad words for anything that represents a sharp departure from the norm. Most often, they are used as approving hyperboles for anything out of the ordinary: a marvellous, way-out party. These words are often used in descriptions of avant-garde art or the rebellious nonconformity of young people.
+
+“出路”和“出路”是当前流行的词语，用来形容任何与常态截然不同的事物。最常见的是，它们被用作对任何不寻常事物的认可夸张：一个奇妙的、出路的聚会。用于描述前卫艺术或年轻人的叛逆不墨守成规。
+
+SEE: QUEER, UNUSUAL.
+	ANTONYMS: NORMAL, unexceptional.
+	
+	
+4.89 Bland
+These words refer to taste, odours and other sensations that are unassertive in character. Bland is the most specific of these, referring most appropriately to food that has not been heavily spiced: The doctor recommended a bland, salt-free diet for the patient. In other uses, the word may refer similarly to something of even disposition, without extremes, or lacking in tension: the bland domestic atmosphere in the house, free of argument or petty bickering; a bland, hazy spring day, neither too warm nor too cool. While these uses give a positive connotation, the word can become negative in tone when it suggests a lack of desirable excitement, flavour or interest: the bland, anonymous cooking of the English; a bland novel that I began but couldn’t finish; the bland attitude of many lowland farmers despite the flood warning.
+
+这些词指的是味道、气味和其他不自信的感觉，“平淡”是其中最具体的，最适合指没有加太多香料的食物：医生建议患者吃清淡、无盐的饮食。在其他用途​​中，这个词也可以指性格平和、没有极端或缺乏紧张的事物：房子里温和的家庭气氛，没有争论或琐碎的争吵；一个温和、朦胧的春日，既不太温暖也不太太热。虽然这些用法给出了积极的含义，但当它暗示缺乏令人向往的兴奋、风味或兴趣时，这个词的语气可能会变得消极：平淡无奇的英语烹饪，我开始但无法完成的平淡小说；尽管有洪水警告，许多低地农民的态度却很温和。
+
+Moderate is more neutral in tone than bland, being simply descriptive of a middle ground between extremes, without necessarily suggesting a positive or negative evaluation: a moderate winter and summer; amoderate conservative. Juxtaposed with a bad extreme, however, the word can give an approving tone: a reign that was thought moderate and tolerant after the blood-baths of the previous ruler. Both gentle and mild suggest an avoidance of extremes, but with a more forthrightly approving tone than moderate has. Gentle suggests a slight use of force to gain a result or a tender consideration for someone else: a gentle breeze of the patio; a gentle way of reprimanding her son. Unlike gentle, mild does not point to restrained power or considerate behaviour so much as it indicates something thoroughly without harshness by its very nature: mild autumn weather; mild suburban faces. Like bland, however, mild can suggest something so toned-down as to be uninteresting or unexciting: a comedy that offers only mild amusement; disclosures that were mild compared to those still forthcoming. The negative tone here is still far less intense or thoroughgoing than is true for bland.
+	
+温和的语气比平淡更中性，只是描述极端之间的中间立场，不一定表示积极或消极的评价：温和的冬天和夏天；然而，与糟糕的极端并列，这个词可以给出一种温和的感觉。赞成的语气：在前任统治者的血腥洗礼之后，一种被认为是温和和宽容的统治。温和和温和都表明避免极端，但比温和更直率的赞成语气表明稍微使用武力。为别人赢得一个结果或温柔的体贴：庭院里的微风轻柔地训斥她的儿子，与温柔不同，温和并不意味着克制的权力或体贴的行为，而是表明了某种完全不严厉的东西。非常自然：温和的秋天天气；温和的郊区面孔，然而，温和可以暗示一些平淡无奇或不令人兴奋的东西：与即将上映的喜剧相比，它只提供温和的娱乐。这里的负面语气仍然远不如平淡的语气强烈或彻底。
+
+Soothing is the most positive in tone of all these words. Something might be gentle or mild and still not necessarily beneficial. By contrast, soothing suggests sensations that are positively comforting, helpful or healing, either by the removal of irritation or by the application of something to overcome it: listening to the soothing silence; soothing ointment to relieve her sunburn. Dull compares strikingly with soothing in suggesting the complete absence of anything pleasurable. As such, is almost exclusively stresses, and with greater force, possibilities inherent in bland or mild: a dull evening playing cards with the neighbours; dull meals completely lacking in zest. Dull may of course apply more descriptively, like moderate, to low-key sensations: a dull grey sky; an artist who tended to use a palette of dull, subtly shaded colours.
+
+舒缓是所有这些词中最积极的语气，有些东西可能是温和的，但仍然不一定有益，相反，舒缓意味着通过消除刺激或应用来积极地安慰、有帮助或治愈的感觉。克服它的方法：聆听舒缓的沉默；缓解晒伤的舒缓药膏与暗示完全没有任何愉快的事物的舒缓相比，几乎完全是压力，并且具有更大的力量，平淡或温和的可能性。温和：与邻居打牌的沉闷的夜晚；完全缺乏热情的沉闷的饭菜 沉闷的当然可以更描述性地适用于低调的感觉：沉闷的灰色天空；倾向于使用沉闷调色板的艺术家； ，微妙的阴影颜色。
+
+SEE: MONOTONOUS, TRANQUIL.
+	ANTONYMS: exciting, harsh, KEEN, SOUR.
+
+
 ************************************************************************************
 ************************************************************************************
 4.116 Busy
