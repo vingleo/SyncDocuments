@@ -3556,9 +3556,114 @@ Negotiate and parley are restricted to situations in which the main motive is th
 
 谈判和会谈仅限于主要动机是试图在对立双方或立场之间达成协议的情况。这两个词都表示正式会议。会谈来自法语，意为“说话”，适用于实际的敌人试图通过言语而不是武力解决分歧：法国和英国国王的代表在战场上进行会谈。这个词让人想起欧洲王国之间战争的消失的世界，在当代类似的情况中较少使用。现在更常用的词是谈判；它适用于对立双方通过妥协而不是武力或其他形式的直接行动或对抗来解决分歧的任何正式会议。[经过两周的艰苦谈判，劳资双方最终达成和解，从而避免了罢工；秘书长敦促双方通过谈判结束这场血腥的战争。]
 
+SEE: ADVICE, ARGUE, CONVERSATION, INFORM.
 
 
+4.190 Contemptible
+These words refer to people, acts or things that are unworthy, immoral or intensely disapproved of because of bad behaviour, bad execution or bad taste. Contemptible indicates that something merits disapproval because it patently falls short of even minimal standards of worth or adequacy. The standard implied here is usually one pertaining to morals or conduct: the candidate’s contemptible appeal to greed and prejudice; her contemptible rudeness to the guest of honour. But it can extend to any evaluating process: The concerto was a contemptible piece of trash. Execrable can apply through a comparably wide range, but in actual use it applies more often to bad taste or conduct than to immoral acts: dressed in execrable taste; an execrable lack of concern for the feelings of others. Because of this distinction, contemptible is the stronger word, even though it suggests something worthy of scorn, whereas execrable suggests something worthy of hearty condemnation.
 
+这些词指的是由于行为不良、执行不当或品味低下而被认为不值得赞赏、不道德或极不受欢迎的人、行为或事物。Contemptible 表示某事值得赞赏，因为它明显达不到最低的价值或充分性标准。这里隐含的标准通常是与道德或行为有关的标准：候选人可鄙地诉诸贪婪和偏见；她对贵宾可鄙的粗鲁。但它可以延伸到任何评估过程：这首协奏曲是一首可鄙的垃圾。Execrable 可以适用于相当广泛的范围，但在实际使用中，它更多地适用于品味低下或行为低下，而不是不道德的行为：品味低下；可耻地不关心他人的感受。由于这种区别，contemptible 是更强烈的词，即使它暗示某事值得蔑视，而 execrable 暗示某事值得强烈谴责。
+
+Despicable and detestable are both stronger than the preceding pair, pointing to something worthy of hatred or intense revulsion. Despicable can sometimes apply to work or conduct that one finds utterly worthless: a despicable painting; a despicable bore. But these uses shade off, with weakened force, into hyperbole. At its most intense, the word suggests criminals, even the most vicious, are so despicable as those gangsters who traffic in narcotics and prostitution; a despicable dictator who sentenced thousands to prison and death. While despicable can be used less forcefully to register a personal opinion, detestable is more readily used in this way, since it can suggest an extreme aversion rather than moral outrage: he found early Italian opera utterly detestable. Even when its reference is to moral this note of personal distaste may be present: He was amazed that no one else seemed to notice the detestable cruelty with which she treated her children.
+
+Despicable 和 detestable 都比前一对更强，指的是值得憎恨或强烈反感的事物。Despicable 有时也适用于人们认为毫无价值的工作或行为：一幅卑鄙的画；一个卑鄙的无聊的人。但这些用法的力量逐渐减弱，变成了夸张。在最强烈的情况下，这个词暗示罪犯，即使是最凶恶的，也像那些贩毒和卖淫的歹徒一样卑鄙；一个卑鄙的独裁者判处数千人监禁和死刑。虽然 despicable 可以不那么强烈地用来表达个人观点，但 detestable 更容易以这种方式使用，因为它可以表示极度厌恶而不是道德上的愤慨：他觉得早期的意大利歌剧极其可憎。即使它指的是道德，也可能存在这种个人厌恶的语气：他很惊讶似乎没有其他人注意到她对待孩子的可憎残忍。
+
+SEE: DEPRAVED, REPREHENSIBLE, REPULSIVE.
+    ANTONYMS: admirable, EXCELLENT, MORAL.
+
+
+4.191 Contemptuous
+Contemptuous, the strongest word in this list, means viewing something or someone as mean, vile or worthless and actively showing or expressing that view. Attributively, contemptuous is applied to a person’s words or actions; predicatively it may be used to describe the person. A man may utter a contemptuous remark; he may be contemptuous of his associates.
+
+Contemptuous 是此列表中最强烈的词，意思是将某事或某人视为卑鄙、卑鄙或一文不值，并积极地展示或表达这种观点。contemptuous 在定语中用于形容某人的言语或行为；在表语中可用于形容某人。一个人可能会说出轻蔑的言论；他可能会轻蔑他的同事。
+
+Scornful and disdainful agree in their application to persons feeling or expressing contempt based on pride or a sense of superiority. The expression of contempt is often limited to the dismissal of the object as unworthy of attention. Like contemptuous, these words are used attributively with expressions of contempt and predicatively with the person expressing it: a scornful glance; a disdainful rejection; The nobles were disdainful of the peasants. Scornful differs from disdainful in indicating greater emotional hostility to whatever is being condemned; disdainful, in comparison, may more readily suggest archness or haughtiness based on a sense of social superiority: a scornful attack by his enraged opponent; dismissing her maid with a disdainful nod. Scornful and contemptuous are closer in tone, but contemptuous suggest negative evaluation that may be expressed in ironic ways. Scornful points more to reaction than evaluation and might apply to more direct expression: a contemptuous look that suggested how worthless he found her proposal to be; a scornful outburst.
+
+Scornful 和 disdainful 都适用于因骄傲或优越感而感到或表达蔑视的人。蔑视的表达往往限于认为对象不值得关注而予以拒绝。和 contemptuous 一样，这些词在表达蔑视时用作定语，在表达蔑视的人时用作表语：轻蔑的目光；轻蔑的拒绝；贵族们鄙视农民。Scornful 与 disdainful 的不同之处在于，它表示对所谴责事物的更大情感敌意；相比之下，disdainful 更容易暗示基于社会优越感的狡猾或傲慢：愤怒的对手轻蔑地攻击；轻蔑地点头打发女仆走。Scornful 和 contemptuous 的语气更接近，但 contemptuous 表示可能以讽刺的方式表达的负面评价。轻蔑更多的是指反应而非评价，可能适用于更直接的表达：轻蔑的眼神表明他认为她的提议毫无价值；轻蔑的爆发。
+
+Insolent intensifies aspects implicit in disdainful, suggesting an arrogant or impudent pride that is expressed in rude behaviour: the prima donna’s insolent remarks about the director’s ineptness. Where someone might be justified in feeling contemptuous or scornful of something ?or even disdainful ?insolent always indicates a peremptory or overweening grandiosity. Audacious, while conveying some sense of boldness or adventurousness, more often applies to recklessbehaviour that is conspicuous and outrageous: His audacious manners are a effrontery to good taste.
+	
+Insolent 加强了 disdainful 中隐含的方面，暗示着一种傲慢或无礼的骄傲，这种骄傲表现在粗鲁的行为中：女主角对导演无能的傲慢评论。虽然有人有理由对某事感到轻蔑或蔑视——甚至轻蔑——但 insolent 总是表示一种专横或傲慢的自大。Audacious 虽然传达了某种大胆或冒险的感觉，但更多时候适用于引人注目和无礼的鲁莽行为：他的大胆举止是对良好品味的侮辱。
+
+Supercilious indicates a haughty or affected manner that is so excessive or unfounded as to become pompous or ridiculous: supercilious flattery; a plain-spoken man who was contemptuous of her supercilious airs and grand gestures. The word comes from the Latin for eyebrow; raised eyebrows are often characteristic of a supercilious expression.
+	
+Supercilious 表示一种傲慢或做作的态度，这种态度过于夸张或毫无根据，以至于变得浮夸或可笑：傲慢的奉承；一个直言不讳的男人蔑视她的傲慢态度和夸张的姿态。这个词源于拉丁语中的眉毛；挑起的眉毛通常是傲慢表情的特征。
+
+SEE: CONCEITED, HOSTILE, OVERBEARING.
+    ANTONYMS: considerate, humble, POLITE, respectful, reverent.
+	
+	
+4.192 Contented
+These words refer to the appeasement of need or desire. Contented refers to the fulfilling of requirements tot he point of satiation: contented cows; She pampered him so that he would feel thoroughly contented. By contrast, content almost exclusively appears as a predicated adjective and suggests, not the full or complete filling of needs or desire, but the willingness to accept a modest or reasonable amount: peasants who were thought the be content with their humble station in life; The reporter tried to feel content with the brief interview he was granted.
+	
+这些词指的是满足需要或欲望。满足是指满足需求直到满足的程度：满足的奶牛；她宠爱他，让他感到彻底满足。相比之下，满足几乎只出现在表语形容词中，它表示的不是完全满足需要或欲望，而是愿意接受适度或合理的数量：被认为满足于卑微生活的农民；记者试图对他所获得的简短采访感到满意。
+
+Satisfied is closer to contented than to content in suggesting complete appeasement of need or desire: gorging himself until he felt almost uncomfortably satisfied. The word contrasts with contented in that the latter may more often refer to a state of mind akin to complacency, whereas satisfied more often suggests the filling of a particular need: dull, contented faces, satisfied about his marks in the exam.
+
+Satisfied 更接近于 contented 而不是 content，因为它表示完全满足了需要或欲望：狼吞虎咽，直到感到几乎不舒服的满足。这个词与 contented 形成对比，后者可能更多地指一种类似于自满的心理状态，而 satisfied 更多地表示满足了某种特定需求：呆滞、满足的面孔，对考试成绩感到满意。
+
+Gratified suggests unambiguous joy in the fulfilling of a need or desire; in this it is more intense than either satisfied or contented: a longing for excitement that was only fully gratified when he moved to the big city. Gratified can also function in a wider range than the other words, suggesting happiness at a well-executed task, role or duty: gratified at the way her students took up the challenges she laid down for them. Pleased is less intense than gratified and is the vaguest of these words; it may suggest less demanding needs or desires to begin with: pleased with the refreshing simplicity of her light snack. It would seldom suggest, in fact, that a question of satiation exists, and may have more to do with the expression of mild approval: She was pleased at the courteous way in which he addressed her.
+
+Gratified 表示在满足某种需求或愿望后感到的明确的喜悦；在这方面，它比 satished 或 contented 更强烈：对兴奋的渴望，只有在搬到大城市后才得到充分满足。 Gratified 的作用范围也比其他词更广，表示对出色完成任务、角色或职责感到高兴：对她的学生接受她给他们提出的挑战的方式感到满意。 Pleased 的强度不如 gratified，是这些词中最模糊的；它可能表示一开始就没有那么苛刻的需求或愿望：对她吃的清爽简单的小吃感到高兴。事实上，它很少表明存在饱腹感的问题，可能更多地与表达温和的赞许有关：她对他彬彬有礼的待客方式感到高兴。
+
+SEE: CHEERFUL, COMFORT, JOYOUS. 
+    ANTONYMS: discontent, frustrated, 
+
+
+4.193 Contradict
+These words refer to the rejection of a previous statement by argument or evidence. Contradict may indicate no more than disagreement with a statement: He flatly contradicted her assertion that he was too lazy to mow the lawn. In this case no attempt at proof may be involved. The word also applies to an obvious discrepancy between statements or things where no proof is necessary: parents who contradict each other when giving orders to their children. [The findings of the two studies contradict each other; His voting record contradicts his claim to be a liberal.] In its widest application, deny can point to something refused or withheld: denying his request for a weekend pass; Substandard schools deny children the chance to learn. In the context of disputes, deny often suggests the specific situation of giving a negative answer to a charge or accusation: The treasurer hotly denied any misappropriation of funds.
+
+这些词指的是通过论据或证据否定先前的陈述。Contradict 可能仅表示不同意某个陈述：他断然反驳她说他太懒了不想割草坪的说法。在这种情况下可能不需要试图举证。这个词还适用于陈述或事物之间明显不一致而不需要证明的情况：父母在给孩子下达命令时互相矛盾。[两项研究的结果互相矛盾；他的投票记录与他自称是自由主义者相矛盾。] 在最广泛的应用中，deny 可以指拒绝或保留某事：拒绝他申请周末通行证；不达标的学校剥夺了孩子们学习的机会。在争议的背景下，deny 常常指对指控或控告给出否定答复的具体情况：财务主管坚决否认有任何挪用资金的行为。
+
+Gainsay is a more formal word that is now rarely used in speech; it does suggest that someone gives vocal dissent to an opinion or accusation, perhaps arbitrarily tersely or abruptly, without supporting arguments: her habit of gainsaying anything he suggested. The word most often appears now with a negative: arguments for an appeal that not even the most cautious judge could gainsay; new evidence that simply could not be gainsaid. Here, something is presented as so convincing or conclusive that an arbitrary rejection is not possible. Oppose is far less formal in tone than gainsay and applies widely beyond the context of dispute or argument. It can suggest unreasoning enmity to a position with no attempt to argue or present evidence: They still opposed the new theory despite all the corroborating facts mustered in its defence. Oppose can also suggest reasoned disagreement: the superior skill that his counsel revealed in opposing the prosecution’s arguments.
+
+反对是一个更正式的词，现在很少在口语中使用；它确实表明某人对某个意见或指控直言不讳，可能武断地简短或唐突地反对，没有支持性论据：她习惯反驳他提出的任何建议。这个词现在最常与否定词一起使用：上诉的论据，即使是最谨慎的法官也无法反驳；新证据根本无法反驳。在这里，某事被呈现得如此令人信服或具有决定性，以至于不可能武断地拒绝。反对的语气远不如反对正式，并且广泛应用于争议或辩论的背景之外。它可以表示对某个立场毫无道理的敌意，而没有试图争论或提供证据：尽管为辩护收集了所有佐证事实，他们仍然反对新理论。反对也可以表示有理有据的反对：他的律师在反对检方论点时表现出的高超技巧。
+
+Contravene can function like contradict when it points to a discrepancy between statement or things, especially where one entity conflicts with another: No law can stand that contravenes the Consitution. In terms of argument, the word may point to an attempt to overthrow a whole trend of thought by making telling points: a speech in which he marshalled every available argument that might help him to contravene the objections to the bill’s passage.
+
+当 Contravene 表示陈述或事物之间存在矛盾时，其作用与 contradict 类似，尤其是在一个实体与另一个实体相冲突的情况下：任何与宪法相抵触的法律都不能成立。在论证方面，该词可能表示试图通过提出有力的观点来推翻整个思想潮流：在一次演讲中，他列举了所有可能帮助他推翻法案通过反对意见的论据。
+
+The previous words are mainly concerned with situations in which one statement is at odds with another. The remaining words all can indicate the situation in which a statement or position is demolished by facts or evidence. Disprove is the most forceful of these, indicating that a statement, proposition, theory or even something accepted as a fact has been demonstrated as untrue by countering evidence: explorers who disproved the notion that the world was flat; he denied her assertion, but couldn’t disprove it. When two scientific theories contradict each other, for example, further investigation will disprove one or the other or both, whether in whole or in part. Controvert, a more formal word, points to someone who apposes a given view and wishes to disprove it by offering evidence: His opponents searched the data given in his report, hoping to find inconsistencies by which they could controvert his findings. When contrasted with contravene, the emphasis of controvert falls more heavily on controvert them. Refute can suggest the successful demolishing of an argument by reasoning alone but it applies even more forcefully when supporting evidence is suggested: They refuted his claim of innocence with eyewitness testimony.
+
+前面的词语主要涉及一种说法与另一种说法相矛盾的情况。其余的词语都可以表示一种说法或立场被事实或证据推翻的情况。Disprove 是最有力的，表示一个说法、命题、理论甚至被接受为事实的东西已被反驳为不真实：探险家反驳了地球是平的这一观点；他否认了她的断言，但无法反驳它。例如，当两种科学理论相互矛盾时，进一步的调查将全部或部分地反驳其中一种或两种理论。Controvert 是一个更正式的词，指的是反对某一观点并希望通过提供证据来反驳它的人：他的对手搜索了他报告中给出的数据，希望找到可以反驳他发现的不一致之处。与 contravene 相比，controvert 的重点更多地放在反驳它们上。反驳可以表明仅通过推理就能成功地推翻一个论点，但当提出支持证据时，它的作用就更有力了：他们用目击者的证词驳斥了他无罪的主张。
+
+SEE: COMPETE.
+	ANTONYMS: affirm, agree, corroborate, maintain, UPHOLD.
+	
+	
+4.194 	Contradictory
+These words describe statements, opinions, concepts, methods or emotions that are incompatible. The term contradictory refers to things that mutually exclude each other so that both cannot exist in the same object at the same time, as life and death. In formal logic two statements are contradictory if they cannot both be true and cannot both be false. In other words, the statements are so related that if one is true the other must be false, as I am a New Zealander and I am not a New Zealander. Contrary statements, on the other hand, cannot both be true, but they can both be false, as I am an Italian and I am a Frenchman. The falsity of either contrary proves nothing about the other, but the truth of one establishes the falsity of the other. In a general sense, contrary points to a basic difference in essence or disagreement in purpose or aim: a contrary viewpoint. Things are contrary when the highest degree of both cannot exist in the same object at the same time, but where a middle term is possible partaking of the qualities of both. Thus wisdom and folly are contrary, for the perfection of either excludes any trace of the other; yet most human acts and statements partake of both.
+
+这些词语描述的是不相容的陈述、观点、概念、方法或情感。矛盾一词指的是相互排斥的事物，因此它们不能同时存在于同一对象中，例如生命和死亡。在形式逻辑中，如果两个陈述不能同时为真，也不能同时为假，则它们是矛盾的。换句话说，这些陈述是如此相关，以至于如果一个是真的，另一个就一定是假的，例如我是新西兰人，但我不是新西兰人。另一方面，相反的陈述不能同时为真，但它们可以同时为假，例如我是意大利人，我是法国人。任何一个相反的陈述的虚假性都不能证明另一个的虚假性，但一个的真相可以确定另一个的虚假性。从一般意义上讲，相反指的是本质上的基本差异或目的或目标的分歧：相反的观点。当两者的最高程度不能同时存在于同一对象中时，事物就是相反的，但中间项可能具有两者的品质。因此，智慧与愚蠢是对立的，因为其中一方的完美性排除了另一方的任何痕迹；然而大多数人类行为和言论都兼具两者。
+
+Loosely, contradictory may mean no more than differing significantly: contradictory versions of an accident. In this sense, contradictory and conflicting are often interchangeable. Conflicting means clashing and stresses discord, implying mutual antagonism, as of interest, feelings or ideas: conflicting opinions as to the best location for the new school; The prospect of a return to his home town filled him with conflicting emotions.
+
+大致而言，矛盾可能仅意味着存在重大差异：事故的矛盾版本。从这个意义上讲，矛盾和冲突通常是可以互换的。冲突意味着冲突，强调不和，暗示相互对立，如利益、感情或想法：关于新学校最佳地点的意见相左；回到家乡的前景让他充满了矛盾的情绪。
+
+Opposite comes close to contradictory in referring to things that are diametrically different in tendency, character or point of view: opposite opinions; the opposite sex. But opposite is more likely to be applied to difference in direction, position or condition than to mutually exclusive statements. [The condition opposite to cold is heat; the direction opposite to north is south; Black and white are often said to be opposite.] Where opposite refers to position, tendency or the like, opposed is chiefly used of feeling and intent. People who live on opposite sides of a fence may or may not be opposed. Contraryand opposed are often used interchangeably to mean differing from in any way: to do something that is contrary (or opposed) to another person’s wishes. In other uses, contrary suggests active opposition, and opposed implies passive contrariness. A person holding a contrary point of view may suggest that a different line of action should be taken.But a person may be opposed to a line and action without proposing any alternative. Both contradictory and contrary may be used to describe persons who perversely beg to differ at every possible opportunity.
+
+当用“相反”来指代在倾向、特征或观点上截然不同的事物时，“相反”与“矛盾”相近：相反的意见；相反的性别。但是，“相反”更可能用于指代方向、位置或条件的差异，而不是相互排斥的陈述。[与冷相反的条件是热；与北相反的方向是南；黑与白通常被称为相反。]当“相反”指代位置、倾向或类似情况时，“相反”主要用于表示感觉和意图。生活在篱笆对立面的人可能会反对，也可能不会反对。Contrary 和 opposite 经常互换使用，表示以任何方式不同：做与他人意愿相反（或反对）的事情。在其他用法中，“相反”表示主动反对，“相反”表示被动反对。持相反观点的人可能会建议采取不同的行动路线。但一个人可能会反对路线和行动而不提出任何替代方案。“矛盾”和“相反”都可以用来描述那些一有机会就固执地要求不同意见的人。
+
+SEE: CONTROVERSY, DISPARATE, OPPOSED.
+ANTONYMS: accordant, acquiescent, agreeing, compatible, concordant, consenting, consistent, corresponding, harmonious.
+
+4.195 Control
+
+To control is to exercise a restraining or dominating influence over a person or thing. Regulate means to order or control by rule, method or established mode. A major shareholder may control a large block of shares in a company. The police may attempt to control an unruly mob. The Department of Civil Aviation regulates private and commercial flying: A government may regulate its balance-of-trade payments by controlling exports.
+
+控制是对人或事物施加限制或支配的影响。管制是指通过规则、方法或既定模式来命令或控制。大股东可能控制着公司的大量股份。警察可能会试图控制一群不守规矩的暴徒。民航部负责管制私人和商业飞行：政府可以通过控制出口来管制其贸易收支。
+
+Direct stresses guidance and refers to the exercise of leadership: to direct a play. Direct may refer specifically to the control or conduct of affairs: to direct a large company. In this sense, it is close to manage, which emphasizes operational control: to manage a hotel; to manage a campaign. Of the two verbs, however, direct implies a stronger, overall control, while manage often refers to the actual running or handling of specific affairs, and may imply delegated authority. He personally directed the nation’s foreign policy. A person may be appointed to manage a business for the owner.
+
+Direct 强调指导，指领导的行使：导演一出戏。Direct 可能特指控制或处理事务：指挥一家大公司。在这个意义上，它与 manage 相近，后者强调的是运营控制：管理一家酒店；管理一场活动。然而，在这两个动词中，direct 意味着更强的全面控制，而 manage 通常指实际运行或处理具体事务，可能意味着授权。他亲自指导了国家的外交政策。一个人可能被任命为业主管理企业。
+
+The verb administer implies official management and direction of affairs: a well-administered state government. It indicates the performing of executive functions and may be used of government or institutional officials. The head of a government department administer the funds allotted to his department. The vice-chancellor of a university may administer the establishment’s financial affairs. In a strictly legal sense, administer means to act as an executor or trustee in settling or managing an estate: to administer the estate of a deceased or incompetent person. To supervise an operation or an employee is to be in charge of assigning, directing an inspecting the work done. Like direct, supervise involves overseeing and guidance; but it indicates a more personal control than administer, and, like manage, may imply the exercise either of personal or of delegated authority: to act as a group leader and supervise a dozen workers. A housewife may supervise the work done by her maid. An office manager may supervise the work of several departments.
+
+动词administrative 表示官方管理和事务指导：管理良好的政府。它表示执行行政职能，可用于政府或机构官员。政府部门负责人管理分配给其部门的资金。大学副校长可以管理机构的财务。从严格的法律意义上讲，administrative 是指在处理或管理遗产时充当遗嘱执行人或受托人：管理已故或无行为能力人的遗产。监督一项操作或一名员工就是负责分配、指导和检查所做的工作。与direct 一样，supervise 也涉及监督和指导；但它比administrative 表示更多的个人控制，并且与manage 一样，可能意味着行使个人或委托的权力：担任小组组长并监督十几个工人。家庭主妇可以监督女佣的工作。办公室经理可以监督几个部门的工作。
+
+To govern is to control by authority, arbitrarily or constitutionally. Govern implies the exercise of knowledge and judgement as well as power, and usually involves systematic administration. To rule is more autocratic than to govern, implying the exercise of absolute or dictatorial power and the imposition of arbitrary commands. In a democracy, an administration governs with the consent of the majority. A dictator, by contrast, may rule (or govern) with an iron hand. In a less specific sense, govern often refers to the exerting of any controlling influence: What motives governed his actions? It may also mean to keep in check, and in this sense it may serve as a more formal synonym for control: unable to govern (or control) his temper.
+
+	
 ************************************************************************************
 ************************************************************************************
 4.613 Novel
