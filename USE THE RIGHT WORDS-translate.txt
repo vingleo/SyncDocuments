@@ -3663,6 +3663,60 @@ The verb administer implies official management and direction of affairs: a well
 
 To govern is to control by authority, arbitrarily or constitutionally. Govern implies the exercise of knowledge and judgement as well as power, and usually involves systematic administration. To rule is more autocratic than to govern, implying the exercise of absolute or dictatorial power and the imposition of arbitrary commands. In a democracy, an administration governs with the consent of the majority. A dictator, by contrast, may rule (or govern) with an iron hand. In a less specific sense, govern often refers to the exerting of any controlling influence: What motives governed his actions? It may also mean to keep in check, and in this sense it may serve as a more formal synonym for control: unable to govern (or control) his temper.
 
+治理是通过权威进行控制，可以是专制的，也可以是宪法规定的。治理意味着运用知识和判断力以及权力，通常涉及系统的管理。统治比治理更具专制性，意味着行使绝对或独裁的权力并施加专制的命令。在民主国家，政府在多数人的同意下进行治理。相比之下，独裁者可能会用铁腕统治（或治理）。在较不具体的意义上，治理通常指施加任何控制性影响：什么动机支配着他的行为？它也可能意味着保持克制，在这个意义上，它可能是控制的更正式的同义词：无法控制（或控制）他的脾气。
+
+SEE: COMMAND, GUIDE, POSSESS, SUBDUE.
+
+
+4.196 Controversy
+argument
+bickering
+conflict
+contention
+debate
+discord
+dispute
+dissension
+friction
+quarrel
+strife
+wrangle
+
+Controversy, discord and dissension mean a prolonged disagreement expressed terms ranging from reasonable to belligerent.Controversy is generally applied to disagreements between groups, such as nations, political parties or religious sects. Internationally one speaks of controversy over disarmament; politically, of controversy over federal versus state power; and religiously, of controversy over priestly celibacy. Discord is controversy carried to unpleasant lengths, ad implies an unlikelihood of easy revolution. Discord between branches of a family often lasts for generations. Dissension is factional discord, and is often expressed in voluble protests or accusations: dissension among the rank and file of the union forced a change in leadership.
+
+争议、不和和分歧是指长期的分歧，其表达范围从合理到好战。争议通常适用于国家、政党或宗教派别等群体之间的分歧。国际上，人们谈论裁军争议；政治上，人们谈论联邦与州权力的争议；宗教上，人们谈论神父独身主义的争议。不和是指争论发展到令人不快的程度，暗示着不可能轻易革命。一个家族分支之间的不和往往持续几代人。分歧是派系之间的不和，通常表现为激烈的抗议或指责：工会普通成员之间的分歧迫使领导层发生变动。
+
+Argument, debate and dispute mean verbal expressions of disagreement. An argument is usually between individuals, and suggests a combined appeal to reason and to the emotions. It may or may not result in a resolution of the disagreement. [An argument between parents regarding the rearing of their children often goes on for years; The referee always wins the argument about a free kick in football.] A debate is an argument between selected individuals or groups, and is carefully controlled and monitored; it is normally limited to an appeal to reason, and is usually an attempt to arrive at the truth rather than to overpower by tricks of oratory: A parliamentary debate on a piece of proposed legislation is designed to bring out all the relevant facts to enable members to vote on the merits of the bill. A dispute is an argument carried on over a long period of time and is often marked by heated clashes: The dispute over an international boundary produced a long exchange of strong allegations couched in diplomatic language.
+
+争论、辩论和争议是指用言语表达不同意见。争论通常发生在个人之间，需要诉诸理性和情感。争论可能会也可能不会解决分歧。[父母之间关于子女抚养权的争论往往会持续数年；足球比赛中裁判总是赢得关于任意球的争论。] 辩论是选定的个人或团体之间的争论，受到严格控制和监控；辩论通常仅限于诉诸理性，通常是试图得出真相，而不是通过演说技巧来压倒对方：议会对一项拟议立法的辩论旨在提出所有相关事实，以便议员就法案的是非曲直进行投票。争议是持续很长时间的争论，通常以激烈的冲突为特征：国际边界争端导致双方用外交语言进行了长时间的激烈指控。
+
+Contention, friction, conflict and strife mean disagreement carried so far as to be marked by ill will and sometimes by hostile actions. Contention is usually limited to verbal discord carried to extreme lengths, and implies vying for a contested goal. Contention between rival camps at a political convention is often acrimonious. Friction implies a steady and continuous disagreement between individuals or groups, and is characterized by frequent clashes. Friction between labour and management can result in mutual recriminations, strikes and lockouts. Conflict implies a disagreement so violent that resolution by action other than verbal must be resorted to: The conflict between Guelphs and Ghibellines in medieval Italy passed from controversy over papal authority to petty wars between city-states. Strife implies a conflict so basic and contestants so implacable that it is characterized by continuous hostility and an uncompromising attitude: The tactics of the cold war are resorted to in the strife between contending power blocs. Strife is also used loosely and hyperbolically for trouble: If I’m late home I’ll be in strife.
+
+争论、摩擦、冲突和纷争意味着分歧过于激烈，以至于带有恶意，有时甚至带有敌对行为。争论通常仅限于极端的口头争吵，意味着争夺有争议的目标。政治会议上敌对阵营之间的争论往往非常激烈。摩擦意味着个人或团体之间持续不断的分歧，其特点是频繁发生冲突。劳资之间的摩擦可能导致相互指责、罢工和停工。冲突意味着分歧过于激烈，必须采取口头以外的行动来解决：中世纪意大利的圭尔夫派和吉伯林派之间的冲突从对教皇权威的争论发展到城邦之间的小规模战争。纷争意味着冲突非常基本，竞争者非常不可调和，其特点是持续的敌对和不妥协的态度：在相互竞争的权力集团之间的冲突中，人们诉诸冷战战术。 Strife 也被随意地、夸张地用来表示麻烦：如果我回家晚了，我就会陷入麻烦。
+
+Bickering, quarrel and wrangle mean argument about petty matters, usually carried on in a petulant manner. These words may be applied to individuals or groups, and carry a suggestion of opprobrium. Bickering suggests a prolonged exchange of ill-tempered remarks: bickering about who should be first in line. Quarrel is more general in application;it is usually highly personal and can range from a mild verbal dispute to a violent argument: a quarrel between neighbours about a borrowed lawn mower; violent quarrels in which she hurled pots and pans at him and he knocked her about like a rag doll. A wrangle is an angry or noisy quarrel; the suggestion of petulant intransigence is especially strong, and the word often implies an unwillingness to listen to reason or to be understanding of the other person’s point of view: a long wrangle over who should pay the bill.
+
+Bickering、quarrel 和 wrangle 均指为琐事争吵，通常以暴躁的方式进行。这些词可用于个人或团体，并带有辱骂的意思。Bickering 暗示长时间的恶语相向：关于谁应该排在第一位的争吵。Quarrel 的应用更为广泛；它通常是高度个人化的，可以从轻微的口头争论到激烈的争论：邻居之间为借来的割草机而争吵；在激烈的争吵中，她向他扔锅碗瓢盆，他像打布娃娃一样把她打翻在地。Wrangle 是一种愤怒或吵闹的争吵；暴躁的顽固暗示尤其强烈，这个词常常暗示不愿意听取理性或理解对方的观点：关于谁应该付账的长时间争论。
+
+SEE: DISAGREE.
+
+ANTONYMS: agreement, coincidence, consensus, unanimity.
+
+
+4.197 Conversation
+
+These words refer to formal or informal vocal exchanges. Conversation and discussion are the most general of these, the  former applying mainly to an informal social situation, the latterapplying often but not exclusively to a formal or official situation. Conversation, of course, can and does take place at extremely formal affairs, but in this case the word points to incidental exchanges that arenot usually the main point of such a gathering. Much more often the tone of the word suggests a relaxed, informal atmosphere, either festive or intimate: a party at which the conversation flowed like wine; a long conversation between the two of them over nightcaps of brandy. Any situation, however, in which two or more people speak to each other at some length and constitute a conversation: He warned her against getting into conversation with other passengers on the train. When discussion indicates formal or arranged situation, it still suggests a free-and easy meeting in which people express their views or sentiments to one another: asking the committee to hold open discussions on the sousing project. The word can specifically point to a period that follows some sort of one-sided presentation, one during which audience reaction is heard: a discussion that was to take place after the play; the general discussion following his speech. When discussion suggests an even more informal situation, the word still differs from conversation in indicating a purposeful approach that limits itself to a given theme, possibly to arrive at conclusions or determine a course of action: family discussions in which each member can openlypresent his grievances; an innocuous conversation that turned into a heated discussion on police brutality.
+
+这些词指的是正式或非正式的口头交流。其中最常见的是谈话和讨论，前者主要适用于非正式的社交场合，后者通常但不完全适用于正式或官方场合。当然，谈话可以而且确实发生在非常正式的场合，但在这种情况下，这个词指的是偶然的交流，通常不是这种聚会的重点。更常见的是，这个词的语气暗示了一种轻松、非正式的氛围，无论是喜庆的还是亲密的：在聚会上，谈话如酒般流淌；两人在睡前喝着白兰地酒，进行了一次长谈。然而，在任何情况下，两个或两个以上的人都会长时间交谈并构成对话：他警告她不要和火车上的其他乘客交谈。当讨论表示正式或安排好的场合时，它仍然暗示着人们互相表达观点或情绪的自由轻松的会议：要求委员会就放水项目举行公开讨论。这个词可以专门指在某种单方面的演讲之后的一段时间，在此期间，观众会做出反应：演出结束后的讨论；演讲后的一般性讨论。当讨论表明一种更加非正式的情况时，这个词仍然不同于对话，它表示一种有目的的方法，将自己限制在给定的主题上，可能是为了得出结论或确定行动方案：每个成员都可以公开表达自己不满的家庭讨论；一场无伤大雅的谈话变成了一场关于警察暴力的激烈讨论。
+
+Dialogue and colloquy are more formal than the previous words, particularly the latter. Dialogue can refer to speeches in a play or to essays in play form. In the context of conversation, it strictly suggests a two-person exchange, yet this distinction is commonly ignored. The word has recently come to mean arranged discussions among people of dissimilar views: a new dialogue among the Protestant denominations and the Catholic church; a year-round dialogue between labour and management. Colloquy is an extremely formal substitute for discussion, and is typically used of formal situations: an extended colloquy between the witness and the defence counsel. It may refer to a high-level prearranged conference: a continuing colloquy on disarmament at the ambassadorial level. It might also be used humorously to suggest guarded verbal exchanges: my tense colloquy with the customs inspector.
+
+
+
+
+
+
+
 	
 ************************************************************************************
 ************************************************************************************
