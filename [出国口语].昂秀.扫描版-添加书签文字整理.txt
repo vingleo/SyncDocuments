@@ -72,3 +72,28 @@ Clerk:Which would you prefer, first class or economy?
 入境检查
 到了一个新国家，海关要对你进行严格的检查——护照,签证，还有很多各种各样的提问…虽然麻烦，但也没有办法，只能提前修炼好自己的英文了!
 
+01 详解惯用单句
+您有签证吗？ Do you hava your visa?
+This is my visa.
+  这是我的签证。
+Here is my passport.
+  这是我的护照。
+★visa n.签证（在护照上加盖的印签，表示已通过审查，可以过境)
+
+您是什么国籍? What's your nationality?
+= What's your citizenship?
+( I'm ) Chinese.(我是）中国国籍。
+I have British nationality.我有英国国籍。
+“nationality [nce] onaeliti]”和“citizenship ”都可表示“国籍”。
+
+我的签证有效期只剩一天了。My visa expires in one day.
+My visa is valid for one year.
+我的签证的有效期是一年。
+expire  v.期满
+valid  a.有效的
+
+这是我的最终目的地。This is my final destination.
+destination n.目的地，终点
+
+
+

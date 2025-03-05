@@ -1,0 +1,3419 @@
+
+
+####################################
+				Getting Started
+Thank you for purchasing the Korg wavestate Wave Sequencing Synthesizer.			
+感谢您购买 Korg wavestate 波形序列合成器。
+
+References to different wavestate models
+These manuals apply to all wavestate models with software version 3.0 or later, collectively referred to as “the wavestate.” The front panel and rear panel illustrations show the original wavestate, but they apply identically to the wavestate SE and wavestate mkII. The wavestate module has a slightly different control layout, but all functionality remains the same except as noted.
+不同 wavestate 型号的参考
+这些手册适用于所有软件版本为 3.0 或更高版本的 wavestate 型号，统称为“wavestate”。前面板和后面板插图显示了原始 wavestate，但它们同样适用于 wavestate SE 和 wavestate mkII。wavestate 模块的控制布局略有不同，但除另有说明外，所有功能均保持不变。
+
+About the wavestate manuals
+The documentation for the wavestate consists of the following:
+• Precautions
+• Quick Start Guide
+• Owner’s Manual (what you’re reading now)
+In this manual, the following text styles indicate:
+• FRONT PANEL CONTROLS
+• Parameter Names
+• Parameter Values
+关于 wavestate 手册
+wavestate 的文档包括以下内容：
+• 注意事项
+• 快速入门指南
+• 用户手册（您现在正在阅读的内容）
+在本手册中，以下文本样式表示：
+• 前面板控件
+• 参数名称
+• 参数值
+
+If you don’t usually read manuals...
+Even if you don’t usually read manuals, please read this section!
+如果你平时不看手册......
+即使您通常不阅读手册，也请阅读本节！
+
+Navigation
+Press a button or turn a knob, and the display will show the related page. Some pages, like Amp and Pitch, are only displayed when turning knobs. Similarly, the ARPEGGIATOR button both edits a parameter and displays a page. To display these or any other pages without making an edit, hold ENTER and turn or press the related knob or button. The page will appear with the parameter selected, but the value will not be changed.
+导航
+按下按钮或转动旋钮，显示屏将显示相关页面。某些页面（如 Amp 和 Pitch）仅在转动旋钮时显示。同样，ARPEGGIATOR 按钮既可以编辑参数，也可以显示页面。要显示这些页面或任何其他页面而不进行编辑，请按住 ENTER 并转动或按下相关的旋钮或按钮。将显示页面，其中参数处于选中状态，但值不会更改
+
+< > and PAGE-/PAGE+: These are the basic controls for moving around in the display. < and > cursor througparameters, and can also select items in lists. Hold SHIFT to use PAGE- and PAGE+, which select pages in the display. There are page indicators in the upper right of the display; the filled-in circle shows the current page.
+< > 和 PAGE-/PAGE+：这些是在显示中移动的基本控制钮。< 和 > 光标，还可以选择列表中的项目。按住 Shift 键可使用 PAGE- 和 PAGE+，用于选择显示中的页面。显示屏右上角有页面指示器;实心圆显示当前页面。
+
+LAYER A/B/C/D: Layers contain a Program, and Arpeggiator, and a handful of other settings. The front panel edits one Layer at a time, as selected by these buttons. To turn a Layer on or off, hold SHIFT and press the Layer’s button, or just double-press the button.
+音色层 A/B/C/D：音色层包含音色和自动琶音器以及一些其他设置。前面板一次编辑一个音色层，由这些按钮选择。要打开或关闭图层，请按住 Shift 并按下图层的按钮，或者直接双击该按钮。
+
+Most pages on the display apply only to the selected Layer. For these pages, the Layer’s letter (A/B/C/D) is shown in the upper left of the display.
+显示屏上的大多数页面仅适用于所选音色层。对于这些页面，音色层的字母 （A/B/C/D） 显示在显示屏的左上角。
+
+To go back to selecting sounds, press PERFORM. If you don’t see the main page the first time, press PERFORM again; two presses will always bring you to the home page with the Performance name selected. wavestate page map
+要返回选择声音，请按 PERFORM。如果第一次没有看到主页，请再次按 PERFORM;按两次将始终将您带到 Performance name 已选中的主页。
+
+Wavestate 页面地图
+
+SHIFT
+Hold down SHIFT to use alternative functions for knobs and buttons, labeled in blue text. For one-handed operation, double-press SHIFT to turn on Shift Hold; press again to turn off.
+转变
+按住 Shift 键可使用旋钮和按钮的替代功能，以蓝色文本标记。单手操作下，双击 SHIFT 开启 Shift Hold;再按一次可关闭。
+
+ENTER for accelerated editing
+Hold down ENTER to accelerate editing or scrolling. For example:
+• Normally, the VALUE knob works as a “fine” value input when moved slowly, with “coarse” bigger jumps when moved quickly. To restrict it to “coarse” value changes, hold ENTER while turning VALUE.
+• Hold ENTER and press < or > (or turn the VALUE dial) to scroll by a whole page in a list, such as when selecting Performances, Multisamples, or Mod routings.
+ENTER 用于加速编辑
+按住 Enter 可加速编辑或滚动。例如：
+• 通常，VALUE 旋钮在缓慢移动时用作 “精细” 值输入，当快速移动时 “粗略” 较大的跳跃。要将其限制为 “coarse” 值更改，请在转动 VALUE 时按住 ENTER。
+• 按住 ENTER 键并按下 < 或 >（或转动 VALUE 拨盘）可在列表中滚动一整页，例如在选择 Performances（性能）、Multisamples （多采样） 或 Mod （Mod） 路由时。
+
+Modulation
+Most front-panel knobs and on-screen parameters are modulatable. Hold MOD and press > to create a new modulation routing. When viewing and editing modulations, hold MOD and press < to filter the list. See the Mod List Info page for an on-screen list of shortcuts.
+调制
+大多数前面板旋钮和屏幕上的参数都是可调制的。按住 MOD 并按下 > 键以创建新的调制路由。在查看和编辑调制时，按住 MOD 并按下 < 键来过滤列表。参见 Mod List Info 页面以获取屏幕上的快捷方式列表。
+
+Mod Knobs
+You can use the Mod Knobs in real-time performance, and also save the results as new sounds. The names are suggestions; they will do different things depending on the specific sound. The values are stored, and can themselves be modulated. Each Layer’s Program has its own set of Mod Knobs, and an overall set of Performance Mod Knobs can control any or all Layers at once. Sometimes, one knob (such as 1/MASTER) may enable the functionality of other knobs.
+Mod 旋钮
+您可以在实时演奏中使用 Mod 旋钮，也可以将结果保存为新声音。这些名字是建议;它们会根据特定的声音做不同的事情。这些值被存储起来，并且本身可以被调制。每个 Layer 的 Program 都有自己的一组 Mod 旋钮，而一整套 Performance Mod 旋钮可以同时控制任何或所有 Layer。有时，一个旋钮（例如 1/MASTER）可能会启用其他旋钮的功能。
+
+Help pages
+Hold SHIFT and press the (Randomize) button to bring up a set of pages containing shortcuts and usage tips.
+帮助页面
+按住 Shift 并按下 （Randomize） 按钮可调出一组包含快捷方式和使用提示的页面。
+
+Structure
+The wavestate plays one Performance at a time. A Performance has four Layers, A…D, a Vector Envelope, and a master reverb and EQ. Each Layer contains an Arpeggiator, a Program, and other settings such as MIDI channel, key and velocity zones, etc. A Program includes a Wave Sequence or a single Multisample, a Filter, an Amp, a per-voice Vector Envelope, a set of modulators, a modulation matrix, and three effects: Pre FX, Mod FX, and Delay.
+wavestate 一次演奏一个 Performance。一个Performance
+ 有四个音色层，A...D、一个 Vector 包络以及一个主混响和均衡器。每个音色层都包含一个琶音器、一个音色和其他设置，例如 MIDI 通道、键位和力度区域等。程序包括一个 波形音序器（Wave Sequence） 或单个多重采样（Multisample）、一个滤波器、一个 放大器、一个按每声部的向量包络、一组调制器、一个调制矩阵和三个效果器：Pre FX、Mod FX 和 Delay。
+
+Selecting and Playing Sounds
+
+Selecting Sounds
+选择声音
+Selecting Performances from the display
+从显示屏中选择 Performances
+
+1. Press the PERFORM button, and if necessary press it again.
+Wherever you are in the system, the second press will always bring up the home page, with the large Performance name selected.
+1. 按下 PERFORM 按钮，如有必要，再按下一次。
+无论您在系统中的哪个位置，第二次按下都会始终显示主页，并选中了较大的 Performance 的名称部分。
+
+2. Follow the instructions under “Selecting from lists,” below.
+2. 按照下面“从列表中选择”下的说明进行操作。
+Selecting from lists
+从列表中选择
+Note: These instructions also apply to selecting Set Lists, Performances, Programs, Effects Presets, Wave Sequences, Multisamples, and Lane Presets.
+备注： 这些说明也适用于选择 Set List、Performances、Programs、Effects Presets、Wave Sequences、Multisamples 和 Lane Presets。
+1. Cursor to the item that you’d like to select.
+For this example, we’ll use Performances, continuing from above.
+1. 将光标光标光标移动到要选择的项。
+在此示例中，我们将使用 Performances，从上面继续。
+
+2. Turn the VALUE knob or press ENTER.
+A popup appears, showing a list of sounds.
+2. 转动 VALUE 旋钮或按 ENTER。
+此时将显示一个弹出窗口，其中显示了声音列表。
+
+3. Turn the VALUE knob or use < and > to select sounds. Hold ENTER and press < or > to jump by 5.
+You can play the sounds as you scroll through the list.
+3. 旋转 VALUE 旋钮或使用 < 和 > 选择声音。按住 ENTER 并按 < 或 > 可跳至 5。
+您可以在滚动列表时演奏出声音。
+
+4. When you find a sound that you like, press ENTER again (or SHIFT-ENTER to cancel).
+4. 找到喜欢的声音后，再次按 ENTER（或按 SHIFT-ENTER 取消）。
+
+Using Categories
+You can filter the list by sound category. To do so:
+使用类别
+您可以按声音类别过滤列表。操作方法如下：
+
+1. While the list is onscreen, press buttons 2 to 16 to select from the first 15 Categories.
+The button for the selected Category is brightly lit; other valid buttons are dimly lit. Some data types (such as Motion Sequences) may have fewer than 15 Categories. If there are fewer than 15 Categories for the current data type, only the valid buttons will be lit. For Performances, Programs, and Multisamples, these first 15 Categories are designed to include all of the other Categories; see the tables below for details.
+1. 列表显示在屏幕上时，按下按钮 2 至 16 从前 15 个类别中进行选择。
+所选类别的按钮亮起；其他有效按钮则暗淡。某些数据类型（例如运动序列）的类别可能少于 15 个。如果当前数据类型的类别少于 15 个，则只有有效按钮会亮起。对于表演、程序和多重采样，前 15 个类别旨在包含所有其他类别；有关详细信息，请参阅下表。
+
+2. To show all sounds again, press button 1.
+2. 要再次显示所有声音，请按下按钮 1。
+
+Performance and Program Categories and buttons 1-16
+演奏和程序类别以及按钮 1-16
+
+
+Button Category Also shows these Categories
+1 All Shows everything, regardless of Category
+2 Bass
+3 Lead
+4 Pad Soundscape
+5 Synth Fast Synth
+6 Bell/Mallet
+7 Gtr/Plucked
+8 Percussion
+9 Piano/Keys
+10 Brass
+11 Woodwind
+12 Strings Orchestral
+13 Vocal/Airy
+14 Seq Arpeggio, Just 4 Fun, Rhythm Hard, Rhythm Soft
+15 SFX
+16 User
+
+1 全部显示所有内容，无论类别如何
+2 低音
+3 主音
+4 垫音音景
+5 合成器快速合成器
+6 铃铛/木槌
+7 吉他/拨弦
+8 打击乐
+9 钢琴/键盘
+10 铜管乐器
+11 木管乐器
+12 弦乐管弦乐
+13 声乐/空灵
+14 音序琶音、Just 4 Fun、强节奏、柔节奏
+15 音效
+16 用户
+
+Multisample Categories and buttons 1-16
+
+Button Category Also shows these Categories
+1 All Shows everything, regardless of Category
+2 Bass Ac Bass, E Bass, Bass FX
+3 Lead
+4 Pad
+5 Synth
+6 Bell/Mallet
+7 Gtr/Plucked Ac Guitar, E Guitar, Guitar FX, Plucked
+8 Percussion Kick, Snare, Drum, Cymbal
+9 Piano/Keys Ac Piano, E Piano, Keyboard, Organ
+10 Brass Brass Ens, Brass Solo
+11 Woodwind
+12 Strings String Ens, String Solo
+13 Vocal/Airy
+14 Seq/Attack Attack
+15 SFX/Hits Hits, Effects
+16 User
+1 全部 显示所有内容，无论类别如何
+2 低音 Ac Bass、E Bass、Bass FX
+3 主音
+4 打击垫
+5 合成器
+6 铃铛/木槌
+7 吉他/拨弦 Ac 吉他、E 吉他、吉他 FX、拨弦
+8 打击乐 底鼓、小军鼓、鼓、钹
+9 钢琴/键盘 Ac 钢琴、E 钢琴、键盘、风琴
+10 铜管乐器 铜管乐器 Ens、铜管乐器独奏
+11 木管乐器
+12 弦乐 弦乐 Ens、弦乐独奏
+13 人声/空气
+14 音序/攻击 Attack
+15 音效/打击乐 Hits、效果
+16 用户
+
+Using the on-screen Category list
+Some data types, such as Performances, have more than 15 Categories. To view the full list:
+1. In the list popup, hold SHIFT and press PERFORM.
+The Category Select popup appears. The lists will vary depending on the data type.
+2. Select the desired Category, and press ENTER.
+The display returns to the list, showing only sounds in the selected Collection.
+使用屏幕上的类别列表
+某些数据类型（例如 Performance）有超过 15 个类别。要查看完整列表：
+1. 在列表弹出窗口中，按住 SHIFT 并按 PERFORM。
+出现类别选择弹出窗口。列表将根据数据类型而有所不同。
+2. 选择所需的类别，然后按 ENTER。
+显示屏返回列表，仅显示所选集合中的声音。
+
+Using Collections
+Collections are a different way of grouping sounds, separate from and in addition to Categories. For example, the factory Multisamples are grouped into a few Collections according to their origins. Third-party sound libraries might be marked as individual Collections. You can also create new Collections in the Editor/Librarian application, and use them for your own projects.
+To filter the sound list by Collection:
+1. In the list popup, hold SHIFT and press > (for PAGE+).
+The Filters & Sort Order page appears.
+使用集合
+集合是将声音分组的另一种方式，与类别分开并作为其补充。例如，工厂多重采样根据其来源分为几个集合。第三方声音库可能被标记为单独的集合。您还可以在编辑器/库管理器应用程序中创建新的集合，并将其用于您自己的项目。
+要按集合过滤声音列表：
+1. 在列表弹出窗口中，按住 SHIFT 并按 >（用于 PAGE+）。
+出现“过滤器和排序顺序”页面。
+
+2. Select the Collection parameter, and turn the VALUE knob or press ENTER.
+The Collection Select popup appears. The lists will vary depending on the data type.
+2. 选择 Collection 参数，然后转动 VALUE 旋钮或按 ENTER。
+出现 Collection Select 弹出窗口。列表将根据数据类型而有所不同。
+
+3. Select the desired Collection, and press ENTER.
+The display returns to the list, showing only sounds in the selected Collection.
+3. 选择所需的 Collection，然后按 ENTER。
+显示屏返回列表，仅显示所选 Collection 中的声音。
+
+Using Sort Order
+You can change the order in which sounds appear in the list. To do so:
+1. In the list popup, press PAGE+.
+The Filters & Sort Order page appears.
+2. Select Sort Order, and turn the VALUE knob or press ENTER.
+使用排序顺序
+您可以更改声音在列表中的显示顺序。操作方法：
+1. 在列表弹出窗口中，按 PAGE+。
+出现“筛选器和排序顺序”页面。
+2. 选择“排序顺序”，然后转动 VALUE 旋钮或按 ENTER。
+
+3. Choose the desired order.
+You can choose from alphabetical (A-Z), reverse alphabetical (Z-A), or Category (sorted alphabetically within each
+Category).
+3. 选择所需顺序。
+您可以选择按字母顺序 (A-Z)、反向字母顺序 (Z-A) 或类别 (在每个类别内按字母顺序排序)。
+
+Using Set Lists
+Set Lists let you group and order Performances for gigs or projects. A Set List has 64 Slots, arranged into four banks A- D, corresponding to MIDI Program Change messages 1-64. Note that Set Lists don’t contain separate copies of their sounds; they just point to Performances stored in the database.
+To select sounds in the current Set List:
+使用 Set List
+Set List 可让您对演出或项目的演奏进行分组和排序。Set List 有 64 个插槽，排列成四个库 A-D，对应于 MIDI 程序更改消息 1-64。请注意，Set List 不包含其声音的单独副本；它们只是指向存储在数据库中的演奏。
+要在当前 Set List 中选择声音：
+1. Press the SET LIST button, so that it is lit.
+2. To select sounds in the current bank, press buttons 1-16.
+3. To select from a different bank, double-press A/B/C/D (1/2/3/4). Alternatively, hold either SHIFT or SET
+LIST and then press A/B/C/D. Buttons 1-16 will then blink; press one to select a sound in the new bank.
+1. 按下 SET LIST 按钮，使其亮起。
+2. 要选择当前库中的声音，请按下按钮 1-16。
+3. 要从不同的库中选择，请双击 A/B/C/D（1/2/3/4）。或者，按住 SHIFT 或 SET
+LIST，然后按下 A/B/C/D。按钮 1-16 将闪烁；按下一个按钮以选择新库中的声音。
+
+If you select a sound using the display, buttons 1-16 will go dark. To return to the Set List, just press one of the buttons again.
+You can store many different Set Lists, and switch between them as desired. To select a different Set List:
+1. Press UTILITY twice, to go to the System Setup page.
+2. Select the Set List parameter, and press ENTER or turn the VALUE knob.
+From this point, selecting Set Lists works just like selecting Performances, as described above.
+如果您使用显示屏选择声音，按钮 1-16 将变暗。要返回到设置列表，只需再次按下其中一个按钮即可。
+您可以存储许多不同的设置列表，并根据需要在它们之间切换。要选择不同的设置列表：
+1. 按 UTILITY 两次，转到系统设置页面。
+2. 选择设置列表参数，然后按 ENTER 或转动 VALUE 旋钮。
+从这一点开始，选择设置列表就像选择性能一样，如上所述。
+
+Assigning a Performance to a Set List Slot
+1. Select the Performance that you’d like to assign.
+2. Press the SET LIST button, so that it is lit.
+3. Hold WRITE and press the Slot to which you’d like to save.
+The Write page appears, with that Slot already selected. To change the Slot, hold WRITE and press a different Slot button.
+4. Press WRITE, and then ENTER to confirm.
+The Set List will also be saved. If the Performance has been edited, you’ll be prompted to save it too.
+While you’re on the Write page, you can also select a Slot from a different bank (for instance, if you’re copying a
+Performance to a different Slot):
+1. Hold WRITE and SHIFT, and press button 1-4 for the desired Bank.
+2. Release WRITE and SHIFT.
+3. Proceed to Step 3 above.
+将表演分配到设置列表插槽
+1. 选择您想要分配的表演。
+2. 按下 SET LIST 按钮，使其亮起。
+3. 按住 WRITE 并按下您想要保存到的插槽。
+出现写入页面，其中已选择该插槽。要更改插槽，请按住 WRITE 并按下不同的插槽按钮。
+4. 按 WRITE，然后按 ENTER 确认。
+曲目列表也将被保存。如果已编辑表演，系统也会提示您保存。
+在写入页面上，您还可以从不同的库中选择一个插槽（例如，如果您将
+表演复制到不同的插槽）：
+1. 按住 WRITE 和 SHIFT，然后按下所需库的按钮 1-4。
+2. 释放 WRITE 和 SHIFT。
+3. 继续执行上面的步骤 3。
+
+Saving Set Lists
+To save the Set List:
+1. Hold WRITE and press SET LIST.
+The Write page appears, with the data type set to Set List.
+2. To overwrite the existing Set List, press WRITE. To make a new copy and leave the existing Set List unchanged, press SHIFT-WRITE.
+3. Press ENTER to confirm, or SHIFT-ENTER to cancel.
+For more details, see “Saving Sounds” on page 17.
+保存曲目列表
+要保存曲目列表：
+1. 按住 WRITE 并按下 SET LIST。
+此时将出现“写入”页面，数据类型设置为曲目列表。
+2. 要覆盖现有曲目列表，请按 WRITE。要制作新副本并保持现有曲目列表不变，请按 SHIFT-WRITE。
+3. 按 ENTER 确认，或按 SHIFT-ENTER 取消。
+有关更多详细信息，请参阅第 17 页上的“保存声音”。
+
+Using Note Trigger (module only)
+Note Trigger lets you play sounds using the 1-16 buttons as an alternative keyboard—convenient if you don’t have a full keyboard connected. Note Trigger is only available on the wavestate module.
+To use Note Trigger:
+1. Hold SHIFT and press WSEQ STEPS.
+The Note Trigger page appears:
+Buttons 1-13 illuminate to create a keyboard pattern from C to C, with dimmed lights showing the white keys.
+2. To play notes, press buttons 1-13.
+3. To change the octave, use buttons 15 (down) and 16 (up), or edit the Octave parameter on the display.
+4. To set the velocity of the triggered notes, use the Velocity parameter.
+5. To cancel Note Trigger, press either SET LIST or WSEQ STEPS.
+While using Note Trigger, you can use almost all of the instrument as you would normally. There are a few exceptions:
+• When selecting Performances, Programs, Wave Sequences, etc., the 1-16 buttons continue to function as Note Triggers, and so they are not available for selecting Categories.
+• Entering a Wave Sequence editing page cancels Note Trigger, since the 1-16 buttons need to be used for Step selection.
+
+使用音符触发器（仅限模块）
+音符触发器允许您使用 1-16 按钮作为备用键盘播放声音 - 如果您没有连接完整键盘，则非常方便。音符触发器仅在 wavestate 模块上可用。
+要使用音符触发器：
+1. 按住 SHIFT 并按 WSEQ STEPS。
+出现音符触发器页面：
+按钮 1-13 亮起以创建从 C 到 C 的键盘模式，暗淡的灯光显示白键。
+2. 要弹奏音符，请按下按钮 1-13。
+3. 要更改八度，请使用按钮 15（向下）和 16（向上），或在显示屏上编辑八度参数。
+4. 要设置触发音符的速度，请使用速度参数。
+5. 要取消音符触发器，请按 SET LIST 或 WSEQ STEPS。
+使用音符触发器时，您可以像平常一样使用几乎所有乐器。有几个例外：
+• 选择表演、程序、波形序列等时，1-16 按钮继续用作音符触发器，因此它们不可用于选择类别。
+• 进入波形序列编辑页面会取消音符触发器，因为 1-16 按钮需要用于步骤选择。
+
+********************************
+				Basic Editing
+				基本编辑
+Home Page (PERFORM)	
+This is the wavestate’s main page, where you can select Performances, set the Layer’s Program, and see a real-time overview of the Layer’s Wave Sequence.
+
+Wherever you are in the system, pressing PERFORM twice in row always returns here, with the Performance name selected.
+
+Normally, using Lane controls or Mod Knobs takes you to the related pages in the display. The home page is an exception, so that you can change Lane settings and see the results in the Wave Sequence Overview, or use Mod Knobs while browsing through Performances.
+
+The home page is also the only one on which the Page Indicators do not appear. Press PAGE+ to go to the Layer Programs page.
+
+Wave Sequence Overview This shows the current state of the Layer’s newest sounding voice.
+
+Note: Through modulation and probability, each voice in each Lane of each Wave Sequence may be on different steps, and may also have different Start/End/Loop Start/Loop End settings.
+
+主页（PERFORM）
+这是波形状态的主页，您可以在其中选择性能、设置图层的程序并查看图层波形序列的实时概览。
+
+无论您在系统中的哪个位置，连续按两次 PERFORM 都会返回此处，并选择性能名称。
+
+通常，使用 Lane 控件或 Mod Knobs 会将您带到显示屏中的相关页面。主页是个例外，因此您可以更改 Lane 设置并在波形序列概览中查看结果，或者在浏览性能时使用 Mod Knobs。
+
+主页也是唯一没有显示页面指示器的页面。按 PAGE+ 转到图层程序页面。
+
+波形序列概览这显示了图层最新声音的当前状态。
+
+注意：通过调制和概率，每个波形序列的每个 Lane 中的每个声音可能处于不同的步骤上，也可能具有不同的开始/结束/循环开始/循环结束设置。
+
+Master Lane Progress Bar
+When enabled, the Master Lane restarts all of the other Lanes after either a specified number of beats or elapsed time; see “Master Lane” on page 23. This progress bar shows its current state.
+
+Single Multisample display When the Wave Sequence page Mode parameter is set to Single Multisample, the Multisample name is shown instead of the overview.
+主通道进度条
+启用后，主通道会在指定数量的节拍或经过的时间后重新启动所有其他通道；请参阅第 23 页上的“主通道”。此进度条显示其当前状态。
+
+单一多重采样显示当波形序列页面模式参数设置为单一多重采样时，将显示多重采样名称而不是概览。
+
+Layer Programs
+This page shows the Program selection and Volume for each Layer, as well as Performance Hold.
+A…D (Programs A…D)
+[List of Programs]
+This selects the Program for the Layer.
+(Volume A…D)
+[-Inf, -84.9…+6.0 dB]
+This controls the volume of the Layer (duplicating the Layer Setup page’s Volume parameter). This is saved in the
+Performance, instead of the Program—so it’s a good choice when balancing levels between Layers.
+Performance Hold
+[Off, On]
+Use Performance Hold to hold notes or chords, leaving your hands free for knobs and modulation. This works
+differently from the Damper Pedal and the Program-level Hold parameter. When Performance Hold is On, notes or
+chords are held indefinitely until you play a new note or chord, at which point the previous notes are cut off and the new ones will sound.
+Performance Hold applies only to Layers on the Global MIDI Channel.
+The ARPEGGIATOR button LED shows both Arpeggiator On/Off and Performance Hold On/Off, as shown below.
+(See “Arpeggiator” on page 38.)
+层程序
+此页面显示每个层的程序选择和音量，以及性能保持。
+A…D（程序 A…D）
+[程序列表]
+这将选择层的程序。
+（音量 A…D）
+[-Inf，-84.9…+6.0 dB]
+这将控制层的音量（复制层设置页面的音量参数）。这保存在
+性能中，而不是程序中 - 因此在平衡层之间的级别时，这是一个不错的选择。
+性能保持
+[关闭，打开]
+使用性能保持来保持音符或和弦，让您的双手可以自由地调节旋钮和调制。这与制音踏板和程序级保持参数的工作方式不同。当性能保持打开时，音符或
+和弦将无限期保持，直到您弹奏新的音符或和弦，此时先前的音符将被切断，新的音符将发声。
+性能保持仅适用于全局 MIDI 通道上的层。
+ARPEGGIATOR 按钮 LED 显示琶音器开/关和性能保持开/关，如下所示。
+（请参阅第 38 页的“琶音器”。）
+
+Arpeggiator button LED and Hold
+Hold Off Hold On
+Arpeggiator Off LED off LED blinks evenly
+Arpeggiator On LED on LED blinks: long on, short off
+琶音器按钮 LED 和保持
+保持关闭保持开启
+琶音器关闭 LED 关闭 LED 均匀闪烁
+琶音器开启 LED 开启 LED 闪烁：长亮，短灭
+
+	Velocity Zones
+Shortcut: Pressing a LAYER button switches to the current parameter in the selected Layer's column.
+High Vel (A…D), Low Vel (A…D)
+[1…127]
+These set the highest and lowest velocities on which the Layer will sound.	
+力度区域
+快捷方式：按下 LAYER 按钮可切换到所选 Layer 列中的当前参数。
+高力度 (A…D)、低力度 (A…D)
+[1…127]
+这些设置了 Layer 发声的最高和最低力度。
+
+High Fade (A…D)
+[0…126]
+0: The High Vel acts as a hard split, with full volume on one side and silence on the other.
+1…126: This lets you create a velocity crossfade. As velocity approaches the High Vel, the volume fades out gradually.
+High Fade sets the velocity range over which the fade-out occurs, working inwards from the High Vel.
+Low Fade (A…D)
+See “High Fade (A…D),” above.
+Setting values from the keyboard
+You can set velocities and note numbers directly from the keyboard, or via MIDI. This applies throughout the wavestate. To do so:
+1. Select the velocity or note number parameter you’d like to edit.
+2. Press and hold the ENTER button.
+3. Play a note on the keyboard to set the parameter.
+4. Release the ENTER button.
+高音淡入淡出 (A…D)
+[0…126]
+0：高音用作硬分割，一侧音量最大，另一侧静音。
+1…126：这可让您创建速度交叉淡入淡出。当速度接近高音时，音量会逐渐减弱。
+高音淡入设置淡入淡出的速度范围，从高音向内进行。
+低音淡入淡出 (A…D)
+请参阅上面的“高音淡入淡出 (A…D)”。
+从键盘设置值
+您可以直接从键盘或通过 MIDI 设置速度和音符编号。这适用于整个波形状态。操作方法：
+1. 选择要编辑的速度或音符编号参数。
+2. 按住 ENTER 按钮。
+3. 在键盘上弹奏一个音符来设置参数。
+4. 松开 ENTER 按钮。
+
+		Keyboard Zones
+		键盘区域
+Shortcut: Pressing a LAYER button switches to the current parameter in the selected Layer's column.
+High (A…D), Low (A…D)
+[C-1…G9]
+These set the highest and lowest notes on which the Layer will sound.
+Note: The graphic shows only the standard range of 88 notes.
+HFade (High Fade A…D)
+[0…127]
+0: The High key acts as a hard split, with full volume on one side and silence on the other.
+1…127: This allows you to create a keyboard crossfade. As the notes approach the High key, the volume will fade out gradually. This sets the number of semitones over which the fade-out occurs, working inwards from the High key.
+LFade (Low Fade A…D)
+[0…127]
+See “HFade (High Fade A…D),” above.
+
+快捷方式：按下 LAYER 按钮可切换到所选 Layer 列中的当前参数。
+高 (A…D)、低 (A…D)
+[C-1…G9]
+这些设置了 Layer 发声的最高和最低音符。
+注意：图形仅显示 88 个音符的标准范围。
+HFade（高淡化 A…D）
+[0…127]
+0：高键充当硬分割，一侧为最大音量，另一侧为静音。
+1…127：这允许您创建键盘交叉淡入淡出。当音符接近高键时，音量将逐渐淡出。这设置了淡出发生的半音数，从高键向内工作。
+LFade（低淡化 A…D）
+[0…127]
+请参阅上面的“HFade（高淡化 A…D）”。
+
+		Program Setup
+
+Volume
+[-Inf, -84.9…0.0 dB]
+This controls the overall volume of the Program, for volume-balancing with other sounds.
+Octave
+[-4…+4 octaves]
+This transposes the Program by up to four octaves up or down.
+Transpose
+[-12…+12 semitones]
+This transposes the Program by up to one octave, up or down, in semitones.
+Trigger On
+[Key-On, Key-Off]
+Key-On: This is the default setting, in which the Program is played when a key is pressed.
+Key-Off: The Program will play as soon as you release the key. You can use this to create the “click” heard when a harpsichord note is released, for instance. In general, when using Key-Off it’s also best to set the Amp Envelope Sustain
+to 0.
+Random Pitch Range
+[0.0…50.0 cents]
+This parameter creates random variations in pitch for each note. At the default of 0.0, pitch will be completely stable; higher values create more randomization. This can be helpful for simulating instruments that have natural pitch instabilities, such as analog synths, tape-loop keyboards, or acoustic instruments.
+Hold
+[Off, On]
+Hold is like permanently pressing down on the sustain pedal. Notes continue to play as if you were holding down the key—even after you lift your fingers from the keyboard. If the sound is a looped Wave Sequence or a looped single sample, it will play continuously until you select a different sound.
+Off: Notes will play normally. This is the default setting.
+On: The sound will hold indefinitely.	
+
+程序设置
+
+音量
+[-Inf, -84.9…0.0 dB]
+控制程序的整体音量，以便与其他声音保持音量平衡。
+八度
+[-4…+4 个八度]
+将程序向上或向下移调最多四个八度。
+移调
+[-12…+12 个半音]
+将程序向上或向下移调最多一个八度，以半音为单位。
+触发开启
+[键开启、键关闭]
+键开启：这是默认设置，按下琴键时播放程序。
+键关闭：释放琴键后程序将立即播放。例如，您可以使用此功能创建释放大键琴音符时听到的“咔嗒”声。一般来说，使用 Key-Off 时，最好将 Amp Envelope Sustain 设置为 0。
+随机音高范围
+[0.0…50.0 音分]
+此参数为每个音符创建随机的音高变化。默认值为 0.0，音高将完全稳定；值越高，随机性就越强。这对于模拟具有自然音高不稳定性（如模拟合成器、磁带循环键盘或原声乐器）的乐器很有帮助。
+保持
+[关闭、打开]
+保持就像一直踩下延音踏板一样。音符会继续播放，就像您按住琴键一样 — 即使您将手指从键盘上移开。如果声音是循环的波形序列或循环的单个样本，它将连续播放，直到您选择不同的声音。
+关闭：音符将正常播放。这是默认设置。
+打开：声音将无限期保持。
+
+		Voice Assign
+Mode = Poly
+(Voice Assign) Mode
+[Poly, Mono]
+This selects the basic voice allocation mode. Depending on which one you select, various other options will appear,
+such as Single Trig (Poly mode only) and Mono Legato and Priority (Mono mode only).
+Poly: The Program will play polyphonically, allowing you play chords.
+Mono: The Program will play monophonically, producing only one note at a time.
+Single Trigger
+[Off, On]
+Single Trigger is available when Voice Assign Mode is set to Poly.
+On: When you play the same note repeatedly, the previous note will be silenced before the next note is sounded, so that the two do not overlap.
+Off: When you play the same note repeatedly, the notes will overlap.
+Max # of Notes
+[Dynamic, 1…64]
+Max # of Notes is available when Voice Assign Mode is set to Poly.
+Dynamic is the default. With this setting, you can play as many notes as the system allows.
+1-64 limits the number of notes played by the Program. Voices will be allocated dynamically up to this maximum. You can use this to:
+• Model the voice-leading of vintage synthesizers
+• Control the resources required by individual Programs
+This setting does not limit the Unison Voices parameter. For instance, if Max # of Notes is set to 6, and Unison Voices is set to 3, you can play up to 6 notes, each with 3 Unison voices.
+语音分配
+模式 = 复音
+（语音分配）模式
+[复音、单音]
+这将选择基本语音分配模式。根据您选择的模式，将出现各种其他选项，
+例如单触发（仅限复音模式）和单音连奏和优先级（仅限单音模式）。
+复音：程序将以复音方式播放，允许您弹奏和弦。
+单音：程序将以单音方式播放，一次只产生一个音符。
+单触发
+[关闭、打开]
+当语音分配模式设置为复音时，单触发可用。
+打开：当您反复弹奏同一个音符时，在下一个音符发声之前，前一个音符将静音，这样两个音符就不会重叠。
+关闭：当您反复弹奏同一个音符时，音符将重叠。
+最大音符数
+[动态，1…64]
+当语音分配模式设置为复音时，最大音符数可用。
+动态是默认值。使用此设置，您可以播放系统允许的任意数量的音符。
+1-64 限制程序播放的音符数量。声音将动态分配至此最大值。您可以使用它来：
+• 模拟老式合成器的语音引导
+• 控制各个程序所需的资源
+此设置不限制 Unison Voices 参数。例如，如果将“最大音符数”设置为 6，将“Unison Voices”设置为 3，则您最多可以播放 6 个音符，每个音符有 3 个 Unison 声音。
+
+Mode = Mono
+Mono Legato
+[Off, On]
+Mono Legato is available when Voice Assign Mode is set to Mono.
+Legato means to play in a smooth, connected way; the next note is played before the last note is released.
+On: The first note in a legato phrase will sound normally; subsequent notes in the phrase will sound smoother (for instance, envelopes will continue instead of restarting).
+Off: Legato playing will produce the same sound as detached playing.
+Priority
+[Low, High, Last]
+Priority is available when Voice Assign Mode is set to Mono.
+This determines what happens when more than one note is being held down.
+Low: The lowest note will sound. Many vintage monophonic analog synths work this way.
+High: The highest note will sound.
+Last: The most recently played note will sound.
+Unison Voices
+[1…16]
+Unison can be used in both Mono and Poly modes.
+1: Unison is off, and Stereo Spread and Detune do not apply.
+模式 = 单声道
+单声道连奏
+[关闭，打开]
+当语音分配模式设置为单声道时，单声道连奏可用。
+连奏意味着以流畅、连贯的方式演奏；在释放最后一个音符之前演奏下一个音符。
+打开：连奏乐句中的第一个音符将正常发声；乐句中的后续音符将听起来更平滑（例如，包络将继续而不是重新开始）。
+关闭：连奏将产生与分离演奏相同的声音。
+优先级
+[低、高、最后]
+当语音分配模式设置为单声道时，优先级可用。
+这决定了当按住多个音符时会发生什么。
+低：将发出最低的音符。许多老式单声道模拟合成器都以这种方式工作。
+高：将发出最高的音符。
+最后：将发出最近演奏的音符。
+齐奏声音
+[1…16]
+齐奏可以在单声道和复音模式下使用。
+1：Unison 关闭，并且 Stereo Spread 和 Detune 不适用。
+
+2-16: The Program uses the specified number of stacked, detuned voices to create a thicker sound.
+Detune
+[0…200 cents]
+This parameter sets the tuning spread for the Unison voices.
+Voices = 3, Detune = 24, Thickness Off
+Voices Detune
+1 –12
+2 0
+3 +12
+2-16：程序使用指定数量的堆叠、失谐声音来创建更厚重的声音。
+失谐
+[0…200 音分]
+此参数设置 Unison 声音的调音范围。
+声音 = 3，失谐 = 24，厚度关闭
+
+Voices = 4, Detune = 24, Thickness Off
+Voices Detune
+1 –12
+2 –4
+3 +4
+4 +12
+
+Thickness
+[0…100]
+This parameter controls the character of the detuning for the unison voices.
+0: Unison voices are evenly distributed across the Detune range, as shown above.
+1…100: Unison voices are detuned asymmetrically. This makes the detuning more complex, and changes the way in which the pitches beat against one another—like slightly out-of-tune oscillators in a vintage synthesizer. Higher numbers increase the effect.
+Stereo (Spread)
+[0…100]
+Stereo lets you create a wider stereo field when using Unison. It applies only when Unison Voices is 2 or greater.
+厚度
+[0…100]
+此参数控制同音声音的失谐特性。
+0：同音声音在失谐范围内均匀分布，如上所示。
+1…100：同音声音不对称失谐。这使失谐更加复杂，并改变了音高相互敲击的方式——就像老式合成器中略微失调的振荡器一样。数字越大，效果越强。
+立体声（扩展）
+[0…100]
+立体声可让您在使用同音时创建更宽的立体声场。它仅在同音声音为 2 或更大时适用。
+
+			Layer Setup
+Volume
+[-Inf, -84.9…+6.0 dB]
+This controls the volume of the Layer. Note that this is saved in the Performance, but not with the Program—so it’s a good choice when balancing levels between Layers.
+Octave
+[-3…+3]
+This transposes the Layer by 3 octaves, up or down.
+		
+图层设置
+音量
+[-Inf, -84.9…+6.0 dB]
+这控制图层的音量。请注意，这保存在性能中，但不保存在程序中 - 因此在平衡图层之间的音量时，这是一个不错的选择。
+八度
+[-3…+3]
+这会将图层向上或向下移调 3 个八度。
+
+Tune
+[-100…+100 cents]
+This lets you detune the Layer by up to 100 cents (1/100 of a semitone), up or down.
+Use Global MIDI Channel
+[Off, On]
+On: This is the default. The Layer will play from the built-in keyboard, and receive on the Global Channel.
+Off: The Layer will receive on the channel specified below, and will not play from the built-in keyboard.
+MIDI Channel
+[1…16]
+This is shown only if Use Global MIDI Channel is Off. It sets the channel on which the Layer will receive MIDI.
+Rx Damper
+[Off, On]
+On: This is the default. The Layer will respond to the connected damper pedal and to MIDI CC#64.
+Off: The Layer will ignore both the connected damper pedal and MIDI CC#64.
+Rx Other CCs
+[Off, On]
+On: This is the default. The Layer will respond normally to MIDI CCs. Off: The Layer will ignore all MIDI CCs (except for CC#64), as well as Aftertouch, Poly Aftertouch, and Pitch Bend.
+调音
+[-100…+100 音分]
+这可让您将 Layer 调低最多 100 音分（半音的 1/100），可上调或下调。
+使用全局 MIDI 通道
+[关闭，打开]
+打开：这是默认设置。Layer 将从内置键盘播放，并在全局通道上接收。
+关闭：Layer 将在下面指定的通道上接收，不会从内置键盘播放。
+MIDI 通道
+[1…16]
+仅当使用全局 MIDI 通道为关闭时才会显示。它设置 Layer 将在其上接收 MIDI 的通道。
+Rx 阻尼器
+[关闭，打开]
+打开：这是默认设置。Layer 将响应连接的阻尼踏板和 MIDI CC#64。
+关闭：Layer 将忽略连接的阻尼踏板和 MIDI CC#64。
+Rx 其他 CC
+[关闭，打开]
+打开：这是默认设置。Layer 将正常响应 MIDI CC。关闭：该层将忽略所有 MIDI CC（CC#64 除外），以及 Aftertouch、Poly Aftertouch 和 Pitch Bend。
+
+			Performance Setup
+Volume
+[-Inf, -84.9…0.0 dB]
+This controls the Performance volume, for balancing levels with other sounds.
+Octave
+[-2…+2]
+This transposes the entire Performance by 2 octaves, up or down.
+Tempo (TAP TEMPO)
+[40.00…300.00]
+This sets the tempo for the Performance. To show this parameter without changing the value, use ENTER + TAP TEMPO.
+演奏设置
+音量
+[-Inf, -84.9…0.0 dB]
+控制演奏音量，用于平衡与其他声音的音量。
+八度
+[-2…+2]
+将整个演奏调高或调低 2 个八度。
+速度 (TAP TEMPO)
+[40.00…300.00]
+设置演奏的速度。要显示此参数而不更改值，请使用 ENTER + TAP TEMPO。
+
+Transpose
+[-12…+12]
+This transposes the entire Performance by 12 semitones, up or down.
+Perf Scale
+[Off, On]
+On: The Performance Scale settings, below, are used—unless Global Scale is On, in which case the Global scales are used instead.
+Off: The Performance Scale settings are ignored.
+Active Scale, 1 (Scale 1), (Key), 2 (Scale 2), (Key)
+For details on the scale parameters, see “Global Scale” on page 88.
+移调
+[-12…+12]
+这会将整个演奏组向上或向下移调 12 个半音。
+演奏音阶
+[关闭，打开]
+打开：使用下面的演奏音阶设置 — 除非全局音阶为打开状态，在这种情况下将使用全局音阶。
+关闭：忽略演奏音阶设置。
+活动音阶，1（音阶 1），（调），2（音阶 2），（调）
+有关音阶参数的详细信息，请参阅第 88 页上的“全局音阶”。
+
+############################################
+				Write
+Saving Sounds
+The Performance, with its four Layers, is the main way of selecting, editing, and saving sounds. While you can save Programs, Wave Sequences, and Wave Sequence Lane Presets, you don’t have to do so: all data is contained in the Performance.
+
+Similarly, when you load any of these data types into a Performance, a new copy of the data is created in the Performance. Any edits affect only the local copy inside the Performance, and not the original data. This lets you edit freely without worrying about affecting other sounds.
+
+To save: 
+1. Press the WRITE button.
+
+The Write page appears, with the type of data to write shown at the top of the page. By default, this is set to Performance.
+
+2. To choose a different data type, hold WRITE and press a button such as LAYER A/B/C/D (for Programs), SET LIST, or WAVE SEQUENCE, or set the Type manually in the display.
+
+For Programs, Wave Sequences, and Lanes, another parameter will appear: From (Layer A…D). For example, if Type is Timing Lane, and From is set to Layer B, Write will save the Timing Lane from Layer B. This defaults to the currently selected Layer, but you can change it if desired.
+
+3. If necessary, set the From parameter to the desired Layer, either on-screen or by pressing one of the LAYER buttons.
+
+4. Optionally, cursor to the name and press ENTER.
+
+This brings up the Text Edit page.
+
+5. To edit the name, use < or > to move back and forth, and VALUE to change the selected character. SHIFT changes character sets. Press ENTER when you’re done.
+
+Important: changing the name does not automatically make a new copy of the sound!
+
+6. To overwrite the existing sound, press WRITE. To make a new copy and leave the existing sound unchanged, press SHIFT-WRITE.
+
+7. Press ENTER to confirm, or SHIFT-ENTER to cancel.
+
+Factory sounds may be write-protected, in which case only “save new” is available.
+Never turn off the power while data is being saved. Doing so may destroy the internal data.
+写入
+保存声音
+具有四个层的 Performance 是选择、编辑和保存声音的主要方式。虽然您可以保存程序、波形序列和波形序列通道预设，但您不必这样做：所有数据都包含在 Performance 中。
+
+同样，当您将这些数据类型中的任何一种加载到 Performance 中时，Performance 中会创建数据的新副本。任何编辑都只会影响 Performance 中的本地副本，而不会影响原始数据。这样您就可以自由编辑，而不必担心影响其他声音。
+
+要保存：
+1. 按下 WRITE 按钮。
+
+出现写入页面，页面顶部显示要写入的数据类型。默认情况下，设置为 Performance。
+
+2. 要选择不同的数据类型，请按住 WRITE 并按下按钮，例如 LAYER A/B/C/D（用于程序）、SET LIST 或 WAVE SEQUENCE，或在显示屏中手动设置类型。
+
+对于程序、波形序列和通道，将出现另一个参数：来自（层 A…D）。例如，如果类型是时序通道，并且“来自”设置为层 B，则写入将保存层 B 中的时序通道。这默认为当前选定的层，但您可以根据需要进行更改。
+
+3. 如果需要，请将“来自”参数设置为所需的层，可在屏幕上或按其中一个层按钮进行设置。
+
+4. 可选地，将光标移到名称上并按 ENTER。
+
+这将打开文本编辑页面。
+
+5. 要编辑名称，请使用 < 或 > 来回移动，使用 VALUE 更改选定的字符。SHIFT 更改字符集。完成后按 ENTER。
+
+重要提示：更改名称不会自动制作声音的新副本！
+
+6. 要覆盖现有声音，请按 WRITE。要制作新副本并保持现有声音不变，请按 SHIFT-WRITE。
+
+7. 按 ENTER 确认，或按 SHIFT-ENTER 取消。
+
+出厂声音可能被写保护，在这种情况下只能“保存新声音”。
+保存数据时切勿关闭电源。这样做可能会破坏内部数据。
+
+			Write Metadata
+The second page under Write allows you to select two Categories for the saved item. When searching by Category, a sound will be shown if either of its Categories match the search criteria.
+Note: When Type is set to Set List Slot, this page is not available.
+Category 1/2
+[List of Categories]
+Each object type—Performances, Programs, Multisamples, etc.—has its own list of Categories. Note that only the first 15 Categories are mapped to the front-panel buttons.		
+写入元数据
+写入下的第二页允许您为保存的项目选择两个类别。按类别搜索时，如果任一类别符合搜索条件，则将显示声音。
+注意：当类型设置为设置列表插槽时，此页面不可用。
+类别 1/2
+[类别列表]
+每个对象类型（表演、程序、多重采样等）都有自己的类别列表。请注意，只有前 15 个类别映射到前面板按钮。
+
+Name
+Note: you can name Programs, Wave Sequences, and Lanes without writing them separately. As long as you save the enclosing Performance, the new name will be saved.
+Editing names
+1. On the Write page, select the Name.
+2. Press ENTER, or turn the VALUE dial.
+The Name page appears.
+3. Use the cursor buttons to move back and forth in the text, and use VALUE to select a character from the set shown below.
+Names can be up to 24 characters long.
+4. Press SHIFT to toggle between A-Z, a-z, numbers, and symbols.
+5. Hold SHIFT and press > (PAGE+) to insert a space.
+6. Hold SHIFT and press < (PAGE-) to delete the previous character.
+7. When you’ve finished entering text, press ENTER to return to the previous page, or SHIFT-ENTER to cancel.
+名称
+注意：您可以命名程序、波形序列和通道，而无需单独编写它们。只要您保存封闭的性能，新名称就会被保存。
+编辑名称
+1. 在写入页面上，选择名称。
+2. 按 ENTER，或转动 VALUE 拨盘。
+出现名称页面。
+3. 使用光标按钮在文本中前后移动，并使用 VALUE 从下面显示的集合中选择一个字符。
+名称最多可以有 24 个字符。
+4. 按 SHIFT 在 A-Z、a-z、数字和符号之间切换。
+5. 按住 SHIFT 并按 > (PAGE+) 插入空格。
+6. 按住 SHIFT 并按 < (PAGE-) 删除前一个字符。
+7. 输入完文本后，按 ENTER 返回上一页，或按 SHIFT-ENTER 取消。
+
+			Compare
+Select
+[Saved Performance, Edited Performance]
+Saved Performance: The saved version of the Performance will be heard.
+Edited Performance: The edited version of the Performance will be heard. If the Performance has not been edited, this is not available.
+Using Compare
+To use compare:
+1. Hold ENTER and press WRITE.
+The Compare page will appear.
+2. Hold ENTER and press WRITE, again, to toggle between the saved and edited versions of the Performance.
+When you change from Edited Performance to Saved Performance, the edited version is stored in a buffer, and the Performance reverts to the version saved in the database. You can toggle back and forth between the two as many times as you like.
+If you change to Saved Performance and then make any edits, the next time you go to the Compare page Select will be set to Edited Performance, and the previously buffered “Edited Performance” will be lost.			
+比较
+选择
+[已保存的演奏，已编辑的演奏]
+已保存的演奏：将听到已保存的演奏版本。
+已编辑的演奏：将听到已编辑的演奏版本。如果演奏尚未编辑，则不可用。
+使用比较
+要使用比较：
+1. 按住 ENTER 并按下 WRITE。
+将出现比较页面。
+2. 再次按住 ENTER 并按下 WRITE，在演奏的已保存版本和已编辑版本之间切换。
+当您从已编辑的演奏更改为已保存的演奏时，已编辑的版本将存储在缓冲区中，而演奏将恢复为数据库中保存的版本。您可以根据需要在两者之间来回切换。
+如果您更改为已保存的演奏，然后进行任何编辑，则下次转到比较页面时，选择将设置为已编辑的演奏，并且之前缓冲的“已编辑的演奏”将丢失。
+
+			Delete from Database
+			从数据库中删除
+This page lets you delete user-created items from the database.
+Note: Factory data cannot be deleted.
+Using Delete
+To delete an item from the database:
+1. Set the Type as desired.
+2. Cursor to Select, and press ENTER.
+The selection popup appears.
+3. Select a user-created item from the list. Optionally, use PAGE+ to change the filters or sort order.
+4. Press ENTER to confirm the selection and close the popup.
+5. Hold SHIFT and press WRITE to delete the selected item.
+A confirmation dialog will appear.
+6. Press ENTER to confirm, or SHIFT-ENTER to cancel.			
+此页面允许您从数据库中删除用户创建的项目。
+注意：工厂数据无法删除。
+使用删除
+要从数据库中删除项目：
+1. 根据需要设置类型。
+2. 将光标移到选择，然后按 ENTER。
+出现选择弹出窗口。
+3. 从列表中选择用户创建的项目。或者，使用 PAGE+ 更改过滤器或排序顺序。
+4. 按 ENTER 确认选择并关闭弹出窗口。
+5. 按住 SHIFT 并按 WRITE 删除所选项目。
+将出现确认对话框。
+6. 按 ENTER 确认，或按 SHIFT-ENTER 取消。
+
+
+################################### 
+				Wave Sequencing 2.0
+
+Overview
+Wave Sequencing 2.0 is a dynamic system. Instead of each step being a matched set of sample, pitch, duration, etc., the different parameters are separated into “lanes.” Each lane can have a different number of steps, and its own start, end, loop start, and loop end.
+These points (and other parameters in the lanes and their steps) can in turn be modulated on a per-note basis, using velocity, LFOs, envelopes, etc. Each time the sequence moves forward, values from the individual lanes are combined to create the output. The result can be either ever-changing rhythmic patterns or smooth, organic, crossfading timbres. Individual, modulatable step probabilities provide additional variation.
+概述
+波形序列 2.0 是一个动态系统。每个步骤不再是一组匹配的样本、音高、持续时间等，而是将不同的参数分成“通道”。每个通道可以有不同数量的步骤，以及自己的开始、结束、循环开始和循环结束。
+这些点（以及通道及其步骤中的其他参数）可以依次根据每个音符进行调制，使用速度、LFO、包络等。每次序列向前移动时，来自各个通道的值都会组合起来以创建输出。结果可以是不断变化的节奏模式或平滑、有机、淡入淡出音色。单独的、可调节的步骤概率提供了额外的变化。
+
+Wave Sequence editing
+Editing Lanes
+
+The Lane controls which of its Steps are played, and how they loop. Changing just the LOOP START or LOOP END, for instance, may significantly change the character of the sound. Just press the button for the desired Lane (e.g. SAMPLE) and use the front-panel controls; see “Front-Panel Lane Controls” on page 24. If you’re on the home page, press LANE PRESET to show the Lane on the display. Some Lanes have special parameters in addition to the standard controls, as described in the following sections.
+Lane 控制播放哪个步骤以及它们如何循环。例如，仅更改 LOOP START 或 LOOP END 可能会显著改变声音的特性。只需按下所需 Lane 的按钮（例如 SAMPLE）并使用前面板控件；请参阅第 24 页上的“前面板 Lane 控件”。如果您在主页上，请按 LANE PRESET 以在显示屏上显示 Lane。一些 Lane 除了标准控件外还有特殊参数，如下节所述。
+
+Editing Steps
+There are up to 64 Steps per Lane, in four banks: A1-A16, B1-B16, etc. To view and edit individual Steps:
+1. Select the desired Lane by pressing its button.
+2. Press the WSEQ STEPS button, so that it is lit.
+The 16 buttons at the bottom of the panel now select Steps.
+3. To select Steps in the current bank, press buttons 1-16.
+编辑步骤
+每个通道最多有 64 个步骤，分为四个库：A1-A16、B1-B16 等。要查看和编辑单个步骤：
+1. 按下按钮选择所需通道。
+2. 按下 WSEQ STEPS 按钮，使其亮起。
+面板底部的 16 个按钮现在用来选择步骤。
+3. 要选择当前组中的步骤，请按下按钮 1-16。
+
+or:
+To select from a different bank, double-press A/B/C/D (1/2/3/4). Alternatively, hold either SHIFT or WSEQ STEPS and then press A/B/C/D. Buttons 1-16 will then blink; press one to select a Step in the new bank.
+或者：
+要从不同的库中选择，请双击 A/B/C/D（1/2/3/4）。或者，按住 SHIFT 或 WSEQ STEPS，然后按 A/B/C/D。然后按钮 1-16 将闪烁；按一个按钮以选择新库中的步骤。
+
+As you select different steps, the current parameter remains the same. For instance, if you are editing the Pitch for a number of steps, you can quickly select Steps in succession, editing the Pitch via the value knob.
+当您选择不同的步骤时，当前参数保持不变。例如，如果您正在编辑多个步骤的音高，您可以快速连续选择步骤，通过值旋钮编辑音高。
+
+4. Edit as desired using the onscreen controls (cursor and VALUE knob).
+4. 使用屏幕控件（光标和 VALUE 旋钮）根据需要进行编辑。
+
+Step Solo mode
+Step solo mode makes the Lane temporarily loop on the selected Step, for auditioning samples or shapes, troubleshooting, etc.
+To enter Step Solo mode:
+Step Solo 模式
+Step Solo 模式使 Lane 暂时在选定的 Step 上循环，用于试听样本或形状、故障排除等。
+要进入 Step Solo 模式：
+
+1. Hold ENTER and press a Step button.
+Both the Step button and the current Lane’s button will blink. The Wave Sequence will play as if that Lane was set to loop on the selected Step. Other Lanes will continue to play normally. If you select other Steps in the current Lane, solo will follow the selected Step. To exit Step Solo mode, hold ENTER and press any Step button, or the current Lane’s button. Only one Lane at a time can be in Step Solo mode. If you enter Step Solo mode for a second Lane, the first Lane’s Step Solo mode is turned off automatically. Changing to a different Layer also turns off Step Solo mode.
+1. 按住 ENTER 并按下步骤按钮。
+步进按钮和当前通道的按钮都将闪烁。波形序列将播放，就像该通道设置为在所选步骤上循环一样。其他通道将继续正常播放。如果您在当前通道中选择其他步骤，独奏将遵循所选步骤。要退出步骤独奏模式，请按住 ENTER 并按下任何步骤按钮或当前通道的按钮。一次只能有一个通道处于步骤独奏模式。如果您进入第二个通道的步骤独奏模式，第一个通道的步骤独奏模式将自动关闭。更改为不同的层也会关闭步骤独奏模式。
+
+			Wave Sequence
+This page lets you choose a Wave Sequence or single Multisample for the Program.
+Mode
+[Wave Sequence, Single Multisample]
+Wave Sequence: The Program will use a Wave Sequence.
+Single Multisample: The Program will use a Multisample instead of a Wave Sequence. All of the Lane controls will be disabled.
+Mode = Wave Sequence
+Preset
+[List of Presets]
+Sync Notes (SYNC NOTES)
+[Off, On]
+Sync Notes sets whether individual Wave Sequences play on their own separate timelines, or whether they are sync’d together.
+Off: Each of the Program’s Wave Sequences will play independently.
+On: If at least one note of the Program is already playing, the Wave Sequence lanes for newly played notes will start on the same steps as those of the oldest note. See the graphic below. There may still be variations due to per-note modulation or Probability.
+Additionally, for all Layers which have both SYNC NOTES and TEMPO turned On, their Wave Sequences will sync together.
+波形序列
+此页面允许您为程序选择波形序列或单个多重采样。
+模式
+[波形序列，单个多重采样]
+波形序列：程序将使用波形序列。
+单个多重采样：程序将使用多重采样而不是波形序列。所有通道控件都将被禁用。
+模式 = 波形序列
+预设
+[预设列表]
+同步音符 (SYNC NOTES)
+[关闭，打开]
+同步音符设置各个波形序列是否在各自单独的时间线上播放，或者是否同步在一起。
+关闭：程序的每个波形序列都将独立播放。
+打开：如果程序中至少有一个音符正在播放，则新播放音符的波形序列通道将从与最旧音符相同的步骤开始。参见下图。由于每个音符的调制或概率，可能仍会有所不同。
+此外，对于所有同时打开 SYNC NOTES 和 TEMPO 的层，它们的波形序列将同步在一起。			
+
+Sync Notes
+Use Master (SHIFT-MASTER)
+[Off, On]
+This enables the Master Lane. The parameter is stored in the Wave Sequence, as opposed to the Lane.
+同步注释
+使用主控 (SHIFT-MASTER)
+[关闭，打开]
+这将启用主通道。该参数存储在波形序列中，而不是通道中。
+
+			Mode = Single Multisample
+MS (Multisample)
+[List of Multisamples]
+Select this parameter and then either move VALUE or press ENTER to bring up the Multisample Select popup.
+Channel
+See “Chan (Channel)” on page 28.
+Start Offset
+See “S. Offset (Start Offset)” on page 29.
+模式 = 单一多重采样
+MS（多重采样）
+[多重采样列表]
+选择此参数，然后移动 VALUE 或按 ENTER 调出多重采样选择弹出窗口。
+通道
+请参阅第 28 页上的“Chan（通道）”。
+起始偏移
+请参阅第 29 页上的“S. Offset（起始偏移）”。
+
+			Master Lane
+When Use Master is On, the Master Lane restarts all of the other Lanes after either a specified number of beats or elapsed time, depending on TEMPO On/Off (below). Unlike other Lanes, Master has no steps, so most of the front-panel Lane controls don’t apply.
+Use Master (SHIFT-MASTER)
+[Off, On]
+See “Use Master (SHIFT-MASTER)” on page 22.
+Loop Duration
+[TEMPO Off: 0.0013…120.0000 seconds]
+[TEMPO On: 32nd-note triplet…2x breve]
+If Timing Lane Tempo is Off, you can set the length of the Master Lane loop in seconds.
+If Timing Lane Tempo is On, this sets the basic length of the Master Lane, relative to the system tempo.
+x (Multiply Base Note by…)
+[1…32]
+This appears only if Tempo is On. It multiplies the length of the Base Note. For instance, if the Base Note is set to a whole note, and Times is set to 3, the Master Lane will reset every three whole notes.			
+aster Lane
+当使用主控打开时，主控 Lane 会在指定的节拍数或经过的时间后重新启动所有其他 Lane，具体取决于 TEMPO 的打开/关闭（见下文）。与其他 Lane 不同，主控没有步骤，因此大多数前面板 Lane 控件不适用。
+使用主控 (SHIFT-MASTER)
+[关闭，打开]
+请参阅第 22 页上的“使用主控 (SHIFT-MASTER)”。
+循环持续时间
+[TEMPO 关闭：0.0013…120.0000 秒]
+[TEMPO 打开：32 分音符三连音…2x 短音符]
+如果 Timing Lane Tempo 关闭，您可以设置主控 Lane 循环的长度（以秒为单位）。
+如果 Timing Lane Tempo 打开，这将设置主控 Lane 相对于系统速度的基本长度。
+x（将基本音符乘以…）
+[1…32]
+这仅在 Tempo 打开时出现。它会乘以基本音符的长度。例如，如果基本音符设置为全音符，并且时间设置为 3，则主通道将每三个全音符重置一次。
+
+			Front-Panel Lane Controls
+These controls apply to all lanes except Master. (Master still has Presets, however.)
+LANE PRESET
+Pressing this button jumps to the Preset parameter for the current Lane. Lane Presets store all of the parameters for the Lane and its Steps. Explore the system by mixing and matching presets for different Lanes.
+START, END, LOOP START, LOOP END
+These knobs control the Steps on which the Lane begins, ends, and loops. You can change them in real-time, while notes are sounding—and also modulate them via LFOs, Envelopes, etc. The Loop End must be less than or equal to the End step.
+Repeats
+[Off, 1…100, Inf]
+This parameter appears on-screen only. It controls the number of times that the Lane will loop before resting on the End Step. The default is Inf, which causes the loop to repeat as long as the note is held.
+LOOP MODE
+This controls the direction of the loop: Forward, Backward, or alternating Forward-Backward.
+NOTE ADVANCE
+When this is On, each note played will increment the Start Step by one. Try using this with the Arpeggiator!
+RANDOM ORDER (SHIFT-NOTE ADVANCE)
+When this is On, the Steps will play in a different order every time the loop repeats.
+To understand how Random Order works, imagine that each Step is on a note-card. Each time the loop plays, or whenever the Start Step or End Step changes, the note-cards from the Start Step through the End Step are shuffled and assigned to new numbers (A1, A2, etc.). If there are any Steps before the Start they are not included in the shuffle; instead, they stay in place and retain their original values, even if they will play due to loop settings. Steps after the End Step are ignored. For playback purposes, the Start, End, Loop Start, and Loop End all work on the newly assigned numbers. Unlike changing the Start Step or End Step, changing the Loop Start Step or Loop End Step does not cause re-shuffling.
+前面板通道控制
+这些控制适用于除主通道之外的所有通道。（但主通道仍然具有预设。）
+通道预设
+按下此按钮可跳转到当前通道的预设参数。通道预设存储了通道及其步骤的所有参数。通过混合和匹配不同通道的预设来探索系统。
+开始、结束、循环开始、循环结束
+这些旋钮控制通道开始、结束和循环的步骤。您可以在音符发声时实时更改它们 - 也可以通过 LFO、包络等调制它们。循环结束必须小于或等于结束步骤。
+重复
+[关闭、1…100、无限]
+此参数仅显示在屏幕上。它控制通道在停留在结束步骤之前循环的次数。默认值为无限，只要按住音符，循环就会重复。
+循环模式
+这控制循环的方向：向前、向后或交替向前向后。
+音符前进
+当开启此功能时，每个音符的播放都会使起始步骤增加一。尝试将其与琶音器一起使用！
+随机顺序（移位音符前进）
+当开启此功能时，每次循环重复时，步骤将以不同的顺序播放。
+要了解随机顺序的工作原理，请想象每个步骤都在一张记事卡上。每次循环播放时，或者每当起始步骤或结束步骤发生变化时，从起始步骤到结束步骤的记事卡都会被打乱并分配到新的数字（A1、A2 等）。如果在开始之前有任何步骤，它们将不包含在打乱中；相反，它们会留在原处并保留其原始值，即使它们会根据循环设置播放。结束步骤之后的步骤将被忽略。出于播放目的，开始、结束、循环开始和循环结束都适用于新分配的数字。与更改开始步骤或结束步骤不同，更改循环开始步骤或循环结束步骤不会导致重新洗牌。
+
+Step Probability
+Each individual Step has a Probability setting, from 0% to 100%. This controls how likely the Step is to play. As with most Step parameters, Probability can be modulated; for instance, moving a Mod Knob might make some Steps more likely to occur, and other steps less likely to occur.
+
+If a step has less than 100% Probability and loses the roll of the dice, as it were, it is skipped. (See note about the Timing Lane, below.) Since the Wave Sequence is generated in real-time, we need to avoid a situation in which we repeatedly roll the dice, lose the throw, and roll again and again; eventually, we need to make some sound! So, if two steps in a row are skipped, the third step always is played—even if its probability is 0%.
+
+Timing Lane probability The Timing Lane works slightly differently regarding probability: “skipped” steps are absorbed into the previous step.
+
+For instance, if A1 and A2 are both 16th notes, and A2 is skipped due to probability, A1 becomes an 8th note. This maintains the overall length of the rhythm.
+步骤概率
+每个步骤都有一个概率设置，从 0% 到 100%。这控制步骤播放的可能性。与大多数步骤参数一样，概率可以调节；例如，移动调制旋钮可能会使某些步骤更有可能发生，而其他步骤不太可能发生。
+
+如果某个步骤的概率低于 100%，并且掷骰子失败，则将其跳过。（请参阅下面有关计时通道的注释。）由于波形序列是实时生成的，我们需要避免反复掷骰子、掷骰子失败并反复掷骰子的情况；最终，我们需要发出一些声音！因此，如果跳过连续两个步骤，则第三个步骤始终会播放 - 即使其概率为 0%。
+
+计时通道概率 计时通道在概率方面的工作方式略有不同：“跳过”的步骤会被吸收到上一步中。
+
+例如，如果 A1 和 A2 都是十六分音符，由于概率原因 A2 被跳过，则 A1 变为八分音符。这样可以保持节奏的整体长度。
+
+Timing
+This Lane controls the duration and crossfade of each Step, creating rhythms or smooth, evolving sounds.
+Timing Lane
+时间
+此通道控制每个步骤的持续时间和淡入淡出，从而产生节奏或流畅、不断变化的声音。
+时间通道
+
+Preset, Start, End, Loop Start, Loop End, Repeats
+See “Front-Panel Lane Controls” on page 24.
+TEMPO (SHIFT-TIMING)
+[Off, On]
+Durations can use either time (TEMPO Off) or rhythmic values (TEMPO On).
+Speed
+[TEMPO Off: 0.01…100.00]
+[TEMPO On: 1/4…4x]
+This modifies the speed of the entire Timing Lane. When TEMPO is Off, you can vary this continually from 0.01 (1/ 100 of the original speed) to 100.00 (100 times the original speed). Try modulating this from the SPEED knob, or from an envelope!
+When TEMPO is On, you can select tempo-locked ratios from 1/4 to 4x of the original speed.
+Xfade
+[Time, Tempo, Off]
+This determines how all of the Step Xfade parameters will work.
+Time: Crossfade times are set in seconds.
+Tempo: Crossfade times are set in rhythmic values.
+Off: All transitions will be abrupt, and none of the Xfade-related parameters will apply.
+Swing (Resolution)
+[32nd-note triplet…quarter-note]
+(Swing Amount)
+[-300…+300%]
+Swing adjusts the timing of up-beats relative to the Swing Resolution. For instance, if Resolution is set to 1/8, Swing affects every other 8th note.
++100%: Full “swing.” Up-beats become triplets, moving one third of the way toward the next down-beat.
++300%: Up-beats move all the way to the next down-beat.
+预设、开始、结束、循环开始、循环结束、重复
+请参阅第 24 页的“前面板通道控制”。
+速度（切换-定时）
+[关闭、打开]
+持续时间可以使用时间（速度关闭）或节奏值（速度打开）。
+速度
+[速度关闭：0.01…100.00]
+[速度打开：1/4…4x]
+这会修改整个定时通道的速度。当速度关闭时，您可以将其从 0.01（原始速度的 1/100）连续改变到 100.00（原始速度的 100 倍）。尝试从速度旋钮或包络中调节它！
+当速度打开时，您可以选择从原始速度的 1/4 到 4 倍的速度锁定比率。
+Xfade
+[时间、节奏、关闭]
+这决定了所有 Step Xfade 参数的工作方式。
+时间：交叉淡入淡出时间以秒为单位设置。
+节奏：交叉淡入淡出时间以节奏值设置。
+关闭：所有过渡都将是突然的，并且不会应用任何与 Xfade 相关的参数。
+摇摆（分辨率）
+[三十二分音符三连音...四分音符]
+（摇摆量）
+[-300...+300%]
+摇摆调整相对于摇摆分辨率的上拍时间。例如，如果分辨率设置为 1/8，摇摆会影响每隔一个八分音符。
++100%：完全“摇摆”。上拍变成三连音，向下一个下拍移动三分之一。
++300%：上拍一直移动到下一个下拍。
+
+Timing Lane Step
+Tempo Off
+Step
+[A1…D16]
+This is the current Step. You can edit this parameter on-screen, or use the WSEQ STEP buttons to select Steps directly.
+Type
+[Note, Rest, Gate]
+Note: The step will play normally.
+Rest: The step will be silent.
+Gate: The sequence will pause at the step until note-off, after which the sequence continues. If this is also the End Step, the Wave Sequence will stay on the step through note-off. By setting a single Timing Step to Gate, and then modulating the Sample Lane Start Step by velocity, you can create a sound with up to 64 velocity switches. For instance, you can use this to switch between a large number of different attack transients.
+Duration
+[TEMPO Off: 0.0000…10.0000 seconds]
+[TEMPO On: List of rhythmic values]
+If TEMPO is Off, you can set the length of the step in seconds.
+时序通道步骤
+速度关闭
+步骤
+[A1…D16]
+这是当前步骤。您可以在屏幕上编辑此参数，或使用 WSEQ STEP 按钮直接选择步骤。
+类型
+[音符、休止、门限]
+音符：步骤将正常播放。
+休止：步骤将保持静音。
+门限：序列将在步骤上暂停，直到音符关闭，之后序列继续。如果这也是结束步骤，则波形序列将保持在步骤上直到音符关闭。通过将单个时序步骤设置为门限，然后通过速度调制采样通道开始步骤，您可以创建具有最多 64 个速度开关的声音。例如，您可以使用它在大量不同的攻击瞬变之间切换。
+持续时间
+[TEMPO Off：0.0000…10.0000 秒]
+[TEMPO On：节奏值列表]
+如果 TEMPO 为关闭，您可以设置步骤的长度（以秒为单位）。
+
+If TEMPO is On, you can set the basic length of the step as a rhythmic value, relative to the system tempo. The values range from a 32nd note to a double breve (four whole notes), including dotted notes and triplets. This length is then modified by x (Multiply Base Note by…), below.
+x (Multiply Base Note by…)
+[1…32]
+This appears only if TEMPO is On. It multiplies the length of the Duration Base Note. For instance, if the Base Note is set to an eighth note, and Times is set to 3, the step will last for a dotted quarter-note.
+Probability
+See “Step Probability” on page 24.
+Xfade (Crossfade) general notes
+The Xfade (crossfade) determines the time it takes to fade into the next step. For example, Step 1’s Crossfade
+determines the time to fade between Step 1 and Step 2. In general, the Xfade time cannot exceed twice the duration of the shorter of the two steps. The Fade-In and Out parameters, below, allow linear, equal-power, and custom crossfades.
+Crossfades times can be set in either seconds or rhythmic values, depending on whether Timing Lane Xfade is set to Time or Tempo. If Timing Lane Xfade is set to Off, all transitions will be abrupt and none of the Xfade-related parameters will appear.
+Xfade
+[Time: 0.0000…10.0000 seconds]
+[Tempo: List of rhythmic values]
+If Timing Lane Xfade is set to Time, you can set the length of the crossfade in seconds.
+If Timing Lane Xfade is set to Tempo, you can set the basic length of the crossfade as a rhythmic value, relative to the system tempo. The values range from a 32nd note to a double breve (four whole notes), including dotted notes and triplets.
+x (Multiply Base Note by…)
+[1…32]
+This appears if Timing Lane Xfade is set to Tempo. It multiplies the length of the Xfade Base Note.
+Fade-In (Shape)
+[Log, -99…-1, Linear, +1…+99, Exp]
+This sets the shape for the next step’s fade-in within the crossfade.
+Log: the step will fade in quickly at first, and then move more slowly as it nears the end of the crossfade. To create an equal-power crossfade, use Log for both Fade-In and Out.
+Linear: the step will fade in steadily over the duration of the crossfade.
+Exp: the step will fade in slowly at first, and then move more rapidly as it nears end of the crossfade.
+Out (Fade-Out Shape)
+[Log, -99…-1, Linear, +1…+99, Exp]
+This sets the shape for the current step’s fade-out within the crossfade.
+Log: the step will fade out slowly at first, and then move more rapidly as it approaches the end of the crossfade.
+Linear: the step will fade out steadily over the duration of the crossfade.
+Exp: the step will fade out quickly at first, and then move more slowly as it nears the end of the crossfade.
+如果 TEMPO 处于开启状态，您可以将步进的基本长度设置为相对于系统速度的节奏值。值的范围从 32 分音符到双短音符（四个全音符），包括附点音符和三连音。然后，此长度通过下面的 x（将基本音符乘以...）进行修改。
+x（将基本音符乘以...）
+[1…32]
+这仅在 TEMPO 处于开启状态时出现。它将持续时间基本音符的长度相乘。例如，如果基本音符设置为八分音符，并且时间设置为 3，则步进将持续一个附点四分音符。
+概率
+请参阅第 24 页的“步进概率”。
+Xfade（交叉淡入淡出）一般说明
+Xfade（交叉淡入淡出）确定淡入下一个步进所需的时间。例如，步骤 1 的 Crossfade
+决定了步骤 1 和步骤 2 之间淡入淡出的时间。一般来说，Xfade 时间不能超过两个步骤中较短步骤持续时间的两倍。下面的 Fade-In 和 Out 参数允许线性、等功率和自定义交叉淡入淡出。
+交叉淡入淡出时间可以以秒或节奏值来设置，具体取决于 Timing Lane Xfade 设置为时间还是节奏。如果 Timing Lane Xfade 设置为 Off，则所有过渡都将是突然的，并且不会出现任何与 Xfade 相关的参数。
+Xfade
+[时间：0.0000…10.0000 秒]
+[节奏：节奏值列表]
+如果 Timing Lane Xfade 设置为时间，则可以以秒为单位设置交叉淡入淡出的长度。
+如果将 Timing Lane Xfade 设置为 Tempo，则可以将交叉淡入淡出的基本长度设置为相对于系统速度的节奏值。值的范围从 32 分音符到双短音符（四个全音符），包括附点音符和三连音。
+x（将基音乘以...）
+[1...32]
+如果将 Timing Lane Xfade 设置为 Tempo，则会出现此项。它将 Xfade 基音的长度相乘。
+淡入（形状）
+[对数、-99...-1、线性、+1...+99、指数]
+这设置了交叉淡入中下一个步骤淡入的形状。
+对数：步骤将首先快速淡入，然后在接近交叉淡入结束时移动得更慢。要创建等功率交叉淡入，请对淡入和淡出都使用对数。
+线性：步骤将在交叉淡入的持续时间内稳定淡入。
+Exp：步骤将首先缓慢淡入，然后在接近交叉淡入淡出结束时移动得更快。
+淡出（淡入淡出形状）
+[对数，-99…-1，线性，+1…+99，Exp]
+这将设置当前步骤在交叉淡入淡出中的淡出形状。
+对数：步骤将首先缓慢淡出，然后在接近交叉淡入淡出结束时移动得更快。
+线性：步骤将在交叉淡入淡出期间稳定淡出。
+Exp：步骤将首先快速淡出，然后在接近交叉淡入淡出结束时移动得更慢。
+
+			Sample
+This Lane sets the sample played by each Step.
+Sample Lane
+Preset, Start, End, Loop Start, Loop End, Repeats
+See “Front-Panel Lane Controls” on page 24.
+Pitch Lane
+[Only Affects Pitch, Affects Sample Map]
+Multisamples typically include many different samples, mapped across the keyboard. When you play lower and higher notes, it’s not just the pitch that changes; different samples will be selected as well. Sometimes, you may want the Pitch Lane to affect sample choice, as if you were transposing the keyboard; other times, you may want it to only change the pitch, without affecting the sample choice. This parameter lets you choose between the two options.
+Only Affects Pitch: The Pitch Lane only affects the played pitch; it will not change the sample chosen by a given key.
+Affects Sample Map: The Pitch Lane will act similar to transposing the keyboard, and may select different samples according to the selected Multisample.
+样本
+此通道设置每个步骤播放的样本。
+样本通道
+预设、开始、结束、循环开始、循环结束、重复
+请参阅第 24 页的“前面板通道控制”。
+音高通道
+[仅影响音高，影响样本映射]
+多重采样通常包括许多不同的样本，这些样本映射到键盘上。当您弹奏较低和较高的音符时，不仅仅是音高会发生变化；还会选择不同的样本。有时，您可能希望音高通道影响样本选择，就像您正在移调键盘一样；其他时候，您可能希望它只改变音高，而不影响样本选择。此参数可让您在两个选项之间进行选择。
+仅影响音高：音高通道仅影响播放的音高；它不会更改给定键选择的样本。
+影响样本映射：音高通道的作用类似于移调键盘，并且可以根据所选的多重采样选择不同的样本。
+
+			Sample Lane Step
+Step
+[A1…D16]
+This is the current Step. You can edit this parameter on-screen, or use the WSEQ STEP buttons to select Steps directly.
+Type
+[Note, Rest, Gate]
+Note: The step will play normally.
+Rest: The step will be silent.
+Gate: The sequence will pause at the step until note-off, after which the sequence continues. If this is also the End Step, the Wave Sequence will stay on the step through note-off. By setting a single Timing Step to Gate, and then modulating the Sample Lane Start Step by velocity, you can create a sound with up to 64 velocity switches. For instance, you can use this to switch between a large number of different attack transients.
+Duration
+[TEMPO Off: 0.0000…10.0000 seconds]
+[TEMPO On: List of rhythmic values]
+If TEMPO is Off, you can set the length of the step in seconds.
+采样通道步骤
+步骤
+[A1…D16]
+这是当前步骤。您可以在屏幕上编辑此参数，或使用 WSEQ STEP 按钮直接选择步骤。
+类型
+[音符、休止、门限]
+音符：步骤将正常播放。
+休止：步骤将保持静音。
+门限：序列将在步骤上暂停，直到音符结束，之后序列继续。如果这也是结束步骤，则波形序列将保持在步骤上直到音符结束。通过将单个时间步骤设置为门限，然后通过速度调制采样通道开始步骤，您可以创建具有最多 64 个速度开关的声音。例如，您可以使用它在大量不同的攻击瞬变之间切换。
+持续时间
+[TEMPO Off：0.0000…10.0000 秒]
+[TEMPO On：节奏值列表]
+如果 TEMPO 为 Off，您可以设置步骤的长度（以秒为单位）。
+
+If TEMPO is On, you can set the basic length of the step as a rhythmic value, relative to the system tempo. The values range from a 32nd note to a double breve (four whole notes), including dotted notes and triplets. This length is then modified by x (Multiply Base Note by…), below.
+x (Multiply Base Note by…)
+[1…32]
+This appears only if TEMPO is On. It multiplies the length of the Duration Base Note. For instance, if the Base Note is set to an eighth note, and Times is set to 3, the step will last for a dotted quarter-note.
+Probability
+See “Step Probability” on page 24.
+Xfade (Crossfade) general notes
+The Xfade (crossfade) determines the time it takes to fade into the next step. For example, Step 1’s Crossfade determines the time to fade between Step 1 and Step 2. In general, the Xfade time cannot exceed twice the duration of the shorter of the two steps. The Fade-In and Out parameters, below, allow linear, equal-power, and custom crossfades.
+Crossfades times can be set in either seconds or rhythmic values, depending on whether Timing Lane Xfade is set to Time or Tempo. If Timing Lane Xfade is set to Off, all transitions will be abrupt and none of the Xfade-related parameters will appear.
+Xfade
+[Time: 0.0000…10.0000 seconds]
+[Tempo: List of rhythmic values]
+If Timing Lane Xfade is set to Time, you can set the length of the crossfade in seconds.
+If Timing Lane Xfade is set to Tempo, you can set the basic length of the crossfade as a rhythmic value, relative to the system tempo. The values range from a 32nd note to a double breve (four whole notes), including dotted notes and triplets.
+x (Multiply Base Note by…)
+[1…32]
+This appears if Timing Lane Xfade is set to Tempo. It multiplies the length of the Xfade Base Note.
+Fade-In (Shape)
+[Log, -99…-1, Linear, +1…+99, Exp]
+This sets the shape for the next step’s fade-in within the crossfade.
+Log: the step will fade in quickly at first, and then move more slowly as it nears the end of the crossfade. To create an equal-power crossfade, use Log for both Fade-In and Out.
+Linear: the step will fade in steadily over the duration of the crossfade.
+Exp: the step will fade in slowly at first, and then move more rapidly as it nears end of the crossfade.
+Out (Fade-Out Shape)
+[Log, -99…-1, Linear, +1…+99, Exp]
+This sets the shape for the current step’s fade-out within the crossfade.
+Log: the step will fade out slowly at first, and then move more rapidly as it approaches the end of the crossfade.
+Linear: the step will fade out steadily over the duration of the crossfade.
+Exp: the step will fade out quickly at first, and then move more slowly as it nears the end of the crossfade.
+如果 TEMPO 处于开启状态，您可以将步进的基本长度设置为相对于系统速度的节奏值。值的范围从 32 分音符到双短音符（四个全音符），包括附点音符和三连音。然后，此长度通过下面的 x（将基本音符乘以...）进行修改。
+x（将基本音符乘以...）
+[1…32]
+这仅在 TEMPO 处于开启状态时出现。它将持续时间基本音符的长度相乘。例如，如果基本音符设置为八分音符，并且时间设置为 3，则步进将持续一个附点四分音符。
+概率
+请参阅第 24 页的“步进概率”。
+Xfade（交叉淡入淡出）一般说明
+Xfade（交叉淡入淡出）确定淡入下一个步进所需的时间。例如，步骤 1 的 Crossfade 决定了步骤 1 和步骤 2 之间淡入淡出的时间。一般来说，Xfade 时间不能超过两个步骤中较短步骤持续时间的两倍。下面的 Fade-In 和 Out 参数允许线性、等功率和自定义交叉淡入淡出。
+交叉淡入淡出时间可以以秒或节奏值来设置，具体取决于 Timing Lane Xfade 设置为时间还是速度。如果 Timing Lane Xfade 设置为 Off，则所有过渡都将是突然的，并且不会出现任何与 Xfade 相关的参数。
+Xfade
+[时间：0.0000…10.0000 秒]
+[速度：节奏值列表]
+如果 Timing Lane Xfade 设置为时间，则可以以秒为单位设置交叉淡入淡出的长度。
+如果 Timing Lane Xfade 设置为速度，则可以将交叉淡入淡出的基本长度设置为相对于系统速度的节奏值。值的范围从 32 分音符到双短音符（四个全音符），包括附点音符和三连音。
+x（将基音乘以...）
+[1...32]
+如果将 Timing Lane Xfade 设置为 Tempo，则会出现此项。它将 Xfade 基音的长度相乘。
+淡入（形状）
+[Log、-99...-1、Linear、+1...+99、Exp]
+这将设置交叉淡入中下一个步骤淡入的形状。
+Log：步骤将首先快速淡入，然后在接近交叉淡入结束时移动得更慢。要创建等功率交叉淡入，请对淡入和淡出都使用 Log。
+Linear：步骤将在交叉淡入的持续时间内稳定淡入。
+Exp：步骤将首先缓慢淡入，然后在接近交叉淡入结束时移动得更快。
+淡出（淡出形状）
+[对数、-99…-1、线性、+1…+99、指数]
+这将设置交叉淡入淡出中当前步骤的淡出形状。
+对数：步骤将首先缓慢淡出，然后在接近交叉淡入淡出的末尾时移动得更快。
+线性：步骤将在交叉淡入淡出的持续时间内稳定淡出。
+指数：步骤将首先快速淡出，然后在接近交叉淡入淡出的末尾时移动得更慢。
+
+			Sample
+This Lane sets the sample played by each Step.
+Sample Lane
+Preset, Start, End, Loop Start, Loop End, Repeats
+See “Front-Panel Lane Controls” on page 24.
+Pitch Lane
+[Only Affects Pitch, Affects Sample Map]
+Multisamples typically include many different samples, mapped across the keyboard. When you play lower and higher notes, it’s not just the pitch that changes; different samples will be selected as well. Sometimes, you may want the Pitch Lane to affect sample choice, as if you were transposing the keyboard; other times, you may want it to only change the pitch, without affecting the sample choice. This parameter lets you choose between the two options.
+Only Affects Pitch: The Pitch Lane only affects the played pitch; it will not change the sample chosen by a given key.
+Affects Sample Map: The Pitch Lane will act similar to transposing the keyboard, and may select different samples according to the selected Multisample.
+采样
+此通道设置每个步骤播放的样本。
+样本通道
+预设、开始、结束、循环开始、循环结束、重复
+请参阅第 24 页的“前面板通道控制”。
+音高通道
+[仅影响音高，影响样本映射]
+多重采样通常包括许多不同的样本，这些样本映射到键盘上。当您弹奏较低和较高的音符时，不仅仅是音高会发生变化；还会选择不同的样本。有时，您可能希望音高通道影响样本选择，就像您正在移调键盘一样；其他时候，您可能希望它只改变音高，而不影响样本选择。此参数可让您在两个选项之间进行选择。
+仅影响音高：音高通道仅影响播放的音高；它不会更改给定键选择的样本。
+影响样本映射：音高通道的作用类似于移调键盘，并且可以根据所选的多重采样选择不同的样本。
+
+Sample Lane Step
+Step
+See “Step” on page 26.
+Chan (Channel)
+[Stereo, Left, Right, n/a]
+This applies to stereo Multisamples only; for mono Multisamples, “n/a” is shown. You can choose whether to use the original Stereo signal, or only the Left or Right channels (in mono).
+MS (Multisample)
+[List of Multisamples]
+Select this parameter and then either move VALUE or press ENTER to bring up the Multisample Select popup.
+Oct (Octave)
+[-2…+2]
+This transposes the Multisample up or down by up to two octaves.
+Semi (Semitones)
+[-12…+12]
+This transposes the Multisample up or down by up to 12 semitones. Use this (and other pitch-related parameters on this page) instead of the Pitch Lane when you want the transposition to be tied to a specific Multisample.
+采样通道步进
+步进
+请参阅第 26 页的“步进”。
+Chan（通道）
+[立体声、左、右、n/a]
+这仅适用于立体声多重采样；对于单声道多重采样，显示“n/a”。您可以选择是使用原始立体声信号，还是仅使用左声道或右声道（单声道）。
+MS（多重采样）
+[多重采样列表]
+选择此参数，然后移动 VALUE 或按 ENTER 调出多重采样选择弹出窗口。
+Oct（八度）
+[-2…+2]
+这会将多重采样向上或向下移调最多两个八度。
+Semi（半音）
+[-12…+12]
+这会将多重采样向上或向下移调最多 12 个半音。当您希望将移调与特定多重采样绑定时，请使用此参数（以及此页面上的其他音高相关参数）而不是音高通道。
+
+Fine (Fine Tune)
+[-99…+99]
+This tunes the Multisample up or down by up to 99 cents (1/100 of a semitone).
+Trim
+[-Inf, -84.9…0.0 dB]
+This adjusts the volume of the Multisample.
+S. Offset (Start Offset)
+[Off, 1st…8th]
+In addition to simply starting playback from the beginning, Multisamples may have up to 8 different pre-programmed alternate starting points, or “Start Offsets.” These skip part of the beginning of the samples, either to make them more gentle (for percussive sounds) or to make them start more quickly (for sounds with slow attacks). The number of available offsets will vary depending on the specific Multisample.
+If no alternate start points are available, this will show n/a.
+Prob (Probability)
+See “Step Probability” on page 24.
+Fixed Pitch
+[Original, Off, On, On+Pt Lane]
+By default, most Multisamples change in pitch as you play up and down the keyboard. A few, however, use “Fixed Pitch” so that they make the same sound all the way across the keyboard—such as for drums or special effects. This parameter allows you to enable Fixed Pitch for Multisamples which normally transpose, or disable Fixed Pitch for those which normally do not transpose.
+Use this for creative purposes, but be aware that Multisamples may behave strangely if this is set to anything other than Original.
+Original: This is the default. Fixed Pitch will be on or off according to the Multisample’s programmed value.
+Off: The Multisample will transpose. Multisamples originally programmed to use Fixed Pitch may reach their transposition limit at some point on the keyboard, and not get any higher in pitch.
+On: The Multisample will use Fixed Pitch even if it is not programmed to do so. Note: in some cases, you may hear the individual samples in the Multisample, each at their original pitch. Also, the Pitch Lane will not affect this Step.
+On+Pt Lane: Similar to On, except that the Pitch Lane will affect the Step.
+精细（微调）
+[-99…+99]
+这可将多重采样调高或调低最多 99 音分（半音的 1/100）。
+修剪
+[-Inf，-84.9…0.0 dB]
+这可调整多重采样的音量。
+S. 偏移（起始偏移）
+[关闭，1st…8th]
+除了简单地从头开始播放外，多重采样可能具有最多 8 个不同的预编程备用起始点或“起始偏移”。这些会跳过样本开头的部分，以使它们更柔和（用于打击乐声音）或使它们更快地开始（用于具有缓慢攻击的声音）。可用偏移的数量将根据特定的多重采样而有所不同。
+如果没有可用的备用起始点，则将显示 n/a。
+Prob（概率）
+请参阅第 24 页的“步进概率”。
+固定音高
+[原始、关闭、打开、打开 + Pt Lane]
+默认情况下，大多数多重采样的音高会随着您在键盘上弹奏而改变。但是，少数多重采样使用“固定音高”，以便它们在整个键盘上发出相同的声音 - 例如鼓或特殊效果。此参数允许您为通常转调的多重采样启用固定音高，或为通常不转调的多重采样禁用固定音高。
+将此参数用于创意目的，但请注意，如果将其设置为原始以外的任何值，多重采样可能会表现异常。
+原始：这是默认值。固定音高将根据多重采样的编程值打开或关闭。
+关闭：多重采样将转调。最初编程为使用固定音高的多重采样可能会在键盘上的某个点达到其转调限制，并且音高不会变得更高。
+开启：即使未进行编程，多重采样也会使用固定音高。注意：在某些情况下，您可能会听到多重采样中的各个样本，每个样本都以其原始音高。此外，音高通道不会影响此步骤。
+开启+音高通道：与开启类似，不同之处在于音高通道会影响步骤。
+
+Pitch
+This Lane sets the pitch of each Step.
+Pitch Lane
+Preset, Start, End, Loop Start, Loop End, Repeats
+See “Front-Panel Lane Controls” on page 24.
+Use Shape
+[Off, On]
+When this is On, non-zero pitch values will be scaled by the Shape Lane. If the pitch offsets are zero, Shape has no effect.
+Fit to Scale
+[Off, On]
+This lets you constrain the Pitch Lane’s output to a specific scale and key—especially useful when playing polyphonically.
+Off: Pitch offsets will be played exactly as they are entered in the sequence.
+On: Pitches will be constrained to the specified scale and key.
+音高
+此通道设置每个步骤的音高。
+音高通道
+预设、开始、结束、循环开始、循环结束、重复
+请参阅第 24 页的“前面板通道控制”。
+使用形状
+[关闭、打开]
+当此通道处于打开状态时，非零音高值将由形状通道缩放。如果音高偏移为零，形状将不起作用。
+适合比例
+[关闭、打开]
+这可让您将音高通道的输出限制为特定的音阶和调 - 在复音演奏时特别有用。
+关闭：音高偏移将按照它们在序列中输入的方式准确播放。
+打开：音高将限制为指定的音阶和调。
+
+This Lane sets the pitch of each Step.
+Pitch Lane
+Preset, Start, End, Loop Start, Loop End, Repeats
+See “Front-Panel Lane Controls” on page 24.
+Use Shape
+[Off, On]
+When this is On, non-zero pitch values will be scaled by the Shape Lane. If the pitch offsets are zero, Shape has no effect.
+Fit to Scale
+[Off, On]
+This lets you constrain the Pitch Lane’s output to a specific scale and key—especially useful when playing polyphonically.
+Off: Pitch offsets will be played exactly as they are entered in the sequence.
+On: Pitches will be constrained to the specified scale and key.
+此通道设置每个步骤的音高。
+音高通道
+预设、开始、结束、循环开始、循环结束、重复
+请参阅第 24 页的“前面板通道控制”。
+使用形状
+[关闭、打开]
+当此通道处于打开状态时，非零音高值将由形状通道缩放。如果音高偏移为零，形状将不起作用。
+适合比例
+[关闭、打开]
+这可让您将音高通道的输出限制为特定的音阶和调 - 在复音演奏时特别有用。
+关闭：音高偏移将按照序列中输入的方式准确播放。
+打开：音高将限制为指定的音阶和调。
+
+(Scale Key)
+[C…B]
+This sets the root note of the scale. For instance, if Scale Key is set to E, and the Scale Type is set to Minor, all notes generated by the Pitch Lane will be confined to notes in the E Minor scale: E, F#, G, A, B, C, or D.
+Scale Key only applies if Fit To Scale is On.
+(Scale Type)
+[Major, Minor, Hrmnic Maj, Hrmnic Min, Melodic Min, Dorian, Phrygian, Lydian, Mixolydian, Locrian, Penta Maj, Penta Min, Diminished, Half Dim, Augmented, Whole Tone, Tritone, Blues, Bebop Dom, Flamenco, Romani, Hungarian, Persian, Harmonics, Acoustic, Enigmatic]
+This selects the scale to which the generated notes will be confined. It only applies if Fit To Scale is On.
+（音阶调）
+[C…B]
+这将设置音阶的根音。例如，如果将音阶调设置为 E，并将音阶类型设置为小调，则音高通道生成的所有音符都将限制在 E 小调音阶中的音符：E、F#、G、A、B、C 或 D。
+音阶调仅在“适合音阶”打开时适用。
+（音阶类型）
+[大调、小调、赫尔姆尼大调、赫尔姆尼小调、旋律小调、多利亚调、弗里吉亚调、利底亚调、混合利底亚调、洛克里亚调、五大调、五小调、减音、半减音、增音、全音、三全音、布鲁斯、Bebop Dom、弗拉门戈、罗姆尼调、匈牙利调、波斯调、泛音、原声、谜语调]
+这将选择生成的音符将限制到的音阶。仅在“适合音阶”打开时适用。
+
+Pitch Lane Step
+Step
+See “Step” on page 26.
+Transpose
+[-24…+24 semitones]
+This offsets the played note by up to two octaves, up or down. This also affects the index into the Multisample map, potentially changing the sample selection, similar to transposing the entire keyboard.
+音高通道步进
+步进
+请参阅第 26 页的“步进”。
+移调
+[-24…+24 半音]
+这会将弹奏的音符向上或向下偏移最多两个八度。这也会影响多重采样映射中的索引，可能会改变样本选择，类似于移调整个键盘。
+
+Tune
+[-12.00…+12.00 semitones]
+This changes the tuning by up to one octave up or down. It does not affect the Multisample map.
+Probability See “Step Probability” on page 24.
+调音
+[-12.00…+12.00 半音]
+这会将调音最多调高或调低一个八度。它不会影响多重采样图。
+概率 请参阅第 24 页的“步进概率”。
+
+			Shape
+The Shape Lane creates a contour over the duration of the step. It can affect volume (when Shape Controls Volume is
+On) and/or the Pitch or Step Sequencer Lanes (when the respective Lane’s Use Shape is On).
+Shape Lane
+Preset, Start, End, Loop Start, Loop End, Repeats
+See “Front-Panel Lane Controls” on page 24.
+Shape Controls Volume
+[Off, On]
+Off: Shape does not affect the Wave Sequence volume.
+On: Shape directly controls the Wave Sequence volume.
+Shape Lane Step
+Step
+See “Step” on page 26.
+Shape
+[List of shapes]
+There are a large number of shapes to choose from, including ones with two, three, or four pulses.
+Offset
+[-1.00…+1.00]
+This shifts the entire shape up or down. It works slightly differently from Mod Processor “Offset,” in that the Offset is added to the shape, and then the result is scaled by the Level, below. For instance, if you want Shape to control volume, but don’t want the volume to drop all the way to silence, set Offset to +1.00 and Level to +0.50.
+Level
+[-2.00…+2.00]
+This varies the amplitude of the Shape. Negative values invert the shape.
+Phase
+[-180…+180 ° ]
+This controls the start point of the shape. For example, to start in the middle of the shape, set the Phase to +180°.
+Prob (Probability)
+See “Step Probability” on page 24.
+Gate
+[Truncate, Scale Shape]
+Scale Shape: the shape is scaled in time by the Gate Length (as well as the Timing Step Duration). For example, if Gate
+Length is 50%, the “ADSR” shapes will play twice as fast. Use this to create more variation in the generated shapes.
+Truncate: the shape is scaled in time only by the Timing Step Duration. If Gate Length is less than 100%, the end of the shape is truncated.
+形状
+形状通道会在整个步骤期间创建轮廓。它可以影响音量（当形状控制音量为
+开时）和/或音高或步进音序器通道（当相应通道的使用形状为开时）。
+形状通道
+预设、开始、结束、循环开始、循环结束、重复
+请参阅第 24 页的“前面板通道控制”。
+形状控制音量
+[关、开]
+关：形状不影响波形序列音量。
+开：形状直接控制波形序列音量。
+形状通道步骤
+步骤
+请参阅第 26 页的“步骤”。
+形状
+[形状列表]
+有大量形状可供选择，包括具有两个、三个或四个脉冲的形状。
+偏移
+[-1.00…+1.00]
+这会将整个形状向上或向下移动。它的工作方式与 Mod Processor“Offset”略有不同，因为 Offset 被添加到形状中，然后结果按下面的 Level 缩放。例如，如果您希望 Shape 控制音量，但不希望音量一直降至静音，请将 Offset 设置为 +1.00，将 Level 设置为 +0.50。
+Level
+[-2.00…+2.00]
+这会改变 Shape 的幅度。负值会反转形状。
+Phase
+[-180…+180 ° ]
+这控制形状的起点。例如，要从形状的中间开始，请将 Phase 设置为 +180°。
+Prob（概率）
+请参阅第 24 页的“步骤概率”。
+Gate
+[Truncate，Scale Shape]
+Scale Shape：形状按 Gate Length（以及 Timing Step Duration）随时间缩放。例如，如果门长为 50%，则“ADSR”形状的播放速度将提高一倍。使用此功能可在生成的形状中创建更多变化。
+截断：形状仅按时间步长持续时间按时间缩放。如果门长小于 100%，则形状的末端将被截断。
+
+Gate
+This controls how long the Step sounds, as a percentage of the duration from the Timing Lane.
+Gate Lane Preset, Start, End, Loop Start, Loop End, Repeats See “Front-Panel Lane Controls” on page 24.
+Gate Lane Step
+Step
+See “Step” on page 26.
+Gate Length
+[0…100%]
+This controls the length of time that the step will sound, as a percentage of the Timing Lane Step Duration.
+Probability
+[0…100%]
+See “Step Probability” on page 24.
+门限
+这控制步骤发声的时间长度，占时序通道持续时间的百分比。
+门限通道预设、开始、结束、循环开始、循环结束、重复 请参阅第 24 页的“前面板通道控制”。
+门限通道步骤
+步骤
+请参阅第 26 页的“步骤”。
+门限长度
+[0…100%]
+这控制步骤发声的时间长度，占时序通道步骤持续时间的百分比。
+概率
+[0…100%]
+请参阅第 24 页的“步骤概率”。
+
+			Step Seq
+This Lane generates a modulation source to control other synthesis parameters, just like envelopes, LFOs, etc.
+Important: Wave Sequences run independently per voice. This means that the Step Seq Lane can only modulate per-voice parameters, such as settings in the Amp, Pitch, Filter, Envelopes, and LFOs. Specifically, the Step Seq Lane cannot modulate the Mod Knobs, effects, or Vector Envelope.
+Step Seq Lane
+Preset, Start, End, Loop Start, Loop End, Repeats
+See “Front-Panel Lane Controls” on page 24.
+Use Shape
+[Off, On]
+When this is On, non-zero values will be scaled by the Shape Lane.
+Step Seq Lane Step
+Step
+[A1…D16]
+See “Step” on page 26.
+Type
+[Value + Continuous Mod, Value * Random +/-, Value * Random +, Value + S & H Mod]
+Value + Continuous Mod: The Step uses the programmed value, and modulation continuously affects the value. For instance, if an LFO is modulating Value, you’ll hear the LFO’s shape during the step.
+Value * Random +/-: The Step’s Value is scaled by a bipolar random amount. The result may be either positive or negative.
+Value * Random +: The Step’s Value is scaled by a unipolar random amount. If the Value is positive, the output will be positive; if the Value is negative, the output will be negative.
+Value + S & H Mod: The Step uses the programmed value, and modulation is updated only at the start of the Step. For instance, if an LFO is modulating Value, only the LFO’s amplitude at the very start of the step matters; you will not hear the LFO’s shape during the step.
+Step Seq
+此通道生成调制源来控制其他合成参数，如包络、LFO 等。
+重要提示：波形序列每个声音独立运行。这意味着 Step Seq 通道只能调制每个声音的参数，例如放大器、音高、滤波器、包络和 LFO 中的设置。具体来说，Step Seq 通道不能调制调制旋钮、效果或矢量包络。
+Step Seq 通道
+预设、开始、结束、循环开始、循环结束、重复
+请参阅第 24 页的“前面板通道控制”。
+使用形状
+[关闭、打开]
+当打开时，非零值将由形状通道缩放。
+步骤序列通道步骤
+步骤
+[A1…D16]
+请参阅第 26 页的“步骤”。
+类型
+[值 + 连续调制、值 * 随机 +/-、值 * 随机 +、值 + S & H 调制]
+值 + 连续调制：步骤使用已编程的值，调制会连续影响该值。例如，如果 LFO 正在调制值，您将在步骤期间听到 LFO 的形状。
+值 * 随机 +/-：步骤的值按双极随机量缩放。结果可能是正数或负数。
+值 * 随机 +：步骤的值按单极随机量缩放。如果值为正数，则输出为正数；如果值为负数，则输出为负数。
+值 + S & H 调制：步骤使用已编程的值，调制仅在步骤开始时更新。例如，如果 LFO 正在调制值，则只有步骤开始时的 LFO 振幅才重要；在步骤过程中您将听不到 LFO 的形状。
+
+Value
+[-100…100%]
+This sets the output level for the Step.
+Probability
+See “Step Probability” on page 24.
+值
+[-100…100%]
+这将设置步骤的输出级别。
+概率
+请参阅第 24 页的“步骤概率”。
+
+			Wave Sequence Utility
+Cut Steps, Copy Steps, Paste Steps, Insert Steps, Add Steps To End
+To cut, copy, paste, insert, or add Steps to either a single Lane or all Lanes:
+1. From a Wave Sequence Lane page, use PAGE+ to go to the Lane Utility page.
+2. Select an Action such as Cut Steps or Add Steps To End.
+3. Set the Scope as desired, to apply the Action to all Lanes or to only the current Lane.
+4. Set the other parameters (From Step, Through, etc.) as desired.
+5. Press ENTER to execute the command.
+Scale Timing
+This Action is available only when entering the Wave Sequence Utility page via the Timing Lane. It allows you to edit all of the Timing Lane Step Durations at once, to make the sequence longer or shorter. If you want to change this in real-time, use the Timing Lane Speed parameter instead.
+波形序列实用程序
+剪切步骤、复制步骤、粘贴步骤、插入步骤、将步骤添加到末尾
+要剪切、复制、粘贴、插入或将步骤添加到单个通道或所有通道：
+1. 从波形序列通道页面，使用 PAGE+ 转到通道实用程序页面。
+2. 选择操作，例如剪切步骤或将步骤添加到末尾。
+3. 根据需要设置范围，将操作应用于所有通道或仅应用于当前通道。
+4. 根据需要设置其他参数（从步骤、通过等）。
+5. 按 ENTER 执行命令。
+缩放计时
+此操作仅在通过计时通道进入波形序列实用程序页面时可用。它允许您一次编辑所有计时通道步骤持续时间，以使序列更长或更短。如果您想实时更改此设置，请改用计时通道速度参数。
+
+################################
+				Vector
+Overview
+Vector Synthesis lets you control the sound by moving the Vector Joystick, using the programmable Vector Envelope, or the combination of the two.
+What does Vector mean?
+Modulation generally works by moving a single control, like a slider, in a straight line. At one end of the control, the modulation is at its minimum; at the other end, it’s at its maximum.
+Vector Synthesis is a little different. It works by moving around a point on a two-dimensional plane, both left-right and up-down.
+You can think of this point as being positioned on two different lines at once: a left-right line (the X axis), and an up-down line (the Y axis).
+In other words, instead of just having one value (like a slider), each Vector point has two values: one for X, and one for Y. See the graphic below for an example.
+向量合成可让您通过移动向量操纵杆、使用可编程向量包络或两者结合来控制声音。
+向量是什么意思？
+调制通常通过沿直线移动单个控件（如滑块）来工作。在控件的一端，调制处于最小值；在另一端，调制处于最大值。
+向量合成略有不同。它的工作原理是围绕二维平面上的一个点移动，左右和上下。
+您可以将此点视为同时位于两条不同的线上：一条左右线（X 轴）和一条上下线（Y 轴）。
+换句话说，每个向量点不只有一个值（如滑块），而是有两个值：一个用于 X，一个用于 Y。请参阅下图中的示例。
+
+In addition to moving the point directly with the Vector Joystick, you can also use the Vector Envelope to move its position automatically over time, as shown below.
+除了使用矢量操纵杆直接移动点之外，您还可以使用矢量包络随时间自动移动其位置，如下所示。
+
+Vector Joystick and Vector Envelope
+
+You can move the Vector point using the combination of the Vector Joystick and the Vector Envelope. The two work together, although you don’t have to use both at the same time.
+When the Vector Joystick is in its center position, the Vector Envelope has complete control over the point’s position.
+Likewise, when the Vector Envelope is in the center, the Vector Joystick has complete control.
+您可以使用矢量操纵杆和矢量包络的组合来移动矢量点。两者协同工作，但您不必同时使用两者。
+当矢量操纵杆处于其中心位置时，矢量包络可以完全控制该点的位置。
+同样，当矢量包络位于中心时，矢量操纵杆可以完全控制。
+
+When the Vector Envelope is in use, the Vector Joystick offsets the Vector Envelope position by up to halfway across either axis. For instance, if the Envelope is all the way to the right of the X axis, and the Joystick is all the way to the left, the actual Vector position will be in the center of the X axis.
+使用矢量包络时，矢量操纵杆会将矢量包络位置偏移至任一轴的一半。例如，如果包络位于 X 轴的最右侧，而操纵杆位于最左侧，则实际矢量位置将位于 X 轴的中心。
+
+Vector Volume Control and modulation
+Vector does several things:
+• It generates four per-voice modulation signals, Vector Env A/B/C/D
+• It generates similar modulation signals at the Performance level, shared by all voices, for modulation of things like effects and the Performance Mod Knobs
+• When Vector Volume is On, it also controls the relative volumes of Layers A-D on a per-voice basis
+You can also use the Vector Joystick’s X- and Y-axes as modulation sources, independent from the Vector Envelope.
+Since the Vector Envelope’s settings are stored in the Performance, it’s best used for Performance-specific purposes, such as changing parameters (e.g. filter cutoff) in conjunction with volume, or interactions between layers.
+矢量音量控制和调制
+矢量可执行多项操作：
+• 它生成四个每个声音的调制信号，矢量包络 A/B/C/D
+• 它在性能级别生成类似的调制信号，由所有声音共享，用于调制效果和性能调制旋钮等
+• 当矢量音量打开时，它还会根据每个声音控制 A-D 层的相对音量
+您还可以使用矢量操纵杆的 X 轴和 Y 轴作为调制源，独立于矢量包络。
+由于矢量包络的设置存储在性能中，因此它最适合用于特定于性能的目的，例如结合音量更改参数（例如滤波器截止）或层之间的交互。
+
+Vector and MIDI
+The Vector Joystick sends and receives two MIDI controllers: CC #16 is the X axis, and CC #17 is the Y axis.
+矢量和 MIDI
+矢量操纵杆发送和接收两个 MIDI 控制器：CC #16 是 X 轴，CC #17 是 Y 轴。
+
+Vector Env Volume
+The Vector Envelope has five points: 0, 1, 2, 3 (Loop), and Release. Each point has X and Y positions, from which the A, B, C, and D percentages are derived.
+This page shows the A/B/C/D volume values for each point as percentages of full volume. For a given point, A, B, C, and D will always add up to 100; positions outside the diamond are clipped. To change the values, cursor to a point and then move the Vector Joystick. (Note: this requires that the Vector Env Setup page’s Joystick Edit is On).
+The Vector Env Volume and Vector Env X-Y pages show the same set of position values from different perspectives.
+You can edit the values on either page.
+矢量包络音量
+矢量包络有五个点：0、1、2、3（循环）和释放。每个点都有 X 和 Y 位置，A、B、C 和 D 百分比由此得出。
+此页面显示每个点的 A/B/C/D 音量值，以占全音量的百分比表示。对于给定点，A、B、C 和 D 的总和始终为 100；菱形外的位置将被剪裁。要更改值，请将光标移到某个点，然后移动矢量操纵杆。（注意：这要求矢量包络设置页面的操纵杆编辑处于打开状态）。
+矢量包络音量和矢量包络 X-Y 页面从不同的角度显示同一组位置值。
+您可以在任一页面上编辑这些值。
+
+Vector Env X-Y
+This page shows the X-Y coordinates for each point, which also translate into the Vector Env modulation outputs. You can edit these by hand if desired, or enter values into the selected point via the joystick. Unlike volumes, modulation outputs are not clipped to the diamond shape.
+Note: edits from the joystick apply to both X and Y values, even though only one of the pair will be selected.
+Positions, times, and Time Scale are modulatable from channel sources such as the Mod Wheel, MIDI CCs, and Performance Mod Knobs as well as by velocity and note number—but not from per-voice sources such as Envelopes and LFOs.
+矢量包络 X-Y
+此页面显示每个点的 X-Y 坐标，这些坐标也转换为矢量包络调制输出。您​​可以根据需要手动编辑这些坐标，或通过操纵杆将值输入到选定点。与音量不同，调制输出不会被剪裁为菱形。
+注意：操纵杆的编辑适用于 X 和 Y 值，即使只选择一对值中的一个。
+位置、时间和时间刻度可通过通道源（例如调制轮、MIDI CC 和性能调制旋钮）以及速度和音符编号进行调制，但不能通过每个声音源（例如包络和 LFO）进行调制。
+
+X (0…3, R)
+[-127…+127]
+0 is the center; -127 is far left, and +127 is far right.
+Y (0…3, R)
+[-127…+127]
+0 is the center; -127 is bottom, and +127 is top.
+X (0…3，R)
+[-127…+127]
+0 为中心；-127 为最左边，+127 为最右边。
+Y (0…3，R)
+[-127…+127]
+0 为中心；-127 为底部，+127 为顶部。
+
+Vector Env Time
+The front-panel knobs control the five Time parameters. The units are in either seconds or note values, depending on the Vector Env Setup page’s Mode parameter.
+• The first three times are the transitions from 0-1, 1-2, and 2-3.
+• The fourth time, 3-Lp, is the transition from 3 to the next point in the loop, which may vary depending on loop settings.
+• The fifth time, Rls, is the transition from the position at note-off to the release point.
+矢量包络时间
+前面板旋钮控制五个时间参数。单位为秒或音符值，具体取决于矢量包络设置页面的模式参数。
+• 前三次是从 0-1、1-2 和 2-3 的过渡。
+• 第四次，3-Lp，是从 3 到循环中下一个点的过渡，这可能因循环设置而异。
+• 第五次，Rls，是从音符关闭位置到释放点的过渡。
+
+Time
+[0.0000...60.0000 sec]
+When Mode is set to Time, you can set the segment’s duration in seconds.
+
+Beats and multiply (“x”)
+These parameters are shown when Mode is set to Tempo. You can set the segment’s duration in beats (1/32 note to 2 breve) and a multiplier (1…32).
+时间
+[0.0000...60.0000 秒]
+当模式设置为时间时，您可以设置片段的持续时间（以秒为单位）。
+
+节拍和倍数（“x”）
+当模式设置为速度时，会显示这些参数。您可以设置片段的持续时间（以节拍为单位）（1/32 音符到 2 个短音符）和倍数（1…32）。
+
+Vector Env Setup
+Mode
+[Time, Tempo]
+This selects whether the Vector Envelope segments will be specified in seconds (Time), or in rhythmic values (Tempo).
+Speed
+[Mode = Time: 0.01…100.00]
+[Mode = Tempo: 1/4…4x]
+This speeds up or slows down the envelope as a whole.
+When Mode is set to Time, you can vary this continually from 0.01 (1/100 of the original speed) to 100.00 (100 times the original speed).
+矢量包络设置
+模式
+[时间、节奏]
+选择矢量包络段是以秒（时间）还是节奏值（节奏）为单位指定的。
+速度
+[模式 = 时间：0.01…100.00]
+[模式 = 节奏：1/4…4x]
+这会加快或减慢整个包络的速度。
+当模式设置为时间时，您可以将其从 0.01（原始速度的 1/100）连续变化到 100.00（原始速度的 100 倍）。
+
+When Mode is set to Tempo, you can select tempo-locked ratios from 1/4 to 4x of the original Speed.
+当模式设置为“节奏”时，您可以选择从原始速度的 1/4 到 4 倍的节奏锁定比率。
+
+Loop
+[0->3, 1->3, 2->3, 0<->3, 1<->3]
+This selects the start and end points of the loop, and whether the loop is forwards only or forwards-backwards.
+0->3, 1->3, and 2->3: These loop forwards only. For instance, 1->3 makes the envelope play as follows: 0, 1, 2, 3, 1, 2, 3,
+1, 2, 3 etc.
+0<->3 and 1<->3: These loop forwards-backwards. For instance, 1<->3 makes the envelope play as follows: 0, 1, 2, 3, 2,
+1, 2, 3 etc.
+循环
+[0->3, 1->3, 2->3, 0<->3, 1<->3]
+这将选择循环的起点和终点，以及循环是仅向前还是向前-向后。
+0->3、1->3 和 2->3：这些循环仅向前循环。例如，1->3 使信封按如下方式播放：0、1、2、3、1、2、3、
+1、2、3 等。
+0<->3 和 1<->3：这些循环向前-向后循环。例如，1<->3 使信封按如下方式播放：0、1、2、3、2、
+1、2、3 等。
+
+(Loop) Repeats
+[Off, 1...126, Inf]
+Off: The Vector Envelope proceeds to point 3, stays there until the note is released, and then proceeds to the Release point.
+1-126: The Vector Envelope will loop the specified number of times, hold at point 3 until the note is released, and then proceed to the Release point.
+Inf: The Vector Envelope loops as long as the note is held, and then moves to the Release point when the note is released.
+（循环）重复
+[关闭，1...126，无穷大]
+关闭：矢量包络前进到点 3，停留在那里直到音符被释放，然后前进到释放点。
+1-126：矢量包络将循环指定的次数，保持在点 3 直到音符被释放，然后前进到释放点。
+无穷大：只要音符被保持，矢量包络就会循环，然后在音符被释放时移动到释放点。
+
+Joystick Edit
+[Off, On]
+On: When the Vector Env Position, X-Y, or Time pages are displayed, the VECTOR JOYSTICK edits the position
+parameters instead of being a modulation source.
+Off: The VECTOR JOYSTICK always acts as modulation source, and does not edit parameters.
+操纵杆编辑
+[关闭，打开]
+打开：显示“矢量包络位置”、“X-Y”或“时间”页面时，VECTOR JOYSTICK 会编辑位置
+参数，而不是作为调制源。
+关闭：VECTOR JOYSTICK 始终充当调制源，不编辑参数。
+
+Vector Volume (SHIFT-VECTOR)
+[Off, On]
+This enables and disables the direct control of volume by the Vector Joystick and Vector Envelope. The state is shown by the front-panel VOL light. When Vector Volume is Off, the Vector Joystick and Vector Envelope are still available as modulation sources.
+矢量音量 (SHIFT-VECTOR)
+[关闭，打开]
+这将启用或禁用矢量操纵杆和矢量包络对音量的直接控制。状态由前面板 VOL 灯显示。当矢量音量关闭时，矢量操纵杆和矢量包络仍可用作调制源。
+
+Volume Curve
+[Loud, Smooth]
+This controls how Vector Volume crossfades when you move the Vector Joystick, and between points on the Vector Envelope. For maximum volume, use Loud (the original wavestate behavior); for more gentle crossfades, use Smooth (the original Wavestation behavior).
+音量曲线
+[响亮、平滑]
+这控制着当您移动矢量操纵杆时以及矢量包络上的点之间矢量音量如何交叉淡入淡出。要获得最大音量，请使用响亮（原始波态行为）；要获得更柔和的交叉淡入淡出，请使用平滑（原始 Wavestation 行为）。
+
+							Arpeggiator
+Arpeggiator
+The Arpeggiator is particularly effective in conjunction with Note Advance, so that each generated note starts on a new step in the Lane. Try this with the Sample Lane in particular, with a single Timing step set to Gate.
+Arpeggiator (ARPEGGIATOR)
+[Off, On]
+This duplicates the functionality of the front-panel ARPEGGIATOR button. To view this page without toggling the arpeggiator on or off, use ENTER + ARPEGGIATOR.
+The ARPEGGIATOR button LED shows both Arpeggiator On/Off and Performance Hold On/Off, as shown below.
+(See “Performance Hold” on page 10.)
+图：Arpeggiator button LED and Hold
+琶音器
+琶音器与音符推进结合使用效果特别好，这样生成的每个音符都会从通道中的新步骤开始。请尝试将此功能与示例通道结合使用，并将单个时间步骤设置为门限。
+琶音器 (ARPEGGIATOR)
+[关闭，打开]
+这复制了前面板 ARPEGGIATOR 按钮的功能。要在不打开或关闭琶音器的情况下查看此页面，请使用 ENTER + ARPEGGIATOR。
+琶音器按钮 LED 显示琶音器开/关和性能保持开/关，如下所示。
+（请参阅第 10 页的“性能保持”。）
+表：琶音器按钮 LED 和保持
+Hold Off Hold On
+Arpeggiator Off LED Off LED Blinks
+Arpeggiator On LED On LED blinks: long on, short off
+
+Latch
+[Off, On]
+Off: The Arpeggiator will only play as long as notes are being held on the keyboard (or via the damper pedal).
+On: The Arpeggiator will continue to play after notes are released.
+闩锁
+[关闭，打开]
+关闭：琶音器仅在键盘上（或通过制音踏板）按住音符时才播放。
+打开：琶音器在释放音符后将继续播放。
+
+Pattern
+[Up, Down, Alt1, Alt2, Random]
+This controls the note pattern of the Arpeggiator. Most should be self-explanatory. Alt1 and Alt2 each go up and then down; the difference between them is that Alt2 plays the top-most and bottom-most notes twice. 
+模式
+[上、下、Alt1、Alt2、随机]
+此控制琶音器的音符模式。大部分应该是不言自明的。Alt1 和 Alt2 分别向上和向下；它们之间的区别是 Alt2 播放最高音符和最低音符两次。
+
+Resolution
+[32nd note triplet…1/4 note]
+This controls the speed of the Arpeggiator. Try modulating this from the Mod Wheel!
+分辨率
+[32 分音符三连音...1/4 音符]
+这控制琶音器的速度。尝试从调制轮调制它！
+
+Swing
+[-100%…+100%]
+This controls the rhythmic swing of the Arpeggiator, based on the Resolution above.
+100%: The second rhythmic division will be pushed to the third triplet, for a full swing feel.
+-100%: The second rhythmic division will be pulled to the second triplet, for a reverse-swing feel.
+摇摆
+[-100%…+100%]
+根据上面的分辨率，控制琶音器的节奏摇摆。
+100%：第二个节奏部分将被推到第三个三连音，以获得完整的摇摆感觉。
+-100%：第二个节奏部分将被拉到第二个三连音，以获得反向摇摆的感觉。
+
+Octaves
+[1…4]
+This controls the range of the arpeggiated notes. 1 uses the pitches as played. 2-4 transpose upwards by the specified number of octaves.
+八度
+[1…4]
+控制琶音音符的范围。1 使用弹奏的音高。2-4 按指定的八度数向上移调。
+
+Gate
+[0%…100%]
+This sets the length of the arpeggiated notes, as a percentage of the Resolution.
+Gate
+[0%…100%]
+这将设置琶音音符的长度，以分辨率的百分比表示。
+
+Sync Notes
+[Off, On]
+Off: The arpeggiator starts immediately when the first note is played, and does not synchronize to any Wave Sequences or itself when latched. You could use this if you were playing with a human drummer and needed to reset the arpeggiator rhythm to the drummer's beat periodically.
+On: The arpeggiator will synchronize to either sounding Wave Sequences or itself when latched. When synchronizing to Wave Sequences, the first note will sound when played, but subsequent arpeggiator-generated notes will be in sync with the Wave Sequence. When playing a latched arpeggiator, new notes will sound when the arpeggiator beat comes around; the arpeggiator's rhythm is not disturbed by playing new notes.
+同步音符
+[关闭，打开]
+关闭：琶音器在弹奏第一个音符时立即启动，锁定时不与任何波形序列或其自身同步。如果您与人类鼓手一起演奏，并且需要定期将琶音器节奏重置为鼓手的节拍，则可以使用该功能。
+打开：琶音器在锁定时将与发声的波形序列或其自身同步。当与波形序列同步时，第一个音符将在演奏时发声，但后续琶音器生成的音符将与波形序列同步。当演奏锁定的琶音器时，当琶音器节拍出现时，新音符将发声；琶音器的节奏不会因演奏新音符而受到干扰。
+
+Sort
+[Off, On]
+Off: The Arpeggiator Patterns will be based on the order in which the notes were originally played. For instance, Up will play the notes in the originally played order, and Down will play the notes in reverse order.
+On: The Arpeggiator plays notes according to the selected Pattern, sorted from lowest to highest, and ignores the originally played order.
+排序
+[关闭，打开]
+关闭：琶音器模式将基于音符的原始播放顺序。例如，向上将按原始播放顺序播放音符，向下将按相反顺序播放音符。
+打开：琶音器根据所选模式播放音符，从低到高排序，并忽略原始播放顺序。
+
+							Filter
+Filter Type (FILTER TYPE) 
+[ Polysix, MS-20 LP, MS-20 HP, 2-pole LP, 2-pole HP, 2-pole BP, 2-pole BR, 4-pole   LP, 4-pole HP, 4-pole BP, 4-pole BR, Multi Filter ] Pressing the front panel FILTER TYPE button selects and edits the Type parameter. Three useful settings are available directly: the Polysix LP, the MS-20 LP, and a 2-pole resonant HP. Many more types are available by editing the on- screen parameter. If in doing so you select one of the three types listed on the front panel, the front-panel FILTER TYPE LEDs will update to show the selection. Selecting any other Filter Type lights the MORE LED. If you switch between Types from the front-panel button, the MORE position remembers the last-used “more” Type.
+LP (Low Pass). This cuts out the parts of the sound which are higher than the cutoff frequency. Low Pass is the most common type of filter, and is used to make bright timbres sound darker.
+HP (High Pass). This cuts out the parts of the sound which are lower than the cutoff frequency. You can use this to make timbres sound thinner or more buzzy.
+BP (Band Pass). This cuts out all parts of the sound, both highs and lows, except for the region around the cutoff frequency. Since this filter cuts out both high and low frequencies, its effect can change dramatically depending on the cutoff setting and the oscillator’s multisample.
+With low resonance settings, you can use the Band Pass filter to create telephone or vintage phonograph sounds. With higher resonance settings, it can create buzzy or nasal timbres.
+R (Band Reject). This filter type–also called a notch filter– cuts only the parts of the sound directly around the cutoff frequency. Try modulating the cutoff with an LFO to create phaser-like effects.
+2-pole LP, HP, BP, and BR: These produce 12dB/octave slopes for LP and HP, and 6dB/octave for BP and BR. A classic synthesizer expander module used this type of filter.
+4-pole LP, HP, BP, and BR: These produce 24dB/octave slopes for LFP and HP, and 12dB/octave for BP and BR. In comparison to 2-pole filters, these create a sharper roll-off beyond the cutoff frequency with more delicate resonance.
+Many classic analog synths used this general type of filter.
+Multi Filter. This is a complex filter which is capable of all of the 2-pole filter types, and many more besides. See “Multi Filter,” on page 43.
+
+滤波器类型 (FILTER TYPE)
+[ Polysix、MS-20 LP、MS-20 HP、2 极 LP、2 极 HP、2 极 BP、2 极 BR、4 极 LP、4 极 HP、4 极 BP、4 极 BR、多重滤波器 ] 按下前面板 FILTER TYPE 按钮可选择和编辑类型参数。可直接使用三种有用的设置：Polysix LP、MS-20 LP 和 2 极谐振 HP。通过编辑屏幕参数，可获得更多类型。如果在这样做时选择前面板上列出的三种类型之一，前面板 FILTER TYPE LED 将更新以显示选择。选择任何其他滤波器类型都会点亮 MORE LED。如果从前面板按钮在类型之间切换，MORE 位置会记住最后使用的“更多”类型。
+LP（低通滤波器）。这会切断声音中高于截止频率的部分。低通滤波器是最常见的滤波器类型，用于使明亮的音色听起来更暗淡。
+HP（高通滤波器）。这会切断声音中低于截止频率的部分。您可以使用它使音色听起来更薄或更嗡嗡作响。
+BP（带通滤波器）。这会切断声音的所有部分，包括高音和低音，但截止频率周围的区域除外。由于此滤波器会切断高频和低频，因此其效果会根据截止设置和振荡器的多重采样而发生巨大变化。
+使用低共振设置，您可以使用带通滤波器来创建电话或老式留声机的声音。使用较高的共振设置，它可以创建嗡嗡声或鼻音。
+R（带阻滤波器）。这种滤波器类型（也称为陷波滤波器）仅切断声音中直接位于截止频率周围的部分。尝试使用 LFO 调制截止频率以创建类似移相器的效果。
+2 极 LP、HP、BP 和 BR：这些滤波器为 LP 和 HP 产生 12dB/八度斜率，为 BP 和 BR 产生 6dB/八度斜率。经典合成器扩展器模块使用这种类型的滤波器。
+4 极 LP、HP、BP 和 BR：这些滤波器为 LFP 和 HP 产生 24dB/八度斜率，为 BP 和 BR 产生 12dB/八度斜率。与 2 极滤波器相比，它们在截止频率之外产生更尖锐的滚降，共振更细腻。
+许多经典模拟合成器使用这种通用类型的滤波器。
+多重滤波器。这是一个复杂的滤波器，能够实现所有 2 极滤波器类型，以及更多其他类型。请参阅第 43 页的“多重滤波器”。
+
+MS-20 LP and HP: These 12dB/octave, self-resonating filters lovingly recreate the distinctive timbral signature of the classic Korg MS-20. Raising Resonance will cause increasing amounts of saturation and overdrive, creating a more aggressive tone. Input volume can have a strong effect on this character; for more information, see “Gain” on page 42.
+Polysix: This 24dB/octave, self-resonating low-pass filter provides the strong, sweet sound of the classic Korg Polysix.
+MS-20 LP 和 HP：这些 12dB/八度、自谐振滤波器精心重现了经典 Korg MS-20 的独特音色特征。提高谐振会导致饱和度和过载量增加，从而产生更具侵略性的音调。输入音量可以对此特性产生强烈影响；有关更多信息，请参阅第 42 页的“增益”。
+Polysix：这个 24dB/八度、自谐振低通滤波器提供了经典 Korg Polysix 强劲、甜美的声音。
+
+Cutoff (CUTOFF)
+[-4.00 or +8.00…+136.00 or +138.00 semitones]
+This controls the cutoff frequency of the filter, in semitones mapped to MIDI note numbers (60.00 = middle C). The frequency in Hz is also shown. The specific effect of the cutoff frequency will change depending on the selected Type, as described above. Most filter types have a range of -4.00 to +138.00, but the MS-20 LP/HP and Polysix range from +8.00 to +136.00.
+截止 (CUTOFF)
+[-4.00 或 +8.00…+136.00 或 +138.00 半音]
+这控制滤波器的截止频率，以映射到 MIDI 音符数字的半音为单位（60.00 = 中央 C）。还显示以 Hz 为单位的频率。截止频率的具体效果将根据所选类型而变化，如上所述。大多数滤波器类型的范围为 -4.00 至 +138.00，但 MS-20 LP/HP 和 Polysix 的范围为 +8.00 至 +136.00。
+
+Res (RESONANCE)
+[0.00…100.00%]
+Resonance emphasizes the frequencies around the cutoff frequency, as shown in the diagram below.
+When this is set to 0, there is no emphasis, and frequencies beyond the cutoff will simply diminish smoothly.
+At medium settings, the resonance will alter the timbre of the filter, making it sound more nasal, or more extreme.
+At very high settings, the resonance can be heard as a separate, whistling pitch.
+Res（共振）
+[0.00…100.00%]
+共振强调截止频率周围的频率，如下图所示。
+当设置为 0 时，没有强调，截止频率以外的频率将平滑地减弱。
+在中等设置下，共振会改变滤波器的音色，使其听起来更像鼻音或更极端。
+在非常高的设置下，共振可以听成一个单独的、呼啸的音调。
+
+Trim
+[0.00…100.00]
+This adjusts the volume level at the input to the filter. If you notice that the sound is distorting, especially with high Resonance settings, you can turn the level down here.
+修剪
+[0.00…100.00]
+这可调整滤波器输入端的音量。如果您发现声音失真，尤其是在高共振设置下，您可以在此处调低音量。
+
+Out (Output Level)
+[0.00…100.00]
+This controls the output level of the filter.
+输出（输出电平）
+[0.00…100.00]
+控制滤波器的输出电平。
+
+2-Pole LP/HP/BP/BR
+
+(Resonance) Bass
+[Full, Tight]
+This is available only when Type is one of the 2-pole or 4-pole settings, or Multi Filter. Resonance Bass controls the character of the filter resonance at low cutoff frequencies. Its effect is most noticeable with high Resonance settings.
+Tight produces a more restrained resonance, similar to a classic, American, wood-paneled monophonic synthesizer.
+Full produces a wide, boomy resonance, reminiscent of a famous five-voice American synthesizer.
+（共振）低音
+[全、紧]
+仅当类型为 2 极或 4 极设置之一或多重滤波器时才可用。共振低音控制滤波器在低截止频率下的共振特性。其效果在高共振设置下最为明显。
+紧产生更内敛的共振，类似于经典的美国木板单声道合成器。
+全产生宽广、轰鸣的共振，让人想起著名的五声道美国合成器。
+
+4-Pole LP/HP/BP/BR
+Resonance Type
+[Standard, High]
+This is available only when the Type is set to one of the 4-pole settings.
+Standard provides the resonance character of a typical analog 4-pole filter.
+High creates a more pronounced resonance.
+共振类型
+[标准、高]
+仅当类型设置为 4 极设置之一时才可用。
+标准提供典型模拟 4 极滤波器的共振特性。
+高产生更明显的共振。
+
+MS-20 LP/HP and Polysix
+Gain
+[Loud, less resonance; Unity, less resonance; Normal, 1-osc input; Normal, 2-osc input]
+Gain is available only when Type is MS-20 LP, MS-20 HP, or Polysix. These filter types include saturation, which interacts with resonance. With anything other than very low resonance settings, input volume can have a strong effect on their character. The lower the input gain, the more headroom remains for the resonance to bloom. Use Gain to set the basic input level, and then fine-tune with Trim if desired.
+Normal, 2-osc input: This is the lowest input gain. It will produce the classic resonant sounds of these filters even with extremely loud input signals.
+增益
+[响亮，共振较少；统一，共振较少；正常，1-osc 输入；正常，2-osc 输入]
+增益仅在类型为 MS-20 LP、MS-20 HP 或 Polysix 时可用。这些滤波器类型包括与共振相互作用的饱和度。除了非常低的共振设置之外，输入音量都会对其特性产生强烈影响。输入增益越低，共振绽放的空间就越大。使用增益设置基本输入级别，然后根据需要使用微调进行微调。
+正常，2-osc 输入：这是最低输入增益。即使输入信号非常响亮，它也会产生这些滤波器的经典共振声音。
+
+Normal, 1-osc input: This will produce the classic resonant sounds of these filters with a single oscillator playing at full volume. When input is louder than a single full-volume oscillator, the resonance effect will be less pronounced.
+Unity, less resonance: Volume is unattenuated. This leaves less headroom, so resonance will be less prominent.
+Loud, less resonance: This provides a slight volume boost on input. This makes it easy to reach saturation with the input level alone, leaving very little headroom for resonance.
+正常，1-osc 输入：这将产生这些滤波器的经典共振声音，单个振荡器以最大音量播放。当输入比单个全音量振荡器更响亮时，共振效果将不那么明显。
+统一，较少共振：音量不衰减。这留下较少的余量，因此共振将不那么明显。
+响亮，较少共振：这会在输入上提供轻微的音量增强。这使得仅凭输入电平就很容易达到饱和，留下很少的余量用于共振。
+
+Multi Filter
+Xfd (Crossfade)
+[0…100]
+This is available only when Type is Multi Filter. Crossfade morphs between the Mode 1 and Mode 2 settings. 0 is all
+Mode 1, 100 is all Mode 2, and 1-99 are intermediate values between the two Modes.
+多重滤镜
+Xfd（交叉淡入淡出）
+[0…100]
+仅当类型为多重滤镜时才可用。交叉淡入淡出在模式 1 和模式 2 设置之间变换。0 为全部
+模式 1，100 为全部模式 2，1-99 为两种模式之间的中间值。
+
+MFilt (Multi Filter Preset)
+[List of Presets]
+This is available only when Type is Multi Filter. Presets let you quickly select from a number of useful combinations of Modes 1 and 2. You can also select any combination you wish on the Multi Filter page, described below.
+MFilt（多重滤镜预设）
+[预设列表]
+仅当类型为多重滤镜时才可用。预设可让您从模式 1 和 2 的多个有用组合中快速选择。您还可以在多重滤镜页面上选择您想要的任何组合，如下所述。
+
+Multi Filter
+This page is available only when the Filter page Type is set to Multi Filter.
+多重过滤器
+仅当过滤器页面类型设置为多重过滤器时，此页面才可用。
+
+What’s a Multi Filter?
+Standard multimode filters generate low-pass, high-pass, and band-pass filters simultaneously—but only let you use one of them at a time. The Multi Filter gives you access to all three filter modes simultaneously, in any combination, along with the dry input signal. You can choose from a large number of preset combinations, or create your own complex filter modes using the Manual controls.
+This is capable of some cool sounds in and of itself, but things really get interesting when you use Crossfade (see “Xfd (Crossfade)” on page 43). Crossfade allows you to mix between two of these filter settings (Mode 1 and Mode 2), using modulation sources such as envelopes, LFOs, or real-time controllers.
+什么是多重滤波器？
+标准多模式滤波器可同时生成低通、高通和带通滤波器，但每次只能使用其中一种。多重滤波器可让您同时以任意组合访问所有三种滤波器模式以及干输入信号。您可以从大量预设组合中进行选择，也可以使用手动控件创建自己的复杂滤波器模式。
+这本身就能产生一些很酷的声音，但当您使用 Crossfade 时，事情会变得非常有趣（请参阅第 43 页的“Xfd（Crossfade）”）。Crossfade 允许您使用调制源（例如包络、LFO 或实时控制器）在两种滤波器设置（模式 1 和模式 2）之间进行混合。
+
+1 (Mode 1)
+[List of filter types]
+This sets the filter type for Mode 1.
+LP, HP, BP, and BR are the standard filter types. For more information, see “Filter,” on page 40.
+1（模式 1）
+[过滤器类型列表]
+这将设置模式 1 的过滤器类型。
+LP、HP、BP 和 BR 是标准过滤器类型。有关更多信息，请参阅第 40 页的“过滤器”。
+
+LP+BP, LP-BP, LP-HP, BP+HP, BP-HP, Dry+LP, Dry-LP, Dry+BP, Dry-BP, Dry+LP-HP, Dry+LP-BP, Dry+BP-LP,
+Dry+BP-HP, Dry+HP-LP, Dry+HP-BP, LP+HP+BP: 
+These combine two or more filters at equal volumes. Dry is the un-filtered input signal. The minus sign (“-”) indicates when the phase of a filter is reversed.
+All On uses the Low Pass, High Pass, Band Pass, and Dry signals at equal volumes.
+Manual lets you create your own mix of the filters; an additional four parameters will appear. For more information, see “Manual,” below.
+这些滤波器将两个或多个滤波器组合成相等音量。干声是未滤波的输入信号。减号（“-”）表示滤波器的相位反转。
+All On 使用相等音量的低通、高通、带通和干声信号。
+Manual 允许您创建自己的滤波器组合；将出现另外四个参数。有关更多信息，请参阅下面的“Manual”。
+
+2 (Mode 2)
+Mode 2 has the same selections as Mode 1.
+2（模式 2）
+模式 2 具有与模式 1 相同的选择。
+
+Manual
+When Mode is set to Manual, these parameters let you create your own mix of the filters.
+You may wonder why Band Reject is not included here. This is because it’s not a filter mode per se. Instead, it’s created by equal amounts of High Pass and Low Pass. Try it and see!
+手动
+当模式设置为手动时，这些参数可让您创建自己的滤波器组合。
+您可能想知道为什么这里不包含频带抑制。这是因为它本身不是一种滤波器模式。相反，它是由等量的高通和低通创建的。试试看吧！
+
+LP (Lowpass), HP (Highpass), BP (Bandpass), Dry
+[-100%…+100%]
+These set the volume of the Lowpass, Highpass, Bandpass, and Dry signals, respectively. Negative values invert the phase.
+这些分别设置低通、高通、带通和干信号的音量。负值会反转相位。
+
+					Filter Mod
+These four parameters control the default modulation routings for Filter Cutoff. You can create additional routings as desired; for more information, see “Adding Modulation Routings” on page 54.
+这四个参数控制滤波器截止频率的默认调制路由。您可以根据需要创建其他路由；有关更多信息，请参阅第 54 页上的“添加调制路由”。
+
+LFO (INTENSITY)
+[-142.00…+142.00]
+This sets the amount of modulation from the Filter LFO, in semitones.
+这设置了滤波器 LFO 的调制量（以半音为单位）。
+
+Envelope (ENV INTENSITY)
+包络线（环境强度）
+[-142.00…+142.00]
+This sets the amount of modulation from the Filter Envelope, in semitones.
+这设置了滤波器包络的调制量（以半音为单位）。
+
+Vel->Env (VELOCITY)
+[-142.00…+142.00]
+This lets you use velocity to scale the amount of the Filter Envelope applied to Filter Freq, in semitones.
+这可让您使用速度来缩放应用于滤波器频率的滤波器包络的量（以半音为单位）。
+
+Key Track (SHIFT-CUTOFF)
+[-142.00…+142.00]
+This controls how much the Key Track will affect the Cutoff frequency. The value is the amount, in semitones, that the filter will change over five octaves of keyboard with a standard -1.00/+1.00 slope. The overall effect of the Keyboard
+Track is a combination of this value and the Keyboard Track shape.
+With positive values (+), the effect will be in the direction specified by keyboard tracking; if the Slope goes up, the Cutoff will increase.
+With negative values (–), the effect will be in the opposite direction; if the Slope goes up, the Cutoff will decrease.
+To create one-octave-per-octave key tracking (useful when creating pitch through filter resonance):
+键轨道 (SHIFT-CUTOFF)
+[-142.00…+142.00]
+这控制键轨道对截止频率的影响程度。该值是滤波器在键盘五个八度内以标准 -1.00/+1.00 斜率改变的量（以半音为单位）。键盘轨道的整体效果是该值与键盘轨道形状的组合。
+使用正值 (+)，效果将按照键盘跟踪指定的方向；如果斜率上升，截止频率将增加。
+使用负值 (-)，效果将朝相反方向；如果斜率上升，截止频率将降低。
+要创建每个八度一个八度的键跟踪（通过滤波器共振创建音高时很有用）：
+
+1. Set the Key Track amount to +60.00 semitones.
+2. In Filter Key Track, set Low and Low-Mid Slopes to -1.00, and Mid-High and High Slopes to +1.00.
+1. 将键轨道量设置为 +60.00 半音。
+2. 在过滤键轨道中，将低和低中斜率设置为 -1.00，将中高和高斜率设置为 +1.00。
+
+				Filter Key Track
+Keyboard Track
+Most acoustic instruments get brighter as you play higher pitches. At its most basic, keyboard tracking re-creates this effect by increasing the cutoff frequency of a lowpass filter as you play higher on the keyboard. Usually, some amount of key tracking is necessary in order to make the timbre consistent across the entire range.
+
+The wavestate keyboard tracking can also be much more complex, since it allows you to create different rates of change over up to four different parts of the keyboard. For instance, you can: • Make the filter cutoff increase very quickly over the middle of the keyboard, and then open more slowly–or not at all–in the higher octaves.
+
+• Make the cutoff increase as you play lower on the keyboard.
+
+• Create abrupt changes at certain keys, for split-like effects.
+键盘音轨
+大多数原声乐器在弹奏高音时会变得更明亮。最基本的键盘跟踪是通过在键盘上弹奏更高音时增加低通滤波器的截止频率来重现这种效果。通常，需要一定量的键跟踪才能使音色在整个范围内保持一致。
+
+波形键盘跟踪也可能更加复杂，因为它允许您在键盘的最多四个不同部分上创建不同的变化率。例如，您可以：• 使滤波器截止频率在键盘中间非常快速地增加，然后在高八度音阶中更慢地打开 - 或根本不打开。
+
+• 使截止频率在键盘上弹奏较低音时增加。
+
+• 在某些键上创建突然变化，以获得类似分割的效果。
+
+How Key Track works: Keys and Slopes
+The keyboard tracking works by creating four ramps, or slopes, between five keys on the keyboard. The bottom and top keys are fixed at the bottom and top of the MIDI range, respectively. You can set the other three keys–named Low, Mid, and High–to be anywhere in between.
+
+The four Slope values control the rate of change between each pair of keys. For instance, if the Low-Mid Slope is set to 0, the value will stay the same between the Low Key and the Mid Key.
+
+You can think of the resulting shape as being like two folding doors attached to a hinge in the center. At the Mid Key (the main hinge), the keyboard tracking has no effect.
+
+The two folding doors swing out from this center point to create changes in the higher and lower ranges of the keyboard.
+键轨的工作原理：键和斜率
+键盘跟踪的工作原理是在键盘上的五个键之间创建四个斜坡或斜率。底部和顶部的键分别固定在 MIDI 范围的底部和顶部。您可以将其他三个键（称为低、中和高）设置为介于两者之间的任何位置。
+
+四个斜率值控制每对键之间的变化率。例如，如果低中斜率设置为 0，则低键和中键之间的值将保持不变。
+
+您可以将生成的形状想象成连接到中心铰链的两扇折叠门。在中键（主铰链）处，键盘跟踪不起作用。
+
+两扇折叠门从这个中心点向外摆动，以在键盘的较高和较低范围内产生变化。
+
+Slope
+Positive slope values mean that the keyboard tracking output increases as you play farther from the Mid Key; negative slope values mean that it decreases. Because of this, the meaning of positive and negative slopes changes depending on whether the slope is to the left or right of the Mid Key.
+Low and Low-Mid: negative slopes make the output go down as you play lower on the keyboard, and positive slopes make the output go up.
+Mid-High and High: negative slopes make the output go down as you play higher on the keyboard, and positive slopes make the output go up.
+The table below shows how the slopes affect the modulation output:
+斜率
+正斜率值表示当您从中键弹奏得更远时，键盘跟踪输出会增加；负斜率值表示它会减少。因此，正斜率和负斜率的含义会根据斜率是在中键的左侧还是右侧而变化。
+低和中低：负斜率会使您在键盘上弹奏得更低时输出下降，而正斜率会使输出上升。
+中高和高：负斜率会使您在键盘上弹奏得更高时输出下降，而正斜率会使输出上升。
+下表显示了斜率如何影响调制输出：
+
+The final effect of Key Track is a combination of the Key Track shape and the modulation intensity. With greater Slope values, the Key Track shape can max out fairly quickly. Because of this, if you want a more intense effect, it’s best to increase the modulation intensity first, rather than increasing the Slope.
+关键轨道的最终效果是关键轨道形状和调制强度的结合。斜率值越大，关键轨道形状越快达到最大值。因此，如果您想要更强烈的效果，最好先增加调制强度，而不是增加斜率。
+
++Inf and –Inf slopes
++Inf and –Inf are special settings which create abrupt changes for split-like effects. When a slope is set to +Inf or –Inf, the keyboard tracking will go to its extreme highest or lowest value over the span of a single key.
+
+Note: if you set the Mid-High Slope to +Inf or –Inf, the High Slope will have no effect. Similarly, if you set the Low- Mid Slope to +Inf or –Inf, the Low Slope will have no effect.
++Inf 和 –Inf 斜率
++Inf 和 –Inf 是特殊设置，可创建突然变化以实现类似分割的效果。当斜率设置为 +Inf 或 –Inf 时，键盘跟踪将在单个键的跨度内达到其最高值或最低值。
+
+注意：如果将中高斜率设置为 +Inf 或 –Inf，则高斜率将不起作用。同样，如果将低中斜率设置为 +Inf 或 –Inf，则低斜率将不起作用。
+
+Low Slope
+[–Inf, –12.00…+12.00, +Inf]
+This sets the slope between the bottom of the MIDI note range and the Low key. For normal key track, use negative values. -1.00 is the default.
+低斜率
+[–Inf, –12.00…+12.00, +Inf]
+这将设置 MIDI 音符范围底部与低调之间的斜率。对于正常键轨道，使用负值。-1.00 为默认值。
+
+(Low) Key
+[C–1…G9]
+This sets the breakpoint note between the two lower slopes—the “hinge” of the lower door.
+The Low Key can’t be set above the Mid Key.
+（低）调
+[C–1…G9]
+这将设置两个下坡之间的断点音符——下门的“铰链”。
+低调不能设置在中调之上。
+
+Low-Mid Slope
+[–Inf, –12.00…+12.00, +Inf]
+This sets the slope between the Low and Mid keys. For normal key track, use negative values. -1.00 is the default.
+低中斜率
+[–Inf, –12.00…+12.00, +Inf]
+这将设置低键和中键之间的斜率。对于正常键轨道，使用负值。-1.00 为默认值。
+
+Mid Key
+[C–1…G9]
+This sets the center of the keyboard tracking—the main “hinge.” When this key is played, the Key Track output is 0.
+The Mid Key can’t be set below the Low Key, or above the High Key.
+中键
+[C–1…G9]
+这将设置键盘跟踪的中心 - 主“铰链”。弹奏此键时，键轨输出为 0。
+中键不能设置在低键下方或高键上方。
+
+Mid-High Slope
+[–Inf, –12.00…+12.00, +Inf]
+This sets the slope between the Mid and High keys. For normal key track, use positive values. +1.00 is the default.
+High Key
+[C–1…G9]
+This sets the breakpoint note between the two higher slopes—the “hinge” of the upper door.
+The High Key can’t be set below the Mid Key.
+中高斜率
+[–Inf, –12.00…+12.00, +Inf]
+这将设置中键和高键之间的斜率。对于正常键轨道，请使用正值。+1.00 为默认值。
+高键
+[C–1…G9]
+这将设置两个较高斜率之间的断点音符 - 上门的“铰链”。
+高键不能设置在中键以下。
+
+(High) Slope
+[–Inf, –12.00…+12.00, +Inf]
+This sets the slope between the High key and the top of the MIDI note range. For normal key track, use positive values.
++1.00 is the default.
+（高）斜率
+[–Inf, –12.00…+12.00, +Inf]
+这将设置高音调和 MIDI 音符范围顶部之间的斜率。对于普通音调轨道，请使用正值。
++1.00 为默认值。
+
+						Pitch
+Pitch
+Octave (SHIFT-RESONANCE)
+[–2, –1, 0, +1, +2]
+This sets the basic pitch, in octaves. The default is 0.					
+音高
+八度 (SHIFT-RESONANCE)
+[–2, –1, 0, +1, +2]
+设置基本音高，以八度为单位。默认值为 0。
+
+Transpose
+[–12…+12]
+This adjusts the pitch in semitones, over a range of ±1 octave. This also affects the index into the Multisample map,potentially changing the sample selection, similar to transposing the entire keyboard.					
+移调
+[–12…+12]
+这会在±1 个八度的范围内以半音为单位调整音高。这也会影响多重采样图的索引，可能会改变样本选择，类似于移调整个键盘。
+
+Tune (SHIFT-ENV INTENSITY)
+[–12.00…+12.00]
+This adjusts the pitch in semitones, over a range of ±1 octave.
+调音 (SHIFT-ENV 强度)
+[–12.00…+12.00]
+以半音为单位调整音高，范围为 ±1 个八度。
+
+Slope
+[–1.0…+2.0] This controls how pitch tracks the keyboard. Normally, it should be set to the default of +1.0.
+Positive (+) values cause the pitch to rise as you play higher on the keyboard, and negative (–) values cause the pitch to fall as you play higher on the keyboard.
+When Slope is 0, playing different notes on the keyboard won’t change the pitch at all; it will be as if you’re always playing C4.
+This can be useful for special effects or percussion.
+斜率
+[–1.0…+2.0] 控制音高如何跟踪键盘。通常，应将其设置为默认值 +1.0。
+正值 (+) 表示在键盘上弹奏得越高，音高就越高；负值 (-) 表示在键盘上弹奏得越高，音高就越低。
+当斜率为 0 时，在键盘上弹奏不同的音符不会改变音高；就像您一直在弹奏 C4 一样。
+这对于特殊效果或打击乐非常有用。
+
+Portamento
+[Off, On]
+Portamento lets the pitch glide smoothly between notes, instead of changing abruptly.
+On: Turns on Portamento, so that pitch glides smoothly between notes.
+Off: Turns off Portamento. This is the default.
+滑音
+[关闭，打开]
+滑音使音调在音符之间平滑滑动，而不是突然改变。
+打开：打开滑音，使音调在音符之间平滑滑动。
+关闭：关闭滑音。这是默认设置。
+
+Fingered
+[Off, On]
+Fingered applies only when Portamento is On.
+多指弹奏
+[关闭，开启]
+多指弹奏仅在滑音开启时适用。
+On: Playing legato will turn on Portamento, and playing detached will turn it off again.
+Off: Legato/detached playing will not affect Portamento.
+开：演奏连奏会打开滑音，演奏分离会再次关闭滑音。
+关：演奏连奏/分离不会影响滑音。
+
+Type
+[Constant Rate, Constant Time]
+Constant Rate: Portamento will always take the same amount of time to glide a given distance in pitch—for instance, one second per octave. Put another way, gliding several octaves will take much longer than gliding a half-step.
+Constant Time: Portamento will always take the same amount of time to glide from one note to another, regardless of the difference in pitch. This is especially useful when playing chords, since it ensures that each note in the chord will end its glide at the same time.
+类型
+[恒定速率，恒定时间]
+恒定速率：滑音总是需要相同的时间来滑过给定的音高距离——例如，每个八度一秒。换句话说，滑过几个八度比滑过半音要花的时间长得多。
+恒定时间：滑音总是需要相同的时间从一个音符滑到另一个音符，无论音高如何不同。这在弹奏和弦时特别有用，因为它可以确保和弦中的每个音符同时结束滑音。
+
+Time
+[0.000…50.000 sec or s/oct]
+This controls the portamento time. If Type is set to Constant Rate, the units are s/oct (seconds per octave). If Type is set to Constant Time, the units are simply sec (seconds)
+时间
+[0.000…50.000 秒或 s/oct]
+控制滑音时间。如果类型设置为恒定速率，则单位为 s/oct（每八度秒数）。如果类型设置为恒定时间，则单位仅为 sec（秒）
+
+				Pitch Mod
+LFO (INTENSITY)
+[–144.00…+144.00]
+This controls the initial effect of the Pitch LFO on the pitch, in semitones.
+音高调制
+LFO（强度）
+[–144.00…+144.00]
+这控制音高 LFO 对音高的初始效果（以半音为单位）。
+
+To create a vibrato effect from the Mod Wheel:
+1. Create a modulation routing with Mod Wheel as the source and Pitch LFO Intensity as the destination.
+Internally, this will actually create a routing to Pitch Tune, with the Pitch LFO as the first source and Mod Wheel as the second.
+2. Set the Intensity as desired. 1 semitone is a good starting point.
+Now, raising the Mod Wheel will introduce vibrato.
+要从 Mod Wheel 创建颤音效果：
+1. 创建调制路由，以 Mod Wheel 为源，以 Pitch LFO Intensity 为目标。
+在内部，这实际上会创建一个到 Pitch Tune 的路由，以 Pitch LFO 为第一个源，Mod Wheel 为第二个源。
+2. 根据需要设置强度。1 个半音是一个很好的起点。
+现在，提高 Mod Wheel 将引入颤音。
+
+Envelope
+[–144.00…+144.00]
+This controls the initial effect of the Pitch Envelope, in semitones, before any modulation (such as from Velocity, below).
+The Pitch Envelope Sustain Level can be either positive or negative, so the envelope can create negative values.
+包络
+[–144.00…+144.00]
+这控制音高包络在任何调制（例如下面的速度）之前的初始效果（以半音为单位）。
+音高包络延音水平可以是正数或负数，因此包络可以创建负值。
+
+Vel->Env (VELOCITY)
+[-144.00…+144.00]
+This lets you use velocity to scale the amount of the Pitch Envelope applied to pitch, in semitones.
+Vel->Env (VELOCITY)
+[-144.00…+144.00]
+这可让您使用速度来缩放应用于音高的音高包络量（以半音为单位）。
+
+Pitch Bend Up
+[–60…+60]
+This sets the maximum amount of pitch bend, in semitones, when you move the wheel above the center point. For normal pitch bend, set this to a positive value.
+向上弯音
+[–60…+60]
+当您将轮子移到中心点上方时，这将设置最大弯音量（以半音为单位）。对于正常弯音，请将其设置为正值。
+
+Pitch Bend Down
+[–60…+60]
+This sets the maximum amount of pitch bend, in semitones, when you move the wheel below the center point. For normal pitch bend, set this to a negative value.
+向下弯音
+[–60…+60]
+当您将滚轮移到中心点以下时，这将设置最大弯音量（以半音为单位）。对于正常弯音，请将其设置为负值。
+
+				Amp
+Amp
+Notes on Amp Modulation
+Amp modulation scales the Amp Level and Amp Envelope, with an upper limit of 2x the original settings to prevent uncontrollably loud output. If the original level is low, the maximum modulated volume will also be low.
+(For the technically inclined: Amp modulation is multiplicative. Modulation values are offset by +1.0, so that a value of 0 has no effect. The maximum modulation value—for example, moving the Mod Wheel all the way up—doubles the volume level if the Intensity is +100%, or brings the level to silence if the Intensity is -100%.)
+Tip: To start with a low level (or silence) and then use modulation to raise the level to maximum, use the Filter Output Level instead.	
+放大器
+放大器调制注意事项
+放大器调制会调整放大器电平和放大器包络，上限为原始设置的 2 倍，以防止输出不受控制的响度。如果原始电平较低，则最大调制音量也会较低。
+（对于技术倾向者：放大器调制是乘法。调制值偏移 +1.0，因此 0 值没有影响。最大调制值（例如，将调制轮一直向上移动）在强度为 +100% 时使音量加倍，在强度为 -100% 时使音量降至静音。）
+提示：要从低电平（或静音）开始，然后使用调制将电平提高到最大，请改用滤波器输出电平。
+
+Level (LEVEL)
+[0%…100%]
+This sets the basic volume of the Program, optimized for per-voice modulation. For adjusting the volumes of Programs within a Performance, it’s better to use the Layer Volume instead.
+级别 (LEVEL)
+[0%…100%]
+这将设置程序的基本音量，针对每个声音的调制进行优化。要调整演奏中程序的音量，最好使用层音量。
+
+Amp LFO (INTENSITY)
+[–100%…+100%]
+This controls the amount of modulation from the Amp LFO.
+Amp LFO（强度）
+[–100%…+100%]
+控制来自 Amp LFO 的调制量。
+
+Velocity (VELOCITY)
+[–100%…+100%]
+This reduces volume according to velocity.
+With positive (+) values, the volume increases as you play harder.
+With negative (–) values, the volume decreases as you play harder.
+力度 (VELOCITY)
+[–100%…+100%]
+这会根据力度降低音量。
+使用正值 (+)，音量会随着您弹奏的力度而增加。
+使用负值 (-)，音量会随着您弹奏的力度而减小。
+
+Key Track
+[–100%…+100%]
+This adjusts the intensity of Key Track’s effect on the level.
+Pan (SHIFT-LEVEL)
+[L100…L1, C0, R1…R100]
+This sets the left-right pan. Note that this can be modulated per voice!
+键轨
+[–100%…+100%]
+这可调整键轨对电平的影响强度。
+声像 (SHIFT-LEVEL)
+[L100…L1, C0, R1…R100]
+这可设置左右声像。请注意，这可按声音进行调制！
+
+Pan LFO (INTENSITY)
+[-200…+200]
+This controls the intensity of Pan modulation from the Pan LFO.
+Pan LFO（强度）
+[-200…+200]
+这可控制 Pan LFO 的 Pan 调制强度。
+
+Random Pan
+[Off, On]
+Off: The normal pan controls, above, apply.
+On: Each voice will be randomly panned across the stereo field. All other pan controls are disabled.
+随机声像
+[关闭，打开]
+关闭：应用上述正常声像控制。
+打开：每个声音将在立体声场中随机声像。所有其他声像控制均被禁用。
+
+Amp Key Track
+Keyboard tracking (“Key Track”) changes the volume as you play up and down the keyboard. This may be used to make the volume more consistent, or to create special effects.
+The wavestate’s Key Track can be fairly complex, if desired. For instance, you can:
+放大器键轨
+键盘跟踪（“键轨”）会在您上下弹奏键盘时改变音量。这可用于使音量更加一致，或创建特殊效果。
+如果需要，波形的键轨可以相当复杂。例如，您可以：
+• Make the volume increase very quickly over the middle of the keyboard, and then increase more slowly–or not at all–in the higher octaves.
+• Create abrupt changes at specific keys.
+• 使音量在键盘中间快速增加，然后在高八度音阶中以较慢的速度增加（或根本不增加）。
+• 在特定键处创建突然的变化。
+
+You can also use Amp Key Track as a general-purpose modulation source, just like the envelopes and LFOs.
+For general details on how Key Track works, see “Filter Key Track” on page 45.
+您还可以将 Amp Key Track 用作通用调制源，就像包络和 LFO 一样。
+有关 Key Track 工作原理的一般详细信息，请参阅第 45 页的“Filter Key Track”。
+
+Differences from Filter Keyboard Track
+Amp modulation works slightly differently from other mod routings, in that positive modulation is limited to 2x gain.
+For more information, see “Notes on Amp Modulation” on page 51. This means that, when applied to Amp Level, Amp Key Track’s negative Slopes act as if they are steeper than positive Slopes. This only applies to modulation of Amp Level; when modulating other destinations, Amp Key Track acts the same as Filter Key Track.
+与滤波器键盘轨道的区别
+放大器调制与其他调制路由略有不同，因为正调制限制为 2 倍增益。
+有关更多信息，请参阅第 51 页上的“放大器调制说明”。这意味着，当应用于放大器电平时，放大器键轨道的负斜率表现得比正斜率更陡峭。这仅适用于放大器电平的调制；当调制其他目的地时，放大器键轨道的作用与滤波器键轨道相同。
+
+					Modulation
+Using Modulation
+Modulation Overview
+Most front-panel controls and on-screen parameters can be modulated. You can also create multiple modulation routings to the same destination. Each modulation routing includes a primary modulation source, an intensity, and a secondary modulation source; the three are multiplied together to create the modulation amount. Once a modulation routing is created, you can change either of the sources, but you cannot change the destination.
+使用调制
+调制概述
+大多数前面板控件和屏幕参数都可以进行调制。您还可以创建到同一目标的多个调制路由。每个调制路由都包括一个主调制源、一个强度和一个次调制源；三者相乘以产生调制量。创建调制路由后，您可以更改任一源，但不能更改目标。
+
+Adding Modulation Routings
+To add a new Modulation routing:
+1. In the display, select the parameter that you’d like to modulate. (If you want to modulate a knob, you can skip this step.)
+2. Hold MOD and press >.
+The Add New Modulation popup appears.
+3. To select the modulation destination, move its front-panel control (e.g., CUTOFF), or press ENTER to select the parameter from step 1.
+Note: If the selected parameter cannot be modulated, a message will appear on the display and then the popup will close.
+4. To select the modulation source, move a controller (e.g. WHEEL 1) or a MOD KNOB, play a note (for Velocity), press a button for one of the LFOs, Envelopes, or the Step Sequencer, press WSEQ STEPS (for Step Pulse), or send a MIDI CC.
+Alternatively, if you want to use a mod source which can’t be selected from the front panel (such as Exponential Velocity or Mod Processors), press ENTER and manually select the mod source in the following screen.
+If the message “Chan Src Only” appears, the parameter cannot be modulated from per-voice sources such as LFOs, envelopes, the Step Seq Lane, and Key Track. (The Vector Env can be used, since there is a separate Performance-level version of this envelope.) Choose a different modulation source.
+5. Press ENTER to create the mod routing, or SHIFT-ENTER to cancel.
+The Mods page appears, showing the new routing.
+6. Set the Intensity as desired.
+The maximum Intensity is typically +/- the full range of the parameter, so that regardless of the programmed value, modulation can always reach the minimum or maximum values.
+7. Optionally, assign a second modulator as the Int Mod Source (Intensity Mod Source), whose value multiplies that of the main Source.
+For example, you could route the Step Sequencer to Multi Filter Crossfade, with the overall amount of the step sequencer modulated by the Pan LFO.
+
+添加调制路由
+要添加新的调制路由：
+1. 在显示屏上，选择要调制的参数。（如果您想调制旋钮，可以跳过此步骤。）
+2. 按住 MOD 并按下 >。
+此时会出现“添加新调制”弹出窗口。
+3. 要选择调制目标，请移动其前面板控件（例如 CUTOFF），或按 ENTER 从步骤 1 中选择参数。
+注意：如果无法调制所选参数，则显示屏上会出现一条消息，然后弹出窗口将关闭。
+4. 要选择调制源，请移动控制器（例如 WHEEL 1）或 MOD KNOB，弹奏音符（用于速度），按下其中一个 LFO、包络或步进音序器的按钮，按 WSEQ STEPS（用于步进脉冲），或发送 MIDI CC。
+或者，如果您想使用无法从前面板选择的调制源（例如 Exponential Velocity 或 Mod Processors），请按 ENTER 并在以下屏幕中手动选择调制源。
+如果出现消息“Chan Src Only”，则无法从每个语音源（例如 LFO、包络、Step Seq Lane 和 Key Track）调制该参数。（可以使用 Vector Env，因为此包络有单独的 Performance 级别版本。）选择不同的调制源。
+5. 按 ENTER 创建调制路由，或按 SHIFT-ENTER 取消。
+出现“Mods”页面，显示新路由。
+6. 根据需要设置强度。
+最大强度通常是参数的整个范围的 +/-，因此无论编程值如何，调制始终可以达到最小值或最大值。
+7. 或者，将第二个调制器指定为 Int Mod Source（强度调制源），其值乘以主源的值。
+例如，您可以将步进音序器路由到多滤波器交叉淡入淡出，步进音序器的总量由 Pan LFO 调制。
+
+For example, you could route the Step Sequencer to Multi Filter Crossfade, with the overall amount of the step sequencer modulated by the Pan LFO.
+例如，您可以将步进音序器路由到多滤波器交叉淡入淡出，并使用 Pan LFO 调制步进音序器的总量。
+
+Filter/Pitch Env Intensities, LFO Intensities, and Key Track Intensities
+Modulation works slightly differently for these “Intensity” parameters. When you select them as a destination:
+• The modulation destination is set to the main parameter: Filter Cutoff, Amp Level, Pitch Tune, or Pan
+• The Source is set to the Envelope, LFO, or Key Track
+• The Intensity Mod Source is set to the selected modulation source (as selected in step 4, above).
+滤波器/音高包络强度、LFO 强度和键轨道强度
+对于这些“强度”参数，调制的工作方式略有不同。当您选择它们​​作为目标时：
+• 调制目标设置为主要参数：滤波器截止、放大器电平、音高调谐或声像
+• 源设置为包络、LFO 或键轨道
+• 强度调制源设置为所选调制源（如上文第 4 步中选择的）。
+
+Filter and Pitch Env Velocity Intensity
+Filter and Pitch Envelope Velocity Intensity cannot themselves be modulated.
+滤波器和音高包络速度强度
+滤波器和音高包络速度强度本身无法被调制。
+
+Viewing and Editing Modulations
+All user-created modulation routings can be viewed and edited on the Mods page.
+Note: preset modulation routings, such as Filter Envelope modulation of Filter Cutoff or Pan LFO modulation of Pan, are not shown here.
+To view modulation routings:
+查看和编辑调制
+所有用户创建的调制路由均可在“调制”页面上查看和编辑。
+注意：此处未显示预设调制路由，例如滤波器截止的滤波器包络调制或声像的声像 LFO 调制。
+要查看调制路由：
+
+1. Press MOD. The screen will change to the Mods page, which displays all of the modulation routings in the current Program in a scrolling list.
+2. Hold ENTER and press < or > to scroll through the different routings.
+Alternatively, you can cursor through each parameter, one by one; cursoring right from Int Mod Src goes to the Source parameter of the next routing.
+A scroll-bar on the right side of the display shows the current location in the list.
+When you see the modulation routing that you’d like to edit:
+3. Use < and > to select the Source, Intensity, and Int Mod Src (Intensity Mod Source) parameters.
+4. Edit the Intensity as desired using the VALUE knob.
+5. To change the Source or Int Mod Src, select the parameter and then either move VALUE or press ENTER. The Modulation Select popup appears.
+In the Modulation Select popup, the modulation sources are organized into five groups: Controllers, Mod Knobs, Generators, CC +, and CC +/-. The groups are shown in the left column, and the modulation sources are shown in the right column.
+6. Use < and > to move between the columns, and VALUE to select items in the lists. Alternatively—and faster!— most modulation sources can be selected by pressing their associated front-panel button (for Envelopes, LFOs, and the Step Sequencer), or by holding down ENTER and moving a controller (such as a Mod Knob, wheel, or the Vector Joystick), playing a note on the keyboard (for Velocity), or sending MIDI data.
+For information on the individual modulation sources, see “Modulation Sources” on page 57.
+7. Press ENTER to confirm and exit the popup.
+
+In the Modulation Select popup, the modulation sources are organized into five groups: Controllers, Mod Knobs, Generators, CC +, and CC +/-. The groups are shown in the left column, and the modulation sources are shown in the right column.
+1. 按 MOD。屏幕将切换到 Mods 页面，该页面以滚动列表的形式显示当前程序中的所有调制路由。
+2. 按住 ENTER 并按 < 或 > 滚动浏览不同的路由。
+或者，您可以逐个浏览每个参数；从 Int Mod Src 向右移动光标将转到下一个路由的 Source 参数。
+显示屏右侧的滚动条显示列表中的当前位置。
+当您看到要编辑的调制路由时：
+3. 使用 < 和 > 选择 Source、Intensity 和 Int Mod Src（强度调制源）参数。
+4. 使用 VALUE 旋钮根据需要编辑 Intensity。
+5. 要更改 Source 或 Int Mod Src，请选择参数，然后移动 VALUE 或按 ENTER。将出现 Modulation Select 弹出窗口。
+在调制选择弹出窗口中，调制源分为五组：控制器、调制旋钮、发生器、CC + 和 CC +/-。组显示在左栏，调制源显示在右栏。
+6. 使用 < 和 > 在列之间移动，使用 VALUE 选择列表中的项目。或者 — 更快！— 大多数调制源都可以通过按下其相关的前面板按钮（用于包络、LFO 和步进音序器）或按住 ENTER 并移动控制器（例如调制旋钮、轮子或矢量操纵杆）、在键盘上弹奏音符（用于速度）或发送 MIDI 数据来选择。
+有关各个调制源的信息，请参阅第 57 页上的“调制源”。
+7. 按 ENTER 确认并退出弹出窗口。
+
+在调制选择弹出窗口中，调制源分为五组：控制器、调制旋钮、发生器、CC + 和 CC +/-。组显示在左列，调制源显示在右列。
+
+Filtering the modulation list
+The list of modulations can be long. To view only the modulation routings related to a specific controller or section of the synth, use the Show parameter on the Modulation List Info page. As a shortcut to open this parameter's popup from anywhere in the UI, hold MOD and press <, as described below:
+过滤调制列表
+调制列表可能很长。要仅查看与合成器的特定控制器或部分相关的调制路由，请使用“调制列表信息”页面上的“显示”参数。作为从 UI 中的任何位置打开此参数弹出窗口的快捷方式，请按住 MOD 并按 <，如下所述：
+
+1. Hold MOD and press <.
+The Show In Mod List dialog appears.
+2. Press a Lane, Envelope, LFO, or Effect button; move a MOD KNOB; hold ENTER and move a controller or play a note on the keyboard (for Velocity); send a MIDI message; or for the Filter, Amp, or Pitch sections,move a knob for that section. Use the on-screen list for other selections, such as Key Track or Mod Processors.
+Note: moving a knob in this popup will not edit the knob’s parameter.
+3. Press ENTER to confirm, close the popup, and return to the Mods page. Alternatively, to exit without making a change, hold SHIFT and press ENTER.
+1. 按住 MOD 并按下 <。
+出现“在 Mod 列表中显示”对话框。
+2. 按下 Lane、Envelope、LFO 或 Effect 按钮；移动 MOD KNOB；按住 ENTER 并移动控制器或在键盘上弹奏音符（用于 Velocity）；发送 MIDI 消息；或者对于 Filter、Amp 或 Pitch 部分，移动该部分的旋钮。使用屏幕上的列表进行其他选择，例如 Key Track 或 Mod Processors。
+注意：在此弹出窗口中移动旋钮不会编辑旋钮的参数。
+3. 按 ENTER 确认，关闭弹出窗口并返回 Mods 页面。或者，要退出而不进行更改，请按住 SHIFT 并按 ENTER。
+
+The Show setting is included in the top line of the display: ALL, FILTER, SHAPE LANE, etc. The list will be filtered to show only the matching items—notice how much bigger the scroll-bar thumb is in the filtered list below, indicating that there are only a few items in the list.
+显示设置包含在显示屏的顶行：全部、过滤器、形状通道等。列表将被过滤以仅显示匹配的项目 - 请注意下面过滤列表中的滚动条滑块有多大，这表明列表中只有几个项目。
+
+To clear the Show setting and show all modulations:
+1. Press MOD in the Show In Mod List dialog, or set Show to All.
+要清除“显示”设置并显示所有调制：
+1. 在“在调制列表显示”对话框中按“MOD”，或将显示设置为“全部”。
+
+Deleting a modulation routing
+To delete the currently shown modulation routing:
+1. Hold SHIFT and press MOD.
+A confirmation message will appear, asking if you want to delete the modulation routing.
+2. Press ENTER to confirm, or SHIFT-ENTER to cancel.
+删除调制路由
+要删除当前显示的调制路由：
+1. 按住 SHIFT 并按 MOD。
+将出现一条确认消息，询问您是否要删除调制路由。
+2. 按 ENTER 确认，或按 SHIFT-ENTER 取消。
+
+				Mod Knobs
+There are eight Mod Knobs per Program, each of which can modulate any number of parameters in its Program (the knob names are just suggestions). An additional layer of Performance Mod Knobs can modulate parameters throughout the entire Performance—including, specifically, the Program Mod Knobs. Each of these 40 (!) knobs sends and receives a MIDI CC; see “MIDI CC Assign” on page 88.
+The Mod Knobs are designed for both real-time control and editing. Their positions are stored, as shown on the Mod Knobs page:
+				调制旋钮
+每个程序有八个调制旋钮，每个旋钮都可以调制其程序中的任意数量的参数（旋钮名称仅供参考）。额外的性能调制旋钮层可以调制整个性能中的参数 - 特别是程序调制旋钮。这 40 个旋钮中的每一个都发送和接收 MIDI CC；请参阅第 88 页的“MIDI CC 分配”。
+调制旋钮专为实时控制和编辑而设计。它们的位置已存储，如调制旋钮页面所示：
+
+These stored values can themselves be modulated by the wheels, the vector joystick and envelope, and MIDI CCs; additionally, Program Mod Knobs can be modulated by the Performance Mod Knobs.
+Each Mod Knob can be either unipolar (+) or bipolar (+/-).
+这些存储的值本身可以通过转轮、矢量操纵杆和包络以及 MIDI CC 进行调制；此外，程序调制旋钮可以通过性能调制旋钮进行调制。
+每个调制旋钮可以是单极 (+) 或双极 (+/-)。
+
+PERFORMANCE MOD KNOBS
+[Off, On]
+When this is on, the knobs control the Performance Mod Knobs, which can modify parameters in any or all Layers at once. When off, the knobs control the values for the current Layer’s Program.
+演奏调制旋钮
+[关闭，打开]
+当此选项打开时，旋钮控制性能调制旋钮，可同时修改任意或所有层中的参数。当此选项关闭时，旋钮控制当前层程序的值。
+
+Modulation Sources
+Controllers
+Off
+This means that no modulation source is selected.
+Mod Wheel CC 1
+This is the built-in Mod Wheel (unipolar MIDI CC#1).
+VectrJSX CC 16 and VectrJSY CC 17
+These are the X- and Y-axis, respectively, of the Vector Joystick (bipolar MIDI CCs #16 and 17).
+Damper CC 64
+This is the damper or sustain pedal (unipolar MIDI CC#64).
+Pitch Bend
+This is the Pitch Bend wheel (MIDI Pitch Bend).
+Pitch Bend+ and Pitch Bend-
+These let through only positive or negative pitch bend movements, respectively, ignoring the other polarity.
+Velocity
+This is the note-on velocity, representing how hard the note is played on the keyboard.
+调制源
+控制器
+关闭
+这意味着未选择任何调制源。
+调制轮 CC 1
+这是内置调制轮（单极 MIDI CC#1）。
+VectrJSX CC 16 和 VectrJSY CC 17
+这些分别是矢量操纵杆（双极 MIDI CC #16 和 17）的 X 轴和 Y 轴。
+阻尼器 CC 64
+这是阻尼器或延音踏板（单极 MIDI CC#64）。
+弯音
+这是弯音轮（MIDI 弯音）。
+弯音+和弯音-
+这些分别只允许正或负弯音运动通过，而忽略另一个极性。
+速度
+这是音符开启速度，表示在键盘上弹奏音符的力度。
+
+Exponential Velocity This is MIDI note-on velocity through an exponential curve. Low velocities won’t have very much effect, and the differences between lower velocities won’t be very noticeable. On the other hand, high velocities produce increasingly greater effects, and the differences between higher velocities will be more pronounced.
+
+Release Velocity This is the note-off velocity, representing how quickly the note is released from the keyboard.
+
+Gate and Gate+Damper Gate is triggered by a new note after all notes have been released, such as at the beginning of a phrase. Gate+Damper is similar, except that it is triggered by a new note-on after all notes and the damper are released.
+
+Note-On Trig and NoteTrig+Damp Note-On Trig is similar to Gate, but it triggers with every new note-on, even in the middle of a legato phrase.
+
+NoteTrig+Damp includes the damper pedal in the equation, as shown in the diagram below.
+
+Gate, Gate+Damper, Note-On Trig, and NoteTrig+Damp
+指数速度 这是通过指数曲线的 MIDI 音符开启速度。低速度不会产生太大影响，较低速度之间的差异不会很明显。另一方面，高速度产生的效果越来越大，较高速度之间的差异将更加明显。
+
+释放速度 这是音符关闭速度，表示音符从键盘释放的速度。
+
+门限和门限+阻尼器 门限在所有音符释放后由新音符触发，例如在乐句的开头。门限+阻尼器类似，只是它由所有音符和阻尼器释放后的新音符开启触发。
+
+音符开启触发和音符开启触发+阻尼 音符开启触发类似于门限，但它会在每次新音符开启时触发，即使在连奏乐句的中间也是如此。
+
+音符开启触发+阻尼器在等式中包含阻尼踏板，如下图所示。
+
+门限、门限 + 阻尼器、音符开启触发以及音符触发 + 阻尼器
+
+Note Number
+This provides simple key tracking. C4 is the center, with a value of 0. Below C4 is negative, to a minimum at MIDI note 0; above C4 is positive, to a maximum at MIDI note 127.
+
+Aftertouch This receives MIDI Aftertouch, as well as aftertouch generated by pressing down on the wavestate SE keyboard.
+
+Note: the 37-note keyboards on the wavestate and wavestate mkII do not generate aftertouch.
+
+Depending on the AT Source setting on the Controllers page, Aftertouch receives either Channel Aftertouch, Poly Aftertouch, or both simultaneously. It can also be disabled completely. For more information, see “AT Source (Aftertouch Source)” on page 86.
+
+Poly Aftertouch This receives Poly Aftertouch via MIDI only.
+
+Mod Knobs This section of the Modulation Sources list contains the 8 Performance Mod Knobs, followed by the 8 Mod Knobs for the current Layer’s Program.
+
+Generators Filter/Amp/Pitch Envelope These are the three standard ADSR envelopes.
+音符编号
+这提供简单的键跟踪。C4 是中心，值为 0。低于 C4 为负，最小值为 MIDI 音符 0；高于 C4 为正，最大值为 MIDI 音符 127。
+
+触后 这接收 MIDI 触后，以及按下 wavestate SE 键盘产生的触后。
+
+注意：wavestate 和 wavestate mkII 上的 37 音符键盘不产生触后。
+
+根据“控制器”页面上的“AT 源”设置，触后接收通道触后、复音触后或同时接收两者。它也可以完全禁用。有关更多信息，请参阅第 86 页的“AT 源（触后源）”。
+
+复音触后 这仅通过 MIDI 接收复音触后。
+
+调制旋钮 调制源列表的此部分包含 8 个性能调制旋钮，后跟当前层程序的 8 个调制旋钮。
+
+发生器滤波器/放大器/音高包络 这些是三个标准 ADSR 包络。
+
+Vector Envelope A/B/C/D
+The A/B/C/D selections decide which of the Vector Envelope's four outputs to use. For instance, A is the signal that goes to Layer A’s volume, which is max on the left and min on the right. C is the opposite of that, with max on the right and min on the left.
+Filter/Amp/Pitch/Pan LFO
+These are the four LFOs.
+Filter/Amp Key Track
+These are the Key Track generators from the Filter and Amp, respectively.
+Mod Process 1/2
+These are the two Mod Processors.
+Step Seq Lane
+This is the output of the Wave Sequence’s Step Seq Lane. Note: this will not work consistently as an envelope trigger source.
+Step Pulse
+This generates a brief trigger pulse at the start of each Wave Sequence Step.
+Tempo
+This lets you use the system tempo as a modulation source. 120 is the center, for a value of 0; 60BPM is -100, and 240BPM is +100 (the value continues to increase up to 300BPM). Note that this is different from tempo synchronization; for that purpose, use the dedicated Tempo functions for the LFOs, Wave Sequence, and Vector Envelope.
+Program/Performance Note Count and Program/Performance Voice Count
+These use the number of notes played on the keyboard, or the number of voices being played by the synth engine, as modulation sources. The Performance variations count all notes or voices in the Performance, while the Program variations only include those in the current Program.
+矢量包络 A/B/C/D
+A/B/C/D 选择决定使用矢量包络的四个输出中的哪一个。例如，A 是进入层 A 音量的信号，其左侧最大，右侧最小。C 与此相反，右侧最大，左侧最小。
+滤波器/放大器/音高/声像 LFO
+这些是四个 LFO。
+滤波器/放大器键轨道
+这些分别是来自滤波器和放大器的键轨道生成器。
+调制处理 1/2
+这些是两个调制处理器。
+步进序列通道
+这是波形序列的步进序列通道的输出。注意：这不会始终作为包络触发源工作。
+步进脉冲
+这会在每个波形序列步进开始时生成一个短暂的触发脉冲。
+速度
+这可让您使用系统速度作为调制源。120 是中心，值为 0； 60BPM 为 -100，240BPM 为 +100（该值继续增加至 300BPM）。请注意，这与节奏同步不同；为此，请使用 LFO、波形序列和矢量包络的专用节奏功能。
+程序/演奏音符数和程序/演奏声音数
+这些使用键盘上弹奏的音符数或合成引擎正在弹奏的声音数作为调制源。演奏变体计算演奏中的所有音符或声音，而程序变体仅包括当前程序中的音符或声音。
+
+Poly Legato
+When you play a legato phrase, the first note of that phrase (and notes within 30 msec of the first note) has a Poly Legato value of 0.0. Subsequent notes in the phrase have a Poly Legato value of 1.0.
+Random 1 + and 2 +
+These generate a single random positive number, unique per voice, at note-on. You can use this to create random variation between voices, such as subtle differences in filter cutoff, envelope times, and so on.
+Random 3 +/- and 4 +/-
+These generate a single random bipolar number (either positive or negative), unique per voice, at note-on.
+Constant Max
+Constant Max generates the maximum modulation value, which can be thought of as either 1.0 or 100.
+CC + This is a list of all of the MIDI CCs, interpreted as unipolar signals. MIDI values 0-127 are zero to maximum modulation.
+多音连奏
+当您演奏连奏乐句时，该乐句的第一个音符（以及第一个音符 30 毫秒内的音符）的多音连奏值为 0.0。乐句中后续音符的多音连奏值为 1.0。
+随机 1 + 和 2 +
+这些会在音符开启时生成一个随机正数，每个声音都有唯一的一个。您可以使用它在声音之间创建随机变化，例如滤波器截止、包络时间等方面的细微差异。
+随机 3 +/- 和 4 +/-
+这些会在音符开启时生成一个随机双极数（正数或负数），每个声音都有唯一的一个。
+恒定最大值
+恒定最大值生成最大调制值，可以认为是 1.0 或 100。
+CC + 这是所有 MIDI CC 的列表，解释为单极信号。MIDI 值 0-127 为零到最大调制。
+
+CC +/-
+This is a list of all of the MIDI CCs, interpreted as bipolar signals. MIDI value 64 is 0; values below 64 produce negative modulation, and values above 64 produce positive modulation.
+这是所有 MIDI CC 的列表，解释为双极信号。MIDI 值 64 为 0；低于 64 的值产生负调制，高于 64 的值产生正调制。
+
+				Envelopes
+Filter/Amp/Pitch Envelope			
+A (Attack Time) (ATTACK)
+[0.0000…90.0000 sec]
+This sets how long the envelope takes to rise to the peak level.
+D (Decay Time) (DECAY)
+[0.0000…90.0000 sec]
+This sets how long it takes to settle from the peak to the Sustain level.
+S (Sustain Level) (SUSTAIN)
+[–100…+100 (Filter and Pitch) or 0…+100 (Amp)]
+This sets the level at the end of the Decay time. Once it reaches the Sustain level, the envelope will stay there until note-off, unless it is restarted via the Trigger Source. The Filter and Pitch Envelopes can have either positive or negative Sustain levels, while the Amp Envelope has only positive Sustain levels.
+R (Release Time) (RELEASE)
+[0.0000…90.0000 sec]
+This sets how long it takes the envelope to return to 0 after releasing a note.
+滤波器/放大器/音高包络
+A（启动时间）（启动）
+[0.0000…90.0000 秒]
+这设置了包络上升到峰值所需的时间。
+D（衰减时间）（衰减）
+[0.0000…90.0000 秒]
+这设置了从峰值稳定到延音水平所需的时间。
+S（延音水平）（延音）
+[–100…+100（滤波器和音高）或 0…+100（放大器）]
+这设置了衰减时间结束时的水平。一旦达到延音水平，包络将保持在那里直到音符结束，除非通过触发源重新启动。滤波器和音高包络可以具有正或负的延音水平，而放大器包络只有正的延音水平。
+R（释放时间）（释放）
+[0.0000…90.0000 秒]
+这设置了释放音符后包络返回 0 所需的时间。
+
+			Filter/Amp/Pitch Env Curve
+Often, envelopes are pictured as being made out of straight lines. In actuality, they are more likely to be made out of curves.
+
+In other words, each segment’s level will change quickly at first, and then slow down as it approaches the next point.
+
+This tends to sound better than straight, linear segments.
+
+Classic analog synth envelopes made these curved shapes naturally. The wavestate goes a step further than vintage synths, however, and lets you control the amount of curvature separately for each envelope segment.
+
+When you change the curvature, the envelope times remain the same. However, greater curvatures will tend to sound faster, because the value changes more quickly at the beginning.
+通常，人们将包络描绘成由直线构成。实际上，它们更可能是由曲线构成。
+
+换句话说，每个段的电平一开始会快速变化，然后在接近下一个点时变慢。
+
+这听起来往往比直线段更好。
+
+经典的模拟合成器包络自然地形成了这些弯曲的形状。然而，波形比老式合成器更进一步，让您可以分别控制每个包络段的曲率。
+
+当您改变曲率时，包络时间保持不变。但是，曲率越大，听起来就越快，因为值在开始时变化得越快。
+
+Different curve settings for up and down Generally, upwards segments use different curvature settings than downward segments. For instance, a curve of 3 is a good default setting for upward segments, such as Attack. On the other hand, a curve of 6 or more is good for downward segments, such as Decay and Release.
+上下曲线设置不同 通常，向上部分使用与向下部分不同的曲率设置。例如，对于向上部分（如 Attack），曲线 3 是良好的默认设置。另一方面，对于向下部分（如 Decay 和 Release），曲线 6 或更高是良好的设置。
+
+A (Attack) (SHIFT-ATTACK)
+D (Decay) (SHIFT-DECAY)
+R (Release) (SHIFT-RELEASE)
+[0 (Linear), 1…9, 10 (exp/log)]
+These set the curvatures of the Attack, Decay, and Release segments, respectively. Hold SHIFT and move the ATTACK, DECAY, or RELEASE knobs to edit these parameters directly.
+A（Attack）（SHIFT-ATTACK）
+D（Decay）（SHIFT-DECAY）
+R（Release）（SHIFT-RELEASE）
+[0（线性），1…9，10（exp/log）]
+这些分别设置 Attack、Decay 和 Release 段的曲率。按住 SHIFT 并移动 ATTACK、DECAY 或 RELEASE 旋钮可直接编辑这些参数。
+
+		Filter/Amp/Pitch Envelope Trigger
+		滤波器/放大器/音高包络触发器
+Trigger Src (Trigger Source)
+[List of modulation sources]
+This selects a source to start the envelope, or re-start it if it is already playing. For instance, you can use a tempo-synced
+LFO to trigger the envelope in a repeating rhythm.
+Envelopes started or re-started by the Trigger Source work slightly differently from normal. The Decay always takes its full time, even if Sustain is at maximum; in this case, it acts as a hold time. Following the Decay time, the envelope goes to 0 over the Release time, even if the note is still being held.
+触发器源（触发器源）
+[调制源列表]
+这将选择一个源来启动包络，或者如果包络已经在播放，则重新启动它。例如，您可以使用节奏同步的
+LFO 以重复的节奏触发包络。
+由触发器源启动或重新启动的包络与正常情况略有不同。衰减总是需要其全部时间，即使延音达到最大值；在这种情况下，它充当保持时间。在衰减时间之后，包络会在释放时间内变为 0，即使音符仍在保持。
+
+Trigger Threshold
+[–100%…+100%]
+This sets the modulation level which will trigger the envelope. Among other things, you can use this to adjust the exact point in an LFO’s phase at which the envelope will be reset, effectively controlling its “groove” against other rhythmic effects.
+When the threshold is positive (or 0), the envelope resets when the Trigger Source value passes through the threshold moving upwards. In other words, if the value has been below the Threshold, and then changes so that it is equal to or greater than the Threshold, the envelope resets.
+When the threshold is negative, the envelope resets when the Trigger Source value passes through the threshold moving downwards. In other words, if the value has been above the Threshold, and then changes so that it is equal to or below the Threshold, the envelope resets.
+触发阈值
+[-100%…+100%]
+这将设置触发包络的调制级别。除其他外，您可以使用它来调整 LFO 相位中包络重置的确切点，从而有效地控制其“凹槽”以对抗其他节奏效果。
+当阈值为正（或 0）时，当触发源值向上移动通过阈值时，包络会重置。换句话说，如果该值低于阈值，然后发生变化，使其等于或大于阈值，则包络会重置。
+当阈值为负时，当触发源值向下移动通过阈值时，包络会重置。换句话说，如果该值高于阈值，然后发生变化，使其等于或低于阈值，则包络会重置。
+
+Note: modulation sources may not always reliably reach the extreme values of +100 or -100. This can happen due to smoothing, or with LFOs when using certain shapes and faster speeds. If this is the case, Thresholds of +100 or -100 will cause inconsistent behavior. To avoid this issue, reduce the Threshold until the Envelope resets consistently.
+注意：调制源可能并不总是能可靠地达到 +100 或 -100 的极值。这可能是由于平滑或使用某些形状和更快速度时的 LFO 而发生的。如果是这种情况，+100 或 -100 的阈值将导致不一致的行为。为避免此问题，请降低阈值，直到包络一致重置。
+
+Trigger at Note-On
+[Off, On]
+Trigger at Note-On is available for the Filter and Pitch Envelopes only. The Amp Envelope always triggers at note-on.
+On: The envelope will start automatically at note-on. This is the default.
+Off: The envelope will only start via the Trigger Source.
+Note: The Trigger Source’s value at note-on can cause the envelope to trigger instantly. If the Threshold is positive or 0, this will happen if the value is at or above the Threshold; if the Threshold is negative, this will happen if the value is at or below the Threshold.
+音符开启时触发
+[关闭，开启]
+音符开启时触发仅适用于滤波器和音高包络。放大器包络始终在音符开启时触发。
+开启：包络将在音符开启时自动启动。这是默认设置。
+关闭：包络将仅通过触发源启动。
+注意：音符开启时触发源的值可导致包络立即触发。如果阈值为正或 0，则当值等于或高于阈值时会发生这种情况；如果阈值为负，则当值等于或低于阈值时会发生这种情况。
+
+				LFOs
+			Filter/Amp/Pitch/Pan LFO
+The four LFOs—Filter, Amp, Pitch, and Pan—all work identically.
+Tempo (TEMPO SYNC)
+[Off, On]
+四个 LFO（滤波器、放大器、音高和声像）的工作方式完全相同。
+速度 (TEMPO SYNC)
+[关闭、开启]
+
+On: The LFO synchronizes to the system tempo, with its speed controlled by Base Note and Multiply.
+Off: The LFO speed is controlled by the Frequency parameter, in Hz.
+开启：LFO 与系统节奏同步，其速度由 Base Note 和 Multiply 控制。
+关闭：LFO 速度由 Frequency 参数控制，单位为 Hz。			
+
+Base Note (FREQUENCY)
+[List of rhythmic values]
+If Tempo is On, this sets the basic speed of the LFO. The values range from a 32nd note to a double breve (four whole notes), including dotted notes and triplets.			
+基本音符（频率）
+[节奏值列表]
+如果“速度”处于开启状态，则设置 LFO 的基本速度。值的范围从 32 分音符到双短音符（四个全音符），包括附点音符和三连音。
+
+x (Multiply Base Note by…)
+[1…32]
+If Tempo is On, this multiplies the length of the Base Note. For instance, if the Base Note is set to a sixteenth note, and Times is set to 3, the LFO will cycle over a dotted eighth note.
+x（将基音乘以...）
+[1…32]
+如果开启“速度”，则将基音的长度乘以...。例如，如果将基音设置为十六分音符，并将“时间”设置为 3，则 LFO 将在附点八分音符上循环。
+
+Frequency (FREQUENCY)
+[0.001…32.000 Hz]
+If Tempo is Off, the LFO speed is set in Hz.
+频率 (FREQUENCY)
+[0.001…32.000 Hz]
+如果关闭 Tempo，则 LFO 速度以 Hz 为单位设置。
+
+Waveform (WAVEFORM)
+[Triangle…Random6 (Continuous)]
+波形 (WAVEFORM)
+[三角形…随机6（连续）]
+
+Most of the waveforms are self-explanatory, but a few will benefit from more details:
+GTR (Guitar) is intended for guitar vibrato. It is positive-only, so that when used for pitch, it only bends upwards.
+RND 1 (Random 1) generates traditional sample and hold waveforms: random level changes with steady timing.
+RND 2 (Random 2) randomizes both levels and timing.
+RND 3 (Random 3) generates a pulse wave with random timing.
+RND 4-6 are smoothed versions of Random 1–3, with slopes instead of steps. Use them to create gentler random variations.
+大多数波形都是不言自明的，但有些波形需要更多细节：
+GTR（吉他）用于吉他颤音。它只为正，因此当用于音高时，它只会向上弯曲。
+RND 1（随机 1）生成传统的采样和保持波形：随机电平变化，时间稳定。
+RND 2（随机 2）随机化电平和时间。
+RND 3（随机 3）生成具有随机时间的脉冲波。
+RND 4-6 是随机 1-3 的平滑版本，具有斜率而不是阶梯。使用它们可以创建更温和的随机变化。
+
+Start Phase
+[-180…+180]
+This controls the phase of the waveform when the LFO starts (see “When do Delay, Fade, Start Phase, and Random
+Phase apply?” on page 67). If Random Start Phase is On, or if one of the Random waveforms is selected, this parameter is not shown.
+Rndm° (Random Start Phase)
+[Off, On]
+When Random Start Phase is On, the LFO will start at a different, random phase every time. If one of the Random waveforms is selected, this parameter is not shown.
+Offset
+[–100…+100]
+By default, almost all of the LFO waveforms are centered around 0, and then swing all the way from -100 to +100.
+Offset lets you shift the LFO up and down, so that—for instance—it’s centered on 50, and then swings from -50 to +150.
+For example, let’s say that you’re using an LFO for vibrato. If Offset is 0, the vibrato will be centered on the note’s original pitch, bending it both up and down.
+If Offset is +100, on the other hand, the vibrato will only raise the pitch above the original note.
+开始相位
+[-180…+180]
+这控制 LFO 启动时波形的相位（请参阅第 67 页上的“延迟、淡入淡出、开始相位和随机相位何时应用？”）。如果“随机开始相位”处于开启状态，或者选择了随机波形之一，则不会显示此参数。
+Rndm°（随机开始相位）
+[关闭，开启]
+当“随机开始相位”处于开启状态时，LFO 每次都会从不同的随机相位开始。如果选择了随机波形之一，则不会显示此参数。
+偏移
+[–100…+100]
+默认情况下，几乎所有 LFO 波形都以 0 为中心，然后从 -100 一直摆动到 +100。
+偏移允许您上下移动 LFO，例如，它以 50 为中心，然后从 -50 摆动到 +150。
+例如，假设您使用 LFO 进行颤音。如果 Offset 为 0，颤音将以音符的原始音高为中心，上下弯曲。
+另一方面，如果 Offset 为 +100，颤音只会将音高提高到原始音符之上。
+
+Offset settings and pitch change produced by vibrato
+偏移设置和颤音产生的音高变化
+
+The one exception to this is the Guitar waveform, which is designed to emulate bending a string on a guitar–so that the pitch only goes up, and not down. Because of this, the waveform is centered on 50, and not on 0. Of course, you can always use a negative Offset to shift it back down below 0 again!
+Offset affects the signal after the Shape function, as shown below:
+唯一的例外是吉他波形，它被设计用来模拟吉他上琴弦的弯曲——这样音调只会上升，而不会下降。因此，波形的中心在 50，而不是 0。当然，你总是可以使用负偏移量将其再次移回 0 以下！
+偏移量会影响 Shape 函数后的信号，如下所示：
+
+Curve (CURVE)
+[–100…+100]
+Curve adds curvature to the basic waveform. As you can see in the graphic below, this can make the waveforms either more rounded or more extreme. It can also be useful to emphasize certain value ranges, and deemphasize others.
+For example, let’s say that you are using a triangle LFO to modulate filter cutoff. If Curve emphasizes the high value range, the filter will spend more time at the higher frequencies. If it emphasizes the low range, the filter will spend more time at the lower frequencies.
+For control over whether the curve is Asymmetric or Symmetric around 0, see “Curve Mode” on page 68.
+曲线 (CURVE)
+[–100…+100]
+曲线为基本波形增加了曲率。如下图所示，这可以使波形更圆润或更极端。它还有助于强调某些值范围并弱化其他值范围。
+例如，假设您使用三角 LFO 调制滤波器截止。如果曲线强调高值范围，滤波器将在较高频率上花费更多时间。如果它强调低范围，滤波器将在较低频率上花费更多时间。
+有关控制曲线是否围绕 0 不对称或对称的信息，请参阅第 68 页的“曲线模式”。
+
+Note: Curve does not affect the Square and Random 3 waveforms, since their values are always either +100 or -100.
+注意：曲线不会影响方波和随机 3 波形，因为它们的值始终为 +100 或 -100。
+
+Fade
+[0.0000…9.9000 sec] 
+The LFO can fade in gradually, instead of starting immediately at full strength. This sets the time until the LFO reaches maximum amplitude. If Delay is used (see “Delay” on page 68), the Fade starts after the Delay is complete. See also “When do Delay, Fade, Start Phase, and Random Phase apply?,” below.
+淡入淡出
+[0.0000…9.9000 秒]
+LFO 可以逐渐淡入，而不是立即以最大强度开始。这将设置 LFO 达到最大振幅的时间。如果使用延迟（请参阅第 68 页的“延迟”），则淡入淡出将在延迟完成后开始。另请参阅下面的“延迟、淡入淡出、起始相位和随机相位何时适用？”。
+
+SYNC NOTES
+[Off, On]
+This is controlled by the SYNC NOTES button.
+Off: The LFO starts each time you press a key, and an independent LFO runs for each note. This is the default.
+On: The LFOs for all notes in the Program will be synchronized together. See “Sync Notes Mode” on page 68.
+同步音符
+[关闭，打开]
+由同步音符按钮控制。
+关闭：每次按下琴键时，LFO 都会启动，并且每个音符都会运行一个独立的 LFO。这是默认设置。
+打开：程序中所有音符的 LFO 将同步在一起。请参阅第 68 页上的“同步音符模式”。
+
+When do Delay, Fade, Start Phase, and Random Phase apply?
+Delay, Fade, Start Phase, and Random Phase apply when the LFO first starts (which depends on Sync Notes, as shown below), and when the LFO is reset via the Trigger Source.
+Delay, Fade, Start/Random Phase, and Sync Notes
+延迟、淡入淡出、起始相位和随机相位何时适用？
+延迟、淡入淡出、起始相位和随机相位在 LFO 首次启动时（取决于同步音符，如下所示）以及通过触发源重置 LFO 时适用。
+延迟、淡入淡出、起始/随机相位和同步音符
+
+Sync Notes setting Delay, Fade, Start Phase, and Random Phase apply at…
+Off Note-on
+Sync Notes First note in phrase
+Free Run Performance/Program selection, before any notes are played
+同步音符设置延迟、淡入淡出、起始相位和随机相位适用于…
+关闭音符开启
+同步音符乐句中的第一个音符
+自由运行演奏/程序选择，在播放任何音符之前
+
+Filter/Amp/Pitch/Pan LFO Details
+Sync Notes Mode
+[Sync Notes, Free Run]
+This controls how the LFO behaves when SYNC NOTES is enabled.
+Sync Notes: Each note has its own LFO. If no other notes are sounding, the LFO starts as it would normally. If other notes are sounding, the LFO starts by matching the phase of the oldest sounding note. The result is that the LFOs for all of the notes are initially synchronized together. This option is generally the most effective for synchronizing with tempo and Motion Sequences.
+Note: With Sync Notes, each note’s LFO speed may still be different if modulated by note number, velocity, key scaling, or other note-specific modulation sources.
+Free Run: All notes in the Program share a single LFO. This is particularly useful if you want a slow LFO shape to continue running under multiple phrases, or under an arpeggiator pattern. The LFO starts running as soon as you select the Program or Performance, before any notes are played.
+滤波器/放大器/音高/声像 LFO 详细信息
+同步音符模式
+[同步音符，自由运行]
+这控制启用 SYNC NOTES 时 LFO 的行为方式。
+同步音符：每个音符都有自己的 LFO。如果没有其他音符发声，LFO 将按正常方式启动。如果有其他音符发声，LFO 将通过匹配最早发声音符的相位来启动。结果是所有音符的 LFO 最初都同步在一起。此选项通常是与节奏和运动序列同步的最有效方法。
+注意：使用同步音符时，如果通过音符编号、速度、键缩放或其他特定于音符的调制源进行调制，每个音符的 LFO 速度可能仍然不同。
+自由运行：程序中的所有音符共享一个 LFO。如果您希望慢速 LFO 形状在多个乐句或琶音器模式下继续运行，这将特别有用。只要您选择程序或性能，LFO 就会开始运行，在播放任何音符之前。
+
+Curve Mode
+[Symmetric, Asymmetric]
+This controls the shape created by Curve; see “LFO Curve and Mode” on page 66.
+Asymmetric produces a single curve, extending from –100 to +100.
+Symmetric produces two matching curves extending outwards from 0 to –100 and +100, respectively.
+For more information, see the similar feature in Mod Processor Curve, under “Mode” on page 74.
+曲线模式
+[对称、非对称]
+这控制曲线创建的形状；请参阅第 66 页上的“LFO 曲线和模式”。
+非对称产生一条曲线，从 -100 延伸到 +100。
+对称产生两条匹配的曲线，分别从 0 向外延伸到 -100 和 +100。
+有关更多信息，请参阅第 74 页“模式”下 Mod Processor Curve 中的类似功能。
+
+Delay
+[0.0000…22.0000 sec]
+This sets the time until the LFO starts. Depending on the Sync Notes settings, this may be the time from note-on, from the start of a phrase, or simply from the time that the sound is selected. It also applies when the LFO is triggered manually. For more information, see “When do Delay, Fade, Start Phase, and Random Phase apply?” on page 67. The Fade time begins after the Delay is complete.
+延迟
+[0.0000…22.0000 秒]
+这将设置 LFO 启动前的时间。根据同步音符设置，这可能是从音符开始、从乐句开始或从选择声音的时间开始的时间。当手动触发 LFO 时，它也适用。有关更多信息，请参阅第 67 页上的“延迟、淡入淡出、起始相位和随机相位何时适用？”。淡入淡出时间在延迟完成后开始。
+
+Trigger
+[Off, On]
+This enables the Trigger Source below. The trigger resets the LFO to the Start Phase, and starts the Delay and Fade times.
+Important: The Trigger settings apply only when Sync Notes Mode is set to Free Run, and SYNC NOTES is On.
+On: The LFO will restart according to the Trigger Source and Threshold settings. This is the default.
+Off: The Trigger Source will be ignored. This lets you quickly disable the function without having to set the Trigger Source to None.
+触发器
+[关闭，打开]
+这将启用下面的触发器源。触发器将 LFO 重置为起始相位，并启动延迟和淡入淡出时间。
+重要提示：触发器设置仅在同步音符模式设置为自由运行且同步音符为打开时适用。
+打开：LFO 将根据触发器源和阈值设置重新启动。这是默认设置。
+关闭：触发器源将被忽略。这让您可以快速禁用该功能，而无需将触发器源设置为无。
+
+Trigger Src (Trigger Source)
+[List of modulation sources]
+This selects a source to re-start the LFO from the Start Phase. For example, you can insert a MIDI CC trigger into a MIDI sequence so that a free-running LFO sounds the same every time the sequence is played.
+You can also use Gate + Damper to reset the LFO at the start of phrases played on the keyboard. Note that this may not behave exactly the same as Sync Notes.
+触发器源 (触发器源)
+[调制源列表]
+这将选择一个源，从起始阶段重新启动 LFO。例如，您可以将 MIDI CC 触发器插入 MIDI 序列，这样每次播放序列时，自由运行的 LFO 听起来都一样。
+您还可以使用 Gate + Damper 在键盘上弹奏的乐句开始时重置 LFO。请注意，这可能与同步音符的行为不完全相同。
+
+Trigger Threshold
+[–100%…+100%]
+This sets the modulation level which will trigger the LFO.
+When the threshold is positive (or 0), the LFO resets when the value passes through the threshold moving upwards. In other words, if the value has been below the Threshold, and then changes so that it is equal to or greater than the Threshold, the LFO resets.
+When the threshold is negative, the LFO resets when the value passes through the threshold moving downwards. In other words, if the value has been above the Threshold, and then changes so that it is equal to or below the Threshold, the LFO resets.
+Note: modulation sources may not always reliably reach the extreme values of +100 or -100. This can happen due to smoothing, or with LFOs when using certain shapes and faster speeds. If this is the case, Thresholds of +100 or -100 will cause inconsistent behavior. To avoid this issue, reduce the Threshold until the LFO resets consistently.
+触发阈值
+[–100%…+100%]
+这将设置触发 LFO 的调制级别。
+当阈值为正（或 0）时，当值向上移动通过阈值时，LFO 会重置。换句话说，如果值低于阈值，然后发生变化，使其等于或大于阈值，则 LFO 会重置。
+当阈值为负时，当值向下移动通过阈值时，LFO 会重置。换句话说，如果值高于阈值，然后发生变化，使其等于或低于阈值，则 LFO 会重置。
+注意：调制源可能并不总是可靠地达到 +100 或 -100 的极值。这可能是由于平滑，或者在使用某些形状和更快速度时使用 LFO 而发生的。如果是这种情况，+100 或 -100 的阈值将导致不一致的行为。为了避免此问题，请降低阈值直到 LFO 持续重置。
+
+######################################################
+				Modulation Processors
+Overview
+Modulation Processors transform a modulation signal to make it into something new. The original modulation signal also remains available. There are two Modulation Processors per Program.
+The Modulation Processor outputs appear in the list of modulation sources, just like the LFOs and Envelopes.
+Type
+[Gate, Offset, Quantize, Scale, Curve, Smooth, Sum ]
+This controls the type of processing performed by the Mod Processor. Each is described in detail below.
+概述
+调制处理器将调制信号转换为新信号。原始调制信号仍然可用。每个程序有两个调制处理器。
+调制处理器输出出现在调制源列表中，就像 LFO 和包络一样。
+类型
+[门限、偏移、量化、缩放、曲线、平滑、总和]
+这控制调制处理器执行的处理类型。下面详细介绍了每种处理类型。
+
+Gate		
+This lets you switch between two modulation sources (or fixed values) using a third modulation source.
+It’s similar to an audio gate with a side-chain, but with even more flexibility–since you get to choose what happens when the gate is closed (below the threshold), as well as when it’s open (above the threshold).
+For instance, you can use Gate to: 
+• Apply pitch-bend or other effects to some notes, but not to others (using Control at Note-On Only) 
+• Apply modulation only after the source reaches a certain threshold–for instance, use Velocity to modulate an LFO’s frequency, but only once Velocity is greater than 90 
+• Use a controller to switch between two different LFOs (or any two modulation sources)
+门限
+这可让您使用第三个调制源在两个调制源（或固定值）之间切换。
+它类似于带有侧链的音频门限，但灵活性更高 - 因为您可以选择当门限关闭（低于阈值）时以及打开（高于阈值）时发生的情况。
+例如，您可以使用门限来：
+• 对某些音符应用弯音或其他效果，但不对其他音符应用（仅在音符开启时使用控制）
+• 仅在源达到特定阈值后应用调制 - 例如，使用速度调制 LFO 的频率，但仅在速度大于 90 时才应用
+• 使用控制器在两个不同的 LFO（或任何两个调制源）之间切换
+
+Cntrl (Control Source)
+[List of Modulation Sources]
+This selects the modulation source to control the Gate.
+Threshold
+[-100…+100]
+This sets the value of the Control Source at which the gate opens or closes.
+Control at Note-On Only
+[Off, On]
+When this is On, the value of the Control Source is only evaluated at note-on. The selected output will then remain active throughout the duration of the note, regardless of any subsequent change in the Control Source’s value. Note that the output value itself can continue to change; only the selection of Below or Above is fixed.
+Cntrl（控制源）
+[调制源列表]
+选择调制源来控制门。
+阈值
+[-100…+100]
+设置门打开或关闭时的控制源值。
+仅在音符开启时控制
+[关闭，开启]
+当开启时，仅在音符开启时评估控制源的值。所选输出将在整个音符持续时间内保持活动状态，无论控制源值随后发生什么变化。请注意，输出值本身可以继续变化；只有“低于”或“高于”的选择是固定的。
+
+Below (Below Threshold)
+[Fixed Val, Source]
+This sets the output of the Gate when the Control Source is less than the Threshold. When this is set to Fixed Val, you can set a value between -100% and +100%. When it is set to Source, you can select any modulation source.
+Above (At & Above Threshold)
+[Fixed Val, Source]
+This sets the output of the Gate when the Control Source is equal to or greater than the Threshold.
+低于（低于阈值）
+[固定值，源]
+当控制源小于阈值时，这将设置门的输出。当设置为固定值时，您可以设置 -100% 和 +100% 之间的值。当设置为源时，您可以选择任何调制源。
+高于（等于和高于阈值）
+[固定值，源]
+当控制源等于或大于阈值时，这将设置门的输出。
+
+Offset
+This adds a constant positive or negative offset to a modulation source, and also allows you to double the gain.
+Input
+[List of Modulation Sources]
+This selects the input for the Mod Processor.
+Level
+[–200%…+200%]
++200% doubles the original signal level, while –200% doubles the level and inverts the phase.
+Offset
+[–200%…+200%]
+This controls how the Input is shifted up or down.
++200% shifts an input of –100 all the way to +100.
+偏移
+这会为调制源添加一个恒定的正或负偏移，同时还允许您将增益加倍。
+输入
+[调制源列表]
+这将选择调制处理器的输入。
+电平
+[-200%…+200%]
++200% 将原始信号电平加倍，而 -200% 将电平加倍并反转相位。
+偏移
+[-200%…+200%]
+这控制输入如何向上或向下移动。
++200% 将输入从 -100 一直移动到 +100。
+
+Converting from bipolar to unipolar
+You can use Offset to convert a bipolar modulation source (both negative and positive), such as an LFO, to a unipolar signal (positive only). To do so:
+1. Select the LFO as the source.
+2. Set the Input Amount to 50%.
+This cuts the overall level of the LFO in half.
+3. Set the Offset to 50%.
+This shifts the LFO signal up, so that it now swings between 0 and +100.
+从双极转换为单极
+您可以使用偏移将双极调制源（正负均可），例如 LFO，转换为单极信号（仅正极）。操作方法：
+1. 选择 LFO 作为源。
+2. 将输入量设置为 50%。
+这会将 LFO 的整体电平降低一半。
+3. 将偏移设置为 50%。
+这会将 LFO 信号上移，使其现在在 0 和 +100 之间摆动。
+
+Converting from unipolar to bipolar
+Similarly, you can convert a unipolar modulation source to a bipolar signal:
+1. Select the modulation source as desired.
+2. Set the Input Amount to +200%.
+This doubles the overall level of the modulation source.
+3. Set the Offset to -100%.
+This shifts the Modulation signal down, so that it ranges from -100 to +100.
+从单极转换为双极
+类似地，您可以将单极调制源转换为双极信号：
+1. 根据需要选择调制源。
+2. 将输入量设置为 +200%。
+这会使调制源的整体电平加倍。
+3. 将偏移设置为 -100%。
+这会将调制信号向下移动，使其范围从 -100 到 +100。
+
+Quantize
+This changes a continuous signal into a series of discrete steps. Use this to change the shape of LFOs or envelopes, or to force a controller to land on a few specific values.
+Input
+[List of Modulation Sources]
+This selects the input for the Mod Processor.
+Steps
+[1…32]
+This controls the severity of the effect. Lower values create more “steppy” effects.
+For instance, when this is set to 2, there will be “steps” at 0, 50, and 100. With a bipolar source, there will also be steps at –50 and –100.
+量化
+这会将连续信号转换为一系列离散步骤。使用它来更改 LFO 或包络的形状，或强制控制器落在几个特定值上。
+输入
+[调制源列表]
+这会选择 Mod 处理器的输入。
+步骤
+[1…32]
+这控制效果的严重程度。较低的值会产生更多“阶梯式”效果。
+例如，当设置为 2 时，将在 0、50 和 100 处有“步骤”。对于双极源，在 -50 和 -100 处也会有步骤。
+
+Quantized Pitch Bend
+You can use Quantize to create quantized pitch bend, for fret-dragging effects, brass rips, and more.
+1. Open the Add New Modulation popup (MOD + >), and set the Destination to Pitch Tune.
+2. Press ENTER to close Add New Modulation and bring up the Modulation Source popup (since there isn’t a front-panel control to select for Mod Processors).
+3. Press the PAN LFO button to jump to the middle of the Generators section, and then scroll down to select Mod Processor 1. Press ENTER to confirm.
+4. Set the Intensity to any exact half-step value: +5.00, +7.00, etc.
+5. Set Mod Processor 1’s Type to Quantize, and set the Input to Pitch Bend.
+6. Set Steps to the same number you used for Intensity, above.
+7. On the Pitch Mod page, set both Pitch Bend Up and Pitch Bend Down to 0 (so that only the Mod Processor version will affect Pitch).
+Now, moving the Pitch Bend wheel will create quantized pitch bends.
+量化弯音
+您可以使用量化来创建量化弯音，以实现音品拖拽效果、铜管音色转换等。
+1. 打开“添加新调制”弹出窗口 (MOD + >)，并将目标设置为音高调谐。
+2. 按 ENTER 关闭“添加新调制”并调出“调制源”弹出窗口（因为没有前面板控件可以选择调制处理器）。
+3. 按 PAN LFO 按钮跳转到生成器部分的中间，然后向下滚动以选择调制处理器 1。按 ENTER 确认。
+4. 将强度设置为任何精确的半步值：+5.00、+7.00 等。
+5. 将调制处理器 1 的类型设置为量化，并将输入设置为弯音。
+6. 将步数设置为与上面强度相同的数字。
+7. 在 Pitch Mod 页面上，将 Pitch Bend Up 和 Pitch Bend Down 都设置为 0（这样只有 Mod Processor 版本会影响音高）。
+现在，移动 Pitch Bend 轮将创建量化的音高弯音。
+
+Scale
+This processor uses a modulation source to scale the input. For instance, you can control the amount of an LFO with an Envelope, or control the amount of an Envelope with a MIDI controller.
+Input
+[List of Modulation Sources]
+This selects the main input for the Mod Processor.
+Main Input Amount
+[–100%…+100%]
+This controls the gain and polarity of the input signal, before being scaled by the Scale Source. Input from the Scale Source then adds to this initial amount.
+Even if the Main Input Amount is set to 0, the Scale Source can still control the final amount of the Main Input over the full +/–100 range.
+Scale Src (Scale Source)
+[List of Modulation Sources]
+This selects the modulation source to scale the Input.
+Scale Src Amount (Scale Source Amount)
+[–100%…+100%]
+This controls the gain and polarity of the effect of the Scale Source. For example, the main input is an LFO and the Scale Source is an Envelope, positive settings mean that the Envelope will increase the amount the of LFO.
+缩放
+此处理器使用调制源来缩放输入。例如，您可以使用包络控制 LFO 的量，或者使用 MIDI 控制器控制包络的量。
+输入
+[调制源列表]
+这将选择调制处理器的主输入。
+主输入量
+[-100%…+100%]
+这将控制输入信号的增益和极性，然后再由缩放源缩放。然后，缩放源的输入将添加到此初始量。
+即使主输入量设置为 0，缩放源仍可以在整个 +/–100 范围内控制主输入的最终量。
+缩放源（缩放源）
+[调制源列表]
+这将选择调制源来缩放输入。
+缩放源量（缩放源量）
+[-100%…+100%]
+这将控制缩放源效果的增益和极性。例如，主输入是 LFO，而 Scale Source 是 Envelope，正值设置意味着 Envelope 将增加 LFO 的量。
+
+Curve
+Curve can create custom controller curves, such as exponential joystick, logarithmic velocity, and so on. It can also alter the shape of programmable modulation sources, such as Envelopes and LFOs.
+Note: Curve primarily affects modulation signals which already have some amount of slope, such as envelopes, triangle and sine LFOs, and so on. If the signal has only abrupt transitions from one value to another, like a classic sample-and-hold waveform, Curve will affect the values, but not the transitions between them. Curve does not affect signals which contain only maximum, 0, or minimum values, such as square waves.
+Input
+[List of Modulation Sources]
+This selects the input for the Mod Processor.
+曲线
+曲线可以创建自定义控制器曲线，例如指数操纵杆、对数速度等。它还可以改变可编程调制源的形状，例如包络和 LFO。
+注意：曲线主要影响已经具有一定斜率的调制信号，例如包络、三角和正弦 LFO 等。如果信号只有从一个值到另一个值的突然转换，就像经典的采样保持波形一样，曲线将影响这些值，但不会影响它们之间的转换。曲线不会影响仅包含最大值、0 或最小值的信号，例如方波。
+输入
+[调制源列表]
+这将选择 Mod 处理器的输入。
+
+Mode
+[Symmetric, Asymmetric]
+Asymmetric produces a single curve, extending from –100 to +100.
+Symmetric produces two matching curves extending outwards from 0 to –100 and +100, respectively.
+模式
+[对称、非对称]
+非对称产生一条曲线，从 -100 延伸到 +100。
+对称产生两条匹配的曲线，分别从 0 向外延伸到 -100 和 +100。
+
+Curve
+[–100.00%…+100.00%]
+This controls the amount of curvature, and whether the curves are concave or convex.
+As you can see in the graphic examples, the curve will emphasize certain value ranges, and deemphasize others. For example, let’s say that you are using a triangle LFO, through Curve, to modulate filter cutoff. If Curve emphasizes high values, the filter will spend more time at higher frequencies. If it emphasizes low values, the filter will spend more time at lower frequencies.
+曲线
+[–100.00%…+100.00%]
+这控制曲率的大小，以及曲线是凹的还是凸的。
+正如您在图形示例中看到的，曲线将强调某些值范围，并弱化其他值范围。例如，假设您正在使用三角形 LFO 通过曲线来调制滤波器截止频率。如果曲线强调高值，滤波器将在较高频率上花费更多时间。如果它强调低值，滤波器将在较低频率上花费更多时间。
+
+Mode Input Curve Result
+Symmetric Unipolar Positive (+) emphasizes upper value range
+Negative (-) emphasizes lower value range
+Bipolar Positive (+) emphasizes both upper and lower value ranges,
+and deemphasizes the center
+Negative (–) emphasizes center value range, around 0
+Asymmetric Unipolar Positive (+) emphasizes extreme upper range, with offset
+Negative (–) emphasizes extreme lower range, with offset
+Bipolar Positive (+) emphasizes upper value range
+Negative (–) emphasizes lower value range
+模式 输入 曲线 结果
+对称 单极 正 (+) 强调上限值范围
+负 (-) 强调下限值范围
+双极 正 (+) 强调上限值范围和下限值范围，
+并弱化中心
+负 (-) 强调中心值范围，在 0 附近
+非对称 单极 正 (+) 强调极上限值范围，有偏移
+负 (-) 强调极下限值范围，有偏移
+双极 正 (+) 强调上限值范围
+负 (-) 强调下限值范围
+
+Bipolar and Unipolar modulation sources To understand Curve, it helps to understand the difference between bipolar and unipolar modulation sources.
+
+Bipolar sources can swing all the way from –100 to +100, with 0 in the middle. Most LFOs are bipolar, for instance; so is Pitch Bend. Generally, bipolar modulation sources will work better with the Asymmetric mode, but Symmetric may also produce interesting results.
+
+Unipolar sources only go from 0 to 100, with 50 in the middle. Often, MIDI controllers are unipolar (though you can also select bipolar versions). Envelopes are usually programmed to be unipolar, even though the Filter and Pitch Envelopes allow negative levels.
+
+With unipolar sources, it’s almost always better to use the Symmetric mode; Asymmetric can cause offsets and other strange results.
+双极和单极调制源 要理解曲线，了解双极和单极调制源之间的差异会有所帮助。
+
+双极源可以从 -100 一直摆动到 +100，中间为 0。例如，大多数 LFO 都是双极的；弯音也是如此。通常，双极调制源在非对称模式下效果会更好，但对称也可能产生有趣的结果。
+
+单极源仅从 0 到 100，中间为 50。通常，MIDI 控制器是单极的（尽管您也可以选择双极版本）。包络通常被编程为单极，即使滤波器和音高包络允许负电平。
+
+对于单极源，使用对称模式几乎总是更好；非对称可能会导致偏移和其他奇怪的结果。
+
+			Smooth
+This creates more gentle transitions between values, smoothing out abrupt changes such as a quick move on a wheel or a sharp edge on an LFO.
+
+You have separate control of the amount of smoothing during the attack (when the signal is increasing) and decay (when it’s decreasing).
+
+Low settings provide subtle controller smoothing, creating more gradual aftertouch, for instance. Higher settings create auto-fade effects, transforming a quick gesture into a longer fade-in and/or fade-out event.
+
+Smoothing can also be used to alter the shape of programmable mod sources, such as LFOs and envelopes. For instance, you can turn a “blip” into a simple envelope shape, as shown below.
+平滑
+这可在值之间创建更平缓的过渡，平滑突然的变化，例如滚轮上的快速移动或 LFO 上的尖锐边缘。
+
+您可以单独控制攻击期间（信号增加时）和衰减期间（信号减少时）的平滑量。
+
+例如，低设置提供微妙的控制器平滑，创建更渐进的触后。较高的设置可创建自动淡入淡出效果，将快速手势转换为更长的淡入和/或淡出事件。
+
+平滑还可用于改变可编程调制源（如 LFO 和包络）的形状。例如，您可以将“闪烁”变成简单的包络形状，如下所示。
+
+Input 
+[List of Modulation Sources] This selects the input for the Mod Processor.
+
+Attack [0.0000…10.0000 sec] This controls how long it takes the smoother to reach a new, higher value. Higher settings mean longer times.
+
+Decay [0.0000…10.0000 sec] This controls how long it takes the smoother to reach a new, lower value. Higher settings mean longer times.
+输入
+[调制源列表] 选择调制处理器的输入。
+
+攻击 [0.0000…10.0000 秒] 控制平滑器达到新的更高值所需的时间。设置越高，时间越长。
+
+衰减 [0.0000…10.0000 秒] 控制平滑器达到新的较低值所需的时间。设置越高，时间越长。
+
+Sum adds two modulation sources together. This is useful if you want to process the combination of two or more signals: for instance, to merge an LFO and an envelope, and then smooth the result.
+Sum 将两个调制源相加。如果你想处理两个或多个信号的组合，这个功能非常有用：例如，合并一个 LFO 和一个包络，然后平滑结果。
+
+Input
+[List of Modulation Sources]
+This selects the main input for the Mod Processor.
+Main Input Amount
+[–100%…+100%]
+This controls the gain and polarity of the Input.
+Sum Src (Sum Source)
+[List of Modulation Sources]
+This selects the modulation source to merge into the Input.
+Sum Source Amount
+[–100%…+100%]
+This controls the gain and polarity of the Sum Source.
+输入
+[调制源列表]
+选择调制处理器的主输入。
+主输入量
+[-100%…+100%]
+控制输入的增益和极性。
+总和源（总和源）
+[调制源列表]
+选择要合并到输入中的调制源。
+总和源量
+[-100%…+100%]
+控制总和源的增益和极性。
+
+###########################
+Effects
+
