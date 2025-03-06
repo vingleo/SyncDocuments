@@ -3415,5 +3415,996 @@ This controls the gain and polarity of the Sum Source.
 控制总和源的增益和极性。
 
 ###########################
-Effects
+				Effects
+Overview
+Each Layer has its own PRE FX, MOD FX, and DELAY. Additionally, the Performance has a master REVERB and parametric EQ. See “Structure” on page 3.
+SHIFT-press or double-press the effects buttons to turn them on and off.
+效果
+概述
+每个层都有自己的 PRE FX、MOD FX 和 DELAY。此外，Performance 还具有主 REVERB 和参数 EQ。请参阅第 3 页的“结构”。
+按住 SHIFT 或双击效果按钮可打开或关闭它们。
 
+			Main page
+Type (EFFECT TYPE)
+[List of Effects]
+For each effect, you can select a Type (or “algorithm”) and a Preset within that Type. For full lists of Effect Types, see “Pre FX,” “Mod FX,” “Delay,” and “Master Reverb,” below.
+“All” types (Delay All, Chorus All, etc.) let you select Presets from all related algorithms.
+Preset (SHIFT-EFFECT TYPE)
+[List of Presets]
+These are the presets available for the selected Type.
+Wet/Dry (WET/DRY)
+[Dry, 1:99…99:1, Wet]
+This controls the balance between the original signal (Dry) and the effected signal (Wet).
+Level controls
+Additional level-related parameters may be available on-screen, depending on the effect Type.
+Input Trim
+[-Inf, -84.9…0.0 dB]
+This controls the volume level into the effect. Use this to alter the response of effects such as the Waveshaper, or to compensate for gain increases in effects such as the Talking Modulator.
+Volume
+[-Inf, -84.9…+12.0 dB]
+This controls the post-Drive output of the Guitar Amp. Use it to compensate for level changes caused by Drive.
+Output Level
+[-Inf, -84.9…0.0 dB]
+This controls the output volume from the effect. Use it to compensate for level changes in effects such as the Waveshaper.
+Gain Adjust
+[-Inf, -84.9…+24.0 dB]
+This is similar to Output Level, but provides up to 24dB of gain. It appears only for the Modern Compressor.
+主页
+类型（效果类型）
+[效果列表]
+对于每种效果，您可以选择一种类型（或“算法”）以及该类型中的预设。有关效果类型的完整列表，请参阅下面的“Pre FX”、“Mod FX”、“延迟”和“主混响”。
+“全部”类型（延迟全部、合唱全部等）可让您从所有相关算法中选择预设。
+预设（SHIFT-效果类型）
+[预设列表]
+这些是所选类型可用的预设。
+湿/干（WET/DRY）
+[干，1:99…99:1，湿]
+这控制原始信号（干）和受影响信号（湿）之间的平衡。
+电平控制
+根据效果类型，屏幕上可能提供其他与电平相关的参数。
+输入微调
+[-Inf, -84.9…0.0 dB]
+这控制效果的音量。使用它来改变效果（例如波形整形器）的响应，或补偿效果（例如 Talking Modulator）中的增益增加。
+音量
+[-Inf, -84.9…+12.0 dB]
+这控制吉他放大器的驱动后输出。使用它来补偿驱动引起的电平变化。
+输出电平
+[-Inf, -84.9…0.0 dB]
+这控制效果的输出音量。使用它来补偿波形整形器等效果中的电平变化。
+增益调整
+[-Inf, -84.9…+24.0 dB]
+这类似于输出电平，但提供高达 24dB 的增益。它仅适用于现代压缩器。
+
+			Edit page
+The EDIT 1/2/3 controls (E1/E2/E3 on the display) are macros which may control multiple internal parameters, and which may be set up differently for each Preset. There are general conventions for the EDIT knobs of each effect Type, as reflected in the on-screen labels.
+EDIT 1/2/3 控件（显示屏上的 E1/E2/E3）是宏，可以控制多个内部参数，并且可以针对每个预设进行不同的设置。每个效果类型的 EDIT 旋钮都有通用约定，如屏幕上的标签所示。
+
+			Pre FX
+			前置 FX
+You can select one of the following effect Types for the Pre FX slot.
+Decimator
+This stereo effect models vintage digital gear, lowering the sampling frequency and reducing bit depth.
+Graphic EQ
+This is a stereo graphic EQ with macro controls.
+Guitar Amp
+This mono effect models a selection of guitar amps and speaker cabinets, for everything from subtle saturation to roaring distortion.
+Modern Compressor
+This is a stereo compressor with a modern sound.
+Parametric EQ
+This is a stereo EQ with a single adjustable parametric band. Presets may include additional EQ.
+Red Compressor
+Need to play chordal passages with smooth, even dynamics? Then, look no further: this mono compressor is modeled on a pedal whose clean sound made it hugely popular.
+Ring Modulator
+This stereo effect creates a metallic sound by modulating the input via an LFO-controlled oscillator.			
+Tremolo
+This stereo effect modulates volume with an LFO, optionally controlled by an envelope follower.
+Wave Shaper
+This stereo effect is very sensitive to input level. Different table selections generate various types of overtones and
+distortion.
+
+您可以为前置 FX 插槽选择以下效果类型之一。
+抽取器
+此立体声效果模拟老式数字设备，降低采样频率并减少位深度。
+图形均衡器
+这是一个带有宏控制的立体声图形均衡器。
+吉他放大器
+此单声道效果模拟一系列吉他放大器和扬声器箱体，可实现从微妙饱和到咆哮失真等各种效果。
+现代压缩器
+这是一款具有现代声音的立体声压缩器。
+参数均衡器
+这是一款带有单个可调参数带的立体声均衡器。预设可能包含其他均衡器。
+红色压缩器
+需要以平滑、均匀的动态演奏和弦段落吗？那么，不用再找了：这款单声道压缩器以踏板为原型，其干净的声音使其广受欢迎。
+环形调制器
+此立体声效果通过 LFO 控制的振荡器调制输入来产生金属声音。		
+颤音
+此立体声效果使用 LFO 调节音量，可选择由包络跟随器控制。
+波形整形器
+此立体声效果对输入电平非常敏感。不同的表格选择会产生各种类型的泛音和
+失真。
+
+			Mod FX
+You can select one of the following effect Types for the Mod FX slot.
+Black Chorus/Flanger
+This is modeled after a classic mono-in, stereo-out chorus known for both crystal-clean tone and quiet operation, and especially well-suited to tine electric pianos.
+Black Phase
+This mono phaser is inspired by a classic European pedal effect.
+CX-3 Vibrato Chorus
+This effect models the scanning chorus and vibrato circuitry of a vintage organ.
+EP Chorus
+This is inspired by a rare chorus built into a famous modified tine piano.
+Harmonic Chorus
+This stereo effect applies chorus only to higher frequencies—particularly useful for bass sounds. Some presets use feedback to turn the chorus into a flanger.
+Modern Chorus
+This stereo effect adds thickness and warmth to the sound by modulating the delay time of the input signal.
+Modern Phaser
+This is a modern, stereo phaser effect.
+Orange Phase
+This is a model of a classic, orange-colored mono phaser pedal. It’s superseded by the “V2” version below, but is still available for compatibility with older sounds.
+Orange Phase V2
+This is an improved model of a family of mono phaser pedals–in “90” and “100” versions–which are favorites on many recordings. It’s useful for adding sparkle, animating chord passages, and widening and fattening the sound.
+Polysix Ensemble
+This models the mono-in, stereo-out ensemble effect built into the classic Korg Polysix synthesizer.
+您可以为 Mod FX 插槽选择以下效果类型之一。
+黑色合唱/镶边
+这是仿照经典的单声道输入、立体声输出合唱而制作的，这种合唱以水晶般纯净的音色和安静的操作而闻名，特别适合电钢琴。
+黑色相位
+这种单声道移相器受到经典欧洲踏板效果的启发。
+CX-3 颤音合唱
+这种效果模仿了老式风琴的扫描合唱和颤音电路。
+EP 合唱
+这种效果受到著名改良电钢琴内置的罕见合唱的启发。
+和声合唱
+这种立体声效果仅将合唱应用于较高频率 - 特别适用于低音。一些预设使用反馈将合唱变成镶边。
+现代合唱
+这种立体声效果通过调制输入信号的延迟时间为声音增加了厚度和温暖度。
+现代移相器
+这是一种现代立体声移相器效果。
+Orange Phase
+这是经典的橙色单声道移相踏板的模型。它已被下面的“V2”版本取代，但仍可用于与旧声音兼容。
+Orange Phase V2
+这是单声道移相踏板系列的改进模型 - 有“90”和“100”版本 - 是许多录音中的最爱。它可用于添加闪光、动画和弦段落以及扩大和增强声音。
+Polysix Ensemble
+这模拟了经典 Korg Polysix 合成器内置的单声道输入、立体声输出合奏效果。
+
+Small Phase
+This models a classic mono phaser made in New York City during the 70s, with its warm, rich tone and liquid transparency.
+Talking Modulator
+This mono effect applies vowel formant filters, like a human voice, to the input.
+Vintage Chorus
+This models a mono chorus best-known for being built into a guitar amp. Speed and Depth provide a broader range of sounds than the original device.
+Vintage Flanger
+A model of a truly classic mono analogue flanger. This amazing stompbox’s bucket-brigade technology provides a sweeping, whooshing sound, perfect for chords.
+Vintage/Custom Wah
+This stereo effect models the tonal character of a vintage wah pedal.
+Vox Wah
+This effect is modeled on the unique “throaty” tones of two legendary VOX wah pedals: the V847 and the V848 Clyde McCoy model.
+Small Phase
+这款单声道效果器模仿了 70 年代在纽约制造的经典单声道移相器，其音色温暖、丰富，透明度高。
+Talking Modulator
+这款单声道效果器将元音共振峰滤波器（如人声）应用于输入。
+Vintage Chorus
+这款单声道合唱器模仿了最出名的内置吉他放大器的单声道合唱。Speed 和 Depth 提供比原始设备更广泛的声音。
+Vintage Flanger
+真正经典的单声道模拟镶边器的模型。这款令人惊叹的效果器的 bucket-brigade 技术可提供扫弦、呼啸的声音，非常适合和弦。
+Vintage/Custom Wah
+这款立体声效果器模仿了复古哇音踏板的音调特征。
+Vox Wah
+这款效果器模仿了两款传奇 VOX 哇音踏板的独特“喉音”音调：V847 和 V848 Clyde McCoy 型号。
+
+			Delay
+You can select one of the following effect Types for the Delay slot.
+L/C/R Delay
+This mono-in, stereo-out multitap delay has three taps panned to the left, right, and center respectively.
+Multiband Mod Delay
+This monster effect divides the input signal into four frequency bands, with a modulatable delay for each band. It can produce everything from complex, frequency-specific delays to thick choruses.
+Reverse Delay
+This effect includes a reverse delay followed by additional left and right delays. Presets provide various feedback options.
+Stereo/Cross Delay
+This true-stereo delay provides up to 2,730 msec of delay time.
+Tape Echo
+This effect models a tape echo with up to three playback heads, including tape saturation.			
+延迟
+您可以为延迟槽选择以下效果类型之一。
+L/C/R 延迟
+此单声道输入、立体声输出多抽头延迟有三个抽头，分别平移到左、右和中央。
+多频带调制延迟
+此怪物效果将输入信号分为四个频带，每个频带都有一个可调节的延迟。它可以产生从复杂的频率特定延迟到厚重合唱的一切。
+反向延迟
+此效果包括反向延迟，然后是额外的左和右延迟。预设提供各种反馈选项。
+立体声/交叉延迟
+此真正的立体声延迟提供高达 2,730 毫秒的延迟时间。
+磁带回声
+此效果模拟了最多三个播放头的磁带回声，包括磁带饱和。
+
+			Master Reverb
+Early Reflections
+This provides different early reflection patterns, useful for small ambiences, gated reverbs, and reverse effects.
+Overb
+The Overb features a high-quality, diffusion-based reverb core, including randomization for richer and smoother reverb timbres.			
+			主混响
+早期反射
+这提供了不同的早期反射模式，适用于小氛围、门控混响和反向效果。
+Overb
+Overb 具有高品质、基于扩散的混响核心，包括随机化以获得更丰富、更平滑的混响音色。
+
+			Master EQ
+Performances include a dedicated parametric EQ. To edit the EQ:
+1. Press REVERB and then PAGE-.
+The Master EQ page will appear.
+EQ On/Off enables and disables the EQ. Use Trim to compensate for EQ boosts. The L (Low) and H (High) bands can be set to Peak, Shlv (Shelving), or Cut (Low cut/High cut).
+主均衡器
+演出包括专用的参数均衡器。要编辑均衡器：
+1. 按 REVERB，然后按 PAGE-。
+将出现主均衡器页面。
+EQ 开/关可启用和禁用均衡器。使用 Trim 补偿均衡器增强。L（低）和 H（高）频段可设置为峰值、Shlv（搁架）或 Cut（低切/高切）。
+
+#############################
+				Randomize
+				随机化
+Randomize uses a combination of preset selection and select value randomization, rather than direct randomization of all parameters.
+Using Randomize
+To randomize the entire Performance:
+1. Press the (Randomize) button.				
+随机化使用预设选择和选择值随机化的组合，而不是直接随机化所有参数。
+使用随机化
+要随机化整个表演：
+1. 按（随机化）按钮。
+
+The Randomize page will appear, with Scope set to Performance by default. If Scope has been previously changed to another setting, hold and press PERFORM.
+随机化页面将会出现，范围默认设置为性能。如果范围之前已更改为其他设置，请按住并按下性能。
+
+Depending on the Scope, additional settings may appear:
+Fx/Mod Knob Values randomizes the Mod Knobs (Program and/or Performance, according to Scope) and Effects Edit 1/2/3 by the specified percentage.
+Modulation Intensities randomizes the standard LFO and Envelope intensities for Filter, Amp, Pitch, and Pan.
+Randomize Fx Enables controls the On/Off settings for the Effects (with probability weighted towards On).
+Speed randomizes Wave Sequence Speed.
+2. Press again to randomize everything in all layers, and then ENTER to confirm.
+To randomize a specific section of the synth:
+1. Press and hold .
+2. While holding , press the button for the desired section (PERFORM, WAVE SEQUENCE SELECT, ARPEG-
+GIATOR, FILTER TYPE, LAYER A…D, or any Effect or Wave Sequence Lane), or move a Filter, Amp, Pitch, or MOD knob.
+The Randomize page will appear, with the selected Scope. You can still change the Scope again, if desired. Additional Scope options are available from the on-screen menu.
+3. Press to execute the randomization, and then ENTER to confirm.
+根据范围，可能会出现其他设置：
+Fx/Mod 旋钮值按指定百分比随机化 Mod 旋钮（根据范围，程序和/或性能）和效果编辑 1/2/3。
+调制强度随机化滤波器、放大器、音高和声像的标准 LFO 和包络强度。
+随机化 Fx 启用控制效果的开/关设置（概率偏向开）。
+速度随机化波形序列速度。
+2. 再次按下可随机化所有层中的所有内容，然后按 ENTER 确认。
+要随机化合成器的特定部分：
+1. 按住 。
+2. 按住 时，按下所需部分的按钮（PERFORM、WAVE SEQUENCE SELECT、ARPEG-
+GIATOR、FILTER TYPE、LAYER A…D 或任何效果或波形序列通道），或移动滤波器、放大器、音高或 MOD 旋钮。
+将显示“随机化”页面，其中包含所选范围。如果需要，您仍然可以再次更改范围。屏幕菜单中提供了其他范围选项。
+3. 按 执行随机化，然后按 ENTER 确认。
+
+###########################################
+				Utility
+			System Setup
+Set List
+[List of Set Lists]
+This selects the current Set List, which maps Performances to the SET LIST buttons. You can store many Set Lists, and change between them as you like.
+Octave (OCTAVE buttons)
+[-4…+4]
+This shifts the keyboard up or down by up to four octaves. It’s also generally controlled by the front panel octave buttons (although these can optionally control scale selection, instead; see “Octave Selects Scale” on page 89).
+The wavestate module does not have front-panel OCTAVE buttons.
+Transpose
+[–12…+00…+12]
+This adjusts the pitch in semitone steps over a ±1 octave range.
+Note: Transpose is affected by the Convert Position setting; see “Chan+Poly: The mod source “Aftertouch” receives both Channel and Poly Aftertouch. If both are sent simultaneously, the most recent value is used.” on page 86.
+Tune
+[–50 (427.47Hz)…+50 (452.89Hz)]
+This adjusts the overall tuning of the entire wavestate in one-cent units, over a range of ±50 cents. (A cent is 1/100 of a semitone.) At the default of 0, A4 = 440 Hz.
+The value shown for A4’s frequency assumes that the scale is set to Equal Temperament. If a different scale is selected, the actual frequency of A4 may be different.
+System ID This number identifies the wavestate to computer hosts. If you have multiple wavestates, set each to a different number.		
+实用程序
+设置列表
+[设置列表列表]
+这将选择当前设置列表，该列表将演奏映射到设置列表按钮。您可以存储多个设置列表，并根据需要在它们之间进行更改。
+八度（OCTAVE 按钮）
+[-4…+4]
+这将使键盘向上或向下移动最多四个八度。它通常也由前面板八度按钮控制（尽管这些按钮可以选择控制音阶选择；请参阅第 89 页的“八度选择音阶”）。
+波形模块没有前面板 OCTAVE 按钮。
+移调
+[–12…+00…+12]
+这将在 ±1 个八度范围内以半音为单位调整音高。
+注意：移调受转换位置设置的影响；请参阅“Chan+Poly：调制源“触后”接收通道和 Poly 触后。如果两者同时发送，则使用最新的值。”在第 86 页。
+调音
+[–50 (427.47Hz)…+50 (452.89Hz)]
+这将以一音分为单位调整整个波形状态的整体调音，范围为 ±50 音分。（一音分是半音的 1/100。）默认值为 0，A4 = 440 Hz。
+A4 频率显示的值假设音阶设置为平均律。如果选择了不同的音阶，A4 的实际频率可能会不同。
+系统 ID 此数字向计算机主机标识波形状态。如果您有多个波形状态，请将每个波形状态设置为不同的数字。
+
+			MIDI & USB
+Global Channel
+[1…16]
+This is the basic MIDI channel for the wavestate. It applies to:
+• MIDI sent from the built-in keyboard and controllers (except for Program Mod Knobs)
+• MIDI received by any Layer with Use Global MIDI Channel enabled
+• MIDI CCs received by and sent from the Program Mod Knobs, for any Layer with Use Global MIDI Channel enabled
+• Program Change (via Set Lists)
+• Other global functionality, such as modulation of Master Reverb, Vector Envelope, and System Exclusive
+Local Control
+[Off, On]
+On: This is the default; the wavestate’s internal sounds will be played by the built-in keyboard and controllers. If you are playing the wavestate by itself, leave this setting checked.
+Off: The wavestate’s keyboard and controllers, including the Mod Knobs, will be disconnected from the internal sounds. MIDI transmit and receive will continue to work normally. Use this setting if loop-back from an external sequencer causes duplicate notes.
+Clock
+[Internal, External, Auto]
+Internal: The wavestate will use the Performance’s Tempo setting (also shown and controlled by the TAP TEMPO button). Use this when playing the wavestate by itself, or when you want the wavestate to control the tempo of external MIDI devices such as a sequencer or drum machine.
+External: The wavestate tempo will synchronize to incoming MIDI Clock messages from either 5-pin MIDI or USB. If MIDI clocks are not being received, tempo-related features will not function.
+Auto: This combines the functionality of Internal and External, so that you don’t have to manually switch between the two:
+• If MIDI Clocks are not being received, the wavestate uses its internal tempo.
+• If MIDI Clocks are being received, they control the tempo. If the clocks stop for more than 500 ms, the wavestate switches back to internal tempo.
+USB Network
+[RNDIS, NCM]
+The wavestate uses USB networking to communicate with the Editor Librarian and Updater software on MacOS and Windows computers. This selects the network protocol which will be used. Some computer operating systems may require one setting or the other; for the latest information, please see the documentation included with the Editor Librarian or Updater.
+Changes to this parameter take effect only after the wavestate has been turned off and restarted.
+RNDIS: This is the RNDIS protocol, recommended for use with Windows 7 and 8.
+NCM: This is the Network Control Model protocol, recommended for use with MacOS and Windows 10 and later.			
+
+MIDI 和 USB
+全局通道
+[1…16]
+这是 wavestate 的基本 MIDI 通道。它适用于：
+• 从内置键盘和控制器发送的 MIDI（程序调制旋钮除外）
+• 启用使用全局 MIDI 通道的任何层接收的 MIDI
+• 对于启用使用全局 MIDI 通道的任何层，由程序调制旋钮接收和发送的 MIDI CC
+• 程序更改（通过设置列表）
+• 其他全局功能，例如主混响、矢量包络和系统独占的调制
+本地控制
+[关闭，打开]
+打开：这是默认设置；wavestate 的内部声音将由内置键盘和控制器播放。如果您单独播放 wavestate，请选中此设置。
+关闭：wavestate 的键盘和控制器（包括调制旋钮）将与内部声音断开连接。MIDI 传输和接收将继续正常工作。如果来自外部音序器的环回导致重复音符，请使用此设置。
+时钟
+[内部、外部、自动]
+内部：波形状态将使用性能的节奏设置（也由 TAP TEMPO 按钮显示和控制）。当单独播放波形状态时，或者当您希望波形状态控制外部 MIDI 设备（如音序器或鼓机）的节奏时，请使用此选项。
+外部：波形状态节奏将与来自 5 针 MIDI 或 USB 的传入 MIDI 时钟消息同步。如果没有接收到 MIDI 时钟，节奏相关功能将不起作用。
+自动：这结合了内部和外部的功能，因此您不必手动在两者之间切换：
+• 如果没有接收到 MIDI 时钟，波形状态将使用其内部节奏。
+• 如果接收到 MIDI 时钟，它们将控制节奏。如果时钟停止超过 500 毫秒，波形状态将切换回内部节奏。
+USB 网络
+[RNDIS、NCM]
+wavestate 使用 USB 网络与 MacOS 和 Windows 计算机上的 Editor Librarian 和 Updater 软件进行通信。这将选择要使用的网络协议。某些计算机操作系统可能需要一种或另一种设置；有关最新信息，请参阅 Editor Librarian 或 Updater 附带的文档。
+只有在关闭并重新启动 wavestate 后，对此参数的更改才会生效。
+RNDIS：这是 RNDIS 协议，建议用于 Windows 7 和 8。
+NCM：这是网络控制模型协议，建议用于 MacOS 和 Windows 10 及更高版本。
+
+			Controllers
+			控制器
+Velocity Curve
+[1 (Heavy), 2, 3, 4 (Normal), 5, 6, 7, 8 (Light), 9 (Wide)]
+This controls how the volume and/or tone responds to variations in keyboard playing dynamics (velocity). Choose the curve that is most appropriate for your playing strength and style.
+Velocity Curves always work the same way between the built-in keyboard and the synth engine. The way that they relate to MIDI, however, is tied to the Convert Position setting (see below).			
+速度曲线
+[1（重）、2、3、4（正常）、5、6、7、8（轻）、9（宽）]
+这控制音量和/或音调如何响应键盘弹奏动态（速度）的变化。选择最适合您弹奏力度和风格的曲线。
+内置键盘和合成器引擎之间的速度曲线始终以相同的方式工作。但它们与 MIDI 的关系与转换位置设置有关（见下文）。
+
+1 (Heavy), 2, 3: These are for heavy playing; most of the variation occurs in the upper velocity range.
+4 (Normal): This is the default.
+5, 6: These are for lighter playing.
+7: This is for very light playing, at the expense of control in the middle of the range.
+8 (Light): This curve produces the most uniform output, for when velocity sensitivity is not desired.
+9 (Wide): This curve is designed for the heavier touch of external weighted keyboards.
+1（重）、2、3：这些曲线适用于重度演奏；大多数变化发生在较高速度范围内。
+4（正常）：这是默认值。
+5、6：这些曲线适用于较轻的演奏。
+7：这适用于非常轻的演奏，但会牺牲中间范围的控制力。
+8（轻）：此曲线产生最均匀的输出，适用于不需要速度灵敏度的情况。
+9（宽）：此曲线专为外部加重键盘的较重触感而设计。
+
+AT Curve (Aftertouch Curve)
+[1 (Heavy), 2, 3 (Normal), 4, 5(Light), 6 (24-step), 7 (12-step), 8 (Random)]
+This controls how the sounds respond to variations in pressure applied to the keyboard while playing a note (aftertouch). Choose the curve that is most appropriate for your playing strength and style. All wavestate models support aftertouch via MIDI; the wavestate SE also generates aftertouch from its built-in keyboard.
+Aftertouch Curves always work the same way between the wavestate SE’s built-in keyboard and the synth engine. The way that they relate to MIDI, however, is tied to the Convert Position setting (see below).
+AT 曲线（触后曲线）
+[1（重）、2、3（正常）、4、5（轻）、6（24 步）、7（12 步）、8（随机）]
+这控制声音如何响应弹奏音符时施加在键盘上的压力变化（触后）。选择最适合您演奏力度和风格的曲线。所有 wavestate 型号都支持通过 MIDI 实现触后；wavestate SE 还通过其内置键盘生成触后。
+触后曲线在 wavestate SE 的内置键盘和合成器引擎之间始终以相同的方式工作。但它们与 MIDI 的关系与转换位置设置有关（见下文）。
+
+Aftertouch curves
+
+1 (Heavy), 2: These are for heavy playing; most of the variation occurs with stronger pressure.
+3 (Normal): This is the default.
+4, 5 (Light): These produce changes even with light pressure.
+6 (24-step), 7 (12-step): These curves result in 24 or 12 steps, respectively. If Aftertouch is modulating pitch with an intensity of one octave, 7 (12-step) lets you use Aftertouch to play a chromatic scale. (For similar results, you could also use a Mod Processor set to Quantize.)
+8 (Random): This is a random curve. Use this to create special effects, or for applying unpredictable modulation.
+触后曲线
+
+1（重）、2：这些曲线适用于重弹奏；大多数变化发生在较大的压力下。
+3（正常）：这是默认曲线。
+4、5（轻）：这些曲线即使在轻压力下也会产生变化。
+6（24 步）、7（12 步）：这些曲线分别产生 24 或 12 步。如果触后以一个八度的强度调制音高，则 7（12 步）可让您使用触后演奏半音阶。（要获得类似的结果，您也可以使用设置为量化的调制处理器。）
+8（随机）：这是一条随机曲线。使用它来创建特殊效果，或应用不可预测的调制。
+
+wavestate SE aftertouch calibration
+The wavestate SE’s aftertouch mechanism is calibrated at the factory, and in general should not require further adjustment. It can, however, be re-calibrated if necessary. To do so:
+1. Go to the Controllers page, under UTILITY.
+2. Press and hold the UTILITY button.
+3. While continuing to hold UTILITY, press the < button.
+The Aftertouch Calibration screen will appear. Follow the on-screen instructions.
+AT Source (Aftertouch Source)
+[Off, Channel, Poly, Chan+Poly]
+This lets you instantly re-configure the synth to take advantage of controllers with Poly Aftertouch.
+Important: to use the wavestate SE’s built-in aftertouch, make sure to set AT Source to either Channel or Chan + Poly.
+Off: All aftertouch will be ignored, including the wavestate SE’s built-in aftertouch.
+Channel: The mod source “Aftertouch” receives Channel Aftertouch. Poly Aftertouch can still be used via the dedicated Poly AT mod source.
+Poly: The mod source “Aftertouch” receives Poly Aftertouch. Channel Aftertouch is ignored.
+Chan+Poly: The mod source “Aftertouch” receives both Channel and Poly Aftertouch. If both are sent simultaneously, the most recent value is used.
+Convert Position
+[Pre-MIDI, Post-MIDI]
+This setting controls how the Transpose, Velocity Curve, and Aftertouch Curve settings work. (Note that Aftertouch Curve appears only on the wavestate SE.) You can think of these as a set of MIDI effects processors, which can be used in one of two places within the wavestate.
+Note: Regardless of the Convert Position, Transpose and Velocity/Aftertouch Curves always apply when playing internal sounds directly from the wavestate keyboard.
+Pre-MIDI: This is the default. Transpose and Velocity/Aftertouch Curves affect MIDI output.
+wavestate SE 触后校准
+wavestate SE 的触后机制在工厂进行了校准，一般不需要进一步调整。但是，如有必要，可以重新校准。操作方法：
+1. 转到 UTILITY 下的“控制器”页面。
+2. 按住 UTILITY 按钮。
+3. 继续按住 UTILITY 的同时，按下 < 按钮。
+将出现触后校准屏幕。按照屏幕上的说明进行操作。
+AT 源（触后源）
+[关闭、通道、复音、通道+复音]
+这可让您立即重新配置合成器以利用具有复音触后功能的控制器。
+重要提示：要使用 wavestate SE 的内置触后，请确保将 AT 源设置为通道或通道+复音。
+关闭：所有触后都将被忽略，包括 wavestate SE 的内置触后。
+通道：调制源“触后”接收通道触后。仍可通过专用的 Poly AT 调制源使用 Poly Aftertouch。
+Poly：调制源“Aftertouch”接收 Poly Aftertouch。通道 Aftertouch 将被忽略。
+Channel+Poly：调制源“Aftertouch”接收通道和 Poly Aftertouch。如果两者同时发送，则使用最新值。
+转换位置
+[Pre-MIDI、Post-MIDI]
+此设置控制移调、力度曲线和触后曲线设置的工作方式。（请注意，触后曲线仅出现在 wavestate SE 上。）您可以将它们视为一组 MIDI 效果处理器，可在 wavestate 中的两个位置之一使用。
+注意：无论转换位置如何，当直接从 wavestate 键盘播放内部声音时，移调和力度/触后曲线始终适用。
+Pre-MIDI：这是默认设置。移调和力度/触后曲线会影响 MIDI 输出。
+
+Post-MIDI: Transpose and Velocity/Aftertouch Curves affect MIDI input. Use this to adjust response to an external
+MIDI controller.
+Post-MIDI also shifts Global and Performance Scales to match the Transpose setting—convenient for use with non-equal-tempered scales. See also “Transpose” on page 89.
+Convert Position = Post-MIDI
+后 MIDI：移调和力度/触后曲线会影响 MIDI 输入。使用此功能可调整对外部 MIDI 控制器的响应。
+后 MIDI 还会调整全局和性能音阶以匹配移调设置 — 方便与非平均律音阶一起使用。另请参阅第 89 页的“移调”。
+转换位置 = 后 MIDI
+
+Knob Mode
+[Scale, Jump]
+When you switch to a new Performance or select a different Layer, Wave Sequence Lane, Effect, Envelope, LFO, etc., the parameter values “underneath” the front-panel knobs will change—but the physical knobs won’t move automatically. Knob Mode controls what happens when you move a knob.
+Scale: This is the default. The physical position of the knob is mapped to the current parameter value. Moving the knob counter-clockwise goes from the current value to the minimum; moving clockwise goes from the current value to the maximum. If you turn the knob all the way to the left or right, the range is reset. See the graphic below.
+Jump: When a knob is moved, the parameter value instantly changes to match the position of the knob.
+Knob Mode set to Scale
+旋钮模式
+[Scale、Jump]
+当您切换到新的 Performance 或选择不同的 Layer、Wave Sequence Lane、Effect、Envelope、LFO 等时，前面板旋钮“下方”的参数值将发生变化 - 但物理旋钮不会自动移动。旋钮模式控制移动旋钮时发生的情况。
+Scale：这是默认设置。旋钮的物理位置映射到当前参数值。逆时针移动旋钮将从当前值变为最小值；顺时针移动将从当前值变为最大值。如果将旋钮一直向左或向右转动，范围将重置。参见下图。
+Jump：移动旋钮时，参数值会立即更改以匹配旋钮的位置。
+旋钮模式设置为Scale
+
+			MIDI CC Assign
+You can control Scale Select and each Mod Knob directly from MIDI CCs. These CCs edit the assigned parameters, just like moving the front-panel knobs. To modulate a parameter with variable intensity, and without causing edits to the sound, use modulation instead. Some dedicated CCs cannot be assigned (CCs 1, 7, etc.).
+Use ENTER + cursor (< or >) to jump forward or back by five parameters at a time.	
+			MIDI CC 分配
+您可以直接从 MIDI CC 控制 Scale Select 和每个 Mod Knob。这些 CC 可以编辑分配的参数，就像移动前面板旋钮一样。要以可变强度调制参数，并且不会导致声音编辑，请改用调制。某些专用 CC 无法分配（CC 1、7 等）。
+使用 ENTER + 光标（< 或 >）一次向前或向后跳转五个参数。
+
+Function Default CC assignment
+Scale Select 9
+Performance Mod Knobs 1…8 24…31
+Layer A Mod Knobs 1…8 80…87
+Layer B Mod Knobs 1…8 88…95
+Layer C Mod Knobs 1…8 102…109
+Layer D Mod Knobs 1-8 110…117
+
+			Global Scale
+Global Scale
+[Off, On]
+On: The settings on this page control the instrument’s scales. Performance scales are ignored.
+Off: The scale settings on this page are ignored.
+Note: If both Global Scale and Performance Scale are Off, the system simply uses equal temperament.
+Active Scale
+[1, 2]
+If Global Scale is On, this chooses which of the two scales below is used. You can control this via MIDI. See also “Octave Selects Scale,” below.
+1 (Scale 1)
+[Arabic, Equal Temperament, Kirnberger, Pelog, Pure Major, Pure Minor, Pythagoras, Slendro, Stretch,
+Werkmeister]
+This selects the first scale to be used. You can load and edit Scales using the Editor/Librarian application for macOS and Windows; for more information, see the Editor/Librarian manual.
+Some of the factory Scales are described below.
+Arabic: This includes the quarter-tone intervals used in Arabic music.
+全局音阶
+全局音阶
+[关闭，打开]
+打开：此页面上的设置控制乐器的音阶。忽略演奏音阶。
+关闭：忽略此页面上的音阶设置。
+注意：如果全局音阶和演奏音阶都关闭，系统将仅使用平均律。
+活动音阶
+[1，2]
+如果全局音阶打开，则选择使用以下两个音阶中的哪一个。您可以通过 MIDI 控制它。另请参阅下面的“八度选择音阶”。
+1（音阶 1）
+[阿拉伯、平均律、Kirnberger、Pelog、纯大调、纯小调、毕达哥拉斯、Slendro、Stretch、
+Werkmeister]
+这将选择要使用的第一个音阶。您可以使用 macOS 和 Windows 的编辑器/库管理器应用程序加载和编辑音阶；有关更多信息，请参阅编辑器/库管理器手册。
+下面介绍了一些出厂音阶。
+阿拉伯语：包括阿拉伯音乐中使用的四分之一音程。
+			
+Pythagoras: Especially effective for melodies, this produces 11 completely pure fifths, at the expense of other intervals—thirds in particular. To maintain the tuning of the octave, the final fifth—from sharp four to sharp root—is also quite flat.
+Werkmeister (Werkmeister III), Kirnberger (Kirnberger III): These are “Well-Tempered” tunings from the Baroque period.
+Pelog: This Indonesian gamelan scale uses seven notes per octave. When Key is set to C, use the white keys. The black keys will play the equal tempered pitches.
+Pure Major, Pure Minor: These are Just Intonations optimized for major and minor keys, respectively. Unlike the other scales, they maintain the A4 tuning (e.g. A=440 Hz) as set by the Global Tune parameter (see “Tune” on page 83).
+Because of this, the root note of the selected Key may shift from its equal-tempered pitch.
+Slendro: This Indonesian gamelan scale has five notes per octave. When Key is set to C, use C, D, F, G and A. Other notes will play the normal equal-tempered pitches.
+Stretch: In this acoustic piano tuning, notes below the middle of the keyboard are progressively more flat, and notes above the middle are progressively more sharp.
+毕达哥拉斯：这对旋律特别有效，它会产生 11 个完全纯五度，而牺牲其他音程（尤其是三度）。为了保持八度的调音，最后的五度（从升四度到升根音）也相当平坦。
+Werkmeister（Werkmeister III）、Kirnberger（Kirnberger III）：这些是巴洛克时期的“平均律”调音。
+Pelog：这种印度尼西亚甘美兰音阶每八度使用七个音符。当调设置为 C 时，使用白键。黑键将演奏平均律音高。
+纯大调、纯小调：这些是分别针对大调和小调优化的纯律。与其他音阶不同，它们保持由全局调音参数设置的 A4 调音（例如 A=440 Hz）（请参阅第 83 页的“调音”）。
+因此，所选调的根音可能会偏离其平均律音高。
+Slendro：这种印尼甘美兰音阶每八度有五个音符。当调设置为 C 时，使用 C、D、F、G 和 A。其他音符将演奏正常的十二平均律音高。
+拉伸：在这种钢琴调音中，键盘中间以下的音符逐渐变平，中间以上的音符逐渐变尖。
+
+(Key)
+[C…B]
+This controls the root key of the Scale. Key applies only if the Scale Type is Octave Scale or Octave Scale, A=Master Tune. If the Type is 128 Note Scale, Key is ignored. For more information, see the Editor/Librarian manual.
+Note: Specific combinations of Scale and Key may skew the reference tuning pitch. For example, A4 might become 442 Hz, instead of 440 Hz. Use Master Tune to correct this, if necessary. Alternatively, when tuning to A, use the Octave Scale, A=Master Tune Scale Type.
+2 (Scale 2)
+(Key)
+These are the second Scale and its associated Key.
+Octave Selects Scale
+[Off, On]
+If this is On, the OCTAVE down button selects Scale 1, and OCTAVE up selects Scale 2 (for either the Global or Performance scale, depending on which is in use). SHIFT+OCTAVE then performs octave up/down functionality.
+The wavestate module does not have front-panel OCTAVE buttons.
+Transpose
+[Transposes Scale, Within Scale]
+This parameter determines how the Performance and Program Transpose parameters interact with the Scale and Key.
+Within Scale means that transposition uses intervals within the current scale. This option works well if you are using non-equal-tempered scales and want to build parallel intervals (such as “fat fifths”) into your sounds. For example, let’s say that you are using Just Intonation in the key of C. If you transpose one of the Programs up by 7 semitones and play a C, the result will be two notes: C, and G 2 cents sharp (the Just Intonation fifth).
+Transposes Scale means that the Scale’s Key changes to match the transposition. This option is useful if you play in non-equal-tempered scales and transpose entire songs—to accommodate singers, for example. In other words, let’s say that the Key is set to C, and the third note of the scale (E) is 50 cents flat. If you transpose up by 2 semitones, and play an E, the result will be an F# 50 cents flat—still the third note of the scale. For this application, it’s also best to set the Convert Position to Post-MIDI; for more information, see “Chan+Poly: The mod source “Aftertouch” receives both Channel and Poly Aftertouch. If both are sent simultaneously, the most recent value is used.” on page 86.
+（调）
+[C…B]
+这控制音阶的根调。仅当音阶类型为八度音阶或八度音阶，A=主调时，调才适用。如果类型为 128 音符音阶，则忽略调。有关更多信息，请参阅编辑器/库管理器手册。
+注意：音阶和调的特定组合可能会扭曲参考调音音高。例如，A4 可能会变成 442 Hz，而不是 440 Hz。如有必要，请使用主调音来纠正此问题。或者，当调到 A 时，使用八度音阶，A=主调音阶类型。
+2（音阶 2）
+（调）
+这些是第二个音阶及其关联的调。
+八度选择音阶
+[关闭，打开]
+如果打开，则向下按 OCTAVE 按钮选择音阶 1，向上按 OCTAVE 按钮选择音阶 2（对于全局或性能音阶，取决于正在使用哪个）。然后按 SHIFT+OCTAVE 执行八度上/下功能。
+波形模块没有前面板 OCTAVE 按钮。
+移调
+[移调音阶，音阶内]
+此参数确定性能和程序移调参数如何与音阶和调性交互。
+音阶内表示移调使用当前音阶内的音程。如果您使用非平均律音阶并希望在声音中构建平行音程（例如“胖五度”），则此选项效果很好。例如，假设您在 C 调中使用纯律。如果您将其中一个程序向上移调 7 个半音并弹奏 C，结果将是两个音符：C 和 G 2 音分升调（纯律五度）。
+移调音阶意味着音阶的调性会发生变化以匹配移调。如果您演奏非平均律音阶并移调整首歌曲（例如，为了适应歌手），此选项非常有用。换句话说，假设将调设置为 C，音阶的第三个音符（E）为 50 音分。如果您将调调高 2 个半音，并演奏 E，结果将是 F# 50 音分降调 - 仍然是音阶的第三个音符。对于此应用程序，最好将转换位置设置为 Post-MIDI；有关更多信息，请参阅第 86 页上的“Chan+Poly：调制源“Aftertouch”接收 Channel 和 Poly Aftertouch。如果两者同时发送，则使用最新的值。”。
+
+			Preferences
+Auto Power-Off
+[Disabled, 4 Hours]
+By default, to conserve energy, the wavestate will automatically turn off after about four hours have elapsed without use of the front panel, keyboard, or MIDI input, and without being connected to the Editor/Librarian. You can disable this feature, if desired.
+When the power turns off, any un-saved edits or settings will be lost. Make sure that you save important settings before this occurs.
+Display Brightness
+[0…100]
+This controls the brightness of the OLED display.
+SST Hold Time
+[0 ms…60 sec]
+This controls the duration of Smooth Sound Transitions. It sets how long reverbs, delays, and note releases continue to ring out after a new sound has been selected. The timer starts after all notes from the previous sound are no longer being held down, and the sustain pedal is released.
+Memory Protect
+[Off, On]
+When this is On, Write functionality is disabled.
+Set List A1 at Power On
+[Off, On]
+Off: At power-up, the last-used sound will be selected.
+On: At power-up, Set List Slot A1 will be selected.			
+首选项
+自动关机
+[已禁用，4 小时]
+默认情况下，为了节省能源，在未使用前面板、键盘或 MIDI 输入且未连接到编辑器/库管理器的情况下，波形状态将在大约四小时后自动关闭。您可以根据需要禁用此功能。
+电源关闭时，任何未保存的编辑或设置都将丢失。请确保在发生这种情况之前保存重要设置。
+显示亮度
+[0…100]
+这控制 OLED 显示屏的亮度。
+SST 保持时间
+[0 毫秒…60 秒]
+这控制平滑声音过渡的持续时间。它设置在选择新声音后混响、延迟和音符释放继续响起的时间。在不再按住前一个声音的所有音符并释放延音踏板后，计时器启动。
+内存保护
+[关闭，打开]
+当打开时，写入功能被禁用。
+开机时设置列表 A1
+[关闭，打开]
+关闭：开机时，将选择上次使用的声音。
+打开：开机时，将选择设置列表插槽 A1。
+
+			System Stats
+This page provides diagnostic information for the system.
+CPU Usage
+[0.00…100.00%]
+This shows the percentage of available processing power being used for voices and effects.
+Temperature
+[°C]
+This shows the CPU’s temperature.
+Sounding Voices
+[wavestate: 0…64; wavestate mkII: 0…96; wavestate SE and module: 0…120]
+This shows the number of voices currently being played. Wave Sequences use two voices per note, so if all four Layers are active, a single note may trigger up to 8 voices.			
+系统统计
+此页面提供系统诊断信息。
+CPU 使用率
+[0.00…100.00%]
+显示用于语音和效果的可用处理能力百分比。
+温度
+[°C]
+显示 CPU 的温度。
+发声语音
+[wavestate：0…64；wavestate mkII：0…96；wavestate SE 和模块：0…120]
+显示当前正在播放的语音数量。波形序列每个音符使用两个语音，因此如果所有四个层都处于活动状态，则单个音符可能会触发最多 8 个语音。
+
+Voice Stealing
+[wavestate: 0…64; wavestate mkII: 0…96; wavestate SE and module: 0…120]
+Sometimes, if a lot of voices are already sounding, there won’t be enough free power to play a new voice. When this happens, the system stops older or lower-priority voices so that the CPU can be used for the new voice instead. This is called “voice stealing.” This shows the amount of voice stealing, in real time.
+Available Storage
+[size in MB/GB]
+This shows the amount of free space available for storing sound data, including user samples and Performances, Programs, etc.
+
+语音窃取
+[wavestate：0…64；wavestate mkII：0…96；wavestate SE 和 module：0…120]
+有时，如果已经有很多语音在播放，则没有足够的空闲电量来播放新语音。发生这种情况时，系统会停止较旧或优先级较低的语音，以便 CPU 可以用于新语音。这称为“语音窃取”。这会实时显示语音窃取量。
+可用存储
+[大小（MB/GB）]
+这会显示可用于存储声音数据（包括用户样本和表演、程序等）的空闲空间量。
+
+			About
+This page shows the software version number and abbreviated credits. The wavestate is the result of a team effort, built through the talents of many more people than can be listed on-screen!
+			关于
+此页面显示软件版本号和缩写的致谢。wavestate 是团队努力的成果，凝聚了更多人的才华，屏幕上无法一一列举！
+
+########################################
+				USB
+You can connect the wavestate to computers via USB to send and receive MIDI, edit and organize sound data with the wavestate Editor/Librarian, and edit and organize sample data with the Korg Sample Builder.				
+您可以通过 USB 将 wavestate 连接到计算机以发送和接收 MIDI，使用 wavestate 编辑器/库管理器编辑和组织声音数据，以及使用 Korg Sample Builder 编辑和组织样本数据。
+
+			MIDI
+The wavestate is a class-compliant USB MIDI device, and requires no driver for MIDI functionality.			
+				
+			Editor/Librarian and Korg Sample Builder
+The wavestate Editor Librarian and Korg Sample Builder applications support macOS and Windows, and are available as downloads from www.korg.com. For more information, please see the documentation included with the applications.			
+			MIDI
+wavestate 是符合类标准的 USB MIDI 设备，无需驱动程序即可实现 MIDI 功能。
+编辑器/库管理器和 Korg 样本生成器
+wavestate 编辑器库管理器和 Korg 样本生成器应用程序支持 macOS 和 Windows，可从 www.korg.com 下载。有关更多信息，请参阅应用程序附带的文档。			
+
+##################################################
+				Specifications
+System
+Keyboard:
+wavestate and wavestate mkII: 37 keys, velocity and release-velocity sensitive
+wavestate SE: 61 keys, Natural Touch keyboard, velocity and release-velocity sensitive, with aftertouch
+Maximum Polyphony:
+wavestate: 64 stereo voices
+wavestate mkII: 96 stereo voices
+wavestate SE and wavestate module: 120 stereo voices
+Sound generating system: Wave Sequencing 2.0
+Modulation
+Controllers: Mod Wheel, Pitch Wheel, Vector Joystick, 8x Mod Knobs
+Other Sources: 3x ADSR Envelopes, Vector Envelope, 4x LFOs, 2x Mod Processors, 2x Key Track, Step Seq Lane, Step
+Pulse, Tempo, Program/Performance Note Count, Program/Performance Voice Count, Poly Legato, Velocity,
+Exponential Velocity, Release Velocity, Gate, Gate+Damper, Note-On Trigger, Note-On Trigger+Damper, Note
+Number, Aftertouch (wavestate: external MIDI only), Poly Aftertouch (external MIDI only), MIDI CCs +/-,
+MIDI CCs +
+Destinations: Most parameters can be modulated, including parameters of individual Wave Sequence Steps.
+Depending on Wave Sequence length, there can be more than 1,000 potential modulation targets per Program.
+Effects
+Pre FX: Decimator, Graphic EQ, Guitar Amp, Modern Compressor, Parametric EQ, Red Compressor, Ring
+Modulator, Tremolo, Wave Shaper
+Mod FX: Black Chorus/Flanger, Black Phase, CX-3 Vibrato Chorus, EP Chorus, Harmonic Chorus, Modern Chorus,
+Modern Phaser, Orange Phase, Orange Phase V2, Polysix Ensemble, Small Phase, Talking Modulator, Vintage Chorus,
+Vintage Flanger, Vintage/Custom Wah, Vox Wah
+Delay: L/C/R Delay, Multiband Mod Delay, Reverse Delay, Stereo/Cross Delay, Tape Echo
+Master Reverb: Early Reflections, Overb
+Master EQ: 4-band parametric EQ
+General
+Inputs/outputs: Headphone (6.3 mm stereo phone jack), OUTPUT L/MONO and R (impedance-balanced 6.3 mm
+TRS phone jacks), DAMPER (6.3 mm phone jack, half-damper not supported), MIDI IN and OUT connectors,
+USB B port
+Power supply: AC adapter (DC12V, 2500mA)
+Power consumption: 5 W
+Dimensions (W × D × H):
+wavestate and wavestate mkII: 565 × 338 × 92 mm/22.24” × 13.31” × 3.62”
+wavestate SE: 1,014 × 344 × 110 mm/39.92” × 13.54” × 4.33”
+wavestate module: 483 × 172 × 113 mm/19.02” × 6.77” × 4.45”
+Weight: wavestate and wavestate mkII: 2.9 kg/6.93 lb; wavestate SE: 8.6 kg/18.96 lb; wavestate module: 1.7 kg/3.75 lb
+Included items: AC adapter, Precautions, Quick Start Guide
+Accessories (sold separately): DS-1H damper pedal, PS-1 pedal switch, PS-3 pedal switch
+* Specifications and appearance are subject to change without notice.
+*All product names and company names are the trademarks or registered trademarks of their respective owners.					
+				规格
+系统
+键盘：
+wavestate 和 wavestate mkII：37 键，力度和释放力度敏感
+wavestate SE：61 键，自然触感键盘，力度和释放力度敏感，带触后
+最大复音数：
+wavestate：64 个立体声
+wavestate mkII：96 个立体声
+wavestate SE 和 wavestate module：120 个立体声
+声音生成系统：波形排序 2.0
+调制
+控制器：调制轮、音高轮、矢量操纵杆、8 个调制旋钮
+其他来源：3 个 ADSR 包络、矢量包络、4 个 LFO、2 个调制处理器、2 个键轨、步进序列通道、步进脉冲、节奏、程序/演奏音符数、程序/演奏声音数、复音连奏、力度、指数力度、释放力度、门限、门限+阻尼器、音符开启触发器、音符开启触发器+阻尼器、音符
+编号、触后（波形状态：仅限外部 MIDI）、复音触后（仅限外部 MIDI）、MIDI CC +/-、
+MIDI CC +
+目的地：大多数参数都可以调制，包括单个波形序列步骤的参数。
+根据波形序列长度，每个程序可能有超过 1,000 个潜在调制目标。
+效果
+前置 FX：抽取器、图形均衡器、吉他放大器、现代压缩器、参数均衡器、红色压缩器、环形
+调制器、颤音、波形整形器
+调制 FX：黑色合唱/镶边、黑色相位、CX-3 颤音合唱、EP 合唱、和声合唱、现代合唱、
+现代移相器、橙色相位、橙色相位 V2、Polysix 合奏、小相位、对话调制器、复古合唱、
+复古镶边、复古/自定义哇音、Vox 哇音
+延迟：L/C/R 延迟、多频带调制延迟、反向延迟、立体声/交叉延迟、磁带回声
+主混响：早期反射、Overb
+主均衡器：4 频带参数均衡器
+通用
+输入/输出：耳机（6.3 毫米立体声电话插孔）、输出 L/MONO 和 R（阻抗平衡 6.3 毫米
+TRS耳机插孔）、阻尼器（6.3 毫米耳机插孔，不支持半阻尼器）、MIDI 输入和输出连接器、
+USB B 端口
+电源：交流适配器（DC12V，2500mA）
+功耗：5 W
+尺寸（宽 × 深 × 高）：
+wavestate 和 wavestate mkII：565 × 338 × 92 毫米/22.24 英寸 × 13.31 英寸 × 3.62 英寸
+wavestate SE：1,014 × 344 × 110 毫米/39.92 英寸 × 13.54 英寸 × 4.33 英寸
+wavestate 模块：483 × 172 × 113 毫米/19.02 英寸 × 6.77 英寸 × 4.45 英寸
+重量：wavestate 和 wavestate mkII：2.9 千克/6.93 磅； wavestate SE：8.6 千克/18.96 磅；wavestate 模块：1.7 千克/3.75 磅
+包含的物品：交流适配器、注意事项、快速入门指南
+配件（单独出售）：DS-1H 制音踏板、PS-1 踏板开关、PS-3 踏板开关
+* 规格和外观如有变更，恕不另行通知。
+* 所有产品名称和公司名称均为其各自所有者的商标或注册商标。
+
+###################################################
+				MIDI implementation chart
+Function Recognized Transmitted Remarks
+Basic
+Channel
+Default
+Changed
+Default
+Messages
+Altered
+Mode
+Note
+Number
+True Voice
+Velocity
+Note On
+Note Off
+After
+Touch
+Polyphonic (Key)
+Channel
+Pitch Bend
+Control
+Change
+Program
+Change
+True Number
+System Exclusive
+System
+Common
+Song Position
+Song Select
+Tune Request
+Date: October 20, 2021
+Version: 2.00
+1
+7
+10
+11
+16, 17
+64
+66
+67
+2-6, 8-9, 12-31, 32-63, 65, 67-95, 102-119
+120, 121
+1–16
+1–16
+X
+**************
+0–127
+**************
+O 9n, V=1–127
+O 8n, V=1–64
+X
+O
+1–16
+3
+X
+0–127
+0–127
+O 9n, V=1–127
+O 8n, V=0–127
+O
+O
+O O
+1–16
+O
+X
+X
+X
+O
+O
+X
+X
+O
+X
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O 1–64
+**************
+X
+X
+X
+O
+X
+O
+X
+X
+X
+O 1–64
+O
+X
+X
+X
+O
+X
+X
+O 123–127
+O
+X
+O *2
+0–63
+System
+Real Time
+Clock
+Commands
+Aux
+Messages
+Local On/Off
+All Notes Off
+Active Sense
+System Reset
+Notes
+Mode 1: Omni On, Poly
+Mode 3: Omni Off, Poly
+Mode 2: Omni On, Mono
+Mode 4: Omni Off, Mono
+O: Yes
+X: No
+Consult your local Korg distributor for more information on the MIDI implementation.
+
+功能识别传输备注
+基本
+频道
+默认
+更改
+默认
+消息
+更改
+模式
+音符
+编号
+真实语音
+速度
+音符打开
+音符关闭
+触摸后
+复音（键）
+频道
+音高弯曲
+控制
+更改
+程序
+更改
+真实编号
+系统独有
+系统
+通用
+歌曲位置
+歌曲选择
+曲调请求
+日期：2021 年 10 月 20 日
+版本：2.00
+1
+7
+10
+11
+16, 17
+64
+66
+67
+2-6, 8-9, 12-31, 32-63, 65, 67-95, 102-119
+120, 121
+1–16
+1–16
+X
+**************
+0–127
+**************
+O 9n， V=1–127
+O 8n，V=1–64
+X
+O
+1–16
+3
+X
+0–127
+0–127
+O 9n，V=1–127
+O 8n，V=0–127
+O
+O
+O
+1–16
+O
+X
+X
+O
+O
+X
+X
+O
+X
+O
+X
+O
+X
+O
+O
+O
+O
+O
+O
+O
+O
+O 1–64
+**************
+X
+X
+X
+O
+X
+O
+X
+X
+X
+O 1–64
+O
+X
+X
+X
+O
+X
+X
+O 123–127
+O
+X
+O *2
+0–63
+系统
+实时
+时钟
+命令
+辅助
+信息
+本地开/关
+所有注释关闭
+主动感应
+系统重置
+注释
+模式 1：全向开启，多音色
+模式 3：全音色关闭，多音色
+模式 2：全音色开启，单音色
+模式 4：全音色关闭，单音色
+O：是
+X：否
+有关 MIDI 实施的更多信息，请咨询您当地的 Korg 经销商。
+				
