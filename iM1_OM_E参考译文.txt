@@ -1,0 +1,818 @@
+
+
+Introduction
+Thank you for purchasing the iM1 for iPad. To fully enjoy your iM1 software synthesizer, please read this owner’s manual carefully and keep it handy for future reference. Always use this product only as directed.
+简介
+感谢您购买 iM1 for iPad。为了充分享受您的 iM1 软件合成器，请仔细阅读本用户手册并将其放在手边以供将来参考。务必按说明使用本产品。
+
+Main Features
+One of the best-selling synthesizers in history, the Korg M1 defined the Workstation category for years to come. First introduced in 1988, this enormously successful PCM synthe- sizer was appreciated for its distinctive sonic character. With the iM1 for iPad, Korg has resurrected the legendary M1 as an up-to-date software synthesizer containing all of the orig- inal sounds, plus all-new sounds and new features as well.
+
+主要特点
+Korg M1 是历史上最畅销的合成器之一，它定义了未来几年的工作站类别。这款 PCM 合成器于 1988 年首次推出，取得了巨大成功，因其独特的声音特性而广受好评。借助适用于 iPad 的 iM1，Korg 将传奇的 M1 复活为一款最新的软件合成器，它包含所有原始声音以及全新的声音和新功能。
+
+Over 2,700 Preset Sounds
+As a workstation, the original M1 contained the vast selection of sounds needed to create an entire song-without the need for additional equipment.
+超过 2,700 种预设音色
+作为工作站，原始 M1 包含创作整首歌曲所需的大量音色，无需额外设备。
+
+The iM1 for iPad contains all of the original sounds of the M1EX with its expanded internal PCM, plus all of the PCM data, Program data, and Combination data included in the 19 optional ROM cards, as well as the sound data of the Korg T1. (Some of this content requires a separate purchase.) A new "Best Program Card" that collects legendary M1 sounds is also featured. The iM1 for iPad contains all of the instrument, drum, and synthesizer PCM and Program data required for today's song-production, providing a staggering total of more than 2,700 preset sounds.
+iPad 版 iM1 包含 M1EX 的所有原始音色及其扩展的内部 PCM，以及 19 个可选 ROM 卡中包含的所有 PCM 数据、程序数据和组合数据，以及 Korg T1 的声音数据。（部分内容需要单独购买。）还提供了一张新的“最佳程序卡”，其中收集了传奇的 M1 音色。iPad 版 iM1 包含当今歌曲制作所需的所有乐器、鼓和合成器 PCM 和程序数据，总共提供超过 2,700 种预设音色。
+
+Easy-to-Use Interface
+The iM1 for iPad interface has been designed to ensure maximum ease of use. The new Browser feature can quickly search for sounds by instrument type or tonal character, finding the right sound instantly-before your inspiration escapes!
+Once the sound has been selected, it can be easily edited and customized using either the Easy page or the Performance page.
+易于使用的界面
+iM1 for iPad 界面的设计确保了最大程度的易用性。新的浏览器功能可以按乐器类型或音调特征快速搜索声音，在您的灵感消失之前立即找到合适的声音！
+一旦选择了声音，就可以使用 Easy 页面或 Performance 页面轻松编辑和自定义它。
+
+New Features for Enhanced Performance
+The iM1 for iPad adds many new features that were wished-for by users of the original M1. New to the iM1 are Filter resonance, VDA modulation, and compressor effects. The two effects processors of the original M1 have been replaced by Two Insert effects for each Timbre (Track) and two Master effects, providing for richer sound creation. In addition, the all-new Multi mode allows the iM1 for iPad as to be used as an eight-part multi-timbral sound module.
+增强性能的新功能
+iPad 版 iM1 增加了许多原版 M1 用户所期望的新功能。iM1 的新功能包括滤波器共振、VDA 调制和压缩器效果。原版 M1 的两个效果处理器已被两个用于每个音色（音轨）的插入效果和两个主效果所取代，从而提供更丰富的声音创作。此外，全新的多模式允许 iPad 版 iM1 用作八声部多音色声音模块。
+
+iM1 Modes and Structure
+The iM1 for iPad loads the Program data independently for each mode; Programs within each mode can be edited with- out affecting the other modes.
+iM1 模式和结构
+iPad 版 iM1 会为每种模式独立加载程序数据；每种模式中的程序都可以编辑，而不会影响其他模式。
+
+Combination (Combi) mode
+In this mode, the sound consists of eight Timbres; each Timbre is individually assigned to its own Program.
+组合 (Combi) 模式
+在此模式下，声音由八种音色组成；每种音色都单独分配给自己的程序。
+
+图略
+
+Each Combination contains the following parameters:
+• Individual parameters for each Timbre, such as the output level, pan, and Insert effect on/off settings.
+• MIDI-related parameters for each Timbre.
+• Master effect parameters.
+• Sound-creation parameters for each Program.
+Combinations can be selected from the 32 preset cards and from the new Combinations (the KLC PRESET card). Combination that you have tweaked, edited, or created from scratch can be saved to any of the six User cards. Each User card can hold 50 Combinations, for a total of 300 User Combinations. In addition, the iM1 provides four user cards that are saved in the session, and two library cards that are stored within iM1 itself.
+每个组合包含以下参数：
+• 每个音色的单独参数，例如输出电平、声像和插入效果开/关设置。
+• 每个音色的 MIDI 相关参数。
+• 主效果参数。
+• 每个程序的声音创建参数。
+可以从 32 个预设卡和新组合（KLC PRESET 卡）中选择组合。您调整、编辑或从头开始创建的组合可以保存到六张用户卡中的任何一张。每张用户卡可以容纳 50 个组合，总共 300 个用户组合。此外，iM1 提供四张保存在会话中的用户卡和两张存储在 iM1 本身内的库卡。
+
+Multi mode
+In this mode, the iM1 for iPad can be used as an eight-part multi-timbral sound module.
+多模式
+在此模式下，iPad 版 iM1 可用作八声部多音色声音模块。
+
+Multi mode and Combination mode are structured almost
+identically, but have the following differences.
+• Default MIDI channel setting for each track (track 1 is channel 1, track 2 is channel 2, …)
+• In Multi mode, the master effects are used as send effects.
+The send levels, return levels, and return destinations will determine how the signal is routed. If you lower the send levels to 0, the signals from the insert effects will be output directly, bypassing the master effects. If you raise the send levels, the direct sound will be mixed with the signals from the master effects and then output.
+多音模式和组合模式的结构几乎相同，但有以下区别。
+• 每个音轨的默认 MIDI 通道设置（音轨 1 为通道 1，音轨 2 为通道 2，……）
+• 在多音模式下，主效果用作发送效果。
+发送级别、返回级别和返回目的地将决定信号的路由方式。如果将发送级别降低到 0，则插入效果的信号将直接输出，绕过主效果。如果提高发送级别，则直接声音将与主效果的信号混合，然后输出。
+
+Except for the points listed above, Combination mode and Multi mode have the same structure. You can use Combina- tion mode as a multi-timbral sound module, or use Multi mode to create a single sound just like a combination.
+除了上面列出的几点外，组合模式和多重模式具有相同的结构。您可以将组合模式用作多音色声音模块，或使用多重模式创建像组合一样的单一声音。
+
+Program mode
+This mode is used to play and edit individual Programs.
+程序模式
+此模式用于演奏和编辑单个程序。
+
+Programs can be selected from the 32 preset cards and from the new KLC PRESET card and iM1 Special card. Programs that you have tweaked, edited, or created from scratch can be saved to any of the six User cards. Each User card can hold 50 Programs, for a total of 300 user Programs.
+可以从 32 个预设卡以及新的 KLC PRESET 卡和 iM1 特殊卡中选择程序。您调整、编辑或从头创建的程序可以保存到六张用户卡中的任何一张。每张用户卡可以容纳 50 个程序，总共 300 个用户程序。
+
+Each Program uses one of the three oscillator modes: Single, Double, or Drums.
+每个程序使用三种振荡器模式之一：单振荡器、双振荡器或鼓振荡器。
+
+Single
+Single Programs use a single oscillator. The oscillator consists of the OSC, VDF, VDA, and Insert FX sections. The multisounds available for use by the oscillator can be selected from the 16 preset cards.
+单路
+单路程序使用单一振荡器。振荡器由 OSC、VDF、VDA 和 Insert FX 部分组成。振荡器可用的多音效可从 16 个预设卡中选择。
+
+Double
+Double Programs use two oscillators. Each oscillator consists of the OSC, VDF, and VDA sections. The combined output of the oscillators is routed to the Insert FX.
+双路
+双路程序使用两个振荡器。每个振荡器由 OSC、VDF 和 VDA 部分组成。振荡器的组合输出被路由到 Insert FX。
+
+Drums
+Drum Programs use a Drum Kit as the oscillator. The Drum Kit oscillator consists of an OSC, VDF, VDA, and the Insert FX.
+鼓
+鼓程序使用鼓组作为振荡器。鼓组振荡器由 OSC、VDF、VDA 和 Insert FX 组成。
+
+On the original M1, the SETTINGS mode was used to edit a Drum Kit. The iM1 for iPad now allows the Drum Kit parameters to be part of the Program.
+在原版 M1 上，SETTINGS 模式用于编辑鼓组。iPad 版 iM1 现在允许将鼓组参数作为程序的一部分。
+
+Drum Kits can be selected from 21 of the preset cards, and from the new KLC PRESET card. Drum Kits that you have tweaked, edited, or created from scratch can be saved to any of the four User cards (2 User cards; 2 Library cards). Each User card can hold 20 Drum Kits, for a total of 80 User Drum Kits.
+鼓组可以从 21 个预设卡和新的 KLC PRESET 卡中选择。您调整、编辑或从头创建的鼓组可以保存到四张用户卡中的任何一张（2 张用户卡；2 张库卡）。每张用户卡可容纳 20 个鼓组，总共 80 个用户鼓组。
+
+SETTINGS mode
+This mode is used to access and adjust parameters that affect the entire iM1 for iPad operation, such as Master Tune, Transpose, Global MIDI Channel, MIDI Filter, and User Scale.(Refer to "SETTINGS mode" on page 56)
+设置模式
+此模式用于访问和调整影响整个 iM1 for iPad 操作的参数，例如主调音、移调、全局 MIDI 通道、MIDI 滤波器和用户音阶。（请参阅第 56 页的“设置模式”）
+
+
+#######################################
+				On-Screen Controls
+
+1. SETTINGS button
+Refer to "SETTINGS mode" on page 56
+
+2. INFO button
+Pressing the INFO button will display the version number of the iM1 for iPad, plus additional instructions on how to use it.
+Manual: Displays this Owner's Manual.
+FAQ: Displays the KORG App Help Center.
+You’ll need an Internet connection in order to view the operating manual or the KORG App Help Center.
+
+3. FILE button
+The FILE button is used to save and load iM1 for iPad file data, or to import system exclusive data.
+Click the FILE button and select an option from the menu that appears:
+(Refer to "Writing to internal memory" on page 59)
+
+4. Combi/Prog Name
+This area of the screen displays the name of the currently selected Program or Combination. To switch to a different Combination or Program, simply tap the name (Refer to "The Browser" on page 14).
+
+5. Mode Select switches
+Press one of these buttons to select the appropriate mode:
+COMBI: Selects Combination mode.
+Refer to "Combination mode" on page 18
+MULTI: Selects Multi mode.
+Refer to "Multi mode" on page 47
+PROG: Selects Program mode.
+Refer to "Program mode" on page 53
+
+6. Page Select switches
+These buttons are used to select the edit pages available in each mode. The editing area (described below in section 7.) located below this row of buttons displays the parameters available in the selected edit page.
+TIMBERS: Press this button to display the TIMBRE page.
+Refer to "Timbre Parameters" on page 19 PERFORMANCE: Press this button to display the PERFOR- MANCE page.
+Refer to "PERFORMANCE page" on page 21 MIDI: Press this button to display the MIDI page.
+Refer to "MIDI page" on page 23 MASTER FX: Press this button to display the MASTER FX page.
+Refer to "MASTER FX page" on page 25 EASY: Press this button to display the EASY edit page.
+Refer to "EASY page" on page 28
+OSC: Press this button to display the OSC page.
+Refer to "OSC page" on page 31
+VDF: Press this button to display the VDF page.
+Refer to "VDF page" on page 36
+VDA: Press this button to display the VDA page.
+Refer to "VDA page" on page 39
+CONTROL: Press this button to display the CONTROL page.
+Refer to "CONTROL page" on page 41
+INSERT FX: Press this button to display the INSERT FX page.
+Refer to "INSERT FX page" on page 44
+
+7. Editing area
+The items and parameters available for editing in this area will vary depending on the current Mode and the Page selected. Tap on a controller or a parameter to select it; now the value of the selected item can be edited.
+
+屏幕控制
+
+1. 设置按钮
+请参阅第 56 页上的“设置模式”
+
+2. 信息按钮
+按下信息按钮将显示 iM1 for iPad 的版本号，以及有关如何使用它的其他说明。
+手册：显示此用户手册。
+常见问题：显示 KORG 应用程序帮助中心。
+您需要互联网连接才能查看操作手册或 KORG 应用程序帮助中心。
+
+3. 文件按钮
+文件按钮用于保存和加载 iM1 for iPad 文件数据，或导入系统独有数据。
+单击文件按钮并从出现的菜单中选择一个选项：
+（请参阅第 59 页上的“写入内部存储器”）
+
+4. 组合/程序名称
+屏幕的此区域显示当前选定程序或组合的名称。要切换到不同的组合或程序，只需点击名称（请参阅第 14 页的“浏览器”）。
+
+5. 模式选择开关
+按下以下按钮之一以选择适当的模式：
+COMBI：选择组合模式。
+请参阅第 18 页的“组合模式”
+MULTI：选择多模式。
+请参阅第 47 页的“多模式”
+PROG：选择程序模式。
+请参阅第 53 页的“程序模式”
+
+6. 页面选择开关
+这些按钮用于选择每种模式下可用的编辑页面。位于此行按钮下方的编辑区域（第 7 节中所述）显示所选编辑页面中可用的参数。
+TIMBERS：按下此按钮可显示 TIMBRE 页面。请参阅第 19 页的“音色参数” 
+PERFORMANCE：按下此按钮可显示 PERFORM- MANCE 页面。请参阅第 21 页的“PERFORMANCE 页面” 
+MIDI：按下此按钮可显示 MIDI 页面。请参阅第 23 页的“MIDI 页面” 
+MASTER FX：按下此按钮可显示 MASTER FX 页面。请参阅第 25 页的“MASTER FX 页面” 
+EASY：按下此按钮可显示 EASY 编辑页面。请参阅第 28 页的“EASY 页面”
+OSC：按下此按钮可显示 OSC 页面。请参阅第 31 页的“OSC 页面”
+VDF：按下此按钮可显示 VDF 页面。请参阅第 36 页的“VDF 页面”
+VDA：按下此按钮可显示 VDA 页面。请参阅第 39 页的“VDA 页面”
+CONTROL：按下此按钮可显示 CONTROL 页面。请参阅第 41 页的“CONTROL 页面”
+INSERT FX：按下此按钮可显示 INSERT FX 页面。请参阅第 44 页的“INSERT FX 页面”
+
+7. 编辑区域
+此区域中可供编辑的项目和参数将根据当前模式和所选页面而有所不同。点击控制器或参数以选择它；现在可以编辑所选项目的值。
+
+Parameters
+Tap a value to select it; choose a new value from the popup menu that appears.
+
+Knobs
+Select a knob and drag up or down to adjust the value.
+Flick the knob to change the value in single steps.
+
+Value bars, Zone bars
+Drag the bar left or right to adjust the value.
+
+Switches
+Tap the value to switch the setting.
+
+Slide switches
+Select the switch setting by tapping the appropriate value.
+
+Graphical envelopes
+Drag a point to adjust its value.
+If multiple points overlap, use the Point Select switch to choose the point to be edited.
+If the oscillator mode is Double, the Point Select switch function will apply to the EG that is designated by the EG SELECT setting in the EASY page.
+
+Graphical filters
+Drag a point to adjust its value.
+
+8. Controllers
+Use the buttons provided to select either a Keyboard or a Kaoss pad controller
+
+Keyboard
+Tap the keyboard to play notes. Notes are sounded by Tracks that have the same MIDI channel as the currently selected Track. Drag across the keyboard to play a glissando. Select either the full-size keyboard-providing a chromatic scale (FULL SIZE), or a Gadget keyboard that displays a different number of keys depending on the scale setting.
+
+FULL SIZE Keyboard Buttons Pitch Bend wheel: The Bend wheel allows the performer to momentarily increase or decrease the overall pitch of the iM1.
+
+Modulation wheel: The MG wheel (Modulation Generator) is often used to add varying amounts of pitch modulation (Vibrato), but can also be used to control many other modula- tion parameters in an expressive manner.
+
+OCTAVE -: Shifts the overall pitch of the keyboard down by one octave.
+
+OCTAVE +: Shifts the overall pitch of the keyboard up by one octave.
+CLOSE: Closes the full size keyboard, and switches to the Gadget keyboard.
+KAOSS PAD: Switches to the Kaosspads.
+Gadget Keyboard Buttons
+CHORD: When lit, enables the playing of chords.
+SCALE: Used to select the scale.
+OCTAVE -: Shifts the overall pitch of the keyboard down by one octave.
+OCTAVE +: Shifts the overall pitch of the keyboard up by one octave.
+KEYBOARD: Switches to the full-size keyboard.
+KAOSS PAD: Switches to the Kaosspads.
+
+Kaoss pads
+In place of the keyboard, the iM1 can instead provide two Korg Kaoss pads as the control surface. By dragging across the Kaoss pad surface, you can play sounds and control mul-tiple parameters at once-those assigned to the X-axis (horizontal motion) and those assigned to the Y-axis (vertical motion). Although the two Kaoss pads look nearly identical, their functions are different. The left-hand pad (Kaoss Pad L) offers assignable parameters. The right-hand pad (Kaoss Pad R) is set to control the pitch and the inversion type when playing chords.
+KEYBOARD: Switches to the full-size keyboard.
+CLOSE: This button will close the Keyboard or Kaoss Pad control window.
+HOLD: If this is on, the state controlled by the left-hand pad is maintained even after you release your finger.
+KAOSS PAD L: This Kaoss Pad will control the parameters that have been assigned to the X and Y axes.
+Use the MODE button to choose the parameters that will be controlled.
+MODE: These buttons select which parameters will be con-
+trolled by Kaoss Pad L
+• OSC:Use this button to choose an Oscillator parameter to be controlled.
+• FILTER: Use this button to choose a Filter parameter to be controlled.
+• EFFECTS: Use this button to choose an Effect parameter to be controlled.
+
+KAOSS PAD R: This Kaoss pad is dedicated to controlling the note. Dragging along the X-axis changes the pitch based on the the key and scale that are specified by using the SCALE button. Dragging along the Y-axis changes the inver- sion when playing chords. This feature has no effect if the VOICES parameter is set to Mono.
+SCALE: Tap here to specify the musical Key (root note) and
+Scale that will determine what notes are when using the Kaoss pad.
+VOICES: Use these buttons to choose the number of notes being played.
+• MONO: Only single notes are played.
+• 2POLY: Two-note chords are produced; the chord inversion is controlled by the Y-Axis
+• 3POLY: Three-note chords are produced; the chord inversion is controlled by the Y-Axis
+• 4POLY: Four-note chords are produced; the chord inversion is controlled by the Y-Axis.
+参数
+点击一个值以选择它；从出现的弹出菜单中选择一个新值。
+
+旋钮
+选择一个旋钮并向上或向下拖动以调整值。
+
+轻滑旋钮以单步更改值。
+
+值栏，区域栏
+向左或向右拖动栏以调整值。
+
+开关
+点击值以切换设置。
+
+滑动开关
+通过点击适当的值来选择开关设置。
+
+图形包络
+拖动一个点以调整其值。
+
+如果多个点重叠，请使用点选择开关选择要编辑的点。
+
+如果振荡器模式为 Double，则点选择开关功能将应用于 EASY 页面中 EG SELECT 设置指定的 EG。
+
+图形滤波器
+拖动一个点以调整其值。
+
+8. 控制器
+使用提供的按钮选择键盘或 Kaoss 打击垫控制器
+
+键盘
+点击键盘弹奏音符。音符由与当前选定音轨具有相同 MIDI 通道的音轨发出。在键盘上拖动可演奏滑音。选择提供半音阶的全尺寸键盘（全尺寸）或根据音阶设置显示不同键数的小工具键盘。
+
+全尺寸键盘按钮 弯音轮：弯音轮允许表演者瞬间增加或减少 iM1 的整体音高。
+
+调制轮：MG 轮（调制发生器）通常用于添加不同数量的音高调制（颤音），但也可用于以富有表现力的方式控制许多其他调制参数。
+
+八度 -：将键盘的整体音高向下移动一个八度。
+
+八度 +：将键盘的整体音高向上移动一个八度。
+
+关闭：关闭全尺寸键盘并切换到小工具键盘。
+KAOSS PAD：切换到 Kaosspads。
+小工具键盘按钮
+CHORD：亮起时，可弹奏和弦。
+SCALE：用于选择音阶。
+OCTAVE -：将键盘的整体音高向下移动一个八度。
+OCTAVE +：将键盘的整体音高向上移动一个八度。
+KEYBOARD：切换到全尺寸键盘。
+KAOSS PAD：切换到 Kaosspads。
+
+Kaoss 打击垫
+iM1 可以提供两个 Korg Kaoss 打击垫作为控制面，以代替键盘。通过在 Kaoss 打击垫表面上拖动，您可以同时播放声音和控制多个参数 - 分配给 X 轴（水平运动）的参数和分配给 Y 轴（垂直运动）的参数。虽然两个 Kaoss 打击垫看起来几乎相同，但它们的功能不同。左手边的打击垫（Kaoss Pad L）提供可分配的参数。右手边的打击垫（Kaoss Pad R）设置为控制弹奏和弦时的音高和反转类型。
+键盘：切换到全尺寸键盘。
+关闭：此按钮将关闭键盘或 Kaoss Pad 控制窗口。
+保持：如果启用，即使松开手指，左手边的打击垫控制的状态也会保持。
+
+KAOSS PAD L：此 Kaoss Pad 将控制已分配给 X 和 Y 轴的参数。
+使用 MODE 按钮选择要控制的参数。
+MODE：这些按钮选择哪些参数将由 Kaoss Pad L 控制
+• OSC：使用此按钮选择要控制的振荡器参数。
+• FILTER：使用此按钮选择要控制的滤波器参数。
+• EFFECTS：使用此按钮选择要控制的效果参数。
+
+KAOSS PAD R：此 Kaoss 打击垫专用于控制音符。沿 X 轴拖动会根据使用 SCALE 按钮指定的调和音阶更改音高。沿 Y 轴拖动会更改弹奏和弦时的转位。如果 VOICES 参数设置为单声道，则此功能无效。
+SCALE：点击此处可指定乐调（根音）和
+音阶，它们将确定使用 Kaoss 打击垫时音符是什么。
+VOICES：使用这些按钮可选择正在播放的音符数。
+• MONO：仅播放单音符。
+• 2POLY：产生双音符和弦；和弦转位由 Y 轴控制
+• 3POLY：产生三音符和弦；和弦转位由 Y 轴控制
+• 4POLY：产生四音符和弦；和弦转位由 Y 轴控制。
+
+######################################################
+				The Browser
+Search through the gigantic iM1 library of sounds quickly, easily, and effectively. The iM1 for iPad provides an advanced Browser that makes finding the sound you need-when you need it-a simple task. You can search for a single instrument or sound character, or search for multiple instruments or sound characters.
+
+Selecting a combination or program In either mode, simply tap the Program or Combi name to access the Browser screen shown below.
+
+1. Select tabs
+A variety of search functions are available by tapping one of these tabs.
+CARD: Choose this tab to search by card banks.
+SEARCH: Choose this tab to search by type of instrument or sound character.
+RANKING: Selecting this tab displays the available sounds by popularity of use.
+WRITE: Choose this tab to save a Combination or Program that you created.
+STORE: Choose this tab to purchase additional sound content.
+CLOSE: Selecting this tab will close the Browser.
+2. SOUND CARD DETAIL 
+Displays the selected card and a list of cards. The contents of the card you selected by tapping are shown in the sound list.
+
+3. Sound list
+This area shows the contents of the selected card, or the combinations or programs for which you searched. Double-click a displayed name to select that sound and close the browser. When you tap a sound in the list to select it, and then play a note on the on-screen keyboard or an external MIDI device, the note is played by the sound that is selected in the browser and also by any timbres that are assigned the same MIDI	 channel as the currently selected timbre (track). If the [SOLO] button is on, only the sound selected in the list will be heard. When you're selecting a sound in the browser, you can't use a connected external MIDI device to edit the sound (or perform automation or control changes).
+
+4. INSTRUMENTS
+If you’ve chosen the SEARCH tab, you can tap one of the buttons here to specify the type of instrument you want to find.
+
+5. CHARACTER
+If you’ve chosen the SEARCH or RANKING tab, you can tap one of the buttons here to specify the character of the sound you want to find.
+Items that allow only one selection within each pair:
+• BRIGHT ⇄ DARK
+• SPLIT ⇄ LAYER (combinations only)
+• FAST ⇄ SLOW
+• SOLO ⇄ ENSEMBLE (Programs only)
+• FAT ⇄ SOFT
+
+Items that allow only one selection within each group.
+1				2
+ACOUSTIC 		DANCE
+ELECTRIC 		POP/ROCK
+ETHNIC 			JAZZ/FUNK
+SYNTHESIZED 	ORCHESTRA
+
+6.ALL CLEAR button
+Use this button to clear all of the selected sound characters.
+
+Selecting multisounds, drum sounds, and drum kits The versatile iM1 Browser can also be used to find multi- sounds, individual drum sounds, and Drum Kits. Tap the name shown in the edit area of the EASY page, OSC page etc., and the Browser will appear.
+
+浏览器
+快速、轻松、有效地搜索巨大的 iM1 音色库。iPad 版 iM1 提供先进的浏览器，让您在需要时轻松找到所需的音色。您可以搜索单个乐器或音色特征，也可以搜索多个乐器或音色特征。
+
+选择组合或程序 在任一模式下，只需点击程序或组合名称即可访问下面显示的浏览器屏幕。
+
+1. 选择选项卡
+点击其中一个选项卡即可使用各种搜索功能。
+卡：选择此选项卡按卡库搜索。
+搜索：选择此选项卡按乐器类型或音色特征搜索。
+排名：选择此选项卡按使用流行度显示可用音色。
+写入：选择此选项卡保存您创建的组合或程序。
+存储：选择此选项卡购买其他音色内容。
+关闭：选择此选项卡将关闭浏览器。
+2. 音色卡详情
+显示所选卡和卡列表。点击所选卡的内容显示在声音列表中。
+
+3. 声音列表
+此区域显示所选卡的内容，或您搜索的组合或程序。双击显示的名称以选择该声音并关闭浏览器。当您点击列表中的声音以将其选中，然后在屏幕键盘或外部 MIDI 设备上弹奏音符时，该音符将由浏览器中所选的声音以及分配了与当前所选音色（音轨）相同 MIDI 通道的任何音色播放。如果 [SOLO] 按钮打开，则只会听到列表中所选的声音。当您在浏览器中选择声音时，您无法使用连接的外部 MIDI 设备来编辑声音（或执行自动化或控制更改）。
+
+4. 乐器
+如果您选择了“搜索”选项卡，则可以点击此处的按钮之一来指定要查找的乐器类型。
+
+5. 特性
+如果您选择了“搜索”或“排名”选项卡，则可以点击此处的按钮之一来指定要查找的声音特性。
+每对中只允许选择一个的项目：
+• 明亮 ⇄ 暗
+• 分割 ⇄ 层（仅限组合）
+• 快 ⇄ 慢
+• 独奏 ⇄ 合奏（仅限程序）
+• 丰满 ⇄ 柔和
+
+每组中只允许选择一个的项目。
+1 2
+原声舞曲
+电子流行/摇滚
+民族爵士/放克
+合成管弦乐
+
+6.全部清除按钮
+使用此按钮可清除所有选定的声音特性。
+
+选择多音色、鼓音色和鼓组 多功能 iM1 浏览器还可用于查找多音色、单个鼓音色和鼓组。点击 EASY 页面、OSC 页面等编辑区域中显示的名称，浏览器就会出现。
+
+This screen shows the Browser when searching for multisounds:
+
+1. SEARCH/CARD Select tabs
+There are two search functions available by using these tabs.
+SEARCH: Choose this tab to search by type of instrument
+CARD: Choose this tab to search by card banks.
+
+2. INSTRUMENTS
+If you've chosen the SEARCH tab, you can tap one of the buttons here to specify the type of instrument you want to find.
+You can specify multiple instruments. However, if no further sounds would be found by clicking another choice, that instrument type will be grayed-out, and cannot be selected.
+
+3.ALL CLEAR button
+Use this button to clear all of the selected instrument types.
+
+4. Sound list
+This area displays the multisounds, drum sounds or Drum Kits that were found by your search. Tap any displayed name to select that item and close the Browser.
+When you select a sound and play it using the on-screen keyboard or an external MIDI device, only the selected multi-sound showing in the screen will play.
+When selecting a sound in the Browser, you cannot use a connected external MIDI device to edit the sound(or perform automation or control changes).
+
+5. CLOSE button
+Choosing this button will close the Browser.
+此屏幕显示搜索多音色时的浏览器：
+
+1. 搜索/卡选择选项卡
+使用这些选项卡有两个可用的搜索功能。
+搜索：选择此选项卡按乐器类型搜索
+卡：选择此选项卡按卡库搜索。
+
+2. 乐器
+如果您选择了“搜索”选项卡，您可以点击此处的按钮之一来指定要查找的乐器类型。
+您可以指定多种乐器。但是，如果单击其他选项后找不到其他声音，则该乐器类型将变灰，无法选择。
+
+3.全部清除按钮
+使用此按钮可清除所有选定的乐器类型。
+
+4. 声音列表
+此区域显示您搜索到的多音色、鼓声或鼓组。点击任何显示的名称以选择该项目并关闭浏览器。
+当您选择声音并使用屏幕键盘或外部 MIDI 设备播放时，只有屏幕上显示的选定多声音才会播放。
+在浏览器中选择声音时，您无法使用连接的外部 MIDI 设备来编辑声音（或执行自动化或控制更改）。
+
+5. 关闭按钮
+选择此按钮将关闭浏览器。
+
+#################################################################
+				Available Parameters by Mode
+Combination mode
+In this mode you can create a single sound by assigning different programs to up to eight timbres. Click the [COMBI] button to enter Combination mode.
+
+Timbre Parameters
+Here you can select the program used by each timbre, and set the output level, pan, and output destination of each timbre.
+
+Timbre Select..................................................................................[1…8]
+This selects the current timbre that is available for editing. To select a timbre, click the timbre number or the bar shown at either edge of the parameter area.
+When you tap the on-screen keyboard or drag the pitch bend or modulation wheel to operate them, MIDI messages will be transmitted on the MIDI channel of the timbre you’ve selected here. If you’re controlling the iM1 for iPad from an external MIDI device, you won’t hear anything unless the MIDI channel of your external MIDI device matches the MIDI channel of the timbre you’ve selected here. The same applies to the pitch bend wheel and modulation wheel. The editing area at the right will show the parameters (selected by the [Timbre Select] switches) of the program used by this timbre, allowing you to edit them.
+TIMBRE ON/OFF.................................................................[ON, OFF]
+These buttons specify whether each track will produce sound.
+SOLO.................................................................................[OFF, ON]
+Only the Timbre(s) that is soloed will sound. By soloing a Timbre, you can isolate it for easy editing.
+MUTE...............................................................................[OFF, ON]
+The mute function is almost an opposite of the Solo function.
+Use the mute feature to temporarily silence a particular Timbre(s), without removing it from the Combi.
+IFX ...................................................................................[OFF, ON]
+This function turns the Insert effect on or off for the selected Timbre.
+"OFF (dark): The Insert effect section is bypassed.
+"ON (lit): The Insert effect section is active.
+The IFX is automatically turned on when you select a Program.
+
+PROGRAM Select........................................................................[BROWSER]
+Selects the program used by the timbre. Refer to "The Browser" on page 14
+LEVEL..............................................................................[00…99]
+This knob specifies the output level of each Timbre.
+PAN............................................................................... [L50…C00…R50]
+This knob specifies the position in the stereo field (pan) of each Timbre.
+If DRUMS is specified as the oscillator mode ("OSC MODE" on page 29) in the Program used by this Timbre, the "PAN" field will not appear. Use the "PAN" setting in the DRUM KIT EDIT section ("PAN" on page 34) of the OSC page to specify the pan of each sound in the Drum Kit.
+OUT......................................................................................[--, Main, Sub]
+Use this parameter to choose the output.
+
+按模式可用的参数
+组合模式
+在此模式下，您可以通过将不同的程序分配给最多 8 种音色来创建单一声音。单击 [COMBI] 按钮进入组合模式。
+
+音色参数
+在这里，您可以选择每个音色使用的程序，并设置每个音色的输出电平、声像和输出目的地。
+
+音色选择................................................................................[1…8]
+这将选择当前可供编辑的音色。要选择音色，请单击音色编号或参数区域任一边缘显示的条。
+当您点击屏幕键盘或拖动弯音轮或调制轮进行操作时，MIDI 信息将在您在此处选择的音色的 MIDI 通道上传输。如果您从外部 MIDI 设备控制 iM1 for iPad，除非外部 MIDI 设备的 MIDI 通道与您在此处选择的音色的 MIDI 通道匹配，否则您将听不到任何声音。弯音轮和调制轮也是如此。右侧的编辑区域将显示此音色使用的程序的参数（由 [音色选择] 开关选择），允许您对其进行编辑。
+音色开/关................................................................[开，关]
+这些按钮指定每个音轨是否会产生声音。
+SOLO..............................................................................[关，开]
+只有独奏的音色才会发声。通过独奏音色，您可以将其隔离以便于编辑。
+静音..............................................................................[关，开]
+静音功能几乎与独奏功能相反。
+使用静音功能可暂时使特定音色静音，而无需将其从 Combi 中移除。
+IFX ....................................................................................[关，开]
+此功能可打开或关闭所选音色的插入效果。
+“OFF（暗）：插入效果部分被绕过。
+“ON（亮）：插入效果部分处于活动状态。
+当您选择一个程序时，IFX 会自动打开。
+
+PROGRAM Select................................................................[BROWSER]
+选择音色使用的程序。请参阅第 14 页上的“浏览器”
+LEVEL..............................................................................[00…99]
+此旋钮指定每个音色的输出电平。
+PAN...................................................................... [L50…C00…R50]
+此旋钮指定每个音色在立体声场（声像）中的位置。
+如果在此音色使用的程序中将 DRUMS 指定为振荡器模式（第 29 页上的“OSC MODE”），则不会出现“PAN”字段。使用 OSC 页面的 DRUM KIT EDIT 部分（第 34 页上的“PAN”）中的“PAN”设置来指定鼓组中每个声音的声像。
+OUT................................................................................[--, Main, Sub]
+使用此参数选择输出。
+
+PERFORMANCE page
+Tap the PERFORMANCE button to access this page. Here you can adjust the Program parameters used by each Timbre.
+
+Adjusting the parameters in the PERFORMANCE page will not change the displayed value of the Program parameters.
+
+When you execute one of the Write, Copy, or Apply performance commands, then the adjustments you made here will be applied to the Program parameters.
+
+PERFORMANCE 页面
+点击 PERFORMANCE 按钮即可访问此页面。在这里，您可以调整每个音色使用的程序参数。
+
+调整 PERFORMANCE 页面中的参数不会改变程序参数的显示值。
+
+当您执行写入、复制或应用性能命令之一时，您在此处所做的调整将应用于程序参数。
+
+OSC
+BALANCE...................................................................... [–50…+00…+50]
+This parameter controls the relative mix of the two oscillators.
+
+If the Program's "OSC MODE" is Double, this adjusts the vol- ume balance of OSC1 and OSC2. The adjusted value is added to the OSC1 "OSC LEVEL," and subtracted from the OSC2 "OSC LEVEL."
+OSC
+BALANCE...................................................................... [–50…+00…+50]
+此参数控制两个振荡器的相对混合。
+
+如果程序的“OSC MODE”为 Double，则调整 OSC1 和 OSC2 的音量平衡。调整后的值将添加到 OSC1“OSC LEVEL”，并从 OSC2“OSC LEVEL”中减去。
+
+VDF
+RESONANCE.................................................................. [–50…+00…+50]
+This parameter adjusts the VDF (Filter) resonance level. The adjusted value is added tothe VDF1 and VDF2 "RESONANCE."
+This setting is unavailable if the OSC page "RESONANCESwitch" (page 29) is OFF.
+CUTOFF........................................................................ [–50…+00…+50]
+This parameter adjusts the VDF cutoff level (frequency). The adjusted value is added to the VDF1 and VDF2 "CUTOFF."
+VDF EG INT ................................................................... [–50…+00…+50]
+This parameter adjusts the VDF EG INT (Envelope Generator Intensity).
+The adjusted value is added to the VDF1 and VDF2 "EG INT."
+VDF
+RESONANCE.................................................................... [–50…+00…+50]
+此参数调整 VDF（滤波器）共振水平。调整后的值将添加到 VDF1 和 VDF2“RESONANCE”中。
+如果 OSC 页面“RESONANCE Switch”（第 29 页）关闭，则此设置不可用。
+CUTOFF...................................................................... [–50…+00…+50]
+此参数调整 VDF 截止水平（频率）。调整后的值将添加到 VDF1 和 VDF2“CUTOFF”中。
+VDF EG INT .................................................................... [–50…+00…+50]
+此参数调整 VDF EG INT（包络发生器强度）。
+调整后的值将添加到 VDF1 和 VDF2“EG INT”中。
+
+VDF&VDA EG
+ATTACK TIME .................................................................[–50…+00…+50]
+This parameter simultaneously adjusts the VDF EG and VDA EG attack time. The adjusted value is added to the "Attack Time" of each EG (Envelope Generator).
+DECAY TIME...................................................................[–50…+00…+50]
+This parameter simultaneously adjusts the VDF EG and VDA EG decay time. The adjusted value is added to the "Attack Time" of each EG.
+RELEASE TIME................................................................[–50…+00…+50]
+This parameter simultaneously adjusts the VDF EG and VDA EG release time. The adjusted value is added to the "Attack Time" of each EG.
+VDF&VDA EG
+ATTACK TIME ..............................................................[–50…+00…+50]
+此参数同时调整 VDF EG 和 VDA EG 的启动时间。调整后的值将添加到每个 EG（包络发生器）的“启动时间”中。
+DECAY TIME....................................................................[–50…+00…+50]
+此参数同时调整 VDF EG 和 VDA EG 的衰减时间。调整后的值将添加到每个 EG 的“启动时间”中。
+RELEASE TIME..............................................................[–50…+00…+50]
+此参数同时调整 VDF EG 和 VDA EG 的释放时间。调整后的值将添加到每个 EG 的“启动时间”中。
+
+INSERT FX
+IFX BALANCE..................................................................[–50…+00…+50]
+This parameter adjusts the balance between the Insert effect's processed sound and the direct sound. The adjusted value is added to the "DRY/WET" setting of each effect. If a composite effect (Delay/Hall - Delay/Tremolo) is selected, the adjusted value is added to both of the "DRY/WET" settings.
+INSERT FX
+IFX BALANCE....................................................................[–50…+00…+50]
+此参数调整插入效果处理后的声音与直接声音之间的平衡。调整后的值将添加到每个效果的“DRY/WET”设置中。如果选择了复合效果（Delay/Hall - Delay/Tremolo），则调整后的值将添加到两个“DRY/WET”设置中。
+
+MIDI page
+Tap the MIDI button to access this page. Here you can specify the MIDI channel, MIDI filtering, key zone, velocity zone, and pitch for each Timbre.
+MIDI 页面
+点击 MIDI 按钮即可访问此页面。在这里，您可以为每个音色指定 MIDI 通道、MIDI 过滤、键区、力度区和音高。
+
+MIDI Ch
+MIDI Ch............................................... .........................[01…16]
+This parameter specifies the MIDI channel for each Timbre.
+KEY ZONE
+By setting a Top key and a Bottom key, Zoning allows you to
+limit and/or specify the range of keys played by each Timbre.
+TOP............................................................................................[C–1…G9]
+BOTTOM.....................................................................................[C–1…G9]
+VELOCITY ZONE
+By setting a Top velocity level and a Bottom velocity level, this type of Zoning allows you to limit and/or specify the range of MIDI velocity levels played by each Timbre.
+TOP............................... ....................................................[001…127]
+BOTTOM.................................................................................[001…127]
+MIDI FILTER
+MIDI Filtering can selectively determine which MIDI mes- sages are received by each Timbre.
+Activate the MIDI filter by turning it on (lit) to prevent the specific type of message from being received.
+PC (Program Change)....................................................................[OFF, ON]
+OFF (dark): Program Change messages are received.
+ON (lit): Program Change messages are not received (filtered).
+CC (Control Change)............ ......................................................[OFF, ON]
+OFF (dark): Control Change messages are received.
+ON (lit): Control Change messages are not received (filtered).
+AT (After Touch).......................................................................[OFF, ON]
+OFF (dark): Aftertouch messages are received.
+ON (lit): Aftertouch messages are not received (filtered).
+DMP (Damper) .......................................................................[OFF, ON]
+OFF (dark): Damper pedal messages are received.
+ON (lit): Damper pedal messages are not received (filtered).
+DETUNE
+DETUNE ........................................................................[–50…+00…+50]
+This parameter adjusts the pitch of each Timbre in one-cent steps.
+TRANSPOSE
+TRANSPOSE...................................................................[–12…+00…+12]
+This parameter adjusts of each Timbre in semitone steps.
+MIDI Ch
+MIDI Ch................................................. .........................[01…16]
+此参数指定每个音色的 MIDI 通道。
+KEY ZONE
+通过设置顶部键和底部键，分区允许您
+限制和/或指定每个音色所弹奏的键的范围。
+TOP................................................................................[C–1…G9]
+BOTTOM................................................................................[C–1…G9]
+VELOCITY ZONE
+通过设置顶部速度级别和底部速度级别，这种分区允许您限制和/或指定每个音色所弹奏的 MIDI 速度级别的范围。
+TOP................................. ....................................................[001…127]
+BOTTOM.................................................................................[001…127]
+MIDI FILTER
+MIDI Filtering 可以有选择地确定每个音色接收哪些 MIDI 消息。
+通过打开（亮起）激活 MIDI 过滤器，以防止接收特定类型的消息。
+PC（程序变更）....................................................................[OFF，ON]
+OFF（暗）：已接收程序变更消息。
+ON（亮起）：未接收程序变更消息（已过滤）。
+CC（控制变更）............ ..............................................................[OFF，ON]
+OFF（暗）：已接收控制变更消息。
+ON（亮起）：未接收控制变更消息（已过滤）。
+AT（触后）....................................................................[OFF，ON]
+OFF（暗）：已接收触后消息。
+ON（亮起）：未接收触后消息（已过滤）。
+DMP（制音器）................................................................[OFF，ON]
+OFF（暗）：已接收制音踏板消息。
+ON（亮起）：未接收制音踏板消息（已过滤）。
+DETUNE
+失谐 ......................................................................[–50…+00…+50]
+此参数以一音分为单位调整每个音色的音高。
+TRANSPOSE
+移调...................................................................[–12…+00…+12]
+此参数以半音为单位调整每个音色。
+
+MASTER FX page
+Tap the MASTER FX button to access this page. The parameters on this page allow you to specify the Master effects being used by the Combi, adjust the individual Master effect parameters, and set the Master effect routings.
+MASTER FX 页面
+点击 MASTER FX 按钮即可访问此页面。此页面上的参数允许您指定 Combi 使用的主效果、调整各个主效果参数以及设置主效果路由。
+
+MASTER FX
+ROUTING TYPE..........................................................[SERIAL, PARALLEL]
+This parameter determines how the two Master effects are routed.
+SERIAL sends the output of one Master effect to the input of the other Master effect.
+PARALLEL allows the two Master effects to operate independently, side by side.
+FX 1/FX 2 ...........................................................................[OFF, ON]
+Each Master effect can be turned on or off individually
+PAN ON/OFF...........................................................................[OFF, ON]
+This parameter switches the pan On and Off.
+If this setting is OFF, the signals will not be sent.
+PAN............................................................................... [L50…C00…R50]
+Panning specifies the position in the stereo field (pan) of the Master effect.
+主效果路由类型..............................................................[SERIAL, PARALLEL]
+此参数决定两个主效果的路由方式。
+SERIAL 将一个主效果的输出发送到另一个主效果的输入。
+PARALLEL 允许两个主效果并排独立运行。
+FX 1/FX 2 .........................................................................[OFF, ON]
+每个主效果都可以单独打开或关闭
+PAN ON/OFF..............................................................[OFF, ON]
+此参数用于打开和关闭声像。
+如果此设置为 OFF，则不会发送信号。
+PAN.............................................................. [L50…C00…R50]
+声像指定主效果在立体声场（声像）中的位置。
+
+FX 1/FX 2
+EFFECT TYPE.........................................[No Effect, Reverb…Delay/Tremolo]
+Tap here to select the Master effect type, including No Effect.
+Effect Parameters Each Master effect type will have its own specific set of adjustable parameters.
+FX 1/FX 2
+效果类型................................[无效果、混响…延迟/颤音]
+点击此处可选择主效果类型，包括无效果。
+效果参数每种主效果类型都有一组特定的可调整参数。
+
+Refer to M1 owner’s manual PDF, page 36 “3 - Effect parameters” 
+For details on the other effect parameters, refer to the original M1 owner's manual PDF which is available on the Web. Refer to M1 owner's manual PDF, page 36 "3 -Effect parameters"
+
+Compressor
+This effect compresses the input signal, making it more consistent. It is particularly good when applied to instruments such as guitar, piano, and drums.
+
+请参阅 M1 用户手册 PDF，第 36 页“3 - 效果参数”
+有关其他效果参数的详细信息，请参阅网络上提供的原始 M1 用户手册 PDF。请参阅 M1 用户手册 PDF，第 36 页“3 - 效果参数”
+
+压缩器
+此效果压缩输入信号，使其更加一致。当应用于吉他、钢琴和鼓等乐器时，效果特别好。
+
+ATTACK ................................................................................[000…500ms]
+Adjusts the strength of the attack.
+SENSITIVITY........................................ ....................................[00…99]
+Adjusts the sensitivity of the compressor.
+OUT LEVEL................................................................................[000…100]
+Adjusts the output level of the compressor.
+启音 ................................................................................[000…500ms]
+调整启音强度。
+灵敏度 ................................................ ....................................[00…99]
+调整压缩机的灵敏度。
+输出电平 ..............................................................................[000…100]
+调整压缩机的输出电平。
+
+EQ TRIM...................................................................................[000…100]
+Adjusts the input level to the compressor.
+PRE LEQ ................................................................... [–15…+00…+15dB]
+This EQ control will boost or cut the low frequencies of the input signal, before the compressor.
+PRE HEQ................................................................... [–15…+00…+15dB]
+This EQ control will boost or cut the high frequencies of the input signal, before the compressor.
+DRY/WET...................................................................[DRY, 001…099, WET]
+Adjusts the balance of the processed sound and the direct sound
+均衡修剪......................................................................[000…100]
+调整压缩器的输入电平。
+PRE LEQ .................................................................... [–15…+00…+15dB]
+此 EQ 控制将在压缩器之前增强或削减输入信号的低频。
+PRE HEQ................................................................. [–15…+00…+15dB]
+此 EQ 控制将在压缩器之前增强或削减输入信号的高频。
+DRY/WET.................................................................[DRY, 001…099, WET]
+调整处理后的声音和直接声音的平衡
+
+Using MIDI control change messages to control the speed of the Rotary Speaker When the Rotary Speaker has been selected as a Master effect, the rotation speed can be switched using MIDI CC (Control Change) messages.
+
+Transmitting a CC#76 (Vibrato Rate) message from your external MIDI device on the Global MIDI Channel (Refer to "MIDI" on page 57) with a value of 64-127 will switch the rotary speed to Fast; transmitting a value of 00-63 will switch the rotary speed to Slow.
+使用 MIDI 控制更改消息来控制旋转扬声器的速度 当选择旋转扬声器作为主效果时，可以使用 MIDI CC（控制更改）消息切换旋转速度。
+
+从外部 MIDI 设备在全局 MIDI 通道上传输 CC#76（颤音速率）消息（请参阅第 57 页上的“MIDI”），其值为 64-127，将把旋转速度切换为快速；传输 00-63 的值将把旋转速度切换为慢速。
+
+EASY page
+Tap the EASY button to access this page. The parameters on this page allow you to easily tweak and modify the Program assigned to each Timbre by adjusting the most important and commonly used sound creation parameters. Additional Program Parameters not shown in this page can be edited in the OSC - INSERT FX pages..
+EASY 页面
+点击 EASY 按钮即可访问此页面。此页面上的参数允许您通过调整最重要和最常用的声音创建参数，轻松调整和修改分配给每个音色的程序。此页面中未显示的其他程序参数可以在 OSC - INSERT FX 页面中编辑。
+
+OSC
+OSC MODE .............................................................[SINGLE, DOUBLE, DRUM]
+This parameter selects the oscillator mode.
+MULTISOUND 1/MULTISOUND 2/DRUMKIT.....................................[BROWSER]
+Tap here to open the Browser to select a multisound or Drum
+Kit. Refer to "The Browser" on page 14
+LEVEL...........................................................................................[00…99]
+This parameter specifies the oscillator's output level.
+
+
+
+
+****************************************************************************
+Specifications
+
+iM1 for iPad
+• Maximum polyphony: 64 notes (depends on the model of iPad)
+• Number of parts: 8
+• PCM waveforms: more than 900
+• Sounds:
+Presets: more than 2,700
+User presets: 440 (including the drum kits)
+• Effects: 34 types
+• Supported sampling rates: 44.1 kHz
+• Realtime MIDI control and automation is supported
+
+* Appearance and specifications of this product are subject to change without notice.
+规格
+
+iPad 版 iM1
+• 最大复音数：64 个音符（取决于 iPad 型号）
+• 声部数量：8
+• PCM 波形：超过 900 个
+• 声音：
+预设：超过 2,700 个
+用户预设：440 个（包括鼓组）
+• 效果：34 种
+• 支持的采样率：44.1 kHz
+• 支持实时 MIDI 控制和自动化
+
+* 本产品的外观和规格如有变更，恕不另行通知。
