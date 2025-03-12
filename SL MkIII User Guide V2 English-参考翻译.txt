@@ -1,0 +1,202 @@
+
+
+Key Features
+• 49 or 61 note velocity sensitive, individually sprung, synth style, semi-weighted keyboard
+• 16 full-colour RGB backlit velocity sensitive pads
+• 64 customisable templates
+• Eight continuous rotary knobs
+• Eight faders
+• Six dedicated transport controls
+• RGB backlit pitch bend and modulation wheels
+• Five RGB TFT LCD screens
+• 59 Backlit buttons with tact switches
+• 49 or 61 keybed RGB LEDs
+• USB B 2 .0, MIDI IN, OUT, OUT2 / THRU
+• Sustain and Expression pedal 1/4” TRS jack inputs
+• Footswitch pedal 1/4” TS jack input
+• CV, Gate, Modulation and Clock Out on 3 .5mm jack sockets
+• Eight track 16 step sequencer Sequencer with 64 Sessions
+• Real time record (notes, with velocity and automation)
+• Auto-quantise notes to steps and automation to 6 events per step
+• Full automation for all assignable controls (with eight automation lanes)
+• 16 Scale types and chromatic transposition
+• Eight playable zones
+• Configurable pattern chains
+• Instant session switching and queued switch
+• Velocity and gate per step
+• Multiple gate lengths per step (via real time record)
+• Automation edit per step
+• Clear step, automation parameter per pattern
+• Duplicate step, pattern .
+
+主要特点
+• 49 或 61 个音符力度感应、独立弹簧、
+合成器风格、半配重键盘
+• 16 个全彩 RGB 背光力度感应垫
+• 64 个可自定义模板
+• 八个连续旋钮
+• 八个推子
+• 六个专用传输控件
+• RGB 背光弯音和调制轮
+• 五个 RGB TFT LCD 屏幕
+• 59 个带轻触开关的背光按钮
+• 49 或 61 个键床 RGB LED
+• USB B 2.0、MIDI IN、OUT、OUT2 / THRU
+• 延音和表情踏板 1/4” TRS 插孔输入
+• 脚踏开关踏板 1/4” TS 插孔输入
+• 3.5mm 插孔上的 CV、门限、调制和时钟输出
+• 八轨 16 步进音序器音序器，带 64 个会话
+• 实时录制（音符、带力度和自动化）
+•自动量化音符至步骤，并将自动化量化至每步骤 6 个事件
+• 所有可分配控件的完全自动化（具有八个自动化通道）
+• 16 种音阶类型和半音移调
+• 八个可播放区域
+• 可配置的模式链
+• 即时会话切换和排队切换
+• 每步的速度和门限
+• 每步的多个门限长度（通过实时记录）
+• 每步的自动化编辑
+• 清除步骤、每个模式的自动化参数
+• 复制步骤、模式。
+
+Power Requirements
+SL MkIII is shipped with an external 12 V DC, 1 A power supply . This is a “universal” type and will operate on all mains voltages between 100 V and 240 V .
+
+The centre pin of the connector is the positive (+ve) side of the supply . SL MkIII must be powered by the supplied AC- to-DC mains adaptor .
+
+Your SL MkIII will be supplied with the a version of the PSU appropriate to your territory . In some countries the PSU comes with detachable adaptors; in this case, use the one that fits your country’s AC outlets . When powering SL MkIII with the mains PSU, please ensure your local AC supply is within the range of voltages required by the adaptor – i .e ., 100 to 240 VAC - BEFORE you plug it into the mains .
+
+We recommend you only use the supplied PSU . Power supplies for your SL MkIII can be purchased from your music dealer or directly from Novation if you have lost yours
+
+电源要求
+SL MkIII 附带一个外部 12 V DC、1 A 电源。这是一种“通用”类型，可在 100 V 至 240 V 之间的所有电源电压下工作。
+连接器的中心引脚是电源的正极 (+ve) 侧。SL MkIII 必须由提供的 AC-DC 电源适配器供电。
+您的 SL MkIII 将配备适合您所在地区的 PSU 版本。在某些国家/地区，PSU 附带可拆卸适配器；在这种情况下，请使用适合您国家/地区交流电插座的适配器。使用主电源为 SL MkIII 供电时，请确保您当地的交流电源在适配器所需的电压范围内 - 即 100 至 240 VAC - 然后再将其插入电源。
+我们建议您仅使用随附的 PSU。SL MkIII 的电源可以从音乐经销商处购买，如果您丢失了电源，也可以直接从 Novation 购买
+
+HARDWARE OVERVIEW
+The SL MkIII 49- and 61-note versions have the same front panel controls and rear panel connections .
+硬件概述
+SL MkIII 49 和 61 键版本具有相同的前面板控制和后面板连接。
+
+1 . Power On/Off button
+2 . DC power jack: 12V DC, 1A, power supply
+3 . USB Type B socket
+4 . Three DIN sockets (5-pin) for MIDI In | Out | Out2/Thru
+5 . Two 1/4” TS or TRS jacks with silver metal rings for Pedal one(Sustain) and Pedal two (Expression), and one 1/4” jack for Pedal three (Footswitch)
+6 . Seven 3 .5mm TS jacks for Clock Out, CV1, Gate1, Mod1, CV2, Gate2 & Mod2 outputs
+7 . Kensington Security Slot
+8 . Teal silicone strip: the ’feet’ of the SL MkIII
+9 . Shift button
+10 . Global Settings button
+11 . InControl, Zones, Sequencer, Scales, Arp, Tempo and Latch buttons
+12 . Up/down buttons to change pages of Sessions 1-4
+13 . Grid button, eight soft buttons, and Options button
+14 . Up/down page buttons
+15 . 1x2 velocity-sensitive pads
+16 . Eight continuous rotary knobs
+17 . Five LCD screens, collectively known as ‘the screens’
+18 . Right arrow buttons
+19 . 8x2 soft button area
+20 . RGB LEDs
+21 . Rectangular Up/down arrow buttons
+22 . Eight faders
+23 . The Transport
+24 . Save, Duplicate, Clear, Sessions, Patterns, Steps, Track Left, Track Right, Octave Up and Octave Down buttons
+25 . Pitch and Modulation Wheels with RGB LEDs
+26 . 49 or 61 RGB Key LEDs
+27 . Semi-weighted keyboard with aftertouch strip
+1 . 电源开/关按钮
+2 . DC 电源插孔：12V DC，1A，电源
+3 . USB B 型插座
+4 . 三个 DIN 插座（5 针），用于 MIDI 输入 | 输出 | 输出 2/直通
+5 . 两个 1/4” TS 或 TRS 插孔，带银色金属环，用于踏板一（延音）和踏板二（表情），一个 1/4” 插孔用于踏板三（脚踏开关）
+6 . 七个 3.5 毫米 TS 插孔，用于时钟输出、CV1、门限 1、调制 1、CV2、门限 2 和调制 2 输出
+7 . Kensington 安全插槽
+8 . 青色硅胶条：SL MkIII 的“脚”
+9 . Shift 按钮
+10 . 全局设置按钮
+11 . InControl、区域、音序器、音阶、琶音、速度和闩锁按钮
+12 .向上/向下按钮可更改 1-4 会话的页面
+13 . 网格按钮、八个软按钮和选项按钮
+14 . 向上/向下页面按钮
+15 . 1x2 力度感应垫
+16 . 八个连续旋钮
+17 . 五个 LCD 屏幕，统称为“屏幕”
+18 . 向右箭头按钮
+19 . 8x2 软按钮区域
+20 . RGB LED
+21 . 矩形向上/向下箭头按钮
+22 . 八个推子
+23 . 传输
+24 . 保存、复制、清除、会话、模式、步骤、左轨道、右轨道、八度向上和八度向下按钮
+25 . 带 RGB LED 的音高和调制轮
+26 . 49 或 61 个 RGB 键 LED
+27 . 带触后条的半配重键盘
+
+FEATURES
+Sequencer view
+The SL MkIII has a 16-step sequencer per Part . The 16 ‘Steps’ of a Part have their own ‘view’ with settings that affect just steps, and the 16-step sequence is referred to as a ‘Pattern’, again with its own ‘view‘ where you can adjust settings relating to each 16-step pattern .
+
+Press and hold the Shift button followed by the Sequencer button to turn On, or Off, the Sequencer . The Sequencer button will turn white when activated, and orange when disabled . After switching on the Sequencer, the Transport buttons (far-right of the controller) light up, showing they can control the Sequencer .
+
+Press the Sequencer button to enter Sequencer view, which consists of two subviews: Steps view and Patterns view (see following sections), accessed via the Steps and Patterns buttons, respectively . While in another view (Zones view, for instance) pressing the Sequencer button will take you back to the last selected Sequencer subview . The Grid button toggles the function of the 8x2 pads between the last Sequencer subview and Template (see “Templates” on page 13) .
+
+Note: when the Sequencer button is orange (off) pressing it accesses Sequencer view, where you can view and/or edit the Sequence in the current Session . Transport buttons, however, will be unusable until the Sequencer is re-enabled .
+
+Steps view 
+Steps view allows you to view and edit ‘Steps’ of a Pattern . The 16 (8x2) square pads beneath the screens represent the 16 available Pattern Steps .
+功能
+音序器视图
+SL MkIII 每个部分都有一个 16 步音序器。部分的 16 个“步骤”都有自己的“视图”，其设置只影响步骤，而 16 步序列被称为“模式”，同样有自己的“视图”，您可以在其中调整与每个 16 步模式相关的设置。
+
+按住 Shift 按钮，然后按住音序器按钮以打开或关闭音序器。音序器按钮在激活时将变为白色，在禁用时将变为橙色。打开音序器后，传输按钮（控制器最右侧）会亮起，显示它们可以控制音序器。
+
+按下音序器按钮进入音序器视图，该视图由两个子视图组成：步骤视图和模式视图（参见以下部分），分别通过步骤和模式按钮访问。在另一个视图（例如，区域视图）中，按下 Sequencer 按钮将带您返回到最后选择的 Sequencer 子视图。Grid 按钮可在最后一个 Sequencer 子视图和模板之间切换 8x2 打击垫的功能（请参阅第 13 页的“模板”）。
+
+注意：当 Sequencer 按钮为橙色（关闭）时，按下它会访问 Sequencer 视图，您可以在其中查看和/或编辑当前会话中的序列。但是，在重新启用 Sequencer 之前，传输按钮将无法使用。
+
+步骤视图
+步骤视图允许您查看和编辑模式的“步骤”。屏幕下方的 16 个（8x2）方形打击垫代表 16 个可用的模式步骤。
+
+Pattern Scrolling
+In Steps mode, you can press the Up/Down buttons to the left of the pads to scroll through your patterns . Pressing the pads takes you to the pattern before (up) or after (down) . So you know which pattern you are on when you move through patterns using the arrow up/down buttons, the 5th screen will show you which pattern is visible on the pads .
+
+Note: Pattern scrolling will not change the active Pattern . To change patterns, you must press the Patterns button and press the corresponding pad (1-8) .
+图案滚动
+在“步骤”模式下，您可以按下垫子左侧的“向上/向下”按钮来滚动浏览图案。按下垫子会将您带到图案之前（向上）或图案之后（向下）。因此，当您使用箭头向上/向下按钮浏览图案时，您知道自己处于哪个图案上，第 5 个屏幕将显示垫子上可见的图案。
+
+注意：图案滚动不会改变活动图案。要更改图案，您必须按下“图案”按钮并按下相应的垫子（1-8）。
+
+以下略
+
+**************************************
+
+
+TEMPLATES
+Each Part works within a Template . In other words, each Part uses a Template to determine which MIDI messages should send for each control and on which MIDI Channel and output it should send those messages . You can access and edit Templates in Templates view . To access Templates view, press the Shift + Sessions buttons (Templates appears above the Sessions button) . A Template determines the type of MIDI message sent from each control . The Template contains mapping data for:
+• 16 Rotary Knobs (across two pages)
+• 16 Pads (both hit and pressure)
+• 8 Faders
+• 16 Buttons
+• The Modulation Wheel
+• Footswitch, Expression and Sustain Pedals
+
+You can manage and design custom Templates with Components; a standalone application available here: components .novationmusic .com With Components, you can configure each control to send one of many different MIDI messages with different ranges, values and behaviours .
+
+If a mapping is not enabled, the LED or screen associated with the control will be blank to show it is disabled When a control with a mapping moves, a notification will appear on the far-right screen showing the message type as well as the associated value (e .g .,0-127) .
+模板
+每个部分都在一个模板中工作。换句话说，每个部分使用一个模板来确定应该为每个控件发送哪些 MIDI 消息，以及应该在哪个 MIDI 通道和输出上发送这些消息。您可以在模板视图中访问和编辑模板。要访问模板视图，请按 Shift + 会话按钮（模板出现在会话按钮上方）。模板确定从每个控件发送的 MIDI 消息的类型。模板包含以下映射数据：
+• 16 个旋钮（跨两页）
+• 16 个打击垫（打击和压力）
+• 8 个推子
+• 16 个按钮
+• 调制轮
+• 脚踏开关、表情和延音踏板
+
+您可以使用组件管理和设计自定义模板；独立应用程序可在此处获取：components.novationmusic.com 使用组件，您可以配置每个控件以发送具有不同范围、值和行为的许多不同 MIDI 消息之一。
+
+如果未启用映射，则与控件关联的 LED 或屏幕将为空白，以显示其已被禁用。当具有映射的控件移动时，最右侧屏幕上会出现一条通知，显示消息类型以及关联值（例如 0-127）。
+
+
+

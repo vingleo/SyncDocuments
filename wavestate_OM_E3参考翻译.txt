@@ -3681,6 +3681,8 @@ GIATOR、FILTER TYPE、LAYER A…D 或任何效果或波形序列通道），或
 
 ###########################################
 				Utility
+				实用程序
+###########################################
 			System Setup
 Set List
 [List of Set Lists]
@@ -3698,7 +3700,7 @@ Tune
 This adjusts the overall tuning of the entire wavestate in one-cent units, over a range of ±50 cents. (A cent is 1/100 of a semitone.) At the default of 0, A4 = 440 Hz.
 The value shown for A4’s frequency assumes that the scale is set to Equal Temperament. If a different scale is selected, the actual frequency of A4 may be different.
 System ID This number identifies the wavestate to computer hosts. If you have multiple wavestates, set each to a different number.		
-实用程序
+
 设置列表
 [设置列表列表]
 这将选择当前设置列表，该列表将演奏映射到设置列表按钮。您可以存储多个设置列表，并根据需要在它们之间进行更改。
@@ -3715,7 +3717,7 @@ System ID This number identifies the wavestate to computer hosts. If you have mu
 这将以一音分为单位调整整个波形状态的整体调音，范围为 ±50 音分。（一音分是半音的 1/100。）默认值为 0，A4 = 440 Hz。
 A4 频率显示的值假设音阶设置为平均律。如果选择了不同的音阶，A4 的实际频率可能会不同。
 系统 ID 此数字向计算机主机标识波形状态。如果您有多个波形状态，请将每个波形状态设置为不同的数字。
-
+#########################################
 			MIDI & USB
 Global Channel
 [1…16]
@@ -3770,6 +3772,7 @@ wavestate 使用 USB 网络与 MacOS 和 Windows 计算机上的 Editor Libraria
 RNDIS：这是 RNDIS 协议，建议用于 Windows 7 和 8。
 NCM：这是网络控制模型协议，建议用于 MacOS 和 Windows 10 及更高版本。
 
+#########################################################
 			Controllers
 			控制器
 Velocity Curve
