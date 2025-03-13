@@ -1,6 +1,6 @@
 Synthesizer V Studio User Manual
 
-
+########################################################
 Synthesizer V Studio Pro is the flagship singing synthesis software developed by Dreamtonics. The software combines an intuitive and flexible user interface with a powerful singing synthesis engine backed by cutting-edge technologies. Users can easily create realistic-sounding vocal covers or original songs by simply sketching out a melody and filling in the lyrics.
 Synthesizer V Studio Pro 是 Dreamtonics 开发的旗舰级歌唱合成软件。该软件将直观灵活的用户界面与由尖端技术支持的强大歌唱合成引擎相结合。用户只需勾勒出旋律并填写歌词，即可轻松创作出逼真的翻唱歌曲或原创歌曲。
 
@@ -175,6 +175,4523 @@ Synthesizer V Studio Pro 版本 1 的状态
 
 我们致力于为尊贵的用户提供持续支持，因此您将能够在同一设备上安装和访问版本 1 和版本 2。这样，您就可以按照自己的节奏无缝过渡，同时保留对熟悉的工作流程和语音数据库的访问。
 
+02 Account System
+PAGE CONTENTS
+Synthesizer V Studio 2 Pro introduces a new license management system powered by user accounts. By simply logging into your Dreamtonics account within the editor, you can effortlessly access and download all voices licensed to you.
+
+Prior to the March 21st launch of version 2 editor and voices, you can already register a Dreamtonics account and pre-order editor and voice upgrades. Your pre-ordered products will be available on launch day.
+
+Register a Dreamtonics Account
+Users with an existing Dreamtonics Store account may log in using that same account. A new account registration is unnecessary.
+
+Create your new account using a valid email address or choose to register with your existing Google, Facebook or X account.
 
 
+E-mail
+Enter your e-mail direction, name and register a password to login after the account is created.
 
+
+Please make sure to keep your password on a safe place since all your products will be linked to this account.
+
+After register your e-mail direction and password, a verification link will be sent to your e-mail.
+
+
+If you can't find your verification e-mail, please make sure to also check your spam folder or re-send it as indicated on the webpage.
+
+For security purposes, the verification link we send to your email address is valid for 5 minutes. If the link expires, simply return to the registration webpage and request a new verification link to be sent to your inbox.
+
+Even if the verification link has expired, clicking on it will redirect you to our login page.
+
+Login using the email address and password you used during registration. This will automatically trigger a new verification email to be sent to your inbox, allowing you to complete the account verification process.
+
+Once you receive the new verification email, click on the provided link. This will instantly verify your email address and grant you full access to your Dreamtonics account.
+
+
+Google, Facebook or X
+Login into the respective service you choose. Your Dreamtonics account will then be automatically linked to the account you used for login.
+
+Product Lists
+Once you've logged into your Dreamtonics account, navigate to the "My Products" section. Here, you'll find a list of the product licenses currently associated with your account.
+
+Since this is a new account, the list will initially be empty.
+
+
+To explore our full range of products, including editors, voicebanks and other software available for purchase or pre-order, visit the "All Products" section.
+
+
+While full purchase options for version 2 of all Synthesizer V voices will become available on March 21st, 2025, you can already pre-order your desired voice upgrades.
+
+Add Products to Your Account
+Products purchased or pre-ordered through the Dreamtonics Store will be automatically added to your Dreamtonics account. You can access a list of your products under the "My Products" section.
+
+After purchasing Synthesizer V Studio Pro, voice databases, pre-ordering Synthesizer V Studio 2 Pro or voice upgrades from one of our authorized resellers, you'll receive an activation code in your e-mail.
+
+To add this product to your account, simply click on the [Add Product] button.
+
+
+Enter your activation code and click on [Submit].
+
+
+Once submitted, the new product will appear in your "My Products" list.
+
+While you can add pre-ordered items like Synthesizer V Studio 2 Pro and upgraded voices to your account, access to these products will only become available on March 21st, 2025 and later.
+
+Please note that adding a product to your account is irreversible. If you have accidentally added the wrong product, please contact our support team for assistance.
+
+Pre-Order Voice Upgrades
+Enhancements to all Dreamtonics voices and selected partner voices are available as Version 2 upgrades. Customers may pre-order these upgrades prior to the official March 21st, 2025 release date.
+
+To upgrade your existing voice databases to version 2, please follow these instructions:
+
+Initiate Upgrades: Locate and click on the "Upgrade to Version 2" button corresponding to each voice database you want to upgrade.
+Confirm Selections: After selecting all desired upgrades, proceed by clicking on the "Purchase Selected Upgrades" button. This will generate a summary page listing your chosen products, categorized by vendor.
+Complete Vendor-Specific Purchases: Each voice database is associated with a specific vendor. To move on with your purchase, click on the "Purchase Upgrades from [Vendor]" button corresponding to the relevant vendor for each upgrade.
+Receive Activation Codes: Upon successful completion of the purchase through the vendor's website, you will receive an activation code for your version 2 upgrade via email.
+Now activation codes work for new purchases and upgrades
+
+Products pre-ordered through the Dreamtonics Store will be automatically added to your Dreamtonics Account.
+
+Following the completion of your purchases and receipt of activation codes from each respective vendor, is necessary to register these new Version 2 upgrades into your account. You can do that by clicking one the "Add Product" button within the Dreamtonics Account page and entering your corresponding activation code for registration.
+02 帐户系统
+页面内容
+Synthesizer V Studio 2 Pro 引入了由用户帐户提供支持的新许可证管理系统。只需在编辑器中登录您的 Dreamtonics 帐户，即可轻松访问和下载所有授权给您的语音。
+
+在 3 月 21 日发布第 2 版编辑器和语音之前，您已经可以注册 Dreamtonics 帐户并预订编辑器和语音升级。您预订的产品将在发布当天上市。
+
+注册 Dreamtonics 帐户
+拥有现有 Dreamtonics Store 帐户的用户可以使用同一帐户登录。无需注册新帐户。
+
+使用有效的电子邮件地址创建新帐户，或选择使用您现有的 Google、Facebook 或 X 帐户注册。
+
+电子邮件
+输入您的电子邮件方向、姓名并注册密码，以便在创建帐户后登录。
+
+请确保将密码保存在安全的地方，因为您的所有产品都将链接到此帐户。
+
+注册您的电子邮件方向和密码后，将向您的电子邮件发送验证链接。
+
+如果您找不到验证电子邮件，请务必检查您的垃圾邮件文件夹或按照网页上的指示重新发送。
+
+出于安全目的，我们发送到您电子邮件地址的验证链接有效期为 5 分钟。 如果链接过期，只需返回注册网页并请求将新的验证链接发送到您的收件箱。
+
+即使验证链接已过期，单击它也会将您重定向到我们的登录页面。
+
+使用您在注册时使用的电子邮件地址和密码登录。 这将自动触发新的验证电子邮件发送到您的收件箱，允许您完成帐户验证过程。
+
+收到新的验证电子邮件后，请单击提供的链接。 这将立即验证您的电子邮件地址并授予您对 Dreamtonics 帐户的完全访问权限。
+
+Google、Facebook 或 X
+登录您选择的相应服务。 然后，您的 Dreamtonics 帐户将自动链接到您用于登录的帐户。
+
+产品列表
+登录 Dreamtonics 帐户后，导航至“我的产品”部分。在这里，您将找到当前与您的帐户关联的产品许可证列表。
+
+由于这是一个新帐户，列表最初为空。
+
+要探索我们的全系列产品，包括编辑器、语音库和其他可供购买或预订的软件，请访问“所有产品”部分。
+
+虽然 Synthesizer V 语音版本 2 的完整购买选项将于 2025 年 3 月 21 日上市，但您已经可以预订所需的语音升级。
+
+将产品添加到您的帐户
+通过 Dreamtonics 商店购买或预订的产品将自动添加到您的 Dreamtonics 帐户。您可以在“我的产品”部分下访问您的产品列表。
+
+从我们的授权经销商处购买 Synthesizer V Studio Pro、语音数据库、预订 Synthesizer V Studio 2 Pro 或语音升级后，您将在电子邮件中收到激活码。
+
+要将此产品添加到您的帐户，只需单击 [添加产品] 按钮。
+
+输入您的激活码并单击 [提交]。
+
+提交后，新产品将出现在您的“我的产品”列表中。
+
+虽然您可以将 Synthesizer V Studio 2 Pro 等预订商品和升级语音添加到您的帐户，但这些产品的访问权限仅在 2025 年 3 月 21 日及以后可用。
+
+请注意，将产品添加到您的帐户是不可逆的。 如果您不小心添加了错误的产品，请联系我们的支持团队寻求帮助。
+
+预订语音升级
+所有 Dreamtonics 语音和选定合作伙伴语音的增强功能均可作为版本 2 升级提供。客户可以在 2025 年 3 月 21 日正式发布日期之前预订这些升级。
+
+要将您现有的语音数据库升级到版本 2，请按照以下说明操作：
+
+启动升级：找到并单击与要升级的每个语音数据库相对应的“升级到版本 2”按钮。
+
+确认选择：选择所有所需的升级后，单击“购买选定的升级”按钮继续。这将生成一个摘要页面，列出您选择的产品，按供应商分类。
+
+完成特定于供应商的购买：每个语音数据库都与特定供应商相关联。要继续购买，请单击与每个升级的相关供应商相对应的“从 [供应商] 购买升级”按钮。
+
+接收激活码：通过供应商的网站成功完成购买后，您将通过电子邮件收到版本 2 升级的激活码。
+现在激活码可用于新购买和升级
+
+通过 Dreamtonics 商店预订的产品将自动添加到您的 Dreamtonics 帐户。
+
+在您完成购买并从各个供应商处收到激活码后需要将这些新的版本 2 升级注册到您的帐户中。您可以通过单击 Dreamtonics 帐户页面中的“添加产品”按钮并输入相应的激活码进行注册。
+
+########################################################
+	Basic Usage
+########################################################
+		01 Quickstart
+Thanks for choosing Synthesizer V Studio.
+On this page, we will introduce the basic usage of Synthesizer V Studio.
+
+Running Synthesizer V Studio
+Double-click on Synthesizer V Studio icon to run the software.
+
+When you run the software for the first time, the "Telemetry Consent" will show.
+If you agree for Dreamtonics to collect your data in order to improve the software, click on [Accept and help make Synthesizer V Studio better].
+You can configure the usage of data collection in the Settings panel.
+settings_1.png
+
+Tempo Setting
+Double-click on the tempo marker to set the tempo.
+→ "Tempo and Time Signature"
+edit-project_5_13.png
+
+Load a Voice Database
+You can select the voice database on the Arrangement area or the Voice panel.
+→ "Tracks", "Voice panel"
+edit-tracks_6_7.png
+In the Pro version on the Language section of the Voice panel, choose the language you want the voice to sing in (English, Japanese, Chinese, etc).
+→ "Voice panel"
+
+Notes Creation
+→ "Piano Roll"
+Draw the notes by dragging (using the Freehand tool) or double-clicking (using the Multi-editing tool) on the Piano Roll area.
+overview_1.png
+Double-click on the note to enter/edit the lyrics.
+overview_2.png
+Lyrics can also be entered/edited using the [Insert Lyrics...] option.
+The option will appear by right-clicking on the note or you can select it from the [Modify] menu.
+overview_3.png
+
+Playback
+Click on the position you want the playback to start in the time axis bar and press Space or click on the ▶ button to play.
+→ "Transport"
+overview_6.png
+
+Creating Tracks
+You can create different tracks or instrumental tracks to work with.
+→ "Tracks"
+overview_4.png
+
+Extract Notes from Audio
+The Voice-to-MIDI conversion function extracts pitch and lyrics from solo vocal audio and transforms them to notes.
+Right-click on the audio and click on [Extract Notes from Audio].
+→ "Voice-to-MIDI"
+voice-to-midi_1.png
+
+Adjustment of Nuances
+The Voice panel allows you to set parameters for the voice.
+→ "Voice panel"
+edit-voice_9_4.png
+These parameters can be edited in more detail on the Parameter Panel.
+→ "Parameter Panel"
+overview_5.png
+In the Pro version, the [Vocal Mode] can be modified to have more versatile results. Vocal Mode parameters can also be edited in more detail on the Parameter Panel.
+edit-voice_9_3.png
+
+AI Retakes
+In the Pro version, the AI Retakes feature can be used to generate various patterns of singing voices.
+→ "AI Retakes"
+auto-process_10_22.png
+
+Pronunciation Adjustment
+You can change the type, duration and strength of the pronunciation.
+→ "Note Properties"
+edit-note_11_5.png
+
+Save and Export
+Click on [File] > [Save] to save the project.
+→ "Project"
+edit-project_5_5.png
+The Render panel allows to export audio files.
+→ "Render"
+render_16_1.png
+
+Working with a DAW
+The Pro version allows you to run the VST/AU/AAX plugins of Synthesizer V Studio on a DAW.
+→ "Instrument"
+
+Script Function
+In the Pro version, you can create Scripts to shortcut processes.
+→ "Using Scripts"
+
+感谢您选择 Synthesizer V Studio。
+在此页面上，我们将介绍 Synthesizer V Studio 的基本用法。
+
+运行 Synthesizer V Studio
+双击 Synthesizer V Studio 图标以运行该软件。
+
+首次运行该软件时，将显示“遥测同意”。
+如果您同意 Dreamtonics 收集您的数据以改进软件，请单击[接受并帮助改进 Synthesizer V Studio]。
+您可以在“设置”面板中配置数据收集的使用情况。
+settings_1.png
+
+速度设置
+双击速度标记以设置速度。
+→“速度和拍号”
+edit-project_5_13.png
+
+加载语音数据库
+您可以在“编排”区域或“语音”面板上选择语音数据库。
+→ “曲目”、“语音面板”
+edit-tracks_6_7.png
+在专业版的语音面板语言部分，选择您想要语音演唱的语言（英语、日语、中文等）。
+→“语音面板”
+
+音符创建
+→“钢琴卷帘”
+通过拖动（使用手绘工具）或双击（使用多重编辑工具）钢琴卷帘区域来绘制音符。
+overview_1.png
+双击音符即可输入/编辑歌词。
+overview_2.png
+也可以使用[插入歌词...]选项输入/编辑歌词。
+右键单击音符即可显示该选项，或者您可以从[修改]菜单中选择它。
+overview_3.png
+
+播放
+单击时间轴栏中您想要播放开始的位置，然后按空格键或单击▶按钮播放。
+→ “传输”
+overview_6.png
+
+创建音轨
+您可以创建不同的音轨或乐器音轨来使用。
+→ “音轨”
+overview_4.png
+
+从音频中提取音符
+语音到 MIDI 转换功能可从独唱音频中提取音高和歌词，并将其转换为音符。
+右键单击音频，然后单击 [从音频中提取音符]。
+→ “语音到 MIDI”
+voice-to-midi_1.png
+
+调整细微差别
+语音面板允许您设置语音参数。
+→ “语音面板”
+edit-voice_9_4.png
+这些参数可以在参数面板上进行更详细的编辑。
+→ “参数面板”
+overview_5.png
+在专业版中，可以修改 [语音模式] 以获得更多样化的结果。语音模式参数也可以在参数面板上进行更详细的编辑。
+edit-voice_9_3.png
+
+AI 重录
+在专业版中，AI 重录功能可用于生成各种歌声模式。
+→“AI 重录”
+auto-process_10_22.png
+
+发音调整
+您可以更改发音的类型、持续时间和强度。
+→“音符属性”
+edit-note_11_5.png
+
+保存和导出
+单击 [文件] > [保存] 保存项目。
+→“项目”
+edit-project_5_5.png
+渲染面板允许导出音频文件。
+→“渲染”
+render_16_1.png
+
+使用 DAW
+专业版允许您在 DAW 上运行 Synthesizer V Studio 的 VST/AU/AAX 插件。
+→“乐器”
+
+脚本功能
+在专业版中，您可以创建脚本来简化流程。
+→ “使用脚本”
+
+########################################################
+		02 Download and Install
+In order to use Synthesizer V Studio, you need the software and at least one voice database.
+Please install Synthesizer V Studio first, and then install a voice database.
+
+You will need your activation code to download the Pro version and a voice database. Please have it ready at hand and keep it in a safe place after activation.
+
+"Synthesizer V Editor" is a different product than "Synthesizer V Studio".
+Activation code for "Synthesizer V Editor" and their voice databases can't be used with the different products of "Synthesizer V Studio".
+
+You must deactivate the voice database and Synthesizer V Studio on the original device before you can use the activation code on a new device.
+Please see "Deactivate and Uninstall" for details.
+
+Download Synthesizer V Studio
+Synthesizer V Studio has a Pro version and a Basic version.
+
+The Pro version is available at the Dreamtonics Store and other sale sites.
+Installer can be downloaded at the site where the software was purchased.
+The Basic version has various limitations, including limited number of tracks and slower rendering speed.
+Click here for the latest version of Synthesizer V Studio Basic.
+If you have purchased Synthesizer V Studio Pro, download the installer on the Synthesizer V Studio Installer Downloader and follow the next set of instructions.
+
+1. Entering the Activation Code
+Type in the activation code on the [Activation Code] field.
+要使用 Synthesizer V Studio，您需要该软件和至少一个语音数据库。
+
+请先安装 Synthesizer V Studio，然后安装语音数据库。
+
+您需要激活码来下载专业版和语音数据库。请准备好激活码并在激活后将其保存在安全的地方。
+
+“Synthesizer V Editor”与“Synthesizer V Studio”是不同的产品。
+
+“Synthesizer V Editor”及其语音数据库的激活码不能与“Synthesizer V Studio”的不同产品一起使用。
+
+您必须在原始设备上停用语音数据库和 Synthesizer V Studio，然后才能在新设备上使用激活码。
+
+有关详细信息，请参阅“停用和卸载”。
+
+下载 Synthesizer V Studio
+Synthesizer V Studio 有专业版和基础版。
+
+专业版可在 Dreamtonics Store 和其他销售网站上购买。
+安装程序可在购买软件的网站上下载。
+基本版有各种限制，包括有限的音轨数量和较慢的渲染速度。
+点击此处获取最新版本的 Synthesizer V Studio Basic。
+如果您已购买 Synthesizer V Studio Pro，请在 Synthesizer V Studio 安装程序下载器上下载安装程序，然后按照下一组说明进行操作。
+
+1. 输入激活码
+在 [激活码] 字段中输入激活码。
+
+2. OS Selection
+Below [Operating System], choose your operating system.
+install_1_1_2.png
+
+3. Start the Download
+Click on [Submit] to start the download.
+install_1_1_3.png
+
+4. Complete the Download
+After the download is complete, run the Synthesizer V Studio installer.
+install_1_1_6.png
+(The example shows the installation process for Windows)		
+2. 操作系统选择
+在 [操作系统] 下，选择您的操作系统。
+install_1_1_2.png
+
+3. 开始下载
+单击 [提交] 开始下载。
+install_1_1_3.png
+
+4. 完成下载
+下载完成后，运行 Synthesizer V Studio 安装程序。
+install_1_1_6.png
+（示例显示 Windows 的安装过程）
+
+Synthesizer V Studio Install
+The following section describes how to install Synthesizer V Studio on Windows.
+If you have a different operating system, please refer to the Synthesizer V Studio installation instructions for your operating system.
+
+1. Run the Installer
+After you run the installer, a language dialog box will appear.
+Please select the language you want to work with during the installation and click on [OK] to continue.
+
+2. Review the License Agreement
+The license agreement will show, after carefully reading it and if you agree, select [I accept the agreement] and click on [Next].
+install_1_2_2.png
+
+3. Select Install Location
+Select the location where Synthesizer V Studio will be installed and click [Next] to continue. Please do not install it on external storage.
+install_1_2_3.png
+
+4. Select Installation Components
+Synthesizer V Studio Pro has VST・AU・AAX plugins versions that can be used on a DAW.
+For more information on the Synthesizer V Studio plugins, please refer to "Working with a DAW via plugins".
+Select the components you want to install and click on [Next].
+install_2_4.png
+
+The following installers do not include plugins, so this dialog will not appear:
+
+Synthesizer V Studio Basic
+Synthesizer V Studio Pro for Linux
+5. Creating Shortcuts
+Select if you want to create a desktop shortcut, then click on [Next].
+install_1_2_5.png
+
+6. Start the Installation
+Installer will show the progress of the installation, please wait until the installation is complete.
+install_1_2_6.png
+
+7. Complete the Installation
+When the installation is complete, click on [Finish] to end the process.
+If [Run synthv-studio.exe] is selected, Synthesizer V Studio will run after.
+install_1_2_7.png
+
+8. Activation Code
+The Pro version requires an activation code to be entered upon first startup. Enter the activation code and click [OK].
+install_1_2_8.png
+After succesful activation, click [OK] to exit.
+install_1_2_9.png
+
+If the language displayed on the software is not the one you want, change the Interface Language at the top of the Settings panel.
+settings_2.png
+
+Check the Licenses and Updates panel to see if there are any new updates.
+→ "Installing updates"
+Synthesizer V Studio 安装
+以下部分介绍如何在 Windows 上安装 Synthesizer V Studio。
+如果您使用的是其他操作系统，请参阅适用于您操作系统的 Synthesizer V Studio 安装说明。
+
+1. 运行安装程序
+运行安装程序后，将出现一个语言对话框。
+请选择安装过程中要使用的语言，然后单击 [确定] 继续。
+
+2. 查看许可协议
+仔细阅读许可协议后，将显示该协议，如果您同意，请选择 [我接受协议] 并单击 [下一步]。
+install_1_2_2.png
+
+3. 选择安装位置
+选择 Synthesizer V Studio 的安装位置，然后单击 [下一步] 继续。请不要将其安装在外部存储上。
+install_1_2_3.png
+
+4. 选择安装组件
+Synthesizer V Studio Pro 具有可在 DAW 上使用的 VST・AU・AAX 插件版本。
+有关 Synthesizer V Studio 插件的更多信息，请参阅“通过插件使用 DAW”。
+选择要安装的组件，然后单击 [下一步]。
+install_2_4.png
+
+以下安装程序不包含插件，因此不会出现此对话框：
+
+Synthesizer V Studio Basic
+Synthesizer V Studio Pro for Linux
+5. 创建快捷方式
+选择是否要创建桌面快捷方式，然后单击 [下一步]。
+install_1_2_5.png
+
+6. 开始安装
+安装程序将显示安装进度，请等到安装完成。
+install_1_2_6.png
+
+7. 完成安装
+安装完成后，单击 [完成] 结束该过程。
+如果选择了 [运行 synthv-studio.exe]，Synthesizer V Studio 将在之后运行。
+install_1_2_7.png
+
+8. 激活码
+专业版首次启动时需要输入激活码，输入激活码后点击【确定】。
+install_1_2_8.png
+激活成功后点击【确定】退出。
+install_1_2_9.png
+
+如果软件显示的语言不是您想要的，请在设置面板顶部更改界面语言。
+settings_2.png
+
+检查许可证和更新面板是否有任何新更新。
+→ “安装更新”
+
+Download a Synthesizer V Studio Voice Database
+Synthesizer V voice databases licenses are sold by Dreamtonics and its partners.
+The installer for a voice database can be downloaded from the site where you purchased the product.
+
+If you own Synthesizer V Studio Pro, you can use "Synthesizer V AI Mai" voice database for free.
+"Synthesizer V AI Mai" will be automatically activated after installation, as long as the activation of the software has been completed.
+Click here for the installer of Synthesizer V AI Mai
+
+There are some Lite versions of the voice databases if you want to try them before purchasing.
+Lite versions have limited functionality and usage. When publishing a work using a Lite version, it must be clearly stated that the Lite version of the voice database is used (e.g., using Synthesizer V Saki AI Lite).
+Click here for the Lite voice databases installers
+
+If you have purchased any voice database, download the installer on the Synthesizer V Studio Installer Downloader and follow the next set of instructions.
+下载 Synthesizer V Studio 语音数据库
+Synthesizer V 语音数据库许可证由 Dreamtonics 及其合作伙伴销售。
+语音数据库的安装程序可从您购买产品的网站下载。
+
+如果您拥有 Synthesizer V Studio Pro，则可以免费使用“Synthesizer V AI Mai”语音数据库。
+只要完成软件激活，“Synthesizer V AI Mai”将在安装后自动激活。
+点击此处获取 Synthesizer V AI Mai 的安装程序
+
+如果您想在购买前试用语音数据库，可以使用一些精简版。
+精简版的功能和使用有限。使用精简版发布作品时，必须明确说明使用的是语音数据库的精简版（例如，使用 Synthesizer V Saki AI Lite）。
+点击此处获取精简版语音数据库安装程序
+
+如果您购买了任何语音数据库，请在 Synthesizer V Studio Installer Downloader 上下载安装程序，然后按照下一组说明进行操作。
+
+1. Enter the Activation Code
+Enter the activation code in the [Activation Code] field for the voice database.
+install_1_1_1.png
+
+2. Select Operating System
+Select the operating system you're using in the [Operating System] field.
+install_1_1_2.png
+
+3. Submit
+By clicking on the [Submit] button, your activation code will be verified and the available database for the code will be shown.
+install_1_1_3.png
+
+4. Select Version
+You can choose between the available versions of the voice database you want to get. Select the version you want to download. The latest version of the voice database is selected by default.
+install_1_1_4.png
+
+5. Start the Download
+Click on the [Download] button to download the installer for the voice database.
+install_1_1_5.png
+
+6. Complete the Download
+After the download is complete, run the voice database installer.
+install_1_1_7.png
+(Image shows the Saki AI installer)
+
+1. 输入激活码
+在语音数据库的 [激活码] 字段中输入激活码。
+install_1_1_1.png
+
+2. 选择操作系统
+在 [操作系统] 字段中选择您使用的操作系统。
+install_1_1_2.png
+
+3. 提交
+点击 [提交] 按钮，您的激活码将被验证，并显示代码可用的数据库。
+install_1_1_3.png
+
+4. 选择版本
+您可以在要获取的语音数据库的可用版本之间进行选择。选择您要下载的版本。默认情况下会选择语音数据库的最新版本。
+install_1_1_4.png
+
+5. 开始下载
+点击 [下载] 按钮下载语音数据库的安装程序。
+install_1_1_5.png
+
+6. 完成下载
+下载完成后，运行语音数据库安装程序。
+install_1_1_7.png
+（图片显示 Saki AI 安装程序）
+
+Installing a Voice Database
+Warning: Please install Synthesizer V Studio before installing a voice database
+
+1. Run the Installer
+Double-clicking on the voice database installer Synthesizer V Studio will open and the voice database terms of use will show.
+Please read them carefully and if you agree click on [Next].
+install_1_3_1.png
+
+2. Select Installation Location
+Select the location where you want to install the voice database and click on [Next]. Please do not choose external storage.
+install_1_3_2.png
+
+3. Installation
+Installer will show the progress of the installation, please wait until the installation is complete.
+install_1_3_3.png
+
+4. Complete Installation
+After the installation is complete, click on [OK] to finish the installation process.
+install_1_3_4.png
+
+5. Activation
+Paid voice databases require entering an activation code before use.
+After the installation is complete, an activation code dialog box will show, please enter the activation code and click [OK].
+install_1_3_5.png
+After successful activation, click [OK] to exit.
+install_1_3_6.png
+
+It's possible to cancel the activation during installation and activate it later.
+If you canceled the initial activation dialog box, activate the voice database on the [Installed Products] list in the License and Updates panel.
+
+After successful activation, check for new updates in the License and Updates panel.
+→ "Installing updates"
+安装语音数据库
+警告：安装语音数据库前请先安装 Synthesizer V Studio
+
+1. 运行安装程序
+双击语音数据库安装程序 Synthesizer V Studio 将打开并显示语音数据库使用条款。
+请仔细阅读，如果同意，请单击[下一步]。
+install_1_3_1.png
+
+2. 选择安装位置
+选择要安装语音数据库的位置，然后单击[下一步]。请不要选择外部存储。
+install_1_3_2.png
+
+3. 安装
+安装程序将显示安装进度，请等待安装完成。
+install_1_3_3.png
+
+4. 完成安装
+安装完成后，单击[确定] 完成安装过程。
+install_1_3_4.png
+
+5. 激活
+付费语音数据库在使用前需要输入激活码。
+安装完成后，会出现激活码对话框，请输入激活码并点击[确定]。
+install_1_3_5.png
+激活成功后，点击[确定]退出。
+install_1_3_6.png
+
+可以在安装过程中取消激活，稍后再激活。
+如果您取消了初始激活对话框，请在许可证和更新面板中的[已安装产品]列表中激活语音数据库。
+
+激活成功后，在许可证和更新面板中检查是否有新更新。
+→ “安装更新”
+
+Managing Updates
+New versions of Synthesizer V Studio and voice databases are released from time to time to improve software stability and functionality.
+
+When updates for Synthesizer V Studio are available, a dialog box will appear at startup.
+Click [Yes] to download the latest version.
+install_1_4_1.png
+
+Installing Updates
+1. Check for Updates
+Open the License and Updates panel and click the [Check for Updates] button to see if any updates are available.
+install_1.png
+
+2. Download the Update
+When the message "Updates available" appears, select the product you want to update and click on [Status] > [Update] button.
+The download of the update will start.
+
+You may need the latest Synthesizer V Studio version to use the new version of the voice database. Please update Synthesizer V Studio first, and then update the voice database.
+
+install_1_4_2.png
+
+3. Run the Update Program
+Follow the same procedure as for the initial installation:
+
+For updating Synthesizer V Studio itself, the installer for the new version will appear when the download is complete.
+In the case of updating the voice database, the installer will start automatically when the download is complete.
+Install Beta Version
+Dreamtonics releases a beta version that allows you to try out new features before the stable version is released.
+The beta version has the same activation code as the official version.
+To find out if a beta version is currently available, please visit Dreamtonics Website on the "NEWS" section.
+
+When installing the beta version, please understand the following:
+
+The beta version is still under development.
+The beta version may not function properly depending on your work environment and some other factors.
+Please note that there is a possibility that unexpected problems may occur when using the beta version.
+Please update Synthesizer V Studio to the latest beta version before using the beta version of a voice database.
+
+Voice Database Versions
+Multiple versions of a voice database can be installed, and the version to be used can be selected by the user.
+
+When you select the voice database on the [Installed] list in the License and Updates panel, a list of all versions currently installed will show on [Status] > [Installed Versions].
+You can see the information of each installed version and delete older versions.
+
+Please see "Deactivate and Uninstall" for how to remove an older version of a voice database.
+
+管理更新
+Synthesizer V Studio 和语音数据库的新版本会不时发布，以提高软件的稳定性和功能性。
+
+当 Synthesizer V Studio 有更新可用时，启动时会出现一个对话框。
+单击 [是] 下载最新版本。
+install_1_4_1.png
+
+安装更新
+1. 检查更新
+打开“许可证和更新”面板，然后单击 [检查更新] 按钮以查看是否有任何可用更新。
+install_1.png
+
+2. 下载更新
+当出现“有可用更新”消息时，选择要更新的产品，然后单击 [状态] > [更新] 按钮。
+更新下载将开始。
+
+您可能需要最新版本的 Synthesizer V Studio 才能使用新版本的语音数据库。请先更新 Synthesizer V Studio，然后更新语音数据库。
+
+install_1_4_2.png
+
+3. 运行更新程序
+按照与初始安装相同的步骤：
+
+对于更新 Synthesizer V Studio 本身，下载完成后将出现新版本的安装程序。
+对于更新语音数据库，下载完成后安装程序将自动启动。
+安装测试版
+Dreamtonics 发布了测试版，可让您在稳定版发布之前试用新功能。
+测试版具有与正式版相同的激活码。
+要了解当前是否有测试版，请访问 Dreamtonics 网站的“新闻”部分。
+
+安装测试版时，请了解以下事项：
+
+测试版仍在开发中。
+根据您的工作环境和其他一些因素，测试版可能无法正常运行。
+请注意，使用测试版时可能会出现意外问题。
+在使用语音数据库的测试版之前，请将 Synthesizer V Studio 更新至最新测试版。
+
+语音数据库版本
+可以安装多个版本的语音数据库，用户可以选择要使用的版本。
+
+当您在“许可证和更新”面板中的 [已安装] 列表中选择语音数据库时，当前安装的所有版本的列表将显示在 [状态] > [已安装的版本] 上。
+您可以查看每个已安装版本的信息并删除旧版本。
+
+请参阅“停用和卸载”以了解如何删除语音数据库的旧版本。
+
+######################################################
+		03 UI Layout
+Areas and Panels
+Synthesizer V Studio's interface is divided into different areas and panels by functionality.
+Display/hide side panels by clicking on their icons.
+
+
+① Arrangement
+Use the Arrangement panel to create tracks or instrumental tracks.
+
+
+② Piano Roll
+Use the Piano Roll panel to draw and edit notes, display waveforms, change pitch and pronunciation.
+
+
+③ Parameter Panel
+The Parameter Panel allows you to adjust vocal nuances and expression using control points.
+Multiple Parameter Panels can be created and stacked vertically. Up to 3 Parameter Panels can be added.
+
+
+④ Status Bar
+Status bar shows the editor and project state, it also shows a brief description of the control the mouse is over.
+Choose to display or not the status bar in the Settings panel.
+
+
+⑤ Side Panels
+Synthesizer V Studio Pro has 8 side panels, while the Basic version has 7.
+Edit tracks/notes/note groups and change the software's settings using different panels.
+
+(Image shows the Voice panel)
+
+⑥ Side Panel Launch Bar
+Using the Side Panel Launch Bar you can display/hide the different side panels.
+
+
+Voice panel: Manages the general characteristics of vocal tracks/note groups.
+Control all the sections related to the voice you're using (Database Version, Language, Vocal Mode, Tuning, etc) and the changes will apply over the entire track or note group.
+AI Retakes panel: Randomizes the generation of voice timbre and pitch curves. Generate multiple variations and use/discard them.
+Note Properties panel: Manages the Language, Pitch Mode, Expression Group and Timing and Phonemes for selected notes.
+Library panel: Manages the note groups that you've created, drag and drop them on the Arrangement panel or the Piano Roll panel.
+Dictionary panel: Manages words pronunciation, create a dictionary and save preset pronunciations for your most used words.
+Render panel: Manages audio export, select different tracks to be exported into different formats and give them a more complex treatment using an external software.
+Separate aspiration components and treat them separately after exporting.
+License and Updates panel: Manages installed products and licenses, check for updates on your products, voice databases or uninstall past versions.
+Settings panel: Manages software preferences, Interface Language, audio devices, shortcuts, and other default configurations.
+Workspace Customization
+Open multiple panels and adjust (resizing, moving, zooming, etc) them to your prefered workflow.
+
+Expand and Collapse Workareas
+Click on the upper left corner of the Arrangement panel or Piano Roll panel to expand and collapse the panel.
+
+Click on the sections of a side panel to expand/collapse them.
+
+Moving Panels
+Move the cursor over the title of a panel and drag it to move it around the workspace.
+basics_3_2_3.png
+Display and Hide Side Panels
+On the Side Panel Launch Bar, click on any side panel icon to open it.
+If the side panel is already open, clicking on the icon again will close it.
+Add and Remove Parameter Panels
+Click on the Menu Button of the Piano Roll panel to add a Parameter Panel. Multiple Parameter Panels can be created and stacked vertically. Up to 3 Parameter Panels can be added.
+basics_2.png
+Click on the X button of the Parameter Panel to remove it
+Resizing Areas and Panels
+Move the cursor over the borders of the area or panel you want to resize and drag it when the cursor changes to the resizing cursor.
+basics_3.png
+Navigation
+To move vertically on the Arrangement panel or Piano Roll panel, scroll with the mousewheel or drag the vertical scrollbar.
+To move horizontally on the Arrangement panel or Piano Roll panel, hold Shift while scrolling with the mousewheel or drag the horizontal scrollbar.
+Drag using 2 fingers over the touchpad to navigate around.
+If [2D Scroll] is checked in the Settings panel, you can use the side-scroll feature of the touchpad or side-scrolling mouse to move horizontally.
+Zoom
+On Synthesizer V Studio you can:
+
+Hold Ctrl/Command and use the mouse wheel to zoom in (scroll up) and zoom out (scroll down).
+Use stretch-out/pinch-in touchpad gesture to zoom in/zoom out.
+
+区域和面板
+Synthesizer V Studio 的界面根据功能分为不同的区域和面板。
+点击图标即可显示/隐藏侧面板。
+
+① 编曲
+使用编曲面板创建音轨或乐器音轨。
+
+② 钢琴卷帘
+使用钢琴卷帘面板绘制和编辑音符、显示波形、更改音高和发音。
+
+③ 参数面板
+参数面板允许您使用控制点调整声音的细微差别和表达。
+可以创建多个参数面板并垂直堆叠。最多可以添加 3 个参数面板。
+
+④ 状态栏
+状态栏显示编辑器和项目状态，还显示鼠标悬停的控件的简要说明。
+在设置面板中选择是否显示状态栏。
+
+⑤ 侧面板
+Synthesizer V Studio Pro 有 8 个侧面板，而 Basic 版本有 7 个。
+使用不同的面板编辑音轨/音符/音符组并更改软件的设置。
+
+（图片显示语音面板）
+
+⑥ 侧面板启动栏
+使用侧面板启动栏，您可以显示/隐藏不同的侧面板。
+
+语音面板：管理人声音轨/音符组的一般特征。
+控制与您正在使用的声音相关的所有部分（数据库版本、语言、人声模式、调音等），更改将应用​​于整个音轨或音符组。
+AI 重录面板：随机生成语音音色和音高曲线。生成多个变体并使用/丢弃它们。
+音符属性面板：管理所选音符的语言、音高模式、表达组和时序和音素。
+库面板：管理您创建的音符组，将它们拖放到编排面板或钢琴卷帘面板上。
+词典面板：管理单词发音，创建词典并保存最常用单词的预设发音。
+渲染面板：管理音频导出，选择要导出为不同格式的不同音轨，并使用外部软件对其进行更复杂的处理。
+分离愿望组件并在导出后单独处理它们。
+许可证和更新面板：管理已安装的产品和许可证，检查产品更新、语音数据库或卸载以前的版本。
+设置面板：管理软件首选项、界面语言、音频设备、快捷方式和其他默认配置。
+工作区自定义
+打开多个面板并根据您喜欢的工作流程进行调整（调整大小、移动、缩放等）。
+
+展开和折叠工作区
+单击“排列”面板或“钢琴卷帘”面板的左上角以展开和折叠面板。
+
+单击侧面板的部分以展开/折叠它们。
+
+移动面板
+将光标移到面板标题上并拖动以在工作区中移动它。
+basics_3_2_3.png
+显示和隐藏侧面板
+在侧面板启动栏上，单击任何侧面板图标即可将其打开。
+如果侧面板已打开，再次单击图标即可将其关闭。
+添加和删除参数面板
+单击钢琴卷帘面板的菜单按钮可添加参数面板。可以创建多个参数面板并垂直堆叠。最多可以添加 3 个参数面板。
+basics_2.png
+单击参数面板的 X 按钮可将其删除
+调整区域和面板的大小
+将光标移动到要调整大小的区域或面板的边框上，并在光标变为调整大小光标时拖动它。
+basics_3.png
+导航
+要在“编排”面板或“钢琴卷帘”面板上垂直移动，请使用鼠标滚轮滚动或拖动垂直滚动条。
+要在“编排”面板或“钢琴卷帘”面板上水平移动，请按住 Shift 键并使用鼠标滚轮滚动或拖动水平滚动条。
+使用 2 根手指在触摸板上拖动以进行导航。
+如果在“设置”面板中选中了 [2D 滚动]，则可以使用触摸板或侧滚鼠标的侧滚功能水平移动。
+缩放
+在 Synthesizer V Studio 上，您可以：
+
+按住 Ctrl/Command 并使用鼠标滚轮放大（向上滚动）和缩小（向下滚动）。
+使用伸展/捏合触摸板手势放大/缩小。
+
+########################################################
+	04 Editing Tools and Basic Operations
+diting Tools
+Synthesizer V Studio has different editing tools to use on the Arrangement panel or Piano Roll panel.
+
+Multi-editing Tool
+basics_8.png
+Click on the Multi-editing tool icon or press Alt + 1/Option + 1.
+With the Multi-editing tool, you can create, select, move, and change the length of notes.
+
+Selection
+Select a note, note group or parameter control point by clicking on it. Click on an empty space (or press Esc) to deselect.
+Drag on a blank part of the Piano Roll panel or Parameter Panel to select notes or control points.
+Press Ctrl/Command or Shift to multi-select notes/note groups/control points by clicking on them.
+When one or more notes or control points are selected, click while holding Ctrl/Command to additionally select more items or deselect the items.
+When notes or control points are selected, click while holding Shift on a new note and the new note along all notes or control points in between will be selected.
+Drag while holding Shift on the Parameter Panel to select points on the given range of the panel.
+Create/Edit
+Double-click on an empty space to create a note on the Piano Roll panel or a control point on the Parameter Panel.
+Edit note lyrics, phonemes, and note groups by double-clicking on them.
+Drag the start or the end of a note to adjust the length of the note. If multiple notes are selected, the lengths will be changed collectively.
+Move
+Move notes and control points by dragging them. If multiple items are selected, they will be moved together.
+Holding Shift while dragging moves the selected notes or control points vertically only.
+Holding Ctrl/Command while dragging moves the selected note or control point horizontally only.
+Holding Ctrl + Alt/Command + Option while dragging will move the notes without snapping to the grid.
+Holding Shift + Ctrl/Shift + Command + dragging slows down vertical movement of notes and control points and allows finer control.
+Freehand Tool
+basics_9.png
+Click on the Freehand tool icon or press Alt + 2/Option + 2.
+The Freehand tool allows you to draw notes and curves with a single click.
+
+Create and Edit
+Drag to draw a note or parameter curve. Hold the right mouse button while dragging to reset the curve.
+Double-click to edit note lyrics, phonemes, or note groups.
+Select
+Click on a note or a note group to select it.
+Double-click and drag on the Piano Roll to select nearby notes.
+Move
+Move notes by dragging them. To adjust the length of a note, drag the start or the end of the note.
+If [Hide points in freehand mode] is checked in the Settings panel, only curves will be displayed when using the Freehand tool, making it easier to draw.
+If unchecked, the control points will be displayed even when using the Freehand tool, allowing the control points to be selected and manipulated.
+basics_7.png
+
+Straight Line Tool
+basics_10.png
+The Straight Line tool is only available in the Parameter Panel. Click on the tool icon or press Alt + 3/Option + 3 to select the Straight Line tool.
+
+Drag to draw a line. After dragging, control points are added only at the start and end points, and the curve is interpolated according to the Parameter Interpolation mode selected in the Parameter Panel.
+Undo
+Undo an Editing Operation
+Click [Edit] > [History] > [Undo]. (or Ctrl + Z/Command + Z).
+Redo an Editing Operation
+Click [Edit] > [History] > [Redo]. (or Ctrl + Y, Ctrl + Shift + Z/Command + Y, Command + Shift + Z).
+
+编辑工具
+Synthesizer V Studio 在“编排”面板或“钢琴卷帘”面板上有不同的编辑工具可供使用。
+
+多重编辑工具
+basics_8.png
+单击多重编辑工具图标或按 Alt + 1/Option + 1。
+使用多重编辑工具，您可以创建、选择、移动和更改音符的长度。
+
+选择
+单击音符、音符组或参数控制点，选择它。单击空白处（或按 Esc）取消选择。
+拖动“钢琴卷帘”面板或“参数面板”的空白部分以选择音符或控制点。
+按 Ctrl/Command 或 Shift 单击音符/音符组/控制点，以多重选择它们。
+选择一个或多个音符或控制点时，按住 Ctrl/Command 并单击以额外选择更多项目或取消选择项目。
+选择音符或控制点时，按住 Shift 并单击新音符，将选择新音符及其之间的所有音符或控制点。
+在参数面板上按住 Shift 键的同时拖动，以选择面板给定范围内的点。
+创建/编辑
+双击空白处可在钢琴卷帘面板上创建音符或在参数面板上创建控制点。
+双击可编辑音符歌词、音素和音符组。
+拖动音符的开始或结束可调整音符的长度。如果选择了多个音符，则长度将一起更改。
+移动
+通过拖动来移动音符和控制点。如果选择了多个项目，则它们将一起移动。
+拖动时按住 Shift 键只会垂直移动所选音符或控制点。
+拖动时按住 Ctrl/Command 键只会水平移动所选音符或控制点。
+拖动时按住 Ctrl + Alt/Command + Option 键将移动音符而不捕捉到网格。
+按住 Shift + Ctrl/Shift + Command + 拖动可减慢音符和控制点的垂直移动速度并允许更精细的控制。
+手绘工具
+basics_9.png
+单击手绘工具图标或按 Alt + 2/Option + 2。
+手绘工具允许您单击一下绘制音符和曲线。
+
+创建和编辑
+拖动以绘制音符或参数曲线。拖动时按住鼠标右键可重置曲线。
+双击可编辑音符歌词、音素或音符组。
+选择
+单击音符或音符组以将其选中。
+双击并拖动钢琴卷以选择附近的音符。
+移动
+通过拖动来移动音符。要调整音符的长度，请拖动音符的开头或结尾。
+如果在设置面板中选中[在手绘模式下隐藏点]，则使用手绘工具时只会显示曲线，使绘制更容易。
+如果未选中，即使在使用手绘工具时也会显示控制点，从而可以选择和操作控制点。
+basics_7.png
+
+直线工具
+basics_10.png
+直线工具仅在参数面板中可用。单击工具图标或按 Alt + 3/Option + 3 选择直线工具。
+
+拖动以绘制一条线。拖动后，仅在起点和终点处添加控制点，并根据参数面板中选择的参数插值模式对曲线进行插值。
+撤消
+撤消编辑操作
+单击 [编辑] > [历史记录] > [撤消]。（或 Ctrl + Z/Command + Z）。
+重做编辑操作
+单击 [编辑] > [历史记录] > [重做]。（或 Ctrl + Y、Ctrl + Shift + Z/Command + Y、Command + Shift + Z）。
+
+########################################################
+		05 Note Group
+Introducing Note Groups
+A note group is a grouping of notes and parameter control points.
+While editing a note group, a frame will appear around the group.
+
+Each note group can be individually configured in the Voice panel (parameters such as voice database, Vocal Mode, Loudness and Tension).
+library_1.png
+
+Main Group
+Ungrouped notes and control points belong to the track's main group.
+library_2.png
+(In this image, the three notes on the left belong to the main group and the three notes on the right belong to the group "la la la").
+
+Voice databases and parameters set in the main group will also affect other note groups on the same track. If there are parameters set individually for a note group, they will take precedence.
+
+Note Group Instances
+A note group placed on a track or in the Piano Roll is called an instance.
+Note groups and instances have a parent/child clip relationship, and multiple instances can be placed on different tracks.
+
+Editing Data Shared Within a Note Group
+Notes and control points are shared within a note group. When a note or control point is edited, the edited content is reflected in other instances of the same note group.
+
+Edit Data That Does Not Affect Other Instances
+Each instance can be dragged up or down to change its pitch when placed.
+Each instance can be individually configured in the Voice panel (parameters such as voice database, Vocal Mode, loudness and tension).
+Note Groups and Control Points
+Control points in the Parameter Panel can be placed inside or outside of note groups.
+Control points placed outside of a note group (main group) will affect the inside of the note group.
+
+Only control points belonging to the note group (or main group) currently being edited will be displayed in the Parameter Panel.
+If there are control points inside and outside of a note group, the parameters are combined.
+
+Manage Note Groups
+Note groups other than the main group are listed in the Library panel.
+You can name groups, see how many instances are created, and delete unused note groups.
+library_4.png
+
+Creating a Note Group
+Select the notes in the Piano Roll, right-click and choose [Merge into Group] (or Alt + G/Option + G).
+edit-group_8_1.png
+If there are control points in the Parameter Panel, select notes and control points at the same time and group them by clicking on Merge into Group.
+library_5.png
+If you want to select all control points within the range of the selected note, click [Edit] > [Selection] > [Select Parameters for Notes]. (or Ctrl + Alt + A/Command + Option + A)
+
+Deploy an Instance
+To place an existing note group, select the note group in the Library panel and drag it to the Arrangement area or Piano Roll area.
+A new instance of the selected group will be placed.
+Edit the Contents of a Note Group
+To edit notes or control points within a group, enter the note group first.
+While editing a note group, a frame will appear around the group.
+
+In the Piano Roll area, you can edit a note group by double-clicking on a note or clicking on the label above the note group.
+Click on the note group label again (or press Esc) to finish editing the note group.
+library_8.png
+Clicking Note Group in the Arrangement area will allow you to edit the note group.
+Double-click (or press Esc) on any other part of the Arrangement area to finish editing the note group.
+edit-group_8_9.png
+After entering a note group, only notes and control points can be edited in the Piano Roll area, and the instances themselves cannot be moved, lengthened, or split.
+
+Selecting an Instance
+In the Arrangement area and Piano Roll area, you can:
+
+Select an instance by clicking on it.
+Click while holding Ctrl/Command or Shift to select multiple note group instances.
+Click while holding Ctrl + A/Command + A to select all note group instances.
+Deselect with the Esc.
+Move an Instance
+In the Arrangement area and Piano Roll area, you can:
+
+Move an instance by dragging it.
+Holding Ctrl + Alt/Command + Option while dragging will move the instance without snapping to the grid.
+In addition, the following operations can be performed in the Piano Roll area:
+
+Holding Shift while dragging to move the selected instance vertically only.
+Holding Ctrl/Command while dragging moves the selected instance horizontally only.
+You can check if the pitch of an instance has been changed in the Library panel.
+library_15.png
+
+Resize a Note Group
+In the Arrangement area or Piano Roll area, drag the start or the end of an instance to change its length.
+library_9.png
+
+A note that belongs to a note group will not play beyond the length of the note group.
+library_10.png
+
+Split a Note Group
+Split the instance at the selected position to create two new note groups.
+
+Select the instance in the Piano Roll area, right-click and select [Split Group]. The notes before and after the right-clicked position will be split into separate groups.
+Disband an Instance
+When an instance is de-instanced, the notes and control points within the instance will be moved to the main group. Other instances of the same note group will be retained.
+
+Right-click on the instance in the Arrangement area or Piano Roll area and select [Disband Group].
+Right-click on an instance in the Library panel and select [Disband Group].
+Dissociate Instances
+Separate the selected instance from the current note group and creates a new note group.
+
+Right-click the instance in the Arrangement area or Piano Roll area and select [Dissociate Group].
+Deleting an Instance
+Deleting an instance deletes the notes and control points within the instance. Other instances of the same note group will be retained.
+
+In the Arrangement area or Piano Roll area, select an instance and press Delete, or click [Edit] > [Selection] > [Delete Selection].
+In the Library panel, right-click on an instance and select [Delete Instance].
+Delete a Note Group
+Deleting a note group will delete all placed instances.
+
+Right-click on the note group in the Library panel and select [Delete Group].
+Renaming a Note Group
+In the Library panel, double-click on the note group name to edit it.
+edit-group_8_11.png
+
+Sorting Note Groups
+In the Library panel, drag the buttons at the bottom left of note groups to rearrange the order in which note groups appear.
+edit-group_8_12.png
+
+Copy and Paste Note Groups
+In the Arrangement area and Piano Roll area, you can:
+
+On the Menu bar, click on [Edit] > [Clipboard] > [Copy] (or Ctrl + C/Command + C) to copy the selected instance to the clipboard.
+On the Menu bar, click [Edit] > [Clipboard] > [Cut] (or Ctrl + X/Command + X) to cut (delete while copying to the clipboard) the selected instance.
+On the Menu bar, click [Edit] > [Clipboard] > [Paste] (or Ctrl + V/Command + V) to paste the copied instance from the clipboard.
+When pasting for the first time, select either "Paste at the playhead" or "Paste at the same position on screen". The paste behaviour can be changed in the settings panel.
+Please see "Settings" for details on pasting patterns.
+
+介绍音符组
+音符组是音符和参数控制点的分组。
+编辑音符组时，音符组周围会出现一个框架。
+
+每个音符组都可以在“语音”面板中单独配置（参数包括语音数据库、人声模式、响度和张力）。
+library_1.png
+
+主组
+未分组的音符和控制点属于音轨的主组。
+library_2.png
+（在此图中，左侧的三个音符属于主组，右侧的三个音符属于“la la la”组）。
+
+主组中设置的语音数据库和参数也会影响同一音轨上的其他音符组。如果为音符组单独设置了参数，则这些参数将优先。
+
+音符组实例
+放置在音轨上或钢琴卷帘中的音符组称为实例。
+音符组和实例具有父/子剪辑关系，并且可以将多个实例放置在不同的音轨上。
+
+编辑音符组内共享的数据
+音符和控制点在音符组内共享。编辑音符或控制点时，编辑的内容会反映在同一音符组的其他实例中。
+
+编辑不影响其他实例的数据
+每个实例都可以上下拖动以在放置时更改其音高。
+每个实例都可以在语音面板中单独配置（参数如语音数据库、人声模式、响度和张力）。
+音符组和控制点
+参数面板中的控制点可以放置在音符组的内部或外部。
+放置在音符组（主组）外部的控制点将影响音符组的内部。
+
+只有属于当前正在编辑的音符组（或主组）的控制点才会显示在参数面板中。
+如果音符组内部和外部都有控制点，则参数会合并。
+
+管理音符组
+主组以外的音符组列在库面板中。
+您可以命名组、查看创建了多少个实例以及删除未使用的音符组。
+library_4.png
+
+创建音符组
+选择钢琴卷帘中的音符，右键单击并选择 [合并到组]（或 Alt + G/Option + G）。
+edit-group_8_1.png
+如果参数面板中有控制点，请同时选择音符和控制点，然后单击合并到组将它们分组。
+library_5.png
+如果要选择所选音符范围内的所有控制点，请单击 [编辑] > [选择] > [选择音符的参数]。（或 Ctrl + Alt + A/Command + Option + A）
+
+部署实例
+要放置现有音符组，请在库面板中选择音符组并将其拖到编排区域或钢琴卷帘区域。
+将放置所选组的新实例。
+编辑音符组的内容
+要编辑组内的音符或控制点，请先输入音符组。
+编辑音符组时，音符组周围会出现一个框。
+
+在钢琴卷帘区域中，您可以通过双击音符或单击音符组上方的标签来编辑音符组。
+再次单击音符组标签（或按 Esc）以完成对音符组的编辑。
+library_8.png
+单击编排区域中的音符组将允许您编辑音符组。
+双击（或按 Esc）编排区域的任何其他部分以完成对音符组的编辑。
+edit-group_8_9.png
+输入音符组后，在钢琴卷帘区域中只能编辑音符和控制点，实例本身不能移动、加长或拆分。
+
+选择实例
+在编排区域和钢琴卷帘区域中，您可以：
+
+单击选择一个实例。
+按住 Ctrl/Command 或 Shift 键单击以选择多个音符组实例。
+按住 Ctrl + A/Command + A 并单击可选择所有音符组实例。
+使用 Esc 取消选择。
+移动实例
+在编排区域和钢琴卷帘区域中，您可以：
+
+通过拖动来移动实例。
+拖动时按住 Ctrl + Alt/Command + Option 将移动实例而不将其对齐到网格。
+此外，可以在钢琴卷帘区域中执行以下操作：
+
+拖动时按住 Shift 仅垂直移动所选实例。
+拖动时按住 Ctrl/Command 仅水平移动所选实例。
+您可以在库面板中检查实例的音高是否已更改。
+library_15.png
+
+调整音符组的大小
+在编排区域或钢琴卷帘区域中，拖动实例的开始或结束以更改其长度。
+library_9.png
+
+属于音符组的音符不会超出音符组的长度。
+library_10.png
+
+拆分音符组
+在选定位置拆分实例以创建两个新的音符组。
+
+在钢琴卷帘区域中选择实例，右键单击并选择[拆分组]。右键单击位置之前和之后的音符将被拆分为单独的组。
+解散实例
+当实例被解散时，实例内的音符和控制点将移动到主组。同一音符组的其他实例将被保留。
+
+右键单击“编排”区域或“钢琴卷帘”区域中的实例，然后选择 [解散组]。
+右键单击“库”面板中的实例，然后选择 [解散组]。
+分离实例
+将选定的实例与当前音符组分离并创建一个新的音符组。
+
+右键单击“编排”区域或“钢琴卷帘”区域中的实例，然后选择 [解散组]。
+删除实例
+删除实例会删除实例内的音符和控制点。同一音符组的其他实例将被保留。
+
+在“编排”区域或“钢琴卷帘”区域中，选择一个实例并按 Delete，或单击 [编辑] > [选择] > [删除选择]。
+在“库”面板中，右键单击一个实例，然后选择 [删除实例]。
+删除音符组
+删除音符组将删除所有放置的实例。
+
+在库面板中右键单击音符组，然后选择 [删除组]。
+重命名音符组
+在库面板中，双击音符组名称进行编辑。
+edit-group_8_11.png
+
+对音符组进行排序
+在库面板中，拖动音符组左下方的按钮可重新排列音符组的显示顺序。
+edit-group_8_12.png
+
+复制和粘贴音符组
+在编排区域和钢琴卷帘区域中，您可以：
+
+在菜单栏中，单击 [编辑] > [剪贴板] > [复制]（或 Ctrl + C/Command + C）将选定的实例复制到剪贴板。
+在菜单栏中，单击 [编辑] > [剪贴板] > [剪切]（或 Ctrl + X/Command + X）可剪切（复制到剪贴板时删除）选定的实例。
+在菜单栏上，单击 [编辑] > [剪贴板] > [粘贴]（或 Ctrl + V/Command + V）以粘贴从剪贴板复制的实例。
+首次粘贴时，选择“在播放头处粘贴”或“在屏幕上的同一位置粘贴”。可以在设置面板中更改粘贴行为。
+有关粘贴模式的详细信息，请参阅“设置”。
+
+########################################################
+		06 Project Management
+The project is the file that contains all the editing details, including notes, tracks, instrumental tracks, tempo, etc.
+Projects are saved as .svp files.
+
+To start working, create a new project or open an existing one.
+edit-project_5_1.png
+
+Creating a New Project
+When Synthesizer V Studio is launched, a new project is created automatically.
+Click on [File] > [New] (or Ctrl + N/Command + N) will close the current project and create a new one.
+Open a Project
+On the Menu bar, click on [File] > [Open...] (or Ctrl + O/Command + O)
+Select the project file in the [Open...] dialog and click [Open].
+The current project will be closed and the selected project will be opened.
+You can also open a project by:
+
+Find the project file on the Explorer (Windows)/Finder (Mac) and double clicking on it.
+Locate the project file on the Explorer (Windows)/Finder (Mac) and drag the file into the Synthesizer V Studio window.
+Project files created with earlier versions of Synthesizer V Studio or Synthesizer V Editor can also be opened, including:
+
+.svp files created with Synthesizer V Studio 1.9.0 or earlier.
+.s5p files created with the old "Synthesizer V Editor" software.
+These are automatically converted to a new Synthesizer V Studio project when saved.
+
+Newer versions of project files can't be opened in "Synthesizer V Editor".
+Also, to open them in Synthesizer V Studio 1.9.0 or earlier, use Save As (1.9.0-Compatible).
+
+Open Recently Used Files
+Click on [File] > [Open Recent...] and select the project.
+The current project will be closed and the selected project will be opened.
+Import Files in Other Formats
+Synthesizer V Studio can import MIDI files and other song data formats.
+
+Click on [File] > [Import...] (or Ctrl + Shift + I/Command + Shift + I)
+Select the project file in the [Import...] dialog box and click on [Open].
+The current project will be closed and the selected file will be opened as a project.
+You can also open the file by:
+
+Find the file on the Explorer (Windows)/Finder (Mac) and drag the file into the Synthesizer V Studio window.
+Click on [Reopen as new project] to close the current project and open the selected file as a project.
+project_1.png
+Import Tracks to the Current Project
+Import tracks from other projects at the bottom of the current project's tracks.
+In addition to .svp files, MIDI files and other song data formats can be used in this menu.
+
+Click on [File] > [Import as Tracks...] on the Menu bar.
+Select the project file on the [Import as Tracks...] dialog box and click on [Open].
+You can also add tracks to the project by:
+
+Find the file on the Explorer (Windows) / Finder (Mac) and drag it into the Synthesizer V Studio window.
+Click on [Create New Tracks] to add the selected project's tracks to the current project.
+project_1.png
+Tempo is not imported this way.
+
+Save the Project
+Click on [File] > [Save]. (or Ctrl + S/Command + S).
+The first time a new project is saved, the [Save] dialog box will appear. Select a destination, enter a file name, and click on [Save].
+Projects are backed up regularly so edits or progress to a certain extent can be recovered when an unexpected software crash occurs.
+After the crash, the next time Synthesizer V Studio starts, the "Auto Recovery" dialog will appear and you can choose whether or not to show the recovered backup file.
+edit-project_5_6.png
+Recovered files are stored in the following locations
+
+Windows:C:\Users<username>\Documents\Dreamtonics\Synthesizer V Studio\recovery.
+macOS: Macintosh HD/Library/Application Support/Dreamtonics/Synthesizer V Studio/recovery.
+Save the project periodically, as it is not always possible to ensure that the latest data can be recovered.
+
+¶Save As
+Click on [File] > [Save As...] (or Ctrl + Shift + S/Command + Shift + S).
+Click on [Save As...] and on the [Save As...] dialog, select a destination, enter a file name, and click on "Save".
+After that, selecting [File] > [Save] will overwrite this project file.
+
+Save As (1.9.0-Compatible)
+Projects created on Synthesizer V Studio version 1.10.0 or later must be saved as 1.9.0-Compatible to be opened in version 1.9.0 or earlier.
+
+Click on [File] > [Save As (1.9.0-Compatible)...].
+On the [Save As (1.9.0-Compatible)...] dialog box, select a location to save the file, enter a file name, and click on [Save].
+If you edit and save the project in subsequent operations, it will not be automatically overwritten and saved to this project file.
+[File] > [Save] will overwrite (or save to a new project file) a previously saved project file.
+
+项目是包含所有编辑细节的文件，包括音符、音轨、乐器音轨、节奏等。
+项目保存为 .svp 文件。
+
+要开始工作，请创建一个新项目或打开一个现有项目。
+edit-project_5_1.png
+
+创建新项目
+启动 Synthesizer V Studio 时，会自动创建一个新项目。
+单击 [文件] > [新建]（或 Ctrl + N/Command + N）将关闭当前项目并创建一个新项目。
+打开项目
+在菜单栏上，单击 [文件] > [打开...]（或 Ctrl + O/Command + O）
+在 [打开...] 对话框中选择项目文件，然后单击 [打开]。
+当前项目将关闭，所选项目将打开。
+您也可以通过以下方式打开项目：
+
+在资源管理器 (Windows)/Finder (Mac) 上找到项目文件并双击它。
+在 Explorer (Windows)/Finder (Mac) 上找到项目文件，然后将文件拖到 Synthesizer V Studio 窗口中。
+还可以打开使用 Synthesizer V Studio 或 Synthesizer V Editor 早期版本创建的项目文件，包括：
+
+使用 Synthesizer V Studio 1.9.0 或更早版本创建的 .svp 文件。
+使用旧版“Synthesizer V Editor”软件创建的 .s5p 文件。
+保存时，这些文件会自动转换为新的 Synthesizer V Studio 项目。
+
+无法在“Synthesizer V Editor”中打开较新版本的项目文件。
+此外，要在 Synthesizer V Studio 1.9.0 或更早版本中打开它们，请使用另存为（兼容 1.9.0）。
+
+打开最近使用的文件
+单击 [文件] > [打开最近...] 并选择项目。
+当前项目将关闭，选定的项目将打开。
+导入其他格式的文件
+Synthesizer V Studio 可以导入 MIDI 文件和其他歌曲数据格式。
+
+单击 [文件] > [导入...]（或 Ctrl + Shift + I/Command + Shift + I）
+在 [导入...] 对话框中选择项目文件，然后单击 [打开]。
+当前项目将关闭，所选文件将作为项目打开。
+您也可以通过以下方式打开文件：
+
+在资源管理器（Windows）/ Finder（Mac）上找到文件，然后将文件拖到 Synthesizer V Studio 窗口中。
+单击 [重新打开为新项目] 关闭当前项目，并将所选文件作为项目打开。
+project_1.png
+将曲目导入当前项目
+在当前项目曲目的底部从其他项目导入曲目。
+除了 .svp 文件外，此菜单中还可以使用 MIDI 文件和其他歌曲数据格式。
+
+单击菜单栏上的 [文件] > [导入为音轨...]。
+在 [导入为音轨...] 对话框中选择项目文件，然后单击 [打开]。
+您还可以通过以下方式将音轨添加到项目中：
+
+在资源管理器 (Windows) / Finder (Mac) 上找到文件，并将其拖到 Synthesizer V Studio 窗口中。
+单击 [创建新音轨] 将所选项目的音轨添加到当前项目。
+project_1.png
+速度不是通过这种方式导入的。
+
+保存项目
+单击 [文件] > [保存]。（或 Ctrl + S/Command + S）。
+首次保存新项目时，将出现 [保存] 对话框。选择目标位置，输入文件名，然后单击 [保存]。
+项目会定期备份，因此当发生意外的软件崩溃时，可以在一定程度上恢复编辑或进度。
+崩溃后，下次启动 Synthesizer V Studio 时，将出现“自动恢复”对话框，您可以选择是否显示恢复的备份文件。
+edit-project_5_6.png
+恢复的文件存储在以下位置
+
+Windows：C:\Users<用户名>\Documents\Dreamtonics\Synthesizer V Studio\recovery。
+macOS：Macintosh HD/Library/Application Support/Dreamtonics/Synthesizer V Studio/recovery。
+定期保存项目，因为无法始终确保可以恢复最新数据。
+
+¶另存为
+单击 [文件] > [另存为...]（或 Ctrl + Shift + S/Command + Shift + S）。
+单击 [另存为...]，然后在 [另存为...] 对话框中选择目标，输入文件名，然后单击“保存”。
+之后，选择 [文件] > [保存] 将覆盖此项目文件。
+
+另存为（1.9.0 兼容）
+在 Synthesizer V Studio 1.10.0 或更高版本上创建的项目必须另存为 1.9.0 兼容，才能在 1.9.0 或更早版本中打开。
+
+单击 [文件] > [另存为（1.9.0 兼容）...]。
+在 [另存为（1.9.0 兼容）...] 对话框中，选择保存文件的位置，输入文件名，然后单击 [保存]。
+如果您在后续操作中编辑并保存项目，则不会自动覆盖并保存到此项目文件。
+[文件] > [保存] 将覆盖（或保存到新项目文件）先前保存的项目文件。
+
+########################################################
+		07 Tempo and Time Signature
+Set the tempo and time signature of the project. This can also be changed during the course of a song.
+Since tempo and time signature affect all tracks, it is best to set them first after creating a project to ensure smooth operation.
+
+Set the Tempo
+Set the tempo (speed of the song). The units for the tempo are BPM (beats per minute), which can be set from 10 to 1000 BPM.
+
+Do the following operations on the Arrangement area and Piano Roll area.
+
+Double-click on the tempo marker near the first measure of the time axis, enter the tempo in the [Edit Tempo Marker] dialog, and click [OK].
+edit-project_5_13.png
+Right-click where you want to change the tempo and select [Set Tempo Here]. On the [Edit Tempo Marker] dialog, enter a new tempo and click [OK].
+edit-project_5_14.png
+Double-click where you want to change the tempo, in the [Edit Tempo Marker] dialog that appears, enter the new tempo and click [OK].
+Set the Time Signature
+Do the following operations on the Arrangement area and Piano Roll area.
+
+Double-click on the time signature symbol near the first measure of the time axis, enter the time signature in the [Edit Time Signature] dialog, and click [OK].
+edit-project_5_11.png
+Right-click where you want to change the time signature and select [Set Time Signature Here]. On the [Edit Time Signature] dialog, enter a new time signature and click [OK].
+edit-project_5_12.png
+To edit an existing time signature marker, double-click on the marker and enter the new time signature, then click [OK].
+
+设置项目的节奏和拍号。在歌曲过程中也可以更改。
+由于节奏和拍号会影响所有音轨，因此最好在创建项目后先设置它们以确保操作流畅。
+
+设置节奏
+设置节奏（歌曲的速度）。节奏的单位是 BPM（每分钟节拍数），可以设置为 10 到 1000 BPM。
+
+在编排区域和钢琴卷区域执行以下操作。
+
+双击时间轴第一小节附近的节奏标记，在 [编辑节奏标记] 对话框中输入节奏，然后单击 [确定]。
+edit-project_5_13.png
+右键单击要更改节奏的位置，然后选择 [在此处设置节奏]。在 [编辑节奏标记] 对话框中，输入新节奏，然后单击 [确定]。
+edit-project_5_14.png
+双击要更改速度的位置，在出现的[编辑速度标记]对话框中，输入新速度并单击[确定]。
+设置拍号
+在编排区域和钢琴卷区域执行以下操作。
+
+双击时间轴第一小节附近的拍号符号，在[编辑拍号]对话框中输入拍号，然后单击[确定]。
+edit-project_5_11.png
+右键单击要更改拍号的位置，然后选择[在此处设置拍号]。在[编辑拍号]对话框中，输入新的拍号并单击[确定]。
+edit-project_5_12.png
+要编辑现有的拍号标记，请双击标记并输入新的拍号，然后单击[确定]。
+
+########################################################
+		08 Transport
+Use the transport controls to manage playback and hear your work in progress.
+The "playhead" determines where the playback will start from. If loop mode is enabled, it will start from the beginning of the loop area.
+
+Basic Transport Operation
+Control the playback using the transport controls, they appear on the Arrangement area or Piano Roll area when you click on the area.
+
+The transport controls consist of:
+edit-project_5_8_1.png
+
+Play button: Start the playback from the playhead position (or from the beginning of the loop area in "Loop Mode").
+Pause button: Pauses the playback. Pause retains the playhead position or resets it depending on the mode it is set.
+Stop button: Stops the playback and resets the playhead position.
+Record button: Records notes. Creates notes in the Piano Roll via a MIDI input device.
+Seek to the Beginning button: Positions the playhead at the start of the project.
+Seek to the End button: Positions the playhead at the end of the project.
+edit-project_5_8_2.png
+
+Playback position after pause: When on, the playhead is held where it was paused. When off, it resets the playback position to where it was when playback started.
+Playback loop: Turn looped playback on or off.
+Metronome: Turns on/off metronome sound during playback.
+If [Recording] > [Disable metronome during playback] is checked in the Settings panel, the metronome will sound only while recording.
+Transport controls will only appear in the focused area, whether it is the Arrangement panel or the Piano Roll panel.
+transport_1.png
+
+Play
+To start the playback: Click the [Play] button on the transport control (or press Space).
+During playback, the [Play] button becomes the [Pause] button.
+To pause the playback: Click the [Pause] button on the transport control (or press Space).
+To stop the playback: Click the [Stop] button on the transport control (or press Ctrl + Space/Command + Space).
+Move Playhead Position
+To move to a specific location: Click on the time axis in the Arrangement area or Piano Roll area.
+Move to the start of the song: Click the [Seek to the Beginning] button in the transport control.
+Move to the end of song: Click the [Seek to the End] button in the transport control. (or Ctrl + End/Command + End).
+Loop Playback
+Click the [Playback: loop disabled/enabled] button on the transport control to turn repeated playback on or off.
+Adjust Loop Range
+On the time axis in the Arrangement panel or Piano Roll panel, drag the loop range mark horizontally to adjust its length.
+edit-project_5_9.png
+Move Loop Range
+On the time axis in the Arrangement area or Piano Roll area, drag the loop range band horizontally to move it.
+edit-project_5_10.png
+Transport Control Using MIDI Devices (Pro Version Only)
+See Using a MIDI keyboard for instructions on how to control playback using a MIDI device.
+
+使用传输控件来管理播放并聆听正在进行的工作。
+“播放头”决定播放从哪里开始。如果启用了循环模式，它将从循环区域的开头开始。
+
+基本传输操作
+使用传输控件控制播放，当您单击该区域时，它们会出现在编排区域或钢琴卷帘区域上。
+
+传输控件包括：
+edit-project_5_8_1.png
+
+播放按钮：从播放头位置开始播放（或在“循环模式”下从循环区域的开头开始播放）。
+暂停按钮：暂停播放。暂停保留播放头位置或根据设置的模式重置播放头位置。
+停止按钮：停止播放并重置播放头位置。
+录制按钮：录制音符。通过 MIDI 输入设备在钢琴卷帘中创建音符。
+搜索到开头按钮：将播放头定位在项目的开头。
+定位到结尾按钮：将播放头定位到项目结尾。
+edit-project_5_8_2.png
+
+暂停后的播放位置：打开时，播放头保持在暂停的位置。关闭时，将播放位置重置为播放开始时的位置。
+播放循环：打开或关闭循环播放。
+节拍器：在播放期间打开/关闭节拍器声音。
+如果在设置面板中选中 [录音] > [播放期间禁用节拍器]，则节拍器仅在录音时发声。
+传输控件将仅出现在焦点区域中，无论是编排面板还是钢琴卷帘面板。
+transport_1.png
+
+播放
+要开始播放：单击传输控件上的 [播放] 按钮（或按空格键）。
+在播放过程中，[播放] 按钮变为 [暂停] 按钮。
+要暂停播放：单击传输控件上的 [暂停] 按钮（或按空格键）。
+要停止播放：单击传输控件上的 [停止] 按钮（或按 Ctrl + Space/Command + Space）。
+移动播放头位置
+要移动到特定位置：单击编排区域或钢琴卷帘区域中的时间轴。
+移动到歌曲的开头：单击传输控件中的 [搜索到开头] 按钮。
+移动到歌曲的结尾：单击传输控件中的 [搜索到结尾] 按钮。（或 Ctrl + End/Command + End）。
+循环播放
+单击传输控件上的 [播放：循环禁用/启用] 按钮可打开或关闭重复播放。
+调整循环范围
+在编排面板或钢琴卷帘面板的时间轴上，水平拖动循环范围标记以调整其长度。
+edit-project_5_9.png
+移动循环范围
+在编排区域或钢琴卷帘区域的时间轴上，水平拖动循环范围带以移动它。
+edit-project_5_10.png
+使用 MIDI 设备进行传输控制（仅限专业版）
+有关如何使用 MIDI 设备控制播放的说明，请参阅使用 MIDI 键盘。
+
+########################################################
+		09 Arrangement
+The Arrangement area helps you organize and control the tracks, note groups, and instrumental tracks on the project. Align audios, arrange note groups, and name individual tracks on the Arrangement area.
+edit-tracks_6_1.png
+Types of tracks available:
+
+Vocal Tracks: This track is used to create and edit vocals. It contains notes and various parameters, as well as settings for the voice database.
+Instrumental Tracks: These tracks can be used to load and play audio files. Waveforms are displayed on the timeline.
+Basic Track Operations
+
+
+Track name: Allows you to view and change the names of tracks and instrumental tracks.
+Menu (Arrangement View): Displays the menus available in the track area. New tracks can be created here.
+Time Axis Bar and Marker: Displays the time axis and time signature/tempo symbols for the project.
+Edit and create time signature/tempo markers on the time axis.
+Rearrange Tracks: Rearrange the tracks by dragging them up and down.
+Current Default Voice/Audio: Displays the voice database currently loaded on the track or the audio loaded on the instrumental track.
+Click here to select vocals or change the audio.
+Mixer and Track Control: Here you can adjust the volume and panning of the track. Mute and Solo buttons are also located here.
+Vocal Tracks
+Create a Vocal Track
+Click the MENU button on the Arrangement area (or right-click on an empty space below the project's tracks) and select [Create a New Track].
+tracks_4.png
+
+Select a Voice Database
+Click on the track's voice database name (or [No default voice] if not selected) and select the database you want to use.
+Only installed products will appear on the list. You can change the track's voice database at any time.
+edit-tracks_6_7.png
+
+There are two types of voice databases: Best for Singing and Best for Rapping.
+Any voice database can be used in both singing and rapping mode.
+
+The voice database selected will be the default voice database for note groups placed in the track.
+
+Select a Track
+You can operate the selected track in the Piano Roll area.
+
+Click on the empty space in the track header.
+tracks_6.png
+Double-click on the empty space of the track in the Arrangement area.
+tracks_7.png
+Placing and Moving Note Groups
+In addition to creating notes directly in a track using the Piano Roll, you can also place "note groups".
+See "Note Groups" for details.
+library_2.png
+
+Placing Note Groups
+Select an existing note group in the Library panel and drag it to the Arrangement area.
+
+Moving Note Groups
+Move note groups by dragging them. Note groups can also be moved to other tracks.
+
+Instrumental Tracks
+Audio formats such as WAV, FLAC, and OGG are available for the instrumental track.
+
+MP3 files can also be imported, but you can choose to convert them to WAV format upon import, since using them on MP3 may result in playback timing errors.
+tracks_2.png
+
+Create a New Instrumental Track
+Click the MENU button on the Arrangement area (or right-click on an empty space below the project's tracks) and select [Create a New Instrumental Track].
+tracks_4.png
+In the [Choose instrumental audio file] dialog, select the file you wish to import and click [Open].
+Alternatively, locate the audio file you want to open in Explorer (Windows)/Finder (Mac) and drag the file into the Synthesizer V Studio window.
+Selecting an Audio
+Click on the Audio File Name on the instrumental track and select the file you want to use.
+edit-tracks_6_8.png
+Editing Audio
+Moving
+Move the audio by dragging it. If multiple audio files are selected, they will move together.
+Holding Ctrl + Alt/Command + Option while dragging will move the audio without snapping to the grid.
+Changing the Length
+Drag the start or the end of the audio to change its length.
+
+If the track quantize is set, the audio will snap to the grid lines of the closest measure.
+The width of the grid lines can be set by going to [View] > [Arrangement] > [Snapping] on the Menu bar.
+tracks_3.png
+
+Voice-to-MIDI Conversion Function
+Extract pitch and lyrics from audio and convert it to notes.
+See "Voice-to-MIDI conversion" for more details.
+voice-to-midi_2.png
+
+Duplicate a Track
+Right-click on the empty space in the track header and select [Duplicate Track].
+edit-tracks_6_4.png
+
+Rename Track
+Double-click on the track name and enter a new name.
+edit-tracks_6_5.png
+
+Change Track color
+Right-click on the empty space in the track header and select a new track color.
+tracks_1.png
+
+Reorder Tracks
+Drag the handle at the bottom left of the track to rearrange the order in which tracks are displayed.
+tracks_5.png
+
+Adjust Volume
+Drag the volume knob of the track. Or, place the mouse cursor over the volume knob and rotate the mousewheel.
+Reset the volume knob by double-clicking on it.
+edit-tracks_6_9.png
+Adjust Panning
+Drag the pan knob on the track. Or, place the mouse cursor over the pan knob and rotate the mouse wheel.
+Reset by double-clicking on the pan knob.
+edit-tracks_6_10.png
+Mute a Track
+Clicking the Mute button on a track will mute the sound of that track. Click again to unmute.
+edit-tracks_6_11.png
+Solo a Track
+Clicking a track's Solo button will cause only the soloed track to be played. Click again to un-solo.
+edit-tracks_6_12.png
+Delete Track
+Right-click on the empty space in the track header and select [Delete Track].
+
+编排区域可帮助您组织和控制项目中的音轨、音符组和乐器音轨。在编排区域对齐音频、编排音符组和命名单个音轨。
+edit-tracks_6_1.png
+可用音轨类型：
+
+人声音轨：此音轨用于创建和编辑人声。它包含音符和各种参数，以及语音数据库的设置。
+乐器音轨：这些音轨可用于加载和播放音频文件。波形显示在时间线上。
+基本音轨操作
+
+音轨名称：允许您查看和更改音轨和乐器音轨的名称。
+菜单（编排视图）：显示音轨区域中可用的菜单。可以在此处创建新音轨。
+时间轴栏和标记：显示项目的时间轴和拍号/节奏符号。
+在时间轴上编辑和创建拍号/节奏标记。
+重新排列音轨：通过上下拖动音轨来重新排列音轨。
+当前默认语音/音频：显示当前加载在音轨上的语音数据库或加载在乐器音轨上的音频。
+单击此处可选择人声或更改音频。
+混音器和音轨控制：您可以在此处调整音轨的音量和声像。静音和独奏按钮也位于此处。
+人声音轨
+创建人声音轨
+单击“编排”区域的“菜单”按钮（或右键单击项目音轨下方的空白处）并选择 [创建新音轨]。
+tracks_4.png
+
+选择语音数据库
+单击音轨的语音数据库名称（或如果未选择，则单击 [无默认语音]）并选择要使用的数据库。
+列表中仅显示已安装的产品。您可以随时更改音轨的语音数据库。
+edit-tracks_6_7.png
+
+语音数据库有两种类型：最适合唱歌和最适合说唱。
+任何语音数据库都可以在唱歌和说唱模式下使用。
+
+所选的语音数据库将成为音轨中音符组的默认语音数据库。
+
+选择音轨
+您可以在钢琴卷帘区域中操作所选音轨。
+
+单击音轨标题中的空白处。
+tracks_6.png
+双击编排区域中音轨的空白处。
+tracks_7.png
+放置和移动音符组
+除了使用钢琴卷帘直接在音轨中创建音符外，您还可以放置“音符组”。
+请参阅“音符组”了解详情。
+library_2.png
+
+放置音符组
+在库面板中选择一个现有音符组并将其拖到编排区域。
+
+移动音符组
+通过拖动来移动音符组。 音符组也可以移动到其他音轨。
+
+乐器音轨
+乐器音轨可以使用 WAV、FLAC 和 OGG 等音频格式。
+
+MP3 文件也可以导入，但您可以选择在导入时将其转换为 WAV 格式，因为在 MP3 上使用它们可能会导致播放时间错误。
+tracks_2.png
+
+创建新乐器音轨
+单击“编排”区域的“菜单”按钮（或右键单击项目音轨下方的空白处），然后选择 [创建新乐器音轨]。
+tracks_4.png
+在 [选择乐器音频文件] 对话框中，选择要导入的文件，然后单击 [打开]。
+或者，在资源管理器 (Windows)/Finder (Mac) 中找到要打开的音频文件，然后将文件拖到 Synthesizer V Studio 窗口中。
+选择音频
+单击乐器音轨上的音频文件名，然后选择要使用的文件。
+edit-tracks_6_8.png
+编辑音频
+移动
+通过拖动来移动音频。如果选择了多个音频文件，它们将一起移动。
+拖动时按住 Ctrl + Alt/Command + Option 键将移动音频而不对齐到网格。
+更改长度
+拖动音频的开始或结束以更改其长度。
+
+如果设置了轨道量化，音频将对齐到最接近小节的网格线。
+可以通过转到菜单栏上的 [视图] > [排列] > [对齐] 来设置网格线的宽度。
+tracks_3.png
+
+语音到 MIDI 转换功能
+从音频中提取音高和歌词并将其转换为音符。
+有关更多详细信息，请参阅“语音到 MIDI 转换”。
+voice-to-midi_2.png
+
+复制轨道
+右键单击轨道标题中的空白处并选择 [复制轨道]。
+edit-tracks_6_4.png
+
+重命名轨道
+双击轨道名称并输入新名称。
+edit-tracks_6_5.png
+
+更改音轨颜色
+右键单击音轨标题中的空白处并选择新的音轨颜色。
+tracks_1.png
+
+重新排序音轨
+拖动音轨左下方的手柄可重新排列音轨的显示顺序。
+tracks_5.png
+
+调整音量
+拖动音轨的音量旋钮。或者，将鼠标光标放在音量旋钮上并旋转鼠标滚轮。
+双击音量旋钮即可重置音量旋钮。
+edit-tracks_6_9.png
+调整声像
+拖动音轨上的声像旋钮。或者，将鼠标光标放在声像旋钮上并旋转鼠标滚轮。
+双击声像旋钮即可重置。
+edit-tracks_6_10.png
+静音音轨
+单击音轨上的静音按钮将使音轨静音该音轨的声音。再次单击可取消静音。
+edit-tracks_6_11.png
+独奏音轨
+单击音轨的“独奏”按钮将只播放独奏音轨。再次单击可取消独奏。
+edit-tracks_6_12.png
+删除音轨
+右键单击音轨标题中的空白处，然后选择 [删除音轨]。
+
+########################################################
+		10 Piano Roll
+In the Piano Roll area, you can enter and edit notes.
+Create note groups and edit pitch, waveform, lyrics, pronunciation, take, etc.
+
+The vertical axis of the Piano Roll represents pitch and the horizontal axis represents time. Clicking on a key on the left side of the Piano Roll will play a piano note, allowing you to check the pitch of the note.
+Lyrics are displayed inside the notes, and phonemes (pronunciations) are displayed above the notes.
+edit-melody_7_1.png
+
+Piano Roll Basics
+
+
+Editing tool: You can select a tool for editing notes and melodies. There are two tools: the "Multi-editing tool" and the "Freehand tool".
+Editing mode: "Note Editing mode" and "Direct Pitch Editing mode" can be selected.
+In Note Editing mode, notes and note groups can be edited. Direct Pitch Editing mode allows you to edit the pitch curve directly on the Piano Roll.
+Link Editing Tool with Editing Mode: Links the editing tool with the editing mode. When the link is activated, switching the editing tool also switches the editing mode at the same time.
+Visualization: You can select whether to display the "Engine Input Pitch", "Engine Output Pitch", "Engine Output Waveform", "Phoneme Timing" or "AI Retakes" on the screen. The "Engine Output Pitch" will only be displayed in the standard (non AI) version of the voice database.
+Snapping (Piano Roll): Allows you to set the quantization of the Piano Roll. If not turned off, notes will snap to the grid lines when editing note lengths, etc. When "Adaptative" is selected, the grid size will automatically adjust based on the zoom level.
+Time axis and marker: Displays the time axis and time signature/tempo symbols for the project.
+Edit and create time signature/tempo markers on the time axis.
+Recenter View Button: When there's not any notes visible on screen, click on it to change the view to the position of the nearest note.
+Menu (Piano Roll): Displays the menus available in the Piano Roll. Parameter Panels can be added from here.
+Pitch: Displays the pitch of the Piano Roll. Click on a key in the Piano Roll to hear the pitch.
+Entering Notes
+edit-melody_7_2.png
+
+Using the Multi-editing tool (Alt + 1/Option + 1), double-click on the location where you want to create a note.
+Drag to adjust the length of the note.
+Using the Freehand tool (Alt + 2/Option + 2), the note will be entered at the position you drag.
+In the Pro version, notes can be entered using a MIDI keyboard. For details, see "Using a MIDI keyboard".
+To enter a note, the editing mode must be set to "Note Editing mode: ON".
+pianoroll_6.png
+
+Notes can't be stacked. If you want to create a harmony, enter the notes on a separate track.
+pianoroll_4.png
+
+Note Selection
+Select notes by clicking on them.
+Tab to select the next note.
+Ctrl + Tab/Command + Tab to select the previous note.
+Ctrl/Command or Shift for multiple selections.
+When notes are selected, Ctrl + Click/Command + Click will allow you to select or deselect more notes.
+When a note is selected, Shift + Click on a different note will select all notes in between them.
+Ctrl + A/Command + A selects all notes on the selected Track.
+Press Esc to deselect all notes.
+Moving Notes
+Move notes by dragging them by the center. If multiple notes are selected, they will be moved together.
+Changing Time
+Ctrl/Command + Dragging moves the selected notes horizontally only.
+Ctrl + Alt/Command + Option + Dragging will move the selected notes without snapping to the grid.
+When [SNAP] is set, the moving note will snap to a grid line of the specified width.
+pianoroll_5.png
+
+Changing Pitch
+Shift + Drag moves the selected notes vertically only.
+Ctrl + Shift/Command + Shift + Drag to adjust the microtones in increments of 25 cents (Pro version only).
+To reset the detuned tone adjustment, right-click on the note you want to reset and select [Reset] > [Reset Detuned Notes].
+Ctrl + Alt + Shift/Command + Option + Shift + drag will move only vertically without snapping to the grid.
+Specify the Pitch Offset
+edit-melody_7_14.png
+
+On the Menu bar, click [Modify] > [Score Making] > [Shift Up by an Octave] (or Ctrl + U/Command + U) to raise the selected notes by one octave.
+On the Menu bar, click [Modify] > [Score Making] > [Shift Down by an Octave] (or Ctrl + D/Command + D) to lower the selected notes by one octave.
+On the Menu bar, click [Modify] > [Score Making] > [Transpose] (or Ctrl + T/Command + T) to move the selected notes pitch by semitones.
+Change Length
+Drag the end of a note to change its length. If multiple notes are selected, the length will change collectively.
+edit-melody_7_11.png
+Fill In the Gaps Between Notes
+Short gaps between notes may affect word's pronunciation and the result will not sound natural. You can fill the gaps in the following ways:
+
+If there is a short gap between notes, the [SIL] button will appear. Clicking on it will stretch the previous note to fill the gap.
+edit-melody_7_9.png
+To fill in a large number of gaps at once, with the note selected, click [Modify] > [Score Making] > [Remove Short Silences...]. Gaps of length less than the "threshold" set in the dialog box will be filled.
+edit-melody_7_10.png
+Align Note Start and End
+On the Menu bar, click [Modify] > [Score Making] > [Snap to Grid] (or Ctrl + G/Command + G) to snap the selected note ends to the nearest grid.
+pianoroll_7.png
+On the Menu bar, click [Modify] > [Score Making] > [Smart Quantization...] to correct the selected note ends to the proper position for the tempo. The intensity of the correction can be set in the dialog.
+pianoroll_8.png
+Edit Lyrics
+Double-click on a note to edit the lyrics.
+edit-melody_7_19.png
+You can do the following:
+
+Press Tab to edit the lyrics of the next note.
+Press Ctrl + Tab/Command + Tab to edit the lyrics of the previous note.
+Press Enter/Return to confirm the lyrics.
+Press Esc to cancel editing the lyrics.
+Batch Lyrics Input
+You can enter lyrics to the selected notes at once. This menu can be selected in the following ways:
+
+Select a note and on the Menu bar, click [Modify] > [Note] > [Insert Lyrics...]
+Right-click on the note and select [Insert Lyrics...].
+Ctrl + L/Command + L to enter lyrics in batch.
+pianoroll_3.png
+Type the lyrics in the text box and click [OK]. The lyrics will be separated by spaces and assigned to each note.
+
+If [Pattern Fill] is checked, the lyrics will be repeated if there are more notes selected than lyrics entered.
+pianoroll_9.png
+If [Separate into Characters] is checked, one character per note will be entered. This is useful for Japanese and Chinese lyrics.
+pianoroll_10.png
+To set/change the default lyrics for notes, change [Editor] > [Note Default Lyrics] in the Settings panel.
+edit-melody_7_18.png
+
+Special Symbols for Lyrics
+When entering lyrics, the following special symbols can be used:
+
+[ - ]: Continues the previous pronunciation.
+pianoroll_11.png
+[ + ]: splits the syllable of the previous word. For example: "beautiful" has three syllables, "beau-ti-ful", and you can type "beautiful", "+", and "+" to represent the three syllables with three notes.
+pianoroll_12.png
+(The image shows the English word "beautiful" divided into three notes).
+[ br ]: Breath (inhalation) can be reproduced. This is only available in the AI voice database.
+pianoroll_13.png
+[ ' (cl)]: Adding a " ' " before a word inserts a glottal closure sound. This is especially effective when you want to separate a vowel from the previous pronunciation. This is only available in AI voice databases.
+pianoroll_14.png
+Shift Lyrics Back and Forth
+If the lyrics are out of sync with the notes you have entered, you can shift the lyrics backwards or forwards.
+
+Shift Lyrics to the Right
+On the Menu bar, click [Modify] > [Shift lyrics to the Right]. (or Ctrl + Shift + →/Command + Shift + →)
+
+Shift Lyrics to the Left
+On the Menu bar, click [Modify] > [Shift lyrics to the Left]. (or Ctrl + Shift + ←/Command + Shift + ←)
+
+Edit a Phoneme
+Double-click on the phoneme above the note to edit it.
+To reset the editing of a phoneme, right-click on the note you want to reset and select [Reset] > [Reset Phonemes].
+edit-melody_7_20.png
+You can do the following:
+
+Press Tab to edit the next note's phoneme
+Press Ctrl + Tab/Command + Tab edits the phoneme of the previous note.
+Press Enter/Return to confirm the phoneme.
+Press Esc to cancel the editing of a phoneme.
+The available phonemes can be found in the Phoneme Reference.
+
+Deleting Notes
+Select a note and press Delete or click [Edit] > [Selection] > [Delete Selection].
+Copy and Paste Notes
+On the Menu bar, click [Edit] > [Clipboard] > [Copy] (or Ctrl + C/Command + C) to copy the selected notes.
+On the Menu bar, click [Edit] > [Clipboard] > [Cut] (or Ctrl + X/Command + X) to cut (delete while copying to the clipboard) the selected notes.
+On the Menu bar, click [Edit] > [Clipboard] > [Paste] (or Ctrl + V/Command + V) to paste the copied notes.
+When pasting for the first time, select either "Paste at the playhead" or "Paste at the same position on screen" as the paste behavior.
+Please see Settings for details on pasting behavior.
+edit-melody_7_6.png
+
+Split a Note
+Right-click on the location where you want to split the note and select [Split Note].
+Merge Notes
+Select multiple adjacent notes, right-click on the notes and select [Merge Notes].
+
+在钢琴卷帘区，您可以输入和编辑音符。
+创建音符组并编辑音高、波形、歌词、发音、音轨等。
+
+钢琴卷帘的纵轴表示音高，横轴表示时间。单击钢琴卷帘左侧的琴键将弹奏钢琴音符，让您可以检查音符的音高。
+歌词显示在音符内，音素（发音）显示在音符上方。
+edit-melody_7_1.png
+
+钢琴卷帘基础知识
+
+编辑工具：您可以选择一种工具来编辑音符和旋律。有两种工具：“多重编辑工具”和“自由手工具”。
+编辑模式：可以选择“音符编辑模式”和“直接音高编辑模式”。
+在音符编辑模式下，可以编辑音符和音符组。直接音高编辑模式允许您直接在钢琴卷帘上编辑音高曲线。
+将编辑工具与编辑模式链接：将编辑工具与编辑模式链接。当链接激活时，切换编辑工具也会同时切换编辑模式。
+可视化：您可以选择是否在屏幕上显示“引擎输入音高”、“引擎输出音高”、“引擎输出波形”、“音素定时”或“AI重录”。“引擎输出音高”只会在标准（非AI）版本的语音数据库上显示。
+捕捉（钢琴卷）：允许您设置钢琴卷的量化。如果不关闭，在编辑音符长度等时，音符将捕捉到网格线上。当选择“自适应”时，网格大小将根据缩放级别自动调整。
+时间轴和标记：显示项目的时间轴和拍号/节奏符号。
+在时间轴上编辑和创建拍号/节奏标记。
+重新查看按钮：当屏幕上没有任何可见的音符时，单击该按钮可将视图更改为最近音符的位置。
+菜单（钢琴卷帘）：显示钢琴卷帘中可用的菜单。可以从此处添加参数面板。
+音高：显示钢琴卷帘的音高。单击钢琴卷帘中的键可听到音高。
+输入音符
+edit-melody_7_2.png
+
+使用多重编辑工具（Alt + 1/Option + 1），双击要创建音符的位置。
+拖动以调整音符的长度。
+使用手绘工具（Alt + 2/Option + 2），音符将输入到您拖动的位置。
+在专业版中，可以使用 MIDI 键盘输入音符。有关详细信息，请参阅“使用 MIDI 键盘”。
+要输入音符，必须将编辑模式设置为“音符编辑模式：开”。
+pianoroll_6.png
+
+音符不能堆叠。如果您想创建和声，请在单独的音轨上输入音符。
+pianoroll_4.png
+
+音符选择
+通过单击选择音符。
+Tab 选择下一个音符。
+Ctrl + Tab/Command + Tab 选择上一个音符。
+Ctrl/Command 或 Shift 进行多项选择。
+选择音符后，Ctrl + 单击/Command + 单击将允许您选择或取消选择更多音符。
+选择音符后，Shift + 单击另一个音符将选择它们之间的所有音符。
+Ctrl + A/Command + A 选择所选音轨上的所有音符。
+按 Esc 取消选择所有音符。
+移动音符
+通过拖动音符的中心来移动音符。如果选择了多个音符，它们将一起移动。
+更改时间
+Ctrl/Command + 拖动只会水平移动所选音符。
+Ctrl + Alt/Command + Option + 拖动将移动选定的音符而不对齐到网格。
+当设置 [SNAP] 时，移动的音符将对齐到指定宽度的网格线。
+pianoroll_5.png
+
+更改音高
+Shift + 拖动仅垂直移动选定的音符。
+Ctrl + Shift/Command + Shift + 拖动以 25 音分的增量调整微音（仅限专业版）。
+要重置失谐音调调整，请右键单击要重置的音符，然后选择 [重置] > [重置失谐音符]。
+Ctrl + Alt + Shift/Command + Option + Shift + 拖动将仅垂直移动而不对齐到网格。
+指定音高偏移
+edit-melody_7_14.png
+
+在菜单栏上，单击 [修改] > [制作乐谱] > [上移一个八度]（或 Ctrl + U/Command + U）可将所选音符提高一个八度。
+在菜单栏上，单击 [修改] > [制作乐谱] > [下移一个八度]（或 Ctrl + D/Command + D）可将所选音符降低一个八度。
+在菜单栏上，单击 [修改] > [制作乐谱] > [移调]（或 Ctrl + T/Command + T）可将所选音符的音高移动半音。
+更改长度
+拖动音符的末端可更改其长度。如果选择了多个音符，则长度将一起更改。
+edit-melody_7_11.png
+填补音符之间的空隙
+音符之间的短间隙可能会影响单词的发音，结果听起来不自然。您可以通过以下方式填补间隙：
+
+如果音符之间有短间隙，则会出现 [SIL] 按钮。单击它将拉伸前一个音符以填补间隙。
+edit-melody_7_9.png
+要一次填补大量间隙，请在选定音符后，单击 [修改] > [乐谱制作g] > [删除短静音...]。长度小于对话框中设置的“阈值”的间隙将被填充。
+edit-melody_7_10.png
+对齐音符开始和结束
+在菜单栏上，单击[修改] > [制作乐谱] > [对齐网格]（或 Ctrl + G/Command + G）以将选定的音符末端对齐到最近的网格。
+pianoroll_7.png
+在菜单栏上，单击[修改] > [制作乐谱] > [智能量化...]，将选定的音符末端校正到适合节奏的正确位置。可以在对话框中设置校正的强度。
+pianoroll_8.png
+编辑歌词
+双击音符以编辑歌词。
+edit-melody_7_19.png
+您可以执行以下操作：
+
+按 Tab 编辑下一个音符的歌词。
+按Ctrl + Tab/Command + Tab编辑上一个音符的歌词。
+按Enter/Return确认歌词。
+按Esc取消编辑歌词。
+批量歌词输入
+您可以一次性输入所选音符的歌词。此菜单可以通过以下方式选择：
+
+选择一个音符，在菜单栏上单击[修改]>[音符]>[插入歌词...]
+右键单击音符并选择[插入歌词...]。
+Ctrl + L/Command + L批量输入歌词。
+pianoroll_3.png
+在文本框中输入歌词，然后单击[确定]。歌词将以空格分隔并分配给每个音符。
+
+如果勾选了[图案填充]，则如果所选音符多于输入的歌词，歌词将重复。
+pianoroll_9.png
+如果勾选了[拆分成字符]，则每个音符将输入一个字符。这对日语和中文歌词很有用。
+pianoroll_10.png
+要设置/更改音符的默认歌词，请在设置面板中更改[编辑器]>[音符默认歌词]。
+edit-melody_7_18.png
+
+歌词的特殊符号
+输入歌词时，可以使用以下特殊符号：
+
+[ - ]：继续之前的发音。
+pianoroll_11.png
+[ + ]：拆分前一个单词的音节。例如：“beautiful”有三个音节，“beau-ti-ful”，您可以输入“beautiful”、“+”和“+”来表示三个音节和三个音符。
+pianoroll_12.png
+（图片显示英文单词“beautiful”分成三个音符）。
+[ br ]: 可以重现呼吸（吸气）。此功能仅在 AI 语音数据库中可用。
+pianoroll_13.png
+[ ' (cl)]: 在单词前添加“ ' ”会插入声门闭合音。当您想要将元音与之前的发音分开时，此功能特别有效。此功能仅在 AI 语音数据库中可用。
+pianoroll_14.png
+前后移动歌词
+如果歌词与您输入的音符不同步，您可以前后移动歌词。
+
+向右移动歌词
+在菜单栏上，单击 [修改] > [向右移动歌词]。（或 Ctrl + Shift + →/Command + Shift + →）
+
+向左移动歌词
+在菜单栏上，单击 [修改] > [向左移动歌词]。 （或 Ctrl + Shift + ←/Command + Shift + ←）
+
+编辑音素
+双击注释上方的音素进行编辑。
+要重置音素的编辑，请右键单击要重置的注释，然后选择 [重置] > [重置音素]。
+edit-melody_7_20.png
+您可以执行以下操作：
+
+按 Tab 编辑下一个注释的音素
+按 Ctrl + Tab/Command + Tab 编辑上一个注释的音素。
+按 Enter/Return 确认音素。
+按 Esc 取消音素的编辑。
+可用的音素可以在音素参考中找到。
+
+删除注释
+选择一个注释并按 Delete 或单击 [编辑] > [选择] > [删除选择]。
+复制和粘贴音符
+在菜单栏上，单击 [编辑] > [剪贴板] > [复制]（或 Ctrl + C/Command + C）以复制所选音符。
+在菜单栏上，单击 [编辑] > [剪贴板] > [剪切]（或 Ctrl + X/Command + X）以剪切（复制到剪贴板时删除）所选音符。
+在菜单栏上，单击 [编辑] > [剪贴板] > [粘贴]（或 Ctrl + V/Command + V）以粘贴复制的音符。
+首次粘贴时，选择“在播放头处粘贴”或“在屏幕上的同一位置粘贴”作为粘贴行为。
+有关粘贴行为的详细信息，请参阅设置。
+edit-melody_7_6.png
+
+拆分音符
+右键单击要拆分音符的位置，然后选择 [拆分音符]。
+合并笔记
+选择多个相邻的笔记，右键单击笔记并选择[合并笔记]。
+
+########################################################
+		11 Rendering and Export
+Render your project to audio or export it as MIDI or UST file format.
+
+Render Audio
+Render audio on a mixdown or track-by-track basis, you can export it as a WAV-format audio file.
+In the Pro version, aspiration components can be isolated for output.
+
+In Synthesizer V Studio, the non-periodic components of voice, such as breath sounds, voiceless consonants, and noises that occur with vocalization, are called aspiration.
+In audio rendering, the voice can be divided into periodic components (fundamentals and overtones) and other breath components.
+
+Exporting an Audio File
+render_16_1.png
+
+In the Render panel, select the destination folder. Click the folder icon on the right, choose a destination in the [Choose render destination] dialog, and click [Select Folder].
+Select the tracks to output. By default, only the master (the mixdown of the entire project) is selected.
+Enter a file name in the [File Name] text box and click [Bounce to Files].
+Format Settings
+You can set/change the following format settings:
+render_16_2.png
+
+Channels: Select the channel format from "Mono" or "Stereo". The default is "Mono". Select "Stereo" if you want to export a mixdown including accompaniment.
+Aspiration Output (Pro version only): Output setting for the aspiration component. Default is [None].
+As extra channels: Create a standard channel and a channel for the aspiration component in the same file.
+As extra files: Outputs the standard rendering (periodic component + aspiration component) and just the rendering of the aspiration component as separate files.
+As extra channels (isolated): Outputs the audio separately from the aspiration component using different channels in the same file.
+As extra files (isolated): Outputs the aspiration component and the periodic component as separate files.
+Bit Depth: Sets the bit depth. Default is "16 bits".
+Sample Rate: Sets the sample rate. Default is "44100 Hz".
+[Render] > [Engine Sample Rate] in the Settings panel and the sample rate set here are different, the audio rendered at the Engine Sample Rate and converted to the sample rate set here will be output to file.
+
+Export Project
+Export Project as a MIDI File
+On the Menu bar click on [File] > [Export] > [Export as Midi...].
+render_16_3.png
+In the [Export to MIDI...] dialog, select a location to save the file, enter a file name, and click [Save].
+If there are note groups within a Track, they are combined and exported to a single Track.
+
+Export a Note Group as a UST File
+Export the currently edited note group as a .ust file.
+
+On the Menu bar, click on [File] > [Export] > [Export current group to UST...]
+render_16_4.png
+In the [Export Current Group to UST...] dialog, select a destination, enter a file name, and click [Save].
+
+将项目渲染为音频或将其导出为 MIDI 或 UST 文件格式。
+
+渲染音频
+按混音或逐轨渲染音频，可以将其导出为 WAV 格式的音频文件。
+在专业版中，可以分离送气成分进行输出。
+
+在 Synthesizer V Studio 中，语音的非周期性成分（例如呼吸音、清音辅音和发声时出现的噪音）称为送气。
+在音频渲染中，语音可以分为周期性成分（基音和泛音）和其他呼吸成分。
+
+导出音频文件
+render_16_1.png
+
+在“渲染”面板中，选择目标文件夹。单击右侧的文件夹图标，在 [选择渲染目标] 对话框中选择目标，然后单击 [选择文件夹]。
+选择要输出的音轨。默认情况下，只选择主音轨（整个项目的混音）。
+在 [文件名] 文本框中输入文件名，然后单击 [跳转到文件]。
+格式设置
+您可以设置/更改以下格式设置：
+render_16_2.png
+
+通道：从“单声道”或“立体声”中选择通道格式。默认为“单声道”。如果要导出包括伴奏的混音，请选择“立体声”。
+愿望输出（仅限专业版）：愿望组件的输出设置。默认为 [无]。
+作为额外通道：在同一文件中创建标准通道和愿望组件通道。
+作为额外文件：将标准渲染（周期性组件 + 愿望组件）和愿望组件的渲染作为单独的文件输出。
+作为额外通道（隔离）：使用同一文件中的不同通道将音频与愿望组件分开输出。
+作为额外文件（隔离）：将愿望组件和周期性组件作为单独的文件输出。
+位深度：设置位深度。默认为“16 位”。
+采样率：设置采样率。默认为“44100 Hz”。
+如果“设置”面板中的 [渲染] > [引擎采样率] 与此处设置的采样率不同，则以引擎采样率渲染并转换为此处设置的采样率的音频将输出到文件。
+
+导出项目
+将项目导出为 MIDI 文件
+在菜单栏上单击 [文件] > [导出] > [导出为 Midi...]。
+render_16_3.png
+在 [导出到 MIDI...] 对话框中，选择保存文件的位置，输入文件名，然后单击 [保存]。
+如果轨道内有音符组，则它们将合并并导出到单个轨道。
+
+将音符组导出为 UST 文件
+将当前编辑的音符组导出为 .ust 文件。
+
+在菜单栏上，单击 [文件] > [导出] > [将当前组导出到 UST...]
+render_16_4.png
+在 [将当前组导出到 UST...] 对话框中，选择目标位置，输入文件名，然后单击 [保存]。
+
+########################################################
+		12 Settings
+Various settings from Synthesizer V Studio are on the Settings panel.
+settings_2.png
+
+These settings are automatically saved when exiting Synthesizer V Studio. Deleting the settings file will return all settings to their default values, and a new settings file will be created the next time Synthesizer V Studio is started.
+
+The settings file is saved as "settings.xml" in the following location.
+
+Windows: C:\Users\< username >\Documents\Dreamtonics\Synthesizer V Studio\settings
+macOS: Macintosh HD/Library/Application Support/Dreamtonics/Synthesizer V Studio/settings
+General Settings
+settings_3.png
+
+Interface Language: Sets the language to be displayed in the interface. For untranslated languages, translated text is available here.
+Interface Scaling: Sets the scale of the interface, from 100% to 150%, with a default value of 100%.
+Use OpenGL for UI graphics: Checking this box will result in smoother rendering of the editor screen, but may cause unstable operation on some hardware.
+Show status bar: Displays a status bar at the bottom of the screen to show editing status and descriptions about the control the mouse is over.
+Automatically check for updates: Displays a dialog box at startup to indicate if there are any updates available.
+Configure Usage Data Collection
+Synthesizer V Studio collects usage data to improve the software.
+The data collected are only those displayed on the "Telemetry Consent" that you have agreed to, and no personally identifiable information is collected.
+settings_1.png
+
+Software usage data: Frequency and pattern of accessing the software's features, crash reports and general system information is sent.
+AI Retakes feedback data: The best takes rated by the user, along with limited project information in the vicinity of the selected note, only sent when the feedback button is pressed.
+The collected feedback is used for "RLHF (Reinforcement Learning from Human Feedback)" to generate more natural and expressive pitches.
+Audio Settings
+Sets the audio that will be played on the editor.
+
+Channel Placement (plugin version only): Sets the audio channels to be output to the DAW. For more details, see "Linking to DAW with plugin".
+settings_17_2.png
+Audio System: Set the audio system to be used; in the Pro version, you can also select ASIO (Windows only) or JACK (Linux only) for less latency.
+Output Device: Select the audio output device to be used. The output devices that can be selected depend on the audio system settings.
+Sample Rate: Select the sample rate. The selectable sample rate depends on the output device settings.
+Buffer Length: Set the buffer length.
+MIDI Input Device: Sets the MIDI input device to be used, see "Using a MIDI keyboard" for details on how to use the MIDI input device.
+Master Gain: Sets the volume for monitoring. Can be set between -12 and 6 dB, default value is -3 dB.
+Editor Settings
+settings_7.png
+
+Follow playheads during playback: Auto-scrolls the screen during playback.
+Overlap-less note resizing: When adjusting the length of a note, overlapping notes will be shortened to avoid overlap.
+Show animated rendering status: Shows rendering progress by highlighting animation of audio waveforms.
+Show character image (if found): Displays a background illustration of the character if one is included in the voice database.
+Image Transparency: Sets the transparency of the character image from 0-100%. The default value is 50%.
+settings_8.png
+Horizontal Navigation: Sets the horizontal scrolling operation method. Default is "Shift + Mouse Wheel". The direction can be reversed with the [REV] button.
+Horizontal Zooming: Sets how horizontal zooming is operated. Default is "Ctrl/Command + Mouse Wheel". The direction can be reversed with the [REV] button.
+Vertical Move: Sets how the vertical scrolling is operated. Default is "Mouse Wheel". The direction can be reversed with the [REV] button.
+2D mouse wheel for scrolling: Allows the horizontal scrolling function of the touchpad or a mouse that supports horizontal scrolling.
+settings_9.png
+Default Pasting Behaviour: Sets the position for pasting notes and control points.
+About paste patterns (click to open/close)
+Note Default Lyrics: Sets the default lyrics when creating notes.
+Note Default Pitch Mode: Sets the default pitch mode when creating notes.
+Preserve the pitch and vibrato for a note when switching between the following pitch modes: Maintains the previous pitch curve when switching note pitch modes.
+For more information on pitch mode, see "Edit Pitch Curve".
+
+settings_10.png
+
+Hide points in free hand mode: When using the pencil tool in direct pitch editing mode or in the Parameter Panel, the control points are not displayed, only the curve.
+Auto-insert anchor points: When double-clicking to add a control point, the control point is automatically added to the edge of the note so that it does not affect other notes.
+Simplify freehand-drawn curves: After drawing a curve using the Freehand tool, the parameters are automatically simplified to reduce the number of control points.
+Snap points to zero: Snaps control points around 0 when moving them vertically.
+Recording Settings (Pro Version Only)
+settings_17_4.png
+
+Disable metronome during playback: Enables metronome only during recording input via MIDI device and disables during playback, even if metronome in transport control is on. Unchecking enables the metronome during playback.
+Overwrite existing notes: Adjusts existing notes by deleting or shortening them so that they do not overlap with existing notes during recording. If unchecked, notes will remain overlapping.
+When recording finishes: Sets about quantization of notes when recording is terminated.
+Rendering Settings
+settings_17_5.png
+
+Background Threads (Pro version only): Sets the number of threads used for live rendering. When a project has multiple tracks, a higher value will result in faster rendering; it can be set between 1 and 12, with the default value depending on the number of CPU cores in the device.
+Playback Buffer Size: Sets the length of the buffer during playback. The larger the buffer, the more stable playback will be, but it will take longer for playback to reflect edits made to the project. 2 to 8 blocks are available; the default value is 4 blocks.
+Engine Sample Rate: The internal sample rate used by the synthesis engine for live rendering. The default value is "44100 Hz".
+Power Management: Sets the power consumption during live rendering. Default is "Balanced"; setting to "High Performance" will increase rendering speed.
+Keyboard Settings
+settings_17_6.png
+
+Shortcuts: View and customize keyboard shortcuts.
+Registered shortcuts are displayed in the menu.
+
+Synthesizer V Studio 的各种设置都在“设置”面板上。
+settings_2.png
+
+退出 Synthesizer V Studio 时会自动保存这些设置。删除设置文件将使所有设置恢复为默认值，下次启动 Synthesizer V Studio 时将创建一个新的设置文件。
+
+设置文件在以下位置保存为“settings.xml”。
+
+Windows：C:\Users\< username >\Documents\Dreamtonics\Synthesizer V Studio\settings
+macOS：Macintosh HD/Library/Application Support/Dreamtonics/Synthesizer V Studio/settings
+常规设置
+settings_3.png
+
+界面语言：设置界面中显示的语言。对于未翻译的语言，可在此处查看翻译文本。
+界面缩放：设置界面的缩放比例，从 100% 到 150%，默认值为 100%。
+使用 OpenGL 进行 UI 图形处理：选中此框将使编辑器屏幕的渲染更加流畅，但在某些硬件上可能会导致操作不稳定。
+显示状态栏：在屏幕底部显示状态栏，以显示编辑状态和鼠标悬停的控件的描述。
+自动检查更新：在启动时显示一个对话框，指示是否有任何可用的更新。
+配置使用数据收集
+Synthesizer V Studio 收集使用数据以改进软件。
+收集的数据仅是您同意的“遥测同意”上显示的数据，不会收集任何个人身份信息。
+settings_1.png
+
+软件使用数据：发送访问软件功能的频率和模式、崩溃报告和一般系统信息。
+AI 重拍反馈数据：仅在按下反馈按钮时发送用户评出的最佳镜头以及所选音符附近的有限项目信息。
+收集到的反馈用于“RLHF（从人类反馈中强化学习）”，以生成更自然、更富有表现力的音调。
+音频设置
+设置将在编辑器上播放的音频。
+
+通道放置（仅限插件版本）：设置要输出到 DAW 的音频通道。有关更多详细信息，请参阅“使用插件链接到 DAW”。
+settings_17_2.png
+音频系统：设置要使用的音频系统；在专业版中，您还可以选择 ASIO（仅限 Windows）或 JACK（仅限 Linux）以减少延迟。
+输出设备：选择要使用的音频输出设备。可以选择的输出设备取决于音频系统设置。
+采样率：选择采样率。可选的采样率取决于输出设备设置。
+缓冲区长度：设置缓冲区长度。
+MIDI 输入设备：设置要使用的 MIDI 输入设备，有关如何使用 MIDI 输入设备的详细信息，请参阅“使用 MIDI 键盘”。
+主增益：设置监听音量。可设置为 -12 至 6 dB，默认值为 -3 dB。
+编辑器设置
+settings_7.png
+
+播放时跟随播放头：播放时自动滚动屏幕。
+无重叠音符调整大小：调整音符长度时，重叠音符将缩短以避免重叠。
+显示动画渲染状态：通过突出显示音频波形的动画显示渲染进度。
+显示角色图像（如果找到）：如果语音数据库中包含角色，则显示角色的背景插图。
+图像透明度：设置角色图像的透明度，范围为 0-100%。默认值为 50%。
+settings_8.png
+水平导航：设置水平滚动操作方法。默认为“Shift + 鼠标滚轮”。可以使用 [REV] 按钮反转方向。
+水平缩放：设置水平缩放的操作方式。默认为“Ctrl/Command + 鼠标滚轮”。可以使用 [REV] 按钮反转方向。
+垂直移动：设置垂直滚动的操作方式。默认为“鼠标滚轮”。可以使用 [REV] 按钮反转方向。
+滚动的 2D 鼠标滚轮：允许触摸板或支持水平滚动的鼠标的水平滚动功能。
+settings_9.png
+默认粘贴行为：设置粘贴音符和控制点的位置。
+关于粘贴模式（单击打开/关闭）
+音符默认歌词：设置创建音符时的默认歌词。
+音符默认音高模式：设置创建音符时的默认音高模式。
+在以下音高模式之间切换时保留音符的音高和颤音：切换音符音高模式时保持之前的音高曲线。
+有关音高模式的更多信息，请参阅“编辑音高曲线”。
+
+settings_10.png
+
+在手绘模式下隐藏点：在直接音高编辑模式或参数面板中使用铅笔工具时，不显示控制点，只显示曲线。
+自动插入锚点：双击添加控制点时，控制点会自动添加到音符边缘，这样就不会影响其他音符。
+简化手绘曲线：使用手绘工具绘制曲线后，参数会自动简化设置为减少控制点的数量。
+将点对齐到零：垂直移动控制点时，将控制点对齐到 0 附近。
+录音设置（仅限专业版）
+settings_17_4.png
+
+播放期间禁用节拍器：仅在通过 MIDI 设备输入录音时启用节拍器，播放期间禁用，即使传输控制中的节拍器已打开。取消选中将在播放期间启用节拍器。
+覆盖现有音符：通过删除或缩短现有音符来调整现有音符，使其在录音期间不与现有音符重叠。如果取消选中，音符将保持重叠。
+录音结束时：设置录音终止时音符的量化。
+渲染设置
+settings_17_5.png
+
+后台线程（仅限专业版）：设置用于实时渲染的线程数。当项目有多个轨道时，值越高，渲染速度越快；可设置为 1 到 12 之间，默认值取决于设备中的 CPU 核心数。
+播放缓冲区大小：设置播放期间缓冲区的长度。缓冲区越大，播放越稳定，但播放需要更长时间才能反映对项目所做的编辑。有 2 到 8 个块可供选择；默认值为 4 个块。
+引擎采样率：合成引擎用于实时渲染的内部采样率。默认值为“44100 Hz”。
+电源管理：设置实时渲染期间的功耗。默认为“平衡”；设置为“高性能”将提高渲染速度。
+键盘设置
+settings_17_6.png
+
+快捷键：查看和自定义键盘快捷键。
+已注册的快捷键显示在菜单中。
+
+########################################################
+		13 Deactivate and Uninstall
+If you want to use Synthesizer V Studio on another device, deactivate the software and the voice database.
+
+Deactivate and Uninstall the Voice Database
+Deactivation and uninstallation of the voice database is done in the License and Updates panel.
+uninstall_18_1_1.png
+
+To deactivate the voice database, Synthesizer V Studio must be installed and activated.
+If you have uninstalled Synthesizer V Studio, please install and activate it again.
+
+Deactivate
+In the [Installed Products] list, select the voice database you want to deactivate and click [Deactivate].
+
+Deactivate and Uninstall
+Select the voice database you want to deactivate from the [Installed Products] list and click [Deactivate and Uninstall].
+
+Uninstall an Older Version of a Voice Database
+If you have multiple versions of a voice database installed, keep only the latest version and uninstall the older version.
+
+On the Licenses and Updates panel, select the voice database from the [Installed Products] list.
+Click [Uninstall] on [Status] > [Installed versions].
+basics_3_2_8.png
+Deactivate Synthesizer V Studio
+Pro version requires deactivation before uninstallation.
+
+In the Licenses and Updates panel, select Synthesizer V Studio in the [Installed Products] list and click [Deactivate].
+uninstall_18_2_1.png
+When deactivation is complete, click [OK] to close the dialog and exit Synthesizer V Studio.
+uninstall_18_2_2.png
+
+Uninstall Synthesizer V Studio
+Uninstall on Windows
+Open the [Settings] application from the Start menu.
+Confirm that Synthesizer V Studio Pro/Basic is in the list of [Apps] > [Installed apps]. Select [Uninstall] from the menu of the three-point reader [...].
+uninstall_18_2_3.png
+Uninstall on Mac
+In the Finder Menu Bar select [Go] > [Applications] (or Shift+Command+A).
+uninstall_1.png
+Delete the Synthesizer V Studio Pro.app or Synthesizer V Studio Basic.app file.
+Uninstall Synthesizer V Completely
+If Synthesizer V Studio does not work properly, please try uninstalling it completely and reinstalling it.
+
+Deactivate and uninstall your Voice Databases.
+Deactivate Synthesizer V Studio.
+Uninstall Synthesizer V Studio.
+Delete the following system folders.
+Windows：C:\Users\＜username＞\Documents\Dreamtonics\Synthesizer V Studio
+macOS：Macintosh HD/Library/Application Support/Dreamtonics/Synthesizer V Studio
+The system folder contains Synthesizer V Studio preferences, pronunciation dictionaries, scripts, etc. Please make a backup if necessary.
+
+Remove the following plug-ins, if you have any.
+Windows
+VST3 (VSTi) plugin：C:\Program Files\Common Files\VST3
+VST3 (ARA) plugin：C:\Program Files\Common Files\VST3 , C:\Program Files\Common Files\ARA
+AAX plugin：C:\Program Files\Common Files\Avid\Audio\Plug-Ins
+macOS
+VST3 (VSTi) plugin：Macintosh HD/Library/Audio/Plug-Ins/VST3
+VST3 (ARA) plugin：Macintosh HD/Library/Audio/Plug-Ins/VST3 , Macintosh HD/Library/Audio/Plug-Ins/ARA
+Audio Unit plugin：Macintosh HD/Library/Audio/Plug-Ins/Components
+AAX plugin：Macintosh HD/Library/Application Support/Avid/Audio/Plug-Ins
+
+如果您想在其他设备上使用 Synthesizer V Studio，请停用该软件和语音数据库。
+
+停用和卸载语音数据库
+语音数据库的停用和卸载在“许可证和更新”面板中完成。
+uninstall_18_1_1.png
+
+要停用语音数据库，必须安装并激活 Synthesizer V Studio。
+如果您已卸载 Synthesizer V Studio，请再次安装并激活它。
+
+停用
+在 [已安装的产品] 列表中，选择要停用的语音数据库，然后单击 [停用]。
+
+停用和卸载
+从 [已安装的产品] 列表中选择要停用的语音数据库，然后单击 [停用和卸载]。
+
+卸载语音数据库的旧版本
+如果您安装了多个版本的语音数据库，请仅保留最新版本并卸载旧版本。
+
+在“许可证和更新”面板上，从 [已安装的产品] 列表中选择语音数据库。
+单击 [状态] > [已安装版本] 上的 [卸载]。
+basics_3_2_8.png
+停用 Synthesizer V Studio
+卸载前需要停用 Pro 版本。
+
+在许可证和更新面板中，选择 [已安装产品] 列表中的 Synthesizer V Studio，然后单击 [停用]。
+uninstall_18_2_1.png
+停用完成后，单击 [确定] 关闭对话框并退出 Synthesizer V Studio。
+uninstall_18_2_2.png
+
+卸载 Synthesizer V Studio
+在 Windows 上卸载
+从开始菜单打开 [设置] 应用程序。
+确认 Synthesizer V Studio Pro/Basic 位于 [应用程序] > [已安装应用程序] 列表中。从三点阅读器的菜单中选择 [卸载] [...]。
+uninstall_18_2_3.png
+在 Mac 上卸载
+在 Finder 菜单栏中选择 [前往] > [应用程序]（或 Shift+Command+A）。
+uninstall_1.png
+删除 Synthesizer V Studio Pro.app 或 Synthesizer V Studio Basic.app 文件。
+完全卸载 Synthesizer V
+如果 Synthesizer V Studio 无法正常工作，请尝试完全卸载并重新安装。
+
+停用并卸载您的语音数据库。
+停用 Synthesizer V Studio。
+卸载 Synthesizer V Studio。
+删除以下系统文件夹。
+Windows：C:\Users\＜用户名＞\Documents\Dreamtonics\Synthesizer V Studio
+macOS：Macintosh HD/Library/Application Support/Dreamtonics/Synthesizer V Studio
+系统文件夹包含 Synthesizer V Studio 偏好设置、发音词典、脚本等。如有必要，请进行备份。
+
+如果有以下插件，请将其删除。
+Windows
+VST3 (VSTi) 插件：C:\Program Files\Common Files\VST3
+VST3 (ARA) 插件：C:\Program Files\Common Files\VST3 , C:\Program Files\Common Files\ARA
+AAX 插件：C:\Program Files\Common Files\Avid\Audio\Plug-Ins
+macOS
+VST3 (VSTi) 插件：Macintosh HD/Library/Audio/Plug-Ins/VST3
+VST3 (ARA) 插件：Macintosh HD/Library/Audio/Plug-Ins/VST3 , Macintosh HD/Library/Audio/Plug-Ins/ARA
+Audio Unit 插件：Macintosh HD/Library/Audio/Plug-Ins/Components
+AAX 插件：Macintosh HD/Library/Application Support/Avid/Audio/Plug-Ins
+
+########################################################
+		14 Troubleshooting
+If you encounter any problems with the software or cannot make it work properly, please check the following.
+
+Troubleshooting
+Unable to Install or Update
+When installing or updating Synthesizer V Studio, make sure to close all instances of Synthesizer V Studio and/or any DAW.
+To use the Voice Database installer (.svpk), you must install Synthesizer V Studio first. -> "Download and Install"
+Unable to Activate
+For the Pro version, you need to activate Synthesizer V Studio before activating any Voice Database. First, enter the activation code for Synthesizer V Studio Pro. -> "Download and Install"
+Some bundled products have a common activation code for Synthesizer V Studio and the Voice Databases. Please enter the same code in the respective activation dialogs.
+Before installing on a new PC, please deactivate the software on the previous PC. If you are unable to deactivate it due to a hardware failure or have used up all activation attempts, please contact the support center of the software provider.
+How do I Change the Language of the Interface?
+You can change the language on the settings panel. -> "Settings" panel.
+If only English is displayed as the language option, please try reinstalling below.
+Unable to Enter Notes
+Check if the editing mode is set to “Note Editing mode”. -> “Piano Roll” area.
+Singing Voices are Not Generated
+To use Synthesizer V Studio, both the main software and the Voice Databases are required. Please make sure that the Voice Database is installed.
+Check if the track has a Voice Database assigned to it. -> “Arrangement” area.
+Check if the Voice Database is activated in the License and Updates panel.
+Unable to Choose a Voice Database on the Plugin Version
+In the plugin version, you cannot use the FLT Voice Databases. Please purchase a full version Voice Database, or install Synthesizer V AI Mai which is included in the Pro version.
+Pronunciation is Wrong
+Check if the language you are using in the lyrics matches the language of the track. -> “Voice” panel.
+Make sure there are no short gaps between notes. ->"Piano Roll” panel.
+Double-click above the note to edit the phoneme. -> "Piano Roll” panel.
+You can register the pronunciation of a word with the dictionary function. -> “Dictionary” panel.
+Language Change, Vocal Modes, AI Retakes, and Voice-to-MIDI Conversion are Not Available
+These features are not available in the free Basic version of Synthesizer V Studio; please consider purchasing the Pro version.
+Even if you have the Pro version, if the Voice Database is the Lite version, Language changes and Vocal Modes are not available. Please consider purchasing the full version.
+“Failed to start the plugin in ARA Mode.” is Displayed
+Please refer to “Setup for ARA Bridge Mode” and “Setup for Full ARA Mode”.
+When Reinstalling
+Please uninstall Synthesizer V Studio completely before trying to reinstall. -> “Deactivate and Uninstall”.
+You can download the latest installer from here.
+
+如果您遇到任何与软件相关的问题或无法使其正常工作，请检查以下内容。
+
+故障排除
+无法安装或更新
+安装或更新 Synthesizer V Studio 时，请确保关闭 Synthesizer V Studio 和/或任何 DAW 的所有实例。
+要使用语音数据库安装程序 (.svpk)，您必须先安装 Synthesizer V Studio。->“下载并安装”
+无法激活
+对于专业版，您需要先激活 Synthesizer V Studio，然后再激活任何语音数据库。首先，输入 Synthesizer V Studio Pro 的激活码。->“下载并安装”
+一些捆绑产品对 Synthesizer V Studio 和语音数据库具有通用的激活码。请在相应的激活对话框中输入相同的代码。
+在新 PC 上安装之前，请在之前的 PC 上停用该软件。如果您因硬件故障而无法停用它或已用尽所有激活尝试，请联系软件提供商的支持中心。
+如何更改界面语言？
+您可以在设置面板上更改语言。->“设置”面板。
+如果语言选项仅显示英语，请尝试重新安装。
+无法输入音符
+检查编辑模式是否设置为“音符编辑模式”。->“钢琴卷”区域。
+未生成歌唱声音
+要使用 Synthesizer V Studio，需要主软件和语音数据库。请确保已安装语音数据库。
+检查曲目是否已分配语音数据库。->“编排”区域。
+检查语音数据库是否在许可证和更新面板中激活。
+无法在插件版本上选择语音数据库
+在插件版本中，您无法使用 FLT 语音数据库。请购买完整版语音数据库，或安装专业版中包含的 Synthesizer V AI Mai。
+发音错误
+检查歌词中使用的语言是否与曲目的语言相匹配。->“语音”面板。
+确保音符之间没有短暂的间隙。->“钢琴卷帘”面板。
+双击音符上方以编辑音素。->“钢琴卷帘”面板。
+您可以使用词典功能注册单词的发音。->“词典”面板。
+语言更改、人声模式、AI 重录和语音到 MIDI 转换不可用
+这些功能在 Synthesizer V Studio 的免费基本版中不可用；请考虑购买专业版。
+即使您拥有专业版，如果语音数据库是精简版，语言更改和人声模式也不可用。请考虑购买完整版。
+显示“无法在 ARA 模式下启动插件。”
+请参阅“ARA 桥接模式的设置”和“完整 ARA 模式的设置”。
+重新安装时
+请先完全卸载 Synthesizer V Studio，然后再尝试重新安装。->“停用并卸载”。
+您可以从此处下载最新的安装程序。
+
+########################################################
+	Advanced Usage
+########################################################
+		01 Pitch Curves Basics
+Synthesizer V Studio allows a combination of automatic pitch generation by AI, direct editing of pitch curves, and manual pitch editing using parameters.
+This allows for a flexible pitch curves editing.
+
+The final pitch curves displayed on the Piano Roll is the sum of the note's original pitch curves and the Pitch Deviation in the Parameter Panel.
+
+The Note's Original Pitch Curves
+The original pitch curves of a note are generated based on the note's Pitch Mode.
+Pitch modes include Sing Mode, Rap Mode and Manual Mode and can be set for each note in the Note Properties panel.
+
+Sing Mode and Rap Mode
+In Sing and Rap modes, AI automatically generates pitch curves for each mode.
+pitch-curve_7.png
+
+Manual Mode
+Pitch curves are generated based on the "Pitch Transition" and "Vibrato" parameters.
+
+Regenerate Pitch Curves
+In Sing and Rap modes, the pitch curves are generated by taking into account various factors such as melody and lyrics.
+Therefore, each time you edit a note or the lyrics, the pitch curves for the surrounding notes will be regenerated.
+
+When a note is in Manual Mode, the pitch curves are not automatically generated.
+
+Setting the Pitch Curves
+In the Voice panel, you can set default values for various pitch-related parameters. This affects the entire track.
+The AI Retakes panel allows you to adjust the amount of variation in the pitch curves generated by the AI. It uses user feedback collected to optimize the pitch curves. These can be set for entire tracks or on a per-note basis.
+The Note Properties panel allows you to set various pitch-related parameters on a per-note basis.
+The vibrato envelope in the Parameter Panel can be used to change the intensity of the vibrato oscillation that the note originally has over time.
+This works for both vibrato generated in Singing Mode and Vibrato set in Manual Mode.
+pitch-curve_5.png
+Intonation and Tone in Rap Mode can be set in the Note Properties panel and Parameter Panel.
+note-properties_4.png
+Pitch Deviation in the Parameter Panel
+You can use Pitch Deviation in the Parameter Panel to edit the pitch curves across multiple notes.
+pitch-curve_6.png
+
+Direct Pitch Editing Mode
+In Direct Pitch Editing mode, edit the pitch curves directly on the Piano Roll. The curve drawn here will be reflected in the Pitch Deviation of the Parameter Panel.
+direct-pitch_3.png
+
+Switching from Sing Mode/Rap Mode to Manual Mode
+When Manual Mode is turned on, the pitch curves generated in Sing Mode/Rap Mode is moved to the Pitch Deviation in the Parameter Panel.
+Switching from Sing Mode/Rap Mode to Manual Mode stops the re-generated pitch and fixes the curves.
+pitch-curve_1.png
+
+You can choose whether to keep the pitch curves when Manual Mode is turned on or off in the Settings panel.
+
+	Synthesizer V Studio 允许结合使用 AI 自动生成音高、直接编辑音高曲线和使用参数手动编辑音高。
+这允许灵活地编辑音高曲线。
+
+钢琴卷上显示的最终音高曲线是音符的原始音高曲线和参数面板中的音高偏差的总和。
+
+音符的原始音高曲线
+音符的原始音高曲线是根据音符的音高模式生成的。
+音高模式包括唱歌模式、说唱模式和手动模式，可以在音符属性面板中为每个音符设置。
+
+唱歌模式和说唱模式
+在唱歌和说唱模式下，AI 会自动为每种模式生成音高曲线。
+pitch-curve_7.png
+
+手动模式
+音高曲线是根据“音高过渡”和“颤音”参数生成的。
+
+重新生成音高曲线
+在唱歌和说唱模式下，音高曲线的生成要考虑各种因素，例如旋律和歌词。
+因此，每次编辑音符或歌词时，都会重新生成周围音符的音高曲线。
+当音符处于手动模式时，不会自动生成音高曲线。
+设置音高曲线
+在语音面板中，您可以设置各种音高相关参数的默认值。这会影响整个音轨。
+AI 重录面板允许您调整 AI 生成的音高曲线的变化量。它使用收集到的用户反馈来优化音高曲线。这些可以为整个音轨或每个音符设置。
+音符属性面板允许您为每个音符设置各种音高相关参数。
+参数面板中的颤音包络可用于更改音符随时间推移原本具有的颤音振荡强度。
+这适用于在歌唱模式中产生的颤音和在手动模式中设置的颤音。
+pitch-curve_5.png
+可以在音符属性面板和参数面板中设置说唱模式中的语调和音调。
+note-properties_4.png
+参数面板中的音高偏差
+您可以使用参数面板中的音高偏差来编辑多个音符的音高曲线。
+pitch-curve_6.png
+
+直接音高编辑模式
+在直接音高编辑模式下，直接在钢琴卷帘上编辑音高曲线。此处绘制的曲线将反映在参数面板的音高偏差中。
+direct-pitch_3.png
+
+从歌唱模式/说唱模式切换到手动模式
+打开手动模式后，歌唱模式/说唱模式中生成的音高曲线将移动到参数面板中的音高偏差。
+从唱歌模式/说唱模式切换到手动模式会停止重新生成音高并修复曲线。
+pitch-curve_1.png
+
+您可以在“设置”面板中选择在打开或关闭手动模式时是否保留音高曲线。
+
+########################################################
+		02 Voice Panel
+The Voice panel allows you to edit the vocalist's texture, singing style and other nuances.
+The settings here will be reflected in the currently focused note group or the entire track.
+
+In the Pro version, cross-lingual synthesis feature of the voice databases allows them to sing in a different language than the recorded language, and to use Vocal Modes to add variety to the expression of the voice.
+
+Selecting a Voice Database
+Click on [Current database (track/group)] and select the voice database you want to use.
+Click on [Database version] and select the version you want to use.
+Only installed versions are shown in the list, and the latest version is selected by default.
+edit-voice_9_1.png
+(The image shows the setup of Saki AI)
+Set the Language (Pro Version Only)
+When the voice database is loaded, the language is automatically set by detecting the lyrics of the notes in the Piano Roll.
+
+Select the language you want to use from the [Language] > [Sing in the following language] menu. Depending on the language, additional options may appear. Languages can only be changed on AI voice databases.
+edit-voice_9_2.png
+The language of each note can be changed in the "Note Properties panel".
+Set the Vocal Mode (Pro Version Only)
+Vocal Modes can be used to change the texture, timbre and mood.
+The support status and lineup of Vocal Modes varies for each voice database.
+
+[Vocal Modes] can be used to change the expression, articulation, and mood of the voice.
+Drag the slider for each Vocal Mode to customize it in 5% increments. You can also mix multiple Vocal Modes.
+edit-voice_9_3.png
+(Image shows Vocal Modes of Saki AI)
+Each Vocal Mode can have its value changed during the course of the song using the Parameter Panel.
+Setting Parameters
+Set each parameter by dragging the slider. These parameters can be changed in the middle of a song using the Parameter Panel.
+edit-voice_9_4.png
+The values set here are combined with the control points in the Parameter Panel.
+For details on each parameter, see Parameter Panel.
+
+Tuning Settings (Pro Version Only)
+Transposes the pitch throughout the song.
+edit-voice_9_5.png
+You can adjust the following properties:
+
+Pitch Shift: Adjusts tuning in 1 cent increments. From -50 cents to 50 cents, default value is 0.
+Key Shift: Adjusts the pitch in semitone increments. Can be set between -12 and +12 semitones, default value is 0.
+Synthesis Engine
+Sets the rendering mode. This menu is only available on AI voice databases.
+edit-voice_9_6.png
+
+(Default): "Prefer Quality" is automatically applied in the paid version of the voice database, and "Prefer Speed" in the Lite version.
+Prefer Speed: Priority is given to speed over sound quality.
+Prefer Quality: Priority is given to sound quality over speed; "Prefer Quality" cannot be selected for the Lite version of the voice database.
+Defaults - Sing Mode
+For information on pitch mode, see "Pitch Curves Basics".
+
+Sets the default value when the pitch mode of the note is "Singing". The vibrato intensity can be set for each note in the "Note Properties panel".
+voice_1.png
+
+Vibrato Modulation: Adjusts the depth of vibratos produced by the AI.
+It can be set between 0.00 and 2.00, with a default value of 1.00.
+Automatic adjustment of attack and release: When turned on, this function automatically reproduces singing expressions such as the transition between notes. This button is especially significant when Correction by RLHF is on. Otherwise is going to have a transition regardless of the state of this button.
+voice_4.png
+Defaults - Manual Mode
+For information on pitch mode, see "Pitch Curve Basics".
+
+Sets the default value when the note's Pitch Mode is manual.
+voice_2.png
+In manual mode, you can edit the pitch with the Pitch Transition section and the Vibrato section.
+These can be set for each note in the Note Properties panel.
+See "Note Properties Panel" for details on each parameter.
+
+Managing Presets
+Settings in the Voice panel can be saved as presets and loaded in other tracks or note groups.
+edit-voice_9_9.png
+
+Save Preset
+Click [Load/Save Presets...] > [Save to new preset...], enter a name for the preset and click [OK].
+To overwrite an existing preset, click [Load/Save Presets...], select the preset you wish to overwrite, and click [Save (overwrite)].
+Load Preset
+Click [Load/Save Presets...], select the preset you want to load and click [Load].
+Delete a Preset
+Click [Load/Save Presets...], select the preset you want to delete, and click [Delete].
+
+The preset will be saved in the following location.
+
+Windows: C:\Users\< username >\Documents\Dreamtonics\Synthesizer V Studio\settings
+macOS: Macintosh HD/Library/Application Support/Dreamtonics/Synthesizer V Studio/settings
+Reset the Voice Panel Settings
+Click [Reset] to reset all settings to default.		
+
+语音面板允许您编辑歌手的音质、演唱风格和其他细微差别。
+此处的设置将反映在当前关注的音符组或整个音轨中。
+
+在专业版中，语音数据库的跨语言合成功能允许他们使用与录制语言不同的语言演唱，并使用语音模式为语音表达增添多样性。
+
+选择语音数据库
+单击 [当前数据库（音轨/组）] 并选择要使用的语音数据库。
+单击 [数据库版本] 并选择要使用的版本。
+列表中仅显示已安装的版本，默认情况下选择最新版本。
+edit-voice_9_1.png
+（图片显示 Saki AI 的设置）
+设置语言（仅限专业版）
+加载语音数据库时，通过检测钢琴卷中音符的歌词自动设置语言。
+
+从 [语言] > [用以下语言唱歌] 菜单中选择要使用的语言。根据语言的不同，可能会出现其他选项。语言只能在 AI 语音数据库上更改。
+edit-voice_9_2.png
+可以在“音符属性面板”中更改每个音符的语言。
+设置人声模式（仅限专业版）
+人声模式可用于更改质感、音色和情绪。
+人声模式的支持状态和阵容因每个语音数据库而异。
+
+[人声模式] 可用于更改声音的表达、发音和情绪。
+拖动每个人声模式的滑块，以 5% 的增量对其进行自定义。您还可以混合多种人声模式。
+edit-voice_9_3.png
+（图片显示 Saki AI 的人声模式）
+在歌曲过程中，可以使用参数面板更改每个人声模式的值。
+设置参数
+通过拖动滑块设置每个参数。可以使用参数面板在歌曲中间更改这些参数。
+edit-voice_9_4.png
+此处设置的值与参数面板中的控制点相结合。
+有关每个参数的详细信息，请参阅参数面板。
+
+调音设置（仅限专业版）
+在整首歌曲中调换音高。
+edit-voice_9_5.png
+您可以调整以下属性：
+
+音高移位：以 1 音分为增量调整音调。从 -50 音分到 50 音分，默认值为 0。
+键移位：以半音为增量调整音高。可以设置在 -12 到 +12 个半音之间，默认值为 0。
+合成引擎
+设置渲染模式。此菜单仅在 AI 语音数据库上可用。
+edit-voice_9_6.png
+
+（默认）：付费版语音数据库自动应用“优先质量”，精简版自动应用“优先速度”。
+优先速度：优先考虑速度而不是音质。
+优先质量：优先考虑音质而不是速度；精简版语音数据库无法选择“优先质量”。
+默认 - 歌唱模式
+有关音高模式的信息，请参阅“音高曲线基础”。
+
+当音符的音高模式为“歌唱”时，设置默认值。可以在“音符属性面板”中为每个音符设置颤音强度。
+voice_1.png
+
+颤音调制：调整 AI 产生的颤音深度。
+可设置为 0.00 至 2.00 之间，默认值为 1.00。
+自动调整起音和释放：开启后，此功能会自动重现音符间过渡等歌唱表达。当 RLHF 校正打开时，此按钮尤其重要。否则，无论此按钮的状态如何，都会发生过渡。
+voice_4.png
+默认 - 手动模式
+有关音高模式的信息，请参阅“音高曲线基础知识”。
+
+当音符的音高模式为手动时，设置默认值。
+voice_2.png
+在手动模式下，您可以使用音高过渡部分和颤音部分编辑音高。
+可以在音符属性面板中为每个音符设置这些。
+有关每个参数的详细信息，请参阅“音符属性面板”。
+
+管理预设
+可以将语音面板中的设置保存为预设并加载到其他音轨或音符组中。
+edit-voice_9_9.png
+
+保存预设
+单击 [加载/保存预设...] > [保存到新预设...]，输入预设的名称，然后单击 [确定]。
+要覆盖现有预设，请单击 [加载/保存预设...]，选择要覆盖的预设，然后单击 [保存（覆盖）]。
+加载预设
+单击 [加载/保存预设...]，选择要加载的预设，然后单击 [加载]。
+删除预设
+单击 [加载/保存预设...]，选择要删除的预设，然后单击 [删除]。
+预设将保存在以下位置。
+
+Windows：C:\Users\< 用户名 >\Documents\Dreamtonics\Synthesizer V Studio\settings
+macOS：Macintosh HD/Library/Application Support/Dreamtonics/Synthesizer V Studio/settings
+重置语音面板设置
+单击 [重置] 将所有设置重置为默认值。
+
+########################################################
+		03 AI Retakes
+The AI Retakes feature (Pro version only) can generate different patterns of pitch and timbre.
+You can "retake" as if you were recording the actual singer, repeating the process for several times until satisfaction. You can also select and delete the take to be used.
+ai-retakes_1.png
+Expressiveness and Enhancement parameters provide additional controls over the random patterns generated by AI Retakes.
+
+Expressiveness controls the degree of variations between the takes. Lower expressiveness values tend to produce more stable output at the expense of novelty; larger expressiveness values tend to produce stronger dynamics but with higher chances of sounding off-key or mispronunciation.
+Enhancement modifies the take to better suit the listener's preference. At zero, the default state of the voice is presented with no correction applied. At a higher value, it may reduce the artifacts and stablize the take, while introducing subtle changes to the singing techniques.
+For more information, see Reinforcement Learning of Pitch Generation with User Feedback (RLHF).
+Please also see the "Pitch Curve Basics" page.
+
+To Use AI Retakes
+To use AI Retakes, you need the corresponding voice database. The support status of the AI Retakes feature for each voice database can be found in the License and Updates panel.
+ai-retakes_2.png
+To use pitch retakes, turn off manual mode for notes in the Note Properties panel.
+ai-retakes_3.png
+Settings for Global
+In the AI Retakes panel, the Pitch/Timbre section's [Global] is a setting that pertains to the entire note group or track you are currently working with.
+ai-retakes_6.png
+
+Generate a Take
+Generates a new take for the selected note. Takes can also be generated for multiple notes at once.
+
+With the note selected, click [Generate Take] in the Pitch/Timbre section. (or Alt + T/Option + T)
+ai-retakes_7.png
+Once a take is generated, you can also generate a new take from the AI Retake button below the note.
+auto-process_10_9.png
+Selecting a Take
+With a note selected, select the take of your choice from the AI Retakes panel.
+auto-process_10_10.png
+Select a take from the AI Retake button below the note.
+auto-process_10_11.png
+Favorite a Take
+Click on the heart symbol to the right of a take to set the take as a favorite.
+Later, when you delete a group of takes, you will have the option of not deleting your favorite takes.
+auto-process_10_14.png
+
+Delete Takes
+Delete takes one by one
+Click the Delete icon to the right of a take to delete it.
+auto-process_10_15.png
+
+Delete All but the Active Take
+With the note selected, click the Delete icon from the AI Retakes panel, then click [Crop to Active Takes]. (or Shift + Alt + T / Shift + Option + T)
+All inactive (not currently selected) takes of the selected notes will be deleted.
+auto-process_10_16.png
+You can also select [Crop to Active Take] from the AI Retakes button below the note.
+auto-process_10_17.png
+
+Crop to Active/Liked Takes
+With a note selected, click the Delete icon from the AI Retakes panel, then click [Crop to Active/Liked Takes].
+All non-active or non-favorite takes of the selected notes will be deleted.
+auto-process_10_18.png
+
+Pronunciation Retakes
+If you want to try different patterns of pronunciation, use [Timings and phonemes] > [DFLT] in the Note Properties panel.
+
+Reinforcement Learning of Pitch Generation with User Feedback (RLHF)
+The AI version of the voice database has enhanced pitch generation based on user feedback.
+
+If you have agreed to send feedback in the Settings panel, feedback will be sent to Dreamtonics when a favorite is set via the take's heart mark button in the AI Retake function.
+These feedbacks are incorporated into future updates of the voice database, leading to more natural and expressive pitch generation.
+
+The effect of pitch correction using this feature can also be set individually while editing notes.
+
+AI 重录功能（仅限专业版）可以生成不同的音高和音色模式。
+您可以像录制真实歌手一样“重录”，重复该过程几次直到满意。您还可以选择和删除要使用的录音。
+ai-retakes_1.png
+表现力和增强参数为 AI 重录生成的随机模式提供了额外的控制。
+
+表现力控制录音之间的变化程度。较低的表现力值往往会产生更稳定的输出，但代价是新颖性；较大的表现力值往往会产生更强的动态，但听起来走调或发音错误的可能性更高。
+增强会修改录音以更好地适应听众的喜好。当值为零时，语音的默认状态是未应用任何校正。当值较高时，它可能会减少伪影并稳定录音，同时对歌唱技巧进行细微的改变。
+有关更多信息，请参阅使用用户反馈的音高生成强化学习 (RLHF)。
+另请参阅“音高曲线基础知识”页面。
+
+要使用 AI 重录
+要使用 AI 重录，您需要相应的语音数据库。可以在“许可和更新”面板中找到每个语音数据库的 AI 重录功能的支持状态。
+ai-retakes_2.png
+要使用音高重录，请在“音符属性”面板中关闭音符的手动模式。
+ai-retakes_3.png
+全局设置
+在 AI 重录面板中，音高/音色部分的 [全局] 是与您当前正在处理的整个音符组或音轨相关的设置。
+ai-retakes_6.png
+
+生成一个片段
+为选定的音符生成一个新的片段。也可以一次为多个音符生成片段。
+
+选择音符后，单击音高/音色部分中的 [生成片段]。 （或 Alt + T/Option + T）
+ai-retakes_7.png
+生成镜头后，您还可以通过注释下方的 AI 重拍按钮生成新镜头。
+auto-process_10_9.png
+选择镜头
+选择注释后，从 AI 重拍面板中选择所需的镜头。
+auto-process_10_10.png
+通过注释下方的 AI 重拍按钮选择一个镜头。
+auto-process_10_11.png
+收藏镜头
+单击镜头右侧的心形符号，将该镜头设置为收藏。
+稍后，当您删除一组镜头时，您可以选择不删除您最喜欢的镜头。
+auto-process_10_14.png
+
+删除镜头
+逐个删除镜头
+单击镜头右侧的删除图标将其删除。
+auto-process_10_15.png
+
+删除除活动镜头之外的所有镜头
+选择笔记后，单击 AI 重拍面板中的删除图标，然后单击 [裁剪为活动镜头]。（或 Shift + Alt + T / Shift + Option + T）
+所选笔记的所有非活动镜头（当前未选中）都将被删除。
+auto-process_10_16.png
+您还可以从笔记下方的 AI 重拍按钮中选择 [裁剪为活动镜头]。
+auto-process_10_17.png
+
+裁剪为活动镜头/喜欢的镜头
+选择笔记后，单击 AI 重拍面板中的删除图标，然后单击 [裁剪为活动镜头/喜欢的镜头]。
+所选笔记的所有非活动镜头或非喜欢的镜头都将被删除。
+auto-process_10_18.png
+
+发音重录
+
+如果您想尝试不同的发音模式，请使用“音符属性”面板中的 [时序和音素] > [DFLT]。
+
+使用用户反馈的音高生成强化学习 (RLHF)
+
+AI 版语音数据库根据用户反馈增强了音高生成。
+
+如果您已同意在“设置”面板中发送反馈，则当通过 AI 重录功能中的音高心形标记按钮设置收藏时，反馈将发送到 Dreamtonics。
+
+这些反馈将纳入语音数据库的未来更新中，从而实现更自然、更富有表现力的音高生成。
+
+使用此功能的音高校正效果也可以在编辑笔记时单独设置。
+
+########################################################
+		04 Note Properties Panel
+The Note Properties panel allows you to edit the pitch and pronunciation of each note.
+When multiple notes are selected, they can be manipulated together.
+
+The Note Properties panel can be opened from the Side Panel Launch Bar or by pressing Ctrl + B/Command + B.
+
+Default settings for voice texture and pitch for the entire Track can be set in the Voice panel.
+
+Switching Note Selection
+In the Note Properties panel of Synthesizer V Studio, you can:
+edit-note_11_1.png
+
+Click on [Navigation] > [PREV] to select the previous note.
+Click on [Navigation] > [NEXT] to select the next note.
+Note's Language (Pro Version Only)
+From [Languages] > [Sing in the following language], select the language you want to use in the selected note. Languages can only be changed on AI voice databases.
+edit-note_11_1.png
+
+Adjust Pitch and Vibrato
+Select Pitch Mode
+In the Pitch mode, either singing or rapping mode can be selected, and a pitch curve is automatically generated for each mode.
+Manual mode can also be turned on for manual adjustments using various parameters.
+note-properties_1.png
+
+Please also see the "Pitch Curve Basics" page.
+
+Sing Mode
+note-properties_2.png
+
+Vibrato Modulation: Adjusts the depth of vibratos generated by the AI.
+It can be set between 0.00 and 2.00, with a default value of 1.00.
+Rap Mode
+note-properties_3.png
+
+Rap Accent: Appears only in Mandarin Chinese. Adjusts the Chinese accent (tone of the voice). Since the meaning of words in Chinese varies depending on the accent, four different accents can be selected.
+Intonation: Adjusts the pitch movement (up/down) of each note.
+It can be set between -0.500 and 0.500, and the default value is automatically set for each note.
+Tone: Adjusts the pitch height of the entire note.
+It can be set between -5.000 and 1.000, and the default value is automatically set for each note.
+Intonation and Tone are linked to the "Rap Intonation" arrow in the Parameter Panel.
+note-properties_4.png
+
+Manual Mode
+note-properties_5.png
+
+In Manual mode, you can edit the pitch with the Pitch Transition section and the Vibrato section.
+
+When Manual mode is turned on, the pitch curve generated in Sing Mode/Rap Mode is moved to the Pitch Deviation in the Parameters Panel.
+Whether or not the pitch curve is maintained when the Manual Mode is turned on or off can be customized in the Settings panel.
+pitch-curve_1.png
+
+Pitch Transition
+The Pitch Transition in Manual Mode allows you to adjust the shape of the curve between notes, specifying the timing, the angle of the curve, and the swing before and after the curve.
+
+The following parameters can be edited:
+
+Offset: Adjusts the offset of the pitch curve change connected to the previous note. It can be set between -0.5 and +0.5 seconds; the default value is 0 seconds.
+Duration Left: It primarily sets the length of the portamento (on the left ) to the previous note, and can be set between 0 and 0.5 seconds, with a default value of 0.1 seconds.
+Duration Right: It primarily sets the length of the portamento (on the right) to the next note, and can be set between 0 and 0.5 seconds, with a default value of 0.07 seconds.
+Depth Left: Sets the depth of the pitch curve at the end of the portamento from the previous note. It can be set between -6 semitones and +6 semitones, with a default value of 0.15 semitones.
+Depth Right: Sets the depth of pitch curve when portamento from the next note begins. It can be set between -6 semitones and +6 semitones, with a default value of 0.15 semitones.
+Vibrato
+Vibrato in Manual mode allows you to set a precise vibrato by specifying numerical values for depth and shaking speed.
+
+The following parameters can be edited:
+
+Start: Sets the number of seconds after the start of the note that the vibrato will begin; can be set between 0 and 1 second; default value is 0.25 seconds.
+Left: Adjusts the length of the fade on the left side of the vibrato, between 0.02 and 0.5 seconds, default value 0.2 seconds.
+Right: Adjusts the length of the fade on the right side of the vibrato, between 0.02 and 0.5 seconds, with a default value of 0.2 seconds.
+Depth: Adjusts the depth of the vibrato (from top to bottom), which can be set between 0 and 2 semitones; the default value is 1 semitone.
+Freq: Adjusts the frequency of the vibrato (speed of the wave), which can be set between 1Hz and 10Hz, with a default value of 5.5Hz.
+Phase: Adjust the phase of the vibrato, which changes the direction of its start. Can be set between -1 and +1, default value is 0.
+Jitter: In the standard version of the Voice Database, adds a natural pitch fluctuation to match the pronunciation of the voice; can be set between 0 and 2, default value is 1.
+If vibrato does not occur in the pitch curve in Manual mode, check that the value of [Depth] is not set to 0.
+
+Timing and Phonemes
+Under [Timing and Phonemes] you can adjust the timing of the sound and the length of the phonemes.
+These can be reset by right-clicking on the note and selecting [Reset] > [Reset Timing and Phonemes].
+note-properties_6.png
+
+Note Offset: Adjusts the timing of the start of the pronunciation. It can be set between -0.1 and +0.1 seconds; the default value is 0 seconds.
+Phonemes: Edit the note's phoneme (pronunciation). Leaving it blank and pressing Enter will return to the default phoneme.
+All available phonemes can be found in the Phoneme Reference.
+
+Evenly split note into syllables: This can be selected when a note has multiple syllables on it. When checked, the length of the syllables are equal, limiting the effect of the “Duration” parameter. When unchecked, the duration of the pronunciation is automatically adjusted.
+Duration: Allows you to adjust the length of each phoneme between 20% and 180%.
+Strength (Pro version only): Allows you to adjust the strength of each phoneme between 20% and 180%.
+DFLT/Alt (Pro version only): In some voice databases, when the same pronunciation is recorded more than once, you can switch between Default/Alternate Pronunciation 1/Alternate Pronunciation 2.
+Expression Groups
+The expression group is an option only available in the standard (non AI) version of voice databases. It is automatically selected from the recorded voice set based on the pitch of the notes. This feature is equivalent to tone shift in the AI voice database.
+
+音符属性面板允许您编辑每个音符的音高和发音。
+当选择多个音符时，可以同时操作它们。
+
+可以从侧面板启动栏或按 Ctrl + B/Command + B 打开音符属性面板。
+
+可以在语音面板中设置整个音轨的语音纹理和音高的默认设置。
+
+切换音符选择
+在 Synthesizer V Studio 的音符属性面板中，您可以：
+edit-note_11_1.png
+
+单击 [导航] > [上一个] 选择上一个音符。
+
+单击 [导航] > [下一个] 选择下一个音符。
+音符的语言（仅限专业版）
+从 [语言] > [用以下语言演唱] 中选择您想要在所选音符中使用的语言。语言只能在 AI 语音数据库上更改。
+edit-note_11_1.png
+
+调整音高和颤音
+选择音高模式
+在音高模式下，可以选择唱歌或说唱模​​式，并自动为每种模式生成音高曲线。
+也可以打开手动模式，使用各种参数进行手动调整。
+note-properties_1.png
+
+另请参阅“音高曲线基础”页面。
+
+唱歌模式
+note-properties_2.png
+
+颤音调制：调整 AI 生成的颤音深度。
+可设置为 0.00 至 2.00 之间，默认值为 1.00。
+说唱模式
+note-properties_3.png
+
+说唱口音：仅出现在普通话中。调整中文口音（语音的音调）。由于中文单词的含义因口音而异，因此可以选择四种不同的口音。
+音调：调整每个音符的音高移动（上/下）。
+可设置为 -0.500 至 0.500 之间，每个音符自动设置默认值。
+音调：调整整个音符的音高。
+可设置为 -5.000 至 1.000 之间，每个音符自动设置默认值。
+音调和音调与参数面板中的“说唱音调”箭头相关联。
+note-properties_4.png
+
+手动模式
+note-properties_5.png
+
+在手动模式下，您可以使用音高过渡部分和颤音部分编辑音高。
+
+打开手动模式后，在唱歌模式/说唱模式下生成的音高曲线将移动到参数面板中的音高偏差。
+可以在设置面板中自定义打开或关闭手动模式时是否保持音高曲线。
+pitch-curve_1.png
+
+音高过渡
+手动模式下的音高过渡允许您调整音符之间的曲线形状，指定时间、曲线角度以及曲线前后的摆动。
+
+可以编辑以下参数：
+
+偏移：调整与上一个音符相关的音高曲线变化的偏移。可设置为 -0.5 到 +0.5 秒之间；默认值为 0 秒。
+左持续时间：主要设置滑音（左侧）到上一个音符的长度，可设置为 0 到 0.5 秒之间，默认值为 0.1 秒。
+右持续时间：主要设置滑音（右侧）到下一个音符的长度，可设置为 0 到 0.5 秒之间，默认值为 0.07 秒。
+左深度：设置滑音结束时距上一个音符的音高曲线的深度。可设置为 -6 半音至 +6 半音，默认值为 0.15 半音。
+右深度：设置从下一个音符开始滑音时音高曲线的深度。可设置为 -6 半音至 +6 半音，默认值为 0.15 半音。
+颤音
+手动模式下的颤音允许您通过指定深度和摇动速度的数值来设置精确的颤音。
+
+可编辑以下参数：
+
+开始：设置音符开始后多少秒开始颤音；可设置为 0 至 1 秒；默认值为 0.25 秒。
+左：调整颤音左侧淡入淡出的长度，可设置为 0.02 至 0.5 秒，默认值为 0.2 秒。
+右：调整颤音右侧淡入淡出的长度，范围为 0.02 至 0.5 秒，默认值为 0.2 秒。
+深度：调整颤音的深度（从上到下），可设置范围为 0 至 2 个半音；默认值为 1 个半音。
+频率：调整颤音的频率（波形的速度），可设置范围为 1Hz 至 10Hz，默认值为 5.5Hz。
+相位：调整颤音的相位，改变颤音开始的方向。可设置范围为 -1 至 +1，默认值为 0。
+抖动：在标准版语音数据库中添加自然的音高波动，以匹配语音的发音；可以设置为 0 到 2 之间的值，默认值为 1。
+如果在手动模式下音高曲线中没有出现颤音，请检查 [深度] 的值是否设置为 0。
+
+时值和音素
+在 [时值和音素] 下，您可以调整声音的时值和音素的长度。
+可以通过右键单击音符并选择 [重置] > [重置时值和音素] 来重置这些音符偏移：调整发音开始的时间。可设置为 -0.1 到 +0.1 秒之间；默认值为 0 秒。
+音素：编辑音符的音素（发音）。将其留空并按 Enter 将返回默认音素。
+所有可用的音素都可以在音素参考中找到。
+
+将音符均匀分成音节：当音符上有多个音节时，可以选择此选项。选中后，音节的长度相等，从而限制“持续时间”参数的效果。取消选中时，发音的持续时间会自动调整。
+持续时间：允许您在 20% 到 180% 之间调整每个音素的长度。
+强度（仅限专业版）：允许您在 20% 到 180% 之间调整每个音素的强度。
+DFLT/Alt（仅限专业版）：在某些语音数据库中，当相同的发音被录制多次时，您可以在默认/替代发音 1/替代发音 2 之间切换。
+表情组
+表情组是仅在标准（非 AI）版语音数据库中可用的选项。它会根据音符的音高自动从录制的语音集中选择。此功能相当于 AI 语音数据库中的音调转换。
+
+########################################################
+		05 Note Group
+Introducing Note Groups
+A note group is a grouping of notes and parameter control points.
+While editing a note group, a frame will appear around the group.
+
+Each note group can be individually configured in the Voice panel (parameters such as voice database, Vocal Mode, Loudness and Tension).
+
+
+Main Group
+Ungrouped notes and control points belong to the track's main group.
+
+(In this image, the three notes on the left belong to the main group and the three notes on the right belong to the group "la la la").
+
+Voice databases and parameters set in the main group will also affect other note groups on the same track. If there are parameters set individually for a note group, they will take precedence.
+
+Note Group Instances
+A note group placed on a track or in the Piano Roll is called an instance.
+Note groups and instances have a parent/child clip relationship, and multiple instances can be placed on different tracks.
+
+Editing Data Shared Within a Note Group
+Notes and control points are shared within a note group. When a note or control point is edited, the edited content is reflected in other instances of the same note group.
+
+Edit Data That Does Not Affect Other Instances
+Each instance can be dragged up or down to change its pitch when placed.
+Each instance can be individually configured in the Voice panel (parameters such as voice database, Vocal Mode, loudness and tension).
+Note Groups and Control Points
+Control points in the Parameter Panel can be placed inside or outside of note groups.
+Control points placed outside of a note group (main group) will affect the inside of the note group.
+
+Only control points belonging to the note group (or main group) currently being edited will be displayed in the Parameter Panel.
+If there are control points inside and outside of a note group, the parameters are combined.
+
+Manage Note Groups
+Note groups other than the main group are listed in the Library panel.
+You can name groups, see how many instances are created, and delete unused note groups.
+
+
+Creating a Note Group
+Select the notes in the Piano Roll, right-click and choose [Merge into Group] (or Alt + G/Option + G).
+
+If there are control points in the Parameter Panel, select notes and control points at the same time and group them by clicking on Merge into Group.
+library_5.png
+If you want to select all control points within the range of the selected note, click [Edit] > [Selection] > [Select Parameters for Notes]. (or Ctrl + Alt + A/Command + Option + A)
+
+Deploy an Instance
+To place an existing note group, select the note group in the Library panel and drag it to the Arrangement area or Piano Roll area.
+A new instance of the selected group will be placed.
+Edit the Contents of a Note Group
+To edit notes or control points within a group, enter the note group first.
+While editing a note group, a frame will appear around the group.
+
+In the Piano Roll area, you can edit a note group by double-clicking on a note or clicking on the label above the note group.
+Click on the note group label again (or press Esc) to finish editing the note group.
+
+Clicking Note Group in the Arrangement area will allow you to edit the note group.
+Double-click (or press Esc) on any other part of the Arrangement area to finish editing the note group.
+
+After entering a note group, only notes and control points can be edited in the Piano Roll area, and the instances themselves cannot be moved, lengthened, or split.
+
+Selecting an Instance
+In the Arrangement area and Piano Roll area, you can:
+
+Select an instance by clicking on it.
+Click while holding Ctrl/Command or Shift to select multiple note group instances.
+Click while holding Ctrl + A/Command + A to select all note group instances.
+Deselect with the Esc.
+Move an Instance
+In the Arrangement area and Piano Roll area, you can:
+
+Move an instance by dragging it.
+Holding Ctrl + Alt/Command + Option while dragging will move the instance without snapping to the grid.
+In addition, the following operations can be performed in the Piano Roll area:
+
+Holding Shift while dragging to move the selected instance vertically only.
+Holding Ctrl/Command while dragging moves the selected instance horizontally only.
+You can check if the pitch of an instance has been changed in the Library panel.
+
+Resize a Note Group
+In the Arrangement area or Piano Roll area, drag the start or the end of an instance to change its length.
+
+A note that belongs to a note group will not play beyond the length of the note group.
+
+Split a Note Group
+Split the instance at the selected position to create two new note groups.
+
+Select the instance in the Piano Roll area, right-click and select [Split Group]. The notes before and after the right-clicked position will be split into separate groups.
+Disband an Instance
+When an instance is de-instanced, the notes and control points within the instance will be moved to the main group. Other instances of the same note group will be retained.
+
+Right-click on the instance in the Arrangement area or Piano Roll area and select [Disband Group].
+Right-click on an instance in the Library panel and select [Disband Group].
+Dissociate Instances
+Separate the selected instance from the current note group and creates a new note group.
+
+Right-click the instance in the Arrangement area or Piano Roll area and select [Dissociate Group].
+Deleting an Instance
+Deleting an instance deletes the notes and control points within the instance. Other instances of the same note group will be retained.
+
+In the Arrangement area or Piano Roll area, select an instance and press Delete, or click [Edit] > [Selection] > [Delete Selection].
+In the Library panel, right-click on an instance and select [Delete Instance].
+Delete a Note Group
+Deleting a note group will delete all placed instances.
+
+Right-click on the note group in the Library panel and select [Delete Group].
+Renaming a Note Group
+In the Library panel, double-click on the note group name to edit it.
+
+Sorting Note Groups
+In the Library panel, drag the buttons at the bottom left of note groups to rearrange the order in which note groups appear.
+
+Copy and Paste Note Groups
+In the Arrangement area and Piano Roll area, you can:
+
+On the Menu bar, click on [Edit] > [Clipboard] > [Copy] (or Ctrl + C/Command + C) to copy the selected instance to the clipboard.
+On the Menu bar, click [Edit] > [Clipboard] > [Cut] (or Ctrl + X/Command + X) to cut (delete while copying to the clipboard) the selected instance.
+On the Menu bar, click [Edit] > [Clipboard] > [Paste] (or Ctrl + V/Command + V) to paste the copied instance from the clipboard.
+When pasting for the first time, select either "Paste at the playhead" or "Paste at the same position on screen". The paste behaviour can be changed in the settings panel.
+Please see "Settings" for details on pasting patterns.
+
+介绍音符组
+音符组是音符和参数控制点的分组。
+编辑音符组时，音符组周围会出现一个框架。
+每个音符组都可以在“语音”面板中单独配置（参数包括语音数据库、人声模式、响度和张力）。
+主组
+未分组的音符和控制点属于音轨的主组。
+（在此图中，左侧的三个音符属于主组，右侧的三个音符属于“la la la”组）。
+主组中设置的语音数据库和参数也会影响同一音轨上的其他音符组。如果为音符组单独设置了参数，则这些参数将优先。
+音符组实例
+放置在音轨上或钢琴卷帘中的音符组称为实例。
+音符组和实例具有父/子剪辑关系，并且可以将多个实例放置在不同的音轨上。
+编辑音符组内共享的数据
+音符组内共享音符和控制点。编辑音符或控制点时，编辑的内容会反映在同一音符组的其他实例中。
+
+编辑不影响其他实例的数据
+每个实例都可以上下拖动以在放置时更改其音高。
+每个实例都可以在语音面板中单独配置（参数如语音数据库、人声模式、响度和张力）。
+音符组和控制点
+参数面板中的控制点可以放置在音符组的内部或外部。
+放置在音符组（主组）外部的控制点将影响音符组的内部。
+
+只有属于当前正在编辑的音符组（或主组）的控制点才会显示在参数面板中。
+如果音符组内部和外部都有控制点，则参数会合并。
+
+管理音符组
+主组以外的音符组列在库面板中。
+您可以命名组、查看创建的实例数以及删除未使用的音符组。
+
+创建音符组
+选择钢琴卷帘中的音符，右键单击并选择 [合并到组]（或 Alt + G/Option + G）。
+
+如果参数面板中有控制点，请同时选择音符和控制点，然后单击合并到组将它们分组。
+library_5.png
+如果要选择所选音符范围内的所有控制点，请单击 [编辑] > [选择] > [选择音符的参数]。（或 Ctrl + Alt + A/Command + Option + A）
+
+部署实例
+要放置现有音符组，请在库面板中选择音符组并将其拖到编排区域或钢琴卷帘区域。
+将放置所选组的新实例。
+编辑音符组的内容
+要编辑组内的音符或控制点，请先进入音符组。
+编辑音符组时，组周围会出现一个框架。
+
+在钢琴卷帘区域中，您可以通过双击音符或单击音符组上方的标签来编辑音符组。
+再次单击音符组标签（或按 Esc）以完成对音符组的编辑。
+单击编排区域中的音符组将允许您编辑音符组。
+双击（或按 Esc）编排区域的任何其他部分以完成对音符组的编辑。
+输入音符组后，钢琴卷帘区域中只能编辑音符和控制点，实例本身不能移动、加长或分割。
+选择实例
+在编排区域和钢琴卷帘区域中，您可以：
+单击选择一个实例。
+按住 Ctrl/Command 或 Shift 键单击以选择多个音符组实例。
+按住 Ctrl + A/Command + A 键单击以选择所有音符组实例。
+使用 Esc 键取消选择。
+移动实例
+在编排区域和钢琴卷帘区域中，您可以：
+
+通过拖动来移动实例。
+拖动时按住 Ctrl + Alt/Command + Option 将移动实例而不对齐到网格。
+此外，可以在钢琴卷帘区域中执行以下操作：
+
+拖动时按住 Shift 仅垂直移动所选实例。
+拖动时按住 Ctrl/Command 仅水平移动所选实例。
+您可以在库面板中检查实例的音高是否已更改。
+
+调整音符组大小
+在编排区域或钢琴卷帘区域中，拖动实例的开始或结束以更改其长度。
+
+属于音符组的音符不会超出音符组的长度。
+
+拆分音符组
+在选定位置拆分实例以创建两个新的音符组。
+
+在钢琴卷帘区域中选择实例，右键单击并选择 [拆分组]。右击位置前后的音符将被拆分成不同的组。
+解散实例
+当实例被解散时，实例内的音符和控制点将移至主组。同一音符组的其他实例将保留。
+
+在编排区域或钢琴上右击实例滚动区域并选择 [解除组]。
+右键单击库面板中的实例并选择 [解除组]。
+解除实例
+将所选实例与当前音符组分离并创建新的音符组。
+
+右键单击编排区域或钢琴卷帘区域中的实例并选择 [解除组]。
+删除实例
+删除实例会删除实例内的音符和控制点。同一音符组的其他实例将保留。
+
+在编排区域或钢琴卷帘区域中，选择一个实例并按 Delete，或单击 [编辑] > [选择] > [删除选择]。
+在库面板中，右键单击实例并选择 [删除实例]。
+删除音符组
+删除音符组将删除所有放置的实例。
+
+右键单击库面板中的音符组并选择 [删除组]。
+重命名音符组
+在库面板中，双击音符组名称以进行编辑。
+
+对音符组进行排序
+在“库”面板中，拖动音符组左下角的按钮可重新排列音符组的显示顺序。
+
+复制和粘贴音符组
+在“编排”区域和“钢琴卷帘”区域，您可以：
+
+在菜单栏上，单击 [编辑] > [剪贴板] > [复制]（或 Ctrl + C/Command + C）将选定的实例复制到剪贴板。
+在菜单栏上，单击 [编辑] > [剪贴板] > [剪切]（或 Ctrl + X/Command + X）剪切（复制到剪贴板时删除）选定的实例。
+在菜单栏上，单击 [编辑] > [剪贴板] > [粘贴]（或 Ctrl + V/Command + V）从剪贴板粘贴复制的实例。
+首次粘贴时，选择“在播放头处粘贴”或“在屏幕上的同一位置粘贴”。可以在设置面板中更改粘贴行为。
+有关粘贴图案的详细信息，请参阅“设置”。
+
+########################################################
+		06 Dictionary
+The Dictionary panel allows you to register word pronunciations.
+When converting note lyrics to phonemes, the software's default dictionary is usually used, but the conversion rules can be customized by creating a user dictionary in the Dictionary panel.
+
+To use a dictionary, a voice database must be loaded on the track.
+
+User dictionaries are stored in the following locations
+
+Windows: C:\Users\\Documents\Dreamtonics\Synthesizer V Studio\dicts
+macOS: Macintosh HD/Library/Application Support/Dreamtonics/Synthesizer V Studio/dicts
+Create a New Dictionary
+Click on [New], enter a new dictionary name and click [OK].
+dictionary_14_1.png
+
+Select a Dictionary
+Select the dictionary from [Current Dictionary].
+dictionary_1.png
+
+Register a Word and its Pronunciation
+Enter the word you want to register in [Word] and the pronunciation in [Phoneme], then click [Set].
+dictionary_14_3.png
+
+All available phonemes can be found in the Phoneme Reference.
+
+Edit Words and Pronunciations
+Select the word, edit the word or pronunciation, then click on [Set].
+
+Delete a Word
+Select the word and click on [Remove].
+dictionary_14_4.png
+
+Delete a Dictionary
+Select the dictionary from [Current Dictionary] and click on [Remove].
+dictionary_14_5.png
+
+词典面板允许您注册单词发音。
+将音符歌词转换为音素时，通常使用软件的默认词典，但可以通过在词典面板中创建用户词典来自定义转换规则。
+
+要使用词典，必须在音轨上加载语音数据库。
+
+用户词典存储在以下位置
+
+Windows：C:\Users\\Documents\Dreamtonics\Synthesizer V Studio\dicts
+macOS：Macintosh HD/Library/Application Support/Dreamtonics/Synthesizer V Studio/dicts
+创建新词典
+单击[新建]，输入新词典名称，然后单击[确定]。
+dictionary_14_1.png
+
+选择词典
+从[当前词典]中选择词典。
+dictionary_1.png
+
+注册单词及其发音
+在[单词]中输入要注册的单词，在[音素]中输入发音，然后单击[设置]。
+dictionary_14_3.png
+
+所有可用的音素都可以在音素参考中找到。
+
+编辑单词和发音
+选择单词，编辑单词或发音，然后单击 [设置]。
+
+删除单词
+选择单词并单击 [删除]。
+dictionary_14_4.png
+
+删除词典
+从 [当前词典] 中选择词典并单击 [删除]。
+dictionary_14_5.png
+
+########################################################
+		07 Parameter Panel
+The Parameter Panel allows you to create precise expressions using control points that change over time. Up to three Parameter Panels can be placed.
+parameters_1.png
+
+Basic Operation of the Parameter Panel
+
+
+Editing Tool: Select tools for manipulating parameters and control points. There are 3: "Multi-Editing tool", "Freehand tool", and "Line tool".
+Interpolation mode: Choose between "linear (straight line)", "cosine (smoother)" and "adaptative spline (smoothest)" parameter curves. Different interpolation modes can be set for each parameter.
+Vertical zooming: Sets the vertical zooming rate. Available options are [2x] [4x]. This option is only available for some parameters.
+Current Parameter in Edit: Click here to select the parameter to edit. The available parameters depend on the Voice Database.
+Current Parameter on Display: Display another parameter behind the one you are editing. Available parameters depend on the voice database.
+Swap Edit/Display Parameters: Swaps the current parameter being edited with the parameter displayed behind it.
+Range for Current Parameter in Edit: The maximum and minimum values of the currently edited parameter are displayed on the left side.
+Range for Current Parameter on Display: The maximum and minimum values of the current parameter are displayed at the right end.
+If [Hide points in freehand mode] is checked in the Settings panel, only curves will be displayed when using the Freehand tool, making it easier to draw.
+If unchecked, the control points will be displayed even when using the Freehand tool, and the control points can be selected.
+parameters_8.png
+
+Set the Parameter to be Edited
+Click on [EDIT: (Current Edit Parameter)] and select the parameter you want to edit.
+For some parameters, you can use the [x2] [x4] buttons to change the vertical magnification.
+parameters_2.png
+
+The following parameters can be edited:
+
+Pitch Deviation: Fine-tune the pitch. The pitch deviation is added to the note's original pitch curve. It can be set between -1200 cents and 1200 cents, with a default value of 0 cents.
+Vibrato Envelope: Change the original vibrato of the note over time, with a scale factor of between 0 x and 2 x. The default value is 1 x.
+Loudness: Fine-tune the volume (dynamics) of the voice. It can be set between -∞ and +24 dB, default value is 0 dB.
+Tension: The tension of the voice. Lowering the value makes the voice sound relax, while raising the value makes the voice sound tense. It can be set from -2 to +2 and defaults to 0.
+Breathiness: Controls the air flow of the voice. The range is -2 to +2, with a default value of 0.
+Voicing: At the default (maximum) the voice is normal, lowering the value will cause the voice to become more whisper-like.
+Gender: Adjusts the formant (voice thickness) of the voice. Can be set between -2 and +2, default value is 0.
+Tone Shift (Pro version only): Adjusts the voice register. The pitch remains the same, but raising it makes the voice sound like it is singing in a higher register than it actually is, and lowering it makes it sound like it is singing in a lower register. For example, raising the Tone Shift on a note that is a little lower in register than the falsetto voice, you can make it sound like the falsetto voice.
+The value can be set between -800 cents and 800 cents, with a default value of 0 cents.This is only available in AI voice databases.
+Rap Intonation: Adjust the offset and direction of pitch movements within each note when the note is in Rap mode.. Drag the arrow line up or down to change the pitch height and drag the arrow tip to change the intonation. This is only available in some AI voice databases.
+Vocal Mode (Pro version only): Change the texture, timbre and mood for the voice. The lineup of Vocal Modes varies for each voice database.; they can be set from 0% to 150%, with a default value of 0%.
+Set values for the entire track using the Voice panel. The values set in the Voice panel are combined with the control points in the Parameter Panel.
+
+Set the Parameters to be Displayed.
+Click on [DISP: (current display parameters)] to select the parameters to be displayed on the back.
+parameters_3.png
+
+Set the Parameter Interpolation Mode
+Sets the shape of the curve that connects the control points. Different interpolation modes can be set for each parameter.
+
+Linear (straight line): Connects the control points with straight lines.
+Cosine (smoother): Connects the control points with a curve.
+Adaptative Spline (smoothest): Connects the control points with a curve that is more continuous when points are placed close to each other.
+Add Control Points
+The following tools are available:
+basics_3_2_6.png
+
+With the Multi-editing tool (Alt + 1 / Option + 1 to select it), a control point is added at the double-clicked location.
+With the Freehand tool (Alt + 2 / Option + 2 to select it), drag to draw a curve. After dragging, control points will be added along the curve.
+With the Line tool (Alt + 3 / Option + 3 to select it), drag to draw a line. After dragging, control points will be added only at the start and end points, and the curve will be interpolated according to the parameter interpolation mode.
+Select Control Points
+To select control points, use the Multi-editing tool.
+
+Select a control point by clicking on them.
+Click while holding Ctrl/Command or Shift for multiple selections.
+When a control point is selected, Click while holding Ctrl/Command to additionally select or deselect it.
+When a control point is selected, Click while holding Shift to select all control points in between.
+Shift + Drag to select a range of control points.
+Ctrl + A/Command + A selects all control points.
+Esc to deselect.
+Simplify Control Points
+Simplify the curve by reducing the number of control points in the selection.
+On the Menu bar, click on [Modify] > [Parameters] > [Simplify Parameters]. (or Alt + S/Option + S)
+
+Move a Control Point
+To move control points, use the Multi-editing tool.
+
+Move control points by dragging them. If multiple control points are selected, they will move together.
+Shift + dragging moves the selected control point vertically only.
+Ctrl/Command + dragging moves the selected control point horizontally only.
+Shift + Ctrl / Shift + Command + dragging slows down the movement of the control point for finer control.
+Delete Control Points
+In the Parameter Panel, you can:
+
+Select a control point and press the Delete key, or click [Edit] > [Selection] > [Delete Selection].
+With the Freehand tool, drag while holding the right mouse button.
+Copy and Paste Control Points
+Using the Multi-editing tool in the Parameter Panel, select one or more control points to perform the following operations:
+
+On the Manu bar, click on [Edit] > [Clipboard] > [Copy] (or Ctrl + C/Command + C) to copy the selected control points to the clipboard.
+On the Menu bar, click on [Edit] > [Clipboard] > [Cut] (or Ctrl + X/Command + X) to cut (delete while copying to the clipboard) selected control points.
+On the Menu bar, click on [Edit] > [Clipboard] > [Paste] (or Ctrl + V/Command + V) to paste the copied control points from the clipboard.
+When pasting for the first time, select one of the pasting patterns: "Paste at the playhead" or "Paste at the same position on screen". The paste pattern can be changed in the Settings panel.
+Please see "Settings" for details on pasting behavior.
+
+参数面板允许您使用随时间变化的控制点创建精确的表达式。最多可以放置三个参数面板。
+parameters_1.png
+
+参数面板的基本操作
+
+编辑工具：选择用于操作参数和控制点的工具。共有 3 种：“多编辑工具”、“手绘工具”和“线条工具”。
+插值模式：在“线性（直线）”、“余弦（更平滑）”和“自适应样条（最平滑）”参数曲线之间进行选择。可以为每个参数设置不同的插值模式。
+垂直缩放：设置垂直缩放率。可用选项为 [2x] [4x]。此选项仅适用于某些参数。
+编辑中的当前参数：单击此处选择要编辑的参数。可用参数取决于语音数据库。
+当前显示的参数：显示您正在编辑的参数后面的另一个参数。可用参数取决于语音数据库。
+交换编辑/显示参数：将当前正在编辑的参数与其后面显示的参数交换。
+编辑中的当前参数范围：左侧显示当前编辑参数的最大值和最小值。
+显示的当前参数范围：右端显示当前参数的最大值和最小值。
+如果在设置面板中勾选了[手绘模式下隐藏点]，则使用手绘工具时将仅显示曲线，从而更易于绘制。
+如果未勾选，即使使用手绘工具也会显示控制点，并且可以选择控制点。
+parameters_8.png
+
+设置要编辑的参数
+单击[编辑：（当前编辑参数）]，然后选择要编辑的参数。
+对于某些参数，您可以使用[x2] [x4]按钮更改垂直放大倍数。
+parameters_2.png
+
+可以编辑以下参数：
+
+音高偏差：微调音高。音高偏差会添加到音符的原始音高曲线上。可设置为 -1200 音分至 1200 音分之间，默认值为 0 音分。
+颤音包络：随时间改变音符的原始颤音，比例因子为 0 x 至 2 x 之间。默认值为 1 x。
+响度：微调语音的音量（动态）。可设置为 -∞ 至 +24 dB 之间，默认值为 0 dB。
+张力：语音的张力。降低该值可使语音听起来放松，而提高该值可使语音听起来紧张。可设置为 -2 至 +2，默认值为 0。
+气息：控制语音的气流。范围为 -2 至 +2，默认值为 0。
+发声：默认（最大值）语音正常，降低该值会使语音变得更像耳语。
+性别：调整声音的共振峰（声音厚度）。可设置为 -2 至 +2 之间，默认值为 0。
+音调转换（仅限专业版）：调整声音音域。音高保持不变，但提高音调会使声音听起来像是在比实际更高的音域唱歌，降低音调会使声音听起来像是在更低的音域唱歌。例如，提高比假声音域略低的音符上的音调转换，可以使其听起来像假声。
+值可设置为 -800 音分至 800 音分之间，默认值为 0 音分。此功能仅在 AI 语音数据库中可用。
+说唱语调：调整音符处于说唱模式时每个音符内音调移动的偏移和方向。上下拖动箭头线可更改音高，拖动箭头尖可更改语调。此功能仅在部分 AI 语音数据库中可用。
+人声模式（仅限专业版）：更改声音的质感、音色和情绪。人声模式的阵容因每个声音数据库而异；它们可以从 0% 设置为 150%，默认值为 0%。
+使用语音面板设置整个音轨的值。语音面板中设置的值与参数面板中的控制点相结合。
+设置要显示的参数。
+单击 [DISP:（当前显示参数）] 选择要在背面显示的参数。
+parameters_3.png
+设置参数插值模式
+设置连接控制点的曲线形状。可以为每个参数设置不同的插值模式。
+线性（直线）：用直线连接控制点。
+余弦（更平滑）：用曲线连接控制点。
+自适应样条线（最平滑）：用曲线连接控制点，当点彼此靠近时，曲线更连续。
+添加控制点
+可用的工具如下：
+basics_3_2_6.png
+
+使用多编辑工具（Alt + 1 / Option + 1 进行选择），在双击的位置添加一个控制点。
+使用手绘工具（Alt + 2 / Option + 2 进行选择），拖动以绘制曲线。拖动后，将沿曲线添加控制点。
+使用线条工具（Alt + 3 / Option + 3 进行选择），拖动以绘制曲线。
+绘制一条线。拖动后，仅在起点和终点处添加控制点，并根据参数插值模式对曲线进行插值。
+选择控制点
+要选择控制点，请使用多重编辑工具。
+
+单击以选择一个控制点。
+按住 Ctrl/Command 或 Shift 键单击以进行多项选择。
+选择控制点后，按住 Ctrl/Command 键单击以进一步选择或取消选择它。
+选择控制点后，按住 Shift 键单击以选择其间的所有控制点。
+Shift + 拖动以选择一系列控制点。
+Ctrl + A/Command + A 选择所有控制点。
+Esc 取消选择。
+简化控制点
+通过减少选择中的控制点数量来简化曲线。
+在菜单栏上，单击 [修改] > [参数] > [简化参数]。 （或 Alt + S/Option + S）
+
+移动控制点
+要移动控制点，请使用多重编辑工具。
+
+通过拖动来移动控制点。如果选择了多个控制点，它们将一起移动。
+Shift + 拖动只会垂直移动所选控制点。
+Ctrl/Command + 拖动只会水平移动所选控制点。
+Shift + Ctrl / Shift + Command + 拖动会减慢控制点的移动速度，以便进行更精细的控制。
+删除控制点
+在参数面板中，您可以：
+
+选择一个控制点并按 Delete 键，或单击 [编辑] > [选择] > [删除选择]。
+使用手绘工具，按住鼠标右键进行拖动。
+复制和粘贴控制点
+使用参数面板中的多重编辑工具，选择一个或多个控制点以执行以下操作：
+
+在工具栏上，单击 [编辑] > [剪贴板] > [复制]（或 Ctrl + C/Command + C）将选定的控制点复制到剪贴板。
+在菜单栏上，单击 [编辑] > [剪贴板] > [剪切]（或 Ctrl + X/Command + X）以剪切（复制到剪贴板时删除）选定的控制点。
+在菜单栏上，单击 [编辑] > [剪贴板] > [粘贴]（或 Ctrl + V/Command + V）以从剪贴板粘贴复制的控制点。
+首次粘贴时，选择以下粘贴模式之一：“在播放头处粘贴”或“在屏幕上的同一位置粘贴”。可以在设置面板中更改粘贴模式。
+有关粘贴行为的详细信息，请参阅“设置”。
+
+########################################################
+		08 Direct Pitch Editing mode
+Introducing Direct Pitch Editing Mode
+Direct Pitch Editing mode allows you to intuitively draw and edit the pitch curves on the Piano Roll.
+edit-pitch_13_1.png
+
+The pitch curves displayed in the Piano Roll are the sum of the note's original pitch curve (generated in Sing Mode/Rap Mode/Manual Mode) and the Pitch Deviation in the Parameter Panel.
+The pitch curves edited in Direct Pitch Editing mode are reflected in the Pitch Deviation of the Parameter Panel and viceversa, both parameters are synchronized.
+In Sing Mode and Rap Mode, each time you edit a note or lyrics, the pitch curves of the surrounding notes are regenerated.
+Turning on Manual mode stops the pitch re-generations and fixes the curves.
+
+See "Pitch Curves Basics" for details.
+
+Turn on Direct Pitch Editing
+On the Menu bar, click on [View] > [Piano Roll] > [Direct Pitch Editing].
+Click the [Direct Pitch Editing mode] button in the Piano Roll area to turn it on, and click it again to turn it off.
+direct-pitch_1.png
+Modify the Pitch Curves
+To create a pitch curve on the Piano Roll, you can use the following methods:
+
+With the Multi-editing tool (Alt + 1/Option + 1 keys), double-click to create a control point.
+direct-pitch_2.png
+With the Freehand tool (Alt + 2/Option + 2 keys), drag to draw the pitch curves.
+direct-pitch_3.png
+Pitch Control Points Operations
+While in Direct Pitch Editing mode, pitch control points can be manipulated on the Piano Roll in the same way as in the Parameter Panel.
+See "Parameter Panel" for information on how to select, move, delete, copy and paste control points.	
+
+介绍直接音高编辑模式
+直接音高编辑模式允许您直观地绘制和编辑钢琴卷帘上的音高曲线。
+edit-pitch_13_1.png
+
+钢琴卷帘中显示的音高曲线是音符的原始音高曲线（在歌唱模式/说唱模式/手动模式下生成）和参数面板中的音高偏差的总和。
+在直接音高编辑模式下编辑的音高曲线反映在参数面板的音高偏差中，反之亦然，两个参数同步。
+在歌唱模式和说唱模式下，每次编辑音符或歌词时，周围音符的音高曲线都会重新生成。
+打开手动模式会停止音高重新生成并修复曲线。
+
+有关详细信息，请参阅“音高曲线基础知识”。
+
+打开直接音高编辑
+在菜单栏上，单击[视图]>[钢琴卷帘]>[直接音高编辑]。
+单击钢琴卷帘区域中的 [直接音高编辑模式] 按钮将其打开，再次单击将其关闭。
+direct-pitch_1.png
+修改音高曲线
+要在钢琴卷帘上创建音高曲线，您可以使用以下方法：
+
+使用多重编辑工具 (Alt + 1/Option + 1 键)，双击以创建控制点。
+direct-pitch_2.png
+使用手绘工具 (Alt + 2/Option + 2 键)，拖动以绘制音高曲线。
+direct-pitch_3.png
+音高控制点操作
+在直接音高编辑模式下，可以以与参数面板中相同的方式在钢琴卷帘上操作音高控制点。
+有关如何选择、移动、删除、复制和粘贴控制点的信息，请参阅“参数面板”。
+
+########################################################
+		09 Voice-to-MIDI Conversion
+The Voice to MIDI feature (Pro version only) extracts pitch and lyrics from audio and converts them to notes.
+The audio must be a solo vocal with no accompaniment mixed in.
+voice-to-midi_1.png
+
+The converted notes and pitch control points are placed as note groups.
+
+1. Import an Audio File
+Import audio and create instrumental tracks.
+
+The Full ARA mode of the ARA plug-in allows you to import audio clips from your DAW without importing audio.
+See "Full ARA mode setup" for details.
+
+2. Select the Destination Track
+The converted notes will be inserted in the selected track as a new note group.
+Make sure there are no notes where you want to convert.
+
+3. Voice-to-MIDI Conversion
+Right-click on the audio and select [Extract Notes from Audio].
+voice-to-midi_2.png
+voice-to-midi_3.png
+
+The following items can be set:
+
+Note Detection Sensitivity: Lowering the sensitivity detects only the loudest sounds, while raising it detects the quietest sounds and converts them to notes. It also changes the fineness of pronunciation detection. For example, increasing sensitivity may result in more accurate detection on fast tempo songs.
+Round pitch to the nearest semitone: When on, notes are placed in semitone units. When off, notes are placed in 25-cent units of microtones.
+Phonetic lyrics transcription: If checked, the lyrics of the audio are analyzed and reflected in the notes.
+Transfer pitch onto converted notes: If checked, the pitch of the audio will be reflected in the Pitch Deviation parameter in Manual Mode.
+Language: When [Phonetic lyrics transcription] is on, select the language of the lyrics. Choosing "Auto" will automatically detect the language of the lyrics.
+Multi-threaded analysis: Use multi-threading to increase the speed of analysis.
+语音转 MIDI 功能（仅限专业版）可从音频中提取音高和歌词，并将其转换为音符。
+音频必须是独唱，不能混入伴奏。
+voice-to-midi_1.png
+
+转换后的音符和音高控制点将作为音符组放置。
+
+1. 导入音频文件
+导入音频并创建乐器音轨。
+
+ARA 插件的完整 ARA 模式允许您从 DAW 导入音频剪辑，而无需导入音频。
+有关详细信息，请参阅“完整 ARA 模式设置”。
+
+2. 选择目标轨道
+转换后的音符将作为新音符组插入到选定轨道中。
+确保没有要转换的音符。
+
+3. 语音转 MIDI 转换
+右键单击音频并选择 [从音频中提取音符]。
+voice-to-midi_2.png
+voice-to-midi_3.png
+
+可以设置以下项目：
+
+音符检测灵敏度：降低灵敏度仅检测最响亮的声音，而提高灵敏度则检测最安静的声音并将其转换为音符。它还会改变发音检测的精细度。例如，增加灵敏度可能会使快节奏歌曲的检测更加准确。
+将音高四舍五入到最接近的半音：打开时，音符以半音为单位。关闭时，音符以 25 音分的微音为单位。
+语音歌词转录：如果选中，则会分析音频的歌词并反映在音符中。
+将音高转移到转换后的音符上：如果选中，音频的音高将反映在手动模式下的音高偏差参数中。
+语言：当 [语音歌词转录] 处于打开状态时，选择歌词的语言。选择“自动”将自动检测歌词的语言。
+多线程分析：使用多线程来提高分析速度。
+
+########################################################
+		10 Using a MIDI Keyboard
+Pro version users can record notes with connected MIDI devices and control Synthesizer V Studio with the MMC (MIDI Machine Control) function, if you have more than one MIDI device connected you can set the MIDI input device to be used by the editor and control the playback transport.
+
+Configure MIDI Input Devices
+In the Settings panel, under [Audio] > [MIDI Input Device], select the MIDI input device you want to use.
+device_4_1.png
+
+The plugin version accepts MIDI input from DAW tracks in addition to the device selected in the Settings panel.
+
+See "Settings" for more detailed settings, including quantization after recording and overwritting existing notes.
+
+Recording Using a MIDI Device (Pro Version Only)
+1. Check the Input
+Press the keyboard keys on the MIDI device to verify that the keys on the Synthesizer V Studio are responding; use the octave buttons on the MIDI device to adjust the range of the notes.
+
+2. Start Recording
+Press the record button on the transport control in Synthesizer V Studio or the record button on your MIDI device to start the playback; what you play on your MIDI device will be recorded as notes.
+midi-device_1.png
+
+3. Stop Recording
+Press the record button on the panel or the record button on the MIDI device again to stop recording.
+
+4. Quantize Rotes
+Use the [Quantize Recorded Notes] dialog to correct the timing and length of the input notes.
+device_4_2.png
+
+Transport Control Using MIDI Devices (Pro Version Only)
+Play and Pause: Press the [Play] button on the MIDI device to play, press again to pause.
+Stop: Press the [Stop] button on the MIDI device to stop.
+Fast Forward: Press the [Fast Forward] button on the MIDI device to move the playback position to the next measure.
+Fast reverse: Press the [Fast Reverse] button on the MIDI device to move the playback position to the previous measure.
+
+专业版用户可以使用连接的 MIDI 设备录制音符，并使用 MMC（MIDI 机器控制）功能控制 Synthesizer V Studio，如果您连接了多个 MIDI 设备，则可以设置编辑器要使用的 MIDI 输入设备并控制播放传输。
+
+配置 MIDI 输入设备
+在“设置”面板中的 [音频] > [MIDI 输入设备] 下，选择要使用的 MIDI 输入设备。
+device_4_1.png
+
+除了在“设置”面板中选择的设备外，插件版本还接受来自 DAW 轨道的 MIDI 输入。
+
+有关更详细的设置，包括录制后的量化和覆盖现有音符，请参阅“设置”。
+
+使用 MIDI 设备录制（仅限专业版）
+1. 检查输入
+按下 MIDI 设备上的键盘键以验证 Synthesizer V Studio 上的键是否响应；使用 MIDI 设备上的八度按钮调整音符的范围。
+
+2. 开始录音
+按下 Synthesizer V Studio 传输控制上的录音按钮或 MIDI 设备上的录音按钮开始播放；您在 MIDI 设备上弹奏的内容将被录制为音符。
+midi-device_1.png
+
+3. 停止录音
+再次按下面板上的录音按钮或 MIDI 设备上的录音按钮可停止录音。
+
+4. 量化旋转
+使用 [量化录制的音符] 对话框可更正输入音符的时间和长度。
+device_4_2.png
+
+使用 MIDI 设备进行传输控制（仅限专业版）
+播放和暂停：按下 MIDI 设备上的 [播放] 按钮播放，再次按下可暂停。
+停止：按下 MIDI 设备上的 [停止] 按钮停止。
+快进：按下 MIDI 设备上的 [快进] 按钮可将播放位置移动到下一小节。
+快退：按下 MIDI 设备上的【快退】按钮，将播放位置移动到上一小节。
+
+########################################################
+		11 Using Scripts
+In the Pro version, the Scripting option extends the editor's features. This function allows to not only edit projects, but also control of the selection, navigation, and transport.
+Scripts can be written in Lua or JavaScript.
+
+In addition, the Pro version comes with standard scripts such as "Skip Silence Interval".
+
+For instructions on how to create scripts, please refer to the Synthesizer V Studio Script Manual.
+
+Open the Scripts Folder
+On the Menu bar, click on [Scripts] > [Open Scripts Folder] to open the folder and see the Lua/JavaScript scripts you have created in the folder.
+use-scripts_15_1.png
+
+The script folder is located in the following location
+
+Windows: C:\Users<username>\Documents\Dreamtonics\Synthesizer V Studio\scripts
+macOS：Macintosh HD/Library/Application Support/Dreamtonics/Synthesizer V Studio/scripts
+Load Scripts
+The scripts folder is scanned when Synthesizer V Studio starts.
+On the Menu bar, click on [Scripts] > [Rescan] to manually scan the scripts folder.
+use-scripts_15_2.png
+Run Scripts
+Select the script you want to run from the [Scripts] menu on the Menu bar.
+use-scripts_15_3.png
+
+Force a Script to Stop
+On the Menu bar, click on [Scripts] > [Abort All Running Scripts].
+use-scripts_15_4.png
+
+Set Shortcuts for Scripts
+In the Keyboard section of the Settings panel, you can assign keyboard shortcuts to scripts as well.
+scripts_1.png
+
+在专业版中，脚本选项扩展了编辑器的功能。此功能不仅允许编辑项目，还可以控制选择、导航和传输。
+脚本可以用 Lua 或 JavaScript 编写。
+
+此外，专业版还附带标准脚本，例如“跳过静音间隔”。
+
+有关如何创建脚本的说明，请参阅 Synthesizer V Studio 脚本手册。
+
+打开脚本文件夹
+在菜单栏上，单击 [脚本] > [打开脚本文件夹] 以打开文件夹并查看您在文件夹中创建的 Lua/JavaScript 脚本。
+use-scripts_15_1.png
+
+脚本文件夹位于以下位置
+
+Windows：C:\Users<用户名>\Documents\Dreamtonics\Synthesizer V Studio\scripts
+macOS：Macintosh HD/Library/Application Support/Dreamtonics/Synthesizer V Studio/scripts
+加载脚本
+Synthesizer V Studio 启动时会扫描脚本文件夹。
+在菜单栏上，单击 [脚本] > [重新扫描] 以手动扫描脚本文件夹。
+use-scripts_15_2.png
+运行脚本
+从菜单栏上的 [脚本] 菜单中选择要运行的脚本。
+use-scripts_15_3.png
+
+强制停止脚本
+在菜单栏上，单击 [脚本] > [中止所有正在运行的脚本]。
+use-scripts_15_4.png
+
+为脚本设置快捷键
+在“设置”面板的“键盘”部分，您还可以为脚本分配键盘快捷键。
+scripts_1.png
+
+########################################################
+	Special Topics
+########################################################
+		01 Editing Pitch Curves
+Here is a workflow example for editing pitch curves automatically generated in Sing Mode.
+
+For the basic structure of the pitch curves, see "Pitch Curve Basics".
+
+Pitch Curves Editing Workflow
+1 Set the Pitch Mode for the Entire Track
+In the [Default - Sing Mode] section of the Voice panel, select whether or not to use pitch expressions such as the amount of Vibrato Modulation and Improvise note attack and release.
+voice_1.png
+In the [Global] section of the AI Retakes panel, set the pitch curves details.
+ai-retakes_6.png
+Expressiveness: Adjusts the amount of pitch variation.
+Enhancement: Utilizes user feedback to modify the pitch curves, taking the data collected by the RLHF from different listeners as reference.
+Note groups, these can be set on a group-by-group basis.
+
+2 Adjust the Singing Style for Each Note
+In the Note Properties panel, you can adjust [Vibrato Modulation] on a per-note basis.
+In the AI Retakes panel, [Expressiveness] and [Enhancement] can be adjusted on a per-note basis.
+The AI Retakes panel option [Generate Take] generates different pitch patterns, which you can "retake" repeatedly until you get a take you like.
+auto-process_10_9.png
+In the Generate Take option, the more you increase the "Expressiveness" and decrease the "Enhancement", the more variation in the pitch curves will be.
+
+3 Correcting Pitch Curves Details
+Vibrato Envelope
+The Vibrato Envelope in the Parameter Panel can be used to vary the vibrato strength over time.
+This works for both vibrato generated in Sing Mode and vibrato set in Manual Mode.
+pitch-curve_5.png
+
+Specifying Numerical Values for Pitch Curve and Vibrato
+Notes can be set to Manual Mode and the pitch curve and vibrato can be set manually.
+
+When Manual Mode is turned on, the pitch curves generated in Sing/Rap Mode are moved to Pitch Deviation in the Parameter Panel.
+Whether or not the pitch curve is maintained when Manual Mode is turned on or off, this option can be modified in the Settings panel.
+pitch-curve_1.png
+
+Direct Editing of Pitch Curves
+You can edit the pitch curves by drawing it with the Freehand tool or by adding, moving, or deleting pitch control points with the Multi-editing tool.
+
+Switching from Sing Mode/Rap Mode to Manual Mode stops pitch re-generating and fixes the curves.
+Use Direct Pitch Editing mode to edit the pitch curves in the Piano Roll.
+direct-pitch_3.png
+Edit the pitch curves in the Parameter Panel.
+pitch-curve_2.png
+
+以下是在唱歌模式下自动生成的音高曲线的编辑工作流程示例。
+
+有关音高曲线的基本结构，请参阅“音高曲线基础知识”。
+
+音高曲线编辑工作流程
+1 为整个音轨设置音高模式
+在语音面板的 [默认 - 唱歌模式] 部分中，选择是否使用音高表达，例如颤音调制量和即兴音符的起音和释音。
+voice_1.png
+在 AI 重录面板的 [全局] 部分中，设置音高曲线详细信息。
+ai-retakes_6.png
+表现力：调整音高变化量。
+增强：利用用户反馈修改音高曲线，以 RLHF 从不同听众收集的数据为参考。
+音符组，可以按组设置。
+
+2 调整每个音符的演唱风格
+在音符属性面板中，您可以根据每个音符调整 [颤音调制]。
+在 AI 重录面板中，可以针对每个音符调整 [表现力] 和 [增强]。
+AI 重录面板选项 [生成录音] 会生成不同的音高模式，您可以反复“重录”，直到得到您喜欢的录音。
+auto-process_10_9.png
+在生成录音选项中，您增加的“表现力”越多，减少的“增强”，音高曲线的变化就越大。
+
+3 校正音高曲线详细信息
+颤音包络
+参数面板中的颤音包络可用于随时间改变颤音强度。
+这适用于在唱歌模式下生成的颤音和在手动模式下设置的颤音。
+pitch-curve_5.png
+
+指定音高曲线和颤音的数值
+音符可以设置为手动模式，音高曲线和颤音也可以手动设置。
+
+打开手动模式后，在歌唱/说唱模式下生成的音高曲线将移至参数面板中的音高偏差。
+无论手动模式打开或关闭时是否保留音高曲线，都可以在设置面板中修改此选项。
+pitch-curve_1.png
+
+直接编辑音高曲线
+您可以使用手绘工具绘制音高曲线，或者使用多重编辑工具添加、移动或删除音高控制点来编辑音高曲线。
+
+从歌唱模式/说唱模式切换到手动模式会停止音高重新生成并修复曲线。
+使用直接音高编辑模式编辑钢琴卷帘中的音高曲线。
+direct-pitch_3.png
+在参数面板中编辑音高曲线。
+音高曲线
+
+########################################################
+	Plugins
+########################################################	
+		01 Plugins and DAW Integration
+The Pro version comes with VST/AU/AAX plugins that allows you to run Synthesizer V Studio on a DAW that supports plugins.
+
+The plugins are not included in the Basic version.
+
+The plugins are only supported on Windows/Mac and is not included in the Linux installer.
+
+About Instrument and ARA
+There are two types of plugins for Synthesizer V Studio: Instrument and ARA.
+By combining Instrument and ARA plugins, the functionality of the Instrument plugin can be extended.
+
+Currently, there is no ARA version of the AAX plugin.
+
+Synthesizer V Studio Plugin (Instrument)
+
+
+The Instrument plugin works by inserting it into a track on the DAW, just like a typical VSTi/AU/AAX plugin. Instrument plugins require the use of "ARA bridge mode" in order to control the playback and transport of the DAW from inside the plugin. Note input can be done within the Synthesizer V Studio plugin or by importing a MIDI file.
+Synthesizer V Studio ARA Plugin
+ARA (Audio Random Access) is a standard developed by Celemony and PreSonus that is now supported by many DAWs.
+ARA allows plugins to access audio within a DAW, as well as to exchange transport information in a sophisticated way that was not possible with previous plugin standards.
+
+ARA Bridge Mode
+
+
+Loading the Instrument plugin and the ARA plugin onto separate tracks allows the Instrument plugin to enhance its features by connecting with the DAW through the ARA plugin.
+ARA Bridge Mode can only be used with DAWs that support ARA2.
+See "ARA Bridge Mode Setup" for details.
+
+Full ARA Mode
+plugin_3.png
+In full ARA mode, the ARA plugin accesses the audio in the DAW, and note groups are created in the plugin corresponding to the placement of the audio clips on the DAW.
+You can also use Voice-to-MIDI conversion directly on these note groups without importing audio into the plugin.
+
+Full ARA mode is only available on some DAWs.
+See "Full ARA mode setup" for details.
+
+A separate audio file is required to use the full ARA mode.
+Full ARA mode disables certain features of Synthesizer V Studio, including the creation, copying and pasting of note groups and tracks inside the plugin. Instead, the DAW takes over the responsibility of note groups and tracks management.
+
+While the Full ARA mode offers the highest level of capability, it may necessitate adjustments to your workflow. Consider selecting ARA bridge mode if Full ARA mode is not compatible with your workflow.
+
+Install Plugins
+When installing Synthesizer V Studio Pro, you can choose whether or not to install the plugins.
+install_2_4.png
+
+Plugin Name
+Synthesizer V Studio Plugin: Appears in the list of Instrument sounds in the DAW.
+Synthesizer V Studio ARA Plugin: Appears in the list of effects in the DAW and in the list of ARA plugins.
+
+Install Location
+Windows
+
+VST3 (VSTi) Plugin: C:\Program Files\Common Files\VST3
+VST3(ARA) Plugin: C:\Program Files\Common Files\VST3 , C:\Program Files\Common Files\ARA
+AAX Plugin：C:\Program Files\Common Files\Avid\Audio\Plug-Ins
+macOS
+
+VST3 (VSTi) plugins: Macintosh HD/Library/Audio/Plug-Ins/VST3.
+VST3 (ARA) plugins: Macintosh HD/Library/Audio/Plug-Ins/VST3 , Macintosh HD/Library/Audio/Plug-Ins/ARA.
+Audio Unit plugins: Macintosh HD/Library/Audio/Plug-Ins/Components.
+AAX Plugin：Macintosh HD/Library/Application Support/Avid/Audio/Plug-Ins
+Save Your Project
+Saving with Synthesizer V Studio Plugin (Instrument)
+Projects created within the plugin can be saved in one of two ways.
+The default is "Save Inside Host".
+plugin_4.png
+
+Save Inside Host
+Saves the project within the project of the host (DAW). No .svp file is created.
+When you save the DAW project, the Synthesizer V Studio project is saved at the same time.
+
+Save to External File
+Create and save a separate .svp file from the DAW project; when you reopen the DAW project, the data will be loaded from the corresponding .svp file.
+
+Save As...
+Create a new .svp file and the project will be saved to that file from now on ("Save to External File" status).
+
+In the "Save to External File" state, the Synthesizer V Studio project is saved to the .svp file when you close the project in the DAW.
+There is no command to save manually. Also, you can't exit without saving.
+
+Backing Up the Current Project
+Save your current work as a .svp file using "Save to External File" or "Save As...".
+Then select "Save Inside Host" or "Save As..." and change the destination so that it does not overwrite the .svp file created in 1.
+Saving with Synthesizer V Studio ARA Plugin
+Work done in the ARA Plugin is always saved in the project of the host (DAW).
+
+Save As...
+Export the current project as a .svp file.
+Subsequent edits will continue to be saved within the DAW's project and will not automatically overwrite the exported .svp file.
+
+Configure Audio Channels for Output
+In the Settings panel, under [Audio] > [Channel Layout], you can set the channels to be output.
+
+The default channel placement is "Master Combined" which mixes the audio from multiple tracks in the plugin for output.
+The output reflects the gain, pan, mute, and solo status of the track.
+
+Other options allow for further fine-tuning of the audio on the DAW by outputting each track to a separate channel or isolating the aspiration component.
+The plugin can output up to 16 stereo channels.
+
+In Synthesizer V Studio, the non-periodic components of voice, such as breath sounds, voiceless consonants, and noises that occur with vocalization, are called aspiration.
+In audio rendering, the voice can be divided into periodic components (fundamentals and overtones) and other aspiration components.
+
+edit-project_5_15.png
+The following options are available:
+
+Master Combined: Mixes the audio from each track and outputs it without separating the aspiration components.
+
+Master Aspiration Isolated: Mixes the audio from each track and outputs the aspiration components separately.
+
+Track Combined: Mixes the audio from each track into a separate channel and outputs without separating the aspiration components.
+
+Track Aspiration Isolated: The audio of each track is made into separate channels and the aspiration components are output separately.
+
+Unsupported Functions
+The following functions are not yet supported, or are not available due to DAW specifications. Please wait for future updates.
+
+About the Track Freeze Function
+The "Track Freeze" function, which is used in some DAWs to temporarily render a track to reduce the load, may not work properly in some cases.
+
+Unsupported DAWs
+The ARA plugin cannot be used with DAWs that do not support ARA2, such as Ableton Live.
+Full ARA mode is currently only available on certain DAWs; Logic Pro, Nuendo, etc. cannot use full ARA mode even if their environment supports ARA2. See "Full ARA mode setup" for details.
+Other
+Cubase currently does not load empty audio events created with the Pencil tool into the ARA plugin.
+Cubase currently does not load new audio into the ARA plugin if it is recorded on a track to which the ARA plugin is attached.
+Note group sharing via clip linking does not work properly in Cakewalk.
+
+Pro 版本附带 VST/AU/AAX 插件，可让您在支持插件的 DAW 上运行 Synthesizer V Studio。
+
+插件不包含在基本版本中。
+
+插件仅支持 Windows/Mac，不包含在 Linux 安装程序中。
+
+关于乐器和 ARA
+Synthesizer V Studio 有两种类型的插件：乐器和 ARA。
+
+通过结合乐器和 ARA 插件，可以扩展乐器插件的功能。
+
+目前，没有 AAX 插件的 ARA 版本。
+
+Synthesizer V Studio 插件（乐器）
+
+乐器插件的工作原理是将其插入 DAW 上的轨道，就像典型的 VSTi/AU/AAX 插件一样。乐器插件需要使用“ARA 桥接模式”才能从插件内部控制 DAW 的播放和传输。音符输入可以在 Synthesizer V Studio 插件内完成，也可以通过导入 MIDI 文件完成。
+Synthesizer V Studio ARA 插件
+ARA（音频随机访问）是由 Celemony 和 PreSonus 开发的标准，现在许多 DAW 都支持该标准。
+ARA 允许插件访问 DAW 中的音频，以及以以前的插件标准无法实现的复杂方式交换传输信息。
+ARA 桥接模式
+将乐器插件和 ARA 插件加载到单独的轨道上，可让乐器插件通过 ARA 插件与 DAW 连接，从而增强其功能。
+ARA 桥接模式只能用于支持 ARA2 的 DAW。
+有关详细信息，请参阅“ARA 桥接模式设置”。
+完整 ARA 模式
+plugin_3.png
+在完整 ARA 模式下，ARA 插件可访问 DAW 中的音频，并在插件中创建与音频剪辑在 DAW 上的位置相对应的音符组。
+您也可以直接在这些音符组上使用语音到 MIDI 的转换，而无需将音频导入插件。
+
+完整 ARA 模式仅适用于某些 DAW。
+有关详细信息，请参阅“完整 ARA 模式设置”。
+
+使用完整 ARA 模式需要单独的音频文件。
+完整 ARA 模式会禁用 Synthesizer V Studio 的某些功能，包括在插件内创建、复制和粘贴音符组和音轨。相反，DAW 会接管音符组和音轨管理的责任。
+
+虽然完整 ARA 模式提供了最高级别的功能，但可能需要调整您的工作流程。如果完整 ARA 模式与您的工作流程不兼容，请考虑选择 ARA 桥接模式。
+
+安装插件
+安装 Synthesizer V Studio Pro 时，您可以选择是否安装插件。
+install_2_4.png
+
+插件名称
+Synthesizer V Studio 插件：出现在 DAW 中的乐器声音列表中。
+Synthesizer V Studio ARA 插件：出现在 DAW 中的效果列表和 ARA 插件列表中。
+
+安装位置
+Windows
+
+VST3 (VSTi) 插件：C:\Program Files\Common Files\VST3
+VST3(ARA) 插件：C:\Program Files\Common Files\VST3 , C:\Program Files\Common Files\ARA
+AAX 插件：C:\Program Files\Common Files\Avid\Audio\Plug-Ins
+macOS
+
+VST3 (VSTi) 插件：Macintosh HD/Library/Audio/Plug-Ins/VST3。
+VST3 (ARA) 插件：Macintosh HD/Library/Audio/Plug-Ins/VST3 , Macintosh HD/Library/Audio/Plug-Ins/ARA。
+Audio Unit 插件：Macintosh HD/Library/Audio/Plug-Ins/Components。
+AAX 插件：Macintosh HD/Library/Application Support/Avid/Audio/Plug-Ins
+保存您的项目
+使用 Synthesizer V Studio 插件（乐器）保存
+在插件内创建的项目可以通过两种方式之一保存。
+默认为“保存在主机内”。
+plugin_4.png
+
+保存在主机内
+将项目保存在主机（DAW）的项目中。不会创建 .svp 文件。
+保存 DAW 项目时，Synthesizer V Studio 项目也会同时保存。
+
+保存到外部文件
+从 DAW 项目创建并保存单独的 .svp 文件；重新打开 DAW 项目时，数据将从相应的 .svp 文件加载。
+
+另存为...
+创建一个新的 .svp 文件，从现在起，项目将保存到该文件（“保存到外部文件”状态）。
+
+在“保存到外部文件”状态下，当您在 DAW 中关闭项目时，Synthesizer V Studio 项目将保存到 .svp 文件中。
+没有手动保存的命令。此外，您不能不保存就退出。
+
+备份当前项目
+使用“保存到外部文件”或“另存为...”将当前工作保存为 .svp 文件。
+然后选择“保存在主机内”或“另存为...”并更改目标，以便它不会覆盖在 1 中创建的 .svp 文件。
+使用 Synthesizer V Studio ARA 插件保存
+在 ARA 插件中完成的工作始终保存在主机（DAW）的项目中。
+
+另存为...
+将当前项目导出为 .svp 文件。
+后续编辑将继续保存在 DAW 的项目中，不会自动覆盖导出的 .svp 文件。
+
+配置输出的音频通道
+在“设置”面板的 [音频] > [通道布局] 下，您可以设置要输出的通道。
+
+默认通道布局为“主组合”，它将插件中多个音轨的音频混合在一起进行输出。
+输出重新	反映音轨的增益、声像、静音和独奏状态。
+
+其他选项允许通过将每个音轨输出到单独的通道或隔离送气成分来进一步微调 DAW 上的音频。
+
+该插件最多可以输出 16 个立体声通道。
+
+在 Synthesizer V Studio 中，语音的非周期性成分（例如呼吸音、清音辅音和发声时出现的噪音）称为送气。
+
+在音频渲染中，语音可以分为周期性成分（基音和泛音）和其他送气成分。
+
+edit-project_5_15.png
+有以下选项可用：
+
+主组合：混合来自每个音轨的音频并输出，而不分离送气成分。
+
+主送气隔离：混合来自每个音轨的音频并单独输出送气成分。
+
+音轨组合：将来自每个音轨的音频混合到单独的通道并输出，而不分离送气成分。
+
+轨道抽吸隔离：将每个轨道的音频制作成单独的通道，并单独输出抽吸组件。
+
+不支持的功能
+以下功能尚不支持，或由于 DAW 规范而不可用。请等待未来的更新。
+
+关于轨道冻结功能
+“轨道冻结”功能在某些 DAW 中用于临时渲染轨道以减轻负载，在某些情况下可能无法正常工作。
+
+不支持的 DAW
+ARA 插件不能与不支持 ARA2 的 DAW（例如 Ableton Live）一起使用。
+完整 ARA 模式目前仅适用于某些 DAW；Logic Pro、Nuendo 等即使其环境支持 ARA2 也无法使用完整 ARA 模式。有关详细信息，请参阅“完整 ARA 模式设置”。
+其他
+Cubase 目前不会将使用铅笔工具创建的空音频事件加载到 ARA 插件中。
+如果新音频录制在附加了 ARA 插件的轨道上，Cubase 目前不会将新音频加载到 ARA 插件中。
+请注意，通过剪辑链接进行的群组共享在 Cakewalk 中无法正常工作。
+
+########################################################
+		02 ARA Bridge Mode Setup
+The Instrument plugin has some limitations like one-way playhead synchronization (from DAW to plugin). To bypass these limitations, the Instrument plugin offers an ARA bridge mode. This mode employs a separate Synthesizer V Studio ARA Plugin as a bridge for closer integration with the DAW, enhancing its functionality without interfering with the workflow.
+For the basic usage of the Instrument plugin, see "Linking to DAW with plugin".
+
+
+Host Application Support Status
+ARA bridge mode can be used with DAWs that support ARA2.
+(The DAWs that can use ARA bridge mode and full ARA mode differ).
+
+ProTools does not support ARA bridge mode.
+
+DAWs That Have Been Tested with VST3
+Studio One 5 or later (Artist/Professional)
+Cubase 12 or later (Artist/Pro)
+REAPER 6 or later
+Cakewalk
+ABILITY5 Pro
+
+DAWs That Have Been Tested With Audio Unit (AU)
+Logic Pro (x86 macOS, Rosetta only).
+
+The Audio Unit version of the ARA plugin is for Logic Pro only.
+When using the ARA plugin with a DAW other than Logic Pro, be sure to use the VST3 version.
+
+What You Can Do In ARA Bridge Mode
+Under ARA bridge mode, the ARA plugin connects the Instrument plugin with the DAW, making the following operations possible with the Instrument plugin:
+
+Playback in the DAW is synchronized with the playback inside the Instrument plugin. Additionally, dual-way synchronization of playhead position is applied whenever the playhead is moved in either the DAW or the Instrument plugin.
+The tempo set in the Instrument plugin synchronizes with the tempo set in the DAW.
+Under ARA bridge mode, tempo cannot be set on the plugin side; tempo markers must be entered on the DAW side.
+If the tempo does not sync properly, try playing it back on the DAW.
+
+Setup the ARA Bridge Mode
+1. Attach the ARA Plugin
+ARA plugins require attaching it to an audio clip on the DAW.
+Therefore, a placeholder audio clip is required to use the ARA bridge mode.
+
+The audio to which the ARA plugin is attached will not be played back.
+
+Create an Audio Track and import an audio file.
+The ARA plugin doesn't work with empty audio events. An audio file is required.
+
+Add "Synthesizer V Studio ARA Plugin" from VST3 as an event FX from the list of effects.
+ara-bridge_1.png
+To attach event FX to audio events
+In Studio One 6.2 and later versions, drag & drop the "Synthesizer V Studio ARA Plugin" to the audio event.
+In Studio One 6.1 and earlier, drag and drop the "Synthesizer V Studio ARA Plugin" onto the audio event while pressing Alt／Option
+
+Activating the ARA plugin
+After attaching, the Full ARA mode interface will appear on DAWs that support full ARA mode, but this screen is not used in ARA bridge mode. Continue to the next step.
+ara-bridge_7.png
+
+For all other DAWs, the window "Synthesizer V Studio ARA Bridge is active" will appear.
+
+
+When you see the message "Failed to start the plugin in ARA mode."
+The reason could be, for example:
+
+ARA plugin is inserted as a normal non-ARA effect
+Logic Pro is not in Rosetta mode on an Apple silicon Mac
+Using an AU plugin in a DAW other than Logic Pro
+
+2. ARA Bridge Link
+Create an instrument track and insert the "Synthesizer V Studio" Instrument plugin.
+In Logic Pro, after inserting the Instrument plugin, play it once on the DAW side and then stop it.
+
+The setup is complete when the "ARA Bridge Link" in the upper right corner of the Instrument plugin is turned on. Click this button to toggle the ARA Bridge mode on and off.
+
+Instrument 插件有一些限制，例如单向播放头同步（从 DAW 到插件）。为了绕过这些限制，Instrument 插件提供了 ARA 桥接模式。此模式使用单独的 Synthesizer V Studio ARA 插件作为与 DAW 更紧密集成的桥梁，增强其功能而不干扰工作流程。
+有关 Instrument 插件的基本用法，请参阅“使用插件链接到 DAW”。
+
+主机应用程序支持状态
+ARA 桥接模式可与支持 ARA2 的 DAW 一起使用。
+（可以使用 ARA 桥接模式和完整 ARA 模式的 DAW 有所不同）。
+
+ProTools 不支持 ARA 桥接模式。
+
+已使用 VST3 测试过的 DAW
+Studio One 5 或更高版本（Artist/Professional）
+Cubase 12 或更高版本（Artist/Pro）
+REAPER 6 或更高版本
+Cakewalk
+ABILITY5 Pro
+
+已使用 Audio Unit (AU) 测试过的 DAW
+Logic Pro（x86 macOS，仅限 Rosetta）。
+
+ARA 插件的 Audio Unit 版本仅适用于 Logic Pro。
+当将 ARA 插件与 Logic Pro 以外的 DAW 一起使用时，请务必使用 VST3 版本。
+
+ARA 桥接模式下可以做什么
+在 ARA 桥接模式下，ARA 插件将 Instrument 插件与 DAW 连接起来，使 Instrument 插件可以执行以下操作：
+
+DAW 中的播放与 Instrument 插件内的播放同步。此外，只要在 DAW 或 Instrument 插件中移动播放头，就会应用播放头位置的双向同步。
+乐器插件中设置的速度与 DAW 中设置的速度同步。
+在 ARA 桥接模式下，无法在插件端设置速度；必须在 DAW 端输入速度标记。
+如果速度无法正确同步，请尝试在 DAW 上播放。
+
+设置 ARA 桥接模式
+1. 连接 ARA 插件
+ARA 插件需要将其连接到 DAW 上的音频剪辑。
+因此，使用 ARA 桥接模式需要占位符音频剪辑。
+
+不会播放 ARA 插件所连接的音频。
+
+创建音轨并导入音频文件。
+ARA 插件不适用于空音频事件。需要音频文件。
+
+从效果列表中将 VST3 中的“Synthesizer V Studio ARA Plugin”添加为事件 FX。
+ara-bridge_1.png
+要将事件 FX 附加到音频事件
+在 Studio One 6.2 及更高版本中，将“Synthesizer V Studio ARA Plugin”拖放到音频事件。
+在 Studio One 6.1 及更早版本中，按住 Alt／Option 键将“Synthesizer V Studio ARA Plugin”拖放到音频事件上
+
+激活 ARA 插件
+附加后，支持完整 ARA 模式的 DAW 上将显示完整 ARA 模式界面，但此屏幕不用于 ARA 桥接模式。继续下一步。
+ara-bridge_7.png
+
+对于所有其他 DAW，将出现“Synthesizer V Studio ARA Bridge 处于活动状态”窗口。
+
+当您看到消息“无法在 ARA 模式下启动插件。”
+原因可能是：
+
+ARA 插件作为普通的非 ARA 效果插入
+
+在 Apple Silicon Mac 上，Logic Pro 未处于 Rosetta 模式
+在 Logic Pro 以外的 DAW 中使用 AU 插件
+
+2. ARA Bridge Link
+创建乐器轨道并插入“Synthesizer V Studio”乐器插件。
+
+在 Logic Pro 中，插入乐器插件后，在 DAW 端播放一次，然后停止。
+
+当乐器插件右上角的“ARA Bridge Link”打开时，设置完成。单击此按钮可打开和关闭 ARA Bridge 模式。
+
+########################################################
+		03 Full ARA Mode Setup
+In full ARA mode, the ARA plugin accesses the audio in the DAW, and note groups are created in the plugin corresponding to the placement of the audio clips on the DAW.
+You can also use Voice-to-MIDI conversion directly on these note groups without importing audio into the plugin.
+plugin_3.png
+
+For details on installing the ARA plugin, saving the project, and setting the output channels, see "Working within a DAW with a plugin".
+
+A separate audio file is required to use the full ARA mode.
+Full ARA mode disables certain features of Synthesizer V Studio, including the creation, copying and pasting of note groups and tracks inside the plugin. Instead, the DAW takes over the responsibility of note group and track management.
+
+While the Full ARA mode offers the highest level of capability, it may necessitate adjustments to your workflow. Consider selecting ARA bridge mode if Full ARA mode is not compatible with your workflow.
+
+Host Support Status
+Full ARA mode can only be used with the following DAWs.
+(The lineups of DAWs that can use ARA bridge mode and full ARA mode differ).
+
+DAWs that Support Full ARA Mode
+Studio One 5 or later (Artist/Professional)
+Cubase 12 or later (Artist/Pro)
+REAPER 6 or later
+Cakewalk
+ABILITY5 Pro
+
+Full ARA mode is only available in VST3 version, not in the Audio Unit version.
+
+Full ARA Mode Setup
+ARA plugins require attaching it to an audio clip on the DAW.
+Therefore, a placeholder audio clip is required to use the ARA bridge mode.
+
+The original sound of the audio to which the ARA plugin is attached will not be played.
+
+Create an Audio Track and import an audio file.
+The ARA plugin doesn't work with empty audio events. An audio file is required.
+
+Add "Synthesizer V Studio ARA Plugin" from VST3 as an event FX from the list of effects.
+ara-bridge_1.png
+To attach an event FX to an audio event.
+In Studio One 6.2 and later versions, drag & drop the "Synthesizer V Studio ARA Plugin" to the audio event.
+In Studio One 6.1 and earlier, while holding Alt／Option drag and drop the "Synthesizer V Studio ARA Plugin" onto the audio event.
+
+To load multiple audio events into the ARA plugin, attach the ARA plugin to each audio event.
+
+When you see the message "Failed to start the plugin in ARA mode."
+
+The reason could be, for example:
+
+Using a DAW that does not support full ARA mode
+Insert the ARA plugin as a normal non-ARA effect
+Using the AU plugin instead of VST3
+
+Synchronizing Clip Placement in a Project
+When full ARA mode is set up, a Note Group is created on the Sync Track in the ARA plugin for each audio clip on the DAW.
+The audio clips and note groups are mirrored and automatically reflect the position and length of the clips.
+
+
+In full ARA mode, work within these note groups by creating notes and control points. Alternatively, use the Voice-to-MIDI conversion function to create notes.
+
+In full ARA mode, there are no notes that do not belong to any group (main group). To create a note or control point, the note group to edit must be entered.
+full-ara_2.png
+Even if a note belongs to a note group, the part of the note that exceeds the length of the note group will not be played.
+full-ara_3.png
+It is not possible to create new note groups or move, dissociate, split, or disband groups within the plugin.
+The original sound of the audio to which the ARA plugin is attached will not be played back.
+For details on note group specifications, see "Note Group".
+
+About the Shared Copies Feature of DAWs
+Some DAWs have a feature called "shared copies" or "pooling" that allows multiple clips to share the same edited version of an audio file.
+This feature can be used between audio clips that reference the same source file.
+
+In Synthesizer V Studio, clips that are shared copies are treated as the same note group.
+For example, if there are three shared-copy audio clips on the DAW, the ARA plugin will have three instances that belong to the same note group.
+full-ara_4.png
+
+In this case, when you edit a note or control point, the other instances will also share the edited content.
+
+Separating Shared Copies on the DAW Side
+Some DAWs have commands to disable the shared copies function and treat each clip as a separate entity.
+If you do this on the DAW side, the ARA plugin will recognize the separated audio clips as a new note group.
+
+To separate shared copies in Studio One, right-click on an audio event and select [Separate Shared Copies].
+full-ara_5.png
+
+Synced Tracks and Local Tracks
+In full ARA mode, there are two types of tracks.
+full-ara_13.png
+
+Synced Track
+A track whose note groups that are synced to audio clips in the DAW.
+The audio from the synced track is routed to the corresponding track in the DAW for output.
+
+Local Track
+This track is for importing external files (such as .svp or MIDI files) and is meant to be a transition storage place for the synced track note groups.
+Since external files cannot be imported directly into the sync track, the imported data will be placed in the local track. If necessary, copy the imported data to a note group in the sync track.
+The Local Track is a temporary storage place for imported data and cannot be used.
+
+During playback, the audio on the local track is routed to the currently selected track in the DAW (or the track where the clip is selected).
+The local track is muted when bounced and is not included in the mixdown.
+Notes and control points can be created on the local track that do not belong to a note group.
+The ARA plugin attaches to audio clips, not to tracks in the DAW.
+Therefore, the audio from the local track is not output to a specific track, but is mixed down with the audio from one of the synced tracks during playback.
+
+What You Can Do in Full ARA Mode
+Playback and Tempo Sync
+As in ARA bridge mode, playback in the ARA plugin will be synchronized with the DAW. Also, the tempo set in the DAW will sinchronize with the ARA plugin.
+
+The tempo cannot be set in the ARA plugin; tempo markers must be entered on the DAW side.
+
+Changing the tempo changes the length (in seconds) of the generated vocals, but does not change the length of the audio on the DAW side, so the length of the note group in the Synced Track may not match the length of the notes in the contents.
+If the content of the note group is longer than the audio, the overflowing portion will not be played.
+
+Working with the Voice-to-MIDI Converter
+You can use Voice-to-MIDI conversion without importing audio.
+Right-click on a note group in the synced track and select [Extract Notes from Audio].
+full-ara_8.png
+
+In full ARA mode, using Voice-to-MIDI conversion will erase notes and control points already in the note group and overwrite them with the converted data.
+
+Exporting Notes Directly to the DAW
+Some DAWs allow you to pass notes from the Synced Track as MIDI clips to the DAW.
+
+In Studio One, drag audio events to an instrument track.
+
+在完整 ARA 模式下，ARA 插件会访问 DAW 中的音频，并在插件中创建与音频剪辑在 DAW 上的位置相对应的音符组。
+您也可以直接在这些音符组上使用语音到 MIDI 的转换，而无需将音频导入插件。
+plugin_3.png
+
+有关安装 ARA 插件、保存项目和设置输出通道的详细信息，请参阅“使用插件在 DAW 中工作”。
+
+使用完整 ARA 模式需要单独的音频文件。
+完整 ARA 模式会禁用 Synthesizer V Studio 的某些功能，包括在插件内创建、复制和粘贴音符组和音轨。相反，DAW 会接管音符组和音轨管理的责任。
+
+虽然完整 ARA 模式提供了最高级别的功能，但它可能需要调整您的工作流程。如果完整 ARA 模式与您的工作流程不兼容，请考虑选择 ARA 桥接模式。
+
+主机支持状态
+完整 ARA 模式仅可用于以下 DAW。
+（可使用 ARA 桥接模式和完整 ARA 模式的 DAW 阵容不同）。
+
+支持完整 ARA 模式的 DAW
+Studio One 5 或更高版本（Artist/Professional）
+Cubase 12 或更高版本（Artist/Pro）
+REAPER 6 或更高版本
+Cakewalk
+ABILITY5 Pro
+
+完整 ARA 模式仅在 VST3 版本中可用，在 Audio Unit 版本中不可用。
+
+完整 ARA 模式设置
+ARA 插件需要将其附加到 DAW 上的音频剪辑。
+因此，使用 ARA 桥接模式需要占位符音频剪辑。
+
+不会播放 ARA 插件所附加的音频的原始声音。
+
+创建音轨并导入音频文件。
+ARA 插件不适用于空音频事件。需要音频文件。
+
+从效果列表中将 VST3 中的“Synthesizer V Studio ARA Plugin”添加为事件 FX。
+ara-bridge_1.png
+将事件 FX 附加到音频事件。
+在 Studio One 6.2 及更高版本中，将“Synthesizer V Studio ARA Plugin”拖放到音频事件中。
+在 Studio One 6.1 及更早版本中，按住 Alt／Option 键将“Synthesizer V Studio ARA Plugin”拖放到音频事件上。
+
+要将多个音频事件加载到 ARA 插件中，请将 ARA 插件附加到每个音频事件。
+
+当您看到消息“无法在 ARA 模式下启动插件。”
+
+原因可能是：
+
+使用不支持完整 ARA 模式的 DAW
+将 ARA 插件作为普通非 ARA 效果插入
+使用 AU 插件而不是 VST3
+
+在项目中同步剪辑位置
+设置完整 ARA 模式后，将在 ARA 插件的同步轨道上为 DAW 上的每个音频剪辑创建一个音符组。
+音频剪辑和音符组是镜像的，并自动反映剪辑的位置和长度。
+
+在完整 ARA 模式下，通过创建音符和控制点在这些音符组中工作。或者，使用语音到 MIDI 转换功能创建音符。
+
+在完整 ARA 模式下，没有不属于任何组（主组）的音符。要创建音符或控制点，必须输入要编辑的音符组。
+full-ara_2.png
+即使音符属于音符组，也不会播放音符中超出音符组长度的部分。
+full-ara_3.png
+无法在插件内创建新的音符组或移动、分离、拆分或解散音符组。
+将不会播放附加了 ARA 插件的音频的原始声音。
+有关音符组规范的详细信息，请参阅“音符组”。
+
+关于 DAW 的共享副本功能
+某些 DAW 具有称为“共享副本”或“池化”的功能，允许多个剪辑共享音频文件的同一编辑版本。
+此功能可用于引用同一源文件的音频剪辑之间。
+
+在 Synthesizer V Studio 中，共享副本的剪辑被视为同一音符组。
+例如，如果 DAW 上有三个共享副本音频剪辑，则 ARA 插件将具有属于同一音符组的三个实例。
+full-ara_4.png
+
+在这种情况下，当您编辑音符或控制点时，其他实例也将共享编辑的内容。
+
+在 DAW 端分离共享副本
+某些 DAW 具有禁用共享副本功能并将每个剪辑视为单独实体的命令。
+如果您在 DAW 端执行此操作，ARA 插件会将分离的音频剪辑识别为新的音符组。
+
+要在 Studio One 中分离共享副本，请右键单击音频事件并选择 [分离共享副本]。
+full-ara_5.png
+
+同步音轨和本地音轨
+在完整 ARA 模式下，有两种类型的音轨。
+full-ara_13.png
+
+同步音轨
+音符组与 DAW 中的音频剪辑同步的音轨。
+同步音轨的音频被路由到 DAW 中的相应音轨进行输出。
+
+本地音轨
+此音轨用于导入外部文件（例如 .svp 或 MIDI 文件），旨在作为同步音轨音符组的过渡存储位置。
+由于外部文件无法直接导入同步轨道，因此导入的数据将放置在本地轨道中。如有必要，将导入的数据复制到同步音轨中的音符组。
+本地音轨是导入数据的临时存储位置，无法使用。
+
+播放期间，本地音轨上的音频将路由到 DAW 中当前选定的音轨（或选定剪辑的音轨）。
+本地音轨在弹跳时会静音，并且不会包含在混音中。
+可以在本地音轨上创建不属于音符组的音符和控制点。
+ARA 插件附加到音频剪辑，而不是 DAW 中的音轨。
+因此，本地音轨的音频不会输出到特定音轨，而是在播放期间与其中一个同步音轨的音频混合。
+
+您可以在完整 ARA 模式下执行的操作
+播放和节奏同步
+与 ARA 桥接模式一样，ARA 插件中的播放将与 DAW 同步。此外，DAW 中设置的速度将与 ARA 插件同步。
+
+无法在 ARA 插件中设置节奏；必须在 DAW 端输入节奏标记。
+
+更改节奏会改变生成的歌声的长度（以秒为单位），但不会改变 DAW 端音频的长度，因此同步音轨中音符组的长度可能与内容中音符的长度不匹配。
+如果音符组的内容比音频长，则不会播放溢出部分。
+
+使用语音到 MIDI 转换器
+您可以在不导入音频的情况下使用语音到 MIDI 转换。
+右键单击同步音轨中的音符组，然后选择 [从音频中提取音符]。
+full-ara_8.png
+
+在完整 ARA 模式下，使用语音到 MIDI 转换将删除音符组中已有的音符和控制点，并用转换后的数据覆盖它们。
+
+将音符直接导出到 DAW
+某些 DAW 允许您将同步音轨中的音符作为 MIDI 剪辑传递到 DAW。
+
+在 Studio One 中，将音频事件拖到乐器音轨。
