@@ -779,15 +779,1151 @@ OSC
 OSC MODE .............................................................[SINGLE, DOUBLE, DRUM]
 This parameter selects the oscillator mode.
 MULTISOUND 1/MULTISOUND 2/DRUMKIT.....................................[BROWSER]
-Tap here to open the Browser to select a multisound or Drum
-Kit. Refer to "The Browser" on page 14
-LEVEL...........................................................................................[00…99]
+Tap here to open the Browser to select a multisound or Drum Kit. Refer to "The Browser" on page 14
+LEVEL...................................................................................[00…99]
 This parameter specifies the oscillator's output level.
+OSC
+OSC 模式.................................................[单声道、双声道、鼓组]
+此参数选择振荡器模式。
+多声道 1/多声道 2/鼓组....................................[浏览器]
+点击此处打开浏览器以选择多声道或鼓组。请参阅第 14 页的“浏览器”
+电平...................................................................[00…99]
+此参数指定振荡器的输出电平。
 
+VDF
+VDF SELECT
+Use this function to determine whether VDF1 or VDF2 will be shown in the active editing display.
+CUTOFF................................................................................[00…99]
+This parameter specifies the cutoff frequency. Drag the point in the graphic.
+RESONANCE..................................................................................[00…99]
+This parameter specifies the resonance. Drag the point in the graphic.
+RESONANCE Switch.......................................................................[OFF, ON]
+This parameter turns the filter resonance on or off.
+Refer to "RESONANCE Switch" on page 37
+VDF
+VDF 选择
+使用此功能确定在活动编辑显示中是否显示 VDF1 或 VDF2。
+截止................................................................................[00…99]
+此参数指定截止频率。拖动图形中的点。
+共振................................................................................[00…99]
+此参数指定共振。拖动图形中的点。
+共振开关....................................................................[OFF, ON]
+此参数打开或关闭滤波器共振。
+请参阅第 37 页上的“共振开关”
 
+EG INT 1 ............................................................................[00…99]
+This parameter specifies how deeply the VDF EG1 will be applied.
+EG INT 2..............................................................................[00…99]
+This parameter specifies how deeply the VDF EG2 will be applied.
+EG INT 1 ................................................................................[00…99]
+此参数指定 VDF EG1 的应用深度。
+EG INT 2................................................................................[00…99]
+此参数指定 VDF EG2 的应用深度。
 
+VDF EG
+VDF EG SELECT
+Use this function to determine whether VDF EG1 or the VDF EG2 will be shown in the active editing display
+VDF EG
+Modify the shape of the VDF EG by simply dragging the points of the graphic envelope display.
+VDF EG
+VDF EG SELECT
+使用此功能确定在活动编辑显示中是否显示 VDF EG1 或 VDF EG2
+VDF EG
+只需拖动图形包络显示的点即可修改 VDF EG 的形状。
 
-****************************************************************************
+VDA EG
+VDA EG SELECT
+Use this function to determine whether VDA EG1 or the VDA EG2 will be shown in the active editing display.
+VDA EG
+Modify the shape of the VDA EG by simply dragging the points of the graphic envelope display.
+VDA EG
+VDA EG SELECT
+使用此功能确定在活动编辑显示中是否显示 VDA EG1 或 VDA EG2。
+VDA EG
+只需拖动图形包络显示的点即可修改 VDA EG 的形状。
+
+INSERT FX
+FX1/FX2 ..................................................................... [OFF, ON]
+Use these switches to turn each Insert effect On or Off
+FX1/FX2 EFFECT TYPE.............................[No Effect, Reverb…Delay/Tremolo]
+Tap here to choose the Insert effect type.
+插入效果
+FX1/FX2 ......................................................................... [OFF, ON]
+使用这些开关打开或关闭每个插入效果
+FX1/FX2 效果类型......................[无效果、混响…延迟/颤音]
+点击此处选择插入效果类型。
+
+FX1/FX2 DRY/WET......................................................[DRY, 001…099, WET]
+This parameter specifies the wet/dry mix between the original signal and the effect output.
+If you're using the composite effect (Delay/Hall etc.) as an Insert effect, and if the "DRY/WET" values differ between Delay and Hall, the Delay value is shown here.
+If you've selected a composite effect (such as Delay/Hall or Delay/Chorus) as an Insert effect, editing "DRY/WET" in the EASY page will set the "DRY/WET" values of both effects to the same value.
+FX1/FX2 DRY/WET......................................[DRY, 001…099, WET]
+此参数指定原始信号和效果输出之间的湿/干混合。
+如果您使用复合效果（Delay/Hall 等）作为插入效果，并且 Delay 和 Hall 之间的“DRY/WET”值不同，则此处显示 Delay 值。
+如果您选择复合效果（例如 Delay/Hall 或 Delay/Chorus）作为插入效果，则在 EASY 页面中编辑“DRY/WET”会将两个效果的“DRY/WET”值设置为相同的值。
+
+OSC page
+Tap the OSC button to access this page. The parameters on this page allow detailed editing of the OSC (Oscillator) parameters of the individual Programs assigned to the Timbres contained in the Combi.
+OSC 页面
+点击 OSC 按钮即可访问此页面。此页面上的参数允许详细编辑分配给 Combi 中包含的音色的各个程序的 OSC（振荡器）参数。
+
+OSC BASIC
+Refer to M1 owner’s manual PDF, page 22 “OSC BASIC”
+OSC MODE ...........................................................[SINGLE, DOUBLE, DRUMS]
+Use this parameter to choose the oscillator mode.
+ASSIGN..........................................................................[MONO, POLY]
+Use this parameter to choose monophonic or polyphonic playability.
+MONO: Monophonic (one note at a time).
+POLY: Play polyphonically (many notes at once).
+HOLD.............................................................................[DISABLE, ENABLE]
+Use the HOLD function to determine how the sound will play.
+DISABLE: The sound will decay according to the settings of the VDA.
+ENABLE: The sound will continue even if you release the keyboard.
+OSC BASIC
+请参阅 M1 用户手册 PDF，第 22 页“OSC BASIC”
+OSC MODE .........................................................[SINGLE、DOUBLE、DRUMS]
+使用此参数选择振荡器模式。
+ASSIGN..............................................................[MONO、POLY]
+使用此参数选择单音或复音可播放性。
+MONO：单音（一次一个音符）。
+POLY：复音播放（一次多个音符）。
+HOLD......................................................................[DISABLE、ENABLE]
+使用 HOLD 功能确定声音的播放方式。
+DISABLE：声音将根据 VDA 的设置衰减。
+ENABLE：即使您松开键盘，声音仍会继续。
+
+OSC1
+Refer to M1 owner’s manual PDF, page 22 “F0-2: OSC1”
+MULTISOUND 1 ..........................................................................[BROWSER]
+Tap the multisound name to access the Browser and make your selection.
+(Refer to "The Browser" on page 14)
+
+OSC LEVEL..........................................................................[00…99]
+This parameter specifies the oscillator's output level.
+OCTAVE...........................................................................[4’, 8’, 16’]
+Use this parameter to select the octave setting of the oscillator.
+PITCH EG
+The shape of the Pitch EG can be easily modified by simply dragging the points of the graphical envelope in the display.
+(Refer to "Graphical envelopes" on page 11)
+VEL SENS
+EG INT...........................................................................[–99…+00…+99]
+This parameter specifies how velocity will affect the depth of the EG.
+EG TIME ........................................................................[–99…+00…+99]
+This parameter specifies how velocity will affect the speed of the EG.
+OSC LEVEL................................................................[00…99]
+此参数指定振荡器的输出电平。
+OCTAVE......................................................................[4’, 8’, 16’]
+使用此参数选择振荡器的八度设置。
+PITCH EG
+只需拖动显示屏上图形包络的点，即可轻松修改音高 EG 的形状。
+（请参阅第 11 页的“图形包络”）
+VEL SENS
+EG INT................................................................[–99…+00…+99]
+此参数指定速度如何影响 EG 的深度。
+EG TIME................................................................[–99…+00…+99]
+此参数指定速度如何影响 EG 的速度。
+
+OSC2
+INTERVAL................................................................................[–12…+12]
+This parameter specifies the pitch of Oscillator 2 relative to Oscillator 1, in semitones.
+DETUNE ..................................................................................[–50…+50]
+This parameter specifies the pitch of Oscillator 2 relative to Oscillator 1, in cents.
+
+DELAY START.................................................................................[00…99]
+This parameter specifies the delay time between the note-on message and when Oscillator 2 begins to sound. The other OSC 2 parameters are the same as for OSC1.
+OSC2
+INTERVAL................................................................................[–12…+12]
+此参数指定振荡器 2 相对于振荡器 1 的音高，以半音为单位。
+DETUNE..............................................................................[–50…+50]
+此参数指定振荡器 2 相对于振荡器 1 的音高，以音分为单位。
+
+DELAY START..............................................................................[00…99]
+此参数指定音符开启消息与振荡器 2 开始发声之间的延迟时间。其他 OSC 2 参数与 OSC1 相同。
+
+Drum Parameters
+When the OSC MODE value is set to DRUMS, the following screen will appear:
+
+DRUMS
+DRUM KIT SELECT.......................................................................[BROWSER]
+Tap the Drum Kit name to access the Browser and make your selection. (Refer to "The Browser" on page 14).
+OSC LEVEL....................................................................................[00…99]
+This parameter specifies the oscillator's output level.
+OCTAVE............................................................................[4’, 8’, 16’]
+Use this parameter to select the octave setting of the oscillator.
+PITCH EG
+The shape of the Pitch EG can be easily modified by simply dragging the points of the graphical envelope in the display.
+(Refer to "Graphical envelopes" on page 11)
+Refer to M1 owner’s manual PDF, page 24 “F1-1: OSC1 PITCH EG”
+VEL SENS
+EG INT...........................................................................[–99…+00…+99]
+This parameter specifies how velocity will affect the depth of the EG.
+EG TIME ........................................................................[–99…+00…+99]
+This parameter specifies how velocity will affect the speed of the EG.
+鼓
+鼓组选择.......................................................................[浏览器]
+点击鼓组名称以访问浏览器并进行选择。（请参阅第 14 页的“浏览器”）。
+OSC 电平...............................................................................[00…99]
+此参数指定振荡器的输出电平。
+八度.............................................................................[4’, 8’, 16’]
+使用此参数选择振荡器的八度设置。
+音高 EG
+只需拖动显示屏中图形包络的点，即可轻松修改音高 EG 的形状。
+（请参阅第 11 页的“图形包络”）
+请参阅 M1 用户手册 PDF，第 24 页“F1-1：OSC1 PITCH EG”
+VEL SENS
+EG INT......................................................................[–99…+00…+99]
+此参数指定速度如何影响 EG 的深度。
+EG TIME ......................................................................[–99…+00…+99]
+此参数指定速度如何影响 EG 的速度。
+
+DRUM KIT EDIT
+The following parameters allow you to customize the makeup and performance of a Drum Kit.
+INDEX KEY....................................................................[000: C-1…127: G9]
+You can use this parameter to select the note you wish to edit.
+DRUM SOUND............................................................................[BROWSER]
+Tap the drum sound name to access the Browser and make your selection. (Refer to "The Browser" on page 14)
+KBD CHASE.......................................................................[OFF, ON]
+ON: Receiving a note-on message will automatically set the index to that key.
+OFF: Use the Index Key parameter to set the key manually
+IFX BUS..........................................................................[A+B, C+D]
+Use this parameter to choose one of the busses to the Insert effect.
+CUTOFF...........................................................................[–99…+00…99]
+This parameter adjusts the relative value of the VDF CUTOFF setting.
+RESONANCE.....................................................................[–99…+00…99]
+This parameter adjusts the relative value of the VDF Resonance setting.
+PAN............................................................................... [L50…C00…R50]
+This parameter sets the panning of each drum sound.
+鼓组编辑
+以下参数允许您自定义鼓组的构成和性能。
+索引键....................................................................[000: C-1…127: G9]
+您可以使用此参数选择要编辑的音符。
+鼓声................................................................................[浏览器]
+点击鼓声名称以访问浏览器并进行选择。（请参阅第 14 页的“浏览器”）
+KBD CHASE.......................................................................[OFF, ON]
+ON：接收音符开启消息将自动将索引设置为该键。
+OFF：使用索引键参数手动设置键
+IFX BUS........................................................................[A+B, C+D]
+使用此参数选择插入效果的总线之一。
+CUTOFF........................................................................[–99…+00…99]
+此参数调整 VDF CUTOFF 设​​置的相对值。
+共振.................................................................[–99…+00…99]
+此参数调整 VDF 共振设置的相对值。
+声像............................................................................... [L50…C00…R50]
+此参数设置每个鼓声的声像。
+
+INST TUNE............................................................................[–120…+120]
+This parameter sets the tuning (or pitch) of each drum sound.
+INST LEVEL..............................................................................[–99…+99]
+This parameter specifies the volume level of each drum sound.
+INST DECAY .............................................................................[–99…+99]
+This parameter sets the decay time of each drum sound.
+NOTE ON RECEIVE............................................................ [DISABLE, ENABLE]
+This parameter selects whether note-on messages will be received by the Drum Kit.
+DISABLE: Note-on messages are NOT received.
+ENABLE: Note-on messages ARE received
+NOTE OFF RECEIVE........................................................... [DISABLE, ENABLE]
+This parameter selects whether note-on messages will be received by the Drum Kit.
+DISABLE: Note off messages are NOT received.
+ENABLE: Note-off messages ARE received
+INST TUNE................................................................................[–120…+120]
+此参数设置每个鼓声的调音（或音高）。
+INST LEVEL..............................................................................[–99…+99]
+此参数指定每个鼓声的音量。
+INST DECAY..............................................................................[–99…+99]
+此参数设置每个鼓声的衰减时间。
+NOTE ON RECEIVE............................................................. [DISABLE, ENABLE]
+此参数选择鼓组是否接收音符开启信息。
+DISABLE：不接收音符开启信息。
+ENABLE：接收音符开启信息
+NOTE OFF RECEIVE............................................................. [DISABLE, ENABLE]
+此参数选择鼓组是否接收音符开启信息。
+DISABLE：不接收音符关闭信息。
+ENABLE：接收音符关闭信息
+
+PITCH MG
+The PITCH MG (Modulation Generator) applies modulation to the pitch of the oscillators.
+Refer to M1 owner’s manual PDF, page 30 “F6-1: PITCH MG”
+PITCH MG
+PITCH MG（调制发生器）对振荡器的音高进行调制。
+请参阅 M1 用户手册 PDF，第 30 页“F6-1：PITCH MG”
+
+OSC 1/OSC 2/DRUMS........................................................[DISABLE, ENABLE]
+Use this parameter to choose which oscillator(s) the PICH MG modulation will be applied to.
+WAVEFORM.......................................................................[SIN…RANDOM]
+This parameter selects the modulation waveform.
+KEY SYNC........................................................................[DISABLE, ENABLE]
+Key Sync allows the phase of the modulation generator to occur in exactly the same position with each new note-on message. Without Key Sync, the modulation generator will continue to vary its phase based on the modulation speed.
+ENABLE: Key Sync is on
+DISABLE: Key Sync is off
+INTENSITY......................................................................[00…99]
+This parameter specifies the depth of modulation.
+DELAY..............................................................................[00…99]
+This parameter sets the time interval between the note-on and when the modulation is applied.
+TEMPO SYNC...................................................................[DISABLE, ENABLE]
+Tempo Sync allows the modulation speed to be musically related to the tempo.
+DISABLE: Tempo Sync is off
+ENABLE: Tempo Sync is active
+FREQ/TIMES.......................................................................[00…99/1…16]
+TEMPO SYNC DISABLED: Frequency [00…99]
+OSC 1/OSC 2/DRUMS................................................[DISABLE, ENABLE]
+使用此参数选择 PICH MG 调制将应用于哪个振荡器。
+WAVEFORM......................................................................[SIN…RANDOM]
+此参数选择调制波形。
+KEY SYNC......................................................................[DISABLE, ENABLE]
+Key Sync 允许调制发生器的相位与每个新的音符开启消息完全相同。如果没有 Key Sync，调制发生器将继续根据调制速度改变其相位。
+ENABLE：Key Sync 已打开
+DISABLE：Key Sync 已关闭
+INTENSITY......................................................................[00…99]
+此参数指定调制的深度。
+DELAY......................................................................[00…99]
+此参数设置音符开启和应用调制之间的时间间隔。
+节奏同步.................................................................[禁用，启用]
+节奏同步允许调制速度与节奏在音乐上相关。
+禁用：节奏同步关闭
+启用：节奏同步处于活动状态
+频率/时间....................................................................[00…99/1…16]
+节奏同步已禁用：频率 [00…99]
+
+This parameter will directly specify the MG frequency.
+TEMPO SYNC ENABLED: Times [1…16]
+This parameter will set the MG frequency in conjunction with the BASE NOTE setting.
+BASE NOTE...............................................................................[1/1…1/32]
+TEMPO SYNC DISABLED:
+This parameter is ignored.
+TEMPO SYNC ENABLED:
+1/1 equals a whole note, 1/32 equals a thirty-second note, etc.
+This parameter will set the MG frequency in conjunction with the BASE NOTE setting. One cycle of the MG will be equal to the value specified in FREQ/TIMES x the BASE NOTE value relative to the synchronized tempo.
+For example, when the BASE NOTE value is set to 1/4 (quarter note), the resulting beats per MG cycle will be:
+• TIMES = 1 (one beat per MG cycle)
+• TIMES = 2 (two beats per MG cycle)
+• TIMES = 4 (four beats per MG cycle)
+Conversely, when the BASE NOTE value is set to 1/16 (sixteenth note), the resulting MG cycles per beat will be:
+• TIMES = 1 (four MG cycles per beat)
+• TIMES = 2 (two MG cycles per beat)
+• TIMES = 4 (one MG cycle per beat)
+此参数将直接指定 MG 频率。
+TEMPO SYNC ENABLED：时间 [1…16]
+此参数将结合 BASE NOTE 设置设置 MG 频率。
+BASE NOTE.................................................................................[1/1…1/32]
+TEMPO SYNC DISABLED：
+此参数被忽略。
+TEMPO SYNC ENABLED：
+1/1 等于全音符，1/32 等于三十二分音符，等等。
+此参数将结合 BASE NOTE 设置设置 MG 频率。MG 的一个周期将等于 FREQ/TIMES 中指定的值 x 相对于同步速度的 BASE NOTE 值。
+例如，当 BASE NOTE 值设置为 1/4（四分音符）时，每个 MG 循环产生的节拍数将为：
+• TIMES = 1（每个 MG 循环一个节拍）
+• TIMES = 2（每个 MG 循环两个节拍）
+• TIMES = 4（每个 MG 循环四个节拍）
+相反，当 BASE NOTE 值设置为 1/16（十六分音符）时，每个节拍产生的 MG 循环数将为：
+• TIMES = 1（每个节拍四个 MG 循环）
+• TIMES = 2（每个节拍两个 MG 循环）
+• TIMES = 4（每个节拍一个 MG 循环）
+
+VDF page
+Tap the VDF button to access this page. The parameters on this page allow detailed editing of the VDF (Filter) parameters of the individual Programs assigned to the Timbres contained in the Combi.
+VDF 页面
+点击 VDF 按钮即可访问此页面。此页面上的参数允许详细编辑分配给 Combi 中包含的音色的各个程序的 VDF（滤波器）参数。
+
+VDF1
+CUTOFF................................................................................[00…99]
+Use this parameter to set the VDF filter cutoff frequency.
+RESONANCE Switch.......................................................................[OFF, ON]
+The iM1 for iPad adds a new RESONANCE parameter that was not included on the original M1. The CUTOFF response will vary depending on whether this is ON or OFF. In order to faithfully reproduce the preset sounds of the original M1, the RESONANCE Switch is normally turned OFF. If you want to use resonance, turn the RESONANCE Switch ON.
+RESONANCE..................................................................................[00…99]
+This parameter boosts the filter response at the cutoff frequency.
+EG INT.................................................................................[00…99]
+This parameter specifies the depth of tonal change produced by the VDF 1 EG.
+Refer to M1 owner’s manual PDF, page 25 “F2-1: VDF1”
+VDF 1 EG
+The shape of the VDF1 EG can be easily modified by simply dragging the points of the graphical envelope in the display.
+(Refer to "Graphical envelopes" on page 11)
+Refer to M1 owner’s manual PDF, page 25 “F2-2: VDF1 EG”
+VDF1
+CUTOFF................................................................................[00…99]
+使用此参数设置 VDF 滤波器截止频率。
+RESONANCE Switch...............................................................................[OFF, ON]
+iM1 for iPad 添加了原始 M1 中未包含的新 RESONANCE 参数。CUTOFF 响应将根据该开关是 ON 还是 OFF 而变化。为了忠实再现原始 M1 的预设声音，RESONANCE Switch 通常处于 OFF 状态。如果要使用共振，请将 RESONANCE Switch 设置为 ON。
+RESONANCE.............................................................................[00…99]
+此参数可增强截止频率处的滤波器响应。
+EG INT.............................................................................[00…99]
+此参数指定 VDF 1 EG 产生的音调变化的深度。
+请参阅 M1 用户手册 PDF，第 25 页“F2-1：VDF1”
+VDF 1 EG
+只需拖动显示屏上图形包络的点，即可轻松修改 VDF1 EG 的形状。
+（请参阅第 11 页的“图形包络”）
+请参阅 M1 用户手册 PDF，第 25 页“F2-2：VDF1 EG”
+
+VEL SENS
+This important set of Velocity Sensitivity parameters can help determine how the dynamics of a performance will affect the articulation of the sound. Performance dynamics-Velocity Level-can be used to increase or decrease the timing of each stage of the EG, as well as the overall intensity of the EG.
+Refer to M1 owner’s manual PDF, page 26 “F2-3: VDF1 VEL SENS”
+EG INT...........................................................................[–99…+00…+99]
+This parameter will control how velocity sensitivity can increase or decrease the EG intensity.
+EG TIME .........................................................................[00…99]
+This parameter will control how velocity sensitivity will alter the timing of each envelope stage.
+Refer to "OSC1" on page 32
+TIME POLARITY A, D, S, R .......................................................[+, x, –]
+The value set by the previous EG TIME parameter can be applied to lengthen (+) or shorten (-) each envelope stage individually; A (Attack Time), D (Decay Time), S (Slope Time), and R (Release Time). Using a value of (X) means no change is applied.
+KBD TRK
+Keyboard tracking allows the note number of the key being played to affect certain parameters.
+
+VEL SENS
+这组重要的“速度灵敏度”参数有助于确定演奏的动态如何影响声音的表达。演奏动态（速度级别）可用于增加或减少 EG 每个阶段的时序，以及 EG 的整体强度。
+请参阅 M1 用户手册 PDF，第 26 页“F2-3：VDF1 VEL SENS”
+EG INT..............................................................[–99…+00…+99]
+此参数将控制速度灵敏度如何增加或减少 EG 强度。
+EG TIME .........................................................................[00…99]
+此参数将控制速度灵敏度如何改变每个包络阶段的时序。
+请参阅第 32 页的“OSC1”
+TIME POLARITY A、D、S、R .........................................................[+、x、–]
+前一个 EG TIME 参数设置的值可用于单独延长 (+) 或缩短 (-) 每个包络阶段； A（启动时间）、D（衰减时间）、S（斜率时间）和 R（释放时间）。使用 (X) 值表示不应用任何更改。
+KBD TRK
+键盘跟踪允许正在弹奏的键的音符编号影响某些参数。
+
+Refer to M1 owner’s manual PDF, page 27 “F2-4: VDF1 KBDTRK”
+CUTOFF........................................................................ [–99…+00…+99]
+This parameter specifies the degree to which keyboard tracking will increase or decrease the cutoff frequency.
+EG TIME...............................................................................[00…99]
+This parameter will control how keyboard tracking will alter the timing of the VDF EG.
+TIME POLARITY A, D, S, R..........................................................[+, x, –]
+The value set by the previous EG TIME parameter can be applied to lengthen (+) or shorten (-) each envelope stage individually; A (Attack Time), D (Decay Time), S (Slope Time), and R (Release Time). Using a value of (X) means no change is applied.
+CENTER KEY.................................................................................[C-1…G9]
+The value or key (note) that you enter here will be used as the center for keyboard tracking.
+VDF MG
+The VDF MG applies modulation to the VDF. These parameters are the same as for the PITCH MG of the OSC page.
+Refer to "PITCH MG" on page 34
+VDF 2
+These parameters are the same as for VDF 1.
+Refer to "VDF1" on page 37.
+请参阅 M1 用户手册 PDF，第 27 页“F2-4：VDF1 KBDTRK”
+CUTOFF........................................................................ [–99…+00…+99]
+此参数指定键盘跟踪增加或减少截止频率的程度。
+EG TIME........................................................................[00…99]
+此参数将控制键盘跟踪如何改变 VDF EG 的时间。
+TIME POLARITY A、D、S、R....................................................[+、x、–]
+前一个 EG TIME 参数设置的值可用于单独延长 (+) 或缩短 (-) 每个包络阶段；A（启动时间）、D（衰减时间）、S（斜率时间）和 R（释放时间）。使用值 (X) 表示不应用任何更改。
+CENTER KEY........................................................................[C-1…G9]
+您在此处输入的值或键（音符）将用作键盘跟踪的中心。
+VDF MG
+VDF MG 将调制应用于 VDF。这些参数与 OSC 页面的 PITCH MG 相同。
+请参阅第 34 页的“PITCH MG”
+VDF 2
+这些参数与 VDF 1 相同。
+请参阅第 37 页的“VDF1”。
+
+VDA page
+Tap the VDF button to access this page. The parameters on this page allow detailed editing of the VDA (Amplifier) parameters of the individual Programs assigned to the Timbres contained in the Combi.
+VDA 页面
+点击 VDF 按钮访问此页面。此页面上的参数允许详细编辑分配给 Combi 中包含的音色的各个程序的 VDA（放大器）参数。
+
+VDA1
+VDA EG
+The shape of the VDA1 EG can be easily modified by simply dragging the points of the graphical envelope in the display.
+("Graphical envelopes" on page 11)
+Refer to M1 owner’s manual PDF, page 28 “F4-1: VDA1 EG”
+VEL SENS
+Refer to M1 owner’s manual PDF, page 28 “F4-2: VDA1 VEL SENS”
+EG INT.......................................................................... [–99…+00…+99]
+EG TIME.............................................................................[00…99]
+Refer to "OSC1" on page 32.
+TIME POLARITY A, D, S, R......................................................[+, x, –]
+Refer to "TIME POLARITY A, D, S, R" on page 37.
+KBD TRK
+Keyboard tracking allows the note number of the key being played to affect certain parameters.
+Refer to M1 owner’s manual PDF, page 28 “F4-3: VDA1 KBD TRK”
+VDA1
+VDA EG
+只需拖动显示屏上图形包络的点，即可轻松修改 VDA1 EG 的形状。
+（第 11 页的“图形包络”）
+请参阅 M1 用户手册 PDF，第 28 页“F4-1：VDA1 EG”
+VEL SENS
+请参阅 M1 用户手册 PDF，第 28 页“F4-2：VDA1 VEL SENS”
+EG INT................................................................ [–99…+00…+99]
+EG TIME......................................................................[00…99]
+请参阅第 32 页的“OSC1”。
+TIME POLARITY A, D, S, R................................................[+, x, –]
+请参阅第 37 页的“TIME POLARITY A, D, S, R”。
+KBD TRK
+键盘跟踪允许正在弹奏的键的音符编号影响某些参数。
+请参阅 M1 用户手册 PDF，第 28 页“F4-3：VDA1 KBD TRK”
+
+AMPLITUDE...................................................................[–99…+00…+99]
+This parameter specifies the degree to which keyboard tracking will increase or decrease the amplitude.
+EG TIME............................................................................[00…99]
+This parameter will control how keyboard tracking will alter the timing of the VDA EG
+TIME POLARITY A, D, S, R ...........................................................[+, x, –]
+The value set by the previous EG TIME parameter can be applied to lengthen (+) or shorten (-) each envelope stage individually; A (Attack Time), D (Decay Time), S (Slope Time), and R (Release Time).
+Using a value of (X) means no change is applied.
+CENTER KEY.......................................................................[C-1…G9]
+The value or key (note) that you enter here will be used as the center for keyboard tracking.
+VDA MG
+The VDA MG applies modulation to the VDA. These parameters are the same as for the PITCH MG of the OSC page.
+Refer to "PITCH MG" on page 34
+VDA 2
+These parameters are the same as for VDA 1.
+AMPLITUDE（振幅）..............................................................[–99…+00…+99]
+此参数指定键盘跟踪增加或减少振幅的程度。
+EG TIME（振幅时间）..............................................................[00…99]
+此参数将控制键盘跟踪如何改变 VDA EG 的时间。
+TIME POLARITY（时间极性）A、D、S、R .........................................................[+、x、–]
+前一个 EG TIME 参数设置的值可用于分别延长（+）或缩短（-）每个包络阶段；A（启动时间）、D（衰减时间）、S（斜率时间）和 R（释放时间）。
+使用值（X）表示不应用任何更改。
+CENTER KEY（中心键）....................................................................[C-1…G9]
+您在此处输入的值或键（音符）将用作键盘跟踪的中心。
+VDA MG
+VDA MG 将调制应用于 VDA。这些参数与 OSC 页面的 PITCH MG 相同。
+请参阅第 34 页的“PITCH MG”
+VDA 2
+这些参数与 VDA 1 相同。
+
+CONTROL page
+Tap the CONTROL button to access this page. The parameters on this page determine how the use of Aftertouch and other exter- nal MIDI controllers will alter the pitch, tone, and other parameters of the individual Programs assigned to the Timbres con- tained in the Combi.
+
+AFTER TOUCH
+Certain MIDI keyboards and other controller transmit aftertouch. On a keyboard, aftertouch allows the performer to send a signal that will alter the sound AFTER the key is depressed by simply pressing the key a bit further. This allows the performer to create a more expressive performance. Aftertouch may also be sent from other MIDI controllers
+Refer to M1 owner’s manual PDF, page 32 “F7-1: AFTER TOUCH”
+PITCH....................................................................... [–12…+00…+12]
+This parameter specifies the degree to which aftertouch will affect the pitch.
+PITCH MG.........................................................................[00…99]
+This parameter specifies the degree to which aftertouch will affect the PITCH MG depth.
+CUTOFF VDF.................................................................. [–99…+00…+99]
+This parameter specifies the degree to which aftertouch will affect the VDF cutoff frequency.
+VDF MG.............................................................................[00…99]
+This parameter specifies the degree to which aftertouch will affect the VDF MG depth.
+VDA AMPLITUDE............................................................ [–99…+00…+99]
+This parameter specifies the degree to which aftertouch will affect the VDA volume change.
+
+VDA MG......................................................................................[00…99]
+This parameter specifies the degree to which aftertouch will affect the VDA MG depth.
+
+触后
+某些 MIDI 键盘和其他控制器会传输触后。在键盘上，触后允许表演者发送一个信号，该信号将在按下琴键后改变声音，只需再多按一下琴键即可。这使表演者能够创造更具表现力的表演。触后也可以从其他 MIDI 控制器发送
+请参阅 M1 用户手册 PDF，第 32 页“F7-1：触后”
+PITCH................................................................................. [–12…+00…+12]
+此参数指定触后影响音高的程度。
+PITCH MG.............................................................................[00…99]
+此参数指定触后影响 PITCH MG 深度的程度。
+CUTOFF VDF................................................................. [–99…+00…+99]
+此参数指定触后影响 VDF 截止频率的程度。
+VDF MG................................................................................[00…99]
+此参数指定触后影响 VDF MG 深度的程度。
+VDA AMPLITUDE.............................................................. [–99…+00…+99]
+此参数指定触后影响 VDA 音量变化的程度。
+VDA MG................................................................................................[00…99]
+此参数指定触后影响 VDA MG 深度的程度。
+
+CONTROLLER
+In addition to MIDI keyboards, there are many MIDI controllers and control surfaces that can send a MIDI CC signal to expressively alter certain sound-creation parameters in the iM1.
+Refer to M1 owner’s manual PDF, page 33 “F7-2: JOY STICK”
+PITCHBEND............................................................. [–12…+00…+12]
+This parameter specifies the pitch bend range of an external controller.
+This setting may have no effect, depending on the SETTINGS mode "GLOBAL PITCHBEND Switch" setting.
+(Refer to "GLOBAL PITCHBEND" on page 57)
+VDF SWEEP INT............................................................. [–99…+00…+99]
+This parameter specifies the amount of VDF cutoff frequency change produced by an external controller.
+PITCH MG INT.......................................................................[00…99]
+This parameter specifies the degree to which an external controller will affect the PITCH MG depth.
+PITCH MG FREQ/PITCH MG TIMES.......................................................[0…3]
+This parameter specifies how an external controller will affect the PITCH MG speed as a ratio relative to the "FREQ/TIMES" value of the OSC page.
+This setting will be either PITCH MG FREQ or PITCH MG TIMES, depending on the OSC page "TEMPO SYNC" setting.
+
+VDF MG INT..................................................................................[00…99]
+This parameter specifies the degree to which an external controller will affect the VDF MG depth.
+VDF MG FREQ/VDF MG TIMES..............................................................[0…3]
+This parameter specifies how an external controller will affect the VDF MG speed as a ratio relative to the "FREQ/TIMES" value of the VDF page.
+This setting will be either VDF MG FREQ or VDF MG TIMES, depending on the VDF page "TEMPO SYNC" setting.
+VDA MG INT..........................................................................[00…99]
+This parameter specifies the degree to which an external controller will affect the VDA MG depth.
+VDA MG FREQ/VDA MG TMES ..............................................................[0…3]
+This parameter specifies the how an external controller will affect the VDA MG speed as a ratio relative to the "FREQ/TIMES" value of the VDA page.
+This setting will be either VDA MG FREQ or VDA MG TIMES, depending on the VDA page "TEMPO SYNC" setting.
+控制器
+除了 MIDI 键盘外，还有许多 MIDI 控制器和控制界面可以发送 MIDI CC 信号，以富有表现力的方式改变 iM1 中的某些声音创建参数。
+请参阅 M1 用户手册 PDF，第 33 页“F7-2：JOY STICK”
+PITCHBEND.............................................................. [–12…+00…+12]
+此参数指定外部控制器的音高弯曲范围。
+此设置可能无效，具体取决于 SETTINGS 模式“GLOBAL PITCHBEND Switch”设置。
+（请参阅第 57 页的“GLOBAL PITCHBEND”）
+VDF SWEEP INT.............................................................. [–99…+00…+99]
+此参数指定外部控制器产生的 VDF 截止频率变化量。
+PITCH MG INT....................................................................................[00…99]
+此参数指定外部控制器影响 PITCH MG 深度的程度。
+PITCH MG FREQ/PITCH MG TIMES...............................................................[0…3]
+此参数指定外部控制器如何影响 PITCH MG 速度，以相对于 OSC 页面的“FREQ/TIMES”值的比率表示。
+此设置将是 PITCH MG FREQ 或 PITCH MG TIMES，具体取决于 OSC 页面的“TEMPO SYNC”设置。
+
+VDF MG INT..................................................................................[00…99]
+此参数指定外部控制器影响 VDF MG 深度的程度。
+VDF MG FREQ/VDF MG TIMES..............................................................[0…3]
+此参数指定外部控制器如何影响 VDF MG 速度，以相对于 VDF 页面的“FREQ/TIMES”值的比率表示。
+此设置将是 VDF MG FREQ 或 VDF MG TIMES，具体取决于 VDF 页面的“TEMPO SYNC”设置。
+VDA MG INT..............................................................................[00…99]
+此参数指定外部控制器影响 VDA MG 深度的程度。
+VDA MG FREQ/VDA MG TMES ................................................................[0…3]
+此参数指定外部控制器如何影响 VDA MG 速度，以相对于 VDA 页面的“FREQ/TIMES”值的比率表示。
+此设置将是 VDA MG FREQ 或 VDA MG TIMES，具体取决于 VDA 页面的“TEMPO SYNC”设置。
+
+INSERT FX page
+Tap the INSERT FX button to access this page. The parameters on this page are used to select, edit, and assign the routing of the
+Insert effects that are part of the individual Programs assigned to the Timbres contained in the Combi.
+INSERT FX 页面
+点击 INSERT FX 按钮即可访问此页面。此页面上的参数用于选择、编辑和分配插入效果的路由，这些效果是分配给 Combi 中包含的音色的各个程序的一部分。
+
+INSERT FX
+There are two Insert effects available for every Timbre in a Combi.
+Refer to M1 owner’s manual PDF, page 36 “3 - Effect parameters”
+IFX..............................................................................[OFF, ON]
+This switch acts as a bypass, turning the entire Insert effect section On or Off.
+This setting is linked with the Timbre Parameter “IFX.”
+OFF (dark): The Insert effects will not be heard (bypassed).
+ON (lit): The Insert effects will be heard (active).
+ROUTING TYPE...............................................................[SERIAL, PARALLEL]
+This parameter determines how the two Insert effects are routed.
+SERIAL sends the output of one Insert effect to the input of the other Insert effect.
+PARALLEL allows the two Insert effects to operate independently, side by side.
+The Routing Type can only be selected when the OSC MODE (page 29) is set to DRUMS. In this case, there are two stereo buses available. When the OSC MODE is set to SINGLE or DOUBLE, only one stereo bus is available, the Routing Type is set to Serial, and PAN controls are inserted between FX1 and FX2.
+INSERT FX
+Combi 中的每个音色都有两种插入效果。
+请参阅 M1 用户手册 PDF，第 36 页“3 - 效果参数”
+IFX................................................................................[OFF, ON]
+此开关用作旁路，打开或关闭整个插入效果部分。
+此设置与音色参数“IFX”相关联。
+OFF（暗）：不会听到插入效果（旁路）。
+ON（亮）：会听到插入效果（活动）。
+ROUTING TYPE................................................................[SERIAL, PARALLEL]
+此参数确定两个插入效果的路由方式。
+SERIAL 将一个插入效果的输出发送到另一个插入效果的输入。
+PARALLEL 允许两个插入效果并排独立运行。
+仅当 OSC MODE（第 29 页）设置为 DRUMS 时，才能选择路由类型。在这种情况下，有两个立体声总线可用。当 OSC MODE 设置为 SINGLE 或 DOUBLE 时，仅一条立体声总线可用，Routing Type 设置为 Serial，并且 PAN 控制插入到 FX1 和 FX2 之间。
+
+FX 1/FX 2........................................................................[OFF, ON]
+Each Insert effect can be turned on or off individually.
+PAN ON/OFF .......................................................................[OFF, ON]
+This parameter switches the pan On and Off.
+If this setting is OFF, the signals will not be sent.
+If you've turned PAN off in DRUM mode and then change the OSC MODE to SINGLE or DOUBLE, you will need to turn the PAN controls on again in order to hear any sound.
+PAN................................................................................[L50…C00…R50]
+This parameter sets the panning of busses A and B when the OSC MODE is set to SINGLE or DOUBLE.
+When the OSC MODE is set to DRUMS, this parameter will control the panning of busses C and D.
+MIXER..................................................................[---, Main, Sub]
+Use this parameter to choose the output.
+FX 1/FX 2
+EFFECT TYPE.........................................[No Effect, Reverb…Delay/Tremolo]
+Tap here to select the Master effect type, including No Effect.
+Effect Parameter
+Each Insert effect type will have its own specific set of adjustable parameters. For the effects that were added in the iM1 for iPad, refer to Effect Parameters on page 23.
+FX 1/FX 2.................................................................[OFF, ON]
+每个插入效果都可以单独打开或关闭。
+PAN ON/OFF .........................................................................[OFF, ON]
+此参数用于打开或关闭声像。
+如果此设置为 OFF，则不会发送信号。
+如果您在 DRUM 模式下关闭了 PAN，然后将 OSC MODE 更改为 SINGLE 或 DOUBLE，则需要再次打开 PAN 控件才能听到声音。
+PAN................................................................[L50…C00…R50]
+当 OSC MODE 设置为 SINGLE 或 DOUBLE 时，此参数设置总线 A 和 B 的声像。
+当 OSC MODE 设置为 DRUMS 时，此参数将控制总线 C 和 D 的声像。
+MIXER.................................................................[---, Main, Sub]
+使用此参数选择输出。
+FX 1/FX 2
+效果类型................................[无效果、混响…延迟/颤音]
+点击此处可选择主效果类型，包括无效果。
+效果参数
+每种插入效果类型都有一组特定的可调整参数。有关在 iPad 版 iM1 中添加的效果，请参阅第 23 页的效果参数。
+
+For details on the other effect parameters, refer to the original M1 owner's manual PDF which is available on the Web.
+Refer to M1 owner’s manual PDF, page 36 “3 - Effect parameters”
+有关其他效果参数的详细信息，请参阅网络上提供的原始 M1 用户手册 PDF。
+请参阅 M1 用户手册 PDF，第 36 页“3 - 效果参数”
+
+Using MIDI CC messages to control the speed of the Rotary Speaker When the Rotary Speaker has been selected as an Insert effect, the rotation speed can be switched using MIDI CC (Control Change) messages.
+Transmitting a CC#76 (Vibrato Rate) message from your external MIDI device on the MIDI Channel (Refer to "MIDI Ch" on page 24) with a value of 64-127 will switch the rotary speed to Fast; transmitting a value of 00-63 will switch the rotary speed to Slow.
+使用 MIDI CC 消息控制旋转扬声器的速度 当选择旋转扬声器作为插入效果时，可以使用 MIDI CC（控制变化）消息切换旋转速度。
+从 MIDI 通道（请参阅第 24 页的“MIDI Ch”）上的外部 MIDI 设备传输值为 64-127 的 CC#76（颤音速率）消息会将旋转速度切换为快速；传输值为 00-63 会将旋转速度切换为慢速。
+
+Multi mode
+In the Multi mode, the iM1 for iPad functions as an eight-part multi-timbral sound module. Tap the MULTI button to enter the Multi mode.
+多音色模式
+在多音色模式下，iPad 版 iM1 可用作八声部多音色音源。点击 MULTI 按钮进入多音色模式。
+
+TIMBRES Parameter
+These parameters allow you to select the Program used by each Track, as well as control the output level, pan, and out- put destination of each Track.
+TIMBRES 参数
+这些参数允许您选择每个音轨使用的程序，以及控制每个音轨的输出电平、声像和输出目的地。
+
+Track Select.....................................................................................[1…8]
+There are up to eight Tracks available in the Multi mode. To choose an individual Track to edit, tap one of the eight Track Select buttons in the column at the left-hand side of the parameter area.
+音轨选择................................................................................[1…8]
+多音轨模式下最多有 8 个音轨可用。要选择要编辑的单个音轨，请点击参数区域左侧栏中的 8 个音轨选择按钮之一。
+
+When you tap the on-screen keyboard-or drag the pitch bend or modulation wheel-MIDI messages will be transmitted on the MIDI channel of the Track that you've selected here. If you're controlling the iM1 for iPad from an external MIDI device, you won't hear anything unless the MIDI channel of your external MIDI device matches the MIDI channel of the selected Track. The same applies to the pitch bend wheel and modulation wheel.
+The editing area at the right will show the parameters (as determined by the Track Select buttons) of the Program used by the selected Track, and allow them to be edited.
+MIDI Indicator (Track indicator)
+When a Track receives MIDI messages from the on-screen keyboard or pitch bend wheel etc., or from an external MIDI device, the number of that Track (i.e., the Track of the matching MIDI Channel) will light. However, this indicator will not light in response to incoming MIDI realtime messages.
+TIMBRE ON/OFF................................................................[OFF, ON]
+These buttons are used to choose which Tracks will play. If the Track is Off, no information is displayed, and this Track will not produce any sound.
+SOLO...............................................................................[OFF, ON]
+Only the Tracks(s) that is soloed will sound. By soloing a Timbre, you can isolate it for easy editing.
+当您点击屏幕键盘或拖动弯音轮或调制轮时，MIDI 信息将在您在此处选择的音轨的 MIDI 通道上传输。如果您从外部 MIDI 设备控制 iM1 for iPad，除非外部 MIDI 设备的 MIDI 通道与所选音轨的 MIDI 通道匹配，否则您将听不到任何声音。弯音轮和调制轮也是如此。
+右侧的编辑区域将显示所选音轨使用的程序的参数（由音轨选择按钮确定），并允许对其进行编辑。
+MIDI 指示器（音轨指示器）
+当音轨从屏幕键盘或弯音轮等或从外部 MIDI 设备接收 MIDI 信息时，该音轨的编号（即匹配 MIDI 通道的音轨）将亮起。但是，此指示器不会响应传入的 MIDI 实时消息而亮起。
+音色开/关................................................................[关，开]
+这些按钮用于选择播放哪些音轨。如果音轨关闭，则不会显示任何信息，并且该音轨不会发出任何声音。
+独奏..............................................................................[关，开]
+只有独奏的音轨才会发声。通过独奏音色，您可以将其隔离以便于编辑。
+
+MUTE................................................................................[OFF, ON]
+The mute function is almost an opposite of the Solo function.
+Use the mute feature to temporarily silence a particular Track(s).
+IFX...............................................................................................[OFF, ON]
+This function turns the Insert effect on or off for the selected Timbre.
+OFF (dark): The Insert effect section is bypassed.
+ON (lit): The Insert effect section is active.
+The IFX is automatically turned on when you select a Program.
+PROGRAM Select........................................................................[BROWSER]
+Using the Browser, select the Program to be used by the Track. (Refer to "The Browser" on page 14).
+LEVEL...............................................................................[00…99]
+This knob specifies the output level of each Track.
+PAN............................................................................... [L50…C00…R50]
+This knob specifies the position in the stereo field (pan) of each Track.
+If DRUMS is specified as the oscillator mode ("OSC MODE" on page 29) in the Program used by this Track, the "PAN" field will not appear. Use the "PAN" setting in the DRUM KIT EDIT section ("PAN" on page 34) of the OSC page to specify the pan of each sound in the Drum Kit.
+静音................................................................................[关闭，打开]
+静音功能几乎与独奏功能相反。
+使用静音功能可暂时使特定音轨静音。
+IFX.................................................................................................[关闭，打开]
+此功能可打开或关闭所选音色的插入效果。
+关闭（暗）：插入效果部分被绕过。
+打开（亮）：插入效果部分处于活动状态。
+选择程序时，IFX 会自动打开。
+程序选择.............................................................................[浏览器]
+使用浏览器，选择音轨要使用的程序。（请参阅第 14 页的“浏览器”）。
+电平.............................................................................[00…99]
+此旋钮指定每个音轨的输出电平。
+声像.............................................................................[L50…C00…R50]
+此旋钮指定每个音轨在立体声场（声像）中的位置。
+如果在此音轨使用的程序中将 DRUMS 指定为振荡器模式（第 29 页上的“OSC MODE”），则不会出现“PAN”字段。使用 OSC 页面的 DRUM KIT EDIT 部分（第 34 页上的“PAN”）中的“PAN”设置来指定鼓组中的每个声音的声像。
+
+OUT.......................................................................[---, Main, Sub]
+Use this parameter to choose the output.
+
+PERFORMANCE, MIDI page
+These parameters are the same as in Combination mode.
+Refer to "PERFORMANCE page" on page 21.
+OUT................................................................................[---, Main, Sub]
+使用此参数选择输出。
+
+PERFORMANCE、MIDI 页面
+这些参数与组合模式中的参数相同。
+请参阅第 21 页上的“PERFORMANCE 页面”。
+
+MASTER FX page
+Tap the MASTER FX button to access this page. The parameters on this page allow you to specify the Master effects being used and adjust the individual Master effect parameters. In Multi mode the Master effects are used as send effects, so the input and output of the effects is determined by the send, return, and return destination settings.
+MASTER FX 页面
+点击 MASTER FX 按钮即可访问此页面。此页面上的参数允许您指定正在使用的主效果并调整各个主效果参数。在多模式下，主效果用作发送效果，因此效果的输入和输出由发送、返回和返回目标设置决定。
+
+SEND 1....................................................................................[00…99]
+This parameter controls the volume level of the signal being sent to Master effect 1.
+SEND 2....................................................................................[00…99]
+This parameter controls the volume level of the signal being sent to Master effect 2.
+If SINGLE or DOUBLE is specified as the oscillator mode ("OSC MODE" on page 29) of the Program used by the Track, the output of the Track will be sent to SEND 1 and SEND 2. If the oscillator mode is DRUMS, output OUT AB of the Track will be sent to SEND 1, and OUT CD will be sent to SEND 2.
+SEND 1....................................................................................[00…99]
+此参数控制发送到主效果 1 的信号的音量。
+SEND 2....................................................................................[00…99]
+此参数控制发送到主效果 2 的信号的音量。
+如果将 SINGLE 或 DOUBLE 指定为音轨使用的程序的振荡器模式（第 29 页上的“OSC MODE”），则音轨的输出将发送到 SEND 1 和 SEND 2。如果振荡器模式为 DRUMS，则音轨的输出 OUT AB 将发送到 SEND 1，OUT CD 将发送到 SEND 2。
+
+MASTER FX
+ROUTING TYPE...............................................................[SERIAL, PARALLEL]
+This parameter determines how the two Master effects are routed.
+SERIAL sends the output of one Master effect to the input of the other Master effect.
+PARALLEL allows the two Master effects to operate independently, side by side.
+FX 1/FX 2..........................................................................[OFF, ON]
+Each Master effect can be turned on or off individually.
+
+LEVEL (RETURN 1/2 LEVEL).............................................................[00…99]
+This parameter sets the return level from the Master effects, effectively controlling the amount of Master effects being sent to the outputs.
+PAN ON/OFF ..........................................................................[OFF, ON]
+This parameter witches the pan On and Off.
+If this setting is OFF, the signals will not be sent.
+PAN................................................................................[L50…C00…R50]
+Panning specifies the position in the stereo field (pan) of the
+SEND 2.
+OUT..........................................................................[–, Main, Sub]
+Use this parameter to choose the output.
+FX1/FX2
+EFFECT TYPE.........................................[No Effect, Reverb…Delay/Tremolo]
+Tap here to select the Master effect type, including No Effect.
+Effect Parameter
+Each Master effect type will have its own specific set of adjustable parameters.
+For details on the other effect parameters, refer to the original M1 owner's manual PDF which is available on the Web. Refer to M1 owner's manual PDF, page 36 "3 -Effect parameters"
+MASTER FX
+路由类型.................................................................[SERIAL, PARALLEL]
+此参数决定两个主效果的路由方式。
+SERIAL 将一个主效果的输出发送到另一个主效果的输入。
+PARALLEL 允许两个主效果并排独立运行。
+FX 1/FX 2.............................................................................[OFF, ON]
+每个主效果都可以单独打开或关闭。
+
+LEVEL（RETURN 1/2 LEVEL）.............................................................[00…99]
+此参数设置主效果的返回级别，有效控制发送到输出的主效果量。
+PAN ON/OFF .............................................................................[OFF, ON]
+此参数切换平移的打开和关闭。
+如果此设置为 OFF，则不会发送信号。
+PAN................................................................................[L50…C00…R50]
+声像指定 SEND 2 在立体声场（声像）中的位置。
+OUT........................................................................[–、Main、Sub]
+使用此参数选择输出。
+FX1/FX2
+效果类型........................................[无效果、混响…延迟/颤音]
+点击此处选择主效果类型，包括无效果。
+效果参数
+每种主效果类型都有自己特定的一组可调整参数。
+有关其他效果参数的详细信息，请参阅网络上提供的原始 M1 用户手册 PDF。请参阅 M1 用户手册 PDF，第 36 页“3 - 效果参数”
+
+EASY, OSC, VDF, VDA, CONTROL, INSERT FX page
+These pages contain the parameters used to edit the Programs assigned to each Track.
+The parameters are the same as in Combination mode.
+Refer to "EASY page" on page 28.
+Refer to "OSC page" on page 31.
+Refer to "VDF page" on page 36
+Refer to "VDA page" on page 39
+Refer to "CONTROL page" on page 41
+Refer to "INSERT FX page" on page 44
+EASY、OSC、VDF、VDA、CONTROL、INSERT FX 页面
+这些页面包含用于编辑分配给每个音轨的程序的参数。
+这些参数与组合模式中的参数相同。
+请参阅第 28 页上的“EASY 页面”。
+请参阅第 31 页上的“OSC 页面”。
+请参阅第 36 页上的“VDF 页面”
+请参阅第 39 页上的“VDA 页面”
+请参阅第 41 页上的“CONTROL 页面”
+请参阅第 44 页上的“INSERT FX 页面”
+
+Program mode
+Tap the PROG button to enter Program mode. The Program mode supplies access to all of the editable sound-creation parameters available to construct or customize a single Program.
+程序模式
+点击 PROG 按钮进入程序模式。程序模式提供对所有可编辑声音创建参数的访问，可用于构建或自定义单个程序。
+
+TIMBRES Parameter
+Here you can edit the program’s output level, pan, and output destination.
+TIMBRES 参数
+在这里您可以编辑程序的输出级别、声像和输出目的地。
+
+TIMBRE ON/OFF.........................................................................[ON, OFF]
+These buttons specify whether each timber will produce sound.
+IFX..................................................................................[OFF, ON]
+This function turns the Insert effect section On and Off.
+OFF (dark): The Insert effect section is bypassed.
+音色开/关................................................................................[开，关]
+这些按钮指定每种音色是否产生声音。
+IFX................................................................................[关，开]
+此功能可打开或关闭插入效果部分。
+OFF（暗色）：插入效果部分被绕过。
+
+ON (lit): The Insert effect section is active.
+The IFX is automatically turned on when you select a Program.
+PROGRAM Select .......................................................................[BROWSER]
+Using the Browser, select the Program to be used by the Timbre.(Refer to "The Browser" on page 14)
+LEVEL ....................................................................................[00…99]
+This knob specifies the output level of the Program
+PAN.............................................................................[L50…C00…R50]
+This knob specifies the position in the stereo field (pan) of the Program
+If DRUMS is specified as the oscillator mode ("OSC MODE" on page 29) in this Program the "PAN" field will not appear. Use the "PAN" setting in the DRUM KIT EDIT section ("PAN" on page 20) of the OSC page to specify the pan of each sound in the Drum Kit.
+ON（亮起）：插入效果部分处于活动状态。
+选择程序时，IFX 会自动打开。
+程序选择................................................................[浏览器]
+使用浏览器，选择音色要使用的程序。（请参阅第 14 页上的“浏览器”）
+LEVEL....................................................................................[00…99]
+此旋钮指定程序的输出电平
+PAN.............................................................................[L50…C00…R50]
+此旋钮指定程序在立体声场（声像）中的位置
+如果在此程序中将 DRUMS 指定为振荡器模式（第 29 页上的“OSC MODE”），则不会出现“PAN”字段。使用 OSC 页面的 DRUM KIT EDIT 部分（第 20 页上的“PAN”）中的“PAN”设置来指定鼓组中每个声音的声像。
+
+OSC, VDF, VDF&VDA, EG, INSERT FX
+These parameters are the same as in Combination mode.
+Refer to "PERFORMANCE page" on page 21.
+OSC、VDF、VDF&VDA、EG、INSERT FX
+这些参数与组合模式中的参数相同。
+请参阅第 21 页的“PERFORMANCE 页面”。
+
+EASY, OSC, VDF, VDA, CONTROL, INSERT FX page
+These pages provide access to the Program sound-creation parameters. The parameters are the same as in the Combination mode.
+Refer to "EASY page" on page 28.
+Refer to "OSC page" on page 31.
+Refer to "VDF page" on page 36
+Refer to "VDA page" on page 39
+Refer to "CONTROL page" on page 41
+Refer to "INSERT FX page" on page 44
+EASY、OSC、VDF、VDA、CONTROL、INSERT FX 页面
+这些页面提供对程序声音创建参数的访问。这些参数与组合模式中的参数相同。
+请参阅第 28 页上的“EASY 页面”。
+请参阅第 31 页上的“OSC 页面”。
+请参阅第 36 页上的“VDF 页面”
+请参阅第 39 页上的“VDA 页面”
+请参阅第 41 页上的“CONTROL 页面”
+请参阅第 44 页上的“INSERT FX 页面”
+
+SETTINGS mode
+This mode is used to access and adjust parameters that affect the entire iM1 for iPad operation, such as Master Tune, Transpose, Global MIDI Channel, MIDI Filter, and User Scale..
+此模式用于访问和调整影响整个 iM1 for iPad 操作的参数，例如主调音、移调、全局 MIDI 通道、MIDI 过滤器和用户量表。
+
+MIDI SETTING
+MIDI
+BLUETOOTH MIDI ................................................................ [ (Search)]
+When you press the Search button, the detectable Bluetooth MIDI devices will be searched.
+GLOBAL MIDI CHANNEL..................................................................[01…16]
+This parameter is used to designate the global MIDI channel.
+The global MIDI channel is used for several purposes. In Combination mode, it's used as the channel for changing from one Combi to another, and for controlling the master effects (the rotary speed when when "EFFECT TYPE" is Rotary Speaker page 27). In Multi mode, it's used as the channel for controlling the Master effects. In Program mode, it's used as the channel that will play the Program and for controlling the Insert effects (the rotary speed when “EFFECT TYPE” is Rotary Speaker page 27).
+GLOBAL PITCHBEND
+GLOBAL PITCHBEND.........................................................[DISABLE, ENABLE]
+The Pitch Bend range can be individually stored with each Program; the Global Pitchbend parameter will override these individual settings DISABLE: The individual Program parameter CONTROL page PITCHBEND settings in each mode will be used.
+MIDI 设置
+MIDI
+蓝牙 MIDI ................................................................ [（搜索）]
+按下搜索按钮时，将搜索可检测到的蓝牙 MIDI 设备。
+全局 MIDI 通道..................................................................[01…16]
+此参数用于指定全局 MIDI 通道。
+全局 MIDI 通道有多种用途。在组合模式下，它用作从一个组合切换到另一个组合的通道，并用于控制主效果（“效果类型”为旋转扬声器时的旋转速度，第 27 页）。在多模式中，它用作控制主效果的通道。在程序模式下，它用作播放程序的通道，并用于控制插入效果（“效果类型”为旋转扬声器时的旋转速度，第 27 页）。
+全局 PITCHBEND
+全局 PITCHBEND..............................................................[禁用，启用]
+弯音范围可以与每个程序一起单独存储；全局弯音参数将覆盖这些单独的设置禁用：将使用每个模式下的单独程序参数控制页面 PITCHBEND 设置。
+
+ENABLE: The RANGE setting set in the following parameter will be used for every Program in every mode.
+RANGE....................................................................................[–12…+12]
+This parameter sets the Global Pitchbend range. If "GLOBAL
+PITCHBEND" is set to ENABLE, this setting will be used for every Program in every mode.
+MIDI FILTER
+MIDI Filtering can determine which MIDI messages are received by the Program.
+Activate the MIDI filter by turning it on (lit) to prevent the specific type of message from being received.
+CONTROL CHANGE FILTER................................................................[OFF, ON]
+OFF (dark): Control Change messages are received.
+ON (lit): Control Change messages are not received (filtered).
+COMBI/PROG CHANGE FILTER ..........................................................[OFF, ON]
+OFF (dark): Program Change messages are received.
+ON (lit): Program Change messages are not received (filtered).
+AFTER TOUCH FILTER......................................................................[OFF, ON]
+OFF (dark): Aftertouch messages are received.
+ON (lit): Aftertouch messages are not received (filtered).
+ENABLE：以下参数中设置的范围设置将用于每种模式下的每个程序。
+RANGE....................................................................................[–12…+12]
+此参数设置全局弯音范围。如果“GLOBAL
+PITCHBEND”设置为 ENABLE，则此设置将用于每种模式下的每个程序。
+MIDI FILTER
+MIDI 过滤可以确定程序接收哪些 MIDI 消息。
+通过打开（亮起）激活 MIDI 过滤器，以防止接收特定类型的消息。
+CONTROL CHANGE FILTER................................................................[OFF, ON]
+OFF（暗）：接收控制更改消息。
+ON（亮起）：未接收控制更改消息（已过滤）。
+COMBI/PROG CHANGE FILTER........................................................[OFF, ON]
+OFF（暗）：接收程序更改消息。
+ON（亮起）：未接收程序更改消息（已过滤）。
+触后过滤................................................................................[OFF, ON]
+OFF（暗）：已接收触后信息。
+ON（亮）：未接收触后信息（已过滤）。
+
+KEYBOARD SETTING
+TUNNING
+MASTER TUNE A4.........................................................[420.00…460.00 Hz]
+This parameter adjusts the overall pitch of the iM1 for iPad in 0.01 Hz steps. The value shown is set as the pitch of the A4 (Concert A) note.
+TRANSPOSE.............................................................................[–24…+24]
+This parameter adjusts the overall pitch of the iM1 for iPad in semitone (100 cent) steps. The range is +/- 2 octaves.
+SCALE
+ROOT KEY........................................................................................[C…B]
+This parameter specifies the tonic or root key for the scale selected in SCALE TYPE.
+SCALE TYPE................................[Equal Temp…Pure Minor, User1…User12]
+Use this parameter to select the scale type (temperament).
+Equal Temp: This is the most commonly used scale. Each semitone is spaced at an equal distance from the others (equal temperament).
+Equal Temp Random Pitch: A random pitch deviation is applied to equal temperament each time a note-on occurs.
+Pure Major: In this scale, the principle major chords in the selected key will be perfectly harmonious (pure major temperament).
+键盘设置
+调音
+主调 A4..............................................................[420.00…460.00 Hz]
+此参数以 0.01 Hz 为步长调整 iM1 for iPad 的整体音高。显示的值设置为 A4（音乐会 A）音符的音高。
+移调.............................................................................[–24…+24]
+此参数以半音（100 音分）为步长调整 iM1 for iPad 的整体音高。范围为 +/- 2 个八度。
+音阶
+根音调.............................................................................[C…B]
+此参数指定在音阶类型中选择的音阶的主音或根音调。
+音阶类型................................[均等温度…纯小调，用户 1…用户 12]
+使用此参数选择音阶类型（律制）。
+均等温度：这是最常用的音阶。每个半音与其他半音之间的距离相等（平均律）。
+平均温度随机音高：每次出现音符时，平均律都会产生随机音高偏差。
+纯大调：在此音阶中，所选调中的主要大调和弦将完美和谐（纯大调）。
+
+Pure Minor: In this scale, the principle minor chords in the selected key will be perfectly harmonious (pure minor temperament).
+User 1–12: You can create twelve of your own customized user scales.
+USER SCALE......................................................................[–99…+99 cent]
+To create a User Scale, begin by selecting one of the User Scales in SCALE TYPE.
+Next, simply adjust the pitch of each note of in the octave.
+These settings are saved automatically. You can recall your User Scale at any time by selecting it using the SCALE TYPE parameter.
+You can adjust each note of the octave (C-B) in a range of -99 through +99 cents. These adjustments are relative to the equal tempered pitch (0). A setting of +99 raises the pitch approximately one semitone above the standard pitch. A setting of -99 lowers the pitch approximately one semitone below the standard pitch.
+You can't make "USER SCALE" settings when "SCALE" is set to Equal Temp, Equal Temp Random Pitch, Pure Major, or Pure Minor.
+AUDIO/OTHER SETTINGS....................................................................[OPEN]
+Opens a page where you can make settings such as the audio latency, how the knobs operate, and whether to enable mobile communication.
+纯小调：在此音阶中，所选调中的主要小调和弦将完美和谐（纯小调律）。
+用户 1–12：您可以创建十二个自定义用户音阶。
+用户音阶..............................................................................[–99…+99 音分]
+要创建用户音阶，首先在音阶类型中选择其中一个用户音阶。
+接下来，只需调整八度音阶中每个音符的音高即可。
+这些设置会自动保存。您可以随时使用音阶类型参数选择用户音阶来调用它。
+您可以在 -99 到 +99 音分的范围内调整八度音阶（C-B）的每个音符。这些调整与平均律音高（0）相关。+99 的设置将音高提高到标准音高约一个半音。-99 的设置将音高降低到标准音高约一个半音。
+当“音阶”设置为“等温”、“等温随机音高”、“纯大调”或“纯小调”时，您无法进行“用户音阶”设置。
+音频/其他设置....................................................................[打开]
+打开一个页面，您可以在其中进行设置，例如音频延迟、旋钮操作方式以及是否启用移动通信。
+
+################################################
+				Writing, Saving, and Loading Data
+Writing to internal memory
+Any of the settings you edit or create can be stored in the iM1 for iPad's internal memory. On the original M1, the Programs used by a Combination used the same data as the Programs in Program mode. The iM1 for iPad loads Program data into the edit buffer independently for each mode (Combination, Multi, or Program), which means that editing a Program in Program mode will not affect the sound of Programs used in Combination mode or Multi mode.
+By using the File menu, the data that you edit can also be saved for individual sections. Programs that are saved in library cards can be shared across the entire application.
+The WRITE command does not save the data to your computer; it only stores it to the iM1 for iPad's internal memory. Any data you've stored will be lost if you exit the application without saving. If you want to keep your stored Combinations and Programs, click the [FILE] button and use "Save" to save them (“Session”).
+Session
+By saving a Session, the Combi and Program edit data-and the data that is saved in the user cards-is saved all together.
+Session commands
+• New: Resets all stored data of the session, and returns the software to its initial state.
+• Open: Loads session data from a file.
+• Save: Saves session data by overwriting the old file.
+• Save As: Saves session data under a different name.
+• Import from KLC: Imports KLC M1 compatible data.
+• Export toKLC: Saves data in a form that is compatible with the KLC M1.
+• Import from M1: Imports data created on the original M1 series as a system exclusive file into iM1 for iPad.
+The data to be imported or the data that you've exported can be written to or read from your iPad via iTunes software on your computer.
+When you import each type of data, it will overwrite the USER card. If you want to keep the current session, use "Save as" to back it up before importing.
+写入、保存和加载数据
+写入内部存储器
+您编辑或创建的任何设置都可以存储在 iM1 for iPad 的内部存储器中。在原始 M1 上，组合使用的程序使用的数据与程序模式下的程序相同。iM1 for iPad 会针对每种模式（组合、多重或程序）将程序数据独立加载到编辑缓冲区中，这意味着在程序模式下编辑程序不会影响组合模式或多重模式下使用的程序的声音。
+通过使用文件菜单，您还可以为各个部分保存您编辑的数据。保存在库卡中的程序可以在整个应用程序中共享。
+WRITE 命令不会将数据保存到您的计算机；它只会将数据存储到 iM1 for iPad 的内部存储器中。如果您退出应用程序而不保存，您存储的任何数据都将丢失。如果您想保留存储的组合和程序，请单击 [FILE] 按钮并使用“保存”来保存它们（“会话”）。
+会话
+通过保存会话，Combi 和程序编辑数据以及保存在用户卡中的数据将全部保存。
+会话命令
+• 新建：重置会话的所有存储数据，并将软件返回到其初始状态。
+• 打开：从文件加载会话数据。
+• 保存：通过覆盖旧文件保存会话数据。
+• 另存为：以不同的名称保存会话数据。
+• 从 KLC 导入：导入 KLC M1 兼容数据。
+• 导出到 KLC：以与 KLC M1 兼容的形式保存数据。
+• 从 M1 导入：将原始 M1 系列上创建的数据作为系统专用文件导入 iM1 for iPad。
+要导入的数据或您已导出的数据可以通过计算机上的 iTunes 软件写入或从 iPad 读取。
+当您导入每种类型的数据时，它将覆盖用户卡。如果要保留当前会话，请在导入之前使用“另存为”进行备份。
+
+Settings that are remembered when you write a Session:
+The sound generator parameters of Combi, Multi, and Program modes
+SETTINGS parameters
+User Programs, Combinations, and Drum Kits that are saved in User cards Settings that are NOT remembered when you write a Session:
+User Programs, Combinations, and Drum Kits that are stored in library cards. Programs that are saved in library cards are automatically stored within iM1 for iPad itself, and can be shared by all sessions.
+Combinations
+Combinations you create or edit can be written (stored) into the iM1 for iPad's internal memory. The iM1 for iPad has six user cards, each of which holds 50 Combinations. This means that the M1 can hold a total of 300 Combinations (four user cards and two library cards).
+Settings that are remembered when you Write
+• Programs used by each Timbre
+• Each Timbre's output settings, MIDI settings, key zone, velocity zone, and Master effect settings
+The Program adjustment parameters in the Performance page are applied to the Program parameters when you Write, and their values will be reset to 00.
+Settings that are not remembered when you Write
+• Solo/Mute.
+• The TABLE settings of the Performance page.
+• The VDF Select, VDF EG Select, and VDA EG Select settings of the EASY page.
+• The KBD CHASE setting of the OSC page DRUM KIT
+• EDIT section and the Point Select setting of the PITCH EG section.
+• The Point Select setting of the VDF page VDF EG section.
+• The Point Select setting the VDA page VDA EG section.
+Programs
+Programs you created or edited in Combination, Multi, or Program mode can be written (stored) to a user card in the iM1 for iPad. The iM1 for iPad provides six internal "user cards," each holding 50 Programs. This gives you a total of 300 Programs stored within the M1.
+编写会话时会记住的设置：
+组合、多重和程序模式的声音发生器参数
+设置参数
+保存在用户卡中的用户程序、组合和鼓组 编写会话时不会记住的设置：
+存储在库卡中的用户程序、组合和鼓组。保存在库卡中的程序会自动存储在 iM1 for iPad 本身中，并且可以由所有会话共享。
+组合
+您创建或编辑的组合可以写入（存储）到 iM1 for iPad 的内部存储器中。iM1 for iPad 有六张用户卡，每张卡可容纳 50 个组合。这意味着 M1 总共可以容纳 300 个组合（四张用户卡和两张库卡）。
+写入时记住的设置
+• 每个音色使用的程序
+• 每个音色的输出设置、MIDI 设置、键区、力度区和主效果设置
+写入时，Performance 页面中的程序调整参数将应用于程序参数，其值将重置为 00。
+写入时不记住的设置
+• 独奏/静音。
+• Performance 页面的 TABLE 设置。
+• EASY 页面的 VDF Select、VDF EG Select 和 VDA EG Select 设置。
+• OSC 页面 DRUM KIT 的 KBD CHASE 设置
+• EDIT 部分和 PITCH EG 部分的 Point Select 设置。
+• VDF 页面 VDF EG 部分的 Point Select 设置。
+• VDA 页面 VDA EG 部分的 Point Select 设置。
+程序
+您在组合、多重或程序模式下创建或编辑的程序可以写入（存储）到 iM1 for iPad 中的用户卡中。 iPad 版 iM1 提供六张内部“用户卡”，每张卡可容纳 50 个程序。这样 M1 内总共可存储 300 个程序。
+
+Settings that are remembered when you Write
+• Settings of the OSC page, VDF page, VDA page, CONTROL page, and INSERT FX page-with the exception of the parameters listed below as "Settings that are not remembered when you Write"
+The Program adjustment parameters in the Performance page of Combination mode and Multi mode and in the Performance Edit page of Program mode are applied to the Program parameters when you Write, and their values will be reset to 00.
+Settings that are not remembered when you Write
+• The VDF SELECT, VDF EG Select, and VDA EG Select settings of the EASY page.
+• The KBD CHASE setting of the OSC page DRUM KIT EDIT section
+• The Point Select setting of the PITCH EG section.
+• The Point Select setting of the VDF page VDF EG section.
+• The Point Select setting the VDA page VDA EG section.
+Writing Procedure
+Combination mode, Multi mode, Program mode:
+1. Click the [WRITE] button located in the upper left, and choose either Selected Program or Program from the menu that appears. The WRITE PROGRAM dialog box will appear with the instrument and sound character that are specified for the Program.
+You can also access the WRITE PROGRAM dialog box by selecting the Write menu command for each Timbre (Track).
+2. Select the writing-destination card. Tap one of the [LIBRARY1], [LIBRARY2], or [USER1]--[USER4] buttons shown below.
+3. If you want to change the name before saving, tap on the Program name displayed at the top of the window, and using the pop-up keyboard, type in a name and press the [Enter] key.
+4. Select the type of instrument in the SEARCH "INSTRUMENTS" area, and the character of the sound in the "CHARACTER" section. You can select multiple items for the type of instrument or sound character. (Refer to "4. INSTRUMENTS" on page 15 and "5. CHARACTER" on page 15)
+5. Specify a name for the Program that you want to save, and press the [Enter] button.
+6. Close the keyboard.
+The Program is written to the Write-Destination User Card.
+
+写入时记住的设置
+• OSC 页面、VDF 页面、VDA 页面、CONTROL 页面和 INSERT FX 页面的设置 - 除以下列出的“写入时不记住的设置”参数外
+组合模式和多模式的 Performance 页面以及程序模式的 Performance Edit 页面中的程序调整参数在写入时应用于程序参数，其值将重置为 00。
+写入时不记住的设置
+• EASY 页面的 VDF SELECT、VDF EG Select 和 VDA EG Select 设置。
+• OSC 页面 DRUM KIT EDIT 部分的 KBD CHASE 设置
+• PITCH EG 部分的 Point Select 设置。
+• VDF 页面 VDF EG 部分的 Point Select 设置。
+• VDA 页面 VDA EG 部分的 Point Select 设置。
+写入步骤
+组合模式、多重模式、程序模式：
+1. 单击位于左上角的 [WRITE] 按钮，然后从出现的菜单中选择所选程序或程序。将出现 WRITE PROGRAM 对话框，其中包含为程序指定的乐器和声音特征。
+您也可以通过选择每个音色（音轨）的写入菜单命令来访问 WRITE PROGRAM 对话框。
+2. 选择写入目标卡。点击下面显示的 [LIBRARY1]、[LIBRARY2] 或 [USER1]-[USER4] 按钮之一。
+3. 如果您想在保存前更改名称，请点击窗口顶部显示的程序名称，然后使用弹出键盘输入名称并按 [Enter] 键。
+4. 在搜索“乐器”区域中选择乐器类型，在“字符”部分中选择声音特征。您可以为乐器类型或声音特征选择多个项目。 （请参阅第 15 页的“4. 仪器”和第 15 页的“5. 字符”）
+5. 为要保存的程序指定名称，然后按 [Enter] 按钮。
+6. 关闭键盘。
+程序已写入写入目标用户卡。
+
+Drum Kits
+Drum kits you created or edited in Combination, Multi, or Program mode can be written (stored) to a user card in the iM1 for iPad.
+The iM1 for iPad provides two internal “user cards” for storing drum kits. Since each card holds 20 drum kits, this gives you a total of 40 drum kits stored within the M1.
+Settings that are remembered when you Write OSC page DRUM KIT EDIT section parameters other than KBD CHASE will be remembered when you Write.
+
+Writing
+1. Click the [WRITE] button in the OSC page DRUMS section of any mode.
+The WRITE DRUM KIT dialog box will appear with the attribute that is specified for the Drum Kit selected..
+2. Select the writing-destination card.
+Tap one of the [LIBRARY1], [LIBRARY2], [USER1], or [USER2] buttons shown below.
+3. Select the desired attribute(s) for this Drum Kit. You may select multiple attributes.
+4. Specify a name for the Program that you want to save, and press the [Enter] button.
+5. Click the [OK] button.
+The Drum Kit will be written to the user card.
+鼓组
+您在组合、多重或程序模式下创建或编辑的鼓组可以写入（存储）到 iM1 for iPad 中的用户卡中。
+iM1 for iPad 提供两个用于存储鼓组的内置“用户卡”。由于每张卡可容纳 20 个鼓组，因此 M1 中总共存储了 40 个鼓组。
+写入时记住的设置（除 KBD CHASE 外）将在您写入时记住。
+
+写入
+1. 单击任何模式的 OSC 页面 DRUMS 部分中的 [WRITE] 按钮。
+将出现 WRITE DRUM KIT 对话框，其中选定了为鼓组指定的属性。
+2. 选择写入目标卡。
+点击下面显示的 [LIBRARY1]、[LIBRARY2]、[USER1] 或 [USER2] 按钮之一。
+3. 选择此鼓组所需的属性。您可以选择多个属性。
+4. 为要保存的程序指定名称，然后按 [Enter] 按钮。
+5. 单击 [OK] 按钮。
+鼓组将写入用户卡。
+
+Renaming
+Using the keyboard that is displayed when Writing, enter a name and then press the Return key.
+Names can be entered for a combination, Program, or Drum Kit that can be written to a memory card. Names cannot be entered for a multisound or drum sound.
+重命名
+使用写入时显示的键盘输入名称，然后按回车键。
+可以为可写入存储卡的组合、程序或鼓组输入名称。无法为多音色或鼓音输入名称。
+
 Specifications
 
 iM1 for iPad

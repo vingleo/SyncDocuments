@@ -1,0 +1,180 @@
+Synthesizer V Studio User Manual
+
+
+Synthesizer V Studio Pro is the flagship singing synthesis software developed by Dreamtonics. The software combines an intuitive and flexible user interface with a powerful singing synthesis engine backed by cutting-edge technologies. Users can easily create realistic-sounding vocal covers or original songs by simply sketching out a melody and filling in the lyrics.
+Synthesizer V Studio Pro 是 Dreamtonics 开发的旗舰级歌唱合成软件。该软件将直观灵活的用户界面与由尖端技术支持的强大歌唱合成引擎相结合。用户只需勾勒出旋律并填写歌词，即可轻松创作出逼真的翻唱歌曲或原创歌曲。
+
+Learning Synthesizer V Studio
+
+Synthesizer V Studio is accessible in two main versions: the free Basic version and the paid Pro version. The Pro version is available as both a standalone application and a plugin, catering to a wide range of music production needs.
+
+-The Basic Usage part of this user manual is dedicated to the core functionalities present across all versions of Synthesizer V Studio. We recommend new users to begin with the Quickstart page to get an overview of the software's capabilities.
+
+-The Advanced Usage part of this user manual delivers comprehensive information on the software's features, facilitating the precise adjustment of synthesized vocals. Divided into pages by function groups, this part is crucial for users seeking to explore the extensive functionalities of Synthesizer V Studio.
+
+-Plugin (VST/AU/AAX/ARA) versions of Synthesizer V Studio maintain a user interface consistent with the Basic Usage and Advanced Usage guides. Nevertheless, specifics regarding the setup, unique features, and plugin-specific limitations are outlined in the dedicated Plugins part of this manual.
+
+-Expanding upon the fundational knowledge presented in the earlier parts, the Special Topics part of this manual offers practical tips and recommended workflows. These recommendations are intended to augment the user's proficiency and effectiveness with Synthesizer V Studio.
+学习 Synthesizer V Studio
+
+Synthesizer V Studio 有两个主要版本：免费的基础版和付费的专业版。专业版既可作为独立应用程序使用，也可作为插件使用，可满足各种音乐制作需求。
+
+-本用户手册的基本使用部分专门介绍 Synthesizer V Studio 所有版本的核心功能。我们建议新用户从快速入门页面开始，以了解软件的功能。
+
+-本用户手册的高级使用部分提供有关软件功能的全面信息，便于精确调整合成人声。此部分按功能组分为几页，对于希望探索 Synthesizer V Studio 广泛功能的用户来说至关重要。
+
+-Synthesizer V Studio 的插件 (VST/AU/AAX/ARA) 版本保持与基本使用和高级使用指南一致的用户界面。尽管如此，有关设置、独特功能和插件特定限制的细节已在本手册的专用插件部分中概述。
+
+About Dreamtonics
+
+Dreamtonics is a Tokyo-based startup specializing in electronic music and voice technology. We build and provide the best music software to meet your creativity needs.
+For corporate customers, we also provide services such as technology licensing and artificial voice creation.
+Dreamtonics Website>>
+
+Dreamtonics Social Media
+Youtube:：Dreamtonics Co., Ltd. Official YouTube Channel
+X (Twitter)：@dreamtonics_en
+Facebook：Dreamtonics
+Instagram：Synthesizer V Studio
+关于 Dreamtonics
+
+Dreamtonics 是一家位于东京的创业公司，专注于电子音乐和语音技术。我们构建并提供最好的音乐软件来满足您的创意需求。
+对于企业客户，我们还提供技术授权和人工语音创作等服务。
+Dreamtonics 网站>>
+
+Dreamtonics 社交媒体
+Youtube：Dreamtonics Co., Ltd. 官方 YouTube 频道
+X (Twitter)：@dreamtonics_en
+Facebook：Dreamtonics
+Instagram：Synthesizer V Studio
+
+01 Guide: Upgrade to Version 2
+
+Dreamtonics is pleased to announce the upcoming release of Synthesizer V Studio 2 Pro, scheduled for March 21st, 2025. This major upgrade delivers significant advancements in sound quality and processing speed, empowering users to achieve even greater realism and expressiveness in their projects.
+
+This new major upgrade also introduces a suite of new tools designed for precise fine-tuning of vocals. These enhancements grant users granular control over every aspect of vocal performance.
+
+Existing users of Synthesizer V Studio Pro are eligible for a discounted upgrade to version 2. For detailed information regarding upgrade pricing for both the editor software and individual voice databases, please refer to here.
+
+Synthesizer V Studio 2 Pro will transition to a new license management system based on user accounts. Users are encouraged to register a Dreamtonics account and pre-order Synthesizer V Studio Pro and voice upgrades prior to the March 21st launch. Instructions for using the new account system can be found at this page.
+01 指南：升级到版本 2
+
+Dreamtonics 很高兴地宣布 Synthesizer V Studio 2 Pro 即将发布，计划于 2025 年 3 月 21 日发布。此次重大升级在音质和处理速度方面取得了显著进步，使用户能够在项目中实现更高的真实感和表现力。
+
+这次重大升级还引入了一套专为精确微调人声而设计的新工具。这些增强功能使用户可以精细控制人声表演的各个方面。
+
+Synthesizer V Studio Pro 的现有用户有资格以折扣价升级到版本 2。有关编辑器软件和单个语音数据库升级定价的详细信息，请参阅此处。
+
+Synthesizer V Studio 2 Pro 将过渡到基于用户帐户的新许可证管理系统。鼓励用户在 3 月 21 日发布之前注册 Dreamtonics 帐户并预订 Synthesizer V Studio Pro 和语音升级。您可以在本页面找到使用新帐户系统的说明。
+
+New Features in Synthesizer V Studio 2 Pro
+Watch our preview video for an in-depth look at the exciting new features in Synthesizer V Studio 2 Pro.
+
+Synthesizer V Studio 2 Exclusive Preview Video >>
+
+Enhanced Voice Quality and Dynamics
+The updated models in Synthesizer V Studio 2 Pro more accurately replicate human-like voice dynamics, resulting in a greater sense of presence with finer details. This improvement is achieved without compromising on pronunciation and pitch accuracy. Additionally, the preserved dynamics enable AI Retakes to generate more diverse options, giving users more choices to achieve their desired pattern.
+
+Massive Optimizations
+Thanks to improved algorithm design and enhanced multi-threading support, Synthesizer V Studio 2 Pro renders up to 300% faster than its predecessor. This significant speed boost is achieved without requiring a dedicated GPU or acceleration hardware, allowing for seamless offline use.
+
+Phoneme Timing Panel
+The new Phoneme Timing panel allows for direct resizing and adjustment of phoneme intensity within a note. For certain consonants, the panel offers precise control beyond phoneme-level, enabling detailed adjustments to timing and prominence of plosive onsets.
+
+
+Enhanced Vocal Modes
+Upgraded Synthesizer V voices now feature more distinct Vocal Modes, with the ability to assign separate modes to pitch, timbre, and pronunciation. This allows users to create nuanced singing styles by combining different modes, such as pairing a "powerful" pitch with a "belting" timbre and a "soft" pronunciation. By decoupling these elements, users can craft significantly more realistic, emotionally expressive vocals that perfectly suit the tone and style of their music.
+
+
+Expression Pad and Timing AI Retakes
+AI Retakes is now integrated into the Notes panel, allowing for single-click retakes of phoneme timing in addition to existing functionality. The Expression Pad offers a convenient way to modulate pitch generation behavior.
+
+
+Smart Pitch Controls
+The new Smart Pitch Controls system enables users to quickly and intuitively shape pitch expressions with precision. By inputting key locations for desired pitch changes, the system generates natural-sounding curves that accurately reflect the user's intentions in near real-time. This intuitive tool allows regular users to achieve nuanced pitch expressions with minimal editing, while also empowering power users to create complex, realistic singing styles.
+
+
+Mouth Opening Parameter
+A new parameter, the first of its kind, has been added to upgraded voices: Mouth Opening, which fundamentally alters vowel pronunciation. This intuitive control allows users to accentuate specific words, or subtly modify the way a phrase begins or ends, adding depth and expressiveness to their synthesized vocals.
+
+
+Korean Support
+Synthesizer V Studio 2 Pro introduces support for Korean as a new voice synthesis language. Additionally, Korean will be available as a cross-lingual synthesis language option for all upgraded voices.
+
+
+Using Synthesizer V Studio 2 Pro with version 1 Voice Databases
+Synthesizer V Studio 2 Pro will be compatible with your existing version 1 voices through dedicated compatibility updates. These updates are scheduled for release on March 21st, 2025.
+
+To access these updates and unlock the full potential of Synthesizer V Studio 2 Pro, please create a dedicated Dreamtonics account and register your existing products.
+
+Compatibility updates do not support all of the new features introduced in version 2. For detailed information on feature compatibility, please refer to the table below:
+
+Feature	Support Status by Compatibility Updates (from version 1 voices)
+Quality and Speed improvements	Moderate improvements
+Vocal Modes	Limited to timbre; no support for pitch/pronunciation
+Phoneme Timing Panel	Limited to phoneme timing and strength; no support for detailed consonant timings
+Expression Pad	Limited effectiveness
+AI Retakes	Limited effectiveness for timbre retakes; no support for timing retakes
+Smart Pitch Controls	No support for Smart control points; curves drawn by the user will override the pitch without affecting the surroundings.
+Mouth Opening Parameter	No support
+Cross-Lingual Synthesis for Korean	No support
+
+Status of Synthesizer V Studio Pro version 1
+Existing users will continue to enjoy full functionality of the version 1 editor and voice databases even after the launch of Synthesizer V Studio 2 Pro.
+
+We believe in providing ongoing support for our valued users, so you'll be able to install and access both versions 1 and 2 on the same device. This allows for a seamless transition at your own pace while preserving access to your familiar workflow and voice databases.
+
+Synthesizer V Studio 2 Pro 中的新功能
+观看我们的预览视频，深入了解 Synthesizer V Studio 2 Pro 中令人兴奋的新功能。
+
+Synthesizer V Studio 2 独家预览视频 >>
+
+增强的语音质量和动态
+Synthesizer V Studio 2 Pro 中更新的模型更准确地复制了类似人类的语音动态，从而产生更逼真的临场感和更精细的细节。这一改进是在不影响发音和音调准确性的情况下实现的。此外，保留的动态使 AI 重拍能够生成更多样化的选项，为用户提供更多选择来实现他们想要的模式。
+
+大规模优化
+得益于改进的算法设计和增强的多线程支持，Synthesizer V Studio 2 Pro 的渲染速度比其前代产品快 300%。这种显著的速度提升无需专用 GPU 或加速硬件即可实现，从而实现无缝离线使用。
+
+音素计时面板
+新的音素计时面板允许直接调整音符的大小和调整音素强度。对于某些辅音，面板提供超出音素级别的精确控制，可以对爆破音的开始时间和突出程度进行详细调整。
+
+增强的声乐模式
+升级后的 Synthesizer V 声音现在具有更独特的声乐模式，能够为音高、音色和发音分配单独的模式。这允许用户通过组合不同的模式来创建细微的演唱风格，例如将“强劲”的音高与“高亢”的音色和“柔和”的发音配对。通过分离这些元素，用户可以制作出更加逼真、情感表达力更强的声音，完美地适合他们音乐的音调和风格。
+
+表情板和定时 AI 重录
+AI 重录现已集成到 Notes 面板中，除了现有功能外，还允许单击重录音素定时。表情板提供了一种调节音高生成行为的便捷方式。
+
+智能音高控制
+新的智能音高控制系统使用户能够快速直观地精确塑造音高表达。通过输入所需音高变化的关键位置，系统会生成听起来自然的曲线，这些曲线几乎实时地准确反映用户的意图。这种直观的工具允许普通用户以最少的编辑实现细微的音高表达，同时还使高级用户能够创建复杂、逼真的演唱风格。
+
+嘴巴张开参数
+升级后的声音中添加了一个新参数，这是同类中的第一个：嘴巴张开，它从根本上改变了元音发音。这种直观的控制允许用户强调特定的单词，或巧妙地修改短语的开始或结束方式，为合成的声音增加深度和表现力。
+
+韩语支持
+Synthesizer V Studio 2 Pro 引入了对韩语的支持，作为一种新的语音合成语言。此外，韩语将作为所有升级后的声音的跨语言合成语言选项提供。
+
+将 Synthesizer V Studio 2 Pro 与版本 1 语音数据库一起使用
+Synthesizer V Studio 2 Pro 将通过专用的兼容性更新与您现有的版本 1 语音兼容。这些更新计划于 2025 年 3 月 21 日发布。
+
+要访问这些更新并释放 Synthesizer V Studio 2 Pro 的全部潜力，请创建专用的 Dreamtonics 帐户并注册您现有的产品。
+
+兼容性更新不支持版本 2 中引入的所有新功能。有关功能兼容性的详细信息，请参阅下表：
+
+兼容性更新的功能支持状态（从版本 1 的声音开始）
+质量和速度改进 中等改进
+人声模式 仅限于音色；不支持音高/发音
+音素计时面板 仅限于音素计时和强度；不支持详细的辅音计时
+表情板 效果有限
+AI 重录 音色重录的效果有限；不支持计时重录
+智能音高控制 不支持智能控制点；用户绘制的曲线将覆盖音高而不会影响周围环境。
+口型参数 不支持
+韩语跨语言合成 不支持
+
+Synthesizer V Studio Pro 版本 1 的状态
+即使在 Synthesizer V Studio 2 Pro 发布后，现有用户仍可继续享受版本 1 编辑器和语音数据库的全部功能。
+
+我们致力于为尊贵的用户提供持续支持，因此您将能够在同一设备上安装和访问版本 1 和版本 2。这样，您就可以按照自己的节奏无缝过渡，同时保留对熟悉的工作流程和语音数据库的访问。
+
+
+
+
