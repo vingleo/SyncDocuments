@@ -1,0 +1,2327 @@
+Sony Portable MiniDisc Recorder
+MZ-R91
+
+#########################################
+
+WARNING
+
+To prevent fire or shock hazard, do not expose the unit to rain or moisture.
+To avoid electrical shock, do not open the cabinet. Refer servicing to qualified personnel only.
+
+Do not install the appliance in a confined space, such as a bookcase or built-in cabinet.
+
+Caution
+The use of optical instruments with this product will increase eye hazard.
+CAUTION — INVISIBLE LASER RADIATION WHEN OPEN AVOID EXPOSURE TO BEAM
+
+Information
+For customers in the USA DISPOSAL OF NICKEL METAL HYDRIDE BATTERY.
+NICKEL METAL HYDRIDE BATTERY.
+DISPOSE OF PROPERLY.
+You can return your unwanted nickel metal hydride batteries to your nearest Sony Service Center.
+Note: In some areas the disposal of nickel metal hydride batteries in household or business trash may be prohibited.
+For the Sony Service Center nearest you call 1-800-222-SONY (United States only).
+Caution: Do not handle damaged or leaking nickel metal hydride battery.
+
+This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to Part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates, uses, and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications. However, there is no guarantee that interference will not occur in a particular installation. If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures: — Reorient or relocate the receiving antenna.
+
+— Increase the separation between the equipment and receiver.
+— Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
+— Consult the dealer or an experienced radio/TV technician for help.
+
+You are cautioned that any changes or modifications not expressly approved in this manual could void your authority to operate this equipment.
+
+The built-in battery should be replaced by qualified personnel only.
+
+IN NO EVENT SHALL SELLER BE LIABLE FOR ANY DIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY NATURE, OR LOSSES OR EXPENSES RESULTING FROM ANY DEFECTIVE PRODUCT OR THE USE OF ANY PRODUCT.
+
+Owner’s Record
+The serial number is located at the rear of the disc compartment lid and the model number is located at the top and bottom.
+
+Record the serial number in the space provided below. Refer to them whenever you call upon your Sony dealer regarding this product.
+
+Model No. MZ-R90/R91 Serial No.
+
+For Customers in Australia If the supply cord of the AC power adaptor is damaged, the AC power adaptor must be returned to the manufacturer or his agent for the cord to be replaced.
+
+“MD WALKMAN” is a trademark of Sony Corporation.
+
+Welcome!
+Welcome to the world of the MiniDisc!
+
+Here are some of the capabilities and features you’ll discover with the new MiniDisc Recorder.
+
+• Recording MD Walkman in an ultra-compact body — Almost as small as a playback-only MD Walkman; easy to carry in your pocket or bag.
+
+• Ultra-light body (MZ-R90) — Magnesium lid for extra lightness.
+
+• Ultra-compact body (MZ-R91) — Fashionable design and colors.
+
+• Low power consumption design — Less drain and the longer service life for the rechargeable battery.
+
+• 9-letter, backlit LCD remote control with editing capabilities — You can now label tracks and discs, change track sequence, etc., with the easy-to-operate stick remote control.
+
+欢迎！
+欢迎来到 MiniDisc 的世界！
+
+以下是您将在新款 MiniDisc 录音机上发现的一些功能和特性。
+
+• 超小型机身中的录音 MD Walkman — 几乎与仅播放的 MD Walkman 一样小；可轻松放入口袋或包中携带。
+
+• 超轻机身 (MZ-R90) — 镁质盖子，更加轻便。
+
+• 超小型机身 (MZ-R91) — 时尚的设计和颜色。
+
+• 低功耗设计 — 充电电池耗电更少，使用寿命更长。
+
+• 具有编辑功能的 9 字母背光 LCD 遥控器 — 现在，您可以使用易于操作的摇杆遥控器标记曲目和光盘、更改曲目顺序等。
+
+• Simultaneous labeling feature — No more waiting for the recording to end; you can label tracks and discs while the MD is being recorded.
+
+• Phrase bank function — Phrases that you often use in track or disc names can be stored in the recorder’s memory and retrieved whenever you need them.
+
+• Copying CD text — If you use a CD text connecting cord (not supplied) to connect a Joint Text-compatible portable CD player to the recorder, CD text data (such as track and disc names) on the CD that is compatible to CD- TEXT display will be recorded automatically during recording.
+
+• Shock-resistant memory — Offsets up to 40 seconds of optical read errors.
+
+• High-fidelity recording — Low-noise, low-distortion, high-fidelity recording through the optical digital input jack.
+
+• Digital synchro-recording — When recording from a digital equipment with optical output, the recorder automatically starts and pauses recording in sync with operation on the digital source.
+
+• Digital REC level control.
+
+• Long-time recording with monaural sound — You can record up to 160 minutes (when using 80 minutes recordable MD) on a disc using monaural recording.
+
+• Date and time stamp function — The built-in clock automatically records the date and time whenever you make a recording.
+
+• Digital AGC (Auto Gain Control) — Automatic recording level adjustment without sacrificing superb digital sound.
+
+• 同步标记功能 — 无需等待录音结束；您可以在录制 MD 时标记曲目和光盘。
+
+• 短语库功能 — 您经常在曲目或光盘名称中使用的短语可以存储在录音机的内存中，并在需要时检索。
+
+• 复制 CD 文本 — 如果您使用 CD 文本连接线（未提供）将兼容联合文本的便携式 CD 播放器连接到录音机，则在录音过程中会自动录制与 CD-TEXT 显示兼容的 CD 上的 CD 文本数据（如曲目和光盘名称）。
+
+• 防震内存 — 最多可补偿 40 秒的光学读取错误。
+
+• 高保真录音 — 通过光学数字输入插孔进行低噪音、低失真、高保真录音。
+
+• 数字同步录音 — 当从具有光学输出的数字设备录音时，录音机会自动与数字源上的操作同步开始和暂停录音。
+
+• 数字 REC 电平控制。
+
+• 单声道长时间录音 — 使用单声道录音，您可以在光盘上录制长达 160 分钟（使用 80 分钟可录 MD 时）。
+
+• 日期和时间戳功能 — 每次录音时，内置时钟都会自动记录日期和时间。
+
+• 数字 AGC（自动增益控制） — 自动调整录音电平，不会牺牲出色的数字声音。
+
+#########################################
+This manual is for models MZ- R90 and MZ-R91.
+
+The MZ-R90 appears in the instructions for illustration purposes. Though they differ in appearance, the models share the same functions and are operated in the same way.
+
+For detailed specifications, see page 50.
+
+How to use the jog lever.
+
+The jog lever can be used to perform various operations during playback, recording, and editing, as well as when the recorder is stopped. Flip the jog lever to select an item in the display. Then press the jog lever to enter your selection.
+
+About the i/LINE OUT jack on the recorder.
+
+The parameter (“AUDIO OUT”) for the i/LINE OUT jack must be set to “HeadPhone” if you want to connect headphones other than the supplied set, or to “LINE OUT” if you want to connect another component to the recorder through a line cable. There is no need to make this when using the supplied headphones with remote control since it is done automatically.
+
+To set the “AUDIO OUT” parameter for the i/LINE OUT jack, do the following procedure: 1 Press the jog lever, flip until “AUDIO OUT” flashes in the display, and then press the lever again.
+
+2 Flip the jog lever until “HeadPhone” or “LINE OUT” flashes in the display.
+
+3 Press the jog lever when the item you want to select is flashing.
+
+Notes • When the “AUDIO OUT” parameter is set to “LINE OUT”, the VOL +/– buttons and the Mega Bass function become inoperative. To make them operative, set the “AUDIO OUT” parameter to “HeadPhone”.
+
+      • The “AUDIO OUT” parameter is automatically set to “HeadPhone” when you turn off the power.
+	  
+本手册适用于 MZ-R90 和 MZ-R91 型号。
+
+说明书中出现的 MZ-R90 仅用于说明目的。尽管外观不同，但这些型号具有相同的功能并以相同的方式操作。
+
+有关详细规格，请参阅第 50 页。
+
+如何使用摇杆。
+
+摇杆可用于在播放、录制和编辑期间以及录音机停止时执行各种操作。翻转摇杆以选择显示屏中的项目。然后按下摇杆输入您的选择。
+
+关于录音机上的 /LINE OUT 插孔。
+
+如果您想连接除随附耳机以外的耳机，则必须将 /LINE OUT 插孔的参数（“AUDIO OUT”）设置为“HeadPhone”，如果您想通过线路电缆（Line）将另一个组件连接到录音机，则必须将其设置为“LINE OUT”。使用带遥控器的随附耳机时无需进行此操作，因为它会自动完成。
+
+要为 /LINE OUT 插孔设置“AUDIO OUT”参数，请执行以下步骤：
+1 按下微调杆，翻页直到显示屏上“AUDIO OUT”闪烁，然后再次按下微调杆。
+
+2 翻转微调杆，直到显示屏上“HeadPhone”或“LINE OUT”闪烁。
+
+3 当您要选择的项目闪烁时，按下微调杆。
+
+注意 • 当“AUDIO OUT”参数设置为“LINE OUT”时，VOL +/– 按钮和 Mega Bass 功能将不起作用。要使它们起作用，请将“AUDIO OUT”参数设置为“HeadPhone”。
+
+• 关闭电源时，“AUDIO OUT”参数会自动设置为“HeadPhone”。
+
+#########################################
+		Table of contents
+Recording an MD right away! ...........................8
+Playing an MD right away! ..............................11
+Various ways of recording ..............................14
+Two ways of connecting to a sound source ..........................................14
+Recording with digital (optical) input (optical cable required) ............15
+To start/stop recording in sync with the source player (Synchro-recording) ...............16
+Recording from a microphone ..............................................................17
+Recording in monaural for double the normal recording time .............17
+Adjusting the recording level manually (Manual recording) ................18
+Checking the remaining time or the recording position .......................19
+On the recorder ...............................................................................19
+On the remote control .....................................................................21
+Setting the clock to stamp the recorded time ........................................22
+Copying CD text information while recording (Joint Text) ................23
+Various ways of playback ..............................25
+Selecting a track directly ..............................................................25
+Playing tracks repeatedly ......................................................................25
+On the recorder ...............................................................................25
+On the remote control .....................................................................26
+Emphasizing bass (DIGITAL MEGA BASS) ......................................27
+Protecting your hearing (AVLS) ...........................................................27
+Checking the remaining time or the playing position ...........................28
+On the recorder ...............................................................................28
+On the remote control .....................................................................29
+Locking the controls (HOLD) ...............................................................29
+Connecting to a stereo system (LINE OUT) ........................................30
+Editing recorded tracks ..................................31
+Erasing tracks ........................................................................... 31
+To erase a track .............................................................................. 31
+To erase the whole disc .................................................................. 31
+Adding a track mark ...................................................................... 32
+Erasing a track mark ..................................................................... 32
+Moving recorded tracks ....................................................................... 33
+On the recorder .............................................................................. 33
+On the remote control .................................................................... 33
+Labeling recordings ...................................................................... 34
+On the recorder .............................................................................. 34
+On the remote control .................................................................... 35
+Storing phrases frequently used in labeling (Phrase Bank) ................. 37
+On the recorder ............................................................................. 37
+On the remote control .................................................................... 38
+Power sources ................................................40
+Charging the nickel metal hydride rechargeable battery ..................... 40
+Using on a nickel metal hydride rechargeable battery ......................... 41
+Using dry battery ....................................................................... 41
+Additional information ....................................42
+Precautions .......................................................................... 42
+Troubleshooting ...................................................................... 44
+System limitations ................................................................... 46
+Messages ............................................................................. 47
+Specifications ....................................................................... 50
+What is an MD? ....................................................................... 51
+Looking at the controls .............................................................. 53	  
+
+立即录制 MD！................................8
+立即播放 MD！ ................................11
+各种录音方式 ..................................14
+连接声源的两种方式 ..............................................14
+使用数字（光纤）输入录音（需要光纤电缆） ........................15
+与源播放器同步开始/停止录音（同步录音） ........................16
+从麦克风录音 ......................................................................17
+以单声道录音，使正常录音时间增加一倍 ........................17
+手动调整录音电平（手动录音） .............................................18
+检查剩余时间或录音位置 .............................................19
+在录音机上 .............................................................................19
+在遥控器上 .............................................................................21
+设置时钟以标记录音时间 .............................................................22
+在录音的同时复制 CD 文本信息（联合文本） .............................................23
+各种播放方式 .............................................................25
+直接选择曲目 .............................................................................25
+重复播放曲目 .............................................................................25
+在录音机上...........................................................................25
+在遥控器上 ................................................................................26
+强调低音（DIGITAL MEGA BASS） ..............................................27
+保护您的听力（AVLS） ........................................................................27
+检查剩余时间或播放位置 .............................................................28
+在录音机上 ......................................................................................28
+在遥控器上 ......................................................................................29
+锁定控件（HOLD） .............................................................................29
+连接到立体声系统（LINE OUT） .............................................30
+编辑录制的曲目 .............................................................31
+擦除曲目 .......................................................................31
+要擦除曲目 ...........................................................................31
+要擦除整张光盘 ............................................................................31
+添加曲目标记 ...........................................................................32
+擦除曲目标记 ...........................................................................32
+移动录制的曲目 ............................................................................33
+在录音机上 ...............................................................................33
+在遥控器上.................................................................... 33
+标记录音 ................................................................................ 34
+关于录音机 ................................................................................ 34
+关于遥控器 ................................................................................ 35
+存储标记中经常使用的短语（短语库） ................................ 37
+关于录音机 ................................................................................ 37
+关于遥控器 ................................................................................ 38
+电源 ............................................................................. 40
+给镍氢充电电池充电 ............................................................. 40
+使用镍氢充电电池 ............................................................. 41
+使用干电池 ............................................................................. 41
+附加信息 ............................................................................. 42
+注意事项 ............................................................................. 42
+故障排除 ............................................................................. 44
+系统限制 ............................................................................. 46
+消息 ............................................................................. 47
+规格 ............................................................................. 50
+什么是 MD？ ........................................................................... 51
+查看控制器 ...................................................................... 53
+
+#########################################
+	Recording an MD right away!
+	立即录制 MD！
+The sound will be sent from the connected equipment as analog signal but will be recorded digitally on the disc. To record from a digital source, see “Recording with digital (optical) input (optical cable required)” (page 15). To record from an MD, see “Note on digital recording” (page 43).
+声音将以模拟信号的形式从所连接设备发送，但将以数字方式录制在光盘上。要从数字源录制，请参阅“使用数字（光纤）输入录制（需要光纤电缆）”（第 15 页）。要从 MD 录制，请参阅“数字录制注意事项”（第 43 页）。
+
+1 Make connections. (Insert the cables firmly and completely into the appropriate jacks.)
+1 进行连接。（将电缆牢固且完全地插入适当的插孔。）
+
+● Use the connecting cords without an attenuator. To connect to a portable CD player having a stereo mini-jack, use the RK-G136 connecting cord (not supplied).
+● 使用不带衰减器的连接线。要连接到带有立体声迷你插孔的便携式 CD 播放器，请使用 RK-G136 连接线（不附带）。
+
+2 Insert a recordable MD.
+ 1) Slide OPEN to open the lid. 
+ 2) Insert a recordable MD with the label side facing up, and press the lid down to close
+2 插入可录制的 MD。
+ 1) 滑动 OPEN 打开盖子。
+ 2) 插入可录制的 MD，标签面朝上，然后按下盖子关闭
+
+3 Record an MD.
+1 Slide REC to the right.
+
+“REC” lights up and recording starts.
+
+2 Play the CD or tape you want to record.
+
+To stop recording, press x.
+
+After you press x, the recorder will automatically turn off in about 10 seconds (when using batteries) or about 5 minutes (when using AC power adaptor).
+
+Notes • “Data Save” or “TOC Edit” flashes while data of the recording (the track’s start and end points, etc.) is being recorded. Do not move or jog the recorder or disconnect the power source while the indication is flashing in the display.
+      • The lid does not open until “TOC Edit” disappears in the display.
+	  
+2 插入可录制的 MD。
+1) 滑动 OPEN 打开盖子。
+2) 插入可录制的 MD，标签面朝上，然后按下盖子关闭
+2 插入可录制的 MD。
+1) 滑动 OPEN 打开盖子。
+2) 插入可录制的 MD，标签面朝上，然后按下盖子关闭
+
+3 录制 MD。
+1 将 REC 滑动到右侧。
+“REC”亮起，开始录制。
+
+2 播放要录制的 CD 或磁带。
+要停止录制，请按 x。
+
+按 x 后，录音机将在约 10 秒（使用电池时）或约 5 分钟（使用交流电源适配器时）后自动关闭。
+
+注意 • 录制数据（曲目的起点和终点等）时，“Data Save”或“TOC Edit”闪烁。显示屏上指示闪烁时，请勿移动或慢速移动录音机或断开电源。
+• 直到显示屏上的“TOC Edit”消失后，盖子才会打开。
+
+To 														Press
+Record from the end of the previous recording				END SEARCH and slide REC.
+Record partway through the previous recording			to find the start point of recording and Pause													1) Press X again to resume recording.
+Remove the MD 										and open the lid. 2) (The lid does not open
+while “TOC Edit” flashing in the display.)
+
+按下 END SEARCH 并滑动 REC，从上一次录音的结尾开始录音。 录制上一次录音的一部分以找到录音的起点并暂停 再次按下 X 恢复录音。 取出 MD 并打开盖子。 2)（当显示屏上闪烁“TOC Edit”时，盖子不会打开。）
+
+1) A track mark is added at the point where you press again to resume recording while pausing; thus
+the remainder of the track will be counted as a new track.
+2) Once you open the lid, the point to start recording will change to the beginning of the first track. Check the point to start recording on the display.
+
+1) 在暂停时再次按下以恢复录音的位置会添加曲目标记；因此曲目的剩余部分将被视为新曲目。
+2) 打开盖子后，开始录音的位置将变为第一首曲目的开头。检查显示屏上的开始录音的位置。
+
+If the recording does not start
+• Make sure the recorder is not locked (page 29).
+
+• Make sure the MD is not record-protected (page 43).
+
+• Premastered MDs cannot be recorded over.
+
+For the models supplied with the AC plug adaptor If the AC power adaptor does not fit the wall outlet, use the AC plug adaptor.
+
+Note If the power supply is disrupted (i.e. the battery is removed or becomes exhausted or the AC power adaptor is disconnected) during a recording or editing operation, or while “TOC Edit” appears in the display, then it will not be possible to open the lid until power is restored.
+
+z • The level of the recorded sound is adjusted automatically.
+
+• You can monitor the sound during recording.
+
+Connect the supplied headphones with remote control to i/LINE OUT and adjust the volume by pressing VOL +/–. This does not affect the recording level.
+
+如果录音没有开始
+• 确保录音机未锁定（第 29 页）。
+
+• 确保 MD 没有录音保护（第 43 页）。
+
+• 无法覆盖预制的 MD。
+
+对于配备 AC 插头适配器的型号 如果 AC 电源适配器与墙壁插座不匹配，请使用 AC 插头适配器。
+
+注意 如果在录音或编辑操作期间电源中断（即电池取出或耗尽，或 AC 电源适配器断开），或者显示屏上出现“TOC Edit”，则在电源恢复之前无法打开盖子。
+
+z • 录音音量会自动调整。
+
+• 您可以在录音期间监听声音。
+
+将附带的带遥控器的耳机连接到 i/LINE OUT，然后按 VOL +/– 调整音量。这不会影响录音音量。
+
+#########################################
+	Playing an MD right away!
+To use the recorder on a rechargeable battery or dry batteries, see “Power sources” (page 40).	
+
+1 Make connections. (Insert the cables firmly and completely into the appropriate jacks.)
+Headphones with a remote control (supplied) Wear the earpiece marked R in your right ear and the one marked L in your left ear.
+
+2 Insert an MD.
+①Slide OPEN to open the lid. ②Insert an MD with the label side facing up, and press the lid down to close.
+
+3 Play an MD.
+1 Press  (Press the control towards N • > on the remote control).
+A short beep sounds in the headphones when you operate on the remote control.
+2 Press VOL +/– to adjust the volume.
+The volume will be shown in the display.
+To stop play, press x.
+A long beep sounds in the headphones when you operate on the remote control.
+Playback starts from the point you last stopped playing.
+After you press x, the recorder will automatically turn off in about 10 seconds (when using batteries) or about 5 minutes (when using AC power adaptor).
+
+立即播放 MD！
+要使用充电电池或干电池为录音机供电，请参阅“电源”（第 40 页）。
+
+1 进行连接。（将电缆牢固地完全插入相应的插孔。）
+带遥控器的耳机（随附）将标有 R 的耳机戴在右耳，将标有 L 的耳机戴在左耳。
+
+2 插入 MD。
+①滑动 OPEN 打开盖子。 ②将标签面朝上插入 MD，然后向下按盖子关闭。
+
+3 播放 MD。
+1 按下（将遥控器上的控件朝  > 方向按下）。
+操作遥控器时，耳机中会发出短促的哔声。
+2 按 VOL +/– 调整音量。
+音量将显示在显示屏上。
+要停止播放，请按 x。
+操作遥控器时，耳机中会发出长哔声。
+播放从您上次停止播放的位置开始。
+按 x 后，录音机将在约 10 秒（使用电池时）或约 5 分钟（使用交流电源适配器时）后自动关闭。
+
+表格略
+
+1) To go backward or forward quickly without listening, press X and keep pressing . or > (press
+and hold the control towards . or N • > on the remote control).
+2) Once you open the lid, the point to start play will change to the beginning of the first track.
+
+1) 要在不收听的情况下快速后退或前进，请按 || 并继续按 |<< 或 >>|（按住遥控器上的 |<< 或 >>| 按钮）。
+2) 打开盖子后，开始播放的位置将更改为第一首曲目的开头。
+
+If the play does not start
+Make sure the recorder is not locked (page 29).
+
+When using optional headphones
+• Use only headphones with stereo mini plugs.
+You cannot use headphones with micro plugs.
+• The VOL +/– buttons and the Mega Bass function may become inoperative. In this case, do the procedure below.
+1 Press the jog lever, flip the jog lever until “AUDIO OUT” flashes in the display, and then press the lever again. “LINE OUT” flashes in the display.
+2 Flip the jog lever until “HeadPhone” appears in the display.
+3 Press the jog lever again.
+
+Playback will switch automatically between stereo and monaural according to the sound source.
+Notes
+• The sound may skip during playback when the recorder is exposed to continuous vibration, such as while jogging.
+• If the power supply is disrupted (i.e. the battery is removed or becomes exhausted or the AC power adaptor is disconnected) when the recorder is operating, the lid may not open until the power is restored.
+
+如果播放未开始
+请确保录音机未锁定（第 29 页）。
+
+使用可选耳机时
+• 仅使用带立体声迷你插头的耳机。
+您不能使用带微型插头的耳机。
+• VOL +/– 按钮和 Mega Bass 功能可能不起作用。在这种情况下，请执行以下步骤。
+1 按下摇杆，翻转摇杆直到显示屏上闪烁“AUDIO OUT”，然后再次按下摇杆。显示屏上闪烁“LINE OUT”。
+2 翻转摇杆直到显示屏上出现“HeadPhone”。
+3 再次按下摇杆。
+
+播放将根据声源自动在立体声和单声道之间切换。
+注意
+• 当录音机受到持续振动（例如慢跑时）时，播放过程中可能会跳过声音。
+• 如果在录音机操作过程中电源中断（例如，电池被取出或耗尽，或者交流电源适配器被断开），则盖子可能无法打开，直到电源恢复。
+
+#########################################
+	Various ways of recording
+
+Two ways of connecting to a sound source
+The input jack of this recorder works as both digital and analog input jacks. Connect the recorder to a CD player or a cassette recorder using either digital (optical) input or analog (line) input. To record, see “Recording with digital (optical) input (optical cable required)” (page 15) to record using digital (optical) input, and “Recording an MD right away!” (page 8) to record using analog (line) input.
+
+Difference between digital (optical) and analog (line) inputs
+
+各种录音方式
+
+连接音源的两种方式
+本录音机的输入插孔既可用作数字输入插孔，也可用作模拟输入插孔。使用数字（光纤）输入或模拟（线路）输入将录音机连接到 CD 播放器或盒式录音机。要录音，请参阅“使用数字（光纤）输入录音（需要光纤电缆）”（第 15 页）以使用数字（光纤）输入录音，以及“立即录制 MD！”（第 8 页）以使用模拟（线路）输入录音。
+
+数字（光纤）和模拟（线路）输入之间的差异
+Difference	|	Digital (optical) input 	|	Analog (line) input
+Connectable source|Equipment with a digital (optical) output jack|Equipment with an analog (line) output jack
+Usable cord |Optical cable (with an optical or an optical-mini plug)(page 15) |Line cable (with 2 phono plugs or a stereo-mini plug)(page 8)
+Signal from the source|Digital| Analog Even when a digital source (such as a CD) is connected, the signal sent to the recorder is analog.
+
+Recorded track numbers(Digital)
+Marked (copied) automatically • at the same positions as the source.
+• after more than 2 seconds of blank or low-level segment 1) .
+• when the recorder is paused while recording.
+ou can erase unnecessary marks after recording. (“Erasing a track mark”, page 32).
+
+Recorded track numbers(Analog)
+Marked automatically 
+• after more than 2 seconds of blank or low-level segment.
+• when the recorder is paused while recording.
+You can erase unnecessary marks after recording (“Erasing a track mark”, page 32).
+
+Recorded sound level(Digital)
+Same as the source.
+Can also be adjusted manually (Digital REC level control) (“Adjusting the recording level manually (Manual recording)”, page 18).
+
+Recorded sound level(Analog)
+Adjusted automatically. Can also be adjusted manually (“Adjusting the recording level manually (Manual recording)”, page 18).
+
+1) When recording a CD or an MD, track numbers are automatically marked in the order of the original disc.
+
+Note
+Track marks may be copied incorrectly:
+• when you record from some CD players or multi disc players using digital (optical) input.
+• when the source is in shuffle or program play mode while recording using digital (optical) input. In this case, play the source in normal play mode.
+• when recording BS or CS programs through digital (optical) input.
+
+区别 | 数字（光纤）输入 | 模拟（线路）输入
+可连接源 | 带有数字（光纤）输出插孔的设备 | 带有模拟（线路）输出插孔的设备
+可用线 | 光纤电缆（带有光纤或光纤迷你插头）（第 15 页） | 线路电缆（带有 2 个唱机插头或立体声迷你插头）（第 8 页）
+源信号 | 数字 | 模拟 即使连接了数字源（如 CD），发送到录音机的信号也是模拟的。
+
+录制的曲目编号（数字）
+自动标记（复制） • 与源相同的位置。
+• 在超过 2 秒的空白或低电平段 1) 之后。
+• 录音时录音机暂停。
+您可以在录音后擦除不必要的标记。（“擦除曲目标记”，第 32 页）。
+
+录制的曲目编号（模拟）
+自动标记
+• 超过 2 秒的空白或低电平片段后。
+• 录音机在录音过程中暂停时。
+录制后，您可以删除不必要的标记（“删除曲目标记”，第 32 页）。
+
+录制的音量（数字）
+与源相同。
+也可以手动调整（数字 REC 电平控制）（“手动调整录音电平（手动录音）”，第 18 页）。
+
+录制的音量（模拟）
+自动调整。也可以手动调整（“手动调整录音电平（手动录音）”，第 18 页）。
+
+1) 录制 CD 或 MD 时，曲目编号将按照原始光盘的顺序自动标记。
+
+注意
+曲目标记可能被错误复制：
+• 使用数字（光学）输入从某些 CD 播放器或多碟播放器录制时。
+• 使用数字（光学）输入录制时，源处于随机播放或程序播放模式。在这种情况下，以正常播放模式播放源。
+• 通过数字（光学）输入录制 BS 或 CS 节目时。
+
+#########################################
+Recording with digital (optical) input (optical cable required)
+
+Connect to a digital source using an optical cable (POC-5B or POC-5AB, not supplied) to make digital recordings.
+Digital recording is possible even from digital equipment with different sampling rates, such as a DAT deck or a BS tuner, using the built-in sampling rate converter.
+
+Notes
+• You can make a digital recording only from an optical type output.
+• When recording from a portable CD player, play it on AC power and disable the anti-skip function (such as ESP*).
+• Digital output may be disabled on some portable CD players when the player is not run on AC power.
+∗ Electronic Shock Protection
+
+使用数字（光纤）输入进行录音（需要光纤电缆）
+
+使用光纤电缆（POC-5B 或 POC-5AB，不提供）连接到数字源以进行数字录音。
+使用内置采样率转换器，甚至可以从具有不同采样率的数字设备（例如 DAT 卡座或 BS 调谐器）进行数字录音。
+
+注意
+• 您只能从光纤类型输出进行数字录音。
+• 从便携式 CD 播放器录音时，请使用交流电播放并禁用防跳功能（例如 ESP*）。
+• 当播放器未使用交流电运行时，某些便携式 CD 播放器上的数字输出可能会被禁用。
+∗ 电子防震
+
+1 Insert a recordable MD and start recording.
+For recording operations, see “Recording an MD right away!” (page 8). To record from a portable CD player, set the CD player to pause and then start recording.
+
+1 插入可录制的 MD 并开始录制。
+有关录制操作，请参阅“立即录制 MD！”（第 8 页）。要从便携式 CD 播放器录制，请将 CD 播放器设置为暂停，然后开始录制。
+
+#########################################
+To start/stop recording in sync with the source player (Synchro-recording)
+
+You can easily make digital recordings of a digital source on an MD.
+Before synchro-recording, make connections to the digital source with a digital cable, and insert a recordable MD.
+
+1 Slide SYNCHRO REC to ON.
+“SYNC” appears in the display.
+“SYNC” doesn’t appear if optical cable is not connected to the recorder.
+2 Slide REC to the right.
+The recorder stands by for recording.
+3 Play the source sound.
+The recorder starts recording when it receives the playing sound.
+To stop recording, press ■.
+
+• You cannot pause manually during synchro- recording.
+• When there is no sound from the player for more than 3 seconds during synchro- recording, the recorder goes into the standby mode automatically. When the sound comes from the player again, the recorder resumes synchro-recording. If the recorder is kept in the standby mode for 5 minutes or longer, the recorder stops automatically.
+
+Notes • Do not switch SYNCHRO REC after step 3.
+
+Recording may not be done properly.
+• When recording in monaural, follow steps 1 to 3 of “Recording in monaural for double the normal recording time” (page 17), and then do steps 1 and 3 of synchro-recording.
+• Even when there is no recorded sound on the sound source, there may be cases when recording does not pause automatically during synchro-recording due to the noise level emitted from the sound source.
+• If a silent portion is encountered for 2 seconds or more during synchro-recording, a new track mark is automatically added at the point where the silent portion ends.
+• Synchro-recording cannot be done if the connecting cord is not an optical cable, or if the cable is connected to the MIC (PLUG IN POWER) jack.
+• You cannot adjust the recording level manually during synchro-recording.
+
+与源播放器同步开始/停止录音（同步录音）
+
+您可以轻松地在 MD 上对数字源进行数字录音。
+在同步录音之前，使用数字电缆连接到数字源，并插入可录制的 MD。
+
+1 将 SYNCHRO REC 滑动到 ON。
+显示屏上出现“SYNC”。
+如果光缆未连接到录音机，则不会出现“SYNC”。
+2 将 REC 滑动到右侧。
+录音机准备录音。
+3 播放源声音。
+录音机在收到播放声音时开始录音。
+要停止录音，请按 ■。
+
+• 同步录音期间无法手动暂停。
+• 同步录音期间，如果播放器超过 3 秒没有声音，录音机将自动进入待机模式。当播放器再次发出声音时，录音机恢复同步录音。如果录音机处于待机模式 5 分钟或更长时间，录音机将自动停止。
+
+注意 • 在步骤 3 之后，请勿切换 SYNCHRO REC。
+
+录音可能无法正常完成。
+• 单声道录音时，请按照“单声道录音时间增加一倍”（第 17 页）的步骤 1 至 3 进行操作，然后执行同步录音的步骤 1 和 3。
+• 即使声源上没有录音，由于声源发出的噪音水平，同步录音过程中也可能出现录音不会自动暂停的情况。
+• 如果在同步录音过程中遇到 2 秒或更长时间的静音部分，则会在静音部分结束的位置自动添加新的曲目标记。
+• 如果连接线不是光纤电缆，或者电缆连接到 MIC（PLUG IN POWER）插孔，则无法进行同步录音。
+• 同步录音期间无法手动调整录音电平。
+
+#########################################
+	Recording from a microphone	
+Connect a stereo microphone (ECM-717, ECM-MS907, ECM-MS957, etc.; not supplied) to the MIC (PLUG IN POWER) jack.
+
+1 Insert a recordable MD and start recording.
+Slide REC to the right.
+
+For other operations, see “Recording an MD right away!” (page 8).
+
+Notes • You cannot record through the microphone while an optical cable is connected to the LINE IN (OPTICAL) jack. The recorder automatically switches input in the following order; optical input, microphone input, and analog input.
+
+• The microphone may pick up the operating sound of the recorder itself. Use the microphone away from the recorder in such cases.
+
+通过麦克风录音
+将立体声麦克风（ECM-717、ECM-MS907、ECM-MS957 等；不附带）连接到 MIC（PLUG IN POWER）插孔。
+
+1 插入可录制的 MD 并开始录音。
+将 REC 滑到右侧。
+
+有关其他操作，请参阅“立即录制 MD！”（第 8 页）。
+
+注意 • 当光纤电缆连接到 LINE IN（OPTICAL）插孔时，您无法通过麦克风录音。录音机自动按以下顺序切换输入：光纤输入、麦克风输入和模拟输入。
+
+• 麦克风可能会拾取录音机本身的操作声音。在这种情况下，请将麦克风远离录音机使用。
+
+#########################################
+Recording in monaural for double the normal recording time 
+For longer recordings, choose to record in monaural. The recording time becomes double the normal.
+
+1 While pressing X, slide REC to the right.
+The recorder stands by for recording.
+2 Press the jog lever, flip until “REC MODE” flashes in the display, and then press the lever again.
+3 Flip the jog lever until “Mono REC” flashes in the display, and then press the lever.
+To switch back to stereo recording, press the lever while “Stereo REC” flashes in the display.
+4 Press X again to start recording.
+5 Play the sound source.
+
+To stop recording, press ■.
+The recorder switches back to stereo recording when you record the next time.
+Notes
+• If you record a stereo source in monaural, the sounds from left and right will be mixed.
+• You cannot record in monaural if SYNCHRO
+REC is slid to ON. If you are recording digital input, make sure to slide SYNCHRO REC to OFF before you begin recording.
+• The MDs recorded in monaural can be played back only with an MD player/recorder that has the monaural playing function.
+• Sound recorded through digital (optical) input can be monitored in stereo through headphones, etc.
+
+单声道录音，录音时间加倍
+如需更长的录音时间，请选择单声道录音。录音时间将变成正常时间的两倍。
+
+1 按住 || 键，向右滑动 REC。
+录音机准备录音。
+2 按下摇杆，翻转直到显示屏上闪烁“REC MODE”，然后再次按下摇杆。
+3 翻转摇杆，直到显示屏上闪烁“Mono REC”，然后按下摇杆。
+要切换回立体声录音，请在显示屏上闪烁“Stereo REC”时按下摇杆。
+4 再次按下 || 键开始录音。
+5 播放声源。
+
+要停止录音，请按 ■。
+下次录音时，录音机将切换回立体声录音。
+注意
+• 如果以单声道录制立体声源，则左右声音将混合。
+• 如果 SYNCHRO REC 滑动至 ON，则无法以单声道录制。如果您正在录制数字输入，请确保在开始录制之前将 SYNCHRO REC 滑动至 OFF。
+• 以单声道录制的 MD 只能使用具有单声道播放功能的 MD 播放器/录音机播放。
+• 通过数字（光学）输入录制的声音可以通过耳机等以立体声方式监听。
+
+#########################################
+	Adjusting the recording level manually (Manual recording)
+When you record, the sound level is adjusted automatically. If necessary, you can set the level manually.
+Note
+Adjust the recording level while the recorder is in standby mode. You cannot adjust it while recording.
+
+1 While holding down ||, slide REC to the right.
+The recorder stands by for recording.
+
+2 Press the jog lever, flip until “RecVolume” flashes in the display, and then press the lever again.
+
+3 Flip the jog lever until “ManualREC” flashes in the display, and then press the lever.
+To switch back to the automatic control, flip the jog lever until “Auto REC” flashes in the display, and then press the lever.
+
+4 Play the source.
+
+5 While observing the level meter in the display, adjust the recording level by flipping the jog lever or pressing > (+) or . (–).
+Set the level so that the level meter reaches around (–12 dB) mark beneath the display window.
+If the sound is too high, lower the recording level until the level meter just barely reaches the (OVER) mark beneath the display window.
+Recording doesn’t start in this step.
+If your source is an externally connected component, be sure to cue the source to the beginning of the material to be recorded before you start playback.
+
+6 Press X again to start recording.
+To stop recording, press x.
+The recording level control is switched back to automatic control when you record the next time.
+
+Notes • The recording level cannot be adjusted while recording is in progress. If you want to adjust the recording level after you have started the recording, press X to pause the recorder. Then do the procedure from step 5.
+
+• You cannot adjust the recording level manually during synchro-recording.
+
+
+
+手动调整录音音量（手动录音）
+录音时，音量会自动调整。如有必要，您可以手动设置音量。
+注意
+在录音机处于待机模式时调整录音音量。录音时无法调整。
+
+1 按住 || 的同时，向右滑动 REC。
+录音机准备录音。
+
+2 按下摇杆，翻转直到显示屏上闪烁“RecVolume”，然后再次按下摇杆。
+
+3 翻转摇杆直到显示屏上闪烁“ManualREC”，然后按下摇杆。
+要切换回自动控制，翻转摇杆直到显示屏上闪烁“Auto REC”，然后按下摇杆。
+
+4 播放源。
+
+5 观察显示屏上的电平表，通过拨动摇杆或按 >>| (+) 或 |<< (-) 调整录音电平。
+设置电平，使电平表达到显示窗口下方的 (-12 dB) 标记左右。
+如果声音太高，降低录音电平，直到电平表刚好达到显示窗口下方的 (OVER) 标记。
+此步骤不开始录音。
+如果您的源是外部连接的组件，请确保在开始播放之前将源提示到要录制的材料的开头。
+
+6 再次按 || 开始录音。
+要停止录音，请按 ■。
+下次录音时，录音电平控制将切换回自动控制。
+
+注意 • 录音过程中无法调整录音电平。如果您想在开始录音后调整录音电平，请按 || 暂停录音机。然后从步骤 5 开始执行。
+
+• 同步录音期间无法手动调整录音电平。
+
+#########################################
+	Checking the remaining time or the recording position
+You can check the remaining time, track
+number, etc. when recording or during
+stop.
+
+On the recorder
+
+1 While the recorder is recording or stopped, press the jog lever, flip until “DISPLAY” flashes in the display, and then press the lever again.
+2 Flip the jog lever until the information you want flashes in the display.
+Each time you flip the lever, the display changes as follows.
+Display window on the recorder
+
+While recording  A B 1)  C 2)
+1) Display order
+LapTime 1 3
+RecRemain 2 3
+Clock 3 3
+
+2) Number of displayed items
+1) Display order
+C 2)
+2) Number of displayed items
+
+3 Press the jog lever.
+The display changes as follows.
+Display window on the recorder
+
+While recording
+The display that appears on the remote control is different from the ones on the recorder. See “On the remote control” (page 21) to check the display that appears on the remote control.
+To know the recording condition The indicator lights up or flashes according to the recording condition.
+
+Whether you use the controls on the recorder or the remote control, the REC indicator lights up or flashes in the same way.
+
+If you want to check the playing position or track name while playing, see page 28.
+
+检查剩余时间或录音位置
+您可以在录音或停止期间检查剩余时间、曲目编号等。
+
+在录音机上
+
+1 在录音机录音或停止时，按下摇杆，翻转直到显示屏上闪烁“DISPLAY”，然后再次按下摇杆。
+
+2 转动摇杆，直到您想要的信息在显示屏上闪烁。
+
+每次翻转摇杆时，显示都会发生以下变化。
+录音机上的显示窗口
+
+录音时 A B 1) C 2)
+1) 显示顺序
+LapTime 1 3
+RecRemain 2 3
+Clock 3 3
+
+2) 显示项目数
+1) 显示顺序
+C 2)
+2) 显示项目数
+
+3 按下摇杆。
+显示会发生变化。
+录音机上的显示窗口
+
+录音时
+遥控器上显示的显示与录音机上的显示不同。请参阅“遥控器”（第 21 页）以检查遥控器上显示的画面。
+了解录音条件 指示灯根据录音条件亮起或闪烁。
+
+无论您使用录音机或遥控器上的按钮，REC 指示灯都会以相同的方式亮起或闪烁。
+
+如果您想在播放时检查播放位置或曲目名称，请参阅第 28 页。
+
+#########################################
+	On the remote control
+1 Press DISPLAY while recording or in stop mode.
+Each time you press the button, the display changes as follows.
+Display window on the remote control
+1) Appears only when the clock is set.
+
+In stop mode
+
+1) Appears only if the track has been labeled.
+Number of tracks in the disc Disc name 1)
+— Current time 2)
+2) Appears only when the clock is set.
+
+If you want to check the playing position or track name while playing, see page 29.
+
+• The display that appears on the recorder is different from the ones on the remote control.
+
+See “On the recorder” (page 19) to check the display that appears on the recorder.
+
+在遥控器上
+1 在录制或停止模式下按 DISPLAY。
+每次按下按钮时，显示都会发生以下变化。
+遥控器上的显示窗口
+1) 仅在设置时钟时显示。
+
+在停止模式下
+
+1) 仅在曲目已标记时显示。
+光盘中的曲目数 光盘名称 1)
+— 当前时间 2)
+2) 仅在设置时钟时显示。
+
+如果您想在播放时检查播放位置或曲目名称，请参阅第 29 页。
+
+• 录音机上显示的显示与遥控器上的显示不同。
+
+请参阅“在录音机上”（第 19 页）以检查录音机上显示的显示。
+
+#########################################
+Setting the clock to stamp the recorded time
+To stamp the date and time on the MD when you record, you first need to set the clock.
+Once you set the clock, the recorder will include a time stamp each you record something. If you don’t want to include a time stamp on the track, skip this operation.
+
+设置时钟以标记录制时间
+要在录制时在 MD 上标记日期和时间，首先需要设置时钟。
+设置时钟后，录音机将在每次录制时添加时间戳。如果您不想在曲目上添加时间戳，请跳过此操作。
+
+1 Connect the power source.
+Use the supplied AC power adaptor.
+2 Press the jog lever while no disc is inserted or the recorder is stopped.
+3 Flip the jog lever until “CLOCK SET” flashes in the display, and then press the lever.
+The digits of the year flash.
+4 Change the current year by flipping the jog lever, and then press the lever.
+The digit of the month flashes.
+5 Repeat step 4 to enter the current month, date, hour, and minute.
+When you press the jog lever to enter the minute, the clock starts operating.
+
+If you make a mistake while setting the clock
+Press x, and set the clock again from step 2. You can skip a step by pressing the jog lever.
+To display the current time
+When the recorder is not operating or while recording, press the jog lever, flip until “DISPLAY” appears in the display, and then press the lever again.
+
+Flip the jog lever until “CLOCK” flashes in the display, and then press the lever again. The current time appears in the display.
+
+To display the time in the 24- hour system While setting the clock, press X. To display the time in the 12-hour system, press X again.
+
+Charging the built-in battery for the clock When you use the recorder for the first time or after a long period of disuse, charge the built-in battery. After setting the clock, leave the recorder connected to the AC power for about 2 hours to charge the built-in battery. Once charged, the built-in battery should last about a month without connecting to any of the power sources. The recorder will automatically charge the built-in battery while connected to AC power, dry battery or a rechargeable battery.
+
+1 连接电源。
+使用提供的交流电源适配器。
+2 在没有插入光盘或录音机停止时按下摇杆。
+3 翻转摇杆直到显示屏上出现“CLOCK SET”，然后按下摇杆。
+年份的数字闪烁。
+4 翻转摇杆更改当前年份，然后按下摇杆。
+月份的数字闪烁。
+5 重复步骤 4 输入当前月份、日期、小时和分钟。
+按下摇杆输入分钟时，时钟开始运行。
+
+如果在设置时钟时出错
+按 ■，然后从步骤 2 重新设置时钟。按下摇杆可以跳过一步。
+显示当前时间
+当录音机未运行或正在录制时，按下摇杆，翻转直到显示屏上出现“DISPLAY”，然后再次按下摇杆。
+
+拨动摇杆，直到显示屏上闪烁“CLOCK”，然后再次按下摇杆。显示屏上将显示当前时间。
+
+要以 24 小时制显示时间，请设置时钟时按 || 。要以 12 小时制显示时间，请再次按 ||。
+
+为时钟的内置电池充电 首次使用录音机或长时间未使用后，请为内置电池充电。设置时钟后，将录音机连接到交流电源约 2 小时，为内置电池充电。充电后，内置电池应可使用约一个月，无需连接任何电源。连接到交流电源、干电池或充电电池时，录音机将自动为内置电池充电。
+
+#########################################
+	Copying CD text information while recording (Joint Text)
+CD text connecting cable, CD that support CD-TEXT, and the CD player that support Joint Text required
+
+By connecting the recorder to a Sony portable CD player that supports Joint Text (the CD text copying function) (D- EJ01), you can copy track and disc names automatically during recording. In addition to the CD text connecting cable (RK-TXT1), make sure to connect the recorder to the portable CD player with an optical cable.
+
+1 Slide REC to the right to start recording on the recorder, and start playing the CD in the portable CD player.
+“SYNC”, “REC” and “ ” lights up in the display.
+“CD TEXT” appears for a few seconds, then “001 TEXT?” and “PushENTER” alternate in the display.
+“NO TEXT” appears at this time if no track name information exists in the CD. In this case, the track name will not be copied.
+2 Press the jog lever.
+Track name scrolls, and then the track name and “PushENTER” alternate in the display.
+
+3 Press the jog lever.
+Track name scrolls in the display while the name is copied.
+
+4 Follow steps 2 and 3 to copy each new track name that appears.
+
+5 Press x on the recorder at the point you want to stop recording.
+“ ” lights up, and then “000 TEXT” and “PushENTER” alternate in the display.
+If you don’t want to copy the disc name information, press x again. The disc name is not copied and the operation ends.
+“NO TEXT” appears at this time if no disc name information exists in the CD. In this case, the operation ends without copying the disc name.
+
+6 Press the jog lever.
+Disc name scrolls, and then disc name and “PushENTER” alternate in the display.
+
+7 Press the jog lever.
+“TOC Edit” flashes.
+Afterwards, the disc name scrolls in the display.
+
+If the disc or track name appears in the display in step 1, the music tracks and CD text information on some CDs are automatically recorded from start to finish. If the CD is this type, press x on the recorder at the point you want to stop recording, or after all tracks have been recorded. “TOC Edit” flashes. Afterwards, the disc name scrolls in the display.
+
+Notes
+• If you copy disc name information to a disc with a previously recorded disc name, the old disc name will be overwritten with the new one.
+• When the CD text copying function is on, various settings and editing functions cannot be accessed with the jog lever.
+
+You can monitor the sound during recording.
+Connect the supplied headphones with remote control on to the CD text connecting cable and adjust the volume by pressing the VOL +/– buttons on the recorder.
+
+Notes
+• The CD text copying function can only be used with component (D-EJ01) with the logo shown below.
+
+• The CD text copying function can only be used with CDs that support CD-TEXT.
+• The RK-TXT1 CD text connecting cable is designed for exclusive use with this recorder and Sony portable CD player (D-EJ01). Do not use a connecting cable of another make to copy CD text information.
+• The remote becomes inoperative when the CD text connecting cable (RK-TXT1) is connected to the recorder.
+• Stopping or pausing playback on the CD player automatically causes recording on the recorder to pause. A new track mark is automatically added when you resume recording.
+• The track name of the track currently played will not be recorded if you stop or pause CD playback in the middle of the copying process on the recorder.
+
+录制时复制 CD 文本信息（联合文本）
+需要 CD 文本连接线、支持 CD-TEXT 的 CD 和支持联合文本的 CD 播放器
+
+通过将录音机连接到支持联合文本（CD 文本复制功能）的 Sony 便携式 CD 播放器（D-EJ01），您可以在录制过程中自动复制曲目和光盘名称。除了 CD 文本连接线（RK-TXT1）外，请确保使用光纤将录音机连接到便携式 CD 播放器。
+
+1 将 REC 向右滑动以开始在录音机上录制，并开始在便携式 CD 播放器中播放 CD。
+“SYNC”、“REC”和“ ”在显示屏上亮起。
+“CD TEXT”出现几秒钟，然后“001 TEXT？”和“PushENTER”在显示屏上交替显示。
+如果 CD 中没有曲目名称信息，则此时会出现“NO TEXT”。在这种情况下，不会复制曲目名称。
+2 按下摇杆。
+曲目名称滚动，然后曲目名称和“PushENTER”在显示屏上交替显示。
+
+3 按下摇杆。
+曲目名称在复制的同时在显示屏上滚动。
+
+4 按照步骤 2 和 3 复制出现的每个新曲目名称。
+
+5 在您想要停止录制的地方按下录音机上的 x。
+“ ”亮起，然后“000 TEXT”和“PushENTER”在显示屏上交替显示。
+如果您不想复制光盘名称信息，请再次按 x。光盘名称不会被复制，操作结束。
+如果 CD 中没有光盘名称信息，则此时会出现“NO TEXT”。在这种情况下，操作结束，而不会复制光盘名称。
+
+6 按下摇杆。
+光盘名称滚动，然后光盘名称和“PushENTER”在显示屏上交替显示。
+
+7 按下摇杆。
+“TOC Edit”闪烁。
+随后，光盘名称将在显示屏上滚动显示。
+
+如果光盘或曲目名称出现在步骤 1 中的显示屏上，则某些 CD 上的音乐曲目和 CD 文本信息将从头到尾自动录制。 如果 CD 是这种类型，请在要停止录制时或录制完所有曲目后按录音机上的 x。 “TOC Edit” 闪烁。 随后，光盘名称将在显示屏上滚动显示。
+
+注意
+• 如果将光盘名称信息复制到之前已录制光盘名称的光盘，旧光盘名称将被新名称覆盖。
+• 当 CD 文本复制功能开启时，无法使用摇杆访问各种设置和编辑功能。
+
+您可以在录制过程中监听声音。
+将附带的带遥控器的耳机连接到 CD 文本连接线上，然后按录音机上的 VOL +/– 按钮调整音量。
+
+注意
+• CD 文本复制功能只能与带有以下徽标的组件 (D-EJ01) 一起使用。
+
+• CD 文本复制功能仅可用于支持 CD-TEXT 的 CD。
+• RK-TXT1 CD 文本连接线专为此录音机和 Sony 便携式 CD 播放器 (D-EJ01) 设计。请勿使用其他品牌的连接线复制 CD 文本信息。
+• 当 CD 文本连接线 (RK-TXT1) 连接到录音机时，遥控器将不起作用。
+• 停止或暂停 CD 播放器上的播放会自动导致录音机上的录音暂停。恢复录音时会自动添加新的曲目标记。
+• 如果在录音机的复制过程中停止或暂停 CD 播放，则不会记录当前播放曲目的曲目名称。
+
+#########################################
+		Various ways of playback
+#########################################
+	Selecting a track directly
+You can select a desired track directly by using the jog lever.
+
+1 Flip the jog lever until the desired track appears in the display, and then press the jog lever.
+The selected track name appears in the display and the recorder starts playing by pressing the jog lever.
+
+If the track has no name, the track number appears in the display.
+If you do step 1 while the recorder is shuffling the tracks, shuffle play starts from the track that you selected.
+
+各种播放方式
+###########################################
+直接选择曲目
+您可以使用摇杆直接选择所需的曲目。
+
+1 拨动摇杆，直到显示屏上出现所需的曲目，然后按下摇杆。
+所选曲目名称出现在显示屏上，按下摇杆后录音机开始播放。
+
+如果曲目没有名称，则曲目编号会出现在显示屏上。
+如果在录音机随机播放曲目时执行步骤 1，则随机播放从您选择的曲目开始。
+
+#########################################
+	Playing tracks repeatedly
+	
+You can play tracks repeatedly in three ways — all repeat, single repeat, and shuffle repeat.
+
+On the recorder	
+1 While the recorder is playing or stopped, press the jog lever, flip until “PLAY MODE” flashes in the display, and then press the lever again.
+
+2 Flip the jog lever to select the play mode, and then press the lever.
+
+Each time you flip the lever, the display item indicated by A changes as shown in the table below.
+
+Pressing the jog lever while A is flashing causes the play mode to change.
+
+The new mode then appears in the window indicated by B.
+
+Display window on the recorder
+
+On the remote control
+1 Press PLAYMODE while the recorder is playing or stopped.
+Each time you press the button, the play mode indication changes as follows.
+Display window on the remote control
+
+重复播放曲目
+
+您可以用三种方式重复播放曲目 - 全部重复、单个重复和随机重复。
+
+在录音机上
+1 在录音机播放或停止时，按下摇杆，翻转直到显示屏上“PLAY MODE”闪烁，然后再次按下摇杆。
+
+2 翻转摇杆以选择播放模式，然后按下摇杆。
+
+每次翻转摇杆时，显示项目 A 都会发生如下表所示的变化。
+
+在 A 闪烁时按下摇杆会导致播放模式发生变化。
+
+然后新模式出现在 B 指示的窗口中。
+
+录音机上的显示窗口
+
+在遥控器上
+1 在录音机播放或停止时按 PLAYMODE。
+
+每次按下按钮时，播放模式指示都会发生如下变化。
+
+遥控器上的显示窗口
+
+#########################################
+	Emphasizing bass (DIGITAL MEGA BASS)
+	
+The Mega Bass function intensifies low frequency sound for richer quality audio reproduction. It affects only the sound from the headphones.
+
+1 Press the jog lever, flip until “MEGA BASS” flashes in the display, and then press the lever again.
+
+2 Flip the jog lever to select the play mode, and then press the lever.
+
+Each time you flip the lever, A and B change as follows.
+
+Display window on the recorder	
+
+Notes
+• If the sound becomes distorted when emphasizing bass, turn down the volume.
+• The Mega Bass function does not affect the sound being recorded.
+• The Mega Bass function becomes inoperative when the “AUDIO OUT” parameter for the i/LINE OUT jack is set to “LINE OUT”. If you attempt to set the Mega Bass function at this time, “SORRY” appears in the display.
+The Mega Bass function, however, is operative at all times when the supplied remote is connected to the i/LINE OUT jack.	
+
+强调低音（数字重低音）
+
+重低音功能可增强低频声音，从而实现更丰富的音频质量再现。它仅影响耳机的声音。
+
+1 按下摇杆，翻转直到显示屏上闪烁“重低音”，然后再次按下摇杆。
+
+2 翻转摇杆以选择播放模式，然后按下摇杆。
+
+每次翻转摇杆时，A 和 B 都会按以下方式更改。
+
+录音机上的显示窗口
+
+注意
+• 如果在强调低音时声音失真，请调低音量。
+• 重低音功能不会影响正在录制的声音。
+• 当 i/LINE OUT 插孔的“AUDIO OUT”参数设置为“LINE OUT”时，重低音功能将不起作用。如果此时尝试设置重低音功能，显示屏上会出现“SORRY”。
+但是，当所提供的遥控器连接到 i/LINE OUT 插孔时，Mega Bass 功能始终有效。
+
+#########################################
+	Protecting your hearing (AVLS)
+The AVLS (Automatic Volume Limiter System) function keeps down the maximum volume to protect your ears.
+
+1 Press the jog lever, flip until “AVLS” flashes in the display, and then press the lever again.
+2 Flip the jog lever until “AVLS ON” flashes in the display, and then press the lever again.
+When you try to turn the volume too high, “AVLS” appears in the display.
+The volume is kept to a moderate level.
+
+保护您的听力 (AVLS)
+AVLS（自动音量限制系统）功能可降低最大音量以保护您的耳朵。
+
+1 按下摇杆，翻转直到显示屏上闪烁“AVLS”，然后再次按下摇杆。
+
+2 翻转摇杆直到显示屏上闪烁“AVLS ON”，然后再次按下摇杆。
+当您尝试将音量调得太高时，显示屏上会出现“AVLS”。
+音量保持在中等水平。
+
+#########################################
+	Checking the remaining time or the playing osition
+You can check the track name, disc name, etc. during playback.
+On the recorder 
+1 While the recorder is playing, press the jog lever, flip until “DISPLAY” flashes in the display, and then press the lever again.
+2 Flip the jog lever until the information you want flashes in the display.
+Each time you flip the lever, the display changes as follows.
+Display window on the recorder	 
+3 Press the jog lever.
+The display changes as follows.
+Display window on the recorder
+	
+1) Appears only if the track has been labeled.
+Remaining time of the current track Disc name 1) Remaining time after the current location
+Recorded date 2)
+2) Appears only when the clock is set.	
+	
+If you want to check the remaining time or the recording position while recording or in stop mode, see page 19.
+• The display that appears on the remote control is different from the ones on the recorder. See “On the remote control” (page 29) to check the display that appears on the remote control.
+
+检查剩余时间或播放位置
+播放期间，您可以检查曲目名称、光盘名称等。
+在录音机上
+1 在录音机播放时，按下摇杆，翻转直到显示屏上闪烁“DISPLAY”，然后再次按下摇杆。
+2 翻转摇杆，直到您想要的信息在显示屏上闪烁。
+每次翻转摇杆时，显示屏都会发生以下变化。
+录音机上的显示窗口
+3 按下摇杆。
+显示屏会发生变化。
+录音机上的显示窗口
+
+1) 仅当曲目已加标签时才会显示。
+当前曲目的剩余时间 光盘名称 
+1) 当前位置后的剩余时间
+录制日期 2)
+2) 仅当设置时钟时才会显示。
+
+如果要在录制或停止模式下检查剩余时间或录制位置，请参阅第 19 页。
+• 遥控器上显示的显示与录音机上的显示不同。请参阅“在遥控器上”（第 29 页）检查遥控器上显示的显示。
+
+On the remote control
+1 Press DISPLAY while playing.
+Each time you press DISPLAY, the display changes as follows.
+Display window on the remote control
+
+1) Appears only if the track has been labeled.
+2) Appears only when the clock is set.
+
+• If you want to check the remaining time or the recording position while recording or in stop mode, see page 21.
+• The display that appears on the recorder is different from the ones on the remote control.
+See “On the recorder” (page 28) to check the display that appears on the recorder.
+
+在遥控器上
+1 播放时按 DISPLAY。
+每次按 DISPLAY 时，显示都会发生以下变化。
+遥控器上的显示窗口
+
+1) 仅当曲目已加标签时才会显示。
+2) 仅当设置时钟时才会显示。
+
+• 如果要在录制或停止模式下检查剩余时间或录制位置，请参阅第 21 页。
+• 录音机上显示的显示与遥控器上的显示不同。
+请参阅“在录音机上”（第 28 页）以检查录音机上显示的显示。
+
+#########################################
+	Locking the controls (HOLD)
+To prevent the buttons from being
+accidentally operated when you carry the recorder, use this function.
+1 Slide HOLD in the direction of the
+On the recorder, slide HOLD to lock the controls of the recorder. On the remote control, slide HOLD to lock the controls of the remote control.
+Slide HOLD in the opposite direction of the arrow to unlock the controls.
+
+锁定按钮 (HOLD)
+为防止携带录音机时意外操作按钮，请使用此功能。
+1 沿箭头方向滑动 HOLD
+在录音机上，滑动 HOLD 可锁定录音机的控件。在遥控器上，滑动 HOLD 可锁定遥控器的控件。
+沿箭头相反方向滑动 HOLD 可解锁控件。
+
+#########################################
+	Connecting to a stereo system (LINE OUT)
+Connect the i/LINE OUT jack of the recorder to the LINE IN jacks of an amplifier or a tape player with a line cable (RK-G129 or RK-G136, not supplied).
+The output is analog. The recorder plays the MD digitally and sends analog signals to the connected equipment.
+
+When connecting a line cable (not supplied) to the i/LINE OUT jack of the recorder, be sure to set the “AUDIO OUT” parameter for the i/LINE OUT jack.
+1 Press the jog lever, flip until “AUDIO OUT” flashes in the display, and then press the lever again.
+2 Flip the jog lever until “LINE OUT” flashes in the display, and then press the lever.
+
+Notes
+• If the “AUDIO OUT” parameter for the i/ LINE OUT jack is set to “LINE OUT”, VOL +/– or DIGITAL MEGA BASS will not function.
+• The “AUDIO OUT” parameter for the i/ LINE OUT jack cannot be set to “LINE OUT” when the supplied remote control is connected.
+• When you turn off the power, the “AUDIO OUT” parameter for the i/LINE OUT jack automatically switches to “HeadPhone”.
+
+连接到立体声系统 (LINE OUT)
+使用线路电缆 (RK-G129 或 RK-G136，不附带) 将录音机的 i/LINE OUT 插孔连接到放大器或磁带播放器的 LINE IN 插孔。
+输出为模拟信号。录音机以数字方式播放 MD，并将模拟信号发送到连接的设备。
+
+将线路电缆 (不附带) 连接到录音机的 i/LINE OUT 插孔时，请务必为 i/LINE OUT 插孔设置“AUDIO OUT”参数。
+1 按下摇杆，翻转直到显示屏上闪烁“AUDIO OUT”，然后再次按下摇杆。
+2 翻转摇杆直到显示屏上闪烁“LINE OUT”，然后按下摇杆。
+
+注意
+• 如果将 i/LINE OUT 插孔的“AUDIO OUT”参数设置为“LINE OUT”，则 VOL +/– 或 DIGITAL MEGA BASS 将不起作用。
+• 连接附带的遥控器时，无法将 i/LINE OUT 插孔的“AUDIO OUT”参数设置为“LINE OUT”。
+• 关闭电源时，i/LINE OUT 插孔的“AUDIO OUT”参数会自动切换为“HeadPhone”。
+
+#########################################
+				Editing recorded tracks
+				编辑已录制的曲目
+#########################################
+You can edit your recordings by adding/ erasing track marks or labeling tracks and MDs. Premastered MDs cannot be edited.
+Notes on editing • Do not move or jog the recorder while “TOC Edit”* is flashing in the display.
+• You cannot edit tracks on an MD that is record-protected. Before editing tracks, close the tab on the side of the MD.
+• If you perform an editing operation while playing, be sure not to turn the power off until “TOC Edit” disappears in the display.
+• The lid does not open until “TOC Edit” disappears in the display after editing.
+∗ TOC = Table of Contents
+
+您可以通过添加/删除曲目标记或标记曲目和 MD 来编辑您的录音。预制 MD 无法编辑。
+编辑注意事项 
+• 当“TOC Edit”* 在显示屏上闪烁时，请勿移动或轻推录音机。
+• 您无法编辑受记录保护的 MD 上的曲目。编辑曲目之前，请关闭 MD 侧面的标签。
+• 如果您在播放时执行编辑操作，请确保在“TOC Edit”在显示屏上消失之前不要关闭电源。
+• 编辑后，直到“TOC Edit”在显示屏上消失后，盖子才会打开。
+∗ TOC = 目录
+
+#########################################
+	Erasing tracks
+To erase a track Note that once a recording has been erased, you cannot retrieve it. Make sure of the track you are erasing.
+
+1 While playing the track you want to erase, press the jog lever so that “EDIT” flashes in the display, and then press the lever again.
+“ : Name” flashes in the display, and the recorder plays the selected track repeatedly.
+
+2 Flip the jog lever until “ : Erase” flashes in the display, and then press the lever.
+“Erase OK?” and “PushENTER” appear alternately in the display.
+To cancel erasing, press x or T MARK.
+
+3 Press the jog lever again.
+The track is erased and the next track starts to play. All the tracks after the one erased are automatically renumbered.
+To erase a part of a track Add track marks at the beginning and the end of the part you want to erase, then erase the part.
+
+擦除曲目
+要擦除曲目请注意，一旦录音被擦除，您将无法恢复。请确保您正在擦除的曲目。
+
+1 播放要擦除的曲目时，按下摇杆，使“EDIT”在显示屏上闪烁，然后再次按下摇杆。
+“ : Name”在显示屏上闪烁，录音机重复播放选定的曲目。
+
+2 翻转摇杆，直到“ : Erase”在显示屏上闪烁，然后按下摇杆。
+“Erase OK?”和“PushENTER”交替出现在显示屏上。
+要取消擦除，请按 ■ 或 T MARK。
+
+3 再次按下摇杆。
+曲目被擦除，下一个曲目开始播放。被擦除曲目之后的所有曲目将自动重新编号。
+
+要擦除曲目的一部分
+在要擦除的部分的开头和结尾添加曲目标记，然后擦除该部分。
+
+To erase the whole disc
+You can quickly erase all the tracks and data of the MD at the same time.
+Note that once a recording has been erased, you cannot retrieve it. Be sure to check the contents of the disc you want to erase.
+
+1 While the recorder is stopped, press the jog lever so that “EDIT” flashes in the display, and then press the lever again.
+“ : Name” flashes in the display.
+
+2 Flip the jog lever until “ : Erase” flashes in the display, and then press the lever.
+“All Erase?” and “PushENTER” appear alternately in the display.
+To cancel erasing, press x or T MARK.
+
+3 Press the jog lever again.
+“TOC Edit” flashes in the display, and all the tracks will be erased.
+When erasing is complete, “BLANKDISC” appears in the display.
+
+擦除整张光盘
+您可以同时快速擦除 MD 的所有曲目和数据。
+请注意，一旦录音被擦除，您将无法恢复。务必检查要擦除的光盘的内容。
+
+1 在录音机停止时，按下摇杆，使“EDIT”在显示屏上闪烁，然后再次按下摇杆。
+“ : Name”在显示屏上闪烁。
+
+2 翻转摇杆，直到“ : Erase”在显示屏上闪烁，然后按下摇杆。
+“All Erase?”和“PushENTER”交替出现在显示屏上。
+要取消擦除，请按 ■ 或 T MARK。
+
+3 再次按下摇杆。
+“TOC Edit”在显示屏上闪烁，所有曲目都将被擦除。
+擦除完成后，显示屏上会出现“BLANKDISC”。
+
+#########################################
+	Adding a track mark
+You can add track marks so that the part after the new track mark is counted as a new track.
+The track numbers will increase as follows.
+
+1 While playing or pausing an MD, press T MARK on the recorder at the point you want to mark.
+“MARK ON” appears in the display, and a track mark is added. The track number will increase by one.
+
+To add track marks while recording Press T MARK on the recorder at the point you want to add a track mark.
+
+添加曲目标记
+您可以添加曲目标记，这样新曲目标记之后的部分将被视为新曲目。
+曲目编号将按以下方式增加。
+
+1 在播放或暂停 MD 时，在要标记的位置按下录音机上的 T MARK。
+显示屏上出现“MARK ON”，并添加曲目标记。曲目编号将增加一。
+
+要在录音时添加曲目标记，请在要添加曲目标记的位置按下录音机上的 T MARK。
+
+#########################################
+	Erasing a track mark
+When you record with analog (line) input, unnecessary track marks may be recorded where recording level is low. You can erase a track mark to combine the tracks before and after the track mark. The track numbers will change as follows.
+
+1 While playing the track with the track mark you want to erase, press X to pause.
+
+2 Find the track mark by pressing .
+slightly.
+For example, to erase the third track mark, find the beginning of the third track. “00:00” appears in the display.
+“MARK” appears in the display for 2 seconds.
+
+3 Press T MARK to erase the mark.
+“MARK OFF” appears in the display.
+The track mark is erased and the two tracks are combined.
+
+When you erase a track mark, the date, time, and name assigned to the mark are also erased.
+
+删除曲目标记
+使用模拟（线路）输入录音时，录音电平较低时可能会录制不必要的曲目标记。您可以删除曲目标记以合并曲目标记前后的曲目。曲目编号将按以下方式更改。
+
+1 播放带有要删除的曲目标记的曲目时，按 || 暂停。
+
+2 轻轻按下 |<<
+找到曲目标记。
+例如，要删除第三个曲目标记，请找到第三个曲目的开头。显示屏上出现“00:00”。
+显示屏上出现“MARK”2 秒钟。
+
+3 按 T MARK 删除标记。
+显示屏上出现“MARK OFF”。
+曲目标记被删除，两个曲目合并。
+
+删除曲目标记时，分配给标记的日期、时间和名称也将被删除。
+
+#########################################
+	Moving recorded tracks
+You can change the order of the recorded tracks.
+Example Move track C from the third to the second track.
+
+On the recorder
+1 While playing the track you want to move, press the jog lever so that “EDIT” flashes in the display, and then press the lever again.
+“ : Name” flashes in the display and the recorder plays the selected track repeatedly.
+
+2 Flip the jog lever until “ : Move” flashes in the display, and then press the lever.
+For the example above, “MV 003 t 003” appears in the display.
+
+3 Flip the jog lever to select the destination track number.
+For the example above, “MV 003 t 002” appears in the display.
+To cancel moving, press x or T MARK.
+
+4 Press the jog lever again.
+The track moves to the selected destination track.
+
+移动已录制的曲目
+您可以更改已录制曲目的顺序。
+示例 将曲目 C 从第三曲目移至第二曲目。
+
+在录音机上
+1 播放要移动的曲目时，按下摇杆，使“EDIT”在显示屏上闪烁，然后再次按下摇杆。
+“ : Name”在显示屏上闪烁，录音机重复播放选定的曲目。
+
+2 拨动摇杆，直到“ : Move”在显示屏上闪烁，然后按下摇杆。
+对于上述示例，显示屏上显示“MV 003 t 003”。
+
+3 拨动摇杆以选择目标曲目编号。
+对于上述示例，显示屏上显示“MV 003 t 002”。
+要取消移动，请按 x 或 T MARK。
+
+4 再次按下摇杆。
+曲目移动到选定的目标曲目。
+
+
+On the remote control
+1 Press DISPLAY for 2 seconds or more while playing the track you want to move.
+“ : Name” flashes in the display and the recorder plays the selected track repeatedly.
+
+2 Press the control towards . or towards N • > repeatedly until “ : Move” appears in the display.
+
+3 Press ■.
+For the example above, “MV 003 t 003” appears in the display.
+
+4 Press the control towards . or towards N • > repeatedly to select the destination track number.
+For the example above, “MV 003 t 002” appears in the display.
+To cancel moving, press DISPLAY for 2 seconds or more.
+
+5 Press x again.
+The selected track moves just before the destination track.
+
+在遥控器上
+1 播放要移动的曲目时，按住 DISPLAY 2 秒或更长时间。
+“ : Name”在显示屏上闪烁，录音机重复播放所选曲目。
+
+2 反​​复按 . 或 N • > 控制按钮，直到显示屏上出现“ : Move”。
+
+3 按 x。
+对于上述示例，显示屏上将显示“MV 003 t 003”。
+
+4 反复按 . 或 N • > 控制按钮，选择目标曲目编号。
+对于上述示例，显示屏上将显示“MV 003 t 002”。
+要取消移动，按住 DISPLAY 2 秒或更长时间。
+
+5 再次按 x。
+所选曲目将移动到目标曲目之前。
+
+Labeling recordings
+You can name tracks during playback, discs during stop, and both during recording. Each name can be as long as 200 letters.
+Each disc can hold up to 1700 alphanumeric letters during playback or stop.
+
+Labeling a disc during stop
+1 Insert a disc.
+
+2 Press the jog lever so that “EDIT” flashes in the display, and then press the lever again.
+“ : Name” flashes in the display.
+
+3 Press the jog lever.
+
+The disc is ready to be labeled.
+4 Flip the jog lever to select a letter and press the lever to enter.
+The selected letter stops flashing and the cursor moves to the next input position.
+
+① If phrases are stored in the phrase bank,
+the first phrase stored appears in the
+display(page 37).
+
+5 Repeat step 4 and enter all characters of the label name.
+To cancel labeling, press x or T MARK 6 Press the jog lever for 2 seconds or more .
+The track or disc is labeled.
+
+6 Press the jog lever for 2 seconds or more .
+The track or disc is labeled.
+
+标记录音
+您可以在播放时命名曲目，在停止时命名光盘，以及在录制时命名两者。每个名称最多可以有 200 个字母。
+在播放或停止期间，每张光盘最多可以容纳 1700 个字母数字字母。
+
+在停止期间标记光盘
+1 插入光盘。
+
+2 按下摇杆，使“EDIT”在显示屏上闪烁，然后再次按下摇杆。
+“ : Name”在显示屏上闪烁。
+
+3 按下摇杆。
+
+光盘已准备好标记。
+4 翻转摇杆以选择一个字母，然后按下摇杆输入。
+选定的字母停止闪烁，光标移动到下一个输入位置。
+
+① 如果短语库中存储了短语，则存储的第一个短语将出现在显示屏上（第 37 页）。
+
+5 重复步骤 4 并输入标签名称的所有字符。
+要取消标记，请按 x 或 T MARK 6 按住摇杆 2 秒或更长时间。
+曲目或光盘已标记。
+
+6 按住摇杆 2 秒或更长时间。
+曲目或光盘已贴上标签。
+
+Labeling a track during playback
+1 Insert a disc and play the track you want to label.
+
+2 Press the jog lever so that “EDIT” flashes in the display, and then press the lever again.
+“ : Name” flashes in the display.
+
+3 Press the jog lever.
+The track is ready to be labeled.
+
+4 Follow steps 4 to 6 of “Labeling a disc during stop”.
+
+Labeling a track or a disc during recording 1 While recording, press the jog lever so that “EDIT” flashes in the display, and then press the lever again.
+“ : Name” flashes in the display.
+
+2 To label a track, press the jog lever again.
+To label a disc, flip the jog lever until “ : Name” flashes in the display, then press the lever.
+The track or disc is ready to be labeled.
+
+3 Follow steps 4 to 6 of “Labeling a disc during stop”.
+
+To cancel labeling, press x or T MARK.
+
+Note
+When the recording is stopped while labeling a track or a disc during recording, or when the playback moves on to the next track while labeling a track, the input at that point is entered
+automatically.
+
+On the remote control
+Labeling a disc during stop
+1 Insert a disc.
+To label a disc that is already in the recorder, press x to stop.
+
+2 Press DISPLAY for 2 seconds or more.
+“ : Name” flashes in the display.
+
+3 Press x.
+The disc is ready to be labeled.
+
+4 Press the control towards . or towards N • > to select a letter and press x to enter.
+The selected letter stops flashing and the cursor moves to the next input position.
+
+①If phrases are stored in the phrase bank,　the first phrase stored appears in the　display(page 39).
+
+5 Repeat step 4 and enter all characters of the label name.
+To cancel labeling, press DISPLAY for 2 seconds or more.
+
+6 Keep pressing the x for 2 seconds or more.
+The track or disc is labeled.
+
+在播放过程中标记曲目
+1 插入光盘并播放要标记的曲目。
+
+2 按下摇杆，使“EDIT”在显示屏上闪烁，然后再次按下摇杆。
+“ : Name”在显示屏上闪烁。
+
+3 按下摇杆。
+曲目已准备好标记。
+
+4 按照“停止期间标记光盘”的步骤 4 至 6 进行操作。
+
+在录制过程中标记曲目或光盘 1 录制时，按下摇杆，使“EDIT”在显示屏上闪烁，然后再次按下摇杆。
+“ : Name”在显示屏上闪烁。
+
+2 要标记曲目，请再次按下摇杆。
+要标记光盘，请翻转摇杆，直到“ : Name”在显示屏上闪烁，然后按下摇杆。
+曲目或光盘已准备好标记。
+
+3 按照“停止时标记光盘”的步骤 4 至 6 进行操作。
+
+要取消标记，请按 x 或 T MARK。
+
+注意
+当在标记曲目或录制过程中停止录制时，或者在标记曲目时播放移动到下一个曲目时，该点的输入将自动输入。
+
+在遥控器上
+停止时标记光盘
+1 插入光盘。
+要标记已在录音机中的光盘，请按 x 停止。
+
+2 按住 DISPLAY 2 秒或更长时间。
+“ : 名称”在显示屏上闪烁。
+
+3 按 x。
+光盘已准备好标记。
+
+4 按下控制按钮朝向 . 或朝向 N • > 选择一个字母，然后按 x 输入。
+所选字母停止闪烁，光标移动到下一个输入位置。
+
+①如果短语库中存储了短语，则存储的第一个短语会出现在显示屏上（第 39 页）。
+
+5 重复步骤 4 并输入标签名称的所有字符。
+要取消标记，请按住 DISPLAY 2 秒或更长时间。
+
+6 继续按住 x 2 秒或更长时间。
+曲目或光盘已标记。
+
+Labeling a track during　playback
+1 Insert a disc and play the track you want to label.
+
+2 Press DISPLAY for 2 seconds or more.
+
+“ : Name” flashes in the display.
+
+3 Press x.
+
+The track is ready to be labeled.
+
+4 Follow steps 4 to 6 of “Labeling a disc during stop” (page 35).
+
+Labeling a track or a disc　during recording
+1 Press DISPLAY for 2 seconds or
+more during recording.
+“ : Name” flashes in the display.
+
+2 To label a track, press x.
+
+To label a disc, press the control towards . or towards N • > until “ : Name” flashes in the display, then press x.
+
+The track or disc is ready to be labeled.
+
+3 Follow steps 4 to 6 of “Labeling a disc during stop” (page 35).
+
+To cancel labeling, press DISPLAY for 2 seconds or more.
+
+Note When the recording is stopped while labeling a track or a disc during recording, or when the recording moves on to the next track while labeling a track, the input at that point is entered automatically.
+
+Available characters
+• Capital and small letters of the English
+alphabet
+• Numbers 0 to 9
+• ! " # $ % & ( ) * . ; < = > ?
+@ _ ` + – ' , / : _ (space)
+
+Relabeling recordings
+Follow the steps corresponding to the labeling method until the disc or track is ready to be labeled. Enter a new character over the one you want to change, then press the jog lever (keep pressing x for 2 seconds or more on the remote control).
+
+Notes • You cannot relabel premastered MDs or label MDs that have not been recorded.
+
+• The recorder is able to display, but cannot label using Japanese “Katakana” characters.
+
+• The recorder cannot rewrite a disc or track name of more than 200 letters that was created by another device.
+
+在播放过程中标记曲目
+1 插入光盘并播放要标记的曲目。
+
+2 按住 DISPLAY 2 秒或更长时间。
+
+“ : Name” 在显示屏上闪烁。
+
+3 按 x。
+
+曲目已准备好标记。
+
+4 按照“停止期间标记光盘”（第 35 页）中的步骤 4 到 6 进行操作。
+
+在录制过程中标记曲目或光盘
+1 在录制过程中按住 DISPLAY 2 秒或更长时间。
+
+“ : Name” 在显示屏上闪烁。
+
+2 要标记曲目，请按 x。
+
+要标记光盘，请将控制按钮推向 . 或推向 N • >，直到“ : Name” 在显示屏上闪烁，然后按 x。
+
+曲目或光盘已准备好标记。
+
+3 按照“停止期间标记光盘”（第 35 页）中的步骤 4 到 6 进行操作。
+
+要取消标记，请按住 DISPLAY 2 秒或更长时间。
+
+注意 如果在标记曲目或录制过程中停止录制，或者在标记曲目时录制移动到下一个曲目，则会自动输入该点的输入。
+
+可用字符
+• 英文大写字母和小写字母
+• 数字 0 至 9
+• ! " # $ % & ( ) * . ; < = > ?
+@ _ ` + – ' , / : _ (空格)
+
+重新标记录音
+按照与标记方法对应的步骤操作，直到光盘或曲目准备好标记。在要更改的字符上输入一个新字符，然后按下摇杆（按住遥控器上的 x 2 秒或更长时间）。
+
+注意 • 您无法重新标记预制的 MD 或标记尚未录制的 MD。
+
+• 录音机可以显示，但无法使用日语“片假名”字符进行标记。
+
+• 录音机无法重写由其他设备创建的超过 200 个字母的光盘或曲目名称。
+
+#########################################
+	Storing phrases　frequently used in　labeling (Phrase Bank)
+Phrases that you often use in track or disc labeling can be stored in the recorder’s memory. There are two ways to store phrases: storing a phrase while performing the labeling procedure, or storing a phase using the EDIT menu.
+
+Approximately 40 phrases of about 10 characters each (with a total character count of about 600) can be stored in the phrase bank. The actual number will depend on the length of each phrases.
+
+On the recorder
+Storing phrases while labeling a track or disc 
+1 Do the procedure “Labeling recordings” (page 34) to enter a phrase.
+
+2 After entering the phrase, press X for 2 seconds or more.
+
+“Entry!” appears in the display and the cursor flashes after the phrase you just stored. You can then continue with labeling operation.
+
+You can store phrases from a previously labeled track or disc.
+
+Do the procedure “Relabeling recordings” (page 36) and display the track or disc name that contains the phrase that you want to store.
+
+Press VOL +/– repeatedly to move the cursor to the right of the phrase. Then press X for 2 seconds or more to store the phrase.
+
+存储标记中常用的短语（短语库）
+
+您经常在曲目或光盘标记中使用的短语可以存储在录音机的内存中。存储短语有两种方法：在执行标记过程时存储短语，或使用 EDIT 菜单存储阶段。
+
+短语库中可以存储大约 40 个短语，每个短语约 10 个字符（总字符数约 600 个）。实际数量取决于每个短语的长度。
+
+在录音机上
+在标记曲目或光盘时存储短语
+1 执行“标记录音”（第 34 页）的步骤以输入短语。
+
+2 输入短语后，按住 X 2 秒或更长时间。
+
+显示屏上出现“Entry！”，光标在您刚刚存储的短语后闪烁。然后您可以继续标记操作。
+
+您可以存储以前标记的曲目或光盘中的短语。
+
+执行“重新标记录音” (第 36 页) 的步骤，并显示包含要存储的短语的曲目或光盘名称。
+
+反复按 VOL +/– 将光标移动到短语的右侧。然后按 X 2 秒或更长时间以存储短语。
+
+Storing phrases using the EDIT　menu
+1 Press the jog lever so that “EDIT” flashes in the display, and then press the lever again.
+
+2 Flip the jog lever until “Name Bank” flashes in the display, and then press the jog lever.
+
+3 Enter the phrase you want to store, and then press the jog lever for 2 seconds or more.
+
+“Entry” appears in the display and the phrase is stored.
+
+Retrieving phrases stored in the phrase bank You can retrieve a phrase stored in the phrase bank anytime you want to use it in a track or disc name.
+
+There are two ways to retrieve a stored phrase: by displaying the stored phrases one by one during the labeling procedure, or by searching the phrase bank by the first letter of the desired phrase.
+
+Searching for a phrase by displaying the stored phrase one by one 
+1 Do the procedure “Labeling recordings” (page 34) until “ : Name” or “ : Name” flashes in the display. Then press the jog lever.
+
+2 Press X repeatedly until the first phrase stored in the phrase bank appears in the display.
+
+3 Flip the jog lever or press ./> repeatedly.
+
+Flipping the jog lever or pressing the buttons causes the phrases stored in the phrase bank to appear one by one in sequential order. If you press X at this time, the first phrase stored in the phrase bank retrieved.
+
+4 Press the jog lever while the phrase you want is shown in the display.
+
+The cursor flashes after the phrase you just retrieved. You can then continue with labeling operation.
+
+使用 EDIT 菜单存储短语
+1 按下摇杆，使“EDIT”在显示屏上闪烁，然后再次按下摇杆。
+
+2 翻转摇杆，直到“Name Bank”在显示屏上闪烁，然后按下摇杆。
+
+3 输入要存储的短语，然后按住摇杆 2 秒或更长时间。
+
+显示屏上出现“Entry”，短语已存储。
+
+检索存储在短语库中的短语 您可以随时检索存储在短语库中的短语，以便在曲目或光盘名称中使用它。
+
+检索存储的短语有两种方法：在标记过程中逐个显示存储的短语，或通过所需短语的首字母搜索短语库。
+
+通过逐个显示存储的短语来搜索短语
+1 执行“标记录音” (第 34 页) 的步骤，直到“ : 名称”或“ : 名称”在显示屏上闪烁。然后按下摇杆。
+
+2 反​​复按 X，直到存储在短语库中的第一个短语出现在显示屏上。
+
+3 翻转摇杆或反复按 ./>。
+
+翻转摇杆或按下按钮会使存储在短语库中的短语按顺序逐个出现。如果此时按下 X，则会检索存储在短语库中的第一个短语。
+
+4 在显示屏上显示您想要的短语时按下摇杆。
+
+光标在您刚刚检索到的短语后闪烁。然后您可以继续标记操作。
+
+Searching for a phrase by its first　letter
+1 When labeling a track or disc, use VOL +/– to move the cursor to the letter which the desired phrase begins with.
+
+2 Press X to search.
+
+The phrase for that letter appears in the display. If there are two or more phrases that start with that letter, press X to see the next phrase.
+
+3 Press the jog lever while the phrase you want is shown in the display.
+
+The cursor flashes after the phrase you just retrieved. You can then continue with labeling operation.
+
+按首字母搜索短语
+1 标记曲目或光盘时，使用 VOL +/– 将光标移动到所需短语的首字母。
+
+2 按 X 进行搜索。
+
+显示屏上显示该字母的短语。如果有两个或多个短语以该字母开头，请按 X 查看下一个短语。
+
+3 在显示屏上显示所需短语时按下摇杆。
+
+光标在您刚刚检索到的短语后闪烁。然后您可以继续标记操作。
+
+Erasing phrases
+You can erase phrases from the phrase bank while the recorder is stopped. You can also erase phrases when the recorder is empty.
+
+1 Press the jog lever so that “EDIT” appears, and then press the lever again.
+
+2 Flip the jog lever until “BankErase” appears, and then press the lever.
+
+3 Flip the jog lever until the phrase you want to erase appears, and then press the lever.
+
+“Erase!” appears and the phrase is erased. If no phrase is stored in the phrase bank, “EMPTY” appears in the display.
+
+To cancel the operation, press x or T MARK
+
+删除乐句
+录音机停止时，您可以从乐句库中删除乐句。录音机为空时，您也可以删除乐句。
+
+1 按下摇杆，使“EDIT”出现，然后再次按下摇杆。
+
+2 拨动摇杆，直到出现“BankErase”，然后按下摇杆。
+
+3 拨动摇杆，直到出现要删除的乐句，然后按下摇杆。
+
+出现“Erase！”，乐句被删除。如果乐句库中没有存储乐句，显示屏上会出现“EMPTY”。
+
+要取消操作，请按 x 或 T MARK
+
+On the remote control
+Storing phrases while labeling 1 Do the procedure “On the remote control” in “Labeling recordings” (page 35) to enter a phrase.
+
+2 After entering the phrase, press X for 2 seconds or more.
+
+“Entry!” appears in the display and the cursor flashes after the phrase you just stored. You can then continue with labeling operation.
+
+ You can store phrases from a previously labeled track or disc.
+
+Do the procedure “Relabeling recordings” (page 36) and display the track or disc name that contains the phrase that you want to store.
+
+Press VOL +/– repeatedly to move the cursor to the right of the phrase. Then press X for 2 seconds or more to store the phrase.
+
+在遥控器上
+标记时存储短语 1 按照“标记录音”（第 35 页）中的“在遥控器上”步骤输入短语。
+
+2 输入短语后，按住 X 2 秒或更长时间。
+
+显示屏上出现“Entry!”，光标在您刚刚存储的短语后闪烁。然后您可以继续标记操作。
+
+您可以从之前标记的曲目或光盘中存储短语。
+
+按照“重新标记录音”（第 36 页）步骤显示包含要存储短语的曲目或光盘名称。
+
+反复按 VOL +/– 将光标移动到短语右侧。然后按住 X 2 秒或更长时间以存储短语。
+
+Storing phrases using the EDIT　menu
+1 Press DISPLAY for 2 seconds or more.
+
+2 Press the control towards . or towards N • > repeatedly until “Name Bank” flashes in the display, and then press x.
+
+3 Enter the phrase you want to store, then press x for 2 seconds or more.
+
+“Entry” appears in the display and the phrase is stored.
+
+Retrieving phrases stored in the phrase bank Searching for a phrase by displaying the stored phrase one by one 1 Do the procedure “On the remote control” in “Labeling recordings” (page 35) until “ : Name” or “ : Name appears in the display.
+
+Then press x.
+
+2 Press X repeatedly until the first phrase stored in the phrase bank appears in the display.
+
+3 Press the control towards . or towards N • > repeatedly.
+
+Pressing the control towards . or towards N • > causes the phrases stored in the phrase bank to appear one by one. If you press X at this time, the first phrase stored in the phrase bank retrieved.
+
+4 Press x while the phrase you want is shown in the display.
+
+The cursor flashes after the phrase you just retrieved. You can then continue with labeling operation.
+
+ Searching by the first letter of a phrase 1 When labeling a track or disc, use VOL +/– to move the cursor to the letter which the desired phrase begins with.
+
+2 Press X to search.
+
+The phrase for that letter appears in the display. If there are two or more phrases that start with that letter, press X to see the next phrase.
+
+3 Press x while the phrase you want is shown in the display.
+
+The cursor flashes after the phrase you just retrieved. You can then continue with labeling operation.
+
+Erasing phrases You can erase phrases from the phrase bank while the recorder is stopped. You can also erase phrases when the recorder is empty.
+
+1 Press DISPLAY for 2 seconds or more.
+
+2 Press the control towards . or towards N • > repeatedly until “BankErase” appears in the display, and then press x.
+
+3 Press the control towards . or towards N • > repeatedly until the phrase you want to erase appears, and then press x.
+
+“Erase!” appears in the display and the phrase is erased.
+
+If there is no phrase stored in the phrase bank, “EMPTY” appears in the display.
+
+To cancel the operation, press DISPLAY for 2 seconds or more.
+
+使用 EDIT 菜单存储短语
+1 按住 DISPLAY 2 秒或更长时间。
+
+2 反​​复按 . 或 N • > 控制按钮，直到显示屏上出现“Name Bank”闪烁，然后按 x。
+
+3 输入要存储的短语，然后按 x 2 秒或更长时间。
+
+显示屏上出现“Entry”，短语已存储。
+
+检索存储在短语库中的短语 通过逐个显示存储的短语来搜索短语 1 执行“标记录音” (第 35 页) 中“在遥控器上”的步骤，直到显示屏上出现“ : Name”或“ : Name”。
+
+然后按 x。
+
+2 反​​复按 X，直到显示屏上出现存储在短语库中的第一个短语。
+
+3 反复按 . 或 N • > 控制按钮。
+
+按 . 或 N • > 控制按钮可使存储在短语库中的短语逐个出现。如果此时按 X，则会检索存储在短语库中的第一个短语。
+
+4 在显示屏上显示您想要的短语时按 x。
+
+光标在您刚检索到的短语后闪烁。然后您可以继续标记操作。
+
+按短语的第一个字母搜索 1 在标记曲目或光盘时，使用 VOL +/– 将光标移动到所需短语开头的字母。
+
+2 按 X 进行搜索。
+
+该字母的短语出现在显示屏中。如果有两个或更多短语以该字母开头，请按 X 查看下一个短语。
+
+3 在显示屏上显示您想要的短语时按 x。
+
+光标在您刚检索到的短语后闪烁。然后您可以继续标记操作。
+
+删除短语 您可以在录音机停止时从短语库中删除短语。您也可以在录音机为空时删除短语。
+
+1 按住 DISPLAY 2 秒或更长时间。
+
+2 反复按 . 或 N • > 控制按钮，直到显示屏上出现“BankErase”，然后按 x。
+
+3 反复按 . 或 N • > 控制按钮，直到出现要删除的乐句，然后按 x。
+
+显示屏上出现“Erase!”，乐句被删除。
+
+如果乐句库中没有存储乐句，显示屏上会出现“EMPTY”。
+
+要取消操作，请按住 DISPLAY 2 秒或更长时间。
+
+#########################################
+				Power sources
+#########################################
+You can use the recorder on house current or as follows.
+In the recorder … — a nickel metal hydride rechargeable battery NH-14WM (supplied) With supplied battery case … — LR6 (size AA) alkaline battery (not supplied) It is preferable to use the recorder on house current when recording for a long time.
+
+您可以在家用电流下或按照下列方法使用录音机。
+录音机中... — 镍氢充电电池 NH-14WM（附带） 附带电池盒... — LR6（AA 型）碱性电池（不附带） 长时间录音时，最好在家用电流下使用录音机。
+
+#########################################
+	Charging the nickel　metal hydride　rechargeable battery
+Before using the supplied NH-14WM nickel metal hydride rechargeable battery for the first time, charge it in the recorder.
+1 Connect the supplied AC power adaptor.
+2 Insert the NH-14WM into the recorder and close the lid.
+3 Press x.
+
+“Charging” flashes, e appears in the display, and charging starts.
+Full charging of a completely discharged rechargeable battery takes about 3 hours. To cancel charging, press ■.
+
+Notes
+• If you press x/CHARGE immediately after charging has completed, charging will begin again, even though the battery is already fully charged.
+• Charging stops when you try to operate the recorder during charging.
+• B e sure to use the supplied AC power adaptor.
+• Charging time may vary depending on the battery condition.
+• When a rechargeable battery is charged for the first time or charged after a long period of disuse, battery life may be shorter than usual.
+Repeat discharging and recharging a few times. The battery life should return to normal.
+• When the battery life of a fully charged rechargeable battery becomes about half the normal life, replace it.
+
+给镍氢充电电池充电
+首次使用随附的 NH-14WM 镍氢充电电池之前，请先在录音机中充电。
+1 连接随附的 AC 电源适配器。
+2 将 NH-14WM 插入录音机并关闭盖子。
+3 按 x。
+
+“充电”闪烁，显示屏上出现 e，充电开始。
+完全放电的充电电池充满电大约需要 3 小时。要取消充电，请按 ■。
+
+注意
+• 如果在充电完成后立即按 ■/CHARGE，即使电池已充满电，充电也会重新开始。
+• 在充电期间尝试操作录音机时，充电会停止。
+• 务必使用随附的 AC 电源适配器。
+• 充电时间可能因电池状况而异。
+• 首次对充电电池进行充电或长时间不使用后进行充电时，电池寿命可能会比平时短。
+重复放电和充电几次。电池寿命应恢复正常。
+• 当充满电的充电电池的电池寿命约为正常寿命的一半时，请更换它。
+
+• When carrying the rechargeable battery, keep it in the supplied carrying case. It is dangerous to carry the battery out of its case in your pocket or a bag together with metallic objects such as key rings, as this may cause a short circuit.
+• Remove the rechargeable battery from the recorder when it is not to be used for a long time.
+• 携带充电电池时，请将其放在随附的便携盒中。将电池从便携盒中取出，与钥匙圈等金属物品一起放在口袋或包中很危险，因为这可能会导致短路。
+• 长时间不使用时，请从录音机中取出充电电池。
+
+#########################################
+Using on a nickel metal hydride rechargeable battery
+
+Be sure the rechargeable battery is fully charged.
+1 Insert the fully charged nickel metal hydride rechargeable battery with correct polarity.
+
+使用镍氢充电电池
+
+确保充电电池已充满电。
+1 以正确的极性插入充满电的镍氢充电电池。
+
+Using dry battery
+1 Attach the supplied battery case.
+2 Insert LR6 (size AA) dry battery (not supplied) with correct polarity.
+
+使用干电池
+1 安装随附的电池盒。
+2 以正确的极性插入 LR6（AA 尺寸）干电池（不随附）。
+
+① The battery life may be shorter due to operating conditions and the temperature of the location.
+② When using a LR6 (SG) Sony “STAMINA” alkaline dry battery (produced in Japan).
+③ When you record, use a fully charged rechargeable battery.
+
+When to replace the batteries When the dry battery or rechargeable battery are weak, flashing r or “LOW BATT” appears in the display. Replace the dry battery or charge the rechargeable battery.
+The battery level indicator is approximate.
+Note Stop the recorder before replacing battery.
+
+① 电池寿命可能会因操作条件和环境温度而缩短。
+② 使用 LR6 (SG) Sony “STAMINA” 碱性干电池（日本制造）时。
+③ 录音时，请使用充满电的充电电池。
+
+何时更换电池 当干电池或充电电池电量不足时，显示屏上会出现闪烁的 r 或“LOW BATT”。请更换干电池或为充电电池充电。
+电池电量指示为近似值。
+注意 更换电池前，请停止录音机。
+
+#########################################
+	Additional information
+Precautions
+
+On safety
+Do not put any foreign objects in the DC IN 3V jack.
+On power sources
+• Use house current, nickel metal hydride rechargeable battery, LR6 (size AA) battery, or car battery.
+• For use in your house: Use the AC power adaptor supplied with this recorder. Do not use any other AC power adaptor since it may cause the recorder to malfunction.
+• The recorder is not disconnected from the AC power source (mains) as long as it is connected to the wall outlet, even if the recorder itself has been turned off.
+• If you are not going to use this recorder for a long time, be sure to disconnect the power supply (AC power adaptor, dry battery, rechargeable battery, or car battery cord). To remove the AC power adaptor from the wall outlet, grasp the adaptor plug itself; never pull the cord.
+
+附加信息
+注意事项
+
+安全
+请勿将任何异物放入 DC IN 3V 插孔。
+关于电源
+• 使用家用电流、镍氢充电电池、LR6（AA 型）电池或汽车电池。
+• 在家中使用时：使用本录音机附带的交流电源适配器。请勿使用任何其他交流电源适配器，因为这可能会导致录音机故障。
+• 只要录音机连接到墙上插座，即使录音机本身已关闭，录音机也不会与交流电源（主电源）断开连接。
+• 如果您长时间不使用此录音机，请务必断开电源​​（交流电源适配器、干电池、充电电池或汽车电池线）。要从墙上插座拔下交流电源适配器，请抓住适配器插头本身；切勿拉扯电源线。
+
+On heat build-up
+Heat may build up in the recorder if it is used for an extended period of time. In this case, leave the recorder turned off until it cools down.
+
+On installation
+• Never use the recorder where it will be subjected to extremes of light, temperature, moisture or vibration.
+• Never wrap the recorder in anything when it is being used with the AC power adaptor. Heat build-up in the recorder may cause malfunction or damage.
+
+关于热量积聚
+如果长时间使用录音机，其内部可能会积聚热量。在这种情况下，请关闭录音机，直到其冷却下来。
+
+关于安装
+• 切勿在光线、温度、湿度或振动极强的地方使用录音机。
+• 在使用交流电源适配器时，切勿用任何东西包裹录音机。录音机内部的热量积聚可能会导致故障或损坏。
+
+On the headphones
+Road safety
+Do not use headphones while driving, cycling, or operating any motorized vehicle. It may create a traffic hazard and is illegal in many areas. It can also be potentially dangerous to play your recorder at high volume while walking, especially at pedestrian crossings. You should exercise extreme caution or discontinue use in potentially hazardous situations.
+
+Preventing hearing damage
+Avoid using headphones at high volume.
+Hearing experts advise against continuous, loud and extended play. If you experience a ringing in your ears, reduce the volume or discontinue use.
+
+关于耳机
+道路安全
+请勿在驾驶、骑车或操作任何机动车时使用耳机。这可能会造成交通危险，在许多地区是违法的。在行走时，尤其是在人行横道上，以高音量播放录音机也具有潜在危险。在潜在危险情况下，您应该格外小心或停止使用。
+
+预防听力损伤
+避免以高音量使用耳机。
+听力专家建议不要连续、大声和长时间播放。如果您的耳朵里有嗡嗡声，请降低音量或停止使用。
+
+Caring for others
+Keep the volume at a moderate level. This will allow you to hear outside sounds and to be considerate of the people around you.
+On the MiniDisc cartridge
+• When carrying or storing the MiniDisc, keep it in its case.
+• Do not break open the shutter.
+• Do not place the cartridge where it will be subject to light, extreme temperatures, moisture or dust.
+
+On cleaning
+• Clean the recorder casing with a soft cloth slightly moistened with water or a mild detergent solution. Do not use any type of abrasive pad, scouring powder or solvent such as alcohol or benzene as it may mar the finish of the casing.
+• Wipe the disc cartridge with a dry cloth to remove dirt.
+• Dust on the lens may prevent the unit from operating properly. Be sure to close the disc compartment lid after inserting or ejecting an MD.
+
+关心他人
+将音量保持在适中水平。这样您才能听到外界的声音，并体谅周围的人。
+关于 MiniDisc 盒式磁带
+• 携带或存放 MiniDisc 时，请将其放在盒式磁带中。
+• 不要打开快门。
+• 不要将盒式磁带放在会受到光线、极端温度、潮湿或灰尘的地方。
+
+关于清洁
+• 用沾有少量水或温和清洁剂溶液的软布清洁录音机外壳。请勿使用任何类型的研磨垫、擦洗粉或溶剂（如酒精或苯），因为它们可能会损坏外壳的表面。
+• 用干布擦拭光盘盒以去除污垢。
+• 镜头上的灰尘可能会妨碍设备正常运行。插入或弹出 MD 后，请务必关闭光盘仓盖。
+
+Notes on batteries
+Incorrect battery usage may lead to leakage of battery fluid or bursting batteries. To prevent such accidents, observe the following precautions:
+• Install the + and – poles of the batteries correctly.
+• Do not try to recharge dry battery.
+• When the recorder is not to be used for a long time, be sure to remove the batteries.
+• If a battery leak should develop, carefully and thoroughly wipe away battery fluid from the battery compartment before inserting new ones.
+
+Note on mechanical noise
+The recorder gives off mechanical noise while operating, which is caused by the power-saving system of the recorder and it is not a problem.
+
+To protect a recorded MD
+To record-protect an MD, slide open the tab at the side of the MD. In this position, the MD cannot be recorded. To record again, slide the tab back so the tab is visible.
+
+Note on digital recording
+This recorder uses the Serial Copy Management System, which allows only first-generation digital copies to be made from premastered software. You can only make copies from a home-recorded MD by using the analog (line out) connections.
+
+Premastered software such as CDs or MDs.
+
+If you have any questions or problems concerning your recorder, please consult your nearest Sony dealer. (If a trouble occurred when the disc was in the recorder, we recommend that the disc be left in the recorder when you consult your Sony dealer so that the cause of trouble may be better understood.) 
+
+电池注意事项
+电池使用不当可能会导致电池漏液或电池爆裂。为防止此类事故，请遵守以下注意事项：
+• 正确安装电池的 + 和 - 极。
+• 请勿尝试给干电池充电。
+• 长时间不使用录音机时，请务必取出电池。
+• 如果发生电池漏液，请在插入新电池之前仔细彻底地擦去电池盒中的电池液。
+
+机械噪音注意事项
+录音机在操作时会发出机械噪音，这是由录音机的省电系统引起的，这不是问题。
+
+保护录制的 MD
+要对 MD 进行录制保护，请滑开 MD 侧面的卡舌。在此位置，无法录制 MD。要再次录制，请将卡舌滑回，使卡舌可见。
+
+数字录制注意事项
+本录音机使用串行复制管理系统，该系统仅允许从预制软件制作第一代数字副本。您只能使用模拟（线路输出）连接从家庭录制的 MD 进行复制。
+
+预制软件，例如 CD 或 MD。
+
+如果您对录音机有任何疑问或问题，请咨询您最近的 Sony 经销商。（如果光盘在录音机中时发生故障，我们建议您在咨询 Sony 经销商时将光盘留在录音机中，以便更好地了解故障原因。）
+
+#########################################
+Troubleshooting
+
+Should any problem persist after you have made these checks, consult your nearest Sony
+dealer.
+
+略
+
+#########################################
+	System limitations
+The recording system in your MiniDisc recorder is radically different from those used in cassette and DAT decks and is characterized by the limitations described below. Note, however, that these limitations are due to the inherent nature of the MD recording system itself and not to mechanical causes.
+
+MiniDisc 录音机中的录音系统与盒式磁带和 DAT 录音机中使用的录音系统截然不同，并且具有下述局限性。但请注意，这些局限性是由于 MD 录音系统本身的固有性质造成的，而不是机械原因造成的。
+
+略
+
+#########################################
+	Messages
+If the following error messages flash in the display window, check the chart below.
+如果显示窗口中闪烁以下错误信息，请检查下表。
+
+略
+
+#########################################
+	Specifications
+System
+Audio playing system
+MiniDisc digital audio system
+Laser diode properties
+Material: GaAlAs
+Wavelength: λ = 790 nm
+Emission duration: continuous
+Laser output: less than 44.6 µW
+(This output is the value measured at a distance
+of 200 mm from the lens surface on the optical
+pick-up block with 7 mm aperture.)
+Recording and playback time
+Maximum 80 minutes (MDW-80, stereo
+recording)
+Maximum 160 minutes (MDW-80, monaural
+recording)
+Maximum 74 minutes (MDW-74, stereo
+recording)
+Maximum 148 minutes (MDW-74, monaural
+recording)
+Revolutions
+400 rpm to 1800 rpm (CLV)
+Error correction
+Advanced Cross Interleave Reed Solomon
+Code (ACIRC)
+Sampling frequency
+44.1 kHz
+Sampling rate converter
+Input: 32 kHz/44.1 kHz/48 kHz
+Coding
+Adaptive TRansform Acoustic Coding
+(ATRAC)
+Modulation system
+EFM (Eight to Fourteen Modulation)
+Number of channels
+2 stereo channels
+1 monaural channel
+Frequency response
+20 to 20,000 Hz ± 3 dB
+Wow and Flutter
+Below measurable limit
+Inputs
+Microphone: stereo mini-jack, 0.35–1.38 mV
+Line in: stereo mini-jack, 69–194 mV
+Optical (Digital) in: optical (digital) mini-jack
+Outputs
+i/LINE OUT*: stereo mini-jack
+Headphones: maximum output level 5 mW +
+5mW, load impedance 16 ohm	
+LINE OUT: 194 mV, load impedance 10
+kilohm
+* The i/LINE OUT jack connects either
+headphones or a line cable.
+
+General
+Power requirements
+Sony AC Power Adaptor (supplied) connected
+at the DC IN 3 V jack:
+120 V AC, 60 Hz (US model)
+240 V AC, 50/60 Hz (Australia and New
+Zealand model)
+220 V AC, 50 Hz (China model)
+Nickel metal hydride rechargeable battery NH-
+14WM (supplied)
+LR6 (size AA) alkaline battery (not supplied)
+Battery operation time
+See “Battery life” (page 41)
+Dimensions
+MZ-R90
+Approx. 78.9 × 17.3 × 72.0 mm (w/h/d)
+(3 1 / 8 × 11 / 16 × 2 7 / 8 in.)
+MZ-R91
+Approx. 78.9 × 18.0 × 72.0 mm (w/h/d)
+(3 1 / 8 × 23 / 32 × 2 7 / 8 in.)
+Mass
+MZ-R90
+Approx. 105 g (3.7 oz) the recorder only
+Approx. 148 g (5.2 oz) incl. a recordable MD,
+and NH-14WM nickel metal hydride
+rechargeable battery
+MZ-R91
+Approx. 110 g (3.8 oz) the recorder only
+Approx. 153 g (5.4 oz) incl. a recordable MD,
+and NH-14WM nickel metal hydride
+rechargeable battery
+Supplied accessories
+AC power adaptor (1)
+Headphones with a remote control (1)
+NH-14WM nickel metal hydride rechargeable
+battery (1)
+Dry battery case (1)
+Rechargeable battery carrying case (1)
+Carrying pouch (1)
+AC plug adaptor (China model only) (1)
+Optional accessories
+Optical Cable
+POC-151HG, POC-152HG, POC-MZ1,
+POC-MZ2, POC-15B, POC-15AB, POC-
+DA12SP
+Line Cable RK-G129, RK-G136
+Stereo Microphones ECM-717, ECM-MS907,
+ECM-MS957
+Stereo Headphones* MDR-series
+CD text connecting cable RK-TXT1
+Active Speakers SRS-Z500
+Recordable MDs MDW-series
+Your dealer may not handle some of the above
+listed accessories. Please ask the dealer for
+detailed information about the accessories in
+your country.
+US and foreign patents licensed from Dolby
+Laboratories Licensing Corporation.
+Design and specifications are subject to change
+without notice.
+∗ Whether you should plug the headphones
+directly to i/LINE OUT on the main unit
+or to a remote control, use only headphones
+with stereo mini plugs.
+
+#########################################	
+	What is an MD?
+How MiniDisc works
+MiniDisc (MD) comes in two types: premastered (prerecorded) and recordable (blank). Premastered MDs, recorded at music studios, can be played back almost endlessly. However, they can’t be recorded on or over like cassette tapes. To record, you must use a “recordable MD”.
+
+Premastered MDs
+Premastered MDs are recorded and played like regular CDs. A laser beam focuses on the pits in the surface of the MD and reflects the information back to the lens in the recorder. The recorder then decodes the signals and plays them back as music.	
+
+Recordable MDs
+Recordable MDs, which use magneto- optical (MO) technology, can be recorded again and again. The laser inside the recorder applies heat to the MD, demagnetizing the magnetic layer of the MD. The recorder then applies a magnetic field to the layer. This magnetic field corresponds exactly to the audio signals generated by the connected source. (The north and south polarities equate to digital “1” and “0”.) The demagnetized MD adopts the polarity of the magnetic field, resulting in a recorded MD.
+
+How the MiniDisc got so small
+The 2.5-inch MiniDisc, encased in a plastic cartridge that looks like a 3.5-inch diskette (see illustration above), uses a new digital audio compression technology called ATRAC (Adaptive TRansform Acoustic Coding). To store more sound in less space, ATRAC extracts and encodes only those frequency components actually audible to the human ear.
+
+Quick Random Access
+Like CDs, MDs offer instantaneous random access to the beginning of any music track.
+Premastered MDs are recorded with location addresses corresponding to each music selection.
+Recordable MDs are manufactured with a “User TOC Area” to contain the order of the music. The TOC (Table of Contents) system is similar to the “directory management system” of floppy disks. In other words, starting and ending addresses for all music tracks recorded on the disc are stored in this area. This lets you randomly access the beginning of any track as soon as you enter the track number (AMS), as well as label the location with a track name as you would a file on a diskette.
+
+Shock-Resistant Memory
+One major drawback of optical read systems is that they can skip or mute when subjected to vibration. The MD system resolves this problem by using a buffer memory that stores audio data.
+
+什么是 MD？
+MiniDisc 的工作原理
+MiniDisc (MD) 有两种类型：预制（预录制）和可录制（空白）。预制 MD 在音乐工作室录制，几乎可以无限次播放。但是，它们不能像盒式磁带那样被录制或覆盖。要录制，您必须使用“可录制 MD”。
+
+预制 MD
+预制 MD 的录制和播放方式与普通 CD 相同。激光束聚焦在 MD 表面的凹坑上，并将信息反射回录音机中的镜头。然后，录音机解码信号并将其播放为音乐。
+
+可录制 MD
+可录制 MD 使用磁光 (MO) 技术，可以反复录制。录音机内的激光对 MD 施加热量，使 MD 的磁层消磁。然后，录音机对该层施加磁场。该磁场与所连接源产生的音频信号完全对应。（北极和南极相当于数字“1”和“0”。）消磁后的 MD 采用磁场的极性，从而产生录制的 MD。
+
+MiniDisc 为何如此小巧
+2.5 英寸 MiniDisc 装在一个看起来像 3.5 英寸软盘的塑料盒中（见上图），使用一种称为 ATRAC（自适应变换声学编码）的新型数字音频压缩技术。为了在更小的空间中存储更多的声音，ATRAC 仅提取和编码人耳可以听到的频率成分。
+
+快速随机访问
+与 CD 一样，MD 可即时随机访问任何音乐曲目的开头。
+预制 MD 的录制位置地址与每个音乐选择相对应。
+可录制 MD 在制造时带有“用户 TOC 区域”，以包含音乐的顺序。 TOC（目录）系统类似于软盘的“目录管理系统”。换句话说，光盘上录制的所有音乐曲目的起始和结束地址都存储在此区域中。这样，只要输入曲目编号 (AMS)，您就可以随机访问任何曲目的开头，并像软盘上的文件一样用曲目名称标记位置。
+
+抗震内存
+光学读取系统的一个主要缺点是它们在受到振动时会跳过或静音。MD 系统通过使用存储音频数据的缓冲存储器解决了这个问题。
+
+#########################################
+Looking at the controls
+See pages in ( ) for more details.
+The recorder
+
+
