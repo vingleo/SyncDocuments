@@ -1,0 +1,183 @@
+SpitfireSymphonyOrchestra_UserManual
+
+****************************************
+				CONGRATULATIONS 
+Thank you for purchasing Spitfire Symphony Orchestra. The ultimate symphonic sample package. We are sure it will bring you many years of pleasure. From the recordings up SSO contains elements that are designed to lock in seamlessly all the way to operating the interface. This user manual gives an overview of how to use each and every feature of SSO, but you may find the individual user manuals for each component may drill down into the specifics of that instrument group or orchestral ‘choir’ with tips on orchestration and info about each individual instrument.
+
+感谢您购买 Spitfire Symphony Orchestra。终极交响乐样本包。我们相信它将为您带来多年的乐趣。从录音开始，SSO 包含旨在无缝锁定的元素，一直到操作界面。本用户手册概述了如何使用 SSO 的每个功能，但您可能会发现每个组件的单独用户手册可能会深入探讨该乐器组或管弦乐“合唱团”的细节，其中包含有关编曲的提示和有关每种乐器的信息。
+
+Quick Specs
+
+• Symphonic Strings, Woodwinds, Brass & ‘Masse’.
+• NKS Ready
+• Compatible with Native Instruments hardware
+• Free Kontakt Player Included
+• New intuitive GUI with inline help
+• Essential microphones (CTA)
+• Deep sampled:
+	- Multiple Instruments
+	- Multiple Articulations
+	- Multiple dynamics
+	- Multiple round robins
+	
+快速规格
+
+• 交响弦乐、木管乐、铜管乐和“声部组合”。
+• NKS 就绪
+• 与 Native Instruments 硬件兼容
+• 包含免费 Kontakt Player
+• 带有内联帮助的全新直观 GUI
+• 必备麦克风 (CTA)
+• 深度采样：
+	- 多种乐器
+	- 多种发音
+	- 多种动态
+	- 多种循环	
+
+Table Of Contents
+CONGRATULATIONS 								2
+PRECAUTIONS										 2
+WELCOME 											3
+DOWNLOADING & INSTALLING 							4
+REGISTERING WITH KONTAKT PLAYER 					5
+FOLDER STRUCTURE 									6
+A QUICK LOOK 										7
+THE ‘GENERAL OVERVIEW’ PANEL 8
+THE EXPERT VIEW 9
+THE OSTINATUM 13
+APPENDIX A - RECOMMENDED TECH SPECS 14
+APPENDIX B - KONTAKT vs KONTAKT PLAYER 14
+APPENDIX C - UACC 15
+APPENDIX D - FAQS & TROUBLESHOOTING 16
+
+目录
+祝贺 2
+注意事项 2
+欢迎 3
+下载和安装 4
+使用 KONTAKT PLAYER 注册 5
+文件夹结构 6
+快速浏览 7
+“总体概述”面板 8
+专家视图 9
+OSTINATUM 13
+附录 A - 推荐技术规格 14
+附录 B - KONTAKT 与 KONTAKT PLAYER 14
+附录 C - UACC 15
+附录 D - 常见问题和故障排除 16
+
+****************************************
+				PRECAUTIONS
+				防范措施
+If you’ve never used a Spitfire instrument before there are two very basic principles to grasp. Once you’ve got these, you’ll be up and running and ready to go. By all means read on, but the first two rules are:
+
+如果您以前从未使用过 Spitfire 乐器，那么有两个非常基本的原则需要掌握。掌握这些原则后，您就可以开始使用了。请务必继续阅读，但前两个规则是：
+
+TOP TIP: The little ‘i’s on your GUI are ‘inline’ help. Click on these to find out stuff.
+热门提示：GUI 上的小“i”是“内联”帮助。单击它们可查找内容。
+
+1.) Use these switches to change the articulations... they also corre- spond to keyswitches on the very bottom of your keyboard.
+2.) On long notes make sure you always use your Modwheel
+
+1.) 使用这些开关来改变发音……它们也与键盘底部的按键开关相对应。
+2.) 在长音符上，请确保始终使用调制轮
+
+****************************************
+				WELCOME
+				欢迎
+World-class woodwinds, brass and strings exhaustively sampled at Air Studios in the Hall by an award winning team over the last 5 years with a single core aim and approach. Formerly the plat- inum and 10 star reviewed “BML British Modular” range, SSO offers a single truly professional solution for people wanting to make blockbuster symphonic music.		
+
+世界一流的木管乐器、铜管乐器和弦乐，由一支获奖团队在过去 5 年中在音乐厅的 Air Studios 进行了详尽采样，其核心目标和方法只有一个。SSO 以前是白金级和 10 星评价的“BML British Modular”系列，为想要制作轰动一时的交响音乐的人们提供了真正专业的单一解决方案。		
+				
+From the root level of our instruments folders, you’ll immedi- ately see a unified and simple approach. Offering up a pre-cu- rated set of playing styles (or articulations) in a way that is easy to access and simple to execute with relatively little orches- tral programming experience. You’ll see, as you dig deeper into more adventurous areas of the library, that it will grow with your experience and personal development as an electronic or- chestrator.			
+				
+从我们的乐器文件夹的根目录，您将立即看到一种统一而简单的方法。提供一组预先设定的演奏风格（或发音），易于访问且易于执行，即使管弦乐编程经验较少。您会发现，随着您深入探索库中更具冒险精神的领域，它将随着您作为电子管弦乐演奏家的经验和个人发展而成长。			
+
+Each choir (woods, brass, strings) has a huge selection of playing styles, with numerous dynamic layers, release triggers, round robins, true and performance legatos. With unique and comprehensive playing styles, different section sizes (solo, a2 and a6 where appropriate) for the brass and woodwinds, alongside an enormous heart of 60 strings players up front, this band of over 100 players is complimented by some super exclusive orches- tration tools for no-nonsense composition at the coalface by the name of “Masse”, only available to owners of SSO.
+	
+每个合唱团（木管、铜管、弦乐）都有大量的演奏风格，具有众多动态层次、释放触发器、循环、真实连奏和表演连奏。这支拥有 100 多名演奏者的乐队拥有独特而全面的演奏风格，铜管和木管乐器的演奏部分大小各异（独奏、a2 和 a6，视情况而定），再加上 60 名弦乐演奏者组成的庞大核心，还拥有一些超级独家编曲工具，用于在工作现场进行严肃的作曲，名为“Masse”，只有 SSO 的所有者才能使用。
+
+BACKGROUND
+If there is any single product that encompasses the very core concept of Spitfire Audio it is SSO, 10 years in design, 5 years in the making - a new chapter in our history.
+
+背景
+如果说有任何一款产品能够体现 Spitfire Audio 的核心理念，那么 SSO 就是其中之一。我们历经 10 年的设计、5 年的制作，开启了我们历史上的新篇章。
+
+SSO is the pinnacle of Spitfire’s achievements over the last decade - after over 50 award-winning orchestral products, it’s an evolution of technique; a codification of our craft. Work- ing closely with A-list composers on AAA productions, and as working composers ourselves, at the coalface. SSO is a culmination of our experience, an encyclopaedia of learning, a bible of knowledge, the Death Star of orchestral packages, one ring to bind us!
+
+SSO 是 Spitfire 过去十年来所取得成就的顶峰 - 在制作了 50 多部获奖的管弦乐作品之后，这是一次技术上的进化；是我们技艺的编纂。与一线作曲家密切合作制作 AAA 作品，我们自己也作为作曲家，在工作现场。SSO 是我们经验的顶峰，是学习的百科全书，是知识的圣经，是管弦乐套装的死星，是将我们捆绑在一起的一环！
+
+Originally starting out as the BML (British Modular Library) and released in volumes over the last 4 years, the key objective was interconnectivity - that each part of the library would lock in with the other. So alongside the ultra-detailed level of samples, articulations, dynamic layers and round robins gathered un- der the enormous structure of the Hall at Air Studios, we also placed each player in-situ, and mixed 4 years of recordings so that every component of the band has correct position in the sonic field. This isn’t just about panning left to right, if you want someone to sound like they’re behind the violas, and not sitting on their laps, you’ve got to place them there! Over the last half decade we have learned many lessons. We applied techniques learned from brass recording to our woodwinds sessions, and lessons learned had us return to the Hall to update some of our string recordings. By unifying this enormous project into a single collection, we have pooled the acres of knowledge earned into a single experience.
+
+最初以 BML（英国模块化图书馆）为起点，并在过去 4 年内分批发布，主要目标是实现互联互通 - 图书馆的每个部分都将与其他部分锁定。因此，除了在 Air Studios 大厅巨大的结构下收集超详细的样本、发音、动态层和循环之外，我们还将每个演奏者安置在现场，并混合了 4 年的录音，以便乐队的每个组成部分在声场中都有正确的位置。这不仅仅是从左到右平移，如果你想让某人听起来像是在中提琴后面，而不是坐在他们的腿上，你就必须把他们放在那里！在过去的五年里，我们学到了很多教训。我们将从铜管乐器录音中学到的技术应用到我们的木管乐器演奏中，而从中学到的经验教训让我们回到大厅更新我们的一些弦乐录音。通过将这个庞大的项目统一为一个集合，我们将获得的大量知识汇集到一个体验中。
+
+Because of this, SSO presents a singular orchestral concept like no other. A long term project that has been rationalised from its modular form into a new singular one readying it for future sam- pling endeavours. For whilst SSO contains every possible classic nuance, we, as working composers, have also curated playing styles that are very much part of the zeitgeist; something we look forward to writing with in the future.
+
+因此，SSO 呈现了一种独一无二的管弦乐概念。这是一个长期项目，已从模块化形式合理化为一种新的单一形式，为未来的采样工作做好准备。虽然 SSO 包含了所有可能的古典细微差别，但作为职业作曲家，我们也策划了非常符合时代精神的演奏风格；我们期待在未来创作中运用这种风格。
+
+FEATURES
+SPITFIRE SYMPHONIC STRINGS - If there was a single product that could sum up the foundation of Spitfire’s approach to sampling it would be this. Recorded at the studio that has played host to scores from blockbusters that have grossed bil- lions of dollars, with the same players playing the same instru- ments. Deep sampled with our usual affluent approach. If you want the blockbuster sound you have to go bold, if you want cinematic you have to go big. The ultimate encyclopaedic com- pendium of symphonic strings sampling, recorded in London, with no expense spared. SSS is the ‘Daddy’.
+
+特点
+SPITFIRE 交响弦乐 - 如果说有一款产品可以概括 Spitfire 采样方法的基础，那么它就是这款产品。录制于曾为票房收入数十亿美元的大片配乐提供场地的录音室，由相同的演奏者演奏相同的乐器。采用我们一贯的丰富方法进行深度采样。如果您想要大片般的声音，就必须大胆尝试；如果您想要电影般的声音，就必须大张旗鼓。交响弦乐采样的终极百科全书，在伦敦录制，不惜重金。SSS 是“老爹”。
+
+SPITFIRE SYMPHONIC BRASS - Many consider that British brass players are the best in world. As with all of Spitfire Sym- phonic Orchestra we have spent the last half decade recording the best of the best at one of the most sought-after locations in the world - The Hall at Air Studios, London - for this, a definitive compendium of orchestral brass.
+
+喷火战机交响乐团铜管乐 - 许多人认为英国铜管乐手是世界上最好的。与喷火战机交响乐团的所有成员一样，我们在过去五年中一直在世界上最受追捧的地点之一 - 伦敦 Air Studios 大厅录制最优秀的作品，为此，我们制作了管弦乐铜管乐的权威汇编。
+
+SPITFIRE SYMPHONIC WOODWINDS - Often neglected by modern media composers, the Woods are your secret weap- on to add real power to your productions. Spitfire Audio has taken its decade of experience making woodwind instruments and has spent the last five years recording the best of the best for this, a definitive compendium of orchestral woodwinds.
+
+SPITFIRE 交响木管乐器 - 木材经常被现代媒体作曲家忽视，但它却是为您的作品增添真正力量的秘密武器。Spitfire Audio 拥有十年的木管乐器制作经验，并在过去五年中录制了最优秀的木管乐器，这是管弦乐木管乐器的权威汇编。
+
+MASSE - Exclusive to owners of SSO*, we’re proud to pres- ent a set of super-exclusive tools for composers working at the frontline needing to hit that deadline. Designed by com- posers who are working down the same music mine and have their backs. Featuring all three choirs (brass, woods, strings) of our symphonic orchestral project carefully re-orchestrated, re-mixed and re-baked into a series of awe-inspiring, straight out-of-the-box mega-tools. Only available as part of the Spitfire Symphony Orchestra collection [LINK]. Some of the presets within contain forces of over 300 players, designed for no-non- sense composers looking to get the job done.
+	
+MASSE - 仅供 SSO* 所有者使用，我们很自豪地为需要在截止日期前完成工作的一线作曲家提供一套超级独家工具。由在同一音乐矿井下工作并为他们提供支持的作曲家设计。我们的交响管弦乐项目的所有三个合唱团（铜管、木管、弦乐）都经过精心重新编排、重新混音和重新烘焙，成为一系列令人惊叹的开箱即用的超级工具。仅作为 Spitfire Symphony Orchestra 系列 [LINK] 的一部分提供。其中一些预设包含超过 300 个演奏，专为希望完成工作的严肃作曲家而设计。
+
+OPTIONAL EXTRAS - Owners of SSO will also be eligible to purchase the many exclusive expansion packs designed to set you aside from the flock. From additional sets of microphones and mixes to ultra-exclusive one-offs like the awesome “Symphonic Evolutions”. These packs are only available to owners of SSO or their associated core product.	 
+
+可选附加功能 - SSO 的所有者还将有资格购买许多独家扩展包，这些扩展包旨在让您与众不同。从额外的麦克风和混音器套件到超独家的一次性产品，如令人惊叹的“Symphonic Evolutions”。这些包仅适用于 SSO 或其相关核心产品的所有者。
+
+****************************************
+				DOWNLOADING & INSTALLING
+Thank you for buying Spitfire Symphony Orchestra. If you are a total newbie to this kind of thing you can get up to speed here: http://www.spitfireaudio.com/info/basics/
+First though, grab our ‘Library Manager’ app from this link: this app will enable you to download the library http://www.spitfireaudio.com/info/library-manager/
+
+下载和安装
+感谢您购买 Spitfire Symphony Orchestra。如果您是这方面的新手，您可以在这里快速了解：http://www.spitfireaudio.com/info/basics/
+不过，首先，请从此链接获取我们的“Library Manager”应用程序：此应用程序将使您能够下载库 http://www.spitfireaudio.com/info/library-manager/
+
+When you launch the app you will be prompted to login using the same details you use at our site. Then you’ll see your avail- able downloads:
+
+Once you have selected what you wish to download on the left pane, and clicked the ‘download’ button you will have the option to select a location.
+
+A default location will be generated but you’ll most likely want to change this. Here’s how! Click on the two little vertical arrow- heads to the right of the default location. You will be presented with the following options, and you’ll want to click ‘CHOOSE’.
+
+
+Once you’ve selected the location you can proceed with the download. NOTE THAT THE DOWNLOADER WILL CREATE A SUB FOLDER FOR YOUR LIBRARY IN THE LOCATION SELECTED. This is important: if you have a multi part library, or an update, it means that the Library Manager app will look INSIDE the selected location for your library folder. If its not there, it will create a new library folder. So, if you mistakenly select the actual ‘SSW library’ folder itself, when adding content or doing an update, instead of the location (one folder level up) that CONTAINS this library folder, you’ll end up with a nested mess!!
+
+TOP TIP: You will need approx TWICE the amount of hard drive space as the library uses (see the product page on our site for this info) to download: this is because the zip files are all downloaded, and then unzipped. This process takes a while so don’t panic if it looks like its frozen!
+
+TOP TIP 2: If you get in a total mess you can reset the download of either the whole library or just the latest update from the ‘Library’ menu of the app. This is limited to a couple of downloads as band- width is expensive! Please only do this if you actually need to.
+
+You’ll see an option also to Change Install Location, if you se- lected the wrong one, at any time you can hit the PAUSE button to pause the download, then select CHANGE INSTALL LOCA- TION and the app will move all the downloaded files to the new location. Once it has finished - you’ll be prompted if you want to proceed, THEN you can hit the RESUME button to continue the download in the new location.
+
+启动应用程序时，系统会提示您使用在我们网站上使用的相同详细信息登录。然后，您将看到可用的下载内容：
+
+在左侧窗格中选择要下载的内容并单击“下载”按钮后，您将可以选择一个位置。
+
+将生成一个默认位置，但您很可能想要更改它。方法如下！单击默认位置右侧的两个小垂直箭头。您将看到以下选项，您需要单击“选择”。
+
+选择位置后，您可以继续下载。请注意，下载器将在所选位置为您的库创建一个子文件夹。这很重要：如果您有一个多部分库或更新，则意味着库管理器应用程序将在所选位置内查找您的库文件夹。如果不存在，它将创建一个新的库文件夹。因此，如果您在添加内容或进行更新时错误地选择了实际的“SSW 库”文件夹本身，而不是包含此库文件夹的位置（上一级文件夹），那么您最终会陷入一团乱麻！！
+
+热门提示：下载时，您需要大约两倍于库所用的硬盘空间（有关此信息，请参阅我们网站上的产品页面）：这是因为 zip 文件全部下载，然后解压。此过程需要一段时间，所以如果它看起来冻结了，请不要惊慌！
+
+热门提示 2：如果您陷入了困境，您可以从应用程序的“库”菜单中重置整个库的下载或仅重置最新更新。由于带宽​​昂贵，因此这仅限于几次下载！请仅在您确实需要时才这样做。
+
+您还会看到一个更改安装位置的选项，如果您选择了错误的安装位置，您可以随时点击“暂停”按钮暂停下载，然后选择“更改安装位置”，应用程序会将所有下载的文件移动到新位置。下载完成后，系统会提示您是否要继续，然后您可以点击“继续”按钮在新位置继续下载。
+
+****************************************
+REGISTERING WITH KONTAKT PLAYER
+
+略
+
+

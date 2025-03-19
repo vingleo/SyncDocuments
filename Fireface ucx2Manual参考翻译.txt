@@ -1,0 +1,2132 @@
+Fireface ucx2 
+********************************************************************
+Safety Instructions and Proper use
+
+Read the manual carefully and completely before using the device. Pay attention to the following information on how to use and operate the Fireface UCX II safely. Improper use can lead to loss of warranty claims (see warranty statement on page 82).
+
+Proper Use
+The Fireface UCX II is a digital interface for professional audio applications for use with CE ap- proved class B computers.
+
+To comply with the European CE standard, the Fireface UCX II must be used with CE approved Class B computers. All connecting cables must be shielded.
+
+The computer and all cables connected to the Fireface UCX II must be properly grounded. Operation with non-certified computers and cables may cause inter- ference to other devices as well as the Fireface UCX II.
+
+Do not open chassis
+No user serviceable parts inside. Refer service to qualified service personnel.
+
+To reduce the risk of fire or electric shock do not expose this device to rain or moisture. Prevent moisture and water from entering the device. Never leave a pot with liquid on top of the device. Do not use this product near water, i. e. swimming pool, bathtub or wet basement. Danger of condensation inside – don't turn on before the device has reached room temperature.
+
+Installation
+Surface may become hot during operation – ensure sufficient ventilation.
+Avoid direct sun light and do not place it near other sources of heat, like radi- ators or stoves. When mounting in a rack, leave some space between this device and others for ventilation.
+
+Unauthorized servicing/repair voids warranty. Only use accessories specified by the manufacturer.
+
+安全说明和正确使用
+
+使用设备前请仔细完整地阅读手册。注意以下有关如何安全使用和操作 Fireface UCX II 的信息。使用不当可能导致保修索赔失效（请参阅第 82 页的保修声明）。
+
+正确使用
+Fireface UCX II 是用于专业音频应用的数字接口，可与 CE 认证的 B 类计算机配合使用。
+
+为了符合欧洲 CE 标准，Fireface UCX II 必须与 CE 认证的 B 类计算机一起使用。所有连接电缆都必须屏蔽。
+
+计算机和连接到 Fireface UCX II 的所有电缆必须正确接地。使用未经认证的计算机和电缆可能会对其他设备以及 Fireface UCX II 造成干扰。
+
+不要打开机箱
+里面没有用户可维修的部件。请将服务转交给合格的维修人员。
+
+为降低火灾或触电风险，请勿将本设备暴露在雨中或潮湿环境中。防止湿气和水进入设备。切勿将装有液体的锅放在设备顶部。请勿在水边（例如游泳池、浴缸或潮湿的地下室）使用本产品。内部有结露危险 - 请勿在设备达到室温之前开启。
+
+安装
+操作过程中表面可能会变热 - 确保通风良好。
+避免阳光直射，请勿将其放置在其他热源附近，例如散热器或炉灶。安装在机架中时，请在本设备与其他设备之间留出一些空间以通风。
+
+未经授权的维修/修理将使保修失效。仅使用制造商指定的配件。
+
+********************************************************************
+General
+1 Introduction ............................................................... 8
+2 Package Contents ..................................................... 8
+3 System Requirements .............................................. 8
+4 Brief Description and Characteristics .................... 8
+5 First Usage - Quick Start
+5.1 Connectors – Controls - Display ............................. 9
+5.2 Quick Start ............................................................ 11
+5.3 Menu and Navigation ............................................ 11
+5.4 Overview Menu Structure ..................................... 13
+5.5 Special Options ..................................................... 14
+
+概述
+1 简介 ................................................................ 8
+2 包装内容 .............................................................. 8
+3 系统要求 .............................................................. 8
+4 简要说明和特性 .............................................. 8
+5 首次使用 - 快速启动
+5.1 连接器 - 控件 - 显示屏 ................................ 9
+5.2 快速启动 .............................................................. 11
+5.3 菜单和导航 ...................................................... 11
+5.4 菜单结构概览 ...................................................... 13
+5.5 特殊选项 .............................................................. 14
+
+Installation and Operation - Windows
+6 Hardware, Driver and Firmware Installation
+6.1 Hardware and Driver Installation ............................. 16
+6.2 De-installing the Drivers ....................................... 16
+6.3 Firmware Update ................................................. 16
+7 Configuring the Fireface – Settings Dialog
+7.1 General ................................................................ 17
+7.2 Pitch ..................................................................... 19
+7.3 Option WDM Devices .......................................... 20
+8 Operation and Usage
+8.1 Playback .............................................................. 20
+8.2 DVD Playback (AC-3 / DTS) ................................ 21
+8.3 Channel Count under WDM ................................. 22
+8.4 Multi-client Operation ........................................... 22
+8.5 Analog Recording ................................................ 23
+8.6 Digital Recording.................................................. 23
+8.7 Clock Modes - Synchronization ........................... 24
+9 Operation under ASIO
+9.1 General ................................................................ 25
+9.2 Channel Count under ASIO ................................. 25
+9.3 Known Problems .................................................. 26
+10 Using more than one Fireface UCX II .................... 26
+11 DIGICheck Windows ............................................... 27
+12 Hotline – Troubleshooting ..................................... 28
+
+安装和操作 - Windows
+6 硬件、驱动程序和固件安装
+6.1 硬件和驱动程序安装 ...................................... 16
+6.2 卸载驱动程序 .............................................. 16
+6.3 固件更新 ...................................................... 16
+7 配置 Fireface - 设置对话框
+7.1 常规 ...................................................................... 17
+7.2 音高 ...................................................................... 19
+7.3 可选 WDM 设备 ...................................................... 20
+8 操作和使用
+8.1 播放 ...................................................................... 20
+8.2 DVD 播放 (AC-3 / DTS) ............................................. 21
+8.3 WDM 下的通道数 ...................................................... 22
+8.4 多客户端操作 ............................................................. 22
+8.5 模拟录音 ............................................................. 23
+8.6 数字录音 ............................................................. 23
+8.7 时钟模式 - 同步 ............................................................. 24
+9 ASIO 下的操作
+9.1 常规................................................................ 25
+9.2 ASIO 下的通道数 ...................................... 25
+9.3 已知问题 .............................................................. 26
+10 使用多个 Fireface UCX II .................... 26
+11 DIGICheck 窗口 .............................................. 27
+12 热线 – 故障排除 ............................................. 28
+
+Installation and Operation - Mac OS X
+13 Hardware, Driver and Firmware Installation
+13.1 Hardware and Driver Installation .......................... 30
+13.2 De-installing the Drivers ....................................... 30
+13.3 Firmware Update .................................................. 30
+14 Configuring the Fireface
+14.1 Settings Dialog ..................................................... 31
+14.2 Clock Modes - Synchronization ........................... 33
+15 Mac OS X FAQ
+15.1 MIDI doesn't work................................................. 34
+15.2 Repairing Disk Permissions ................................. 34
+15.3 Supported Sample Rates ..................................... 34
+15.4 Channel Count under Core Audio ........................ 34
+15.5 Various Information .............................................. 35
+16 Using more than one Fireface ................................ 35
+17 DIGICheck NG Mac .................................................. 36
+18 Hotline – Troubleshooting ...................................... 37
+
+安装和操作 - Mac OS X
+13 硬件、驱动程序和固件安装
+13.1 硬件和驱动程序安装 ...................................... 30
+13.2 卸载驱动程序 .............................................. 30
+13.3 固件更新 ...................................................... 30
+14 配置 Fireface
+14.1 设置对话框 ...................................................... 31
+14.2 时钟模式 - 同步 ............................................. 33
+15 Mac OS X 常见问题解答
+15.1 MIDI 不起作用 ...................................................... 34
+15.2 修复磁盘权限 ...................................................... 34
+15.3 支持的采样率 ...................................................... 34
+15.4 Core Audio 下的通道数 ............................................. 34
+15.5 各种信息 ............................................................. 35
+16 使用多个 Fireface ............................................. 35
+17 DIGICheck NG Mac ...................................................... 36
+18 热线 - 故障排除 ................................................37
+
+Inputs and Outputs
+19 Analog Inputs
+19.1 Line Rear .............................................................. 40
+19.2 Microphone / Line Front ....................................... 40
+19.3 Instrument / Line Front ......................................... 41
+20 Analog Outputs
+20.1 Line....................................................................... 42
+20.2 Headphones / Line Out ........................................ 42
+20.3 DC-Coupled Outputs (CV/Gate) .......................... 43
+21 Digital Connections
+21.1 ADAT .................................................................... 44
+21.2 AES/EBU .............................................................. 44
+21.3 SPDIF (Coaxial, Optical) ...................................... 45
+21.4 MIDI ...................................................................... 45
+22 Word Clock
+22.1 Word Clock Input / Output .................................... 46
+22.2 Technical Description and Background ............... 47
+22.3 Cables and Termination ....................................... 48
+22.4 General Operation ................................................ 48
+
+输入和输出
+19 模拟输入
+19.1 线路后置 ................................................................ 40
+19.2 麦克风/线路前置 ...................................................... 40
+19.3 乐器/线路前置 ...................................................... 41
+20 模拟输出
+20.1 线路............................................................................. 42
+20.2 耳机/线路输出 ...................................................... 42
+20.3 直流耦合输出 (CV/Gate) ...................................... 43
+21 数字连接
+21.1 ADAT .................................................................... 44
+21.2 AES/EBU ................................................................ 44
+21.3 SPDIF (同轴、光纤) ................................................ 45
+21.4 MIDI ............................................................................. 45
+22 字时钟
+22.1 字时钟输入/输出 ........................................................ 46
+22.2 技术说明和背景 ........................................................ 47
+22.3 电缆和终端 ........................................................ 48
+22.4 一般操作 ...................................................... 48
+
+Stand-Alone Operation
+23 Operation and Usage
+23.1 General................................................................. 50
+23.2 Settings at the Unit ............................................... 50
+23.3 Store / Load Setups at the Unit ............................ 50
+23.4 Storing Setups from the Computer ...................... 50
+23.5 ARC Options ........................................................ 51
+24 Examples
+24.1 8-Channel AD/DA-Converter ............................... 51
+24.2 2-Channel Mic Preamp ........................................ 51
+24.3 Monitor Mixer ....................................................... 51
+24.4 Digital Format Converter ...................................... 52
+24.5 Analog/Digital Routing Matrix ............................... 52
+24.6 Stand-Alone Recorder/Player .............................. 52
+
+独立操作
+23 操作和使用
+23.1 常规................................................................ 50
+23.2 设备上的设置 ................................................ 50
+23.3 设备上的存储/加载设置 ................................ 50
+23.4 从计算机存储设置 ........................................ 50
+23.5 ARC 选项 ........................................................ 51
+24 示例
+24.1 8 通道 AD/DA 转换器 ........................................ 51
+24.2 2 通道麦克风前置放大器 ........................................ 51
+24.3 监听混音器 ........................................................ 51
+24.4 数字格式转换器 ........................................................ 52
+24.5 模拟/数字路由矩阵 ........................................ 52
+24.6 独立录音机/播放器 ........................................ 52
+
+TotalMix FX
+25 Routing and Monitoring
+25.1 Overview .............................................................. 54
+25.2 The User Interface ............................................... 56
+25.3 The Channels ....................................................... 57
+25.3.1 Settings ........................................................ 59
+25.3.2 Equalizer ...................................................... 60
+25.3.3 Room EQ ..................................................... 62
+25.3.4 Dynamics ..................................................... 63
+25.4 Section Control Room .......................................... 64
+25.5 The Control Strip .................................................. 65
+25.5.1 View Options ................................................ 66
+25.5.2 Snapshots - Groups ..................................... 67
+25.5.3 Channel Layout – Layout Presets ................ 68
+25.5.4 Scroll Location Markers ............................... 69
+25.6 Reverb and Echo ................................................. 70
+25.7 Preferences .......................................................... 73
+25.7.1 Store for Current or All Users ...................... 74
+25.8 Settings ................................................................ 75
+25.8.1 Mixer Page ................................................... 75
+25.8.2 MIDI Page .................................................... 76
+25.8.3 OSC Page .................................................... 77
+25.8.4 Aux Devices ................................................. 78
+25.9 Hotkeys and Usage.............................................. 79
+25.10 Menu Options ....................................................... 80
+25.11 Menu Window ...................................................... 81
+26 The Matrix
+26.1 Overview .............................................................. 82
+26.2 Elements of the Matrix View ................................ 82
+26.3 Operation ............................................................. 82
+27 Tips and Tricks
+27.1 ASIO Direct Monitoring (Windows) ...................... 83
+27.2 Copy a Submix ..................................................... 83
+27.3 Doubling the Output Signal (Mirror) ..................... 83
+27.4 Delete a Submix ................................................... 83
+27.5 Copy and Paste everywhere ................................ 84
+27.6 Recording a Submix - Loopback .......................... 84
+27.7 MS Processing ..................................................... 85
+27.8 Program Start Options (Windows only) ............... 85
+28 MIDI Remote Control
+28.1 Overview .............................................................. 86
+28.2 Mapping ............................................................... 86
+28.3 Setup .................................................................... 87
+28.4 Operation ............................................................. 87
+28.5 MIDI Control ......................................................... 88
+28.6 Stand-Alone MIDI Control .................................... 89
+28.7 Loopback Detection ............................................. 90
+28.8 OSC (Open Sound Control) ................................. 90
+29 DAW Mode ............................................................... 90
+30 TotalMix Remote ..................................................... 91
+
+TotalMix FX
+25 路由和监控
+25.1 概述 ................................................................ 54
+25.2 用户界面 .............................................................. 56
+25.3 通道 ................................................................ 57
+25.3.1 设置 ........................................................ 59
+25.3.2 均衡器 ........................................................ 60
+25.3.3 房间均衡器 ...................................................... 62
+25.3.4 动态 ........................................................ 63
+25.4 部分控制室 ........................................................ 64
+25.5 控制条 ................................................................ 65
+25.5.1 查看选项 ........................................................ 66
+25.5.2 快照 - 组 ........................................................ 67
+25.5.3 通道布局 - 布局预设 ................................ 68
+25.5.4 滚动位置标记 ........................................................ 69
+25.6 混响和回声 ........................................................ 70
+25.7 偏好设置 ................................................................ 73
+25.7.1 为当前用户或所有用户存储 ................................ 74
+25.8 设置 ................................................................ 75
+25.8.1 混音器页面 .................................................... 75
+25.8.2 MIDI 页面 .................................................... 76
+25.8.3 OSC 页面 .................................................... 77
+25.8.4 辅助设备 ............................................................. 78
+25.9 热键和使用 ............................................................. 79
+25.10 菜单选项 ............................................................. 80
+25.11 菜单窗口 ............................................................. 81
+26 矩阵
+26.1 概述 ............................................................. 82
+26.2 矩阵视图的元素 ............................................. 82
+26.3 操作 ............................................................. 82
+27 技巧和窍门
+27.1 ASIO 直接监控（Windows） ...................... 83
+27.2 复制子混音 ...................................................... 83
+27.3 将输出信号加倍（镜像） ...................... 83
+27.4 删除子混音 ...................................................... 83
+27.5 到处复制和粘贴 ...................................... 84
+27.6 录制子混音 - 环回 ...................................... 84
+27.7 MS 处理 ...................................................... 85
+27.8 程序启动选项（仅限 Windows） ...................... 85
+28 MIDI 远程控制
+28.1 概述 ............................................................. 86
+28.2 映射 ............................................................. 86
+28.3 设置 ............................................................. 87
+28.4 操作 ............................................................. 87
+28.5 MIDI 控制 ............................................................. 88
+28.6 独立 MIDI 控制 ............................................. 89
+28.7 环回检测 ............................................................. 90
+28.8 OSC（开放声音控制）................................. 90
+29 DAW 模式.............................................. 90
+30 TotalMix 远程控制.............................................. 91
+
+Class Compliant Mode
+31 General ..................................................................... 96
+32 System Requirements............................................. 96
+33 Operation ................................................................. 97
+33.1 Useful Hints .......................................................... 97
+33.2 Class Compliant under Windows/Mac OS X........ 98
+34 Supported Inputs and Outputs .............................. 98
+35 Front panel Operation ............................................. 99
+36 Audio Routing and Processing .............................. 99
+37 Setups .................................................................... 100
+
+类兼容模式
+31 常规 ...................................................................... 96
+32 系统要求.............................................................. 96
+33 操作 ...................................................................... 97
+33.1 有用提示 .............................................................. 97
+33.2 Windows/Mac OS X 下的类兼容 ........................ 98
+34 支持的输入和输出 ................................................ 98
+35 前面板操作 ...................................................... 99
+36 音频路由和处理 ...................................................... 99
+37 设置 ...................................................................... 100
+
+DURec - Direct USB Recording
+38 Direct USB Recording
+38.1 Overview ............................................................ 102
+38.2 Operation ........................................................... 102
+38.3 Limitations and Important Notes ........................ 105
+38.4 Multichannel WAV File Batch Processor ........... 106
+38.5 Technical Background........................................ 107
+
+DURec - 直接 USB 录音
+38 直接 USB 录音
+38.1 概述 ................................................................ 102
+38.2 操作 ................................................................ 102
+38.3 限制和重要说明 ................................................ 105
+38.4 多通道 WAV 文件批处理器 ................................ 106
+38.5 技术背景 ........................................................ 107
+
+Technical Reference
+39 Technical Specifications
+39.1 Analog ................................................................ 110
+39.2 MIDI .................................................................... 111
+39.3 Digital ................................................................. 111
+39.4 Digital Inputs ...................................................... 111
+39.5 Digital Outputs .................................................... 112
+39.6 General............................................................... 112
+40 Technical Background
+40.1 Lock and SyncCheck ......................................... 113
+40.2 Latency and Monitoring ...................................... 114
+40.3 USB Audio .......................................................... 115
+40.4 DS – Double Speed ........................................... 116
+40.5 QS – Quad Speed .............................................. 116
+40.6 Noise Level in DS / QS Mode ............................ 117
+40.7 SteadyClock ....................................................... 117
+41 Diagrams
+41.1 Block Diagram Fireface UCX II .......................... 119
+41.2 Connector Pinouts .............................................. 120
+
+技术参考
+39 技术规格
+39.1 模拟 ................................................................ 110
+39.2 MIDI .................................................................... 111
+39.3 数字 ................................................................ 111
+39.4 数字输入 ........................................................ 111
+39.5 数字输出 ........................................................ 112
+39.6 常规 ................................................................ 112
+40 技术背景
+40.1 锁定和 SyncCheck ............................................. 113
+40.2 延迟和监控 ........................................................ 114
+40.3 USB 音频 ........................................................ 115
+40.4 DS – 双倍速度 ........................................................ 116
+40.5 QS – 四倍速度 ........................................................ 116
+40.6 DS/QS 模式下的噪声级别 ........................................ 117
+40.7 SteadyClock ........................................................ 117
+41 图表
+41.1 块Fireface UCX II 图表 ................................ 119
+41.2 连接器引脚分布 .............................................. 120
+
+Miscellaneous
+42 Accessories ........................................................... 122
+43 Warranty ................................................................. 122
+44 Appendix ................................................................ 122
+45 Declaration of Conformity .................................... 124
+
+杂项
+42 配件 ................................................................ 122
+43 保修 ................................................................ 122
+44 附录 ................................................................ 122
+45 符合性声明 ................................................ 124
+
+********************************************************************
+				General
+1. Introduction
+Thank you for choosing the Fireface UCX II. This unique audio system is capable of transferring analog and digital audio data directly to Windows and Mac computers. The latest Plug and Play technology guarantees a simple installation, even for the inexperienced user. Numerous unique features like a well thought-out Settings dialog and an integrated routing solution realize a quick, comfortable and efficient operation of the Fireface UCX II.
+
+The package contains drivers for Windows 7 / 8 / 10 /11 and macOS Intel / Mx.				
+
+1. 简介
+感谢您选择 Fireface UCX II。这款独特的音频系统能够将模拟和数字音频数据直接传输到 Windows 和 Mac 计算机。最新的即插即用技术确保安装简单，即使是没有经验的用户也可以轻松完成。众多独特功能（如经过深思熟虑的设置对话框和集成的路由解决方案）可实现 Fireface UCX II 的快速、舒适和高效操作。
+
+该软件包包含适用于 Windows 7 / 8 / 10 /11 和 macOS Intel / Mx 的驱动程序。
+
+2. Package Contents
+Please check your Fireface UCX II package contains each of the following:
+● Fireface UCX II
+● Cable USB 2.0, 1.8 m (6 ft)
+● Optical cable (TOSLINK), 2 m (6.6 ft)
+● B0968 Digital breakout cable (XLR/RCA)
+● External switched power supply, lockable connector, DC 12 V 24 W
+● Power cord
+
+2. 包装内容
+请检查您的 Fireface UCX II 包装中是否包含以下物品：
+● Fireface UCX II
+● 电缆 USB 2.0，1.8 米（6 英尺）
+● 光纤电缆 (TOSLINK)，2 米（6.6 英尺）
+● B0968 数字分支电缆 (XLR/RCA)
+● 外部开关电源，可锁定连接器，DC 12 V 24 W
+● 电源线
+
+3. System Requirements
+● Windows 7 or up, Intel Mac OS X (10.12 or up)
+● 1 x USB 2.0 or USB 3.0 port
+● Computer with at least Intel Core i3 CPU
+
+3. 系统要求
+● Windows 7 或更高版本、Intel Mac OS X（10.12 或更高版本）
+● 1 个 USB 2.0 或 USB 3.0 端口
+● 计算机至少配备 Intel Core i3 CPU
+
+4. Brief Description and Characteristics
+● All settings can be changed in real-time
+● Buffer sizes/latencies from 48 up to 8192 samples selectable
+● 4 channels 96 kHz/24 bit Record/Playback via ADAT optical (S/MUX)
+● 2 channels 192 kHz/24 bit Record/Playback via ADAT optical (S/MUX4)
+● Clock modes slave and master
+● Automatic and intelligent master/slave clock control
+● Unsurpassed Bitclock PLL (audio synchronization) in ADAT mode
+● SteadyClock FS: Jitter-immune, super-stable digital clock
+● DDS technology for free setting of the sample rate
+● SyncAlign guarantees sample aligned and never swapping channels
+● SyncCheck tests and reports the synchronization status of input signals
+● TotalMix for latency-free submixes and perfect ASIO Direct Monitoring
+● TotalMix: 800 channel mixer with 46 bit internal resolution
+● TotalMix FX: 3-band EQ, Low Cut, Reverb, Echo, Compressor, Expander, Auto Level
+● TotalMix FX Room EQ: 9-band PEQ with Delay and Volume Calibration
+● 1 x MIDI I/O, 16 channels high-speed Low-Jitter MIDI
+● 1 x Hi-power low impedance headphone output
+● DIGICheck DSP: Level meter in hardware, peak- and RMS calculation
+
+4. 简要说明和特点
+● 所有设置均可实时更改
+● 缓冲区大小/延迟从 48 到 8192 个样本可选
+● 4 通道 96 kHz/24 位录制/播放，通过 ADAT 光纤 (S/MUX)
+● 2 通道 192 kHz/24 位录制/播放，通过 ADAT 光纤 (S/MUX4)
+● 时钟模式从属和主控
+● 自动和智能主/从属时钟控制
+● ADAT 模式下无与伦比的 Bitclock PLL（音频同步）
+● SteadyClock FS：抖动免疫、超稳定数字时钟
+● DDS 技术可自由设置采样率
+● SyncAlign 保证样本对齐，永不交换通道
+● SyncCheck 测试并报告输入信号的同步状态
+● TotalMix 实现无延迟子混音和完美的 ASIO 直接监控
+● TotalMix：800 通道混音器，内部分辨率为 46 位
+● TotalMix FX：3 频段EQ、低切、混响、回声、压缩器、扩展器、自动电平
+● TotalMix FX 房间均衡器：带延迟和音量校准的 9 频段 PEQ
+● 1 x MIDI I/O，16 通道高速低抖动 MIDI
+● 1 x 高功率低阻抗耳机输出
+● DIGICheck DSP：硬件电平表，峰值和 RMS 计算
+
+5. First Usage – Quick Start
+5.1 Connectors – Controls – Display
+
+The front of the Fireface UCX II features two instrument and microphone inputs, a stereo headphone output, a rotary encoder with push functionality, four buttons, a graphical colour display and two status LEDs.
+
+The Neutrik combo sockets of the two Mic/Line inputs provide XLR and 6.3 mm / 1/4" TRS connection. They have LEDs for phantom power (48V) indication.
+
+Inputs 3/4, INST/LINE, accept both a balanced line signal as well as an unbalanced instrument signal via 1/4" TRS plug.
+
+The analog outputs 7 and 8 feed the headphones output Phones. This low impedance output of highest quality is able to drive headphones at higher levels undistorted, no matter if low or high impedance headphones are used.
+
+5. 首次使用 – 快速入门
+5.1 连接器 – 控件 – 显示屏
+
+Fireface UCX II 的正面有两个乐器和麦克风输入、一个立体声耳机输出、一个带按压功能的旋转编码器、四个按钮、一个图形彩色显示屏和两个状态 LED。
+
+两个麦克风/线路输入的 Neutrik 组合插座提供 XLR 和 6.3 毫米 / 1/4 英寸 TRS 连接。它们有用于幻象电源 (48V) 指示的 LED。
+
+输入 3/4、INST/LINE，通过 1/4 英寸 TRS 插头接受平衡线路信号和非平衡乐器信号。
+
+模拟输出 7 和 8 为耳机输出提供信号。无论使用低阻抗还是高阻抗耳机，这种最高质量的低阻抗输出都能够以更高的音量驱动耳机而不失真。
+
+The four keys and the encoder, the high-resolution and clear col- our display, and a well thought- out menu structure enable the user to quickly change and configure the device’s settings completely without a computer. Help notes and clear markers in the display guide the user through all func- tions.
+
+四个按键和编码器、高分辨率和清晰的彩色显示屏以及精心设计的菜单结构使用户能够快速更改和配置设备设置，而无需使用计算机。显示屏上的帮助说明和清晰的标记可指导用户完成所有功能。
+
+When the Global Level Meter screen is shown, the rotary encoder sets the monitoring volume of Main Out directly at the device. Pushing the button will change to Phones volume control, as indicated in the right lower corner of the screen.
+
+当显示全局电平表屏幕时，旋转编码器直接在设备上设置主输出的监听音量。按下按钮将切换到耳机音量控制，如屏幕右下角所示。
+
+Digital State. On the right side the main screen shows the current sample rate and the state of all digital input signals. WCK, SPDIF, AES and ADAT indicate a valid input signal separately for each digital input. Additionally, RME's exclusive SyncCheck indicates if one of these inputs is locked, but not synchronous to the others, in which case the corresponding field will flash. See also chapter 8.7 / 14.2, Clock Modes - Synchronization. The field USB will change to CC when in Class Compliant mode.
+
+数字状态。主屏幕右侧显示当前采样率和所有数字输入信号的状态。WCK、SPDIF、AES 和 ADAT 分别指示每个数字输入的有效输入信号。此外，RME 独有的 SyncCheck 指示这些输入中的一个是否被锁定，但与其他输入不同步，在这种情况下相应的字段将闪烁。另请参阅第 8.7/14.2 章“时钟模式 - 同步”。在 Class Compliant 模式下，字段 USB 将更改为 CC。
+
+State MIDI. Between ADAT and USB two yellow lines indicate incoming and outgoing MIDI data.
+状态 MIDI。ADAT 和 USB 之间的两条黄线表示传入和传出的 MIDI 数据。
+
+The rear panel of the Fireface UCX II features 4 analog inputs and 6 analog outputs, the power socket, USB, DURec (USB-A), word clock, MIDI I/O, ADAT I/O, and a connector for the included breakout cable D-sub to XLR/RCA (SPDIF/AES I/O).
+
+Fireface UCX II 的后面板具有 4 个模拟输入和 6 个模拟输出、电源插座、USB、DURec（USB-A）、字时钟、MIDI I/O、ADAT I/O 以及用于连接附带的 D-sub 转 XLR/RCA（SPDIF/AES I/O）分支电缆的连接器。
+
+Balanced Line Level Inputs. 4 balanced analog inputs via 6.3 mm stereo TRS connectors.
+Balanced Line Level Outputs. 6 balanced analog outputs via 6.3 mm stereo TRS.
+
+平衡线路电平输入。通过 6.3 毫米立体声 TRS 连接器实现 4 个平衡模拟输入。
+平衡线路电平输出。通过 6.3 毫米立体声 TRS 实现 6 个平衡模拟输出。
+
+AES/EBU & SPDIF. XLR. Via breakout cable the Fireface UCX II supports both SPDIF coaxial as well as AES/EBU.
+
+AES/EBU 和 SPDIF。XLR。通过分线电缆，Fireface UCX II 既支持 SPDIF 同轴电缆，也支持 AES/EBU。
+
+Word. BNC. Can be set to operate as word clock output or input. The input can be terminated with 75 Ohms internally via Settings dialog, Options.
+
+字.BNC.可设置为字时钟输出或输入。输入可通过“设置”对话框的“选项”在内部以 75 欧姆端接。
+
+ADAT I/O. TOSLINK. Standard ADAT optical port, 8 channels. Can also be used as optical SPDIF input and output, if set up accordingly in the Settings dialog.
+
+ADAT I/O. TOSLINK. 标准 ADAT 光纤端口，8 通道。如果在“设置”对话框中进行相应设置，也可以用作光纤 SPDIF 输入和输出。
+
+DURec (Remote). Connector for USB stick or USB hard drive. Offers direct recording to / play- back from the external memory device. Alternatively connector for the optional Advanced Remote Control USB (ARC USB) when the UCX II is used in stand-alone and Class Compliant mode. This port can also be used instead of connecting the ARC USB to the computer.
+
+DURec（远程）。USB 记忆棒或 USB 硬盘连接器。可直接录制到外部存储设备或从外部存储设备播放。当 UCX II 以独立模式和 Class Compliant 模式使用时，也可作为可选高级远程控制 USB (ARC USB) 的连接器。此端口也可用于代替将 ARC USB 连接到计算机。
+
+USB 2.0. USB socket for connection to the computer. Compatible to USB 3.0.
+
+MIDI I/O. Two 5-pin DIN connectors provide MIDI input and output.
+
+Hook. Secure any loose cable by feeding it through the hook first.
+
+Kensington Lock. Remove the hook to get access to the hole for securing the device via Ken- sington-compatible solutions.
+
+Power. The included hi-performance switch mode power supply oper- ates in the range of 100V to 240V AC at highest power efficiency. It is short-circuit-proof, has an integrated line filter, is fully regulated against voltage fluctuations, suppresses mains interference, and offers hum-free operation. It supplies 12 V DC at up to 2 A with the center pin + and outer pin GND.
+
+USB 2.0。USB 插座用于连接计算机。兼容 USB 3.0。
+
+MIDI I/O。两个 5 针 DIN 连接器提供 MIDI 输入和输出。
+
+挂钩。先将松散的电缆穿过挂钩以固定。
+
+Kensington 锁。取下挂钩，即可通过 Kensington 兼容解决方案进入用于固定设备的孔。
+
+电源。随附的高性能开关模式电源在最高功率效率下在 100V 至 240V AC 范围内运行。它具有短路保护功能，具有集成线路滤波器，可完全调节电压波动，抑制电源干扰，并提供无嗡嗡声的操作。它通过中心针 + 和外部针 GND 提供 12 V DC，最高 2 A。
+
+The connector at the power supply and the socket at the unit come with a turn to lock feature. When inserting the connector make sure the little wings are aligned correctly so that the connector is fully in- serted. Then turn the connector so that it is locked and can no longer be removed. If not fully inserted the connection will be loose and cause power loss when the cable is moved.
+
+电源上的连接器和设备上的插座都带有旋转锁定功能。插入连接器时，请确保小翼正确对齐，以便连接器完全插入。然后转动连接器，使其锁定并且无法再移除。如果没有完全插入，连接将松动，并在移动电缆时导致功率损失。
+
+5.2 Quick Start
+After the driver installation (chapter 6 / 13) connect the TRS jacks or the XLR inputs with the analog signal source. The input sensitivity of the rear inputs can be changed in TotalMix (Input Channel Settings, +13 dBu / +19 dBu and Gain), assuring the highest signal to noise ratio will be achieved. Also try to achieve an optimum input level by adjusting the source itself. Raise the source’s output level until the peak level meters in TotalMix reach about –3 dB.
+5.2 快速启动
+安装驱动程序后（第 6/13 章），将 TRS 插孔或 XLR 输入与模拟信号源连接。后置输入的输入灵敏度可在 TotalMix 中更改（输入通道设置、+13 dBu / +19 dBu 和增益），确保实现最高的信噪比。还可以尝试通过调整源本身来实现最佳输入电平。提高源的输出电平，直到 TotalMix 中的峰值电平表达到约 -3 dB。
+
+The signal level of the front inputs can also be optimized directly at the Fireface. The key MIC/GAIN gives direct access to this setting, which is then controlled by the encoder VALUE.
+
+前置输入的信号电平也可以直接在 Fireface 上进行优化。MIC/GAIN 键可直接访问此设置，然后由编码器 VALUE 进行控制。
+
+The digital outputs of the Fireface UCX II provide AES/EBU, SPDIF coaxial, SPDIF optical and ADAT optical at the respective ports.
+
+Fireface UCX II 的数字输出在相应的端口提供 AES/EBU、SPDIF 同轴、SPDIF 光纤和 ADAT 光纤。
+
+On the analog playback side (the DA side), a coarse adjustment of the analog output level at the rear jacks is again available in TotalMix (Out- put Channel Settings, Level), or the Channel Settings directly at the device. The big encoder VALUE controls the Main Out volume (de- fault: Line Out 1/2).
+
+在模拟播放端（DA 端），后插孔的模拟输出电平的粗调同样可以在 TotalMix（输出通道设置、电平）或设备上的通道设置中进行。大编码器 VALUE 控制主输出音量（默认：线路输出 1/2）。
+
+The output signal of channels 7/8, Phones, can also be controlled directly from the VALUE encoder.
+
+通道 7/8、耳机的输出信号也可以直接从 VALUE 编码器控制。
+
+The Fireface UCX II can store and load its current state in 6 different memory slots, called Setups (SETUP/REV, Options, Load/Store all Settings). With this, the Fireface UCX II can be used stand-alone after setting it up accordingly, replacing lots of dedicated devices (see chapter 24).
+
+Fireface UCX II 可以在 6 个不同的内存插槽中存储和加载其当前状态，称为设置（SETUP/REV、选项、加载/存储所有设置）。这样，Fireface UCX II 可以在进行相应设置后独立使用，取代许多专用设备（参见第 24 章）。
+
+In online mode some settings are greyed out, as these should be changed only at the computer, in the Settings dialog or in TotalMix FX. These include the choice of sample rate and the mix settings.
+
+在线模式下，某些设置会变灰，因为这些设置只能在计算机上、在“设置”对话框或 TotalMix FX 中更改。这些设置包括采样率的选择和混音设置。
+
+5.3 Menu and Navigation
+
+The Fireface UCX II has a simple and clear menu structure, for fast and efficient operation directly at the device. In most cases, however, all settings will be done via the Settings dialog and TotalMix FX of the host computer. The operation on the device is typically limited to a direct adjustment of the monitoring volume (loudspeaker and headphones), the microphone gain, and DURec (Direct USB Recording). In stand-alone mode, all settings are available directly on the device.
+
+5.3 菜单和导航
+
+Fireface UCX II 具有简单明了的菜单结构，可直接在设备上快速高效地操作。但在大多数情况下，所有设置都将通过主机的“设置”对话框和 TotalMix FX 完成。设备上的操作通常仅限于直接调整监听音量（扬声器和耳机）、麦克风增益和 DURec（直接 USB 录音）。在独立模式下，所有设置均可直接在设备上使用。
+
+Navigation through the menus of the display and control of the settings is done via four quick select buttons and a rotary encoder with push function.
+
+通过四个快速选择按钮和一个带按压功能的旋转编码器可以浏览显示菜单并控制设置。
+
+Default in the display is the Global Level Meter screen, which shows the current signal levels for all I/Os. By pressing the encoder knob VALUE for half a second, only the analog I/Os (Analog Level Meter screen) are displayed, which makes the level display larger and thus easier to read.
+
+显示屏默认为全局电平表屏幕，显示所有 I/O 的当前信号电平。按住编码器旋钮 VALUE 半秒钟，仅显示模拟 I/O（模拟电平表屏幕），使电平显示更大，从而更易于读取。
+
+The Global and Analog Level Meter Screen on the far right also shows:
+▶ The current sample rate
+▶ Clock mode and Lock/Sync status of the Word, SPDIF, AES and ADAT inputs
+▶ MIDI I/O activity by two yellow dots
+▶ USB and Class Compliant mode active (CC)
+▶ Current output of the volume setting, dB value to it
+▶ DSP meter, shows the load of the DSP by activated FX
+
+最右侧的全局和模拟电平表屏幕还显示：
+▶ 当前采样率
+▶ Word、SPDIF、AES 和 ADAT 输入的时钟模式和锁定/同步状态
+▶ 两个黄点表示 MIDI I/O 活动
+▶ USB 和 Class Compliant 模式处于活动状态 (CC)
+▶ 音量设置的当前输出，其 dB 值
+▶ DSP 表，通过激活的 FX 显示 DSP 的负载
+
+Turning the knob displays the volume screen of the currently se- lected output. Pressing the knob toggles the display between Main Out and Phones. At the bottom right, the current selection and dB value of the Volume setting is shown, so it is visible even when the Volume screen is not active.
+
+转动旋钮可显示当前选定输出的音量屏幕。按下旋钮可在主输出和耳机之间切换显示。右下角显示音量设置的当前选择和 dB 值，因此即使音量屏幕未处于活动状态，也可以看到它。
+
+The title bar shows the currently selected output and the assigned channels (Default Main is Line Out 1/2, Phones is fixed to Line Out 7/8)
+
+标题栏显示当前选定的输出和分配的通道（默认主输出为线路输出 1/2，耳机固定为线路输出 7/8）
+
+The quick select buttons MIC/GAIN, REC/PLAY, CHAN/MIX and SETUP/REV are described in chapter 23.2.
+
+快速选择按钮 MIC/GAIN、REC/PLAY、CHAN/MIX 和 SETUP/REV 在第 23.2 章中描述。
+
+Navigation
+The Fireface UCX II has a simple and fast 1-button operation.
+
+Pressing the VALUE encoder switches between adjusting the parameter and moving horizontally through the menu to moving ver- tically through the menu. Here is an example: the BNC socket’s mode is to be switched from Input to Output (or vice versa).
+
+导航
+Fireface UCX II 具有简单、快速的一键操作。
+
+按下 VALUE 编码器可在调整参数和水平浏览菜单与垂直浏览菜单之间切换。以下是示例：BNC 插座的模式将从输入切换到输出（反之亦然）。
+
+Press the SETUP/REV key. The Options menu appears. The cur-
+sor is in the second line and has the button symbol. Turning the encoder switches horizontally between the pages Clock, Hard- ware/Diagnosis, Load/Store all Settings and Control Room. After selecting Clock, press the encoder. The knob symbol changes to double arrows. By turning the encoder, the cursor now moves ver- tically through the menu.
+
+按 SETUP/REV 键。出现选项菜单。光标位于第二行，并带有按钮符号。转动编码器可在时钟、硬件/诊断、加载/存储所有设置和控制室页面之间水平切换。选择时钟后，按下编码器。旋钮符号变为双箭头。通过转动编码器，光标现在在菜单中垂直移动。
+
+Scroll down to BNC as WCK. Press the encoder so that the button symbol appears. Select the desired mode Input or Output by turn- ing the knob. Quickly exit the menu by pressing the SETUP/REV button twice. Otherwise the menu will automatically switch to the Level Meter screen after 90 seconds without any user input.
+
+向下滚动到 BNC 作为 WCK。按下编码器，按钮符号出现。转动旋钮选择所需的输入或输出模式。按两次 SETUP/REV 按钮快速退出菜单。否则，菜单将在 90 秒后自动切换到电平表屏幕，无需任何用户输入。
+
+5.5 Special Options
+In the menu SETUP/REV - Options - Hardware/Diagnosis there are some additional setting op- tions which are not described elsewhere in this manual.
+
+5.5 特殊选项
+在菜单 SETUP/REV - 选项 - 硬件/诊断中，有一些额外的设置选项，本手册其他地方没有描述。
+
+Standalone ARC. For the optional ARC USB (Advanced Remote Control), when connected di- rectly to the UCX II, the following options are available：
+独立 ARC。对于可选的 ARC USB（高级遥控器），当直接连接到 UCX II 时，可以使用以下选项：
+
+Standalone ARC Volume. Deactivates all keys. Only the encoder wheel works, with a fixed as-
+signment to Main Volume. This option is also a safety function in case the ARC USB is connected
+to the UCX II, but operated online (with computer). When the system goes offline (computer re-
+moved, sleep state…) the functions on the keys change, because online mode changed to stand-
+alone mode. Operating the keys then could activate unintended functionality or changes.
+
+独立 ARC 音量。停用所有按键。只有编码器轮工作，并固定分配给主音量。如果 ARC USB 连接到 UCX II，但在线操作（使用计算机），此选项也是一项安全功能。当系统离线（计算机移除、睡眠状态……）时，按键上的功能会发生变化，因为在线模式更改为了独立模式。然后操作按键可能会激活意外的功能或更改。
+
+Standalone ARC 1 s op
+Each key has to be pressed for one second to activate the programmed functionality. This safety function prevents unintentional changes. It can be stored within the Setups, activating this mode automatically when such a Setup is loaded. When loading a Setup where this function had not been active this mode is automatically deactivated at the UCX II.
+
+独立 ARC 1 s op
+每个键必须按下一秒钟才能激活已编程的功能。此安全功能可防止意外更改。它可以存储在设置中，在加载此类设置时自动激活此模式。在加载此功能未激活的设置时，此模式会在 UCX II 上自动停用。
+
+Standalone ARC normal
+Normal operation of the ARC USB.
+
+独立 ARC 正常
+ARC USB 正常运行。
+
+Lock Keys. OFF, KEYS, ALL. Press SETUP/REV key for 2 seconds to unlock.
+锁定键。关闭、键、全部。按住 SETUP/REV 键 2 秒钟即可解锁。
+
+Remap Keys. OFF, ON. Allows assigning 28 different functions/actions to the four quick select buttons on the device for oflline/stand-alone operation. In online mode with TotalMix FX, as many as 47 different functions/actions are available. The configuration is done in the following four en- tries:
+
+重新映射键。关闭、打开。允许为设备上的四个快速选择按钮分配 28 种不同的功能/操作，以进行离线/独立操作。在 TotalMix FX 的在线模式下，最多可以使用 47 种不同的功能/操作。配置在以下四个条目中完成：
+
+MIC/GAIN, REC/PLAY, CHAN/MIX, SETUP/REV. Available functions/actions:
+Default, Meter, Setup 1-6, DIM, Recall, Mute Enable, Main Mono, Main Mute, Main Out Low Cut, Main Out EQ, Main Out Dynamics, Main Out AutoLevel, Phones Mute, Phones Low Cut, Phones EQ, Phones Dynamics, Phones AutoLevel, Reverb enable, Echo enable, Record*, Play/Pause* Stop*, Previous*, Next*. (* DURec functions).
+
+MIC/GAIN、REC/PLAY、CHAN/MIX、SETUP/REV。可用功能/操作：
+默认、仪表、设置 1-6、DIM、调用、静音启用、主单声道、主静音、主输出低切、主输出均衡、主输出动态、主输出自动调平、耳机静音、耳机低切、耳机均衡、耳机动态、耳机自动调平、混响启用、回声启用、录制*、播放/暂停*停止*、上一个*、下一个*。（* DURec 功能）。
+
+The original function of the key on the device, calling up the menu, is still possible by pressing the key on the device for a longer time (0.5 s).
+
+通过较长时间（0.5 秒）按下设备上的按键，仍然可实现设备上按键的原始功能，即调用菜单。
+
+Online mode: If TotalMix is selected in these entries, the buttons are used to call up the action assigned in TotalMix FX. The configuration is carried out directly in TotalMix FX, in the ARC & Key Commands dialog. The buttons are labelled A (MIC/GAIN), B (REC/PLAY), C (CHAN/MIX) and D (SETUP/REV) here.
+
+在线模式：如果在这些条目中选择了 TotalMix，则按钮用于调用 TotalMix FX 中分配的操作。配置直接在 TotalMix FX 的 ARC & Key Commands 对话框中进行。此处的按钮标记为 A (MIC/GAIN)、B (REC/PLAY)、C (CHAN/MIX) 和 D (SETUP/REV)。
+
+Remap Keys is not only useful for stand-alone operation and direct access to some hardware functions, but can also be used to open/close the TotalMix window (selection in the device: To- talMix. Selection in TotalMix FX: Toggle TotalMix Windows).
+
+Remap Keys 不仅适用于独立操作和直接访问某些硬件功能，还可以用于打开/关闭 TotalMix 窗口（设备中的选择：TotalMix。TotalMix FX 中的选择：切换 TotalMix Windows）。
+
+Note: Some offline functions also control the display in TotalMix FX automatically, for example Mute and Dim.
+
+注意：一些离线功能也会自动控制 TotalMix FX 中的显示，例如静音和暗淡。
+
+Level Meters. All, Analog. Global Level Meter or Analog Level Meter screen. Same function as pressing the VALUE encoder for half a second.
+
+电平表。全部，模拟。全局电平表或模拟电平表屏幕。与按住 VALUE 编码器半秒钟具有相同的功能。
+
+Scroll Type. cw up, cw down. Allows changing the scroll direction when turning the encoder.
+
+滚动类型。顺时针向上，顺时针向下。允许在转动编码器时更改滚动方向。
+
+********************************************************************
+				Installation and Operation – Windows
+6. Hardware, Driver and Firmware Installation
+6.1 Hardware and Driver Installation
+
+To simplify installation it is recommended to first install the drivers before the unit is connected to the computer. But it will also work the other way round.
+
+为了简化安装，建议先安装驱动程序，然后再将设备连接到计算机。但反过来也可以。
+
+RME is constantly improving the drivers. Please download the latest drivers from the RME website via http://rme.to/downloads. Unzip the downloaded file and start the driver installation with rmeinstaller.exe.
+
+RME 不断改进驱动程序。请通过 RME 网站 http://rme.to/downloads 下载最新驱动程序。解压下载的文件并使用 rmeinstaller.exe 开始安装驱动程序。
+
+Start rmeinstaller.exe and follow the instructions of the installer. After installation connect computer and UCX II using a USB 2 cable. Windows detects the new hardware as Fireface UCX II and installs the drivers automatically.
+
+启动 rmeinstaller.exe 并按照安装程序的说明进行操作。安装后，使用 USB 2 电缆连接计算机和 UCX II。Windows 检测到新硬件为 Fireface UCX II 并自动安装驱动程序。
+
+After a reboot, the icons of TotalMix FX and Settings dialog appear in the notification area. If not a click on the chevron leads to the settings that control the icon display.
+
+重启后，TotalMix FX 和“设置”对话框的图标会出现在通知区域中。如果没有，单击 V 形图标将进入控制图标显示的设置。
+
+Driver Updates do not require to remove the existing drivers. Simply install the new driver over the existing one.
+
+驱动程序更新不需要删除现有的驱动程序。只需在现有驱动程序上安装新驱动程序即可。
+
+6.2 De-Installing the Drivers
+
+6.2 卸载驱动程序
+
+A de-installation of the driver files is not necessary – and not supported by Windows anyway.
+
+无需卸载驱动程序文件 - 而且 Windows 也不支持此操作。
+
+Thanks to full Plug & Play support, the driver files will not be loaded after the hardware has been removed. If desired these files can then be deleted manually.
+
+得益于完全的即插即用支持，移除硬件后不会加载驱动程序文件。如果需要，可以手动删除这些文件。
+
+Windows Plug & Play methods do not cover the additional autorun entries of TotalMix, the Set- tings dialog, and the registration of the ASIO driver. Those entries can be removed from the reg- istry through a software de-installation request, found in Control Panel, Add or remove programs.
+
+Windows 即插即用方法不涵盖 TotalMix 的附加自动运行条目、设置对话框和 ASIO 驱动程序的注册。这些条目可以通过软件卸载请求从注册表中删除，该请求位于控制面板、添加或删除程序中。
+
+Click on the entry 'RME Fireface'.
+
+单击条目“RME Fireface”。
+
+6.3 Firmware Update
+The Flash Update Tool updates the firmware of the Fireface UCX II to the latest version. It requires an already installed driver.
+
+6.3 固件更新
+Flash 更新工具可将 Fireface UCX II 的固件更新至最新版本。它需要已安装的驱动程序。
+
+Start the program fut.exe. The Flash Up- date Tool displays the current revision of the Fireface firmware, and whether it needs an update or not. If so, then simply press the 'Update' button. A progress bar will indicate when the flash process is fin- ished (Verify Ok).
+
+启动程序 fut.exe。Flash 更新工具显示 Fireface 固件的当前版本，以及是否需要更新。如果需要，只需按“更新”按钮即可。进度条将显示刷新过程何时完成（确认已完成）。
+
+After the update the unit needs to be re- set. This is done by powering down the unit for a few seconds. A reboot of the computer is not necessary.
+
+更新后需要重置设备。只需关闭设备电源几秒钟即可。无需重新启动计算机。
+
+When the update unexpectedly fails (sta- tus: failure), the unit's Safety BIOS will be used from the next boot on, the unit stays fully functional. The flash process should then be tried again.
+
+当更新意外失败（状态：失败）时，设备的安全 BIOS 将从下次启动开始使用，设备将保持完全功能。然后应再次尝试刷新过程。
+
+7. Configuring the Fireface – Settings Dialog
+7.1 General
+
+7. 配置 Fireface – 设置对话框
+7.1 常规
+
+Configuration of the Fireface UCX II is done via its own settings dialog. The panel Settings can be opened by clicking on the fire or hammer symbol in the Task Bar's system tray.
+
+Fireface UCX II 的配置通过其自己的设置对话框完成。单击任务栏系统托盘中的火焰或锤子符号即可打开面板设置。
+
+The mixer of the Fireface UCX II, TotalMix FX, can be opened by click- ing on the DSP FX symbol in the Task Bar's system tray
+
+Fireface UCX II 的混音器 TotalMix FX 可以通过单击任务栏系统托盘中的 DSP FX 符号来打开
+
+The hardware of the Fireface UCX II offers a number of helpful practical functions and options to suit many different requirements. The 'Settings' dialog includes options for:
+
+Fireface UCX II 的硬件提供了许多有用的实用功能和选项，可满足许多不同的要求。“设置”对话框包括以下选项：
+
+● Latency
+● Operation of the DSP
+● Configuration of the digital I/Os
+● Current sample rate
+● Synchronization behaviour
+● State of input and output
+
+● 延迟
+● DSP 的操作
+● 数字 I/O 的配置
+● 当前采样率
+● 同步行为
+● 输入和输出的状态
+
+Any changes made in the Settings dialog are applied immediately - confirmation (e.g. by clicking on OK or exiting the dia- log) is not required.
+
+在设置对话框中所做的任何更改都会立即应用 - 无需确认（例如，单击确定或退出对话框）。
+
+However, settings should not be changed during playback or record if it can be avoided, as this can cause unwanted noises. Also, please note that even in 'Stop' mode, several programs keep the recording and playback devices open, which means that any new settings might not be applied immediately.
+
+但是，如果可以避免，则不应在播放或录制期间更改设置，因为这可能会导致不必要的噪音。另外，请注意，即使在“停止”模式下，一些程序也会保持录制和播放设备打开，这意味着任何新设置都可能不会立即应用。
+
+The tab About includes information about the current driver and firmware ver- sion of the Fireface UCX II. About offers four more options:
+
+About选项卡包含有关 Fireface UCX II 当前驱动程序和固件版本的信息。About选项卡提供了另外四个选项：
+
+Lock Registry
+Default: off. Checking this option brings up a dialog to enter a password. Changes in the Settings dialog are no longer written to the registry. As the settings are al- ways loaded from the registry when start- ing the computer, this method provides an easy way to define an initial state of the Fireface UCX II.
+
+锁定注册表
+默认：关闭。选中此选项会弹出一个对话框来输入密码。设置对话框中的更改不再写入注册表。由于启动计算机时始终从注册表加载设置，因此此方法提供了一种定义 Fireface UCX II 初始状态的简便方法。
+
+Enable MMCSS for ASIO activates support with higher priority for the ASIO driver. Note: At this time, activating this option seems to be useful only with the latest Cubase/Nuendo at higher load.
+
+为 ASIO 启用 MMCSS 可激活对 ASIO 驱动程序的更高优先级支持。注意：目前，激活此选项似乎仅在最新 Cubase/Nuendo 负载较高时有用。
+
+With other software this option can decrease performance. The change becomes active after an ASIO reset. Therefore it is easy to quickly check which setting works better.
+
+对于其他软件，此选项可能会降低性能。ASIO 重置后，更改将生效。因此，很容易快速检查哪种设置效果更好。
+
+Sort ASIO Devices
+Changes the order only of the ASIO channels when using more than one interface.
+
+对 ASIO 设备进行排序
+使用多个接口时，仅更改 ASIO 通道的顺序。
+
+Buffer Size (Latency)
+The setting Buffer Size determines the latency between incoming and outgoing ASIO and WDM data, as well as affecting system stability (see chapter 9.1).
+
+缓冲区大小（延迟）
+缓冲区大小的设置决定了 ASIO 和 WDM 数据传入和传出之间的延迟，并影响系统稳定性（参见第 9.1 章）。
+
+USB Diagnosis indicates USB transmission errors. The display will be reset on any start of a playback/record. More information can be found in chapter 40.3.
+
+USB 诊断指示 USB 传输错误。每次开始播放/录制时，显示都会重置。更多信息可参见第 40.3 章。
+
+Output Format
+Word – Single Speed The word clock output signal usually equals the current sample rate. Selecting Single Speed causes the output signal to always stay within the range of 32 kHz to 48 kHz. So at 96 kHz and 192 kHz sam- ple rate, the output word clock is 48 kHz.
+
+输出格式
+字 - 单速 字时钟输出信号通常等于当前采样率。选择单速会导致输出信号始终保持在 32 kHz 至 48 kHz 的范围内。因此，在 96 kHz 和 192 kHz 采样率下，输出字时钟为 48 kHz。
+
+Optical
+The optical TOSLINK output can operate as ADAT or SPDIF output. ADAT: in- cludes channels ADAT 1 to 8. SPDIF: in- cludes channels SPDIF opt. L/R, in To- talMix ADAT ½. In SPDIF mode Channel Status is fixed to Consumer.
+
+光纤
+光纤 TOSLINK 输出可用作 ADAT 或 SPDIF 输出。ADAT：包括 ADAT 1 至 8 通道。SPDIF：包括 SPDIF 可选 L/R 通道，TotalMix ADAT ½。在 SPDIF 模式下，通道状态固定为消费者。
+
+SPDIF
+The output SPDIF coaxial (RCA) can have the Channel Status Professional or Consumer. For further details please re- fer to chapter 21.3.
+
+SPDIF
+输出 SPDIF 同轴 (RCA) 的通道状态可以是专业级或消费级。有关详细信息，请参阅第 21.3 章。
+
+Options
+DSP - EQ+D for Record
+Switches EQ and Dynamics of all input channels into the recording path. In case Loopback has been activated the EQ and Dynamics of the Output channel are within the recording path. See also chap- ter 27.6.
+
+选项
+DSP - EQ+D 用于录音
+将所有输入通道的 EQ 和动态切换到录音路径。如果已激活 Loopback，则输出通道的 EQ 和动态位于录音路径内。另请参阅第 27.6 章。
+
+TMS activates the transmission of Channel Status data and Track Marker information on AES and SPDIF inputs. In case these information are not required the feature should be turned off.
+
+TMS 激活 AES 和 SPDIF 输入上的通道状态数据和轨道标记信息传输。如果不需要这些信息，则应关闭此功能。
+
+Word Clock In Termination
+Checking this option terminates the word clock input internally with 75 Ohms.
+
+字时钟输入终止
+选中此选项将以 75 欧姆在内部终止字时钟输入。
+
+Word Clock Output
+This option switches the BNC socket into word clock output mode.
+
+字时钟输出
+此选项将 BNC 插座切换为字时钟输出模式。
+
+WDM Devices
+Reduce the number of WDM devices to the ones really needed to improve performance of the operating system.
+
+WDM 设备
+将 WDM 设备的数量减少到真正需要的数量，以提高操作系统的性能。
+
+Clock Mode
+Sample Rate
+Sets the currently used sample rate. Offers a central and comfortable way of configuring the sam- ple rate of all WDM devices to the same value, as since Vista the audio software is no longer allowed to set the sample rate. However, an ASIO program can still set the sample rate by itself.
+
+时钟模式
+采样率
+设置当前使用的采样率。提供一种集中且舒适的方式将所有 WDM 设备的采样率配置为相同值，因为自 Vista 以来，音频软件不再允许设置采样率。但是，ASIO 程序仍然可以自行设置采样率。
+
+During record/playback the selection is greyed out, so no change is possible.
+
+在录制/播放期间，选择显示为灰色，因此无法进行更改。
+
+Clock Source
+The unit can be configured to use its own clock (Internal = Master), or one of the input signals (Word, SPDIF, AES, ADAT). If the selected source isn't available (Input Status No Lock), the unit will change to the next available one (AutoSync). If none is available then the internal clock is used. The current clock source is displayed to the right.
+
+时钟源
+设备可以配置为使用自己的时钟（内部 = 主时钟）或其中一个输入信号（Word、SPDIF、AES、ADAT）。如果所选源不可用（输入状态无锁定），设备将切换到下一个可用源（自动同步）。如果没有可用源，则使用内部时钟。当前时钟源显示在右侧。
+
+Pitch
+More information on Pitch is available in chapter 7.2.
+
+音高
+有关音高的更多信息，请参阅第 7.2 章。
+
+Input Status
+Indicates for each input (Word, SPDIF coaxial, AES, ADAT) whether there is a valid signal (Lock, No Lock), or if there is a valid and synchronous signal (Sync). The third column shows the sample frequency detected by the hardware (coarse recognition, 32 kHz, 44.1 kHz, 48 kHz etc.).
+
+输入状态
+指示每个输入（Word、SPDIF 同轴、AES、ADAT）是否有有效信号（锁定、无锁定），或者是否有有效且同步的信号（同步）。第三列显示硬件检测到的采样频率（粗略识别、32 kHz、44.1 kHz、48 kHz 等）。
+
+7.2 Pitch
+Usually soundcards and audio interfaces generate their internal clock (master mode) by a quartz.
+Therefore the internal clock can be set to 44.1 kHz or 48 kHz, but not to a value in between.
+SteadyClock, RME's sensational Low Jitter Clock System, is based on a Direct Digital Synthesizer (DDS). This superior circuitry can generate nearly any frequency with highest precision.
+
+7.2 音高
+通常，声卡和音频接口通过石英生成其内部时钟（主模式）。
+因此，内部时钟可以设置为 44.1 kHz 或 48 kHz，但不能设置为两者之间的值。
+SteadyClock 是 RME 轰动一时的低抖动时钟系统，基于直接数字合成器 (DDS)。这种卓越的电路可以生成几乎任何频率，并且精度最高。
+
+The section Pitch includes both a list of typical video frequencies (so called pull up/pull down at 0.1% and 4%) and a fader to freely change the basic sample rate in steps of 1 Hz (!) over a range of +/- 5%.
+
+Pitch 部分包括典型视频频率列表（所谓的 0.1% 和 4% 上拉/下拉）和一个推子，可以以 1 Hz (!) 的步长在 +/- 5% 的范围内自由更改基本采样率。
+
+！The Pitch function requires the Fireface to be in clock mode Master! The frequency setting will only be applied to this one specific Fireface!
+
+！Pitch 功能要求 Fireface 处于时钟模式 Master！频率设置仅适用于此特定 Fireface！
+
+！Changing the sample rate during record/playback often results in a loss of audio, or brings up warning messages of the audio software. Therefore the desired sample rate should be set at least coarsely before starting the software.
+
+！在录制/播放期间更改采样率通常会导致音频丢失，或出现音频软件的警告消息。因此，在启动软件之前，应至少粗略地设置所需的采样率。
+
+Coarse
+Coarse modification in steps of 50 Hz is done by clicking with the mouse to the left and right of the fader knob.
+
+粗调
+通过用鼠标单击推子旋钮的左侧和右侧，可以以 50 Hz 的步长进行粗调。
+
+Fine
+Fine modification in steps of 1 Hz is done by using the left/right cursor keys.
+
+精调
+使用左/右光标键以 1 Hz 为步长进行精细修改。
+
+Reset
+Ctrl key plus left mouse click.
+
+重置
+Ctrl 键加鼠标左键单击。
+
+Application examples
+Pitch allows for a simultaneous change of speed and tune during record and playback. From alignment to other sources up to creative effects – everything is possible.
+
+应用示例
+Pitch 允许在录制和播放过程中同时改变速度和音调。从与其他来源的对齐到创意效果 - 一切皆有可能。
+
+Pitch enables you to intentionally de-tune the complete DAW. This way, the DAW can match instruments which have a wrong or unchangeable tuning.
+
+音高可让您有意地调低整个 DAW 的音调。这样，DAW 就可以匹配那些调音错误或无法更改的乐器。
+
+7.3 Option WDM Devices
+The area WDM Devices gives configuration access and a status display showing the number of currently enabled WDM devices. The number represents both record and playback devices, so ‘1’ means one input and one output stereo device.
+
+7.3 选项 WDM 设备
+WDM 设备区域提供配置访问和状态显示，显示当前启用的 WDM 设备的数量。数字代表录制和播放设备，因此“1”表示一个输入和一个输出立体声设备。
+
+WDM streaming is Microsoft's current driver and audio system, directly embedded into the oper- ating system.
+
+WDM 流是 Microsoft 当前的驱动程序和音频系统，直接嵌入到操作系统中。
+
+Several programs do not offer any direct device selection. Instead they use the playback device selected in Windows under <Control Panel/ Sound/ Playback>.
+
+一些程序不提供任何直接的设备选择。相反，它们使用在 Windows 中的<控制面板/声音/播放>下选择的播放设备。
+
+！Activating all 10 stereo devices at once may cause temporary freezing or ‘not responding’ effects. Therefore activate only the ones which are really needed.
+
+！同时激活所有 10 个立体声设备可能会导致暂时冻结或“无响应”效果。因此，只激活真正需要的设备。
+
+After leaving the dialog with OK the WDM devices are reloaded so Windows sees their new properties.
+
+单击“确定”退出对话框后，WDM 设备将重新加载，以便 Windows 能够看到它们的新属性。
+
+Multi-Channel using WDM
+The WDM Streaming device Loudspeaker (Analog 1+2) of the RME driver can operate as usual stereo device, or as up to 8-channel device. Using it as a multi-channel WDM device allows for the use of multi-channel playback with specialized software as well as Surround sound from DVD or Blu-Ray player software.
+
+使用 WDM 实现多通道
+RME 驱动程序的 WDM 流媒体设备扬声器（模拟 1+2）可以作为普通立体声设备运行，也可以作为最多 8 通道设备运行。将其用作多通道 WDM 设备允许使用专用软件进行多通道播放，以及使用 DVD 或蓝光播放器软件的环绕声。
+
+An 8-channel playback using the Windows Media Player requires the speaker setup 7.1 Surround.
+Configure as follows: >Control Panel /Sound /Playback /Loudspeaker /Configure <.
+
+使用 Windows Media Player 进行 8 声道播放需要扬声器设置 7.1 环绕声。
+配置如下：>控制面板/声音/播放/扬声器/配置<。
+
+8. Operation and Usage
+8.1 Playback
+In the audio application being used, Fireface UCX II must be selected as output device. This can often be found in the Options, Preferences or Settings menus under Playback Device, Audio De- vices, Audio etc.
+
+8. 操作和使用
+8.1 播放
+在使用的音频应用程序中，必须选择 Fireface UCX II 作为输出设备。这通常可以在播放设备、音频设备、音频等下的选项、首选项或设置菜单中找到。
+
+！WDM playback devices are not available if the number of WDM devices is set to 0 in the Settings dialog.
+
+！若在设置对话框中将WDM设备数量设置为0，则WDM播放设备不可用。
+
+We recommend switching all system sounds off (via >Control Panel /Sounds<). Although the Fireface UCX II comes with extensive support for system audio, setting it to be the Default Device for playback could cause problems when working with ASIO.
+
+我们建议关闭所有系统声音（通过 >控制面板/声音<）。尽管 Fireface UCX II 广泛支持系统音频，但将其设置为播放的默认设备可能会在使用 ASIO 时导致问题。
+
+Increasing the number and/or size of audio buffers may prevent the audio signal from breaking up, but also increases latency i.e. output is delayed. For synchronized playback of audio and MIDI (or similar), be sure to activate the checkbox ‘Get position from audio driver’.
+
+增加音频缓冲区的数量和/或大小可能会防止音频信号中断，但也会增加延迟，即输出延迟。要同步播放音频和 MIDI（或类似内容），请务必激活“从音频驱动程序获取位置”复选框。
+
+Note: Since Windows Vista the audio application can no longer control the sample rate under WDM. Therefore the driver of the Fireface UCX II includes a way to set the sample rate globally for all WDM devices within the Settings dialog, see chapter 7.1. As the change within the system requires some time, record/playback should not be started immediately, but only after at least 5 seconds after a change.
+
+注意：自 Windows Vista 以来，音频应用程序无法再控制 WDM 下的采样率。因此，Fireface UCX II 的驱动程序包含一种在“设置”对话框中为所有 WDM 设备全局设置采样率的方法，请参阅第 7.1 章。由于系统内的更改需要一些时间，因此不应立即开始录制/播放，而应在更改后至少等待 5 秒。
+
+Tip: the current CPU load can be used to determine if the audio subsystem has finished the re- configuration.
+
+提示：当前 CPU 负载可用于确定音频子系统是否已完成重新配置。
+
+8.2 DVD-Playback (AC-3/DTS)
+Popular DVD software players can send their audio data stream to any AC-3/DTS capable re- ceiver via the Fireface UCX II SPDIF output.
+
+8.2 DVD 播放 (AC-3/DTS)
+流行的 DVD 软件播放器可以通过 Fireface UCX II SPDIF 输出将其音频数据流发送到任何支持 AC-3/DTS 的接收器。
+
+！The sample rate must be set to 48 kHz in the UCX II Settings dialog, or the software will only playback the down-mixed analog signal via SPDIF.
+
+！必须在 UCX II 设置对话框中将采样率设置为 48 kHz，否则软件将仅通过 SPDIF 播放混音后的模拟信号。
+
+In some cases an UCX II output device has to be selected in >Control Panel / Sound / Playback< and be set as Default for the software to recognize it.
+
+在某些情况下，必须在>控制面板/声音/播放<中选择 UCX II 输出设备，并将其设置为默认设备，以便软件识别它。
+
+The DVD software's audio properties now show the options 'SPDIF Out' or similar. When selecting it, the software will transfer the non-decoded digital multichannel data stream to the Fireface.
+
+DVD 软件的音频属性现在显示“SPDIF 输出”或类似选项。选择该选项后，软件会将未解码的数字多通道数据流传输到 Fireface。
+
+Note: This 'SPDIF' signal sounds like chopped noise at highest level. Try to avoid mixing and routing the signal to your loudspeakers, as they might get damaged.
+
+注意：此“SPDIF”信号在最高音量别时听起来像切碎的噪音。尽量避免将信号混合并路由到扬声器，因为它们可能会损坏。
+
+Multichannel
+DVD software player can also operate as software decoder, sending a DVD's multichannel data stream directly to the analog outputs of the Fireface UCX II. For this to work select the WDM playback device ’Loudspeaker’ of the Fireface UCX II in >Control Panel/ Sound/ Playback < as Default.
+
+多通道
+DVD 软件播放器也可以用作软件解码器，将 DVD 的多通道数据流直接发送到 Fireface UCX II 的模拟输出。要实现此功能，请在 >控制面板/声音/播放< 中选择 Fireface UCX II 的 WDM 播放设备“扬声器”作为默认设置。
+
+The playback software’s audio properties now list several multichannel modes. If one of these is selected, the software sends the decoded analog multichannel data to the Fireface UCX II. To- talMix can then be used to play back via any desired output channels.
+
+播放软件的音频属性现在列出了几种多通道模式。如果选择其中一种，软件会将解码后的模拟多通道数据发送到 Fireface UCX II。然后可以使用 TotalMix 通过任何所需的输出通道进行播放。
+
+The typical channel assignment for surround playback is:
+1 – Left 2 – Right 3 – Center 4 - LFE (Low Frequency Effects)
+5 - SL (Surround Left) 6 - SR (Surround Right)
+
+环绕声播放的典型声道分配为：
+1 – 左 2 – 右 3 – 中 4 - LFE（低频效果）
+5 - SL（左环绕）6 - SR（右环绕）
+
+Note 1: Selecting the Fireface to be used as system playback device is against our recommen- dation, as professional interfaces should not be disturbed by system events. Make sure to re- assign the selection after usage or to disable any system sounds (tab Sounds, scheme 'No au- dio').
+
+注意 1：选择 Fireface 作为系统播放设备不符合我们的建议，因为专业接口不应受到系统事件的干扰。请确保在使用后重新分配选择或禁用任何系统声音（选项卡“声音”，方案“无音频”）。
+
+Note 2: The DVD player will be synced backwards from the Fireface. This means when using AutoSync and/or word clock, the playback speed and pitch follows the incoming clock signal.
+
+注意 2：DVD 播放器将从 Fireface 向后同步。这意味着当使用 AutoSync 和/或字时钟时，播放速度和音调将遵循传入的时钟信号。
+
+8.3 Channel Count under WDM
+The Fireface ADAT optical ports support sample rates of up to 192 kHz. For this to work single- channel data is spread to two or four ADAT channels using the Sample Multiplexing technique.
+This reduces the number of available ADAT channels from 8 to 4 or 2 per ADAT port.
+
+8.3 WDM 下的通道数
+Fireface ADAT 光纤端口支持高达 192 kHz 的采样率。为此，使用采样复用技术将单通道数据扩展到两个或四个 ADAT 通道。
+这会将每个 ADAT 端口可用的 ADAT 通道数从 8 个减少到 4 个或 2 个。
+
+Whenever the Fireface changes into Double Speed (88.2/96 kHz) or Quad Speed mode (176.4/192 kHz) all devices no longer available vanish automatically.
+
+每当 Fireface 变为双倍速度（88.2/96 kHz）或四倍速度模式（176.4/192 kHz）时，所有不再可用的设备都会自动消失。
+
+表格略
+
+8.4 Multi-client Operation
+RME audio interfaces support multi-client operation. Several programs can be used at the same time. The formats ASIO and WDM can even be used on the same playback channels simultane- ously. But as WDM uses a real-time sample rate conversion (ASIO does not), all active ASIO software has to use the same sample rate.
+
+8.4 多客户端操作
+RME 音频接口支持多客户端操作。可同时使用多个程序。ASIO 和 WDM 格式甚至可以同时在相同的播放通道上使用。但由于 WDM 使用实时采样率转换（ASIO 不使用），因此所有活动的 ASIO 软件都必须使用相同的采样率。
+
+However, a better overview is maintained by using the channels exclusively. This is no limitation at all, because TotalMix allows for any output routing, and therefore a playback of multiple soft- ware on the same hardware outputs.
+
+但是，通过专门使用通道可以保持更好的概览。这完全没有限制，因为 TotalMix 允许任何输出路由，因此可以在相同的硬件输出上播放多个软件。
+
+Inputs can be used from an unlimited number of WDM and ASIO software at the same time, as the driver simply sends the data to all applications simultaneously.
+
+由于驱动程序只需将数据同时发送到所有应用程序，因此可以同时使用来自无限数量的 WDM 和 ASIO 软件的输入。
+
+RME's sophisticated tool DIGICheck is an exception to this rule. It operates like an ASIO host,
+using a special technique to access playback channels directly. Therefore DIGICheck is able to analyse and display playback data from any software, no matter which format it uses.
+
+RME 的复杂工具 DIGICheck 是这一规则的一个例外。它的运行方式类似于 ASIO 主机，
+使用特殊技术直接访问播放通道。因此，无论软件使用哪种格式，DIGICheck 都能够分析和显示来自任何软件的播放数据。
+
+8.5 Analog Recording
+For recordings via the analog inputs the corresponding record device has to be chosen (Fireface UCX II Analog (x+x)).
+
+8.5 模拟录音
+对于通过模拟输入进行录音，必须选择相应的录音设备（Fireface UCX II Analog (x+x)）。
+
+The input sensitivity of the rear inputs can be changed in two steps and with adjustable gain in TotalMix (Input Channel Settings, Level), assuring the highest signal to noise ratio will be achieved. A further optimization can be achieved by adjusting the source itself. Raise the source’s output level until the peak level meters in TotalMix reach about –3 dB.
+
+后置输入的输入灵敏度可以分两步更改，TotalMix 中的增益可调（输入通道设置、电平），确保实现最高的信噪比。通过调整源本身可以实现进一步的优化。提高源的输出电平，直到 TotalMix 中的峰值电平表达到约 -3 dB。
+
+The level of the front-side analog inputs can be optimized via TotalMix (Input Channel Settings, Gain), or directly at the Fireface UCX II by the key Mic/Gain and the encoders 1/2. The multi- colour level meters shown on the display also provide useful information about the current level state.
+
+可以通过 TotalMix（输入通道设置、增益）或直接在 Fireface UCX II 上通过按键 Mic/Gain 和编码器 1/2 优化前端模拟输入的电平。显示屏上显示的多色电平表还提供有关当前电平状态的有用信息。
+
+Further information is found in chapter 19.
+更多信息请参见第 19 章。
+
+It often makes sense to monitor the input signal or send it directly to the output. This can be done at zero latency using TotalMix FX (see chapter 25).
+
+监控输入信号或将其直接发送到输出通常很有意义。这可以使用 TotalMix FX 以零延迟完成（参见第 25 章）。
+
+An automated control of real-time monitoring can be achieved by Steinberg’s ASIO protocol with RME’s ASIO drivers and all ASIO 2.0 compatible programs. When 'ASIO Direct Monitoring' has been switched on, the input signal is routed in real-time to the output whenever a recording is started (punch-in).
+
+Steinberg 的 ASIO 协议与 RME 的 ASIO 驱动程序以及所有 ASIO 2.0 兼容程序可实现实时监控的自动控制。打开“ASIO 直接监控”后，只要开始录音（插入），输入信号就会实时路由到输出。
+
+8.6 Digital Recording
+Unlike analog soundcards which produce empty wave files (or noise) when no input signal is present, digital interfaces always need a valid input signal to start recording.
+
+8.6 数字录音
+与模拟声卡不同，模拟声卡在没有输入信号时会产生空的波形文件（或噪音），而数字接口始终需要有效的输入信号才能开始录音。
+
+Taking this into account, RME added a compre- hensive I/O signal status display to the Fireface UCX II, showing sample frequency, lock and sync status for every input, and several statusfields in the unit’s display.
+
+考虑到这一点，RME 为 Fireface UCX II 添加了全面的 I/O 信号状态显示，显示每个输入的采样频率、锁定和同步状态、以及设备显示屏中的多个状态字段。
+
+The sample frequency shown in the fields Clock Mode and Input Status of the Settings dialog is useful as a quick display of the current configura- tion of the unit and the connected external equip- ment. If no sample frequency is recognized, it will read ‘No Lock’.
+
+设置对话框中的时钟模式和输入状态字段中显示的采样频率有助于快速显示设备和所连接外部设备的当前配置。如果未识别采样频率，则会显示“无锁定”。
+
+This way, configuring any suitable audio application for digital recording is simple. After selecting the correct input, Fireface UCX II displays the current sample frequency. This parameter can then be changed in the application’s audio attributes (or similar) dialog.
+
+这样，配置任何适合数字录音的音频应用程序都很简单。选择正确的输入后，Fireface UCX II 将显示当前采样频率。然后可以在应用程序的音频属性（或类似）对话框中更改此参数。
+
+8.7 Clock Modes - Synchronization
+In the digital world, all devices must be either Master (clock source) or Slave (clock receiver).
+Whenever several devices are linked within a system, there must always be a single master clock.
+
+8.7 时钟模式 - 同步
+在数字世界中，所有设备必须是主设备（时钟源）或从设备（时钟接收器）。
+每当系统中连接多个设备时，必须始终有一个主时钟。
+
+! A digital system can only have one master! If the Fireface’s clock mode is set to 'Master', all other devices must be set to ‘Slave’.
+
+！数字系统只能有一个主设备！如果 Fireface 的时钟模式设置为“主设备”，则所有其他设备必须设置为“从设备”。
+
+The Fireface UCX II utilizes a very user-friendly, intelligent clock control, called AutoSync. In AutoSync mode, the system constantly scans the digital input for a valid signal. If any valid signal is found, the Fireface switches from the internal quartz (Clock Source – Current Internal) to a clock extracted from the input signal (Clock Source – Current ADAT, SPDIF, AES or Word). The difference to a usual slave mode is that whenever the clock reference fails, the system will auto- matically use its internal clock and operate in clock mode Master.
+
+Fireface UCX II 采用非常用户友好的智能时钟控制，称为 AutoSync。在 AutoSync 模式下，系统不断扫描数字输入以查找有效信号。如果发现任何有效信号，Fireface 将从内部石英（时钟源 - 当前内部）切换到从输入信号中提取的时钟（时钟源 - 当前 ADAT、SPDIF、AES 或 Word）。与通常的从属模式的区别在于，每当时钟参考失败时，系统将自动使用其内部时钟并在主时钟模式下运行。
+
+AutoSync guarantees that record and record-while-play will always work correctly. In certain cases however, AutoSync may cause feedback in the digital carrier, so synchronization breaks down. To remedy this, switch the Fireface clock mode to ‘Internal’.
+
+AutoSync 可确保录制和边录边放功能始终正常工作。但在某些情况下，AutoSync 可能会导致数字载体出现反馈，从而导致同步中断。要解决此问题，请将 Fireface 时钟模式切换为“内部”。
+
+RME’s exclusive SyncCheck technology enables an easy to use check and display of the current clock status. SyncCheck indicates whether there is a valid signal (Lock, No Lock) for each input (Word Clock, SPDIF, ADAT, AES), or if there is a valid and synchronous signal (Sync). See chap- ter 40.1.
+
+RME 独有的 SyncCheck 技术可以轻松检查和显示当前时钟状态。SyncCheck 指示每个输入（字时钟、SPDIF、ADAT、AES）是否有有效信号（锁定、无锁定），或者是否有有效同步信号（同步）。请参阅第 40.1 章。
+
+Via Clock Source a preferred input can be defined. As long as the Fireface sees a valid signal there, this input will be designated as the sync source, otherwise the other inputs will be scanned in turn. If none of the inputs are receiving a valid signal, the Fireface automatically switches clock mode to ‘Internal’.
+
+通过时钟源可以定义首选输入。只要 Fireface 看到有效信号，此输入将被指定为同步源，否则将依次扫描其他输入。如果没有输入接收到有效信号，Fireface 会自动将时钟模式切换为“内部”。
+
+Under WDM the Fireface will (has to) set the sample rate. Therefore the error shown to the right can occur. An AES, SPDIF or ADAT signal with a sample rate of 48 kHz is used as sync source, but Windows audio had been set to 44100 Hz before. The red colored text label signals the error condition, and prompts the user to set 48000 Hz manually as sample rate.
+
+在 WDM 下，Fireface 将（必须）设置采样率。因此可能会出现右侧所示的错误。采样率为 48 kHz 的 AES、SPDIF 或 ADAT 信号用作同步源，但 Windows 音频之前已设置为 44100 Hz。红色文本标签表示错误情况，并提示用户手动设置 48000 Hz 作为采样率。
+
+Under ASIO the audio software sets the sample rate, so that such an error will usually not happen – but it can too. In slave mode the external sample rate has priority. Feeding 44.1 kHz will prevent the ASIO software to set 48 kHz – obviously, as the only way to do so would be to enter a different clock mode (Master/Internal).
+
+在 ASIO 下，音频软件会设置采样率，因此通常不会发生此类错误 - 但也可能出现。在从属模式下，外部采样率具有优先权。输入 44.1 kHz 将阻止 ASIO 软件设置 48 kHz - 显然，因为这样做的唯一方法是进入不同的时钟模式（主/内部）。
+
+In practice, SyncCheck provides the user with an easy way of checking whether all digital devices connected to the system are properly configured. With SyncCheck, finally anyone can master this common source of error, previously one of the most complex issues in the digital studio world.
+
+实际上，SyncCheck 为用户提供了一种简单的方法来检查连接到系统的所有数字设备是否配置正确。有了 SyncCheck，终于任何人都可以掌握这个常见的错误来源，而这曾经是数字工作室领域最复杂的问题之一。
+
+9. Operation under ASIO
+9.1 General
+
+Start the ASIO software and select ASIO Fireface USB as the audio I/O device or the ASIO audio driver.
+The Fireface UCX II supports ASIO Direct Monitoring (ADM).
+The Fireface UCX II MIDI I/Os can be used with both MME MIDI and DirectMusic MIDI.
+
+9. ASIO 下的操作
+9.1 概述
+
+启动 ASIO 软件并选择 ASIO Fireface USB 作为音频 I/O 设备或 ASIO 音频驱动程序。
+Fireface UCX II 支持 ASIO 直接监控 (ADM)。
+Fireface UCX II MIDI I/O 可与 MME MIDI 和 DirectMusic MIDI 一起使用。
+
+9.2 Channel Count under ASIO
+At a sample rate of 88.2 or 96 kHz, the ADAT optical input and outputs operate in S/MUX mode, so the number of available channels per port is reduced from 8 to 4. At a sample rate of 176.4 and 192 kHz, the ADAT optical input and output operates in S/MUX4 mode, so the number of available channels is limited to 2.
+
+9.2 ASIO 下的通道数
+在 88.2 或 96 kHz 的采样率下，ADAT 光纤输入和输出以 S/MUX 模式运行，因此每个端口的可用通道数从 8 个减少到 4 个。在 176.4 和 192 kHz 的采样率下，ADAT 光纤输入和输出以 S/MUX4 模式运行，因此可用通道数限制为 2 个。
+
+Note: When changing the sample rate range between Single, Double and Quad Speed the number of channels presented from the ASIO driver will change too. This may require a reset of the I/O list in the audio software.
+
+注意：在单倍速、双倍速和四倍速之间更改采样率范围时，ASIO 驱动程序提供的通道数也会发生变化。这可能需要重置音频软件中的 I/O 列表。
+
+表格略
+
+9.3 Known Problems
+If a computer does not provide sufficient CPU-power, and/or sufficient USB or PCI bus transfer rates, and/or sufficient PCIe-bus transfer rates, then drop outs, crackling and noise will appear.
+Raising the buffer size in the Settings dialog of the Fireface UCX II helps in most cases. It is also recommended to deactivate all PlugIns to verify that these are not the reason for such effects.
+Further information is found in chapter 40.3.
+
+9.3 已知问题
+如果计算机没有提供足够的 CPU 功率，和/或足够的 USB 或 PCI 总线传输速率，和/或足够的 PCIe 总线传输速率，则会出现中断、噼啪声和噪音。
+在大多数情况下，在 Fireface UCX II 的“设置”对话框中增加缓冲区大小会有所帮助。还建议停用所有插件，以验证这些不是造成此类影响的原因。
+更多信息请参见第 40.3 章。
+
+Another common source of trouble is incorrect synchronization. ASIO does not support asynchro-nous operation, which means that the input and output signals not only have to use the same sample frequency, but also have to be in sync. All devices connected to the Fireface UCX II must be properly configured for full duplex operation. As long as SyncCheck (in the Settings dialog) only displays Lock instead of Sync, the devices have not been set up properly.
+
+另一个常见的麻烦来源是同步不正确。 ASIO 不支持异步操作，这意味着输入和输出信号不仅必须使用相同的采样频率，还必须同步。 必须正确配置连接到 Fireface UCX II 的所有设备才能进行全双工操作。 只要 SyncCheck（在“设置”对话框中）仅显示“锁定”而不是“同步”，就表示设备设置不正确。
+
+The same applies when using more than one Fireface UCX II - they all have to be in sync. Else a periodically repeated noise will be heard.
+
+使用多个 Fireface UCX II 时也一样 - 它们必须同步。否则会听到周期性重复的噪音。
+
+RME devices support ASIO Direct Monitoring (ADM). Please note that not all programs support ADM completely or error-free. The most often reported problem is the wrong behaviour of pano- rama in a stereo channel. Also try to avoid setting the TotalMix FX hardware outputs (third row) to mono mode. This will most likely break ADM compatibility.
+
+RME 设备支持 ASIO 直接监控 (ADM)。请注意，并非所有程序都完全或无错误地支持 ADM。最常报告的问题是立体声通道中全景声的行为错误。还请尽量避免将 TotalMix FX 硬件输出（第三行）设置为单声道模式。这很可能会破坏 ADM 兼容性。
+
+In case of a drift between audio and MIDI, or in case of a fixed deviation (MIDI notes placed close before or behind the correct position), the settings in Cubase/Nuendo have to be changed. At the time of print the option 'Use System Timestamp' should be activated. The Fireface UCX II sup- ports both MME MIDI and DirectMusic MIDI. It depends on the used application which one will work better.
+
+如果音频和 MIDI 之间存在偏移，或者存在固定偏差（MIDI 音符放置在正确位置之前或之后），则必须更改 Cubase/Nuendo 中的设置。在打印时，应激活“使用系统时间戳”选项。Fireface UCX II 支持 MME MIDI 和 DirectMusic MIDI。这取决于使用的应用程序，哪一个会更好。
+
+10. Using more than one Fireface UCX II
+The driver supports up to three Fireface UCX II or a combination of up to three supported inter- faces. All units have to be in sync, i.e. have to receive valid sync information (either via word clock or by using AutoSync and feeding synchronized signals).
+
+10. 使用多个 Fireface UCX II
+驱动程序支持最多三个 Fireface UCX II 或最多三个受支持的接口的组合。所有设备必须同步，即必须接收有效的同步信息（通过字时钟或使用 AutoSync 并输入同步信号）。
+
+● If one of the Firefaces is set to clock mode Master, all others have to be set to clock mode
+AutoSync, and have to be synced from the master, for example by feeding word clock. The clock modes of all units have to be set up correctly in the Fireface Settings dialog.
+
+● If all units are fed with a synchronous clock, i.e. all units show Sync in their Settings dialog, all channels can be used at once. This is especially easy to handle under ASIO, as the ASIO driver presents all units as one.
+
+● 如果其中一个 Fireface 设置为时钟模式 Master，则所有其他 Fireface 都必须设置为时钟模式
+AutoSync，并且必须与主设备同步，例如通过输入字时钟。必须在 Fireface 设置对话框中正确设置所有设备的时钟模式。
+
+● 如果所有设备都使用同步时钟，即所有设备在其设置对话框中都显示 Sync，则可以同时使用所有通道。这在 ASIO 下尤其容易处理，因为 ASIO 驱动程序将所有设备作为一个整体呈现。
+
+
+Please be aware that operating more than one Fireface UCX II may cause resource problems on
+the computer side.
+
+Note: TotalMix is part of the hardware of each Fireface. Up to three mixers are available, but these are separated and can't interchange data. Therefore a global mixer for all units is not possible.
+
+请注意，操作多个 Fireface UCX II 可能会导致计算机端出现资源问题。
+
+注意：TotalMix 是每个 Fireface 硬件的一部分。最多有三个混音器可用，但它们是分开的，无法交换数据。因此，无法为所有设备提供全局混音器。
+
+11. DIGICheck Windows
+The DIGICheck software is a unique utility developed for testing, measuring and analysing digital audio streams. Although this Windows software is fairly self-explanatory, it still includes a com- prehensive online help. DIGICheck 5.96 operates as multi-client ASIO host, therefore can be used in parallel to any software, be it WDM or ASIO, with both inputs and outputs (!). The following is a short summary of the currently available functions: 
+
+DIGICheck 软件是一款独特的实用程序，专为测试、测量和分析数字音频流而开发。虽然这款 Windows 软件相当直观，但它仍然包含全面的在线帮助。DIGICheck 5.96 作为多客户端 ASIO 主机运行，因此可以与任何软件（无论是 WDM 还是 ASIO）并行使用，同时具有输入和输出（！）。以下是当前可用功能的简短摘要：
+
+● Level Meter. High precision 24-bit resolution, 2/8/20 channels. Application examples: Peak level measurement, RMS level measurement, over-detection, phase correlation measure- ment, dynamic range and signal-to-noise ratios, RMS to peak difference (loudness), long term peak measurement, input check. Oversampling mode for levels higher than 0 dBFS. Vertical and horizontal mode. Slow RMS and RLB weighting filter. Supports visualization according to the K-System.
+
+● Hardware Level Meter for Input, Playback and Output. Reference Level Meter freely con- figurable, causing near zero CPU load, because calculated from the Fireface hardware.
+
+● Spectral Analyser. World wide unique 10-, 20- or 30-band display in analog bandpass-filter technology. 192 kHz-capable!
+
+● Vector Audio Scope. World wide unique Goniometer showing the typical afterglow of a oscil- loscope-tube. Includes Correlation meter and level meter.
+
+● Totalyser. Spectral Analyser, Level Meter and Vector Audio Scope in a single window.
+
+● Surround Audio Scope. Professional Surround Level Meter with extended correlation analy- sis, ITU weighting and ITU summing meter.
+
+● ITU1770/EBU R128 Meter. For standardized loudness measurements.
+
+● Bit Statistics & Noise. Shows the true resolution of audio signals as well as errors and DC offset. Includes Signal to Noise measurement in dB and dBA, plus DC measurement.
+
+● Channel Status Display. Detailed analysis and display of SPDIF and AES/EBU Channel Sta- tus data.
+
+● Global Record. Long-term recording of all channels at lowest system load.
+
+● Completely multi-client. Open as many measurement windows as you like, on any channels and inputs or outputs!
+
+● 电平表。高精度 24 位分辨率，2/8/20 通道。应用示例：峰值电平测量、RMS 电平测量、过检测、相位相关测量、动态范围和信噪比、RMS 与峰值差（响度）、长期峰值测量、输入检查。高于 0 dBFS 的电平的过采样模式。垂直和水平模式。慢速 RMS 和 RLB 加权滤波器。支持根据 K 系统进行可视化。
+
+● 用于输入、播放和输出的硬件电平表。参考电平表可自由配置，几乎不造成 CPU 负载，因为是从 Fireface 硬件计算的。
+
+● 频谱分析仪。全球独一无二的 10、20 或 30 波段显示，采用模拟带通滤波器技术。192 kHz 能力！
+
+● 矢量音频示波器。全球独一无二的测角仪，显示示波管的典型余辉。包括相关计和电平计。
+
+● Totalyser。频谱分析仪、电平表和矢量音频示波器均位于一个窗口中。
+
+● 环绕声音频示波器。专业环绕声电平表，具有扩展相关性分析、ITU 加权和 ITU 求和表。
+
+● ITU1770/EBU R128 表。用于标准化响度测量。
+
+● 位统计和噪声。显示音频信号的真实分辨率以及误差和直流偏移。包括以 dB 和 dBA 为单位的信噪比测量，以及直流测量。
+
+● 通道状态显示。详细分析和显示 SPDIF 和 AES/EBU 通道状态数据。
+
+● 全局记录。在最低系统负载下长期记录所有通道。
+
+● 完全多客户端。在任何通道和输入或输出上打开任意数量的测量窗口！
+
+A newer version for more up-to-date hardware, called DigiCheck NG, is also available.
+DIGICheck is free but works only with RME interfaces. It is constantly improved and updated. The
+latest version is always available on our website www.rme-audio.com, section Downloads /
+Software.
+
+还有一个适用于最新硬件的较新版本，称为 DigiCheck NG。
+DIGICheck 是免费的，但仅适用于 RME 接口。它不断改进和更新。
+最新版本始终可在我们的网站 www.rme-audio.com 的下载/软件部分获得。
+
+12. Hotline – Troubleshooting 
+The newest information can always be found on our website www.rme-audio.com, section FAQ, Latest Additions.
+
+The 8 ADAT channels don’t show up at the optical output
+
+12. 热线 - 故障排除
+最新信息始终可以在我们的网站 www.rme-audio.com 的常见问题解答、最新添加部分找到。
+
+8 个 ADAT 通道未显示在光纤输出上
+
+● The optical output has been switched to ‘SPDIF’. The ADAT playback devices are still usable by routing and mixing them in TotalMix to other outputs.
+Playback works, but record doesn’t
+● Check that there is a valid signal at the input. If so, the current sample frequency is displayed in the Settings dialog.
+● Check whether the Fireface UCX II has been selected as recording device in the audio application.
+● Check whether the sample frequency set in the audio application (‘Recording properties’ or similar) matches the input signal.
+● Check that cables/devices have not been connected in a closed loop. If so, set the system’s clock mode to Master.
+Crackle during record or playback
+● Increase the number and size of buffers in the ‘Settings’ dialog or in the application.
+● Try different cables (coaxial or optical) to rule out any defects here.
+● Check that cables/devices have not been connected in a closed loop. If so, set the system’s clock mode to ‘Master’.
+● Check the Settings dialog for displayed Errors.
+Driver installation and Settings dialog/TotalMix work, but a playback or record is not possible
+● While recognition and control of the device are low bandwidth applications, playback/record needs the full transmission performance. Therefore, defective USB cables with limited transmission bandwidth can cause such an error scheme.
+
+● 光纤输出已切换为“SPDIF”。ADAT 播放设备仍可通过在 TotalMix 中将其路由和混合到其他输出来使用。
+播放正常，但录音不正常
+● 检查输入端是否有有效信号。如果是，则当前采样频率将显示在“设置”对话框中。
+● 检查音频应用程序中是否已将 Fireface UCX II 选为录音设备。
+● 检查音频应用程序（“录音属性”或类似内容）中设置的采样频率是否与输入信号匹配。
+● 检查电缆/设备是否未连接成闭环。如果是，请将系统的时钟模式设置为“主”。
+录音或播放期间出现噼啪声
+● 在“设置”对话框或应用程序中增加缓冲区的数量和大小。
+● 尝试使用不同的电缆（同轴或光纤）以排除此处的任何缺陷。
+● 检查电缆/设备是否未连接成闭环。如果是，请将系统的时钟模式设置为“主”。
+● 检查“设置”对话框中显示的错误。
+驱动程序安装和“设置”对话框/TotalMix 工作正常，但无法播放或录制
+● 虽然设备的识别和控制是低带宽应用程序，但播放/录制需要完整的传输性能。因此，传输带宽有限的有缺陷的 USB 电缆可能会导致此类错误方案。
+
+********************************************************************
+				Installation and Operation – Mac OS X
+略
+********************************************************************
+				Inputs and Outputs
+				输入和输出				
+19. Analog Inputs
+19.1 Line Rear		
+The Fireface has four balanced Line inputs as 1/4" TRS jacks on the back of the unit. The elec- tronic input stage is built in a servo balanced design which handles unbalanced (mono jacks) and balanced (stereo jacks) correctly, automatically adjusting the level reference.
+
+19. 模拟输入
+19.1 线路后置
+Fireface 有四个平衡线路输入，为设备背面的 1/4" TRS 插孔。电子输入级采用伺服平衡设计，可正确处理不平衡（单声道插孔）和平衡（立体声插孔），自动调整电平参考。
+
+！ When using unbalanced cables with TRS jacks: be sure to connect the 'ring' contact of the TRS jack to ground. Otherwise noise may occur, caused by the unconnected negative input of the balanced input.
+
+！ 使用 TRS 插孔的非平衡电缆时：务必将 TRS 插孔的“环”触点接地。否则，可能会产生噪音，这是由于平衡输入的负极输入未连接而引起的。
+
+One of the main issues when working with an AD-converter is to maintain the full dynamic range within the best operating level. Therefore the Fireface UCX II internally uses hi-quality electronic switches, which allow for a perfect adaptation of all rear inputs individually to the most often used studio levels. The Fireface UCX II offers the following level references:
+
+使用 AD 转换器时的主要问题之一是将整个动态范围保持在最佳操作级别内。因此，Fireface UCX II 内部使用高品质电子开关，可将所有后置输入完美地单独适配到最常用的工作室级别。Fireface UCX II 提供以下级别参考：
+
+表格略
+
+A reference level of +4 dBu can be set by using +13 dBu and adding 9 dB of gain with the Gain knob in the TotalMix FX channel settings.
+
+可以通过使用 +13 dBu 并使用 TotalMix FX 通道设置中的增益旋钮添加 9 dB 的增益来设置 +4 dBu 的参考级别。
+
+19.2 Microphone / Line Front
+The two balanced microphone inputs of the Fireface UCX II offer a digitally controlled gain of 0 to 75 dB via XLR/TRS combo jacks. The gain range is 0 to 75 dB, adjustable in steps of 1 dB. The soft switching, hi-current Phantom power (48 Volt), switchable per channel, provides a profes- sional handling of condensor mics. Up to a level of +18 dBu, the front XLR input can also be used as balanced and unbalanced Line input.
+
+19.2 麦克风/线路前置
+Fireface UCX II 的两个平衡麦克风输入通过 XLR/TRS 组合插孔提供 0 至 75 dB 的数字控制增益。增益范围为 0 至 75 dB，以 1 dB 为步长进行调整。软切换、高电流幻象电源 (48 伏)，每个通道均可切换，提供专业的电容麦克风处理。最高可达 +18 dBu 的电平，前置 XLR 输入也可用作平衡和非平衡线路输入。
+
+The TRS jacks of the two combo jacks are free of phantom power and fully compatible to unbal- anced (mono jack) sources. They have a fixed level attenuation of 6 dB. The maximum input level is therefore +24 dBu, balanced and unbalanced.
+
+两个组合插孔的 TRS 插孔没有幻象电源，完全兼容非平衡（单声道插孔）源。它们具有 6 dB 的固定电平衰减。因此，最大输入电平为 +24 dBu，平衡和非平衡。
+
+Channels 1 to 4 feature an automatic overload protection. AutoSet tries to keep a headroom of 6 dB. Levels higher than -6 dBFS will permanently reduce the gain. To check set the channels to a high gain and apply an input signal. The button will quickly rotate back to a gain that is appropriate.
+
+通道 1 至 4 具有自动过载保护功能。AutoSet 会尝试保持 6 dB 的余量。高于 -6 dBFS 的电平将永久降低增益。要检查，请将通道设置为高增益并应用输入信号。按钮将快速旋转回合适的增益。
+
+While with extreme overloads distortion will occur for the fraction of a second before the level is set correctly, AutoSet works quite well in real-world applications and prevents distorted recordings reliably.
+
+尽管在极端过载的情况下，在正确设置电平之前的几分之一秒内就会出现失真，但 AutoSet 在实际应用中效果很好，可以可靠地防止录音失真。
+
+Using stereo channels AutoSet operates ganged. AutoSet can be ac- tivated in TM FX or directly at the unit in the channel settings. A push on Encoder 1/2 toggles AS on/off.
+使用立体声通道，AutoSet 可同时运行。AutoSet 可在 TM FX 中激活，也可直接在设备上的通道设置中激活。按下编码器 1/2 可切换 AS 的开/关。
+
+As soon as AutoSet reduces the gain the label AS, shown in the front display, changes its colour from black to blue.
+
+一旦 AutoSet 降低增益，前显示屏上显示的标签 AS 就会从黑色变为蓝色。
+
+19.3 Instrument / Line Front
+Inputs 3/4 of the Fireface UCX II are exceptionally flexible. Several gain and impedance options make them the ideal receivers for both line and instrument signals.
+
+19.3 乐器/线路前置
+Fireface UCX II 的 3/4 输入非常灵活。多种增益和阻抗选项使其成为线路和乐器信号的理想接收器。
+
+Line Inputs 3/4 have balanced line inputs as 1/4" TRS jacks. The electronic input stage is built in a servo balanced design which handles unbalanced (mono jacks) and balanced (stereo jacks) cor- rectly, automatically adjusting the level reference.
+
+线路输入 3/4 具有平衡线路输入，为 1/4" TRS 插孔。电子输入级采用伺服平衡设计，可正确处理不平衡（单声道插孔）和平衡（立体声插孔），自动调整电平参考。
+
+Inputs 3/4 operate in perfect harmony with the rear inputs 5 to 8, as they are identical in all technical specifications.
+
+输入 3/4 与后部输入 5 至 8 完美协调运行，因为它们在所有技术规格上都是相同的。
+
+Adjustable Input Gain
+Via Gain in TotalMix channel settings, or by using the rotary encoder on the front, an additional gain can be applied to the input signals of channels 3/4. The gain range is 0 dB up to 12 dB, in steps of 0.5 dB. This option not only allows for the use of sources with low level output signals, but also for example to adjust the balance between channel 3 and 4 precisely, already before the recording takes place.
+
+可调输入增益
+通过 TotalMix 通道设置中的增益，或使用前面的旋转编码器，可以对通道 3/4 的输入信号应用额外的增益。增益范围为 0 dB 至 12 dB，步长为 0.5 dB。此选项不仅允许使用具有低电平输出信号的源，还可以在录制之前精确调整通道 3 和 4 之间的平衡。
+
+Two reference levels plus 12 dB adjustable gain offer universal connectivity. Be it keyboards, samplers, CD players or what ever one likes to connect: These inputs handle levels from +1 dBu up to +19 dBu and also perfectly handle your
+
+两个参考电平加上 12 dB 可调增益提供通用连接。无论是键盘、采样器、CD 播放器还是任何人们喜欢连接的东西：这些输入可处理从 +1 dBu 到 +19 dBu 的电平，并且完美处理您的
+
+Instrument
+The main difference between a line- and instrument input is the input's impedance. Via the option Inst in the TotalMix channel settings, the input impedance changes from 10 kOhm to 1 MOhm (also called Hi-Z). At the same time the input sensitivity rises by 6 dB.
+
+乐器
+线路输入和乐器输入之间的主要区别在于输入阻抗。通过 TotalMix 通道设置中的选项 Inst，输入阻抗从 10 kOhm 变为 1 MOhm（也称为 Hi-Z）。同时，输入灵敏度增加 6 dB。
+
+The instrument input operates unbalanced. Please don’t use (stereo) TRS jacks in that mode.
+For AutoSet please read chapter 19.2.
+
+乐器输入不平衡。请勿在该模式下使用（立体声）TRS 插孔。
+有关 AutoSet，请阅读第 19.2 章。
+
+20. Analog Outputs
+20.1 Line
+The short circuit protected, low impedance line outputs of channels 1 to 6 are available as 1/4" TRS jacks on the back of the unit. The electronic output stage is built in a servo balanced design which handles unbalanced (mono jacks) and balanced (stereo jacks) correctly.
+
+20. 模拟输出
+20.1 线路
+1 至 6 通道的短路保护、低阻抗线路输出可用作设备背面的 1/4" TRS 插孔。电子输出级采用伺服平衡设计，可正确处理不平衡（单声道插孔）和平衡（立体声插孔）。
+
+To maintain an optimum level for devices connected to the analog outputs, the Fireface UCX II internally uses hi-quality electronic switches, which allow for a perfect adaptation of all outputs individually to the three most often used studio levels.
+
+为了保持连接到模拟输出的设备的最佳水平，Fireface UCX II 内部使用高质量电子开关，这使得所有输出能够完美地适应三个最常用的工作室级别。
+
+As with the analog inputs, the analog output levels are defined to maintain a problem-free opera- tion with most other devices.
+
+与模拟输入一样，模拟输出级别也被定义为与大多数其他设备保持无故障运行。
+
+表格略
+
+In older RME devices, the references refer to a working level plus headroom (HR). In the UCX II the maximum level is used as name instead, which is less confusing in our opinion. The levels of the table are identical in each respective case and thus fully compatible.
+
+在较旧的 RME 设备中，参考值指的是工作电平加上余量 (HR)。在 UCX II 中，最大电平被用作名称，我们认为这样不太容易混淆。表中的电平在每种情况下都是相同的，因此完全兼容。
+
+20.2 Headphones / Line Out
+Channels 7/8 of the Fireface are available on the front as 1/4" TRS jack. These channels use the same converters as the other Line outputs, therefore offer the same technical data.
+
+20.2 耳机/线路输出
+Fireface 的 7/8 通道在前面板上有 1/4 英寸 TRS 插孔。这些通道使用与其他线路输出相同的转换器，因此提供相同的技术数据。
+
+Two hardware-based reference levels are available (set in TotalMix Output Channel Settings, Level, High or Low). High equals the setting +19 dBu of the other channels, Low equals +4 dBu (see table above). They can thus also be used as high-quality, unbalanced line outputs.
+
+提供两种基于硬件的参考级别（在 TotalMix 输出通道设置、级别、高或低中设置）。高等于其他通道的设置 +19 dBu，低等于 +4 dBu（见上表）。因此，它们也可以用作高品质、非平衡线路输出。
+
+These outputs are special low impedance types (1 Ohms), perfectly suited for headphone use.
+
+这些输出是特殊的低阻抗类型（1 欧姆），非常适合耳机使用。
+
+Setting the output level, i.e. the monitoring volume, is done – besides the pre-setting High/Low - via TotalMix (Hardware Output, Phones) or directly at the unit via the encoder. Changing the monitoring volume is therefore very easy and quickly done.
+
+除了预设高/低之外，还可以通过 TotalMix（硬件输出、耳机）或直接在设备上通过编码器来设置输出级别（即监听音量）。因此，更改监听音量非常容易且快速。
+
+In case the Phones output should operate as line outputs, an adapter TRS plug to RCA phono plugs, or TRS plug to TS plugs is re- quired.
+
+如果要将耳机输出用作线路输出，则需要一个适配器 TRS 插头到 RCA 唱机插头，或 TRS 插头到 TS 插头。
+
+The pin assignment follows international standards. The left channel is connected to the tip, the right channel to the ring of the TRS jack/plug.
+
+引脚分配遵循国际标准。左声道连接到 TRS 插孔/插头的尖端，右声道连接到 TRS 插孔/插头的环。
+
+20.3 DC-coupled Outputs (CV/Gate)
+All eight analog outputs of the UCX II are DC-coupled. AC coupling via capacitor is common, both directly after the DAC chip and directly at the output socket. This prevents a fixed DC component at the output, which could cause negative effects such as popping noise or malfunctions in other devices that are also DC-coupled. However, it also serves as protection against dangerous DC from the outside.
+
+20.3 直流耦合输出（CV/Gate）
+UCX II 的所有八个模拟输出均为直流耦合。通过电容器的交流耦合很常见，直接在 DAC 芯片之后和直接在输出插座处进行。这可以防止输出端出现固定直流分量，这可能会导致负面影响，例如爆音或其他同样直流耦合的设备发生故障。但是，它也可以作为对来自外部的危险直流电的保护。
+
+DC coupling has the obvious advantage of allowing the output to operate level-linearly down to 0 Hz. Even at extremely low bass (16 Hz) phase shifts are avoided. DC-coupled inputs are rare, especially for power amplifiers, so a possible DC offset of a playback normally does not cause serious issues.
+
+直流耦合的明显优势在于允许输出以线性方式工作至 0 Hz。即使在极低的低音 (16 Hz) 下也可以避免相移。直流耦合输入很少见，尤其是对于功率放大器而言，因此播放中可能出现的直流偏移通常不会引起严重问题。
+
+In order to realize the outputs stable and reliable (robust) as DC-coupled, the circuitry was de- signed for low DC-offsets and sufficient overvoltage protection. That this works has been proven for years, not only by RME's ADI series.
+
+为了实现输出稳定可靠（坚固）的直流耦合，电路设计为低直流偏移和足够的过压保护。这种做法多年来已被证明有效，不仅仅是 RME 的 ADI 系列。
+
+To be able to generate DC is quite useful in measurement technology, also in connection with audio. However, DC coupling is especially desirable in combination with analog, electronic sound generators (synthesizers). These have an input that can control the pitch as well as other func- tions via a DC voltage. Control Voltage, short CV, often also CV/Gate (gate determines tone on or off), CV Filter etc. is mostly based on the voltage range 0 to +5 Volt. If an audio interface can output such DC voltages then synthesizers can be controlled via suitable software and the analog outputs of the audio interface.
+
+能够生成直流电在测量技术中非常有用，在音频方面也是如此。但是，直流耦合与模拟电子声音发生器（合成器）结合使用时尤其有用。这些合成器有一个输入端，可以通过直流电压控制音调和其他功能。控制电压、短 CV、通常还有 CV/Gate（门控决定音调的开启或关闭）、CV 滤波器等主要基于 0 到 +5 伏的电压范围。如果音频接口可以输出这样的直流电压，那么就可以通过合适的软件和音频接口的模拟输出来控制合成器。
+
+The DA converters and analog output stages used in the UCX II have a very low DC drift and generate the DC voltages very reliably and reproducibly, so they are very well suited for this application.
+
+UCX II 中使用的 DA 转换器和模拟输出级具有非常低的直流漂移，并且能够非常可靠且可重复地产生直流电压，因此非常适合此应用。
+
+Polarity - Phase
+Since the outputs (of course) have a correct polarity, and TotalMix fully supports DC (via fader and level meter), a positive voltage appears at the analog output when a digital positive DC is played. The amount of voltage can be measured accurately and directly with any cheap multimeter.
+
+极性 - 相位
+由于输出（当然）具有正确的极性，并且 TotalMix 完全支持 DC（通过推子和电平表），因此当播放数字正 DC 时，模拟输出会出现正电压。可以使用任何廉价万用表准确直接地测量电压量。
+
+！ Negative output voltages should be avoided, because they could theoretically lead to defects in the CV input. Even if the software used generates only positive signals, a simple phase inversion in TotalMix can invert the signal so that a negative voltage is send out.
+
+！应避免使用负输出电压，因为理论上它们可能会导致 CV 输入出现缺陷。即使所用的软件只生成正信号，TotalMix 中的简单相位反转也可以反转信号，从而发出负电压。
+
+Voltage Ranges
+Line Out 1-6, unbalanced (mono jack), unloaded:
++19 dBu: +9.5 V, +13 dBu: +4.75 V, +4 dBu: +1.7 V
+Phones 7/8, unbalanced, unloaded:
+High (+19 dBu): +9.5 V, Low (+4 dBu): +1.7 V
+
+Note: The level meters in TotalMix show DC 3 dB higher due to its factory default setting. This can be changed by disabling the Settings - Level Meters - RMS +3 dB option in TotalMix FX.
+
+注意：TotalMix 中的电平表显示 DC 比出厂默认设置高 3 dB。可以通过禁用 TotalMix FX 中的“设置 - 电平表 - RMS +3 dB”选项来更改此设置。
+
+21. Digital Connections
+21.1 ADAT
+The ADAT optical input of the Fireface UCX II is fully compatible with all ADAT optical outputs.
+
+RME's unsurpassed Bitclock PLL prevents clicks and drop outs even in extreme varipitch opera- tion, and guarantees a fast and low jitter lock to the digital input signal. A usual TOSLINK cable is sufficient for connection.
+
+21. 数字连接
+21.1 ADAT
+Fireface UCX II 的 ADAT 光纤输入与所有 ADAT 光纤输出完全兼容。
+
+RME 无与伦比的 Bitclock PLL 即使在极端变音操作中也能防止咔嗒声和中断，并确保快速、低抖动锁定数字输入信号。通常的 TOSLINK 电缆足以进行连接。
+
+ADAT In
+Interface for receiving an ADAT signal. Carries the channels 1 to 8. When receiving a Double Speed signal, this input carries the channels 1 to 4, at Quad Speed the channels 1 and 2.
+
+ADAT 输入
+用于接收 ADAT 信号的接口。承载通道 1 至 8。接收双倍速度信号时，此输入承载通道 1 至 4，接收四倍速度信号时承载通道 1 和 2。
+
+ADAT Out
+Interface for sending an ADAT signal. Transmits channels 1 to 8. When sending a Double Speed signal, this port carries channels 1 to 4, at Quad Speed the channels 1 and 2. Can also be used as a 2-channel SPDIF optical output.
+
+ADAT 输出
+用于发送 ADAT 信号的接口。传输通道 1 至 8。发送双倍速信号时，此端口传输通道 1 至 4，发送四倍速信号时传输通道 1 和 2。也可用作 2 通道 SPDIF 光纤输出。
+
+21.2 AES/EBU
+The Fireface UCX II’s digital breakout cable (BO968) provides one XLR AES/EBU input and out- put each. Connection is accomplished using balanced cables with XLR plugs. Input and Output are transformer-balanced and ground-free. The incoming channel status is ignored.
+
+21.2 AES/EBU
+Fireface UCX II 的数字分支电缆 (BO968) 各提供一个 XLR AES/EBU 输入和输出。使用带 XLR 插头的平衡电缆进行连接。输入和输出是变压器平衡且无接地的。传入通道状态被忽略。
+
+AES/EBU (and SPDIF) can contain Emphasis information. Audio signals with Emphasis have a high frequency boost, requiring high frequency attenuation on playback.
+
+AES/EBU（和 SPDIF）可以包含强调信息。带有强调的音频信号具有高频增强，需要在播放时进行高频衰减。
+
+! An Emphasis indication gets lost as there exists no standardized interface on computers to handle this information!
+
+！由于计算机上没有标准化的接口来处理这些信息，所以强调指示会丢失！
+
+Operation as second SPDIF I/O
+Thanks to a highly sensitive input stage SPDIF coaxial can be fed too by using a simple cable adapter RCA/XLR. To achieve this, pins 2 and 3 of a male XLR plug are connected individually to the two pins of a RCA plug. The cable shielding is only con- nected to pin 1 of the XLR - not to the RCA plug.
+
+作为第二个 SPDIF I/O 运行
+由于输入级灵敏度高，SPDIF 同轴电缆也可以通过简单的 RCA/XLR 电缆适配器供电。为此，XLR 公插头的 2 号和 3 号引脚分别连接到两个引脚 o
+
+Using the cable adapter XLR/RCA described above, devices with coaxial SPDIF interface can be connected to the AES output of the Fireface UCX II as well. Note that most consumer equipment with phono (SPDIF) inputs will only accept signals having a Channel Status Consumer. In such cases the above adapter cable will not work.
+
+使用上面描述的电缆适配器 XLR/RCA，具有同轴 SPDIF 接口的设备也可以连接到 Fireface UCX II 的 AES 输出。请注意，大多数带有唱机 (SPDIF) 输入的消费设备只接受具有通道状态消费者的信号。在这种情况下，上述适配器电缆将不起作用。
+
+21.3 SPDIF (Coaxial, Optical)
+The Fireface UCX II has up to three SPDIF inputs and outputs: coaxial, optical and AES can be used simultaneously, with different audio signals. Note that the sources have to be synchronous, as the unit does not have a dedicated sample rate converter.
+
+21.3 SPDIF（同轴、光纤）
+Fireface UCX II 最多有 3 个 SPDIF 输入和输出：同轴、光纤和 AES 可同时使用，并带有不同的音频信号。请注意，源必须同步，因为该设备没有专用的采样率转换器。
+
+The SPDIF coaxial input accepts SPDIF and AES/EBU, Consumer as well as Professional format.
+
+SPDIF 同轴输入接受 SPDIF 和 AES/EBU、消费者以及专业格式。
+
+To receive signals in AES/EBU format, an adapter cable is required. Pins 2 and 3 of a fe- male XLR plug are connected individually to the two pins of a phono plug. The cable shield- ing is connected to pin 1 of the XLR and the ground contact of the phono plug.
+
+要接收 AES/EBU 格式的信号，需要使用适配器电缆。母 XLR 插头的 2 和 3 针分别连接到唱机插头的两个针脚。电缆屏蔽层连接到 XLR 的 1 针和唱机插头的接地触点。
+
+The optical input automatically switches to SPDIF operation when such a signal is detected. The audio information is then shown in TotalMix on the first two ADAT channels ADAT 1/2, which are channels 13 and 14.
+
+当检测到此类信号时，光纤输入会自动切换到 SPDIF 操作。然后，音频信息显示在 TotalMix 的前两个 ADAT 通道 ADAT 1/2 上，即通道 13 和 14。
+
+SPDIF coaxial Output
+Apart from the audio data itself, digital signals in SPDIF or AES/EBU format have a header con- taining channel status information. False channel status is a common cause of malfunction. The Fireface UCX II ignores the received header and creates a totally new one for the output signal.
+
+The output SPDIF coaxial can have the Channel Status Consumer or Professional, changed in the Settings dialog. When selecting Professional, the carrier level is also doubled for better AES/EBU compatibility.
+
+输出 SPDIF 同轴电缆的通道状态可在“设置”对话框中更改，分别为“消费者”或“专业”。选择“专业”时，载波级别也会加倍，以实现更好的 AES/EBU 兼容性。
+
+Operation as second AES/EBU Output
+Professional AES/EBU equipment can be connected to the output SPDIF coaxial thanks to its format option Professional and a doubled output voltage. Output cables should have the same pinout as those used for input (see above), but with a male XLR plug instead of a female one.
+
+作为第二个 AES/EBU 输出使用
+专业 AES/EBU 设备可以连接到输出 SPDIF 同轴电缆，这得益于其专业格式选项和双倍输出电压。输出电缆的引脚排列应与输入电缆的引脚排列相同（见上文），但使用公 XLR 插头而不是母 XLR 插头。
+
+SPDIF optical output
+To send out SPDIF from the optical output, select the option Output Format Optical – SPDIF in the Settings dialog. The output signal in TotalMix has to be present on the ADAT channels 1/2.
+
+SPDIF 光纤输出
+要从光纤输出发送 SPDIF，请在“设置”对话框中选择“输出格式光纤 - SPDIF”选项。TotalMix 中的输出信号必须出现在 ADAT 通道 1/2 上。
+
+！ Note that most consumer HiFi equipment (with optical or phono SPDIF inputs) will only accept signals in ‘Consumer’ format!
+
+！请注意，大多数消费类 HiFi 设备（带有光纤或唱机 SPDIF 输入）只接受“消费者”格式的信号！
+
+Therefore in SPDIF mode the optical output is fixed to Consumer status.
+
+因此在 SPDIF 模式下光纤输出固定为消费者状态。
+
+21.4 MIDI
+Fireface UCX II offers one MIDI I/O via two 5-pin DIN sockets. The MIDI ports are added to the system by the driver. Using MIDI capable software, these ports can be accessed under the name UCX II MIDI Port.
+
+21.4 MIDI
+Fireface UCX II 通过两个 5 针 DIN 插座提供一个 MIDI I/O。驱动程序将 MIDI 端口添加到系统中。使用支持 MIDI 的软件，这些端口可通过名称 UCX II MIDI 端口进行访问。
+
+The MIDI ports support multi-client operation. A MIDI input signal can be received from several programs at the same time. Even the MIDI output can be used by multiple programs simultane- ously. However, due to the limited bandwidth of MIDI, this kind of application will often show various problems.
+
+MIDI 端口支持多客户端操作，一个 MIDI 输入信号可以同时被多个程序接收，甚至 MIDI 输出也可以同时被多个程序使用，但由于 MIDI 的带宽有限，这种应用经常会出现各种问题。
+
+Note: The MIDI input indicator displays any kind of MIDI activity, including MIDI Clock, MTC and Active Sensing. The latter is sent by most keyboards every 0.3 seconds.
+
+注意：MIDI 输入指示器显示任何类型的 MIDI 活动，包括 MIDI 时钟、MTC 和主动感应。大多数键盘每 0.3 秒发送一次主动感应。
+
+22. Word Clock
+22.1 Word Clock Input / Output
+SteadyClock guarantees an excellent performance in all clock modes. Based on the highly effi- cient jitter suppression, the Fireface refreshes and cleans up any clock signal, and provides it as reference clock at the BNC output (see chapter 40.8).
+
+22. 字时钟
+22.1 字时钟输入/输出
+SteadyClock 保证所有时钟模式下的出色性能。基于高效的抖动抑制，Fireface 可刷新和清理任何时钟信号，并将其作为 BNC 输出的参考时钟提供（参见第 40.8 章）。
+
+The Fireface UCX II has one BNC socket with dual functionality – it can serve as word clock input OR word clock output. The current mode is set in the Settings dialog by the user.
+
+Fireface UCX II 有一个 BNC 插座，具有双重功能 - 它可以用作字时钟输入或字时钟输出。当前模式由用户在“设置”对话框中设置。
+
+Input Mode
+The Fireface's word clock input is active when the BNC socket has has been switched to input mode in the Settings dialog, and a valid word clock signal is present. The signal at the BNC input can be Single, Double or Quad Speed, the Fireface UCX II automatically adapts to it. As soon as a valid signal is detected, the WCK field is lit, and the Settings dialog shows either Lock or Sync (see chapter 40.1).
+
+输入模式
+当 BNC 插座在“设置”对话框中切换为输入模式，并且存在有效的字时钟信号时，Fireface 的字时钟输入处于活动状态。BNC 输入端的信号可以是单速、双速或四速，Fireface UCX II 会自动适应。一旦检测到有效信号，WCK 字段就会亮起，并且“设置”对话框会显示“锁定”或“同步”（参见第 40.1 章）。
+
+Thanks to RME's Signal Adaptation Circuit, the word clock input still works correctly even with heavily mis-shaped, dc-prone, too small or overshoot- prone signals. Thanks to automatic signal centering, 300 mV (0.3V) input level is sufficient in principle. An additional hysteresis reduces sensitivity to 1.0 V, so that over- and undershoots and high frequency disturbances don't cause a wrong trigger.
+
+得益于 RME 的信号自适应电路，字时钟输入即使在严重失真、容易产生直流、信号过小或容易出现过冲的情况下仍能正常工作。得益于自动信号居中功能，300 mV (0.3V) 输入电平原则上就足够了。额外的滞后将灵敏度降低至 1.0 V，这样过冲和欠冲以及高频干扰就不会导致错误触发。
+
+The Fireface UCX II word clock input can be high impedance or internally terminated (75 Ohms). The state is comfortably selected within the Settings dialog. To terminate the input check the option Word Clock In Termination under Options.
+
+Fireface UCX II 字时钟输入可以是高阻抗或内部端接（75 欧姆）。可在“设置”对话框中轻松选择状态。要终止输入，请选中“选项”下的“字时钟输入端接”选项。
+
+Output Mode
+The same BNC socket can be used as word clock output instead of input, again configured in the Settings dialog. The word clock output is constantly active, providing the current sample frequency as word clock signal. As a result, in Master mode the provided word clock is defined by the cur- rently used software. In Slave mode the provided frequency is identical to the one present at the currently chosen clock source. When the current clock signal fails, the Fireface UCX II switches to Master mode and adjusts itself to the next, best matching frequency (44.1 kHz, 48 kHz etc.).
+
+输出模式
+相同的 BNC 插座可用作字时钟输出而不是输入，同样在“设置”对话框中进行配置。字时钟输出始终处于活动状态，提供当前采样频率作为字时钟信号。因此，在主模式下，提供的字时钟由当前使用的软件定义。在从属模式下，提供的频率与当前选择的时钟源的频率相同。当当前时钟信号失败时，Fireface UCX II 会切换到主模式并自行调整到下一个最佳匹配频率（44.1 kHz、48 kHz 等）。
+
+Selecting Single Speed in the Settings dialog causes the output signal to always stay within the range of 32 kHz to 48 kHz. So at 96 kHz and 192 kHz sample rate, the output word clock is 48 kHz.
+
+在“设置”对话框中选择“单速”会使输出信号始终保持在 32 kHz 至 48 kHz 的范围内。因此，在 96 kHz 和 192 kHz 采样率下，输出字时钟为 48 kHz。
+
+Thanks to a low impedance, short circuit proof output, the Fireface delivers 4 Vpp to 75 Ohms. For wrong termination with 2 x 75 Ohms (37.5 Ohms), there are still 3.3 Vpp at the output.
+
+由于具有低阻抗、防短路输出，Fireface 可将 4 Vpp 输出至 75 欧姆。如果错误地端接 2 x 75 欧姆（37.5 欧姆），输出端仍会有 3.3 Vpp。
+
+22.2 Technical Description and Usage
+In the analog domain one can connect any device to another device, a synchronization is not necessary. Digital audio is different. It uses a clock, the sample frequency. The signal can only be processed and transmitted when all participating devices share the same clock. If not, the signal will suffer from wrong samples, distortion, crackle sounds and drop outs.
+
+22.2 技术说明和使用
+在模拟域中，可以将任何设备连接到另一设备，无需同步。数字音频则不同。它使用时钟，即采样频率。只有当所有参与设备共享同一时钟时，才能处理和传输信号。否则，信号将遭受错误采样、失真、噼啪声和中断。
+
+AES/EBU, SPDIF and ADAT are self-clocking, an additional word clock connection in principle isn't necessary. But when using more than one device simultaneously problems are likely to hap- pen. For example any self-clocking will not work in a loop cabling, when there is no 'master' (main clock) inside the loop. Additionally the clock of all participating devices has to be synchronous.
+
+This is often impossible with devices limited to playback, for example CD players, as these have no SPDIF input, thus can't use the self clocking technique as clock reference.
+
+AES/EBU、SPDIF 和 ADAT 是自时钟的，原则上不需要额外的字时钟连接。但是，当同时使用多个设备时，可能会出现问题。例如，当环路内没有“主时钟”（主时钟）时，任何自时钟都无法在环路布线中工作。此外，所有参与设备的时钟必须同步。
+
+对于仅限于播放的设备（例如 CD 播放器），这通常是不可能的，因为它们没有 SPDIF 输入，因此不能使用自时钟技术作为时钟参考。
+
+In a digital studio synchronisation is maintained by connecting all devices to a central sync source.
+
+For example the mixing desk works as master and sends a reference signal, the word clock, to all other devices. Of course this will only work as long as all other devices are equipped with a word clock or sync input, thus being able to work as slave (some professional CD players indeed have a word clock input). Then all devices get the same clock and will work in every possible combination with each other.
+
+在数字工作室中，同步是通过将所有设备连接到中央同步源来维持的。
+
+例如，混音台作为主设备工作，并向所有其他设备发送参考信号（字时钟）。当然，这只有在所有其他设备都配备字时钟或同步输入时才有效，从而能够作为从设备工作（一些专业 CD 播放器确实有字时钟输入）。然后所有设备都会获得相同的时钟，并可以在所有可能的组合中工作。
+
+！ A digital system can only have one master! If the Fireface's clock mode is set to 'Master', all other devices must be set to ‘Slave’.
+
+！一个数字系统只能有一个主设备！如果 Fireface 的时钟模式设置为“主设备”，则所有其他设备必须设置为“从设备”。
+
+But word clock is not only the 'great problem solver', it also has some disadvantages. The word clock is based on a fraction of the really needed clock. For example SPDIF: 44.1 kHz word clock (a simple square wave signal) has to be multiplied by 256 inside the device using a special PLL (to about 11.2 MHz). This signal then replaces the one from the quartz crystal. Big disadvantage: because of the high multiplication factor the reconstructed clock will have great deviations called jitter. The jitter of a word clock is typically 15 times higher as when using a quartz based clock.
+
+但是字时钟不仅是“伟大的问题解决者”，它也有一些缺点。字时钟基于真正所需时钟的一小部分。例如 SPDIF：44.1 kHz 字时钟（简单的方波信号）必须在设备内部使用特殊 PLL 乘以 256（约 11.2 MHz）。然后，该信号取代石英晶体的信号。最大的缺点：由于倍增因子高，重建的时钟将有很大的偏差，称为抖动。字时钟的抖动通常比使用石英时钟时高 15 倍。
+
+The actual end of these problems is offered by the SteadyClock technology of the Fireface UCX II. Combining the advantages of modern and fastest digital technology with analog filter tech- niques, re-gaining a low jitter clock signal of 22 MHz from a slow word clock of 44.1 kHz is no problem anymore. Additionally, jitter on the input signal is highly rejected, so that even in real world usage the re-gained clock signal is of highest quality.
+
+Fireface UCX II 的 SteadyClock 技术真正解决了这些问题。结合现代和最快的数字技术与模拟滤波技术的优势，从 44.1 kHz 的慢速字时钟重新获得 22 MHz 的低抖动时钟信号不再是问题。此外，输入信号的抖动被高度抑制，因此即使在实际使用中，重新获得的时钟信号也是最高质量的。
+
+22.3 Cabling and Termination
+Word clock signals are usually distributed in the form of a network, split with BNC T-adapters and terminated with resistors. We recommend using off-the-shelf BNC cables to connect all devices, as this type of cable is used for most computer networks. You will find all the necessary compo- nents (T-adapters, terminators, cables) in most electronics and/or computer stores. The latter usually carries 50 Ohms components. The 75 Ohms components used for word clock are part of video technology (RG59).
+
+22.3 布线和终端
+字时钟信号通常以网络形式分布，用 BNC T 型适配器分离并用电阻器端接。我们建议使用现成的 BNC 电缆连接所有设备，因为这种类型的电缆用于大多数计算机网络。您可以在大多数电子和/或计算机商店中找到所有必要的组件（T 型适配器、终端器、电缆）。后者通常带有 50 欧姆组件。用于字时钟的 75 欧姆组件是视频技术 (RG59) 的一部分。
+
+Ideally, the word clock signal is a 5 Volt square wave with the frequency of the sample rate, of which the harmonics go up to far above 500 kHz. To avoid voltage loss and reflections, both the cable itself and the terminating resistor at the end of the chain should have an impedance of 75 Ohm. If the voltage is too low, synchronization will fail. High frequency reflection effects can cause both jitter and sync failure.
+
+理想情况下，字时钟信号是 5 伏方波，频率为采样率，其谐波远高于 500 kHz。为避免电压损失和反射，电缆本身和链末端的终端电阻都应具有 75 欧姆的阻抗。如果电压太低，同步将失败。高频反射效应可能导致抖动和同步失败。
+
+Unfortunately there are still devices on the market which provide a word clock output that can only be called unsatisfactory. If the output breaks down to 3 Volts when terminating with 75 Ohms, you have to take into account that a device, of which the input only works from 2.8 Volts and above, does not function correctly already after 3 meter cable length. So it is not astonishing that because of the higher voltage, word clock networks are in some cases more stable and reliable if cables are not terminated at all. In some cases the 75 Ohms are built into the device and cannot be switched off. In this case the network load is often 2 x 75 Ohms, and the user is forced to buy a special word clock distributor (such a device is generally recommended for bigger studios).
+
+不幸的是，市场上仍有一些设备提供的字时钟输出不能令人满意。如果在 75 欧姆端接时输出降至 3 伏，则必须考虑到，输入电压仅在 2.8 伏及以上时才有效的设备在 3 米电缆长度后就无法正常工作。因此，由于电压较高，如果电缆根本没有端接，字时钟网络在某些情况下会更稳定、更可靠，这并不奇怪。在某些情况下，75 欧姆内置于设备中，无法关闭。在这种情况下，网络负载通常为 2 x 75 欧姆，用户不得不购买特殊的字时钟分配器（这种设备通常建议用于较大的工作室）。
+
+Therefore it seems of advantage to design outputs of word clock as low impedance types, but all word clock inputs as high impedance types, in order to not weaken the signal on the chain.
+
+因此，将字时钟输出设计为低阻抗类型，但将所有字时钟输入设计为高阻抗类型似乎是有利的，以便不削弱链上的信号。
+
+The Fireface's word clock input can be high-impedance or terminated internally, ensuring maxi- mum flexibility. If termination is necessary (e.g. because the Fireface is the last device in the chain), check the option Word Clock In Term. under Options (see chapter 7.1 / 14.1).
+
+Fireface 的字时钟输入可以是高阻抗或内部端接，以确保最大的灵活性。如果需要端接（例如，因为 Fireface 是链中的最后一个设备），请选中选项下的“Word Clock In Term.”选项（参见第 7.1/14.1 章）。
+
+In case the UCX II resides within a chain of devices receiving word clock, plug a T-adapter into its BNC input jack, and the cable supplying the word clock signal to one end of the adapter. Connect the free end to the next device in the chain via a further BNC cable. The last device in the chain should be terminated using another T-adapter and a 75 Ohm resistor (available as short BNC plug). Of course devices with internal termination do not need T-adaptor and terminator plug.
+
+如果 UCX II 位于接收字时钟的设备链中，请将 T 型适配器插入其 BNC 输入插孔，并将提供字时钟信号的电缆插入适配器的一端。通过另一根 BNC 电缆将自由端连接到链中的下一个设备。链中的最后一个设备应使用另一个 T 型适配器和 75 欧姆电阻器（可用作短 BNC 插头）进行端接。当然，具有内部端接的设备不需要 T 型适配器和端接器插头。
+
+22.4 Operation
+The field WCK on the display will light up green as soon as a word clock signal is detected. To change to word clock as clock source, activate the Clock Source Word in the field Clock Mode within the Settings dialog. The status display Current changes to Word as soon as a valid signal is present at the BNC jack. This message has the same meaning as the green State field, but appears on the monitor, i.e. the user can check immediately whether a valid word clock signal is present and is currently being used.
+
+22.4 操作
+一旦检测到字时钟信号，显示屏上的 WCK 字段将亮起绿色。要将字时钟更改为时钟源，请在“设置”对话框中的“时钟模式”字段中激活“时钟源字”。一旦 BNC 插孔出现有效信号，状态显示“当前”将更改为“字”。此消息与绿色“状态”字段含义相同，但显示在显示器上，即用户可以立即检查是否存在有效的字时钟信号并且当前正在使用。
+
+********************************************************************
+				Stand-Alone Operation
+				独立操作
+23. Operation and Usage
+23.1 General
+Using the rotary encoder, the four buttons and the clear colour display the Fireface UCX II can be configured and set up completely at the device. Additionally internal memory allows for the per- manent storage of six different states of the unit. Therefore the Fireface UCX II is able to operate fully stand-alone, without any connected computer. In stand-alone operation it can transform into totally different devices by the simple click of a button. Furthermore TotalMix FX, and with this the application examples shown below, can also be controlled via MIDI, see chapter 28.6, Stand- Alone MIDI Control.
+
+23. 操作和使用
+23.1 概述
+使用旋转编码器、四个按钮和清晰的彩色显示屏，可以在设备上完全配置和设置 Fireface UCX II。此外，内部存储器可以永久存储设备的六种不同状态。因此，Fireface UCX II 能够完全独立运行，无需连接任何计算机。在独立操作中，只需单击一个按钮，它就可以转换为完全不同的设备。此外，TotalMix FX 以及下面显示的应用示例也可以通过 MIDI 进行控制，请参阅第 28.6 章“独立 MIDI 控制”。
+
+23.2 Settings at the Unit
+The Fireface UCX II has a simple menu structure, depending on the button pressed.
+
+MIC/GAIN. First push brings up the Mic.Gain 1/2, second push Line/Instr. Gain 3/4, third push returns to the meter screen.
+
+REC/PLAY. Brings up the Record/Playback (Direct USB Recording) menu, second Rec/Play Set- tings, third push returns to the meter screen.
+
+CHAN/MIX. First push brings up the Channel menu, second push the Mix to menu, third push returns to the meter screen.
+
+The Mix to menu gives access to the whole submix functionality, mix destination and source. A source can be modified in mix level and panorama.
+
+SETUP/REV. First push brings up the Options menu with access to the subpages Clock, Load/Store all Settings, Hardware/Diagnosis and Control Room. Second push brings up Re- verb/Echo with the subpages Reverb and Echo.
+
+23.2 设备上的设置
+Fireface UCX II 具有简单的菜单结构，具体取决于所按下的按钮。
+
+MIC/GAIN。第一次按下可显示 Mic.Gain 1/2，第二次按下可显示 Line/Instr. Gain 3/4，第三次按下可返回到仪表屏幕。
+
+REC/PLAY。显示 Record/Playback（直接 USB 录音）菜单，第二次按下 Rec/Play Settings，第三次按下可返回到仪表屏幕。
+
+CHAN/MIX。第一次按下可显示 Channel 菜单，第二次按下可显示 Mix to 菜单，第三次按下可返回到仪表屏幕。
+
+Mix to 菜单可访问整个子混音功能、混音目标和源。可以在混音级别和全景中修改源。
+
+SETUP/REV。第一次按下可显示 Options 菜单，可访问子页面 Clock、Load/Store all Settings、Hardware/Diagnosis 和 Control Room。第二次按下可显示 Reverb/Echo，其中包含子页面 Reverb 和 Echo。
+
+23.3 Store / Load Setups at the Unit
+After hitting the key SETUP/REV, the encoder gives access to the subpage Load/Store all Set-
+tings. First select the preferred memory slot, then the desired process (load or store). The
+load/store process is completed by pushing the encoder for more than one second.
+
+23.3 在设备上存储/加载设置
+按下 SETUP/REV 键后，编码器将允许访问加载/存储所有设置子页面。首先选择首选内存插槽，然后选择所需的过程（加载或存储）。只需按下编码器一秒钟以上即可完成加载/存储过程。
+
+The UCX II has six memory slots for free usage. Three fixed slots offer convenient and quick reset and configuration of the unit: 
+
+Factory. Sets the unit into factory default state.
+
+AD/DA. Configures an ADAT analog to digital and vice versa converter (8 analog I/Os).
+
+Clear Mix. Performs a Total Reset of TotalMix FX.
+
+UCX II 有六个内存插槽可供免费使用。三个固定插槽可方便快速地重置和配置设备：
+
+出厂。将设备设置为出厂默认状态。
+
+AD/DA。配置 ADAT 模拟到数字和反之亦然的转换器（8 个模拟 I/O）。
+
+清除混音。执行 TotalMix FX 的完全重置。
+
+23.4 Storing Setups from the Computer
+Setups can be loaded into the unit from the computer. As the Setups are usually generated at the computer the final step of transmission offers a convenient workflow. In TotalMix FX use Options / Store current state into device to select the desired storage place (Setup) within the unit.
+
+23.4 从计算机存储设置
+设置可以从计算机加载到设备中。由于设置通常在计算机上生成，因此传输的最后一步提供了便捷的工作流程。在 TotalMix FX 中，使用选项/将当前状态存储到设备中来选择设备内所需的存储位置（设置）。
+
+23.5 ARC Options
+In the menu SETUP/REV - Options - Hardware/Diagnosis there are additional settings for the optional ARC USB (Advanced Remote Control). When connected directly to the UCX II the fol- lowing options are available:
+
+23.5 ARC 选项
+在菜单 SETUP/REV - 选项 - 硬件/诊断中，有可选 ARC USB（高级远程控制）的附加设置。当直接连接到 UCX II 时，可以使用以下选项：
+
+Standalone ARC Volume. Deactivates all keys. Only the encoder wheel works, with a fixed as- signment to Main Volume.
+
+This option is also a safety function in case the ARC USB is connected to the UCX II, but operated online (with computer). When the system goes offline (computer removed, sleep state…) the functions on the keys change, because online mode changed to stand-alone mode. Operating the keys then could activate unintended functionality or changes.
+
+独立 ARC 音量。停用所有按键。只有编码器轮工作，并固定分配给主音量。
+
+如果 ARC USB 连接到 UCX II，但在线操作（使用计算机），此选项也是一项安全功能。当系统离线（计算机移除、睡眠状态……）时，按键上的功能会发生变化，因为在线模式更改为独立模式。然后操作按键可能会激活意外的功能或更改。
+
+Standalone ARC 1 s op Each key has to be pressed for one second to activate the programmed functionality. This safety function prevents unintentional changes. It can be stored within the Setups, activating this mode automatically when such a Setup is loaded. When loading a Setup where this function had not been active this mode is automatically deactivated at the UCX II.
+
+独立 ARC 1 s op 必须按住每个键一秒钟才能激活已编程的功能。此安全功能可防止意外更改。它可以存储在设置中，在加载此类设置时自动激活此模式。在加载此功能未激活的设置时，此模式会在 UCX II 上自动停用。
+
+Standalone ARC normal
+Normal operation of the ARC USB.
+
+独立 ARC 正常
+ARC USB 正常运行。
+
+24. Examples
+24.1 8-Channel AD/DA-Converter
+
+TotalMix' super-flexible routing functions make it easy to turn the UCX II into an 8-channel AD/DA converter, analog from/to ADAT.
+
+24. 示例
+24.1 8 通道 AD/DA 转换器
+
+TotalMix 的超灵活路由功能可轻松将 UCX II 转变为 8 通道 AD/DA 转换器，模拟来自/到 ADAT。
+
+It’s easy to build the setup. For a clean start perform a Total Reset from the Options menu. Then select the ADAT Output 1/2 in the third row, and pull up the fader of the Analog input 1/2 in the first row. Then select ADAT 3/4, pull up Analog 3/4 and so on until all 8 analog inputs are routed to the corresponding (8) ADAT channels.
+
+设置过程很简单。要彻底启动，请从选项菜单中执行“全部重置”。然后选择第三行中的 ADAT 输出 1/2，并拉起第一行中的模拟输入 1/2 的推子。然后选择 ADAT 3/4，拉起模拟 3/4，依此类推，直到所有 8 个模拟输入都路由到相应的 (8) 个 ADAT 通道。
+
+Now do the same for the analog outputs: select Analog Output 1/2 and move the fader of ADAT Input 1/2 to 0 dB, and so on. An additional monitoring of all or selected I/Os can be easily set up for any digital output, or as analog mixdown on the the phones output.
+
+现在对模拟输出执行相同操作：选择模拟输出 1/2，并将 ADAT 输入 1/2 的推子移至 0 dB，依此类推。可以轻松为任何数字输出设置对所有或选定 I/O 的额外监控，或将其作为耳机输出上的模拟混音。
+
+24.2 2-Channel Mic Preamp
+Use TotalMix to route the two microphone inputs directly to the analog outputs. This turns the Fireface UCX II into a 2-channel microphone preamp. The AD- and DA-conversion will cause a small delay of the signals of around 0.1 ms (at 192 kHz, see chapter 40.2). But this is nothing to worry about, as it is the same delay that would be caused by changing the microphone's position by about 3.3 centimeter (1.3 inches).
+
+24.2 2通道麦克风前置放大器
+使用 TotalMix 将两个麦克风输入直接路由到模拟输出。这会将 Fireface UCX II 变成一个 2 通道麦克风前置放大器。AD 和 DA 转换将导致信号出现约 0.1 毫秒的短暂延迟（在 192 kHz 时，参见第 40.2 章）。但这无需担心，因为麦克风位置改变约 3.3 厘米（1.3 英寸）也会导致同样的延迟。
+
+24.3 Monitor Mixer
+TotalMix allows ANY configuration of all I/Os of the Fireface. For example, set up the device as monitor mixer for 8 analog signals, 8 digital via ADAT, 2 via AES and 2 via SPDIF. Additionally, TotalMix lets you set up ANY submixes, so all existing outputs can be used for different and independent monitorings of the input signals. The perfect headphone monitor mixer!
+
+24.3 监听混音器
+TotalMix 允许对 Fireface 的所有 I/O 进行任意配置。例如，将设备设置为监听混音器，用于 8 个模拟信号、8 个通过 ADAT 的数字信号、2 个通过 AES 的数字信号和 2 个通过 SPDIF 的数字信号。此外，TotalMix 允许您设置任意子混音，因此所有现有输出都可用于对输入信号进行不同的独立监听。完美的耳机监听混音器！
+
+24.4 Digital Format Converter
+As TotalMix allows for any routing of the input signals, the Fireface UCX II can be used as ADAT to AES converter, ADAT to AES/SPDIF and AES/SPDIF to ADAT converter.
+
+24.4 数字格式转换器
+由于 TotalMix 允许对输入信号进行任何路由，因此 Fireface UCX II 可用作 ADAT 到 AES 转换器、ADAT 到 AES/SPDIF 以及 AES/SPDIF 到 ADAT 转换器。
+
+24.5 Analog / Digital Routing Matrix
+The Matrix in TotalMix enables you to route and link all inputs and outputs completely freely. All the above functionalities are even available simultaneously, can be mixed and combined in many ways. Simply said: the Fireface UCX II is a perfect analog/digital routing matrix!
+
+24.5 模拟/数字路由矩阵
+TotalMix 中的矩阵可让您完全自由地路由和链接所有输入和输出。所有上述功能甚至可以同时使用，可以以多种方式混合和组合。简而言之：Fireface UCX II 是一个完美的模拟/数字路由矩阵！
+
+24.6 Stand-Alone Recorder/Player
+The UCX II can be used for recording as well as playback of audio signals. As all settings are available directly at the unit it is possible to record a live concert completely without a computer.
+Music that was copied to a USB thumb drive before can be played back any time. Of course both in combination to any of the other examples above!
+
+24.6 独立录音机/播放器
+UCX II 可用于录制和播放音频信号。由于所有设置均可直接在设备上使用，因此无需使用计算机即可完全录制现场音乐会。
+之前复制到 USB 优盘的音乐可以随时播放。当然，两者可以与上述任何其他示例结合使用！
+
+********************************************************************
+				TotalMix FX
+25. Routing and Monitoring
+25.1 Overview
+The Fireface UCX II includes a powerful digital real-time mixer, the Fireface UCX II mixer, based on RME’s unique, sample-rate independent TotalMix technology. It allows for practically unlim- ited mixing and routing operations, with all inputs and playback channels simultaneously, to any hardware outputs. TotalMix FX adds 3-band parametric Equalizer, Low Cut, Echo, Reverb, Com- pressor, Expander and Auto Level.				
+				
+25. 路由和监控
+25.1 概述
+Fireface UCX II 包含一个功能强大的数字实时混音器，即 Fireface UCX II 混音器，它基于 RME 独特的、独立于采样率的 TotalMix 技术。它允许几乎无限地进行混音和路由操作，所有输入和播放通道同时连接到任何硬件输出。TotalMix FX 添加了 3 频段参数均衡器、低切、回声、混响、压缩器、扩展器和自动电平。
+
+Here are some typical applications for TotalMix:
+● Setting up delay-free submixes (headphone mixes). The Fireface UCX II allows for up to 10 fully independent stereo submixes. On an analog mixing desk, this would equal 20 Aux sends.
+
+● Unlimited routing of inputs and outputs (free utilisation, patchbay functionality).
+
+● Distributing signals to several outputs simultaneously. TotalMix offers state-of-the-art splitter and distributor functions.
+
+● Simultaneous playback of different programs via a single stereo output. The ASIO multi-client driver supports the usage of several programs at the same time. If this happens on different playback channels TotalMix provides the means to mix and monitor these on a single stereo output.
+
+● Mixing of the input signal to the playback signal (complete ASIO Direct Monitoring). RME is not only the pioneer of ADM, but also offers the most complete implementation of the ADM functions.
+
+● Integration of external devices. Use TotalMix to insert external effects devices, be it in the playback or in the record path. Depending on the current application, the functionality equals insert or effects send and effects return, for example as used during real-time monitoring when adding some reverb to the vocals.
+
+以下是 TotalMix 的一些典型应用：
+● 设置无延迟子混音（耳机混音）。Fireface UCX II 允许最多 10 个完全独立的立体声子混音。在模拟混音台上，这相当于 20 个辅助发送。
+
+● 无限的输入和输出路由（免费使用，配线架功能）。
+
+● 同时将信号分配到多个输出。TotalMix 提供最先进的分离器和分配器功能。
+
+● 通过单个立体声输出同时播放不同的程序。ASIO 多客户端驱动程序支持同时使用多个程序。如果这种情况发生在不同的播放通道上，TotalMix 提供在单个立体声输出上混合和监控这些通道的方法。
+
+● 将输入信号混合到播放信号（完整的 ASIO 直接监控）。RME 不仅是 ADM 的先驱，而且还提供最完整的 ADM 功能实现。
+
+● 外部设备集成。使用 TotalMix 插入外部效果设备，无论是在播放中还是在录音路径中。根据当前应用程序，功能相当于插入或效果发送和效果返回，例如在实时监控期间为人声添加一些混响时使用。
+
+Every single input channel, playback channel and hardware output features a Peak and RMS level meter, calculated in hardware. These level displays are very useful to determine the pres- ence and routing destinations of the audio signals.
+
+每个输入通道、播放通道和硬件输出都配有峰值和 RMS 电平表，由硬件计算得出。这些电平显示对于确定音频信号的存在和路由目的地非常有用。
+
+For a better understanding of the TotalMix mixer you should know the following: 
+
+● As shown in the block diagram (next page), the record signal usually stays un-altered. TotalMix does not reside within the record path, and does not change the record level or the audio data to be recorded (exceptions: EQ+D for Record and Loopback mode).
+
+● The hardware input signal can be passed on as often as desired, even with different levels.
+
+This is a big difference to conventional mixing desks, where the channel fader always controls the level for all routing destinations simultaneously.
+
+● The level meters of input and playback channels are connected pre-fader, to be able to visually monitor where a signal is currently present. The level meters of the hardware outputs are connected post-fader, thus displaying the actual output level.
+
+为了更好地理解 TotalMix 混音器，您应该了解以下内容：
+
+● 如框图（下一页）所示，录音信号通常保持不变。TotalMix 不驻留在录音路径中，也不会更改录音电平或要录制的音频数据（例外：录音和环回模式的 EQ+D）。
+
+● 硬件输入信号可以按需要多次传递，即使电平不同也可以。
+
+这与传统混音台有很大不同，传统混音台的通道推子始终同时控制所有路由目的地的电平。
+
+● 输入和播放通道的电平表连接在推子前，以便能够直观地监控信号当前存在的位置。硬件输出的电平表连接在推子后，从而显示实际输出电平。
+
+框图略
+
+25.2 The User Interface
+The visual design of the TotalMix mixer is a result of its capability to route hardware inputs and software playback channels to any hardware output. The Fireface UCX II has 20 input channels, 20 software playback channels, and 20 hardware output channels:
+
+25.2 用户界面
+TotalMix 混音器的视觉设计源于其能够将硬件输入和软件播放通道路由到任何硬件输出的能力。Fireface UCX II 有 20 个输入通道、20 个软件播放通道和 20 个硬件输出通道：
+
+TotalMix can be used in the above view (View Options 2 Rows). However, the default is a vertical alignment in three rows as known from an Inline desk, so that the row Software Playback equals the Tape Return of a real mixing desk:
+● Top row: Hardware inputs. The level shown is that of the input signal, i.e. fader independent. Via fader and routing menu, any input channel can be routed and mixed to any hardware output (bottom row).
+
+● Middle row: Playback channels (playback tracks of the audio software). Via fader and routing menu, any play- back channel can be routed and mixed to any hardware output (bottom row).
+
+● Bottom row: Hardware outputs. Here, the total level of the output can be adjusted. This may be the level of con- nected loudspeakers, or the level of any submix.
+		
+TotalMix 可用于上述视图（视图选项 2 行）。但是，默认为三行垂直对齐，如 Inline 台所见，因此软件播放行等于真实混音台的磁带返回：
+● 顶行：硬件输入。显示的电平是输入信号的电平，即独立于推子。通过推子和路由菜单，任何输入通道都可以路由和混合到任何硬件输出（底行）。
+
+● 中间行：播放通道（音频软件的播放轨道）。通过推子和路由菜单，任何播放通道都可以路由和混合到任何硬件输出（底行）。
+
+● 底行：硬件输出。在这里，可以调整输出的总电平。这可能是连接的扬声器的电平，或任何子混音的电平。
+
+Usage in mode Submix View (Default) 
+
+Click on the Hardware Output channel in the third row where the audio signal is supposed to show up. This channel turns brighter, means it is selected as current submix. Now move the faders up from all sources – these are the input and playback channels, in the first and second row. That’s it. The input (monitoring) and playback (DAW software) audio signals are now available at that very output, which can be verified immediately from the level meters reacting accordingly.
+
+The following chapters explain step by step all functions of the user interface.	
+
+在 Submix View（默认）模式下使用
+
+单击第三行中应该显示音频信号的硬件输出通道。此通道变亮，表示它被选为当前子混音。现在将所有源的推子向上移动 - 这些是第一行和第二行中的输入和播放通道。就是这样。输入（监控）和播放（DAW 软件）音频信号现在可在该输出端使用，这可以从相应反应的电平表立即验证。
+
+以下章节逐步解释用户界面的所有功能。
+
+25.3 The Channels
+A single channel can be switched between mono and stereo mode. The mode is set in the channel settings.
+
+25.3 通道
+单个通道可以在单声道和立体声模式之间切换。模式在通道设置中设置。
+
+Channel name. The name field is the preferred place to select a channel by a mouse click. A double click opens a dialog to assign a different name. The original name will be shown when activating the option Names in the View Options.
+
+通道名称。名称字段是通过鼠标单击选择频道的首选位置。双击可打开对话框以指定不同的名称。在“查看选项”中激活“名称”选项时将显示原始名称。
+
+Panorama. Routes the input signal freely to the left and right routing destination (lower label, see below). The level reduction in center position is -3 dB.
+
+Mute and Solo. Input channels and playback channels each have a mute and solo button.
+
+Numerical level display. Shows the current RMS or Peak level, updated twice per second. OVR means overload. The setting Peak/RMS is changed in the View Op- tions.
+
+Level meter. The meter shows both peak values (zero attack, 1 sample is enough for a full scale display) by means of a yellow line, and mathematically correct RMS values by means of a green bar. The RMS display has a relatively slow time con- stant, so that it shows the average loudness quite well. Overs are shown in red at the top of the bar. In the Preferences dialog (F2) the Peak Hold time, the over de- tection and the RMS reference can be set.
+
+Fader. Determines the gain/level of the signal routed to the current routing destination (lower label). Please note that this fader is not the fader of the channel, but only the fader of the current routing. Compared to a standard mixing desk TotalMix does not have a channel fader, but only Aux Sends, as many as there are hardware outputs. Therefore TotalMix can create as many different Submixes as there are hardware outputs. This concept is understood best in the Submix View, but more on that later.
+
+全景。将输入信号自由路由到左、右路由目的地（下方标签，见下文）。中心位置的电平降低为 -3 dB。
+
+静音和独奏。输入通道和播放通道各有一个静音和独奏按钮。
+
+数字电平显示。显示当前 RMS 或峰值电平，每秒更新两次。OVR 表示过载。峰值/RMS 设置在“视图选项”中更改。
+
+电平表。电平表通过黄线显示峰值（零攻击，1 个样本足以进行全尺寸显示），并通过绿条显示数学上正确的 RMS 值。RMS 显示具有相对较慢的时间常数，因此它可以很好地显示平均响度。过载在栏顶部以红色显示。在“首选项”对话框 (F2) 中，可以设置峰值保持时间、过载检测和 RMS 参考。
+
+推子。确定路由到当前路由目的地（下方标签）的信号的增益/电平。请注意，此推子不是通道的推子，而只是当前路由的推子。与标准混音台相比，TotalMix 没有通道推子，只有辅助发送，数量与硬件输出数量相同。因此，TotalMix 可以创建与硬件输出数量一样多的不同子混音。这个概念在子混音视图中理解得最好，但稍后会详细介绍。
+
+Below the fader the Gain is shown in a numerical display field, according to the current fader position. The fader can be: 
+
+▶ dragged with the left mouse button pressed
+▶ moved by the mouse wheel
+▶ set to 0 dB and −∞ by a double click. The same happens with a single click plus held down Ctrl key.
+▶ adjusted in fine mode by mouse drag and mouse wheel when holding the Shift key down
+
+根据当前推子位置，推子下方的增益显示在数字显示字段中。推子可以：
+
+▶ 按下鼠标左键拖动
+▶ 用鼠标滚轮移动
+▶ 双击设置为 0 dB 和 −∞。单击并按住 Ctrl 键也可以实现相同的效果。
+▶ 按住 Shift 键，通过鼠标拖动和鼠标滚轮在精细模式下进行调整
+
+A Shift-click on a fader adds the fader to the temporary fader group. All faders now marked yellow are ganged, and move sim- ultaneously in a relative way. The temporary fader group is de- leted by a click on the F symbol in the upper right of the window.
+
+按住 Shift 键并单击推子，即可将推子添加到临时推子组中。现在所有标记为黄色的推子都已组合，并以相对方式同时移动。单击窗口右上角的 F 符号即可删除临时推子组。
+
+The arrow symbol at the bottom minimizes the channel width to that of the level meters. Another click maximizes it again. A mouse click with held Ctrl key causes all channels to the right to enlarge and minimize at once.
+
+底部的箭头符号可将通道宽度最小化为电平表的宽度。再次单击可再次将其最大化。按住 Ctrl 键单击鼠标可使右侧的所有通道同时放大和最小化。
+
+The lowest field shows the current routing target. A mouse click opens the routing window to select a routing target. The list shows all activated routings of the current channel by arrows in front of the listed entries, the current one is shown in bold letters.
+
+最下方的字段显示当前路由目标。单击鼠标即可打开路由窗口以选择路由目标。列表通过列出条目前的箭头显示当前通道的所有已激活路由，当前路由以粗体字母显示。
+
+An arrow is only shown with an activated routing. A routing is seen as activated when audio data is sent. As long as the fader is set to −∞ the current routing will be shown in bold letters, but not have an arrow in the front.
+
+仅当路由激活时才会显示箭头。当音频数据发送时，路由被视为激活。只要推子设置为 −∞，当前路由就会以粗体字母显示，但前面没有箭头。
+
+Trim Gain. After a click on the T-button one channel’s faders are all synchronized. Instead of changing only a single routing the fader affects all the channel’s active routings. For a better overview the faders currently not visible are indicated by orange triangles beside the fader path.
+When moving the fader the triangles also move to a new position, equalling the invisible faders’ new settings.
+
+微调增益。单击 T 按钮后，一个通道的推子全部同步。推子不会只改变一个路由，而是会影响所有通道的活动路由。为了更好地概览，当前不可见的推子由推子路径旁边的橙色三角形表示。
+移动推子时，三角形也会移动到新位置，与不可见推子的新设置相同。
+
+Note that the fader button is automatically set to the highest routing gain of all routings so that best control is offered. The gain (fader knob position) of the currently active routing (the submix selected in the third row) is shown as white triangle.
+
+请注意，推子按钮会自动设置为所有路由中最高的路由增益，以便提供最佳控制。当前活动路由（第三行中选择的子混音）的增益（推子旋钮位置）显示为白色三角形。
+
+Background: TotalMix has no fixed channel fader. In case of the Fireface UCX II there are 20 mono Aux sends, shown alternately as single fader within the channel strip.
+The high number of Aux sends enables multiple and fully independent routings.
+
+背景：TotalMix 没有固定的通道推子。Fireface UCX II 有 20 个单声道辅助发送，在通道条内交替显示为单个推子。
+辅助发送数量多，可实现多个完全独立的路由。
+
+In some cases it is necessary to synchronize the gain changes of these routings. An example is the Post fader function, where a change of the singer’s volume shall be performed identical to the volume change of the signal sent to the reverb device, so that the reverb level keeps its relation to the original signal. Another example is the signal of a guitar that is routed to different submixes, means hardware outputs, which gets much too loud during the solo part, and therefore needs to be reduced in volume on all outputs simultaneously. After a click on the Trim button this can be done easily and with a perfect overview.
+
+在某些情况下，需要同步这些路由的增益变化。一个例子是后推子功能，其中歌手音量的变化应与发送到混响设备的信号的音量变化相同，以便混响水平保持与原始信号的关系。另一个例子是路由到不同子混音的吉他信号，这意味着硬件输出在独奏部分时声音太大，因此需要同时降低所有输出的音量。单击 Trim 按钮后，可以轻松完成此操作，并获得完美的概览。
+
+As all channel’s routings change simultaneously when Trim is active, this mode basically causes the same behaviour as a trim pot within the input channel, affecting the signal already before the mixer. That’s how this function got its name.
+
+由于在启用 Trim 时所有通道的路由都会同时更改，因此此模式基本上会导致与输入通道内的微调电位器相同的行为，影响混频器之前的信号。这就是此功能名称的由来。
+
+In the View Options / Show the function Trim Gains can be globally switched on and off for all channels. The global Trim mode is recommended when using TotalMix FX as live mixing desk.
+
+在“查看选项/显示”中，可以全局打开和关闭所有通道的“修剪增益”功能。使用 TotalMix FX 作为现场混音台时，建议使用全局修剪模式。
+
+The Context Menu. With a right click on the input, playback and output channels their context menus provide advanced functionality (these menus are also available in the Matrix, but only directly on the channel labels). The entries are self-explanatory and automatically adjust to where the click is performed. On all of these the first entry opens the Channel Layout dialog. The input channels offer Clear, Copy input, paste the input mix and paste its FX. On a playback channel Copy, Paste and Clear the playback mix are available. On an output channel Copy and Mirror functionality for the current submix and copying of the FX settings is offered.
+
+上下文菜单。右键单击输入、播放和输出通道，其上下文菜单可提供高级功能（这些菜单也可在 Matrix 中使用，但只能直接在通道标签上使用）。条目一目了然，并会自动调整到单击的位置。在所有这些条目中，第一个条目打开“通道布局”对话框。输入通道提供清除、复制输入、粘贴输入混音和粘贴其 FX。在播放通道上，可以使用复制、粘贴和清除播放混音。在输出通道上，提供当前子混音的复制和镜像功能以及 FX 设置的复制。
+
+
+
+

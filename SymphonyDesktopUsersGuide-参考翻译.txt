@@ -1,0 +1,147 @@
+SymphonyDesktopUsersGuide
+
+Overview
+Introduction
+Put the Sound of a Symphony on Your Desktop Symphony Desktop for Mac, iPad Pro and Windows offers the legendary sound quality of Apogee’s flagship Symphony I/O Mk II into an elegant 10x10 audio interface that sits on your desk and fits in your bag. With Symphony Desktop, musicians and producers are empowered to record, overdub and mix with the music industry’s most respected AD/DA converters and mic preamps.
+
+By combining superior performance with new features like mic preamp emulation, the Symphony ECS Channel Strip and Clearmountain’s Spaces reverb plugins, and ultra low latency recording with hardware DSP and Apogee native FX plugins, Symphony Desktop will amplify your creativity in the studio or on the go, giving your recordings the Apogee quality advantage.
+
+
+Features
+Symphony Analog-to-Digital Conversion Similar to Symphony I/O MkII, Symphony Desktop’s analog-to-digital converter stage features ultra-low distortion, high-slew rate, fully differential analog op-amps plus a cutting edge A/D converter in a performance-enhancing dual-sum configuration. Create with the confidence that every nuance of your analog input is faithfully reproduced in the digital domain.
+
+Symphony Digital-to-Analog Conversion
+Symphony Desktop’s digital-to-analog stage employs brand new technology to provide uncompromising Symphony DAC performance in a portable product, including a robust ultra-low distortion, high-current output driver. Regardless of downstream connections, Symphony Desktop provides a transparent, widescreen window into the sonic landscape of your mix.
+
+Immersive Touch screen
+The immersive TFT touch screen and responsive Control knob gives you total control over all aspects of Symphony Desktop, from input and output levels, mic preamp emulation, low latency mixers and routing. With everything at your fingertips, your music creation and production flows freely, whether you’re on a Mac, Windows or iOS platform.
+
+概述
+简介
+将交响乐的声音放到您的桌面上 Mac、iPad Pro 和 Windows 版 Symphony Desktop 提供 Apogee 旗舰 Symphony I/O Mk II 的传奇音质，并集成到优雅的 10x10 音频接口中，可放在您的桌面上或装入您的包中。借助 Symphony Desktop，音乐家和制作人可以使用音乐界最受推崇的 AD/DA 转换器和麦克风前置放大器进行录音、配音和混音。
+
+通过将卓越性能与麦克风前置放大器仿真、Symphony ECS 通道条和 Clearmountain 的 Spaces 混响插件等新功能以及硬件 DSP 和 Apogee 原生 FX 插件的超低延迟录音相结合，Symphony Desktop 将在工作室或旅途中放大您的创造力，让您的录音具有 Apogee 质量优势。
+
+功能
+Symphony 模拟数字转换 与 Symphony I/O MkII 类似，Symphony Desktop 的模拟数字转换级具有超低失真、高转换速率、全差分模拟运算放大器以及性能增强型双和配置的尖端 A/D 转换器。您可以放心地创建，因为模拟输入的每一个细微差别都会在数字域中忠实再现。
+
+Symphony 数字/模拟转换
+Symphony Desktop 的数字模拟级采用全新技术，在便携式产品中提供不折不扣的 Symphony DAC 性能，包括强大的超低失真、高电流输出驱动器。无论下游连接如何，Symphony Desktop 都能为您的混音音效提供一个透明的宽屏窗口。
+
+沉浸式触摸屏
+沉浸式 TFT 触摸屏和灵敏的控制旋钮让您可以完全控制 Symphony Desktop 的各个方面，包括输入和输出电平、麦克风前置放大器模拟、低延迟混音器和路由。一切尽在您的指尖，无论您使用的是 Mac、Windows 还是 iOS 平台，您的音乐创作和制作都可以自由进行。
+
+Apogee Alloy Mic Preamp Emulation
+Apogee Alloy mic preamp emulation offers analog circuitry plus DSP processing to create the richest, most authentic audio modeling available in an audio interface. Critical aspects of the model such as input impedance, transient profile and distortion characteristics are first implemented in the analog domain, followed by precise and accurate refinement in DSP, for a hybrid result that’s greater than the sum of its parts.
+
+Apogee Alloy 麦克风前置放大器仿真
+Apogee Alloy 麦克风前置放大器仿真提供模拟电路和 DSP 处理，可在音频接口中创建最丰富、最真实的音频建模。模型的关键方面（例如输入阻抗、瞬态曲线和失真特性）首先在模拟域中实现，然后在 DSP 中进行精确而准确的细化，以获得大于各部分之和的混合结果。
+
+The AP-66 emulation is based on the Class A solid-state Neve 1066 mic preamp, with a characteristic low-mid color and slightly compressed transients.
+
+AP-66 仿真基于 A 类固态 Neve 1066 麦克风前置放大器，具有特有的低中色彩和略微压缩的瞬态。
+
+The AP-57 emulation offers the lush, larger-than-life tube saturation of a carefully restored 50s era Ampex 601 preamp.
+AP-57 仿真提供了精心修复的 50 年代 Ampex 601 前置放大器的丰富、栩栩如生的电子管饱和度。
+
+Innovative Workflows with Hardware DSP
+Symphony Desktop includes flexible and powerful onboard hardware DSP processing that supports a wide range of innovative workflows, using the Apogee Channel FX plugin. Whether you’re printing your tracks with Apogee Alloy mic preamp emulation or enjoying the benefits of DualPath monitoring, there’s a DSP-powered workflow that fits you like a glove.
+
+硬件 DSP 带来的创新工作流程
+Symphony Desktop 包含灵活而强大的板载硬件 DSP 处理功能，可使用 Apogee Channel FX 插件支持各种创新工作流程。无论您是使用 Apogee Alloy 麦克风前置放大器模拟打印曲目，还是享受 DualPath 监控的好处，都有适合您的 DSP 驱动工作流程。
+
+Apogee Plugins Included
+Included with Symphony Desktop is the Symphony ECS Channel Strip plugin. Tuned by Bob Clearmountain, Symphony ECS includes EQ, Compression and Saturation for quick and effective processing when tracking vocals or acoustic instruments.
+
+Also included is the Apogee Clearmountain’s Spaces plugin, which reproduces legendary mixer Bob Clearmountain’s personalized workflow for creating the distinctive, rich spaces where his mixes live.
+
+With the very same echo chamber profiles and processing he’s used on countless hit records, Clearmountain’s Spaces lets you envelope your tracks in unique and cohesive atmospheres that set your mixes apart.
+
+包含 Apogee 插件
+Symphony Desktop 包含 Symphony ECS Channel Strip 插件。由 Bob Clearmountain 调音的 Symphony ECS 包含均衡器、压缩和饱和度，可在跟踪人声或原声乐器时进行快速有效的处理。
+
+还包含 Apogee Clearmountain 的 Spaces 插件，该插件重现了传奇混音师 Bob Clearmountain 的个性化工作流程，可为其混音营造独特、丰富的空间。
+
+凭借他在无数热门唱片中使用的回音室配置文件和处理，Clearmountain 的 Spaces 可让您将音轨包裹在独特而有凝聚力的氛围中，让您的混音与众不同。
+
+Zero-Ohm Headphone Outputs
+Symphony Desktop has two completely independent ultra low impedance headphone outputs that are individually routable, equipped with dual-sum ESS DACs. Output power range is tailored to the expected type of headphones: the front panel output can drive virtually any headphones, while the rear panel output is specifically designed for high-efficiency headphones.
+
+零欧姆耳机输出
+Symphony Desktop 具有两个完全独立的超低阻抗耳机输出，可单独路由，配备双和 ESS DAC。输出功率范围根据预期的耳机类型量身定制：前面板输出几乎可以驱动任何耳机，而后面板输出专为高效耳机设计。
+
+Advanced Stepped Gain Mic Preamps
+At the core of the input stage, Symphony Desktop’s mic preamps offer up to 75dB of gain. The preamp design features Apogee’s unique Advanced Stepped Gain Architecture to ensure ultra-low noise and distortion regardless of the source, from pounding kick drum to delicate fingerpicking on an acoustic guitar. With variable impedance settings on both mic and instrument inputs, Symphony Desktop optimizes the input stage to better match your specific devices, for deep lows and clear highs. Selectable mic preamp emulation adds character, attitude and a bit of grit to your recordings.
+
+高级阶梯式增益麦克风前置放大器
+在输入级的核心，Symphony Desktop 的麦克风前置放大器可提供高达 75dB 的增益。前置放大器设计采用 Apogee 独特的高级阶梯式增益架构，无论音源如何，无论是重击鼓点还是原声吉他上的细腻指弹，都能确保超低噪音和失真。借助麦克风和乐器输入上的可变阻抗设置，Symphony Desktop 可优化输入级，以更好地匹配您的特定设备，实现深沉的低音和清晰的高音。可选的麦克风前置放大器模拟为您的录音增添了个性、态度和一点坚毅。
+
+Navigating This User’s Guide
+A computer-based audio production system built around the Symphony Desktop includes the following components:
+● Symphony Desktop Hardware Interface
+● Apogee Desktop Control software application
+● Apogee Channel FX plus Apogee FX plugins
+● Mac, Windows or iOS device plus a Digital audio workstation (DAW) software application
+● Microphones and Instruments for recording plus speakers and headphones for listening
+
+This User’s Guide will take you through the following steps to integrate the components of your system into a powerful and efficient audio production environment. When text is highlighted in blue, it may be clicked to link to further information in this Guide.
+● Download and run the Symphony Desktop Installer, which installs the Apogee Desktop Control application (and driver if required) on your computer (link).
+● Connect Symphony Desktop to AC power (required) and to your computer via USB (link).
+● Update Touch Screen Control using the included USB thumb drive (link).
+● Configure your computer’s operating system (OS) to use Symphony Desktop for audio input and output (link).
+● Configure your DAW to use Symphony Desktop for audio input and output (link).
+● Connect microphones, instruments, headphones, speakers and other audio hardware to Symphony Desktop (link).
+● Use Symphony Desktop’s top panel TFT touch screen to navigate Input, Output and most System settings (link).
+● Use Desktop Control software to navigate all settings, including direct monitor mixing and Apogee Channel FX (link).
+● Choose a Monitoring workflow and configure your DAW and Symphony Desktop (link).
+● Set up Plugin Processing workflows according to your preference (link).
+
+浏览本用户指南
+基于 Symphony Desktop 构建的基于计算机的音频制作系统包括以下组件：
+● Symphony Desktop 硬件接口
+● Apogee Desktop Control 软件应用程序
+● Apogee Channel FX 和 Apogee FX 插件
+● Mac、Windows 或 iOS 设备以及数字音频工作站 (DAW) 软件应用程序
+● 用于录音的麦克风和乐器以及用于收听的扬声器和耳机
+
+本用户指南将引导您完成以下步骤，将系统组件集成到强大而高效的音频制作环境中。当文本以蓝色突出显示时，可以单击它以链接到本指南中的更多信息。
+● 下载并运行 Symphony Desktop 安装程序，它会在您的计算机上安装 Apogee Desktop Control 应用程序（和驱动程序，如果需要）（链接）。
+● 将 Symphony Desktop 连接到交流电源（必需）并通过 USB 连接到您的计算机（链接）。
+● 使用随附的 USB 拇指驱动器更新触摸屏控制（链接）。
+● 配置计算机的操作系统 (OS)，以使用 Symphony Desktop 进行音频输入和输出 (链接)。
+● 配置 DAW，以使用 Symphony Desktop 进行音频输入和输出 (链接)。
+● 将麦克风、乐器、耳机、扬声器和其他音频硬件连接到 Symphony Desktop (链接)。
+● 使用 Symphony Desktop 的顶部面板 TFT 触摸屏浏览输入、输出和大多数系统设置 (链接)。
+● 使用 Desktop Control 软件浏览所有设置，包括直接监听混音和 Apogee Channel FX (链接)。
+● 选择监听工作流程并配置 DAW 和 Symphony Desktop (链接)。
+● 根据您的喜好设置插件处理工作流程 (链接)。
+
+See the Apogee FX User’s Guide (included in the Symphony Desktop Installer download) for information about the Apogee Channel FX and plugins, including the Symphony ECS Channel Strip.
+
+See the Clearmountain’s Spaces User’s Guide (included in the Symphony Desktop Installer download) for information about the Clearmountain’s Spaces plugin.
+
+In the Box
+● Symphony Desktop
+● Universal Power Supply with US (North America), UK, EU and SAA AC adapters.
+● USB-C > USB-C, & USB-C > USB-A cables
+● 1Gb USB thumb drive for Touch screen Control updates
+● Quick Start Guide
+● Warranty Booklet
+
+有关 Apogee Channel FX 和插件（包括 Symphony ECS Channel Strip）的信息，请参阅 Apogee FX 用户指南（包含在 Symphony Desktop Installer 下载中）。
+
+有关 Clearmountain’s Spaces 插件的信息，请参阅 Clearmountain’s Spaces 用户指南（包含在 Symphony Desktop Installer 下载中）。
+
+包装内容
+● Symphony Desktop
+● 通用电源，带美国（北美）、英国、欧盟和 SAA AC 适配器。
+● USB-C > USB-C 和 USB-C > USB-A 电缆
+● 1Gb USB 拇指驱动器，用于触摸屏控制更新
+● 快速入门指南
+● 保修手册
+
+System Requirements
+● macOS 10.14.6 or greater
+● Windows 10 20H1 or later
+● iOS 13 or greater
+● Mac & Windows: 4GB minimum RAM, 8GB Recommended
