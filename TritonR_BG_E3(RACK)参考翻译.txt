@@ -1,0 +1,952 @@
+
+————————————————————————————————
+
+To ensure long, trouble-free operation,please read this manual carefully.
+Precautions
+Location
+Using the unit in the following locations can result in a malfunction.
+• In direct sunlight
+• Locations of extreme temperature or humidity
+• Excessively dusty or dirty locations
+• Locations of excessive vibration
+
+Power supply
+Please connect the designated AC/ AC power sup- ply to an AC outlet of the correct voltage. Do not connect it to an AC outlet of voltage other than that for which your unit is intended.
+
+Interference with other electrical devices
+This product contains a microcomputer. Radios and televisions placed nearby may experience reception interference. Operate this unit at a suitable distance from radios and televisions.
+
+Handling
+To avoid breakage, do not apply excessive force to the switches or controls.
+
+Care
+If the exterior becomes dirty, wipe it with a clean, dry cloth. Do not use liquid cleaners such as ben- zene or thinner, or cleaning compounds or flamma- ble polishes.
+
+Keep this manual
+After reading this manual, please keep it for later reference.
+
+Keeping foreign matter out of your equipment
+• Never set any container with liquid in it near this equipment. If liquid gets into the equipment, it could cause a breakdown, fire, or electrical shock.
+• Be careful not to let metal objects get into the equipment. If something does slip into the equipment, unplug the AC/ AC power supply from the wall outlet. Then contact your nearest Korg dealer or the store where the equipment was purchased.
+
+为确保长时间无故障运行，请仔细阅读本手册。
+注意事项
+位置
+在以下位置使用本设备可能会导致故障。
+• 阳光直射
+• 极端温度或湿度的位置
+• 灰尘过多或肮脏的位置
+• 振动过大的位置
+
+电源
+请将指定的 AC/AC 电源连接到正确电压的 AC 插座。请勿将其连接到非本设备指定电压的 AC 插座。
+
+干扰其他电气设备
+本产品包含微型计算机。放置在附近的收音机和电视机可能会受到接收干扰。请在距离收音机和电视机适当距离的地方操作本设备。
+
+操作
+为避免损坏，请勿对开关或控件施加过大的力。
+
+保养
+如果外部变脏，请用干净的干布擦拭。请勿使用液体清洁剂（如苯或稀释剂）、清洁剂或易燃抛光剂。
+
+保留本手册
+阅读本手册后，请保留以供日后参考。
+
+防止异物进入设备
+• 切勿将任何装有液体的容器放在本设备附近。如果液体进入设备，可能会导致故障、火灾或触电。
+• 注意不要让金属物体进入设备。如果有东西掉入设备，请从墙上插座拔下交流/交流电源。然后联系您最近的 Korg 经销商或购买设备的商店。
+
+Data handling
+Malfunctions due to incorrect operation may cause the contents of memory to be lost, so we recommend that you save important data on a floppy disk. Please be aware that Korg will accept no responsibility for any damages which may result from loss of data.
+Also, when digitally recording copyrighted audio material from a DAT or CD etc., you must obtain per- mission for use. Please be aware that Korg will accept no responsibility for any copyright violations which may occur through your use of this product.
+
+数据处理
+由于操作不当导致的故障可能会导致内存内容丢失，因此我们建议您将重要数据保存在软盘上。请注意，Korg 对因数据丢失而造成的任何损失不承担任何责任。
+此外，当从 DAT 或 CD 等以数字方式录制受版权保护的音频材料时，您必须获得使用许可。请注意，Korg 对因使用本产品而可能发生的任何版权侵权不承担任何责任。
+
+* ADAT and Alesis are the trademarks or registered trademarks of Alesis Inc,.
+* mLAN is a trademark of Yamaha Corporation.
+* Company names, product names, and names of formats etc. are the trademarks or registered trademarks of their respective owners.
+
+* ADAT 和 Alesis 是 Alesis Inc, 的商标或注册商标。
+* mLAN 是 Yamaha Corporation 的商标。
+* 公司名称、产品名称和格式名称等是其各自所有者的商标或注册商标。
+
+Thank you for purchasing the Korg TRITON-Rack expandable HI module/sampler
+. To ensure trouble-free enjoyment, please read this manual carefully and use the instrument as directed.
+
+感谢您购买 Korg TRITON-Rack 可扩展 HI 模块/采样器。为确保无忧享受，请仔细阅读本手册并按指示使用该仪器。
+
+About this manual
+
+The owner’s manuals and how to use them
+The TRITON-Rack come with the following owner’s manuals.
+• Basic Guide
+• Parameter Guide
+• Voice Name List
+
+Basic Guide
+First read this manual carefully to gain a basic under- standing of the instrument and to learn basic operation.
+
+“Introduction”
+explains the function of each part, how to make connections, basic operation, and gives an overview of each mode.
+“Setup” explains how to make connections for power, audio, and MIDI, and how to play back the demo songs.
+“Quick Start”
+explains basic topics (selecting sounds, convenient functions for performance). If you wish to begin playing immediately, read this section first.
+“Basic Functions”
+contains mode-by-mode explana- tions of what you need to know to edit sounds, record on the sequencer, and record samples. This section also explains how to use the arpeggiator, effects.
+“Appendices” contains information on troubleshooting, specifications, and various other information.
+
+Parameter Guide
+The Parameter Guide contains explanations and other information regarding the operations of the parameters and settings on the TRITON-Rack. The explanations are organized by mode, and page. Explanations and other information on the effects and their parameters are also provided for each effect.
+Refer to this guide when an unfamiliar parameter appears in the display, or when you need to know more about a particular function.
+
+Voice Name List
+This lists the multisamples and drumsamples that are built into the TRITON-Rack, and the factory preset combinations, programs, drum kits, and user arpeggio patterns.
+Refer to these lists when you wish to know more about the preloaded sounds.
+
+关于本手册
+
+用户手册及其使用方法
+TRITON-Rack 附带以下用户手册。
+• 基本指南
+• 参数指南
+• 音色名称列表
+
+基本指南
+请先仔细阅读本手册，了解乐器的基本知识并学习基本操作。
+
+“简介”
+介绍每个部件的功能、如何连接、基本操作，并概述每种模式。
+“设置”介绍如何连接电源、音频和 MIDI，以及如何播放演示歌曲。
+“快速入门”
+介绍基本主题（选择声音、方便的演奏功能）。如果您希望立即开始演奏，请先阅读本节。
+“基本功能”
+包含逐个模式的说明，说明编辑声音、在音序器上录制和录制样本所需了解的内容。本节还介绍如何使用琶音器、效果。
+“附录”包含有关故障排除、规格和其他各种信息。
+
+参数指南
+参数指南包含有关 TRITON-Rack 上的参数和设置操作的说明和其他信息。说明按模式和页面组织。还为每个效果提供了有关效果及其参数的说明和其他信息。
+当显示屏上出现不熟悉的参数或需要了解有关特定功能的更多信息时，请参阅本指南。
+
+音色名称列表
+此列表列出了 TRITON-Rack 内置的多重采样和鼓采样，以及工厂预设组合、程序、鼓组和用户琶音模式。
+当您希望了解有关预加载声音的更多信息时，请参阅这些列表。
+
+Conventions in this manual
+Abbreviations for the manuals BG, PG, VNL
+References to the manuals included with the TRITON-
+Rack are abbreviated as follows in this document.
+BG
+: Basic Guide
+PG
+: Parameter Guide
+VNL
+: Voice Name List
+Switches and knobs [ ]
+References to the switches, dials, and knobs on the TRI-
+TON-Rack’s panel are enclosed in square brackets [ ].
+References to
+buttons
+or
+tabs
+indicate objects in the
+LCD display screen.
+Parameters in the LCD display screen “ “
+Parameters displayed in the LCD screen are enclosed
+in double quotation marks “ “.
+Boldface type
+Parameter values are printed in boldface type.
+Content that is of particular importance is also printed
+in boldface type.
+Procedure steps
+1
+2
+3
+...
+Steps in a procedure are listed as
+1
+2
+3
+...
+p.
+I
+,
+PG p.
+I
+These symbols indicate a reference page number in the
+Basic Guide or in the Parameter Guide.
+Symbols
+, ,
+These symbols respectively indicate cautions, advice,
+and MIDI-related explanations.
+Example screen displays
+The values of the parameters shown in the example
+screens of this manual are only for explanatory pur-
+poses, and may not necessary match the values that
+appear in the LCD screen of your instrument.
+MIDI-related explanations
+CC#
+is an abbreviation for Control Change Number.
+In explanations of MIDI messages,
+numbers in square
+brackets [ ]
+always indicate hexadecimal numbers.
+
+
+*********************************************************
+				Introduction
+Main features
+Overview
+The TRITON-Rack is a expandable Hi-modele/ sampler that features the HI (Hyper Integrated) synthesis system as its tone generator.
+
+Its numerous functions include high-quality preset multisamples/ programs/ combinations, an effect sec- tion, sampling, multis, a dual polyphonic arpeggiator, RPPR, analog two-channel audio input/ six-channel audio output, and digital two-channel audio output.
+
+By operating the REALTIME CONTROLS [1]–[4] knobs you can control filter or effects to vary the sounds in realtime as you perform. These knobs can also be used to control the gate and velocity of the arpeggiator, and the tempo of the arpeggiator and RPPR.
+
+Options such as a MOSS tone generator, PCM/ sampling memory expansions, SCSI port, ADAT digital output, and mLAN interface board can be installed to further expand the capabilities of the TRITON-Rack.
+
+The TRITON-Rack is a powerful tool for music produc-
+tion or live performance.
+
+HI (Hyper Integrated) synthesis system
+The HI (Hyper Integrated) synthesis system is a PCM tone generator system with full digital signal process- ing that guarantees pristine sound, and featuring enor- mous flexibility in musical extensibility, modulation, and effect routing.
+
+Tone generator section:
+• 32 Mbytes of preset PCM ROM contains 425 multisamples and 413 drumsamples.
+Up to eight separately sold EXB-PCM series PCM expansion boards (16 Mbyte PCM ROM) can optionally be installed to add even more PCM data.
+• 16 Mbytes of RAM is standard (expandable to a maximum of 96 Mbytes). Samples/ multisamples that you sampled or edited in Sampling mode or loaded in Disk mode can be used as sound sources.
+• The sampling frequency is 48 kHz, and the maximum polyphony is 60 voices.
+
+简介
+主要功能
+概述
+TRITON-Rack 是一款可扩展的 Hi-modele/采样器，其音调发生器采用 HI（超集成）合成系统。
+
+其众多功能包括高品质预设多重采样/程序/组合、效果部分、采样、多重采样、双复音琶音器、RPPR、模拟双声道音频输入/六声道音频输出和数字双声道音频输出。
+
+通过操作实时控制 [1]–[4] 旋钮，您可以控制滤波器或效果，从而在演奏时实时改变声音。 这些旋钮还可用于控制琶音器的门限和速度，以及琶音器和 RPPR 的节奏。
+
+可以安装 MOSS 音调发生器、PCM/采样内存扩展、SCSI 端口、ADAT 数字输出和 mLAN 接口板等选件，以进一步扩展 TRITON-Rack 的功能。
+
+TRITON-Rack 是用于音乐制作或现场表演的强大工具。
+
+HI（超集成）合成系统
+HI（超集成）合成系统是一种 PCM 音调发生器系统，具有全数字信号处理功能，可保证声音纯净，并在音乐扩展性、调制和效果路由方面具有极大的灵活性。
+
+音调发生器部分：
+• 32 MB 预设 PCM ROM 包含 425 个多重采样和 413 个鼓采样。
+最多可以安装八个单独出售的 EXB-PCM 系列 PCM 扩展板（16 MB PCM ROM），以添加更多 PCM 数据。
+• 16 MB RAM 为标准（最大可扩展至 96 MB）。您在采样模式下采样或编辑或在磁盘模式下加载的样本/多重采样可用作声源。
+• 采样频率为 48 kHz，最大复音数为 60 个。
+
+Filter/ synthesis section:
+• 24 dB/ oct Low Pass Resonance type or 12 dB/ oct Low Pass & High Pass type filters can be used. A wide variety of filter effects can be achieved, from active sounds with aggressive resonance to subtle tones using a high pass filter.
+• A broad range of editing parameters gives you minute control over every aspect of the sound.
+
+Effect section:
+• Five insertion effects (stereo-in/ stereo-out), two master effects (mono-in/ stereo-out), and a three- band master EQ (stereo-in/ stereo-out) can all be used simultaneously. You can select from 102 types of effect algorithm, and edit them.
+• Highly flexible effect routing is possible. Effects can also be routed freely to the individual outputs.
+
+Alternate Modulation and Effect Dynamic Modulation:
+• The synthesis section (filter etc.) provides Alternate Modulation functionality, and the effect section provides Effect Dynamic Modulation functionality.
+This allows you to freely apply modulation to parameters that affect the pitch, filter, amp, EG, LFO, and effects etc.
+• LFO and delay time etc. can be synchronized to MIDI clock/ tempo. You can synchronize sounds or effects to the tempo of the sequencer or the arpeggiator.
+
+Programs and combinations
+• In Program , the TRITON-Rack provides 1,664 user programs, and 256 programs + 9 drumsets for GM2 compatibility. When the separately sold EXB- MOSS option is installed, 128 programs for the Korg MOSS tone generator will also be available.
+You can use a wide range of editing parameters, effects, and arpeggiator settings to create your own original program, and save it as a user program. For the oscillator of the program, you can select from 425 PCM ROM multisamples, or use samples/ mul- tisamples that you recorded in Sampling mode. You can also create drum programs using the 144 user drum kits or the nine GM2-compatible ROM drum kits. User drum kits can be created using the 413 preset drum samples or samples that you recorded in Sampling mode.
+
+With the factory settings, 512 user programs suitable for a wide range of styles are preloaded in banks INT-A–INT-D. For these preloaded programs and for the preset programs in banks G, g(1)–g(d),you can use the Audition function to hear the program played using an appropriate riff (phrase). This provides a convenient way to audition or edit programs.
+• The Combination provides 1,664 user combinations.
+A combination allows you to use layers, splits, or velocity switches etc. to combine up to eight pro- grams together with effects and two arpeggiators, in order to create complex sounds that could not be produced by a program. You can also make settings that include external tone generators.
+With the factory settings, 512 user combinations suitable for a wide range of styles are preloaded in banks INT-A–INT-D.
+• When one or more separately sold EXB-PCM options are installed (up to eight boards), programs and combinations for the corresponding EXB-PCM can be loaded into user program banks/ user combination banks EXB-A–EXB-H.
+
+滤波器/合成部分：
+• 可使用 24 dB/ oct 低通共振类型或 12 dB/ oct 低通和高通类型滤波器。可实现各种滤波器效果，从具有强烈共振的主动声音到使用高通滤波器的微妙音调。
+• 广泛的编辑参数可让您对声音的各个方面进行细微控制。
+
+效果部分：
+• 可同时使用五种插入效果（立体声输入/立体声输出）、两种主效果（单声道输入/立体声输出）和三频段主均衡器（立体声输入/立体声输出）。您可以从 102 种效果算法中进行选择并进行编辑。
+• 可实现高度灵活的效果路由。效果也可以自由路由到各个输出。
+
+交替调制和效果动态调制：
+• 合成部分（滤波器等）提供交替调制功能，效果部分提供效果动态调制功能。
+这样，您就可以自由地将调制应用于影响音高、滤波器、放大器、EG、LFO 和效果等的参数。
+• LFO 和延迟时间等可以与 MIDI 时钟/节奏同步。您可以将声音或效果与音序器或琶音器的节奏同步。
+
+程序和组合
+• 在 Program 中，TRITON-Rack 提供 1,664 个用户程序和 256 个程序 + 9 个鼓组，以兼容 GM2。安装单独出售的 EXB-MOSS 选件后，还将提供 128 个用于 Korg MOSS 音调发生器的程序。
+您可以使用各种编辑参数、效果和琶音器设置来创建自己的原始程序，并将其保存为用户程序。对于程序的振荡器，您可以从 425 个 PCM ROM 多重采样中进行选择，或者使用在采样模式下录制的样本/多重采样。您还可以使用 144 个用户鼓组或九个兼容 GM2 的 ROM 鼓组创建鼓程序。可以使用 413 个预设鼓样本或在采样模式下录制的样本创建用户鼓组。
+
+在出厂设置下，适用于各种风格的 512 个用户程序已预装在 INT-A–INT-D 库中。对于这些预装的程序以及 G、g(1)–g(d) 库中的预设程序，您可以使用试听功能来收听使用适当即兴重复段（乐句）播放的程序。这提供了一种试听或编辑程序的便捷方式。
+• 组合提供了 1,664 个用户组合。
+组合允许您使用层、分割或速度开关等将最多八个程序与效果和两个琶音器组合在一起，以创建程序无法产生的复杂声音。您还可以进行包括外部音调发生器的设置。
+出厂设置下，INT-A–INT-D 库中预装了适合各种风格的 512 种用户组合。
+• 安装一个或多个单独出售的 EXB-PCM 选件（最多 8 块板）时，相应风格的程序和组合
+
+Sampling
+Rivaling dedicated sampling devices, the TRITON- Rack features 48 kHz 16-bit linear mono/ stereo sam- pling with a maximum of 96 Mbytes of memory, allow- ing you to create original sounds from your own audio material.
+For more on the sampling features of the TRITON- Rack (p.65).
+
+采样
+TRITON-Rack 可与专用采样设备相媲美，具有 48 kHz 16 位线性单声道/立体声采样功能，内存最大可达 96 MB，可让您从自己的音频素材中创建原始声音。
+有关 TRITON-Rack 采样功能的更多信息（第 65 页）。
+
+Multi
+Multi-track musical data can be received from an exter- nal sequencer etc. to play the TRITON-Rack as a 16- track MIDI multi-timbral tone generator. The effects, two arpeggiators, and the RPPR function can be used together, allowing the TRITON-Rack to function as a sophisticated sound-generating system with capabili- ties far beyond those of conventional tone generator modules.
+For more about the TRITON-Rack’s multis, refer to p.56.
+
+多音轨
+可以从外部音序器等接收多音轨音乐数据，以将 TRITON-Rack 作为 16 轨 MIDI 多音色音调发生器播放。效果、两个琶音器和 RPPR 功能可以一起使用，使 TRITON-Rack 可以用作复杂的声音生成系统，其功能远远超出了传统音调发生器模块。
+有关 TRITON-Rack 多音轨的更多信息，请参阅第 56 页。
+
+Dual polyphonic arpeggiator
+In addition to providing conventional arpeggiator functionality, the polyphonic arpeggiator of the TRI- TON-Rack can respond to the pitches or timing at which you play the keyboard, and produce a diverse range of chords or phrases. This can be used to play a variety of drum phrases, bass phrases, or guitar and keyboard backing riffs. The arpeggiator is also effective for use with subtly moving pads, synth sounds, or sound effects.
+
+Five preset arpeggio patterns and 328 user arpeggio patterns are provided. With the factory settings, these contain a wide variety of 200 preloaded user arpeggio patterns.
+
+In Combination mode, and Multi mode, the TRITON- Rack provides dual arpeggiators that can simulta- neously play two arpeggio patterns. You can apply separate arpeggio patterns to drum and bass pro- grams, or use keyboard splits or velocity to switch between arpeggio patterns for an even more dynamic performance.
+
+双复音琶音器
+除了提供传统的琶音器功能外，TRITON-Rack 的复音琶音器还可以响应您弹奏键盘的音高或时间，并产生各种和弦或乐句。这可用于演奏各种鼓乐句、低音乐句或吉他和键盘伴奏乐句。琶音器还适用于微妙移动的打击垫、合成器声音或音效。
+
+提供五种预设琶音模式和 328 种用户琶音模式。在出厂设置下，它们包含 200 种预加载的用户琶音模式。
+
+在组合模式和多重模式下，TRITON-Rack 提供双琶音器，可以同时演奏两种琶音模式。您可以将单独的琶音模式应用于鼓和低音程序，或使用键盘分割或速度在琶音模式之间切换，以获得更加动态的演奏。
+
+RPPR
+The TRITON-Rack features a RPPR (Realtime Pattern Play/ Recording) function. In Multi mode, this function allows you to assign preset patterns or user patterns (with a specified playback track) to individual notes of the keyboard, and playback or record that pattern in realtime simply by pressing the assigned note. The TRITON-Rack provides 150 preset patterns that can be shared by all multis. In addition, each multi can use 100 user patterns.
+
+When you execute the Time Slice function of Sampling mode, a drum phrase or similar sample will be divided into beats, and simultaneously a corresponding pattern will be created and assigned to RPPR.
+
+RPPR
+TRITON-Rack 具有 RPPR（实时模式播放/录制）功能。在多重模式下，此功能允许您将预设模式或用户模式（具有指定的播放轨道）分配给键盘的各个音符，只需按下指定的音符即可实时播放或录制该模式。TRITON-Rack 提供 150 个预设模式，可由所有多重模式共享。此外，每个多重模式可以使用 100 个用户模式。
+
+当您执行采样模式的时间切片功能时，鼓乐句或类似样本将被分成节拍，同时将创建相应的模式并将其分配给 RPPR。
+
+2 channel audio input/ 6 channel audio output, S/ P DIF OUT
+• The two channel audio input allows you to record samples in stereo. The MIC/ LINE level select switch and the level adjustment knob can be used to support a wide range of external audio sources from mic level to line level.
+
+The audio inputs can also be routed through the effects. You can apply effects while sampling, use the TRITON-Rack as a 2-in/ 6-out effect processor, or use it as a vocoder effect that joins the external source with the TRITON-Rack’s internal sounds.
+
+• In addition to the L/ MONO and R main stereo audio outputs, the TRITON-Rack provides four individual audio outputs, for a total of six channels of audio output. The sound from each oscillator, drum, timbre/ track, or insertion effect can be routed freely to any output.
+
+• S/ P DIF OUT is standard, for digital (48 kHz) output of the same audio signal as the L/ MONO and R main stereo audio outputs.
+
+2 声道音频输入/6 声道音频输出，S/P DIF OUT
+• 两声道音频输入允许您以立体声录制样本。MIC/LINE 电平选择开关和电平调节旋钮可用于支持从麦克风电平到线路电平的各种外部音频源。
+
+音频输入也可以通过效果路由。您可以在采样时应用效果，将 TRITON-Rack 用作 2 输入/6 输出效果处理器，或将其用作将外部源与 TRITON-Rack 的内部声音连接起来的声码器效果。
+
+• 除了 L/MONO 和 R 主立体声音频输出外，TRITON-Rack 还提供四个单独的音频输出，总共六个音频输出通道。每个振荡器、鼓、音色/音轨或插入效果的声音都可以自由路由到任何输出。
+
+• S/P DIF OUT 为标准配置，用于以数字方式（48 kHz）输出与 L/MONO 和 R 主立体声音频输出相同的音频信号。
+
+————————————————————————————————
+Overview of the modes
+The TRITON-Rack has numerous functions: playing and editing programs, combinations, or multis; record- ing and playing pattern data; recording samples; and managing disk data. The largest unit used to organize these functions is called a mode. The TRITON-Rack has six modes.
+
+Program mode
+• Select and play programs
+• Edit a program
+Make settings for the oscillator, filter, amp, EG, LFO, effects, and arpeggiator.
+• The Audition function can be used.
+
+Combination mode
+• Select and play combinations
+• Edit a combination
+Make settings for volume, pan, layer/ split etc. for each timbre (program), and make settings for effects and the two arpeggiators etc.
+
+Multi mode
+• The TRITON-Rack will function as a 16-track multi- timbral tone generator.
+• For each of the 16 tracks, you can select a program, and make level, pan, and effect settings.
+• Up to 200 multis can be used, with 150 preset patterns shared by all multis, and 100 user patterns for each multi.
+• Your playing can be recorded in a user pattern.
+The performance generated by the arpeggiator can also be recorded.
+• You can play and make settings for the RPPR (Realtime Pattern Play/ Recording) function. Song data included with the EXB-PCM03 etc. that uses RPPR can also be played.
+
+Sampling mode
+• Sample sounds from an external audio device or mic connected to the rear panel AUDIO INPUT jacks. Insert effects can be applied to the external input sound while you sample.
+• Edit the waveform data you sampled or waveform data that you loaded in Disk mode, and set loop points etc.
+• Edit multisamples consisting of two or more samples.
+• A multisample can be converted into a program, so that a multisample created in Sampling mode can be used in Program, Combination, or Multi modes.
+
+Global mode
+• Make settings that affect the entire TRITON-Rack, such as master tune and global MIDI channel.
+• Create drum kits (144 kits), arpeggio user patterns (328 patterns), and user scales (16 one-octave scales and 1 all-note scale).
+• Create drum kits using the 413 internal drumsamples (ROM). You can also use drumsamples from an optional EXB-PCM series board (if installed), or samples (RAM) that you created in Sampling mode.
+• Adjust the input level etc. from the AUDIO INPUT 1 and 2. These settings are valid in modes other than Sampling mode. The TRITON-Rack’s effects can be applied to the external input sound. (The settings for Sampling mode are made independently within Sampling mode.) • Transmit data dumps of MIDI exclusive data.
+
+Disk mode
+• Data of each mode can be saved and loaded using the floppy disk drive or an external SCSI device (when the separately sold EXB-SCSI option is installed).
+• Media such as floppy disks or hard disks (when the separately sold EXB-SCSI option is installed) can be formatted, and data can be managed by copying etc.
+• Korg format sample data can be loaded and saved.
+AKAI, AIFF, and WAVE format sample data can be loaded. Sample data can be saved in Korg format, or exported as AIFF or WAVE data.
+• Songs that you created in Multi mode can be saved in SMF format. SMF files can be loaded as Multi mode patterns.
+• You can use the Data Filer function (to save/ load MIDI exclusive data).
+
+模式概述
+TRITON-Rack 具有多种功能：播放和编辑程序、组合或多重音色；录制和播放模式数据；录制样本；以及管理磁盘数据。用于组织这些功能的最大单位称为模式。TRITON-Rack 有六种模式。
+
+程序模式
+• 选择和播放程序
+• 编辑程序
+设置振荡器、滤波器、放大器、EG、LFO、效果和琶音器。
+• 可以使用试听功能。
+
+组合模式
+• 选择和播放组合
+• 编辑组合
+设置每个音色（程序）的音量、声像、层/分割等，并设置效果和两个琶音器等。
+
+多重模式
+• TRITON-Rack 将用作 16 轨多音色音调发生器。
+• 对于 16 个音轨中的每一个，您可以选择一个程序，并进行电平、声像和效果设置。
+• 最多可使用 200 个多重音色，所有多重音色共享 150 个预设模式，每个多重音色共享 100 个用户模式。
+• 您的演奏可以录制在用户模式中。
+琶音器产生的演奏也可以录制。
+• 您可以播放并设置 RPPR（实时模式播放/录制）功能。还可以播放使用 RPPR 的 EXB-PCM03 等附带的歌曲数据。
+
+采样模式
+• 从连接到后面板 AUDIO INPUT 插孔的外部音频设备或麦克风采样声音。采样时可以将插入效果应用于外部输入声音。
+• 编辑您采样的波形数据或在磁盘模式下加载的波形数据，并设置循环点等。
+• 编辑由两个或更多样本组成的多重采样。
+• 可以将多重采样转换为程序，以便在程序、组合或多重模式下使用在采样模式下创建的多重采样。
+
+全局模式
+• 进行影响整个 TRITON-Rack 的设置，例如主调音和全局 MIDI 通道。
+• 创建鼓组（144 个鼓组）、琶音用户模式（328 个模式）和用户音阶（16 个八度音阶和 1 个全音符音阶）。
+• 使用 413 个内部鼓样本 (ROM) 创建鼓组。您还可以使用来自可选 EXB-PCM 系列板（如果已安装）的鼓样本，或在采样模式下创建的样本 (RAM)。
+• 从 AUDIO INPUT 1 和 2 调整输入电平等。这些设置在采样模式以外的模式下有效。TRITON-Rack 的效果可以应用于外部输入声音。（采样模式的设置在采样模式内独立进行。）• 传输 MIDI 独有数据的数据转储。
+
+磁盘模式
+• 可以使用软盘驱动器或外部 SCSI 设备（安装了单独出售的 EXB-SCSI 选件时）保存和加载每种模式的数据。
+• 可以格式化软盘或硬盘等介质（安装了单独出售的 EXB-SCSI 选件时），并通过复制等方式管理数据。
+• 可以加载和保存 Korg 格式的样本数据。
+可以加载 AKAI、AIFF 和 WAVE 格式的样本数据。样本数据可以保存为 Korg 格式，或导出为 AIFF 或 WAVE 数据。
+• 您在多模式中创建的歌曲可以保存为 SMF 格式。SMF 文件可以作为多模式模式加载。
+• 您可以使用数据文件功能（保存/加载 MIDI 专用数据）。
+
+————————————————————————————————
+————————————————————————————————
+Front and rear panel
+————————————————————————————————
+Front panel
+
+1. [INPUT] knob
+This knob adjusts the input level of the AUDIO INPUT 1 and 2 jacks.
+
+2. [OUTPUT] knob
+This knob adjusts the volume of the AUDIO OUT- PUT (MAIN) L/ MONO and R jacks, as well as the headphone jack.
+
+3. Headphone jack
+A set of headphones (standard 1/ 4" stereo phone plug) can be connected here ( p.13).
+The output from the AUDIO OUTPUT (MAIN) L/ MONO and R jacks can be monitored in stereo through the headphones.
+
+4. Floppy disk drive
+The TRITON-Rack includes a 3.5 inch disk drive, capable of reading both 2DD (double-side double- density) and 2HD (double-side high density) floppy disks. Edited data can be saved on a floppy disk, and the factory preset data, SMF data, or multisampling/ sampling data etc. can be loaded from a floppy disk.
+For details on handling floppy disks, refer to “Cau- tions when handling floppy disks” ( p.84).
+
+Eject button 
+To remove a floppy disk, first make sure that the disk access indicator is dark, and then press this button. If the disk does not eject when you press this button, do not attempt to remove the disk by force. Please contact your dealer.
+
+5. REALTIME CONTROLS [1], [2], [3], [4] knobs
+Use the [SELECT] key to select realtime controller mode A/ B/ C, and use knobs [1]–[4] to control the tone, effects, MIDI control changes, and arpeggia- tor etc. while you perform. ( p.19, p.21) 
+
+A-mode
+[1] LPF CUTOFF:
+Controls the cutoff frequency of the low pass filter.
+[2] RESONANCE/ HPF:
+Controls the filter resonance level or the high pass filter cutoff frequency.
+[3] EG-INTENSITY:
+Controls the filter EG intensity.
+[4] EG-RELEASE:
+Controls the filter/ amp release time.
+B-mode
+Controls the functions that are assigned in each mode (Program, Combination, Multi, or Sampling).
+
+前后面板
+前面板
+
+1. [INPUT] 旋钮
+此旋钮用于调节 AUDIO INPUT 1 和 2 插孔的输入电平。
+
+2. [OUTPUT] 旋钮
+此旋钮用于调节 AUDIO OUT-PUT (MAIN) L/MONO 和 R 插孔以及耳机插孔的音量。
+
+3. 耳机插孔
+可在此处连接耳机（标准 1/4" 立体声耳机插头）（第 13 页）。
+可通过耳机立体声监听来自 AUDIO OUTPUT (MAIN) L/MONO 和 R 插孔的输出。
+
+4. 软盘驱动器
+TRITON-Rack 包含一个 3.5 英寸磁盘驱动器，可读取 2DD（双面双密度）和 2HD（双面高密度）软盘。编辑后的数据可保存在软盘上，出厂预设数据、SMF 数据或多重采样/采样数据等可从软盘加载。
+有关软盘操作的详细信息，请参阅“软盘操作注意事项”（第 84 页）。
+
+弹出按钮
+要取出软盘，首先确保磁盘访问指示灯变暗，然后按下此按钮。如果软盘在插入时未弹出，请按此按钮。按下此按钮后，请勿试图强行取出磁盘。请联系您的经销商。
+
+5. 实时控制 [1]、[2]、[3]、[4] 旋钮
+使用 [SELECT] 键选择实时控制器模式 A/B/C，并使用旋钮 [1]–[4] 控制音调、效果、MIDI 控制变化和琶音器等。（第 19 页、第 21 页）
+
+A 模式
+[1] LPF CUTOFF：
+控制低通滤波器的截止频率。
+[2] RESONANCE/ HPF：
+控制滤波器共振水平或高通滤波器截止频率。
+[3] EG-INTENSITY：
+控制滤波器 EG 强度。
+[4] EG-RELEASE：
+控制滤波器/放大器释放时间。
+B 模式
+控制在每个模式（程序、组合、多重或采样）中分配的功能。
+
+C-mode
+[1] TEMPO:
+Controls the tempo of the arpeggiator or of the Multi mode RPPR.
+
+C 模式
+[1] TEMPO:
+控制琶音器或多模式 RPPR 的速度。
+
+[2] ARP-GATE:
+Controls the gate time (note duration) of the arpeggiated notes. At the center position (12 o’clock), the setting of the arpeggiator “Gate” parameter will be used. Rotating the knob toward the left will shorten the time, and rotating it toward the right will lengthen the time.
+
+[2] ARP-GATE：
+控制琶音音符的门限时间（音符持续时间）。在中间位置（12 点钟），将使用琶音器“Gate”参数的设置。向左旋转旋钮将缩短时间，向右旋转将延长时间。
+
+[3] ARP-VELOCITY:
+Controls the velocity (playing strength) of the arpeggiated notes. At the center position (12 o’clock), the setting of the arpeggiator “Velocity” parameter will be used. Rotating the knob toward the left will weaken the velocity, and rotating it toward the right will strengthen the velocity.
+
+[3] ARP-VELOCITY：
+控制琶音音符的速度（演奏强度）。在中间位置（12 点钟），将使用琶音器“速度”参数的设置。向左旋转旋钮将减弱速度，向右旋转将增强速度。
+
+[4] ———: not used
+
+[4] ———：未使用
+
+6. [A/ B/ C] LEDs
+The currently selected REALTIME CONTROLS mode will light. Use the [SELECT] key to select modes A/ B/ C.
+
+6. [A/ B/ C] LED
+当前选定的实时控制模式将亮起。使用 [SELECT] 键选择模式 A/ B/ C。
+
+7. [SELECT] key
+This key selects mode A, B, or C for the realtime controllers. Each time you press the key, the [A/ B/ C] indicators at the upper left will light alternately, and A, B, or C mode will be selected.
+The indicator of this key will blink at the currently specified tempo.
+
+7. [SELECT] 键
+此键选择实时控制器的模式 A、B 或 C。每次按下此键时，左上角的 [A/B/C] 指示灯将交替亮起，选择 A、B 或 C 模式。
+此键的指示灯将以当前指定的速度闪烁。
+
+8. [ARP ON/ OFF] key
+This key turns the arpeggiator on/ off. When on, the LED will light.
+
+8. [ARP ON/ OFF] 键
+此键用于打开/关闭琶音器。打开时，LED 灯会亮起。
+
+9. [AUDITION] key
+This key plays a riff (phrase) appropriate for each of the preloaded or preset program sounds. (Audition function)
+In Program mode, pressing the [AUDITION] key to make the indicator light will cause the audition riff to play repeatedly. In Sampling mode, this key is used to sound the selected sample.
+
+9. [AUDITION] 键
+此键用于播放适合每个预加载或预设程序声音的即兴重复乐段（乐句）。（试听功能）
+在程序模式下，按下 [AUDITION] 键使指示灯亮起，将导致试听重复乐段重复播放。在采样模式下，此键用于播放所选样本的声音。
+
+10. [DEMO/ SNG] key
+This key accesses a page where you can listen to demo songs.
+
+10. [DEMO/SNG] 键
+此键可访问可收听演示歌曲的页面。
+
+11. LCD screen
+Here you can select pages, and parameters, and set values. ( p.9)
+
+11. LCD 屏幕
+在此您可以选择页面和参数并设置值。（第 9 页）
+
+12. [F1 1/ 9 ], [F2 2/ 10 ], [F3 3/ 11 ], [F4 4/ 12 ], [F5 5/ 13 ], [F6 6/ 14 ], [F7 7/ 15 ], [F8 8/ 16 ] keys
+Function [F1]–[F8] keys
+These keys select the tabs that are displayed in each page. They are also used to execute utilities and other functions.
+Timbre/ track select [1/ 9]–[8/ 16] keys By holding down the [TIMBRE/ TRACK] key and pressing a [1/ 9]–[8/ 16] key, you can select the parameter of the corresponding timbre/ track.
+When the parameters of Combination timbres 1–8 or Multi mode tracks 1–8 or 9–16 are displayed in a single page, these keys select one of these timbres/ tracks.
+
+12. [F1 1/ 9 ]、[F2 2/ 10 ]、[F3 3/ 11 ]、[F4 4/ 12 ]、[F5 5/ 13 ]、[F6 6/ 14 ]、[F7 7/ 15 ]、[F8 8/ 16 ] 键
+功能 [F1]–[F8] 键
+这些键选择每个页面中显示的选项卡。它们还用于执行实用程序和其他功能。
+音色/音轨选择 [1/ 9]–[8/ 16] 键 按住 [TIMBRE/ TRACK] 键并按下 [1/ 9]–[8/ 16] 键，可以选择相应音色/音轨的参数。
+当组合音色 1–8 或多模式音轨 1–8 或 9–16 的参数显示在单个页面中时，这些键选择其中一个音色/音轨。
+
+13. [TIMBRE/ TRACK] key
+(The above “Timbre/ track select [1/ 9]–[8/ 16] keys”)
+
+13. [音色/音轨] 键
+（上述“音色/音轨选择 [1/ 9]–[8/ 16] 键”）
+
+14. [BANK] key
+This key switches between internal (INT) and external (EXB) banks.
+
+14. [BANK] 键
+此键用于在内部 (INT) 和外部 (EXB) 音库之间切换。
+
+15. [INT/ EXB] LED
+This indicates whether the currently selected program or combination is from an internal (INT) or external (EXB) bank. The indicator will light if an external bank (EXB) is selected. Use the [BANK] key to switch between INT/ EXB banks.
+
+15. [INT/ EXB] LED
+指示当前选定的程序或组合是来自内部 (INT) 还是外部 (EXB) 音库。如果选择了外部音库 (EXB)，指示灯将亮起。使用 [BANK] 键在 INT/ EXB 音库之间切换。
+
+16. INT: [A], [B], [C], [D], [E-SMPL], [F-MOSS], [G-GM] keys
+EXB:[A], [B], [C], [D], [E], [F], [G], [H] keys
+In Program mode, these keys select the program bank.
+
+16. INT：[A]、[B]、[C]、[D]、[E-SMPL]、[F-MOSS]、[G-GM] 键
+EXB：[A]、[B]、[C]、[D]、[E]、[F]、[G]、[H] 键
+在程序模式下，这些键用于选择程序音库。
+
+For the internal banks, pressing the [A], [B], [C], [D], [E-SMPL], [F-MOSS], [G-GM] keys will select INT-A (I-A), INT-B (I-B), INT-C (I-C), INT-D (I-D), INT-E (I-E), INT-F (I-F)*, or G* banks.
+* [F-MOSS] can be selected if the EXB-MOSS is installed. Each time you press the [G-GM] key, you will successively select G, g(1), g(2)–g(8), g(9), g(d), G... and GM(2) variation banks and drum banks.
+
+对于内部音色库，按下 [A]、[B]、[C]、[D]、[E-SMPL]、[F-MOSS]、[G-GM] 键将选择 INT-A (I-A)、INT-B (I-B)、INT-C (I-C)、INT-D (I-D)、INT-E (I-E)、INT-F (I-F)* 或 G* 音色库。
+* 如果安装了 EXB-MOSS，则可以选择 [F-MOSS]。每次按下 [G-GM] 键时，您将依次选择 G、g(1)、g(2)–g(8)、g(9)、g(d)、G... 和 GM(2) 变奏音色库和鼓音色库。
+
+For the external banks, pressing the [A], [B], [C], [D], [E], [F], [G], or [H] keys will select the EXB-A(E-A), EXB-B (E-B), EXB-C (E-C), EXB-D (E-D), EXB-E (E-E), EXB-F (E-F), EXB-G (E-G), and EXB-H (E-H) banks. Normally, the external banks are used to load the included programs when the EXB-PCM series options are installed.
+
+对于外部库，按 [A]、[B]、[C]、[D]、[E]、[F]、[G] 或 [H] 键将选择 EXB-A(E-A)、EXB-B (E-B)、EXB-C (E-C)、EXB-D (E-D)、EXB-E (E-E)、EXB-F (E-F)、EXB-G (E-G) 和 EXB-H (E-H) 库。通常，安装 EXB-PCM 系列选件时，使用外部库加载包含的程序。
+
+In Combination mode, these keys select the combination bank.
+For the internal banks, pressing the [A], [B], [C], [D], and [E-SMPL] keys will select INT-A (I-A), INT-B (I-B), INT-C (I-C), INT-D (I-D), or INT-E (I-E) banks.
+For the external banks, pressing the [A], [B], [C],[D], [E], [F], [G], or [H] keys will select the EXB-A (E-A), EXB-B (E-B), EXB-C (E-C), EXB-D (E-D), EXB-E (E-E), EXB-F (E-F), EXB-G (E-G), and EXB- H (E-H) banks. Normally, the external banks are used to load the included combinations when the EXB-PCM series options are installed.
+
+在组合模式下，这些键可选择组合库。
+对于内部库，按 [A]、[B]、[C]、[D] 和 [E-SMPL] 键将选择 INT-A (I-A)、INT-B (I-B)、INT-C (I-C)、INT-D (I-D) 或 INT-E (I-E) 库。
+对于外部库，按 [A]、[B]、[C]、[D]、[E]、[F]、[G] 或 [H] 键将选择 EXB-A (E-A)、EXB-B (E-B)、EXB-C (E-C)、EXB-D (E-D)、EXB-E (E-E)、EXB-F (E-F)、EXB-G (E-G) 和 EXB-H (E-H) 库。通常，安装 EXB-PCM 系列选件时，使用外部库加载包含的组合。
+
+When the program of a Combination mode or Multi mode timbre/ track is selected, these keys are used to select the program bank.
+In dialog boxes such as Write Program or Write Combination, these keys are used to specify the program or combination bank that will be the writing destination, etc.
+
+当选择组合模式或多模式音色/音轨的程序时，这些键用于选择程序库。
+在写入程序或写入组合等对话框中，这些键用于指定将作为写入目标的程序或组合库等。
+
+17. Mode keys
+Use these keys to enter the desired mode.
+When you press a key, the LED will light, and you will enter the mode whose key you pressed ( p.3, p.34).
+[COMBI] key
+Combination mode will be selected.
+[PROG] key
+Program mode will be selected.
+[MULTI] key
+Multi mode will be selected.
+[SAMPLING] key
+Sampling mode will be selected
+[GLOBAL] key
+Global mode will be selected
+[DISK] key
+Disk mode will be selected.
+
+17. 模式键
+使用这些键进入所需模式。
+按下某个键时，LED 将亮起，您将进入所按下键的模式（第 3 页、第 34 页）。
+[COMBI] 键
+将选择组合模式。
+[PROG] 键
+将选择程序模式。
+[MULTI] 键
+将选择多重模式。
+[SAMPLING] 键
+将选择采样模式
+[GLOBAL] 键
+将选择全局模式
+[DISK] 键
+将选择磁盘模式。
+
+18. [COMPARE] key
+Use this key to compare the edited sound of a program or combination with the sound that was written into memory before editing. This key is also used in Multi mode when recording a pattern and to make before- and after-editing comparisons. ( p.35)
+
+18. [COMPARE] 键
+使用此键可将编辑后的程序或组合的声音与编辑前写入内存的声音进行比较。此键还用于在 Multi 模式下录制模式以及进行编辑前后的比较。（第 35 页）
+
+19. CURSOR keys [ – ], [ ], [ ], [ + ]
+Use these keys to select different parameters on screen.
+By holding down the [MENU] key and using cur- sor keys [ ], [ ] you can switch pages in the order of 1.1→2.1→2.2→2.3. ( p.10)
+
+19. CURSOR 键 [ – ]、[ ]、[ ]、[ + ]
+使用这些键可选择屏幕上的不同参数。
+按住 [MENU] 键并使用光标键 [ ]、[ ]，可以按 1.1→2.1→2.2→2.3 的顺序切换页面。（第 10 页）
+
+20. [EXIT] key
+In Program, Combination, Multi, Sampling, and Global modes, pressing this key from anywhere other than page 1.1 will take you to page 1.1 of that mode.
+When a dialog box is open, this key will cancel the settings made in the dialog box and close the dia- log box (corresponds to the “Cancel”). If a Utility menu or page menu is open, pressing [EXIT] will close the menu.
+
+20. [EXIT] 键
+在程序、组合、多重、采样和全局模式下，从第 1.1 页以外的任何位置按此键将转到该模式的第 1.1 页。
+当对话框打开时，此键将取消对话框中的设置并关闭对话框（对应于“取消”）。如果打开了实用程序菜单或页面菜单，按 [EXIT] 将关闭菜单。
+
+21. [MENU PAGE +/ – ] key
+Use this key to select different pages on screen.
+When you press this key, a list of the pages within the mode will appear in the LCD screen. Use [F1]– [F7] or cursor keys [ ], [ ], [ ], [ ] to select the desired page, and press the [F8] key to move to the selected page.
+You can also move to a desired page by holding down the [MENU] key and using numeric keys [0]–[9] to enter a two-digit page number.
+In addition, you can hold down the [MENU] key and use cursor keys [ ], [ ] to switch pages in the order of 1.1→2.1→2.2→2.3. ( p.34)
+
+21. [MENU PAGE +/ – ] 键
+使用此键可选择屏幕上的不同页面。
+按此键时，LCD 屏幕上将显示模式内的页面列表。使用 [F1]– [F7] 或光标键 [ ]、[ ]、[ ]、[ ] 选择所需页面，然后按 [F8] 键移动到所选页面。
+您也可以按住 [MENU] 键并使用数字键 [0]–[9] 输入两位数的页码，移动到所需页面。
+此外，您可以按住 [MENU] 键并使用光标键 [ ]、[ ] 按照 1.1→2.1→2.2→2.3 的顺序切换页面。（第 34 页）
+
+VALUE controllers
+The following VALUE controllers are used to set the value of a selected parameter ( p.35).
+
+VALUE 控制器
+以下 VALUE 控制器用于设置所选参数的值（第 35 页）。
+
+22. [VALUE] dial
+Use this to increase or decrease the value of a parameter. It is convenient to use the dial when you wish to change the value of a parameter by a large amount.
+
+22. [VALUE] 拨盘
+使用此拨盘可增加或减少参数值。当您想大幅更改参数值时，使用此拨盘非常方便。
+
+23. [INC], [DEC] keys
+Use these keys to increment or decrement a parameter value in steps of one. It is convenient to use these keys when you wish to change the value of a parameter in small steps.
+
+23. [INC]、[DEC] 键
+使用这些键可以以 1 为单位增加或减少参数值。当您希望以小步长更改参数值时，使用这些键非常方便。
+
+24. Numeric keys [0], [1], [2], [3], [4], [5], [6], [7], [8], [9] [–] key [./ HOLD] key [ENTER] key
+Use these keys to numerically input a parameter value. Use numeric keys [0]–[9], the [–] key, and the [./ HOLD] key to enter the value, and press the [ENTER] key to confirm it. The [–] key inverts the sign (+/ –) of the parameter value. The [./ HOLD] key lets you input a value with a decimal point.
+The [./ HOLD] key is also used when you wish to hold the 10’s place while selecting programs or combinations. ( PG p.2) 
+By holding down the [ENTER] key and pressing a numeric key [0]–[9], you can select up to ten Util- ity menu commands in the current page.
+
+24. 数字键 [0]、[1]、[2]、[3]、[4]、[5]、[6]、[7]、[8]、[9] [–] 键 [./ HOLD] 键 [ENTER] 键
+使用这些键以数字方式输入参数值。使用数字键 [0]–[9]、[–] 键和 [./ HOLD] 键输入值，然后按 [ENTER] 键确认。[–] 键反转参数值的符号 (+/ –)。[./ HOLD] 键可让您输入带小数点的值。
+当您希望在选择程序或组合时保留 10 的位置时，也可以使用 [./ HOLD] 键。（PG 第 2 页）
+通过按住 [ENTER] 键并按下数字键 [0]–[9]，您可以在当前页面中选择最多 10 个实用程序菜单命令。
+
+25. [WRITE] key
+In Program, Combination, and Global modes, this key is used to write data into memory. Pressing the [WRITE] key in these modes will open a dialog box. Then press the [F8] (“OK”) key to write the edited content. ( p.37, p.39)
+
+25. [WRITE] 键
+在程序、组合和全局模式下，此键用于将数据写入内存。在这些模式下按 [WRITE] 键将打开一个对话框。然后按 [F8]（“OK”）键写入编辑的内容。（第 37 页，第 39 页）
+
+26. [MIDI] LED
+This will light when the TRITON-Rack receives MIDI messages.
+
+26. [MIDI] LED
+当 TRITON-Rack 收到 MIDI 信息时，此灯会亮起。
+
+27. [POWER] switch
+This switch turns the power on/ off ( p.15).
+
+27. [POWER] 开关
+此开关用于打开/关闭电源（第 15 页）。
+
+————————————————————————————————
+Rear panel
+后面板
+
+1. AC power supply connector (~AC9V)
+Connect this to the included AC/ AC power supply.
+After connecting the power supply cable to the TRITON-Rack, connect the other end to an AC outlet ( p.12).
+
+1. AC 电源连接器 (~AC9V)
+将其连接到随附的 AC/AC 电源。
+将电源线连接到 TRITON-Rack 后，将另一端连接到 AC 插座（第 12 页）。
+
+2. MIDI
+THRU connector
+MIDI data and sound settings etc. that are received at the MIDI IN connector are re-transmitted with- out change from the MIDI THRU connector.
+You can use this to connect multiple MIDI devices via MIDI cables.
+
+OUT connector
+MIDI data and sound settings etc. are transmitted from this connector.
+Use this to control another connected MIDI device from the TRITON-Rack.
+
+IN connector
+MIDI data and sound settings etc. are received at
+this connector.
+Use this to play the TRITON-Rack from another
+connected MIDI device ( p.13).
+
+2. MIDI
+THRU 连接器
+MIDI IN 连接器接收到的 MIDI 数据和声音设置等会从 MIDI THRU 连接器原封不动地重新传输。
+您可以使用它通过 MIDI 电缆连接多个 MIDI 设备。
+
+OUT 连接器
+MIDI 数据和声音设置等会从此连接器传输。
+使用它可以从 TRITON-Rack 控制另一个连接的 MIDI 设备。
+
+IN 连接器
+MIDI 数据和声音设置等会从此连接器接收。
+使用它可以从另一个连接的 MIDI 设备播放 TRITON-Rack（第 13 页）。
+
+3. S/ P DIF OUT(MAIN) jack
+This is an optical type S/ P DIF format (IEC60958, EIAJ CP-1201) digital output jack (stereo).
+It digitally outputs the same audio signal as the AUDIO OUTPUT (MAIN) L/ MONO and R jacks, at sampling rate of 48 kHz.
+Use an optical cable to connect this to the optical digital input jack of a DAT or MD, etc.
+
+！ The [OUTPUT] knob does not adjust the output level of this jack.
+
+3. S/P DIF OUT(MAIN) 插孔
+这是一个光纤型 S/P DIF 格式 (IEC60958、EIAJ CP-1201) 数字输出插孔（立体声）。
+它以 48 kHz 的采样率输出与 AUDIO OUTPUT (MAIN) L/MONO 和 R 插孔相同的音频信号。
+使用光纤电缆将其连接到 DAT 或 MD 等的光纤数字输入插孔。
+
+！[OUTPUT] 旋钮不调整此插孔的输出电平。
+
+4. AUDIO INPUT
+These two audio inputs are used when recording a mono/ stereo sample from a mic or external audio source ( p.29), or when applying the TRITON-Rack’s internal effects to an external audio source ( p.97).
+The MIC/ LINE level select switch ([MIC/ LINE] switch) and the level adjustment knob ([INPUT] knob) allow you to use a wide range of external audio sources, from mic level to line level.
+
+4. 音频输入
+这两个音频输入用于从麦克风或外部音频源录制单声道/立体声样本（第 29 页），或将 TRITON-Rack 的内部效果应用于外部音频源（第 97 页）。
+通过 MIC/LINE 电平选择开关（[MIC/LINE] 开关）和电平调节旋钮（[INPUT] 旋钮），您可以使用从麦克风电平到线路电平的各种外部音频源。
+
+AUDIO INPUT 1/ 2 jacks
+These are unbalanced 1/ 4" phone jacks. ( p.107).
+
+AUDIO INPUT 1/ 2 插孔
+这些是非平衡式 1/ 4 英寸耳机插孔。（第 107 页）。
+
+[MIC/ LINE] switch
+This switches the input level of the AUDIO INPUT 1/ 2 jacks ( p.107).
+
+[MIC/LINE] 开关
+用于切换 AUDIO INPUT 1/ 2 插孔的输入电平（第 107 页）。
+
+5. AUDIO OUTPUT
+Connect these outputs to the input jacks of your amp or mixer. In addition to the L/ MONO and R main stereo audio outputs, the TRITON-Rack provides four individual audio outputs. The sound from each oscillator, drum, timbre/ track, or inser- tion effect can be freely routed to any output ( p.95–).
+
+5. 音频输出
+将这些输出连接到放大器或混音器的输入插孔。除了 L/MONO 和 R 主立体声音频输出外，TRITON-Rack 还提供四个单独的音频输出。每个振荡器、鼓、音色/音轨或插入效果的声音都可以自由路由到任何输出（第 95 页-）。
+
+(MAIN) L/ MONO, R jacks
+These are unbalanced phone jacks ( p.106).
+These are the main audio output jacks. By setting “Bus Select” to L/R, the output from an oscillator, an insertion effect, an individual drum part, or the metronome can be output to the (MAIN) L/ MONO and R jacks.
+When making connections in stereo, use L/ MONO and R. When making connections in mono, use the L/ MONO jack.
+
+（主）L/MONO、R 插孔
+这些是非平衡式耳机插孔（第 106 页）。
+这些是主音频输出插孔。通过将“总线选择”设置为 L/R，振荡器、插入效果、单个鼓声部或节拍器的输出可以输出到（主）L/MONO 和 R 插孔。
+当以立体声进行连接时，请使用 L/MONO 和 R。当以单声道进行连接时，请使用 L/MONO 插孔。
+
+(INDIVIDUAL) 1, 2, 3, 4 jacks
+These are unbalanced phone jacks ( p.106).
+These are individual (independent) audio output jacks. By several times to make the “Bus Select” to 1, 2, 3, 4, 1/2, or 3/4, an oscillator, an insertion effect, an individual drum part, or the metronome etc. can be assigned to be output from the (INDI- VIDUAL) 1, 2, 3, 4, jacks. The output from the 1, 2, 3, 4 jacks is not affected by the [OUTPUT] knob.
+
+（INDIVIDUAL）1、2、3、4 插孔
+这些是非平衡耳机插孔（第 106 页）。
+这些是单独的（独立）音频输出插孔。通过多次将“总线选择”设置为 1、2、3、4、1/2 或 3/4，可以将振荡器、插入效果、单独的鼓声部或节拍器等分配为从（INDIVIDUAL）1、2、3、4 插孔输出。1、2、3、4 插孔的输出不受 [OUTPUT] 旋钮的影响。
+
+6. SCSI connector (separately sold EXB-SCSI option)
+Use a SCSI cable to connect SCSI-compatible devices (hard disk drives, CD-ROM drives etc.) here ( p.14, PG p.243).
+
+6. SCSI 连接器（另售 EXB-SCSI 选件）
+使用 SCSI 电缆连接 SCSI 兼容设备（硬盘驱动器、CD-ROM 驱动器等）（第 14 页、PG 第 243 页）。
+
+7. DIGITAL (separately sold EXB-DI option)
+OUT jack
+This is an ADAT optical format digital output connector.
+
+It outputs the six channels of the TRITON-Rack’s AUDIO OUTPUT jacks (MAIN) L/ MONO, R, (INDIVIDUAL) 1, 2, 3, 4 (analog audio outputs) as digital audio with a sampling rate of 48 kHz.
+These signals are output as channels 1 through 6 of the ADAT optical format.
+
+By connecting this to the DIGITAL IN jack of an ADAT Optical format compatible mixer, amp, or recorder etc., you can send the audio signal output of the TRITON-Rack in digital form to an external mixer, amp, or recorder etc. Use an optical cable made by the Alesis Corporation or an optical cable for CD/ DAT (both sold separately) to make this connection ( p.14, PG p.243, p.273).
+
+7. DIGITAL（单独出售的 EXB-DI 选件）
+OUT 插孔
+这是 ADAT 光学格式数字输出连接器。
+
+它将 TRITON-Rack 的 AUDIO OUTPUT 插孔 (MAIN) L/MONO、R、(INDIVIDUAL) 1、2、3、4（模拟音频输出）的六个通道输出为采样率为 48 kHz 的数字音频。
+这些信号作为 ADAT 光学格式的通道 1 至 6 输出。
+
+通过将其连接到兼容 ADAT 光学格式的混音器、放大器或录音机等的 DIGITAL IN 插孔，您可以将 TRITON-Rack 的音频信号输出以数字形式发送到外部混音器、放大器或录音机等。使用 Alesis 公司制造的光缆或 CD/DAT 的光缆（均单独出售）进行此连接（第 14 页、PG 第 243 页、第 273 页）。
+
+！ The [OUTPUT] knob does not adjust the output level of this connector.
+
+！[OUTPUT]旋钮不能调整此接口的输出电平。
+
+48 kHz WORD CLOCK IN jack
+Connect this to the WORD CLOCK OUT jack of an ADAT Optical format compatible mixer or remote controller. Use this when you want the connected device to be the word clock master and the TRI- TON-Rack to be the word clock slave for synchro- nization. Use an BNC coax cable made by the Alesis Corporation or a video BNC cable (both sold separately) to make this connection.
+
+48 kHz WORD CLOCK IN 插孔
+将其连接到兼容 ADAT 光学格式的混频器或遥控器的 WORD CLOCK OUT 插孔。当您希望连接的设备作为字时钟主设备，TRITON-Rack 作为字时钟从设备进行同步时，请使用此插孔。使用 Alesis Corporation 制造的 BNC 同轴电缆或视频 BNC 电缆（均单独出售）进行此连接。
+
+8. mLAN (separately sold EXB-mLAN option)
+A special cable is used to connect mLAN-compatible devices or computers. ( p.14, PG p.243)
+
+mLAN (IEEE 1394) 1, 2, 3 jacks
+
+SERIAL I/ O connector
+For details refer to the manual included with the EXB-mLAN.
+
+What is mLAN?
+
+mLAN is a new standard for musical instruments that uses the general-purpose IEEE 1394 interface (a general-purpose interface with a wide range of uses including current and dig- ital AV devices) with a special transmission protocol for musi- cal data. It allows high quality digital audio and MIDI data to be simultaneously transmitted and received over a single cable. At a transmission speed of 200 Mbps, approximately 100 channels of audio data or 256 ports of MIDI data (i.e., 16 channels x 256 connectors) can be transmitted and received over a single cable.
+mLAN provides unprecedented flexibility, allowing you to daisy-chain up to 63 devices, and even to reconfigure the input and output connections between devices without actu- ally disconnecting the mLAN cable. Even sophisticated set- ups in the studio or on stage are made easy by mLAN.
+
+8. mLAN（单独出售的 EXB-mLAN 选件）
+使用特殊电缆连接兼容 mLAN 的设备或计算机。（第 14 页，PG 第 243 页）
+
+mLAN（IEEE 1394）1、2、3 插孔
+
+串行 I/O 连接器
+有关详细信息，请参阅 EXB-mLAN 随附的手册。
+
+什么是 mLAN？
+
+mLAN 是乐器的新标准，它使用通用 IEEE 1394 接口（一种用途广泛的通用接口，包括电流和数字 AV 设备）和用于音乐数据的特殊传输协议。它允许通过单根电缆同时传输和接收高质量数字音频和 MIDI 数据。在 200 Mbps 的传输速度下，可以通过单根电缆传输和接收大约 100 个音频数据通道或 256 个 MIDI 数据端口（即 16 个通道 x 256 个连接器）。
+mLAN 提供了前所未有的灵活性，允许您以菊花链方式连接多达 63 个设备，甚至可以重新配置设备之间的输入和输出连接，而无需实际断开 mLAN 电缆。即使是工作室或舞台上的复杂设置，mLAN 也能轻松实现。
+
+————————————————————————————————
+Objects and functions in the LCD screen
+LCD 屏幕中的对象和功能
+
+a: Current page
+This indicates the currently selected page within the mode. From the left, this area shows the mode name, page number:name, tab name, and the parameter name of the edit cell.
+
+a：当前页面
+这表示模式中当前选定的页面。从左侧开始，此区域显示模式名称、页码：名称、选项卡名称和编辑单元的参数名称。
+
+b: Tab
+Most pages are divided into two or more tabs. By pressing the closest function key [F1]–[F7], you can select a tab to access the corresponding page.
+
+c: Parameters
+The parameters for various settings are displayed in the LCD screen. Use cursor keys [ ], [ ], [ ], [ ] to select the desired parameter.
+
+d: Edit cell
+When you use the cursor keys [ ], [ ], [ ], [ ], the selected parameter will be highlighted in the LCD screen. This area is called the edit cell, and your editing will affect the highlighted area.
+The parameter value of the edit cell can be modi- fied using VALUE controllers such as the [VALUE] dial or the [INC], [DEC] keys ( p.35). For parame- ters that require you to enter a key or a velocity value, you can input the value by holding down the [ENTER] key and playing a note on a connected MIDI instrument.
+
+e: Check box
+Use cursor keys [ ], [ ], [ ], [ ] to select a check box (edit cell), and use a VALUE controller such as the [VALUE] dial or the [INC], [DEC] keys to add or remove the check mark.
+When checked, the parameter will function, when unchecked, the parameter will not function.
+
+f: Function buttons
+By pressing the function key [F1]–[F8] nearest this button, you can turn various functions on/ off.
+
+SW1 and SW2 in Program, Combination, Multi, or Sampling modes.
+
+Starts/ stops pattern recording in Multi mode,
+starts/ stops sample recording in Sampling mode.
+
+Accesses the utility menu where you can execute utility menu commands.
+
+Other function buttons examples
+Multi mode: REVERT (copy and paste RPPR settings)
+Sampling mode: INSERT, CUT, COPY, CREATE (create multisample), L/ R,
+ZOOM
+Global mode: TEXT, KEY+, –
+Disk mode: UP, OPEN
+Demo: START, STOP
+
+Utility menu
+
+In each page, you can press the “UTILITY” func- tion button (the [F8] key) to access the utility menu. The utility menu contains commands that can be used in that page. The utility menu that appears will differ depending on the page that is selected.
+
+You can also select up to ten utility menu com- mands by holding down the [ENTER] key and pressing a numeric key [0]–[9]. Press the [EXIT] key to close the utility menu.
+
+For , press the [F7] key to select the desired utility menu command. You can also use the cur- sor keys [ ], [ ], [ ], [ ] to make your selec- tion. For , press the [F8] key to open the dialog box of the selected utility menu command.
+
+This key also switches the status of commands that you check or uncheck.	

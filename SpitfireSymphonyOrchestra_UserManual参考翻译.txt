@@ -180,4 +180,210 @@ REGISTERING WITH KONTAKT PLAYER
 
 略
 
+****************************************
+A QUICK LOOK
+SWITCHING VIEWS
+
+This large orchestra was recorded via priceless ribbon and valve mics via Neve Montserrat pre amps, the largest 88R Neve con- sole in the world and onto pristine 2” tape before being con- verted with the top-of-their-class Prism AD converters at 96k.
+The orchestra is presented in carefully orchestrated sections, sometimes in unison across the entire orchestral range some- times in high low and middle sections. Alongside many ‘work horse’ long and short articulations are expertly prepared legato patches; a menu of effects and a huge selection of string runs.
+There are four mic positions (close, tree, outriggers & ambient) to load and mix to suit the type of music you’re writing and the scale you want to achieve. Spitfire also provides a popular “os- tinatum” designer that allows you to instantly create exciting, tense or action packed rhythmic passages.
+
+这个大型管弦乐队通过 Neve Montserrat 前置放大器（世界上最大的 88R Neve 控制台）用无价的带式和电子管麦克风录制，然后录制到原始的 2 英寸磁带上，再用同类产品中顶级的 Prism AD 转换器以 96k 进行转换。
+管弦乐队以精心编排的部分呈现，有时在整个管弦乐队范围内齐奏，有时在高低音和中音部分。除了许多“主力”长短音符外，还有精心准备的连奏补丁；效果菜单和大量的弦乐选择。
+有四个麦克风位置（近距离、树形、支腿和环境）可供加载和混音，以适应您正在创作的音乐类型和您想要达到的规模。Spitfire 还提供了一个流行的“ost-tinatum”设计师，让您可以立即创建令人兴奋、紧张或充满动感的节奏段落。
+
+When you first load up a Spitfire Orchestral preset you’ll be greeted with this GUI. This is one of 3 pages that you can switch between using the panel switcher...
+
+首次加载 Spitfire Orchestral 预设时，您会看到此 GUI。这是您可以使用面板切换器切换的 3 个页面之一...
+
+Click on these to switch views or pages:
+1. General Overview (the view shown above)
+2. Expert View
+3. Ostinatum.
+All of which ore discussed in more detail over the next few chapters...
+
+单击这些可切换视图或页面：
+1. 总体概述（如上所示的视图）
+2. 专家视图
+3. Ostinatum。
+所有这些都将在接下来的几章中详细讨论...
+
+ASSIGNING CONTROLS IN KONTAKT
+All GUI controls can be assigned a unique controller number so you can automate or adjust via an external controller (vital when playing in virtual Orchestral parts). To un-assign, assign or just to see what CC number is assigned to any control RIGHT or CTRL CLICK.
+
+You can then alter the controller parameters in the “Automa- tion pane” want your mod wheel to go all the way from top to bottom but the control to have restricted bandwidth change default of 0-127 to 20-100 say. Or if you want the controller to make the GUI control in the reverse direction change from default 0-127 to 127-0.
+
+在 KONTAKT 中分配控件
+所有 GUI 控件都可以分配一个唯一的控制器编号，这样您就可以通过外部控制器进行自动化或调整（在虚拟管弦乐部分演奏时至关重要）。要取消分配、分配或仅查看分配给任何控件的 CC 编号，请右键单击或按住 CTRL 键。
+
+然后，您可以在“自动化窗格”中更改控制器参数，希望您的调制轮从上到下一直移动，但控件的带宽受限，请将默认值从 0-127 更改为 20-100。或者，如果您希望控制器使 GUI 控件反向，请从默认值 0-127 更改为 127-0。
+
+THE ‘GENERAL OVERVIEW ’ PANEL
+
+1. ARTICULATION SWITCHER
+The notes denote key articulations, display the current articula- tion playing and act as switches between them (alongside their associated keyswitches at the bottom of your keyboard).
+
+If what you’re playing stutters, or feels delayed or cuts out make sure everything is loaded, as some of these articulations are very deep sampled.
+LOAD STATUS:
+
+Make sure Kontakt displays the instrument load status as pic- tured. If the left hand bar is illuminated and red it’s in a queue and hasn’t started loading yet, if the middle bar is lit and yellow the instrument is still loading up. If you try to play before it’s loaded it may not be nice!
+
+ARTICULATIONS - Click on these notes to select the different articulations, whatever articulation is live is displayed in the yellow sidebar on the left. You can also select different ar- ticulations by hitting key switches, you can do this whilst you’re playing so if you want to say switch from a “long” articulation to a short, hit the key whilst you’re playing your last long and the next note will be a short. For details of articulations recorded go to Appendix A.
+
+POWER TIP: SHIFT > CLICK to select and play multiple articulations!
+
+2. SIDE BAR
+Tells you what articulation you’re playing.
+
+3. EASY MIX
+The orchestra was recorded with several different mic perspec- tives. Move this slider up or down to change the perceivable distance from the band. NB: the first time you use this it will need to load in the samples, so give it a moment!
+
+4. EXPRESSIVE CONTROLLERS
+Dynamics - probably the most important controller you have.
+
+This crossfades between the different dynamic layers recorded.
+
+Vibrato - where appropriate this crossfades from no (or senza) to lots (molto) vibrato.
+
+Release - allows you to change the amounts of release trigger you and your listener hears.
+
+Tightness - the start of a note is often not the start of the ‘sound’ of the instrument. This cuts further into the note to make it tighter. But does detract from realism. Worth tightening up when playing in, then loosening and putting a negative delay into your DAW to compensate for ultimate reality!
+
+Expression - ostensibly instrument trim (CC11), so this adjusts the volume within the instrument volume (CC7) great when used in conjunction with expression.
+
+“总体概述”面板
+
+1. 发音切换器
+这些音符表示键发音，显示当前正在播放的发音，并充当它们之间的开关（与键盘底部的相关键开关一起）。
+
+如果您正在播放的内容出现卡顿、延迟或中断，请确保所有内容都已加载，因为其中一些发音采样非常深。
+加载状态：
+
+确保 Kontakt 显示如图所示的乐器加载状态。如果左侧栏亮起并呈红色，则表示它处于队列中并且尚未开始加载，如果中间栏亮起并呈黄色，则表示乐器仍在加载。如果您在加载之前尝试演奏，效果可能不太好！
+
+发音 - 单击这些音符以选择不同的发音，任何实时发音都会显示在左侧的黄色侧边栏中。您还可以通过按下按键开关来选择不同的演奏法，您可以在演奏时执行此操作，因此如果您想从“长”演奏法切换到短演奏法，请在演奏最后一个长音符时按下按键，下一个音符将是短音符。有关录制的演奏法的详细信息，请参阅附录 A。
+
+强力提示：按 SHIFT > CLICK 可选择并播放多个演奏法！
+
+2. 侧边栏
+告诉您正在演奏的演奏法。
+
+3. 轻松混音
+管弦乐队使用几种不同的麦克风视角进行录制。上下移动此滑块可更改与乐队的可感知距离。注意：第一次使用时需要加载样本，因此请稍等片刻！
+
+4. 富有表现力的控制器
+动态 - 可能是您拥有的最重要的控制器。
+
+这会在录制的不同动态层之间进行交叉淡入淡出。
+
+颤音 - 在适当的情况下，它会从无颤音（或 senza）淡入到大量颤音（molto）。
+
+释放 - 允许您更改您和您的听众听到的释放触发量。
+
+紧密度 - 音符的开始通常不是乐器“声音”的开始。这会进一步切入音符以使其更紧密。但确实会降低真实感。在演奏时值得收紧，然后放松并在您的 DAW 中放置负延迟以补偿最终的真实感！
+
+表达 - 表面上是乐器微调（CC11），因此当与表达结合使用时，这会调整乐器音量（CC7）内的音量。
+
+THE EXPERT VIEW
+
+1. SIDE BAR
+On the ‘General Overview’ page this simply displays the artic- ulation being played. In the ‘Expert View’ there are some addi- tional functions:
+
+1a. THE COG - a. The Cog - Awesome tool for fine tuning & tweaking your presets.
+
+• HOW SHOULD WE TWEAK? - Then your last note played will be displayed, if this is correct get tweaking.
+• SKIP THIS RR - Will simply make it always jump along to the next round robin in the cycle.
+• ADJUST TUNE/ VOL - Will adjust the tuning and or volume of the last played note.
+• ADJUST RELEASE - This will alter the level of the release trigger (which will effect the perceived decay of that note).
+• SAMPLE START - If it feels loose adjust to the right, tight adjust to the left (NB this is only available in full “cog” patches).
+• REMOVE ALL NOTE TWEAKS - This removes all custom changes you have made with the Cog.
+
+1b. “KEYBOARD SHIMMIER” - This shifts your bank of keyswitches left or right to suit your needs, preference or per- formance. Simply click on the icon and drag your cursor left or right and you’ll see the pink bank of keyswitches follow! Wher- ever you stop, those will be the new keyswitches.
+
+1c. “KEYSWITCH TO CC SELECTOR” - Use this to as- sign a CC controller to act as articulation/ keyswitcher. Click on “CC” and you’ll be prompted to move the controller you wish to use in order for the instrument to “learn” how you’d like to select articulations.
+
+d. “ARTICULATION LOCKER” - We all like to select ar- ticulations and use our templates in different ways. Many com- posers like to have a single articulation loaded to each instance of an instrument for example. So it’s worth locking off the ar- ticulation switching once you’ve selected one so you don’t have sounds disappearing from slaves way off in your machine rooms!
+
+Unlocked Artic’ - Is the standard setting, select articulations via the front panel or associated keyswitch.
+
+Locked Artic’ - This locks your articulation so it doesn’t change either via front panel or keyswitch.
+
+Locked Keyswitch - This locks your articulation via keyswitch but you’re free to switch via the front panel.
+
+Locked to UACC - This is a new standard being developed by Spitfire and detailed in appendix E. The default controller chan- nel is #32 but this can be changed by right/ CTRL clicking on the padlock.
+
+Locked to UACC KS - The functionality of UACC with the flex- ibility of a keyswitch. When activated, a single keyswitch is avail- able. Pressing this key at varying velocities (according to UACC standards) changes articulation.
+
+Shared Keyswitches - In larger libraries, this setting allows you to spread keyswitches across multiple palettes of articulations.
+
+专家视图
+
+1. 侧边栏
+在“总体概述”页面上，这仅显示正在播放的发音。在“专家视图”中，还有一些附加功能：
+
+1a. 齿轮 - a. 齿轮 - 用于微调和调整预设的超棒工具。
+
+• 我们应该如何调整？ - 然后将显示您播放的最后一个音符，如果正确，请进行调整。
+• 跳过此 RR - 将简单地使其始终跳转到循环中的下一个循环。
+• 调整音调/音量 - 将调整最后播放音符的音调和/或音量。
+• 调整释放 - 这将改变释放触发器的级别（这将影响该音符的感知衰减）。
+• 样本开始 - 如果感觉松散，则向右调整，紧绷，则向左调整（注意：这仅在完整的“齿轮”补丁中可用）。
+• 删除所有音符调整 - 这将删除您使用 Cog 所做的所有自定义更改。
+
+1b。“键盘闪光” - 这将根据您的需要、偏好或性能左右移动您的键控开关组。只需单击图标并向左或向右拖动光标，您就会看到粉红色的键控开关组跟随！无论您停在哪里，这些都将成为新的键控开关。
+
+1c。“键控开关到 CC 选择器” - 使用此功能分配 CC 控制器作为发音/键控开关。单击“CC”，系统将提示您移动要使用的控制器，以便乐器“学习”您希望如何选择发音。
+
+d。“发音锁” - 我们都喜欢选择发音并以不同的方式使用我们的模板。例如，许多作曲家喜欢将单一发音加载到乐器的每个实例中。因此，一旦您选择了发音切换，就值得锁定发音切换，这样您就不会听到声音从远离机房的从属设备中消失！
+
+“未锁定发音” - 是标准设置，通过前面板或相关按键开关选择发音。
+
+“锁定发音” - 这会锁定您的发音，因此它不会通过前面板或按键开关更改。
+
+“锁定按键开关” - 这会通过按键开关锁定您的发音，但您可以通过前面板自由切换。
+
+“锁定到 UACC” - 这是 Spitfire 正在开发的新标准，详见附录 E。默认控制器通道为 #32，但可以通过右键单击/CTRL 单击挂锁来更改。
+
+“锁定到 UACC KS” - UACC 的功能与按键开关的灵活性。激活后，可使用单个按键开关。以不同的速度按下此键（根据 UACC 标准）可改变发音。
+
+共享按键开关 - 在较大的库中，此设置允许您将按键开关分布在多个发音面板上。
+
+2. ARTICULATION SWITCHER
+This works the same as it does in the ‘General Overview’ pan- el, with the addition of ‘load chips’ beneath each articulations.
+These load them in and out of memory as you wish... Remem- ber before playing an articulation you’ve loaded in make sure it’s fully loaded!
+
+LAYERING ARTICULATIONS - To layer sounds within
+the articulation set simply ‘SHIFT’ click on your next articu- lation. Rather than introducing a multitude of more confusing ‘layered articulation’ options, the front panel shows (and edits) only the most recently layered articulation.
+
+TRIGGERING - For triggering options CTRL or COMMAND
+click on the articulation icon:
+
+“By CC Range” - This will allow you to use a single controller channel to switch between artics. This allows you to fine tune on your MIDI event list, or to use a midi controller fader or in- deed button with a single range assigned to select your desired artic’. Our default setting is guided by our UACC protocol.
+
+“By KS” - The default setting. BML is scripted so it won’t switch mid note but wait ‘til the next note-on event before switching.
+
+This means you’re able to play the key switch say whilst playing a long note and have it switch to a staccato on your next note.
+
+“By Velocity Range” - This is great for designing intelligent staccato patches that say become staccatissimo when you hit the keyboard really hard. A second menu will open up giving you options for this function.
+
+“By MIDI Channel” - Ingeniously turns your single instance of BML into a multi timbral instrument. MIDI channel lets the instrument change articulation based on the incoming MIDI channel. To use, pop the instrument Midi Ch. to ‘Omni’ mode in Kontakt. The single instance can now be configured to play based on the incoming MIDI channel. For example. Set staccatos to channel 1, longs to channel 2 , legato to channel 3.
+
+“By Speed Of Playing” - A revolutionary new function that allows you to switch articulations based on the playing speed of your performance. When selected, it provides options to specify a triggering time-range in milliseconds. (See right hand menu above). For example, you could specify that ‘fast legato’ should be activated if the time between playing each interval is between 0 and 250ms (pictured above). Fully configurable to suit the user’s playing style and needs and can be deactivated by unchecking ‘Enabled’ (or if not in the artic switching screen, simply holding ALT/MENU and clicking the articulation icon on the stanza).
+
+When an articulation has a ‘trigger’ assigned to it, it shows a little short-cut icon above to let you know that it has been customised.
+
+Holding down ALT/MENU (PC/MAC) and clicking an articula- tion with this short-cut above it will toggle the trigger between enabled and disabled.
+
+It’s a handy way to quickly turn off legato speed/velocity switch- ing if the user doesn’t want it.
+
+TRIGGER PANEL - Reset will clear the trigger for this articulation, allowing you to set it to a different type or disable it permanently. Legato intervals will only activate this trigger if the notes played are legato intervals. Ignore if purged means that this trigger will only occur if the articulation is not purged.
+
+Group allows you to group together triggers. When set, the trigger only occurs when an articulation in the same group is currently active. For example, use this if you wanted to set up speed triggers on legato articulations, but don’t want them to trigger if you have staccatos/marc/shorts selected.
+
+OTHER WAYS TO SWITCH ARTICULATIONS
+Alongside switching your articulations manually by hand, via keyswitch or via the advanced methods mentioned above you may also want to try a new system we’ve dubbed UACC (uni- versal articulation controller channel). Whereby each and every possible style of articulation has been given a unique CC data number. Simply use CC#32 and the table found in Appendix E to see how this can work for you.
+
+POWER TIP: 
+Whilst there are many ways to switch between artic- ulations, many pros still prefer to have a different articulation in a single instance per track on their DAW. This enables them to assign different reverb levels and bake helpful stems that can be used in conjunction with live instruments (to work like this it’s best to load up artics from the individual articulations sub folder).
+
 

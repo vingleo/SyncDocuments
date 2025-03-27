@@ -2127,6 +2127,1605 @@ The Context Menu. With a right click on the input, playback and output channels 
 
 上下文菜单。右键单击输入、播放和输出通道，其上下文菜单可提供高级功能（这些菜单也可在 Matrix 中使用，但只能直接在通道标签上使用）。条目一目了然，并会自动调整到单击的位置。在所有这些条目中，第一个条目打开“通道布局”对话框。输入通道提供清除、复制输入、粘贴输入混音和粘贴其 FX。在播放通道上，可以使用复制、粘贴和清除播放混音。在输出通道上，提供当前子混音的复制和镜像功能以及 FX 设置的复制。
 
+25.3.1 Settings
+A click on the tool symbol opens the channel’s Settings panel with differing elements. For exam- ple the option Inst exists only in input channels 3-4, and the ADAT channels do not offer the phantom power option.
+
+25.3.1 设置
+单击工具符号可打开通道的设置面板，其中包含不同的元素。例如，Inst 选项仅存在于输入通道 3-4 中，而 ADAT 通道不提供幻象电源选项。
+
+Stereo. Switches the channel to mono or stereo mode.
+
+48V. Activates phantom power at the corresponding input. Serves as power supply for high quality condenser mics. This option should stay off with other sources to prevent failure by spikes.
+
+Inst. Switches inputs 3 and 4 individually to Instrument (Hi-Z) mode.
+
+Gain (1-2). Sets the gain for the four front inputs. The knob can be ad- justed by dragging the mouse or by the mouse wheel. This also works when the mouse has been moved over the two gain displays. Then the gain can be changed separately for left and right channel, even when the channel is in stereo mode.
+
+Gain (3-8). Additionally to the reference level setting, Line inputs 3 to 8 have an adjustable gain option from 0 dB to +12 dB.
+
+Level. Sets the reference level individually for the Line inputs. The avail- able settings are +13 dBu and +19 dBu.
+
+AutoSet. Activates an automatic gain reduction preventing overloads caused by too high gain settings. See chapter 19.2 for details.
+
+Width. Defines the stereo width. 1.00 equals full stereo, 0.00 mono, -1.00 swapped channels.
+
+FX Send. Setting the level of the signal sent to the FX bus which feeds Echo and Reverb. The current setting is also visible with closed channel settings, because knob and small fader are always synchronized. To make this function as useful as possible FX Send is locked to the highest submix, thus imitating the Aux Post Fader function of a standard mixing desk. When moving the big fader both knob and small fader will also move. This way the reverb signal will always have the same relation to the dry signal.
+
+The level of the signal sent to the effects can be controlled by the FX In level meters of the FX window. It becomes visible after a click on FX in the View Options.
+
+MS Proc. Activates M/S processing within the stereo channel. Monaural information is sent to the left channel, stereo information to the right.
+
+Phase L. Inverts the phase of the left channel by 180°.
+
+Phase R. Inverts the phase of the right channel by 180°.
+
+Note: the functions Width, MS Proc, Phase L and Phase R affect all routings of the respective channel.
+
+立体声。将通道切换为单声道或立体声模式。
+
+48V。在相应的输入端激活幻象电源。用作高质量电容式麦克风的电源。此选项应与其他电源一起关闭，以防止啸叫故障。
+
+乐器。将输入 3 和 4 分别切换到乐器 (Hi-Z) 模式。
+
+增益 (1-2)。设置四个前置输入的增益。可以通过拖动鼠标或鼠标滚轮调整旋钮。当鼠标移到两个增益显示上时，这也有效。然后，即使通道处于立体声模式，也可以分别更改左右声道的增益。
+
+增益 (3-8)。除了参考电平设置外，线路输入 3 至 8 还有一个可调增益选项，范围从 0 dB 到 +12 dB。
+
+电平。单独设置线路输入的参考电平。可用设置为 +13 dBu 和 +19 dBu。
+
+自动设置。激活自动增益降低，​​防止因增益设置过高而导致的过载。详情请参阅第 19.2 章。
+
+宽度。定义立体声宽度。1.00 等于全立体声，0.00 等于单声道，-1.00 等于交换通道。
+
+FX 发送。设置发送到 FX 总线的信号电平，该总线为回声和混响提供信号。当前设置在关闭通道设置时也可见，因为旋钮和小推子始终同步。为了使此功能尽可能有用，FX 发送被锁定到最高子混音，从而模仿标准混音台的 Aux Post Fader 功能。移动大推子时，旋钮和小推子也会移动。这样，混响信号将始终与干信号具有相同的关系。
+
+发送到效果的信号电平可以通过 FX 窗口的 F​​X 输入电平表控制。在“查看选项”中单击 FX 后，它变为可见。
+
+MS Proc。在立体声通道内激活 M/S 处理。单声道信息发送到左声道，立体声信息发送到右声道。
+
+相位 L。将左声道的相位反转 180°。
+
+相位 R。将右声道的相位反转 180°。
+
+注意：宽度、MS Proc、相位 L 和相位 R 功能会影响相应声道的所有路由。
+
+Besides Stereo/Mono, Phase L und Phase R the settings of the Hardware Outputs have further options: Level. Sets the reference levels of the 6 analog Line outputs. The available settings are +4 dBu, +13 dBu and +19 dBu. The Phones (channels 7-8) have a Low (+4 dBu) and High (+19 dBu) setting to choose from.
+
+FX Return. The effect signal (Echo and Reverb) is mixed to the respective hardware output by the duo knob/small fader.
+
+Crossfeed. Adjustable to 5 levels. Can be activated in a maximum of 4 stereo channels. Crossfeed uses the Bauer Binaural method for stereo loudspeaker simulation for headphones. This method, adopted from the ADI-2 series, creates a similar listening impression with headphones as with a normal loudspeaker setup.
+
+Room EQ. Opens a window with 9-band Parametric Equalizer, Delay and Volume Calibration. See chapter 25.3.3.
+
+Talkback. Activates this channel as receiver and output of the Talkback signal. This way Talkback can be sent to any outputs, not only the Phones in the Control Room section. Another application could be to send a cer- tain signal to specific outputs by the push of a button.
+
+No Trim. Sometimes channels need to have a fixed routing and level, which should not be changed in any case. An example is the stereo mixdown for recording of a live show. With No Trim active, the routing to this output channel is excluded from the Trim Gains function, therefore is not changed unintentionally.
+
+Loopback. Sends the output data to the driver as record data. The corresponding submix can be recorded then. This channel’s hardware input sends its data only to TotalMix, no longer to the recording software.
+
+除了立体声/单声道、相位 L 和相位 R，硬件输出设置还有更多选项：电平。设置 6 个模拟线路输出的参考电平。可用设置为 +4 dBu、+13 dBu 和 +19 dBu。耳机（通道 7-8）有低（+4 dBu）和高（+19 dBu）设置可供选择。
+
+FX 返回。效果信号（回声和混响）通过双旋钮/小推子混合到相应的硬件输出。
+
+交叉馈送。可调至 5 个级别。最多可在 4 个立体声通道中激活。交叉馈送使用 Bauer 双耳方法为耳机模拟立体声扬声器。这种方法采用 ADI-2 系列，使用耳机可产生与普通扬声器设置类似的聆听效果。
+
+房间均衡器。打开一个窗口，其中包含 9 波段参数均衡器、延迟和音量校准。请参阅第 25.3.3 章。
+
+对讲。激活此通道作为对讲信号的接收器和输出。这样，对讲可以发送到任何输出，而不仅仅是控制室部分的耳机。另一个应用是按下按钮将特定信号发送到特定输出。
+
+无修剪。有时通道需要有固定的路由和电平，在任何情况下都不应更改。一个例子是用于现场表演录制的立体声混音。在无修剪激活的情况下，到此输出通道的路由被排除在修剪增益功能之外，因此不会无意中更改。
+
+环回。将输出数据作为记录数据发送到驱动程序。然后可以录制相应的子混音。此通道的硬件输入仅将其数据发送到 TotalMix，而不再发送到录制软件。
+
+Another difference to the input and playback channels is the Cue button instead of Solo. A click on Cue sends the respective Hardware Output’s audio to the Main Out, or any of the Phones outputs (option Assign / Cue to in the Control Room section). With this any hardware output can be controlled and listened to through the monitoring output very conveniently.
+
+输入和播放通道的另一个不同之处是 Cue 按钮而不是 Solo。单击 Cue 按钮可将相应硬件输出的音频发送到 Main Out 或任何耳机输出（控制室部分中的分配/提示选项）。这样，任何硬件输出都可以通过监控输出非常方便地进行控制和收听。
+
+25.3.2 Equalizer
+A click on EQ opens the Equalizer panel. It is available in all input and output channels, and affects all routings of the respective channel (pre fader). The panel includes a low cut and a 3- band parametric equalizer which can be activated separately.
+
+25.3.2 均衡器
+单击 EQ 可打开均衡器面板。它适用于所有输入和输出通道，并影响相应通道（推子前）的所有路由。面板包括低切和 3 波段参数均衡器，可单独激活。
+
+EQ. Activated by the EQ button.
+
+Type. Band 1 and 3 can operate in Bell (peak), Shelving (shelf), High-Pass and Low-Pass mode.
+
+The middle band is fixed to Bell mode.
+
+Gain. All three bands can change their amplification between +20 dB to -20 dB.
+
+Freq. The filter’s center frequency is adjustable between 20 Hz and 20 kHz. While in Bell mode the center frequency is adjusted, in shelving mode the cut-off point (-3 dB) will be changed.
+
+Q. The Quality factor of the filter is adjustable from 0.4 (wide) to 9.9 (narrow).
+
+Lo Cut. Activated by the button Lo Cut. The slope of the high-pass filter is adjustable between 6, 12, 18 and 24 dB per octave. The cut-off point (-3 dB) is adjustable between 20 Hz and 500 Hz.
+
+EQ。通过 EQ 按钮激活。
+
+类型。频段 1 和 3 可在 Bell（峰值）、Shelving（搁架）、高通和低通模式下运行。
+
+中间频段固定为 Bell 模式。
+
+增益。所有三个频段的放大倍数均可在 +20 dB 至 -20 dB 之间改变。
+
+频率。滤波器的中心频率可在 20 Hz 至 20 kHz 之间调整。在 Bell 模式下，中心频率可调整；在搁架模式下，截止点 (-3 dB) 将更改。
+
+Q。滤波器的品质因数可在 0.4（宽）至 9.9（窄）之间调整。
+
+Lo Cut。通过按钮 Lo Cut 激活。高通滤波器的斜率可在每倍频程 6、12、18 和 24 dB 之间调整。截止点 (-3 dB) 可在 20 Hz 至 500 Hz 之间调整。
+
+The frequency graphics give a precise overview of the filter results. Overlapping filters influence each other. This can be used to achieve more than 20 dB amplitude, or to generate difficult frequency response optimizations.
+
+频率图精确概述了滤波结果。重叠滤波器相互影响。这可用于实现超过 20 dB 的振幅，或生成困难的频率响应优化。
+
+Note: TotalMix has an internal headroom of 24 dB. Extreme boosts with overlapping filters can therefore cause an internal overload. In any case such an overload is displayed by the Over LED of the channel’s level meter.
+
+注意：TotalMix 的内部余量为 24 dB。因此，重叠滤波器的极端提升可能会导致内部过载。在任何情况下，这种过载都会通过通道电平表的 Over LED 显示。
+
+Preset. Settings of the EQ and the Low Cut can be stored, loaded, and copied between channels at any time. A click on Preset opens a menu with several entries:
+
+预设。可以随时存储、加载和在通道之间复制 EQ 和低切的设置。单击“预设”会打开一个包含多个条目的菜单：
+
+▶ Recall: Presets stored before by the user can be selected and loaded
+▶ Save to: There are 16 storage places available (EQ Preset 1 to 16)
+▶ Import: Loads a previously stored TM EQ file (.tmeq)
+▶ Export: Stores the current state as TM EQ file (.tmeq)
+▶ Factory: Includes 14 examples for the creative use of Low Cut and Equalizer
+▶ Reset: Resets the Low Cut and EQ to have zero influence (Gain 0 dB)
+▶ Rename: The EQ Presets 1 to 16 can be renamed. The changes will be shown in both lists Recall and Save to.
+
+▶ 调用：可选择并加载用户之前存储的预设
+▶ 保存至：有 16 个存储位置可用（EQ 预设 1 至 16）
+▶ 导入：加载之前存储的 TM EQ 文件 (.tmeq)
+▶ 导出：将当前状态存储为 TM EQ 文件 (.tmeq)
+▶ 出厂：包括 14 个示例，用于创造性地使用低切和均衡器
+▶ 重置：重置低切和 EQ 以使其不产生影响（增益 0 dB）
+▶ 重命名：可以重命名 EQ 预设 1 至 16。更改将显示在调用和保存至列表中。
+
+Notes on the EQ Presets
+
+Copy between channels: The EQ Preset menu of all channels is identical. If an EQ setup is stored via Save to on one of the 16 storage places, it is then also available in any other channel via Recall.
+
+Copy between Snapshots: The Presets are not saved in Snapshots, therefore do not change when a different Snapshot is loaded. Presets are saved in Workspaces and also loaded with these.
+
+Copy between Workspaces: is done by the export and import function of the Preset menu.
+
+Important and useful Presets should always be saved as TM EQ file, so that they can not get lost even on accidental overwrite.
+
+Factory Presets load like all Presets the settings of both Low Cut and EQ simultaneously. The current state, On or Off, is neither saved nor activated. Therefore a preset can be loaded anytime, but will not become active before the user switches EQ and/or LC on – except they had been active already before the load process. For this reason some Factory Presets have special names. For example Telephone (LC+EQ) will sound much better when the LC has been activated additionally to the EQ, as the LC here is set to an unusual high frequency of 500 Hz.
+
+EQ 预设说明
+
+在通道之间复制：所有通道的 EQ 预设菜单相同。如果通过“保存到”将 EQ 设置存储在 16 个存储位置之一，则也可以通过“调用”将其存储在任何其他通道中。
+
+在快照之间复制：预设未保存在快照中，因此在加载其他快照时不会更改。预设保存在工作区中，并随工作区一起加载。
+
+在工作区之间复制：通过预设菜单的导出和导入功能完成。
+
+重要且有用的预设应始终保存为 TM EQ 文件，这样即使意外覆盖也不会丢失。
+
+与所有预设一样，出厂预设会同时加载低切和 EQ 的设置。当前状态（开或关）既不保存也不激活。因此，可以随时加载预设，但在用户打开 EQ 和/或 LC 之前不会变为活动状态 - 除非它们在加载过程之前已经处于活动状态。因此，一些出厂预设有特殊名称。例如，当除 EQ 外还激活 LC 时，耳机 (LC+EQ) 的声音会好得多，因为此处的 LC 设置为 500 Hz 的异常高频率。
+
+25.3.3 Room EQ
+Almost everything written in the previous chapter also applies to the Room EQ. It is based on the technology and design of the 3-band PEQ, but offers 9 bands and is specifically intended for room correction. It is therefore only available in the output channels. As it is not part of the mixing as being more like a 'fixed speaker correction', its settings are only saved in the Workspace. The gain of the filters can be adjusted in steps of 0.1 dB (3-band PEQ: 0.5 dB).
+
+25.3.3 室内均衡器
+上一章中几乎所有内容也适用于室内均衡器。它基于 3 频段 PEQ 的技术和设计，但提供 9 个频段，专门用于房间校正。因此，它仅在输出通道中可用。由于它不是混音的一部分，更像是“固定扬声器校正”，因此其设置仅保存在工作区中。滤波器的增益可以以 0.1 dB 的步长进行调整（3 频段 PEQ：0.5 dB）。
+
+▶ In the Options - Reset Mix menu, there are additional options: Clear channel effects without Room EQ and Total Reset without Room EQ.
+
+▶ The Room EQ is located directly behind the 3-band PEQ and can be recorded via Loopback.
+
+▶ The Room EQ preset files have the extension .tmreq and are not compatible with those of the 3-band EQ (.tmeq).
+
+▶ A maximum of 16 channels of Room EQ or 8 stereo channels of Room EQ can be used.
+
+▶ The button Room EQ only switches this one on and off. Delay and Vol.Cal are off at 0 ms and 0 dB, otherwise they are always on. This is is also signaled by the Room EQ button lighting up orange within in the channel settings panel.
+
+▶ The Room EQ can work on mono and stereo output channels and can also be set differently for each channel, see screenshot below.
+
+▶ 在选项 - 重置混音菜单中，有其他选项：清除无房间均衡器的通道效果和完全重置无房间均衡器。
+
+▶ 房间均衡器位于 3 波段 PEQ 的正后方，可通过 Loopback 录制。
+
+▶ 房间均衡器预设文件的扩展名为 .tmreq，与 3 波段均衡器 (.tmeq) 的扩展名不兼容。
+
+▶ 最多可使用 16 个房间均衡器通道或 8 个房间均衡器立体声通道。
+
+▶ 房间均衡器按钮仅可打开和关闭此功能。延迟和音量校准在 0 毫秒和 0 分贝时关闭，否则它们始终打开。这也通过通道设置面板中房间均衡器按钮亮起橙色来表示。
+
+▶ 房间均衡器可在单声道和立体声输出通道上工作，也可以为每个通道进行不同的设置，请参见下面的屏幕截图。
+
+Delay offers a delay of 0 ms up to 42 ms, in steps of 0.01 ms, at all supported sample rates.
+
+Vol.Cal changes the channel output level in the range +3 dB to -24 dB, in steps of 0.1 dB.
+
+Quick Configuration Tips Gain to 0 dB: Ctrl - left mouse button. Any parameter values: Double-click and type in the value.
+
+Quick adjustment via mouse or mouse wheel: Hold down Shift.
+
+延迟在所有支持的采样率下提供 0 毫秒至 42 毫秒的延迟，步长为 0.01 毫秒。
+
+Vol.Cal 可在 +3 dB 至 -24 dB 范围内更改通道输出电平，步长为 0.1 dB。
+
+快速配置提示 增益至 0 dB：Ctrl - 鼠标左键。任何参数值：双击并输入值。
+
+通过鼠标或鼠标滚轮快速调整：按住 Shift。
+
+25.3.4 Dynamics
+A click on D opens the Dynamics panel with Compressor, Expander and Auto Level. They are available in all input and output channels, and affects all routings of the respective channel.
+
+25.3.4 动态
+单击 D 打开动态面板，其中包含压缩器、扩展器和自动电平。它们适用于所有输入和输出通道，并影响相应通道的所有路由。
+
+Dynamics. Activated by this button.
+
+Thresh. Threshold where Compressor or Expander start to work. The Compressor is adjustable from -60 dB to 0 dB, the Expander is adjustable from -99 dB to -20 dB.
+
+Ratio. Ratio of input to output signal. Defines the intensity of the signal processing. Adjustable from 1 to 10.
+
+Gain. Gain stage to compensate a loss in level caused by the Compressor. Adjustable from -30 to +30 dB. With inactive Compressor (Threshold 0 dB, Ratio 1:1) this function can also be used as universal digital gain stage.
+
+Attack. Defines the rise time for the control voltage of Com- pressor/Expander. Adjustable from 0 ms to 200 ms.
+
+Release. Defines the release time for the control voltage of Compressor and Expander. Adjusta- ble from 100 ms to 999 ms.
+
+动态。通过此按钮激活。
+
+阈值。压缩器或扩展器开始工作的阈值。压缩器可在 -60 dB 至 0 dB 之间调节，扩展器可在 -99 dB 至 -20 dB 之间调节。
+
+比率。输入与输出信号的比率。定义信号处理的强度。可在 1 至 10 之间调节。
+
+增益。增益级用于补偿压缩器造成的电平损失。可在 -30 至 +30 dB 之间调节。在压缩器未激活（阈值 0 dB，比率 1:1）的情况下，此功能也可用作通用数字增益级。
+
+启动。定义压缩器/扩展器控制电压的上升时间。可在 0 ms 至 200 ms 之间调节。
+
+释放。定义压缩器和扩展器控制电压的释放时间。可在 100 ms 至 999 ms 之间调节。
+
+The amplitude graphics give a precise overview of the level changes caused by the current set- tings of Compressor and Expander. The white dot shows the level of the input signal and with this whether the signal is within the processing range or not. The small light blue lines in the level meter show the currently active gain reduction. Settings for these Dynamic Meters are found in the Preferences dialog (F2).
+
+振幅图形精确地概述了由压缩器和扩展器的当前设置引起的电平变化。白点显示输入信号的电平，并由此显示信号是否在处理范围内。电平计中的小浅蓝色线显示当前活动的增益衰减。这些动态计的设置位于“首选项”对话框 (F2) 中。
+
+Auto Level. Activated by this button.
+
+Max. Gain. Defines the maximum amplification of the input signal. Adjustable from 0 dB to 18 dB.
+
+Headroom. To minimize short-time overloads and clipping of the signal peaks Auto Level can be set to operate at a fixed offset to 0 dBFS. Adjustable from 3 dB to 12 dB.
+
+Rise Time. Defines the speed of a level increase after a level reduction. Adjustable from 0.1 s to 9.9 s.
+
+Preset. Includes the same functions as described on the previous page for the Equalizer. The names of the Factory Presets make clear whether Com- pressor, Auto Level or both (C+A) have to be switched on.
+
+自动电平。通过此按钮激活。
+
+最大增益。定义输入信号的最大放大倍数。可在 0 dB 至 18 dB 之间调节。
+
+余量。为了尽量减少短时过载和信号峰值削波，可以将自动电平设置为以固定偏移量 0 dBFS 运行。可在 3 dB 至 12 dB 之间调节。
+
+上升时间。定义电平降低后电平增加的速度。可在 0.1 s 至 9.9 s 之间调节。
+
+预设。包括与上一页均衡器中所述的相同功能。出厂预设的名称明确说明了是否必须打开压缩器、自动电平或两者（C+A）。
+
+25.4 Section Control Room
+In the section Control Room the menu Assign defines the Main Out which is used for listening in the studio. For this output the functions Dim, Recall, Mono, Talkback, External In and Mute FX are automatically applied. At the unit the VOLUME knob follows this assignment.
+
+25.4 控制室部分
+在控制室部分，菜单分配定义了用于在工作室中收听的主输出。对于此输出，将自动应用 Dim、Recall、Mono、Talkback、External In 和 Mute FX 功能。在设备上，VOLUME 旋钮遵循此分配。
+
+Additionally the channel will be shifted from the Hardware Out- puts into the Control Room section, and renamed Main. The same happens when assigning Main Out B or the Phones. The original name can be displayed by the function Names in the View Options menu at any time.
+
+此外，通道将从硬件输出移至控制室部分，并重命名为主通道。分配主输出 B 或耳机时也会发生同样的情况。原始名称可随时通过“查看选项”菜单中的“名称”功能显示。
+
+Phones 1 to 4 will have Dim (set in Settings) and a special rout- ing applied when Talkback is activated. Putting them beside the Main Out increases the overview within the output section greatly.
+
+Dim. The volume will be reduced by the amount set in the Set- tings dialog (F3).
+
+Recall. Sets the gain value defined in the Settings dialog.
+
+Speaker B. Switches playback from Main Out to Main Out B.
+
+The faders of the channels Main and Speaker B can be ganged via Link.
+
+Mono. Mixes left and right channel. Useful to check for mono compatibility and phase problems.
+
+Talkback. A click on this button will dim all signals on the Phones outputs by an amount set up in the Settings of TotalMix FX. At the same time the control room's microphone signal (source defined in Settings) is sent to the Phones. The microphone level is adjusted with the channel's input fader.
+
+External Input. Switches Main monitoring from the mix bus to the stereo input defined in the Settings dialog (F3). The relative volume of the ste- reo signal is adjusted there as well.
+
+Mute FX. Mutes Reverb and Echo on the Main Out, to hear the mix with- out those effects.
+
+Assign. Allows to define the Main Out, Main Out B (Speaker B), and up to four Phones outs.
+
+当 Talkback 激活时，耳机 1 至 4 将变暗（在“设置”中设置）并应用特殊路由。将它们放在 Main Out 旁边可以大大增加输出部分的概览。
+
+变暗。音量将按“设置”对话框 (F3) 中设置的量降低。
+
+调用。设置在“设置”对话框中定义的增益值。
+
+扬声器 B。将播放从 Main Out 切换到 Main Out B。
+
+Main 和 Speaker B 通道的推子可以通过 Link 进行组合。
+
+单声道。混合左右声道。用于检查单声道兼容性和相位问题。
+
+Talkback。单击此按钮将使电话输出上的所有信号变暗，其亮度在 TotalMix FX 的“设置”中设置。同时，控制室的麦克风信号（在“设置”中定义的源）被发送到电话。麦克风电平通过通道的输入推子进行调整。
+
+外部输入。将主监控从混音总线切换到“设置”对话框 (F3) 中定义的立体声输入。立体声信号的相对音量也在此处调整。
+
+静音 FX。将主输出上的混响和回声静音，以听到没有这些效果的混音。
+
+分配。允许定义主输出、主输出 B（扬声器 B）和最多四个电话输出。
+
+The output for the Cue signal, which is usually Main, can also be set to one of four Phones outputs. The setting Cue/PFL to also controls the PFL monitoring.
+
+Cue 信号的输出通常是 Main，也可以设置为四个 Phones 输出之一。设置 Cue/PFL 还可以控制 PFL 监控。
+
+25.5 The Control Strip
+The Control Strip on the right side is a fixed element. It combines different functions that are either required globally, or constantly used, and therefore should not be hidden in a menu. It can still be hidden via the top menu Window – Hide Control Strip.
+
+25.5 控制条
+右侧的控制条是一个固定元素。它结合了全局需要或经常使用的不同功能，因此不应隐藏在菜单中。它仍可通过顶部菜单窗口 - 隐藏控制条来隐藏。
+
+The areas described in the following chapters can be minimized by a click on the arrow in their title bar.
+
+单击标题栏中的箭头即可最小化以下章节中描述的区域。
+
+Device selection. Select the unit to be controlled in case more than one is installed on the computer.
+
+FX - DSP Meter. Shows the DSP load caused by activated EQ, Low Cut, Com- pressor, Auto Level, Echo and Reverb. The DSP of the Fireface UCX II has an automatic load limiter. If no DSP resources are left further effects can not be activated. When switching to DS and QS modes effects will be deactivated au- tomatically until the DSP is not overloaded anymore.
+
+Undo / Redo. With the unlimited Undo and Redo changes of the mix can be undone and redone, at any time. Undo/Redo does not cover graphical changes (window size, position, channels wide/narrow etc.), and also no changes to the Presets. The accidental overwrite of an EQ Preset can not be made undone.
+
+设备选择。如果计算机上安装了多个设备，请选择要控制的设备。
+
+FX - DSP 仪表。显示激活的 EQ、低切、压缩器、自动电平、回声和混响造成的 DSP 负载。Fireface UCX II 的 DSP 具有自动负载限制器。如果没有剩余的 DSP 资源，则无法激活其他效果。切换到 DS 和 QS 模式时，效果将自动停用，直到 DSP 不再过载。
+
+撤消/重做。通过无限制的撤消和重做，可以随时撤消和重做混音更改。撤消/重做不包括图形更改（窗口大小、位置、通道宽/窄等），也不包括对预设的更改。意外覆盖的 EQ 预设无法撤消。
+
+Undo/Redo also operates across Workspaces. Therefore a completely differ- ently set up mixer view can be loaded via Workspace, and with a single click on Undo the previous internal mixer state is returned – but the new mixer view stays.
+
+撤消/重做也可跨工作区操作。因此，可以通过工作区加载完全不同的混频器视图设置，单击“撤消”即可返回先前的内部混频器状态 - 但新的混频器视图保持不变。
+
+Global Mute - Solo - Fader.
+
+Mute. Global Mute operates in a pre fader style, muting all currently activated routings of the channel. As soon as any Mute button is pressed, the Mute Master button lights up in the Control Strip area. With this button all selected mutes can be switched off and on again. One can com- fortably set up a mute group or activate and deactivate several mute buttons simultaneously.
+
+Solo. As soon as any Solo button is pressed, the Solo Master button lights up in the Control Strip area. With this button all selected Solos are switched off and on again. Solo operates as Solo-in- Place, post fader style, as known from common mixing desks. A typical limitation for mixing desks, Solo working only globally and only for the Main Out, does not exist in TotalMix. Solo is always activated for the current submix only.
+
+Fader. A Shift-click on a fader adds the fader to the temporary fader group. All faders now marked yellow are ganged, and move simultaneously in a relative way. The temporary fader group is deleted by a click on the F symbol.
+
+全局静音 - 独奏 - 推子。
+
+静音。全局静音以推子前的方式运行，使通道的所有当前激活的路由静音。只要按下任何静音按钮，控制条区域中的“静音主”按钮就会亮起。使用此按钮，可以关闭并重新打开所有选定的静音。可以轻松设置静音组或同时激活和停用多个静音按钮。
+
+独奏。只要按下任何独奏按钮，控制条区域中的“独奏主”按钮就会亮起。使用此按钮，可以关闭并重新打开所有选定的独奏。独奏以原地独奏、推子后的方式运行，就像常见的混音台一样。混音台的典型限制是独奏只能全局工作并且仅适用于主输出，但在 TotalMix 中不存在。独奏始终只为当前子混音激活。
+
+推子。按住 Shift 键单击推子，将推子添加到临时推子组。现在所有标记为黄色的推子都已组合，并以相对方式同时移动。单击 F 符号即可删除临时推子组。
+
+25.5.1 View Options
+The field Show combines different functions of routing, the level meters and the mixer view.
+Routing Mode
+
+25.5.1 视图选项
+显示字段结合了路由、电平表和混频器视图的不同功能。
+路由模式
+
+▶ Submix. The Submix view (default) is the preferred view and delivers the quickest overview, operation and understanding of TotalMix. The click on one of the Hardware Output channels selects the respective submix, all other outputs are darkened. At the same time all routing fields are set to this channel. With Submix view, it is very easy to generate a submix for any output: select the output channel, adjust the fader and pans of first and sec- ond row – finished.
+
+▶ Free. The Free view is for advanced users. It is used to edit several sub- mixes simultaneously, without the need to change between them. Here one works with the routings fields of the input and playback channels only, which then show different routing destinations.
+
+▶ 子混音。子混音视图（默认）是首选视图，可提供对 TotalMix 的最快概览、操作和理解。单击其中一个硬件输出通道可选择相应的子混音，所有其他输出均变暗。同时，所有路由字段均设置为此通道。使用子混音视图，可以非常轻松地为任何输出生成子混音：选择输出通道，调整第一行和第二行的推子和声像 - 完成。
+
+▶ 自由。自由视图适用于高级用户。它用于同时编辑多个子混音，而无需在它们之间进行切换。在这里，人们只使用输入和播放通道的路由字段，然后显示不同的路由目的地。
+
+Level Meters
+▶ Post FX. Switches all level meters before (pre) or after (post) the effects. Level changes by these can be easily checked using this feature. Additionally the input signal can be checked for overloads. It is recommended to use Post FX as default setting, as the extreme reduction of a signal by LC/EQ is very seldom. Also all OVR displays of all level meters operate both pre and post, efficiently preventing overloads going unnoticed.
+
+▶ RMS. The numerical level display in the channels displays peak or RMS.
+
+电平表
+▶ 后置 FX。在效果之前（前）或之后（后）切换所有电平表。使用此功能可以轻松检查这些电平变化。此外，还可以检查输入信号是否过载。建议使用后置 FX 作为默认设置，因为 LC/EQ 极少会过度降低信号。此外，所有电平表的所有 OVR 显示器均在前置和后置运行，可有效防止过载被忽视。
+
+▶ RMS。通道中的数字电平显示显示峰值或 RMS。
+
+Show
+▶ FX. Opens the window to set up the effects Reverb and Echo.
+
+▶ Trim. Activates all Trim buttons on all channels. TotalMix thus behaves like a conventional, simple mixing desk. Each fader affects all active routings of the channel simultaneously, as if the fader were a trim-pot in the hardware input.
+
+▶ 2 Row. Switches the mixer view to 2 rows. Hardware Inputs and Software Playbacks are placed side by side. This view saves a lot of space, especially in height.
+
+▶ Names. Display of the original names of channels when they had been renamed by the user.
+
+▶ FX。打开窗口以设置混响和回声效果。
+
+▶ 修剪。激活所有通道上的所有修剪按钮。因此，TotalMix 的行为就像一个传统的、简单的混音台。每个推子同时影响通道的所有活动路由，就好像推子是硬件输入中的微调电位器一样。
+
+▶ 2 行。将混音器视图切换为 2 行。硬件输入和软件播放并排放置。此视图节省了大量空间，尤其是在高度方面。
+
+▶ 名称。显示用户重命名后的通道的原始名称。
+
+25.5.2 Snapshots - Groups
+Snapshots. Snapshots include all mixer settings, but no graphical elements like window posi- tions, window size, number of windows, visible EQs or Settings, scroll states, Presets etc. Only the state wide/narrow of the channels is registered. Moreover the Snapshot is only temporarily stored. Loading a Workspace causes the loss of all stored Snapshots, when these all had not been saved before in a Workspace, or separately via File / Save Snapshot as. Via File / Load Snapshot the mixer states can be loaded individually.
+
+25.5.2 快照 - 组
+快照。快照包括所有混频器设置，但没有图形元素，如窗口位置、窗口大小、窗口数量、可见 EQ 或设置、滚动状态、预设等。仅记录通道的宽/窄状态。此外，快照仅临时存储。加载工作区会导致所有存储的快照丢失，如果这些快照之前未保存在工作区中，或通过文件/另存快照为单独保存。通过文件/加载快照，可以单独加载混频器状态。
+
+Eight different mixes can be stored under individual names in the Snapshot section. A click on any of the eight buttons loads the corresponding Snapshot.
+
+A double click on the name field opens the dialog Input Name to edit the name.
+
+As soon as the mixer state is changed the button starts flashing. A click on Store lets all buttons flash, whereby the last loaded one, the base of the current state, flashes inversely. The storage finishes by clicking the desired button (means storage place). The storage process is exited by another click on the flashing Store button.
+
+在快照部分中，可以用单独的名称存储八种不同的混音。单击八个按钮中的任何一个都可以加载相应的快照。
+
+双击名称字段打开对话框“输入名称”以编辑名称。
+
+一旦混音器状态改变，按钮就会开始闪烁。单击“存储”可让所有按钮闪烁，而最后加载的按钮（当前状态的基础）会反向闪烁。单击所需按钮（表示存储位置）即可完成存储。再次单击闪烁的“存储”按钮即可退出存储过程。
+
+The area Snapshots can be minimized by a click on the arrow in the title bar.
+单击标题栏中的箭头可以将区域快照最小化。
+
+Groups. The area Groups provides 4 storage places each for fader, mute and solo groups. The groups are valid per Workspace, being active and usable in all 8 Snapshots. But with this they are also lost when loading a new workspace, in case they have not been saved before in a different Workspace.
+
+组。 组区域为推子组、静音组和独奏组分别提供了 4 个存储空间。 这些组在每个工作区中有效，在所有 8 个快照中处于活动状态且可用。 但是，如果它们之前未保存在不同的工作区中，则在加载新工作区时它们也会丢失。
+
+Note: The Undo function will help in case of an accidental overwrite or deletion of the groups.
+注意：如果意外覆盖或删除了组，撤消功能将有所帮助。
+
+TotalMix uses flashing signals to guide you through the group setup. After a click on Edit and click on the desired storage place all desired functions for this group have to be activated or selected.
+
+The storage process is finished by another click on Edit.
+
+TotalMix 使用闪烁信号引导您完成组设置。单击“编辑”并单击所需的存储位置后，必须激活或选择此组所需的所有功能。
+
+再次单击“编辑”即可完成存储过程。
+
+When setting up a fader group make sure to not add faders that are at the top or low position, unless all faders of that group have this position.
+
+The Mute groups operate – other than the global mute – exclusively for the current routing. This way you can not mute signals on all outputs unintentionally. Instead signals can be muted on specific submixes by the push of a button.
+
+A solo group operates exactly like the global solo, signals outside the current routing are not affected.
+
+设置推子组时，请确保不要添加位于顶部或底部位置的推子，除非该组的所有推子都处于此位置。
+
+静音组（全局静音除外）专门针对当前路由进行操作。这样，您就不会无意中静音所有输出上的信号。相反，只需按一下按钮即可静音特定​​子混音上的信号。
+
+独奏组的操作与全局独奏完全相同，当前路由之外的信号不受影响。
+
+25.5.3 Channel Layout - Layout Presets
+To maintain overview within TotalMix FX channels can be hidden. Channels can also be excluded from being remoted. Under Options / Channel Layout a dialog lists all I/Os with their current state.
+
+Selecting one or several channels enables the options to the right:
+
+25.5.3 通道布局 - 布局预设
+为了在 TotalMix FX 中保持概览，可以隐藏通道。还可以将通道排除在远程控制之外。在选项/通道布局下，对话框列出了所有 I/O 及其当前状态。
+
+选择一个或多个通道可启用右侧的选项：
+
+▶ Hide Channel in Mixer/Matrix. The selected channels are no longer shown in TotalMix FX, nor are they available via MIDI or OSC remote control.
+
+▶ Hide Channel in MIDI Remote 1-4. The selected channels are hidden for MIDI remote (CC and Mackie Protocol).
+
+▶ Hide Channel in OSC Remote 1-4. The selected channels are hidden for OSC remote con- trol.
+
+▶ 隐藏混频器/矩阵中的通道。所选通道不再显示在 TotalMix FX 中，也无法通过 MIDI 或 OSC 远程控制使用。
+
+▶ 隐藏 MIDI 远程 1-4 中的通道。所选通道对于 MIDI 远程（CC 和 Mackie 协议）是隐藏的。
+
+▶ 隐藏 OSC 远程 1-4 中的通道。所选通道对于 OSC 远程控制是隐藏的。
+
+Hidden channels in Mixer/Matrix are still fully functional. An existing routing/mixing/FX processing stays active. But as the channel is no longer visible it can not be edited anymore. At the same time the hidden channels are removed from the list of remote controllable channels, to prevent them from being edited unnoticed.
+
+Hidden channels in MIDI Remote x are removed from the list of remote controllable channels.
+Within an 8-channel block of a Mackie compatible control they are skipped. The control therefore is no longer bound to consecutive orders. For example it will control channels 1, 2, and 6 to 11, when channels 3 to 5 are hidden.
+
+The same can be done for OSC. With unnecessary channels made invisible for the OSC remote the more important channels are available as one block on the remote.
+
+混音器/矩阵中的隐藏通道仍可完全发挥作用。现有的路由/混音/FX 处理保持活动状态。但由于通道不再可见，因此无法再对其进行编辑。同时，隐藏通道将从远程可控通道列表中删除，以防止它们被不经意间编辑。
+
+MIDI Remote x 中的隐藏通道将从远程可控通道列表中删除。
+在 Mackie 兼容控件的 8 通道块内，它们将被跳过。因此，控件不再受连续顺序的约束。例如，当隐藏通道 3 至 5 时，它将控制通道 1、2 和 6 至 11。
+
+OSC 也可以这样做。由于不必要的通道对于 OSC 遥控器不可见，因此更重要的通道可作为遥控器上的一个块使用。
+
+The dialog can be called directly from TotalMix by a right mouse click on any channel. The corre- sponding channel will then be preselected in the dialog.
+
+Rows Inputs, Playbacks and Outputs are set up individually by the tabs at the top. In Use shows which channels are currently used in the mixing process.
+
+In the above example the AES input channel has been made invisible. When AES is not used this is an easy way to remove it from the mixer completely.
+
+可以通过右键单击任何通道直接从 TotalMix 调用对话框。然后会在对话框中预先选择相应的通道。
+
+行输入、播放和输出由顶部的选项卡单独设置。使用中显示当前在混音过程中使用的通道。
+
+在上面的例子中，AES 输入通道已设为不可见。当不使用 AES 时，这是一种将其从混音器中完全移除的简单方法。
+
+A double click onto any line opens the edit field for the Name (User) column. Editing channel names in this dialog is quick, Enter jumps to the next line. The channel names in the Control Room section can only be changed this way.
+
+After clicking on a field in the Color column, the color of the channel name can be changed. The locator picture below shows the effect and the available colors.
+
+After finishing those settings the whole state can be stored as Layout Preset.
+A click on Store and the desired memory slot makes the current channel layout recallable anytime. The button All makes all channels temporarily visible again.
+
+With a simple click on a button it will then be possible to easily switch views of only the channels involved with the mixing of the drum section, the horn section, the violins, or any other useful view. An optimized remote layout can be acti- vated here as well, with or without visible changes. Double-click the default slot name to enter any other name.
+
+双击任意一行即可打开“名称（用户）”列的编辑字段。在此对话框中编辑通道名称非常快捷，按 Enter 键跳至下一行。只能通过这种方式更改控制室部分中的通道名称。
+
+单击颜色列中的字段后，可以更改通道名称的颜色。下面的定位器图片显示了效果和可用的颜色。
+
+完成这些设置后，可以将整个状态存储为布局预设。
+单击存储和所需的内存插槽可随时调用当前通道布局。按钮全部可使所有通道暂时再次可见。
+
+只需单击一个按钮，就可以轻松切换仅涉及鼓部分、喇叭部分、小提琴或任何其他有用视图的混音的通道视图。也可以在此处激活优化的远程布局，无论是否有可见的变化。双击默认插槽名称可输入任何其他名称。
+
+! Layout Presets are stored within the Workspace, so make sure to save the current state before loading a different Workspace!
+
+！布局预设存储在工作区内，因此请确保在加载其他工作区之前保存当前状态！
+
+The button Sub activates another useful special view. When in Submix view, Sub will cause all channels to disappear that are not part of the currently selected Submix/Hardware Output. Sub temporarily shows the mix based on all channels from Inputs and Playback row, independent from the current Layout Preset. That makes it very easy to see and to verify which channels are mixed/routed to the current output. Sub makes checking and verifying of mixes, but also the mix editing itself, a lot easier, and maintains perfect overview even with lots of channels.
+
+Sub 按钮可激活另一个有用的特殊视图。在 Submix 视图中，Sub 将使所有不属于当前选定 Submix/Hardware Output 的通道消失。Sub 暂时显示基于来自输入和播放行的所有通道的混音，与当前布局预设无关。这样可以非常轻松地查看和验证哪些通道已混音/路由到当前输出。Sub 不仅使混音的检查和验证变得容易得多，而且使混音编辑本身也变得容易得多，并且即使有很多通道也能保持完美的概览。
+
+25.5.4 Scroll Location Markers
+
+Another feature to improve overview and working with TotalMix FX are scroll location markers (TotalMix view only). These are displayed automatically when the horizontal size of the TotalMix FX window is smaller than the channel display requires. Shown on the right side of the scrollbar of each row they have four elements:
+
+▶ Arrow to the left. A left mouse click let the channels scroll to the very first one, or most left.
+
+▶ 1. Marker number 1. Scroll to the desired position and perform a right mouse click on 1. A dialog comes up with precise information. Once stored, a left mouse click will scroll the chan- nels to the stored position.
+
+▶ 2. Marker number 2. See 1 for details.
+
+▶ Arrow to the right. A left mouse click let the channels scroll the last one, or most right.
+
+25.5.4 滚动位置标记
+
+另一个改进 TotalMix FX 概览和工作的功能是滚动位置标记（仅限 TotalMix 视图）。当 TotalMix FX 窗口的水平尺寸小于通道显示所需的尺寸时，会自动显示这些标记。它们显示在每行滚动条的右侧，包含四个元素：
+
+▶ 向左箭头。单击鼠标左键可让通道滚动到最左边或最右边。
+
+▶ 1. 标记编号 1。滚动到所需位置并右键单击 1。对话框会显示精确信息。存储后，单击鼠标左键将使通道滚动到存储的位置。
+
+▶ 2. 标记编号 2。有关详细信息，请参阅 1。
+
+▶ 向右箭头。单击鼠标左键可让通道滚动到最后一个或最右边。
+
+Location markers are stored in the Workspace.
+
+位置标记存储在工作区中。
+
+25.6 Reverb and Echo
+A click on FX in the View Options / Show brings up the Output FX panel. Here all parameters for the effects Reverb and Echo are adjusted.
+
+Reverb. Activated by the On button.
+Type. Lists different reverb types for selection. Available are:
+
+▶ Rooms Small, Medium, Large, Walls. Room simulation of rooms in different size and behaviour.
+▶ Shorty provides a short, rich and warm reverb.
+▶ Attack slaps back.
+▶ Swagger enriches and blows up the original sound source.
+▶ Old School is just that.
+▶ Echoistic has a heavy echo part within the reverb sound which brings some nice stereo effect as well.
+▶ 8plus9 is a mixture of Old School and Echoistic.
+▶ Grand Wide stands for a wide and open room and space.
+▶ Thicker can be used as short reverb to enrich the original signal.
+▶ Space has the most sizzle and longest reverb time.
+▶ Envelope. Reverb effect where the volume course (envelope) is freely adjustable.
+▶ Gated. Simpler version of the Envelope reverb for cut reverb effects.
+
+25.6 混响和回声
+单击“查看选项/显示”中的“FX”可打开“输出 FX”面板。在这里，可以调整混响和回声效果的所有参数。
+
+混响。通过“开启”按钮激活。
+类型。列出不同的混响类型以供选择。可用的有：
+
+▶ 房间 小型、中型、大型、墙壁。房间模拟不同大小和行为的房间。
+▶ Shorty 提供短暂、丰富和温暖的混响。
+▶ Attack 回击。
+▶ Swagger 丰富并放大原始声源。
+▶ Old School 就是这样。
+▶ Echoistic 在混响声音中有一个重回声部分，也带来了一些不错的立体声效果。
+▶ 8plus9 是 Old School 和 Echoistic 的混合。
+▶ Grand Wide 代表宽阔而开放的房间和空间。
+▶ Thicker 可用作短混响以丰富原始信号。
+▶ 空间具有最强烈的嘶嘶声和最长的混响时间。
+▶ 包络。可自由调节音量范围（包络）的混响效果。
+▶ 门控。包络混响的简化版本，用于切割混响效果。
+
+Please note that all these reverb types are extremely flexible due to the available Smooth and Room Scale controls. Most of them can be used as short and long reverb, and sound totally different with Smooth turned to maximum or minimum.
+
+TotalMix FX comes with factory presets and default values for all reverb types to ensure a fast setup time and quick results. Please take the time to experiment with them with different signals and different settings, to learn how different they can sound and can be used.
+
+请注意，由于可用的 Smooth 和 Room Scale 控件，所有这些混响类型都非常灵活。它们中的大多数可以用作短混响和长混响，并且当 Smooth 调到最大或最小时，声音会完全不同。
+
+TotalMix FX 为所有混响类型提供出厂预设和默认值，以确保快速设置时间和快速结果。请花时间用不同的信号和不同的设置进行试验，以了解它们的声音和用途有多么不同。
+
+General Settings
+PreDelay. Delay of the reverb signal. Adjustable from 0 ms up to 999 ms.
+
+Low Cut. High-pass filter before the reverb generation, removes low frequency signals which should not cause a reverb sound. Adjustable from 20 Hz up to 500 Hz.
+
+High Cut. Low-pass filter after the reverb generation. A reduction of the treble often lets the reverb sound more natural. Adjustable from 5 kHz up to 20 kHz.
+
+Smooth. Softens the reverb effect, affects stereo width, density and sound colour. Adjustable from 0 up to 100.
+
+Width. Adjusts the stereo width of the reverb signal from 100 (stereo) to 0 (mono).
+
+Volume. Adjusts the level of the reverb effects signal sent to the FX return bus.
+
+Special Settings for Room Types Room Scale. Determines the size of the room, thus changing density and length of the reverb effect. Adjustable from 0.5 up to 3.0.
+
+常规设置
+预延迟。混响信号的延迟。可从 0 毫秒调整至 999 毫秒。
+
+低切。混响生成之前的高通滤波器，可消除不应引起混响声音的低频信号。可从 20 Hz 调整至 500 Hz。
+
+高切。混响生成后的低通滤波器。降低高音通常会使混响听起来更自然。可从 5 kHz 调整至 20 kHz。
+
+平滑。柔化混响效果，影响立体声宽度、密度和声音色彩。可从 0 调整至 100。
+
+宽度。将混响信号的立体声宽度从 100（立体声）调整为 0（单声道）。
+
+音量。调整发送到 FX 返回总线的混响效果信号的电平。
+
+房间类型的特殊设置 房间比例。确定房间的大小，从而改变混响效果的密度和长度。可调范围为 0.5 至 3.0。
+
+Special Settings for Envelope and Gated
+Attack. Length of time for the volume increase of the reverb signal. Also called rise time. Adjust- able from 5 ms up to 400 ms.
+
+Hold. Length of time for the fixed volume part of the reverb signal. Adjustable from 5 ms up to 400 ms.
+
+Release. Length of time for the volume decrease of the reverb signal. Adjustable from 5 ms up to 400 ms.
+
+Special Settings for Space Reverb Time. Sets the duration of the reverb referenced to a volume drop of 20 dB. Adjustable from 0.1 s up to 4.9 s.
+
+High Damp. Sets the treble damping over time for the reverb signal. In principle, this is a low- pass filter like High Cut. Because of the operation principle of this reverb it shows a slightly differ- ent behaviour. Adjustable from 5 kHz up to 20 kHz.
+
+包络和门控的特殊设置
+攻击。混响信号音量增加的时间长度。也称为上升时间。可调范围为 5 毫秒至 400 毫秒。
+
+保持。混响信号音量固定部分的时间长度。可调范围为 5 毫秒至 400 毫秒。
+
+释放。混响信号音量减小的时间长度。可调范围为 5 毫秒至 400 毫秒。
+
+空间混响时间的特殊设置。设置混响持续时间，参考音量下降 20 dB。可调范围为 0.1 秒至 4.9 秒。
+
+高阻尼。设置混响信号的高音随时间衰减。原则上，这是一个低通滤波器，如高切。由于此混响的工作原理，它表现出略有不同的行为。可在 5 kHz 至 20 kHz 之间调节。
+
+Echo. Activated by the On button.
+
+Type. Lists different echo algorithms for selection. Available are: ▶ Stereo Echo. Separated echo generators on left and right channel. As a result the echo follows the sound source within the stereo field.
+
+▶ Stereo Cross. Echo generator on left and right channel with cross coupled feedback which is only working for the stereo parts of the input signal. In case the input signal is only left or right the Stereo Cross acts exactly like the Pong Echo.
+
+▶ Pong Echo. Generates an echo that jumps between left and right channel, independent from the source signal’s stereo position.
+
+回声。通过“开启”按钮激活。
+
+类型。列出不同的回声算法以供选择。可用的算法有：▶ 立体声回声。左右声道上的独立回声发生器。因此，回声在立体声场内跟随声源。
+
+▶ 立体声交叉。左右声道上的回声发生器具有交叉耦合反馈，仅适用于输入信号的立体声部分。如果输入信号仅为左声道或右声道，则立体声交叉的作用与 Pong 回声完全相同。
+
+▶ Pong 回声。生成在左右声道之间跳跃的回声，与源信号的立体声位置无关。
+
+
+Settings
+Delay Time. Sets the delay time for the first echo.
+
+BPM. A double click on the lower value field offers a delay adjustment as Beats Per Minute.
+
+Feedback. Feedback to produce further echoes.
+
+Width. Adjusts the stereo width of the echo signal from 100 (stereo) to 0 (mono).
+
+Volume. Adjusts the level of the echo effects signal sent to the FX return bus.
+
+High Cut (HC). Option for more natural sound or intentional damping of the delayed signal.
+
+设置
+延迟时间。设置第一个回声的延迟时间。
+
+BPM。双击较低的值字段可调整延迟时间，即每分钟节拍数。
+
+反馈。反馈以产生进一步的回声。
+
+宽度。将回声信号的立体声宽度从 100（立体声）调整为 0（单声道）。
+
+音量。调整发送到 FX 返回总线的回声效果信号的级别。
+
+高切 (HC)。用于更自然的声音或有意衰减延迟信号的选项。
+
+Preset. Settings of the Reverb and the Echo can be stored, loaded, and copied between channels at any time. A click on Preset opens a menu with several entries:
+
+▶ Recall: Presets stored before by the user can be selected and loaded
+▶ Save to: There are 16 storage places available (Reverb/Echo Preset 1 to 16)
+▶ Import: Loads a previously stored TM FX Reverb file (.tmrv) or a TM FX Echo file (.tmeo)
+▶ Export: Stores the current state as TM FX Reverb file (.tmrv) or as TM FX Echo file (.tmeo)
+▶ Factory: Includes 10 examples for the configuration of the Reverb
+▶ Reset: Resets the Reverb or Echo
+▶ Rename: The Presets 1 to 16 can be renamed. The changes will be shown in both lists Recall and Save to.
+
+预设。混响和回声的设置可以随时存储、加载并在通道之间复制。单击“预设”将打开一个菜单，其中包含多个条目：
+
+▶ 调用：可以选择和加载用户之前存储的预设
+▶ 保存到：有 16 个存储位置可用（混响/回声预设 1 至 16）
+▶ 导入：加载之前存储的 TM FX 混响文件 (.tmrv) 或 TM FX 回声文件 (.tmeo)
+▶ 导出：将当前状态存储为 TM FX 混响文件 (.tmrv) 或 TM FX 回声文件 (.tmeo)
+▶ 出厂：包括 10 个混响配置示例
+▶ 重置：重置混响或回声
+▶ 重命名：可以重命名预设 1 至 16。更改将显示在调用和保存到列表中。
+
+25.7 Preferences
+The dialog Preferences can be opened via the Options menu or directly via F2.
+
+Level Meters
+▶ Full scale samples for OVR. Number of consecutive samples to trigger an over detection (1 to 10).
+▶ Peak Hold Time. Hold time of the peak value. Adjustable from 0.1 up to 9.9 s.
+▶ RMS +3 dB. Shifts the RMS value by +3 dB, so that full scale level is identical for Peak and RMS at 0 dBFS.
+
+25.7 首选项
+可以通过选项菜单或直接按 F2 打开“首选项”对话框。
+
+电平表
+▶ OVR 的全量程样本。触发过检测的连续样本数（1 到 10）。
+▶ 峰值保持时间。峰值的保持时间。可从 0.1 到 9.9 秒调整。
+▶ RMS +3 dB。将 RMS 值移动 +3 dB，使峰值和 RMS 的全量程电平在 0 dBFS 时相同。
+
+Mixer Views
+▶ FX Send follows highest Submix.
+Locks the FX Send knob to the channel fader. As TotalMix supports multiple routings per channel, a definition is needed which fader (only one is visible) is the one that FX Send will follow. This is always the one with the highest fader position, means the highest gain.
+▶ FX Send follows Main Out. Locks the FX Send knob to the channel fader only for the Main Out submix. This is a typical Live feature, where the FX Send is always tied to the fader for the most important output - the Main Out. When adjusting other submixes the FX send will not follow the fader movement.
+▶ Center Balance/Pan when changing Mono/Stereo. When switching a stereo channel into two mono channels the panpots are set fully left and right. This option will set them to center instead.
+▶ Disable mouse wheel operation. Prevents unintentional changes when using the mouse wheel.
+▶ Disable double click fader action. Prevents unintentional gain settings, for example when using sensitive touchpads.
+▶ Store channel open/close in Layout
+Preset. Also loads the state of the channel panels (Settings/EQ Panel).
+
+混音器视图
+▶ FX 发送跟随最高子混音。
+将 FX 发送旋钮锁定到通道推子。由于 TotalMix 支持每个通道的多个路由，因此需要定义 FX 发送将跟随哪个推子（只有一个可见）。这始终是推子位置最高的推子，意味着增益最高。
+▶ FX 发送跟随主输出。将 FX 发送旋钮锁定到通道推子，仅适用于主输出子混音。这是一个典型的实时功能，其中 FX 发送始终与最重要的输出（主输出）的推子绑定。调整其他子混音时，FX 发送不会跟随推子移动。
+▶ 更改单声道/立体声时的中心平衡/声像。将立体声通道切换到两个单声道通道时，声像调节器完全设置在左侧和右侧。此选项将改为将它们设置为中心。
+▶ 禁用鼠标滚轮操作。防止使用鼠标滚轮时意外更改。
+▶ 禁用双击推子操作。防止意外增益设置，例如使用灵敏的触摸板时。
+▶ 在布局预设中存储通道打开/关闭。还加载通道面板（设置/EQ 面板）的状态。
+
+Dynamic Meters
+▶ Compressor/Expander. Activates the display of the Compressor/Expander’s gain reduction as thin blue line in the level meters of the corresponding channel.
+
+▶ Include Gain setting. The currently set fixed amplification value (by the Gain knob) is in- cluded in the display. This can lead to positive values, with the display limited to +6 dB. In case the option Compressor/Expander is deactivated this option is also not available, there- fore grayed out.
+
+▶ Auto Level. Activates the display of the variable amplification of the Auto Leveler. As Auto Level can both amplify and attenuate the audio signal, depending on its configuration, the display can show negative (typical gain reduction) as well as positive (above 0 dB, amplifica- tion) values.
+
+动态仪表
+▶ 压缩器/扩展器。激活压缩器/扩展器的增益衰减显示，在相应通道的电平表中显示为细蓝线。
+
+▶ 包括增益设置。当前设置的固定放大值（通过增益旋钮）包含在显示屏中。这可能导致正值，显示限制为 +6 dB。如果禁用压缩器/扩展器选项，则此选项也不可用，因此显示为灰色。
+
+▶ 自动电平。激活自动电平器可变放大的显示。由于自动电平可以放大和衰减音频信号，因此根据其配置，显示屏可以显示负值（典型的增益衰减）以及正值（高于 0 dB，放大）。
+
+Snapshots
+▶ Do not load - Main Volume, Main/Phones Volumes, Control Room Settings. The selected values stored in the Snapshot are not loaded, so the current setting is not changed.
+
+Device Handling
+▶ Always init DSP devices with TotalMix FX settings. Used to suppress the mismatch mes- sage after using the unit stand-alone. Settings in the unit are lost.
+
+▶ Count MADI Channels per port. Not available with the Fireface UCX II.
+
+▶ Disable ASIO Direct Monitoring. Disables ASIO Direct Monitoring (ADM) for the Fireface UCX II within TotalMix FX.
+
+快照
+▶ 不加载 - 主音量、主/电话音量、控制室设置。快照中存储的选定值未加载，因此当前设置不会更改。
+
+设备处理
+▶ 始终使用 TotalMix FX 设置初始化 DSP 设备。用于在单独使用设备后抑制不匹配消息。设备中的设置将丢失。
+▶ 计算每个端口的 MADI 通道数。Fireface UCX II 不可用。
+▶ 禁用 ASIO 直接监控。在 TotalMix FX 中禁用 Fireface UCX II 的 ASIO 直接监控 (ADM)。
+
+Graphics
+▶ Use D2D (Change requires restart). Default on. Can be deactivated to use a compatible but CPU-taxing graphics mode, in case graphics problems show up.
+
+▶ Brightness Correction. Adjusts the brightness of the TotalMix FX graphics.
+
+Store Setting for
+▶ All Users (Restart required). See next chapter.
+
+Special Options 
+▶ Lock User Interface. Default off. Can be activated to freeze the current mix state. Faders, buttons and knobs relating to the mix state can not be moved anymore.
+
+▶ Enter Password (Windows only). Secures the locked user interface with an additional password.
+
+图形
+▶ 使用 D2D（更改需要重启）。默认开启。如果出现图形问题，可以停用以使用兼容但耗费 CPU 的图形模式。
+
+▶ 亮度校正。调整 TotalMix FX 图形的亮度。
+
+存储设置
+▶ 所有用户（需要重启）。请参阅下一章。
+
+特殊选项
+▶ 锁定用户界面。默认关闭。可以激活以冻结当前混音状态。与混音状态相关的推子、按钮和旋钮无法再移动。
+
+▶ 输入密码（仅限 Windows）。使用附加密码保护锁定的用户界面。
+
+25.7.1 Store for Current or All Users
+TotalMix FX stores all settings, workspaces and snapshots for the current user in: 
+XP: C:\Documents and Settings\ Username\Local Settings\ Application Data\TotalMixFX 
+Since Vista: C.\Users\Username\AppData\Local\TotalMixFX 
+Current User ensures that when workstations are used by several people they all find their own settings. In case the settings should be identical or given for any user, TotalMix FX can be changed to use the All User directory. An admin could even write protect the file last- FirefaceUCXII1.xml, which results in a complete reset to that file’s content whenever TotalMix FX is restarted. The xml-file is updated on exit, so simply set up TotalMix as desired and exit it (right mouse click on the symbol in the notification area or Exit), then change the file attribute.
+
+Paths under macOS X
+Mac Current User: user/Library/Application Support/RME TotalMix FX
+Mac All Users: /Library/Application Support/RME TotalMix FX
+
+25.7.1 为当前用户或所有用户存储
+TotalMix FX 将当前用户的所有设置、工作区和快照存储在：
+XP：C:\Documents and Settings\ Username\Local Settings\ Application Data\TotalMixFX
+Vista 以后：C:\Users\Username\AppData\Local\TotalMixFX
+当前用户确保当工作站由多人使用时，他们都能够找到自己的设置。如果设置相同或为任何用户指定，则可以将 TotalMix FX 更改为使用所有用户目录。管理员甚至可以对文件 last-FirefaceUCXII1.xml 进行写保护，这样每次重新启动 TotalMix FX 时都会完全重置该文件的内容。xml 文件在退出时会更新，因此只需根据需要设置 TotalMix 并退出（右键单击通知区域中的符号或退出），然后更改文件属性。
+
+macOS X 下的路径
+Mac 当前用户：user/Library/Application Support/RME TotalMix FX
+Mac 所有用户：/Library/Application Support/RME TotalMix FX
+
+25.8 Settings
+The dialog Settings can be opened via the Options menu or directly via F3.
+
+25.8.1 Mixer Page
+On the mixer page some typical settings for the mixer operation are set, like Talkback source, Dim amount when Talkback is active, the stored main volume or the input used for the External Input function.
+
+Talkback
+▶ Input. Selects the input channel of the Talkback signal (microphone in control room). Default: None.
+▶ Dim. Amount of attenuation of the signals routed to the Phones in dB.
+
+Listenback
+▶ Input. Selects the input channel of the Listenback signal (microphone in recording room). Default: None.
+▶ Dim. Amount of attenuation of the signals routed to the Main Out in dB.
+
+Main Out
+▶ Recall. User defined listening volume, activated by the Recall button at the unit or in TotalMix.
+▶ Dim. Amount of attenuation for the Main Out in dB.
+▶ External Input. Selects the stereo input that replaces the mix signal on the Main Out when activated. The volume of the stereo signal is adjusted by the slider Gain.
+
+PFL Mode
+▶ Live Mode, PFL replaces Solo. PFL
+means Pre Fader Listening. This feature is very useful when operating TotalMix in a live environment, as it allows to quickly listen/mon- itor any of the inputs by hitting the Solo button. The monitoring happens on the output set for the Cue signal via the Assign dialog.
+▶ Exclusive Solo/PFL Mode. Only a single Solo or PFL can be active at a time. Activating a different one automatically deactivates the previous one.
+▶ 2-Row Mode with only Input in first row. The Software Playback channels are shifted to the lower row, beside the Hardware Outputs.
+
+25.8 设置
+可以通过选项菜单或直接按 F3 打开“设置”对话框。
+
+25.8.1 混音器页面
+在混音器页面上，设置了一些混音器操作的典型设置，例如对讲源、对讲激活时的衰减量、存储的主音量或用于外部输入功能的输入。
+
+对讲
+▶ 输入。选择对讲信号的输入通道（控制室中的麦克风）。默认：无。
+▶ 衰减。路由到耳机的信号衰减量（以 dB 为单位）。
+
+监听
+▶ 输入。选择监听信号的输入通道（录音室中的麦克风）。默认：无。
+▶ 衰减。路由到主输出的信号衰减量（以 dB 为单位）。
+
+主输出
+▶ 调用。用户定义的收听音量，通过设备上或 TotalMix 中的调用按钮激活。
+▶ 衰减。主输出的衰减量（以 dB 为单位）。
+▶ 外部输入。激活后，选择立体声输入以替换主输出上的混音信号。立体声信号的音量由滑块增益调整。
+
+PFL 模式
+▶ 现场模式，PFL 取代 Solo。PFL
+表示推子前监听。此功能在现场环境中操作 TotalMix 时非常有用，因为它允许通过点击 Solo 按钮快速收听/监控任何输入。监控通过分配对话框在为提示信号设置的输出上进行。
+▶ 独占 Solo/PFL 模式。一次只能激活一个 Solo 或 PFL。激活另一个会自动停用前一个。
+▶ 2 行模式，第一行只有输入。软件播放通道移至下行，位于硬件输出旁边。
+
+25.8.2 MIDI Page
+The MIDI page has four independent settings for up to four MIDI remote controls, using CC commands or the Mackie Control protocol.
+
+Index
+Select one of four settings pages and thus remote controls. Settings are remembered automati- cally. To activate or deactivate any of the four remote controls check or uncheck ‘In Use’.
+
+MIDI Remote Control
+▶ MIDI In. Input where TotalMix receives MIDI Remote data.
+▶ MIDI Out. Output where TotalMix sends MIDI Remote data.
+▶ Disable MIDI in background. Deactivates MIDI Remote Control as soon as another appli- cation is in the focus, or when TotalMix has been minimized.
+
+Mackie Control Options
+▶ Enable Protocol Support. When disa- bled TM FX will only react on the Control Change commands of chapter 28.5.
+▶ Extender to. Sets the current remote to be an extender to the main remote. Both remotes will be shown as one block and navigate simultaneously.
+▶ Map Stereo to 2 Mono Channels. One fader controls one (mono) channel.
+Should be disabled when stereo chan- nels are used.
+▶ Submix Selection in Input/Playback Row. Enables a selection of the submix when in first row, without having to change to the third row first. However, when using both mono and stereo chan- nels first and third row usually do not match anymore, so the selection often becomes unclear this way.
+▶ Enable full LCD support. Activates full Mackie Control LCD support with eight channel names and eight volume/pan values.
+▶ Send User defined Names. Channel names defined by the user will be sent to the remote device via MIDI and – if sup- ported – shown in its display.
+▶ Send Level Messages. Activates the transmission of the level meter data.
+
+Peak Hold activates the peak hold func- tion as set up for the TotalMix level me- ters in the preferences.
+
+Note: When MIDI Out is set to NONE then TotalMix FX can still be controlled by Mackie ControlMIDI commands, but the 8-channel block is not marked as remote target.
+
+25.8.2 MIDI 页面
+MIDI 页面有四个独立设置，最多可容纳四个 MIDI 遥控器，使用 CC 命令或 Mackie 控制协议。
+
+索引
+选择四个设置页面之一，从而选择遥控器。设置会自动记住。要激活或停用四个遥控器中的任何一个，请选中或取消选中“正在使用”。
+
+MIDI 遥控器
+▶ MIDI 输入。TotalMix 接收 MIDI 遥控器数据的输入。
+▶ MIDI 输出。TotalMix 发送 MIDI 遥控器数据的输出。
+▶ 在后台禁用 MIDI。一旦另一个应用程序处于焦点中，或 TotalMix 最小化时，立即停用 MIDI 遥控器。
+
+Mackie 控制选项
+▶ 启用协议支持。禁用时，TM FX 将仅对第 28.5 章的控制更改命令作出反应。
+▶ 扩展器到。将当前遥控器设置为主遥控器的扩展器。两个遥控器将显示为一个块并同时导航。
+▶ 将立体声映射到 2 个单声道。一个推子控制一个（单声道）通道。
+使用立体声通道时应禁用。
+▶ 输入/播放行中的子混音选择。在第一行时启用子混音的选择，而不必先更改为第三行。但是，当同时使用单声道和立体声通道时，第一行和第三行通常不再匹配，因此选择通常会变得不清楚。
+▶ 启用完整的 LCD 支持。激活完整的 Mackie Control LCD 支持，具有八个通道名称和八个音量/声像值。
+▶ 发送用户定义的名称。用户定义的通道名称将通过 MIDI 发送到远程设备，并且（如果支持）显示在其显示屏上。
+▶ 发送电平消息。激活电平表数据的传输。
+
+峰值保持可激活峰值保持功能，如首选项中为 TotalMix 电平表设置的一样。
+
+注意：当 MIDI 输出设置为 NONE 时，TotalMix FX 仍可由 Mackie ControlMIDI 命令控制，但 8 通道块不会标记为远程目标。
+
+25.8.3 OSC Page
+The OSC page has four independent settings for up to four MIDI remote controls via Open Sound
+Control (OSC). This is a network based remote protocol that can be used for example by Apple’s
+iPad with the app TouchOSC or Lemur to wirelessly remote control TotalMix FX running on a Mac
+or Windows computer.
+
+Index
+Select one of four settings pages and thus remote controls. Settings are remembered automati-
+cally. To activate or deactivate any of the four remote controls check or uncheck ‘In Use’.
+
+TotalMix FX OSC Service
+▶ IP. Shows the network address of the computer running TotalMix FX (local host). This address must be entered on the remote side.
+
+▶ Host Name. Local computer name.
+
+▶ Port incoming. Must match the remote entry ‘Port outgoing’. Typical values are 7001 or 8000.
+
+▶ Port outgoing. Must match the remote entry ‘Port incoming’. Typical values are 9001 or 9000.
+
+25.8.3 OSC 页面
+OSC 页面有四个独立设置，可通过 Open Sound Control (OSC) 最多控制四个 MIDI 远程控制。这是一种基于网络的远程协议，例如，Apple 的 iPad 可以使用 TouchOSC 或 Lemur 应用程序来无线远程控制在 Mac 或 Windows 计算机上运行的 TotalMix FX。
+
+索引
+选择四个设置页面之一，从而选择远程控制。设置会自动记住。要激活或停用四个远程控制中的任何一个，请选中或取消选中“正在使用”。
+
+TotalMix FX OSC 服务
+▶ IP。显示运行 TotalMix FX（本地主机）的计算机的网络地址。必须在远程端输入此地址。
+
+▶ 主机名。本地计算机名称。
+
+▶ 端口传入。必须与远程条目“端口传出”匹配。典型值为 7001 或 8000。
+
+▶ 端口传出。必须与远程条目“端口传入”匹配。典型值为 9001 或 9000。
+
+Remote Control
+▶ IP or Host name. Enter the IP or host name of the remote control. Please note that the IP number usually works better than the host name.
+
+Options ▶ Send Peak Level Data. Activates the transmission of the peak level meter data. Peak Hold activates the peak hold function as set up for the TotalMix level meters in the preferences.
+
+▶ Lock Remote to submix. When acti- vated the current remote control can only modify the submix selected from the drop-down list. This prevents havoc in multi-remote monitoring environments.
+
+▶ Number of faders per bank. Available choices are 8 (default), 12, 16, 24, 32 and 48. Note that when working in underperforming networks, especially wireless, a higher number of fad- ers might not work as smooth as expected.
+
+远程控制
+▶ IP 或主机名。输入远程控制的 IP 或主机名。请注意，IP 号码通常比主机名更有效。
+
+选项 ▶ 发送峰值电平数据。激活峰值电平表数据的传输。峰值保持激活峰值保持功能，如首选项中为 TotalMix 电平表设置的那样。
+
+▶ 将远程锁定到子混音。激活后，当前远程控制只能修改从下拉列表中选择的子混音。这可以防止多远程监控环境中出现混乱。
+
+▶ 每个组的推子数量。可用选项为 8（默认）、12、16、24、32 和 48。请注意，在性能不佳的网络（尤其是无线网络）中工作时，较多的推子可能无法像预期的那样顺畅地工作。
+
+25.8.4 Aux Devices
+The RME OctaMic XTC is a highly flexible hi-quality 8-channel microphone, line and instrument preamp with integrated AD-conversion to ADAT, AES/EBU and MADI, plus 4 channels of DA- conversion for monitoring. It can be used as universal front-end for the Fireface UCX II and other interfaces.
+
+To simplify operation the most important pa- rameters of the XTC (gain, 48V, phase, mute, AutoSet) can be controlled directly from the TotalMix FX input channels. This special remote control uses MIDI of any for- mat (DIN, USB, MIDI over MADI).
+
+Device Settings
+▶ Digital Channels. Select where the OctaMic XTC sends its 8 analog channels to (UCX II: ADAT channels 1-8)
+▶ Device. At this time only the OctaMic XTC is supported and can be chosen.
+
+MIDI Settings
+▶ MIDI In. Set the currently used MIDI con- nection to the OctaMic XTC.
+
+▶ MIDI Out. Set the currently used MIDI connection to the OctaMic XTC.
+
+▶ Device ID. Default 0. This setting relates to the current choice in Digital Channels.
+
+25.8.4 辅助设备
+RME OctaMic XTC 是一款高度灵活的高品质 8 通道麦克风、线路和乐器前置放大器，集成 AD 转换为 ADAT、AES/EBU 和 MADI，外加 4 个用于监控的 DA 转换通道。它可以用作 Fireface UCX II 和其他接口的通用前端。
+
+为了简化操作，XTC 的最重要参数（增益、48V、相位、静音、自动设置）可以直接从 TotalMix FX 输入通道控制。这个特殊的遥控器可以使用任何格式的 MIDI（DIN、USB、MIDI over MADI）。
+
+设备设置
+▶ 数字通道。选择 OctaMic XTC 将其 8 个模拟通道发送到的位置（UCX II：ADAT 通道 1-8）
+▶ 设备。目前仅支持 OctaMic XTC 并且可选择。
+
+MIDI 设置
+▶ MIDI 输入。将当前使用的 MIDI 连接设置为 OctaMic XTC。
+▶ MIDI 输出。将当前使用的 MIDI 连接设置为 OctaMic XTC。
+▶ 设备 ID。默认为 0。此设置与数字通道中的当前选择相关。
+
+When using more than one OctaMic XTC these must have different Device IDs (configuration is done at the OctaMic XTC). Aux Devices supports to set different Device IDs to the 8-channel blocks as well. Storing the setting is done automatically when selecting a Device ID. To check the current assignments toggle the two 8- channel blocks.
+
+The screenshot to the right shows what happens as soon as the above settings have been confirmed with OK. The MADI channels show new elements for phantom power, Inst/PAD, Gain and AutoSet. Control operates bidirectional, so changing the gain at the unit will be mirrored in the TotalMix channels. Chang- ing the gain in TotalMix FX will set the gain in the unit, which is also shown on the unit’s display.
+
+For the remote to work the XTC’s currently used MIDI I/Os have to be set to Control. More details are found in the manual of the OctaMic XTC.
+
+使用多个 OctaMic XTC 时，这些设备必须具有不同的设备 ID（配置在 OctaMic XTC 上完成）。辅助设备也支持为 8 通道块设置不同的设备 ID。选择设备 ID 时会自动存储设置。要检查当前分配，请切换两个 8 通道块。
+
+右侧的屏幕截图显示了使用 OK 确认上述设置后立即发生的情况。MADI 通道显示幻象电源、Inst/PAD、增益和自动设置的新元素。控制是双向的，因此更改设备的增益将反映在 TotalMix 通道中。更改 TotalMix FX 中的增益将设置设备的增益，这也会显示在设备的显示屏上。
+
+要使遥控器工作，XTC 当前使用的 MIDI I/O 必须设置为控制。更多详细信息请参阅 OctaMic XTC 手册。
+
+25.9 Hotkeys and Usage
+TotalMix FX has many hotkeys and mouse/hotkey combinations to speed up and simplify the usage. The below description refers to Windows. On Mac substitute Ctrl in the below list with the command key ( ).
+
+The Shift key enables a fine-tuning of the gain with all faders and in the Matrix. On all knobs it will speed up the setting.
+
+A click on a fader with held down Shift key adds the fader to the temporary fader group.
+
+A click in the fader path with held down Ctrl key will let the fader jump to 0 dB, at the next click to −∞. Same function: Double click of the mouse.
+
+Clicking on one of the Panorama or Gain knobs with held down Ctrl key lets the knob jump to center position. Same function: Double click of the mouse.
+
+Clicking on the Panorama knob with held down Shift key lets the knob jump to fully left, with Shift-Ctrl to fully right.
+
+Clicking on one of the channel settings buttons (slim/normal, Settings, EQ, Dynamics) with held down Ctrl key lets all channels to the right change their state. For example all panels can be opened/closed simultaneously.
+
+A double click of the mouse on a knob or its numerical field opens the according Input Value dialog. The desired value can then be set by keyboard.
+
+Dragging the mouse from a parameter field increases (move up) or decreases (move down) the value in the field.
+
+Ctrl-N opens the dialog Function Select to open a new TotalMix window.
+
+Ctrl-W opens the dialog File Open of the operating system to load a TotalMix Workspace file.
+
+The key W starts the dialog Workspace Quick Select for a direct selection or storage of up to 30 Workspaces.
+
+The key M switches the active window to Mixer view. The key X switches the active window to Matrix view. Ctrl-M opens a new Mixer window, Ctrl-X opens a new Matrix window. Another Ctrl- M or Ctrl-X closes the new window again.
+
+F1 opens the online help. The Level Meter setup dialog can be opened with F2 (same as in DIGICheck). The dialog Preferences is opened with F3.
+
+Alt-F4 closes the current window.
+
+Alt and number keys 1 to 8 (not on the numeric keypad!) will load the corresponding Workspace from the Workspace Quick Select feature (hotkey W).
+
+25.9 热键和用法
+TotalMix FX 有许多热键和鼠标/热键组合，可加快和简化使用。以下描述适用于 Windows。在 Mac 上，用命令键 ( ) 替代下面列表中的 Ctrl。
+
+Shift 键可对所有推子和矩阵中的增益进行微调。在所有旋钮上，它将加快设置速度。
+
+按住 Shift 键单击推子，可将推子添加到临时推子组。
+
+按住 Ctrl 键单击推子路径，将使推子跳转到 0 dB，下次单击时跳转到 −∞。相同功能：双击鼠标。
+
+按住 Ctrl 键单击全景或增益旋钮之一，可使旋钮跳转到中心位置。相同功能：双击鼠标。
+
+按住 Shift 键单击全景旋钮，可使旋钮跳转到最左，按住 Shift-Ctrl 键可使旋钮跳转到最右。
+
+按住 Ctrl 键单击其中一个通道设置按钮（slim/normal、Settings、EQ、Dynamics）可更改右侧所有通道的状态。例如，可以同时打开/关闭所有面板。
+
+双击旋钮或其数字字段可打开相应的输入值对话框。然后可以通过键盘设置所需的值。
+
+从参数字段拖动鼠标可增加（上移）或减少（下移）字段中的值。
+
+Ctrl-N 打开“功能选择”对话框以打开新的 TotalMix 窗口。
+
+Ctrl-W 打开操作系统的“文件打开”对话框以加载 TotalMix 工作区文件。
+
+键 W 启动“工作区快速选择”对话框，可直接选择或存储最多 30 个工作区。
+
+键 M 将活动窗口切换到混音器视图。键 X 将活动窗口切换到矩阵视图。Ctrl-M 打开新的混音器窗口，Ctrl-X 打开新的矩阵窗口。再次按 Ctrl-M 或 Ctrl-X 可再次关闭新窗口。
+
+F1 打开在线帮助。可以使用 F2 打开“电平表设置”对话框（与 DIGICheck 中相同）。使用 F3 打开“首选项”对话框。
+
+Alt-F4 关闭当前窗口。
+
+Alt 和数字键 1 至 8（不是数字键盘上的！）将从“工作区快速选择”功能（热键 W）加载相应的工作区。
+
+25.10 Menu Options
+Deactivate Screensaver: When active (checked) any activated Windows screensaver will be disabled temporarily.
+
+Always on Top: When active (checked) the TotalMix window will always be on top of the Win- dows desktop. Note: This function may result in problems with windows containing help text, as the TotalMix window will even be on top of those windows, so the help text isn't readable.
+
+Enable MIDI /OSC Control: Activates external MIDI control of the TotalMix mixer. In Mackie Protocol mode the channels which are currently under MIDI control are indicated by a colour change of the name field.
+
+Submix linked to MIDI / OSC controller (1-4). The 8-channel group follows the currently se- lected submix, means Hardware Output, when a different submix is chosen on the remote as well as when doing this in TotalMix. When using multiple windows it can be useful to deactivate this feature for specific windows. The view will not change then.
+
+Preferences: Opens a dialog box to configure several functions of the level meters and the mixer.
+
+See chapter 25.7.
+
+Settings. Opens a dialog box to configure several functions like Talkback, Listenback, Main Out and the MIDI Remote Control. See chapter 25.8.
+
+Channel Layout. Hide channels visually and from remote. See chapter 25.5.3.
+
+ARC & Key Commands. Opens a window to configure the programmable buttons of the Stand- ard, Advanced and Advanced Remote USB, and of the computer’s keyboard keys F4 to F8.
+
+Reset Mix. Offers several options to reset the mixer state:
+▶ Straight playback with all to Main Out. All Playback channels are routed 1:1 to the Hard- ware Outputs. Simultaneously all playbacks are mixed down to the Main Out. The faders in the third row are not changed.
+▶ Straight Playback. All Playback channels are routed 1:1 to the Hardware outputs. The faders in the third row are not changed.
+▶ Clear all submixes. Deletes all submixes.
+▶ Clear channel effects. Switches off all EQs, Low Cuts, Reverb, Echo, Dynamics and Stereo Width and sets their knobs to default position.
+▶ Clear channel effects w/o Room EQ. Dos not reset Room EQ.
+▶ Set output volumes. All faders of the third row set to 0 dB, Main and Speaker B to -10 dB.
+▶ Reset channel names. Removes all names assigned by the user.
+▶ Set all channels mono. Reconfigures all TotalMix FX channels to mono mode.
+▶ Set all channels stereo. Reconfigures all TotalMix FX channels to stereo mode.
+▶ Set inputs mono / outputs stereo (ADM). Preferred setup for best ASIO Direct Monitoring compatibility. In most cases mono hardware outputs will break ADM. Mono inputs are in most cases compatible. If not wrong panning might occur.
+▶ Total Reset. Playback routing 1:1 with mixdown to Main Out. Switches off all other functions.
+▶ Total Reset w/o Room EQ. Does not reset Room EQ.
+
+25.10 菜单选项
+停用屏幕保护程序：激活（选中）时，任何激活的 Windows 屏幕保护程序都将暂时禁用。
+
+始终在最前面：激活（选中）时，TotalMix 窗口将始终位于 Windows 桌面的顶部。注意：此功能可能会导致包含帮助文本的窗口出现问题，因为 TotalMix 窗口甚至会位于这些窗口的顶部，因此帮助文本不可读。
+
+启用 MIDI /OSC 控制：激活 TotalMix 混音器的外部 MIDI 控制。在 Mackie 协议模式下，当前受 MIDI 控制的通道通过名称字段的颜色变化来指示。
+
+子混音链接到 MIDI / OSC 控制器（1-4）。当在遥控器上选择不同的子混音时以及在 TotalMix 中执行此操作时，8 通道组将遵循当前选定的子混音，即硬件输出。使用多个窗口时，停用特定窗口的此功能会很有用。然后视图不会改变。
+
+首选项：打开一个对话框，配置电平表和混频器的多种功能。
+
+参见第 25.7 章。
+
+设置。打开一个对话框，配置 Talkback、Listenback、Main Out 和 MIDI 远程控制等多种功能。参见第 25.8 章。
+
+通道布局。从视觉上和远程隐藏通道。参见第 25.5.3 章。
+
+ARC 和按键命令。打开一个窗口，配置标准、高级和高级远程 USB 的可编程按钮，以及计算机键盘 F4 至 F8 键。
+
+重置混音。提供多种选项来重置混频器状态：
+▶ 直接播放，全部输出到 Main Out。所有播放通道都以 1:1 的比例路由到硬件输出。同时，所有播放都混合到 Main Out。第三行的推子不变。
+▶ 直接播放。所有播放通道都以 1:1 的比例路由到硬件输出。第三行的推子不变。
+▶ 清除所有子混音。删除所有子混音。
+▶ 清除通道效果。关闭所有均衡器、低切、混响、回声、动态和立体声宽度，并将其旋钮设置为默认位置。
+▶ 清除不带房间均衡器的通道效果。不重置房间均衡器。
+▶ 设置输出音量。第三行的所有推子设置为 0 dB，主推子和扬声器 B 设置为 -10 dB。
+▶ 重置通道名称。删除用户分配的所有名称。
+▶ 将所有通道设置为单声道。将所有 TotalMix FX 通道重新配置为单声道模式。
+▶ 将所有通道设置为立体声。将所有 TotalMix FX 通道重新配置为立体声模式。
+▶ 设置输入单声道/输出立体声 (ADM)。最佳 ASIO 直接监控兼容性的首选设置。在大多数情况下，单声道硬件输出将破坏 ADM。单声道输入在大多数情况下是兼容的。如果没有错误，可能会发生平移。
+▶ 完全重置。播放路由 1:1，混音至主输出。关闭所有其他功能。
+▶ 完全重置，不带房间均衡器。不重置房间均衡器。
+
+Operational Mode. Defines TotalMix FX basic operational mode. Choices are Full Mode (default, mixer active, all routing options available), and Digital Audio Workstation Mode (straight playback routing, no input mix). See chapter 29 for details.
+
+Offline Device Setup. Makes all devices supported by TotalMix FX available offline. This 'demo' mode can load and save workspaces, and thus also allows offline editing and visual inspection of workspaces and snapshots.
+
+Setup: Select the desired devices and add them to the list of Configured Devices by clicking Add.
+
+Close the dialog by clicking OK.
+
+Mixer and Matrix can now be opened even without a connected device. The device selection is done on the top right via the device selection field in the Control Strip.
+
+Network Remote Settings. Settings to remote control TotalMix FX by TotalMix Remote via net- work. See chapter 30.
+
+Store Current state into device. The unit can store up to 6 setups (the current state) in its own memory. This function has been developed especially for the stand-alone mode operation, where there are no playback channels. Therefore using it under Windows, Mac or iOS will result in in- complete setups.
+
+25.11 Menu Window
+Zoom Options 100%, 135%, 200%, 270%. Depending on the size of the monitor and the current resolution TotalMix FX might be much too small and the controls too tiny to easily operate them.
+
+Together with the 2 Row mode these options give a lot of different window sizes that suit all monitors and resolutions currently existing.
+
+Hide Control Strip. Shifts the Control Strip out of the visible area to gain more space for other elements.
+
+操作模式。定义 TotalMix FX 的基本操作模式。选项包括完整模式（默认，混音器处于活动状态，所有路由选项可用）和数字音频工作站模式（直接播放路由，无输入混音）。详情请参阅第 29 章。
+
+离线设备设置。使 TotalMix FX 支持的所有设备都可以离线使用。此“演示”模式可以加载和保存工作区，因此还允许离线编辑和目视检查工作区和快照。
+
+设置：选择所需的设备，然后单击“添加”将其添加到“已配置设备”列表中。
+
+单击“确定”关闭对话框。
+
+即使没有连接的设备，也可以打开混音器和矩阵。设备选择是在右上角通过控制条中的设备选择字段完成的。
+
+网络远程设置。通过网络使用 TotalMix Remote 远程控制 TotalMix FX 的设置。请参阅第 30 章。
+
+将当前状态存储到设备中。该设备可以在其自己的内存中存储最多 6 个设置（当前状态）。此功能专为独立模式操作而开发，其中没有播放通道。因此，在 Windows、Mac 或 iOS 下使用它会导致设置不完整。
+
+25.11 菜单窗口
+缩放选项 100%、135%、200%、270%。根据显示器的大小和当前分辨率，TotalMix FX 可能太小，控件太小而无法轻松操作。
+
+与 2 行模式结合使用，这些选项提供了许多不同的窗口大小，适合当前存在的所有显示器和分辨率。
+
+隐藏控制条。将控制条移出可见区域，为其他元素获得更多空间。
+
+26. The Matrix
+26.1 Overview
+
+The mixer window of TotalMix looks and operates similar to mixing desks, as it is based on a conventional stereo design. The matrix display presents a different method of assigning and rout- ing channels, based on a single channel or monaural design. The matrix view of the Fireface UCX II has the look and works like a conventional patchbay, adding functionality way beyond compa- rable hardware and software solutions. While most patchbays will allow you to connect inputs to outputs with just the original level (1:1, or 0 dB, as known from mechanical patchbays), TotalMix allows you to use a freely definable gain value per crosspoint.
+
+Matrix and TotalMix are different ways of displaying the same processes. Because of this both views are always fully synchronized. Each change in one view is immediately reflected in the other view as well.
+
+26.2 Elements of the Matrix View
+The visual design of the Matrix is determined by the architecture of the Fireface UCX II system:
+▶ Horizontal labels. All hardware outputs
+▶ Vertical labels. All hardware inputs. Below are all playback channels.
+▶ Green 0.0 dB field. Standard 1:1 routing
+▶ Dark grey field with number. Shows the current gain value as dB
+▶ Blue field. This routing is muted
+▶ Red field. Phase 180° (inverted)
+▶ Dark grey field. No routing.
+
+To maintain overview when the window size has been reduced, the labels are floating. They won't leave the visible area when scrolling. A right mouse click on the labels brings up the context menu with the exact same options as in the mixer view: Copy / Mirror / Paste /Clear input channels and submixes.
+
+26. 矩阵
+26.1 概述
+
+TotalMix 的混音器窗口外观和操作方式与混音台类似，因为它基于传统的立体声设计。矩阵显示基于单通道或单声道设计，提供了一种不同的分配和路由通道的方法。Fireface UCX II 的矩阵视图外观和工作方式与传统配线架类似，但功能远远超出了可比的硬件和软件解决方案。虽然大多数配线架允许您仅使用原始电平（1:1 或 0 dB，如机械配线架所示）将输入连接到输出，但 TotalMix 允许您使用每个交叉点的可自由定义的增益值。
+
+矩阵和 TotalMix 是显示相同过程的不同方式。因此，两个视图始终完全同步。一个视图中的每个更改也会立即反映在另一个视图中。
+
+26.2 矩阵视图的元素
+矩阵的视觉设计由 Fireface UCX II 系统的架构决定：
+▶ 水平标签。所有硬件输出
+▶ 垂直标签。所有硬件输入。下面是所有播放通道。
+▶ 绿色 0.0 dB 字段。标准 1:1 路由
+▶ 带数字的深灰色字段。以 dB 为单位显示当前增益值
+▶ 蓝色字段。此路由已静音
+▶ 红色字段。相位 180°（反转）
+▶ 深灰色字段。无路由。
+
+为了在窗口大小缩小时保持概览，标签是浮动的。滚动时它们不会离开可见区域。右键单击标签会弹出上下文菜单，其中包含与混音器视图中完全相同的选项：复制/镜像/粘贴/清除输入通道和子混音。
+
+26.3 Operation
+Using the Matrix is a breeze. It is very easy to indentify the current crosspoint, because the outer labels light up in orange according to the mouse position.
+▶ If input 1 is to be routed to output 1, use the mouse and click one time on crosspoint In 1 / AN1 with held down Ctrl key. Two green 0.0 dB field pop in, another click removes them.
+▶ To change the gain (equals the use of a different fader position, see simultaneous display of the mixer view), drag the mouse up or down, starting from the gain field. The value within the field changes accordingly. The corresponding fader in the mixer view is moving simultane- ously, in case the currently modified routing is visible.
+▶ On the right side is the Control Strip from the mixer window, adapted to the Matrix. The button for the temporary fader group is missing as well as all View options, as they don’t make sense here. Instead the button Mono Mode lets you decide whether all the actions performed in the Matrix are valid for two channels or just one.
+
+26.3 操作
+使用矩阵非常简单。识别当前交叉点非常容易，因为外部标签会根据鼠标位置亮起橙色。
+▶ 如果要将输入 1 路由到输出 1，请使用鼠标并按住 Ctrl 键单击交叉点 In 1 / AN1。两个绿色 0.0 dB 字段弹出，再次单击可将其删除。
+▶ 要更改增益（相当于使用不同的推子位置，请参见混频器视图的同时显示），请从增益字段开始向上或向下拖动鼠标。字段内的值会相应更改。如果当前修改的路由可见，混频器视图中的相应推子会同时移动。
+▶ 右侧是混频器窗口的控制条，适用于矩阵。临时推子组的按钮以及所有视图选项都缺失，因为它们在这里没有意义。相反，单声道模式按钮可以让您决定在矩阵中执行的所有操作是否对两个通道有效还是仅对一个通道有效。
+
+The Matrix not always replaces the mixer view, but it significantly enhances the routing capabilities and - more important - is a brilliant way to get a fast overview of all active routings. It shows you in a glance what's going on. And since the Matrix operates monaural, it is very easy to set up specific routings with specific gains.
+Further notes on operation
+▶ A double click on a crosspoint toggles between 0.0 dB and mute.
+▶ Holding down Ctrl while clicking on one of the surrounding labels, or a double click on these activates/deactivates mute for all horizontal or vertical crosspoints.
+▶ Holding down Shift while clicking on one of the surrounding labels activates/deactivates Phase for all horizontal or vertical crosspoints.
+
+Matrix 并非总是取代混频器视图，但它显著增强了路由功能，更重要的是，它是一种快速概览所有活动路由的绝妙方式。它一目了然地向您展示正在发生的事情。由于 Matrix 以单声道运行，因此可以非常轻松地设置具有特定增益的特定路由。
+有关操作的更多说明
+▶ 双击交叉点可在 0.0 dB 和静音之间切换。
+▶ 按住 Ctrl 并单击其中一个周围标签，或双击这些标签可激活/停用所有水平或垂直交叉点的静音。
+▶ 按住 Shift 并单击其中一个周围标签可激活/停用所有水平或垂直交叉点的相位。
+
+27. Tips and Tricks
+27.1 ASIO Direct Monitoring (Windows)
+Programs that support ADM (ASIO Direct Monitoring - Samplitude, Sequoia, Cubase, Nuendo etc.) send control commands to TotalMix. This is directly shown by TotalMix. When a fader is moved in the ASIO host the corresponding fader in TotalMix will move too. TotalMix reflects all ADM gain and pan changes in real-time.
+But: the faders only move when the currently activated routing (the selected submix) corresponds to the routing in the ASIO host. The Matrix on the other hand will show any change, as it shows all possible routings in one view.
+
+27.2 Copy a Submix
+TotalMix allows you to copy complete submixes to other outputs. In case a complex submix is need with only a few changes on a different output, the whole submix can be copied to that output.
+Right click with the mouse on the original submix output, means Hardware Output. In the context menu select Copy Submix. Then right click on the new submix output, choose Paste Submix in the context menu. Now fine tune the submix.
+
+27.3 Doubling the Output Signal (Mirror)
+If a mix should be sent out via two (or more) different hardware outputs simply mirror that mix to any number of other outputs. A right click on the original output brings up the option to Copy/Mirror <name>. Another right click on the new output, then selecting Mirror of Output <name> will paste the whole submix and then synchronize it automatically to any future changes. The outputs now always send out the same signals, but their main volume (fader) and the EQ and Dynamics set- tings stay fully independent.
+
+27.4 Delete a Submix
+The easiest and quickest way to delete complex routings is by selection of the according output channel in the mixer view by a right mouse click, and selection of the menu entry Clear Submix.
+As TotalMix FX includes an unlimited undo the delete process can be undone without any problem.
+
+27. 提示和技巧
+27.1 ASIO 直接监控（Windows）
+支持 ADM（ASIO 直接监控 - Samplitude、Sequoia、Cubase、Nuendo 等）的程序会向 TotalMix 发送控制命令。TotalMix 会直接显示这些命令。当在 ASIO 主机中移动推子时，TotalMix 中相应的推子也会移动。TotalMix 会实时反映所有 ADM 增益和平移变化。
+但是：只有当前激活的路由（选定的子混音）与 ASIO 主机中的路由相对应时，推子才会移动。另一方面，Matrix 会显示任何变化，因为它在一个视图中显示所有可能的路由。
+27.2 复制子混音
+TotalMix 允许您将完整的子混音复制到其他输出。如果需要一个复杂的子混音，而其他输出上只需进行少量更改，则可以将整个子混音复制到该输出。
+用鼠标右键单击原始子混音输出，即硬件输出。在上下文菜单中选择复制子混音。然后右键单击新的子混音输出，在上下文菜单中选择粘贴子混音。现在微调子混音。
+
+27.3 加倍输出信号（镜像）
+如果混音应通过两个（或更多）不同的硬件输出发送，只需将该混音镜像到任意数量的其他输出。右键单击原始输出，将显示复制/镜像 <name> 选项。再次右键单击新输出，然后选择镜像输出 <name> 将粘贴整个子混音，然后将其自动同步到任何未来的更改。输出现在总是发出相同的信号，但它们的主音量（推子）和 EQ 和动态设置保持完全独立。
+
+27.4 删除子混音
+删除复杂路由的最简单和最快捷的方法是右键单击混音器视图中的相应输出通道，然后选择菜单项清除子混音。
+由于 TotalMix FX 包含无限撤消，因此可以毫无问题地撤消删除过程。
+
+27.5 Copy and Paste everywhere
+The above three tips use functions found in the right click context menu available on all channels of the mixer view. These menus are also available in the Matrix, but only directly on the channel labels. They are self-explanatory and automatically adjust to where the click is performed. The input channels offer Clear, Copy input, Paste the input mix and Paste its FX. On a playback channel Copy, Paste and Clear the playback mix are available. On an output channel Copy and Mirror functionality for the current submix and copying of the FX settings is offered.
+These options are very advanced and mighty tools to quickly do the impossible. Still there is no need to fear breaking something, as a simple click (or several) on the Undo button will get you back to where you started!
+
+27.6 Recording a Submix - Loopback
+TotalMix includes an internal loopback function, from the Hardware Outputs to the recording soft- ware. Instead of the signal at the hardware input, the signal at the hardware output is sent to the record software. This way, submixes can be recorded without an external loopback cable. Also the playback from a software can be recorded by another software.
+The function is activated by the Loopback button in the Settings panel of the Hardware Outputs.
+In loopback mode, the signal at the hardware input of the corresponding channel is no longer sent to the recording software, but still passed through to TotalMix. Therefore TotalMix can be used to route this input signal to any hardware output. Using the subgroup recording, the input can still be recorded on a different channel.
+As each of the 10 stereo hardware outputs can be routed to the record software, and none of these hardware inputs get lost, TotalMix offers an overall flexibility and performance not rivalled by any other solution.
+The risk of feedbacks, a basic problem of loopback methods, is low, because the feedback can not happen within the mixer, only when the audio software is switched into monitoring mode.
+
+The block diagram shows how the software's input signal is played back, and fed back from the Hardware Output to the software input.
+
+The block diagram also shows why with activated Loopback all PEQs etc of the Hardware Output are now within the record path. With Loopback active PEQ and Dyn of the input is not in the record path, only in the monitoring path, even when the Option DSP – EQ+D for Record is activated.
+
+Recording a Software's playback
+In real world application, recording a software's output with another software will show the follow- ing problem: The record software tries to open the same playback channel as the playback soft- ware (already active), or the playback one has already opened the input channel which should be used by the record software.
+
+This problem can easily be solved. First make sure that all rules for proper multi-client operation are met (not using the same record/playback channels in both programs). Then route the playback signal via TotalMix to a hardware output in the range of the record software, and activate Loop- back for recording.
+
+Mixing several input signals into one record channel In some cases it is useful to record several sources into only one track. For example when using two microphones recording instruments and loudspeakers, TotalMix' Loopback mode saves an external mixing desk. Simply route/mix the input signals to the same output (third row), then re- define this output into a record channel via Loopback. This way any number of input channels from different sources can be recorded into one single track.
+
+27.5 随处复制和粘贴
+以上三个技巧使用混音器视图所有通道上可用的右键单击上下文菜单中的功能。这些菜单也可在矩阵中使用，但只能直接在通道标签上使用。它们是不言自明的，并会自动调整到执行单击的位置。输入通道提供清除、复制输入、粘贴输入混音和粘贴其 FX。在播放通道上，可以使用复制、粘贴和清除播放混音。在输出通道上，提供当前子混音的复制和镜像功能以及 FX 设置的复制。
+这些选项是非常先进和强大的工具，可以快速完成不可能的任务。但不必担心会破坏某些东西，因为只需单击（或多次）撤消按钮即可回到开始的地方！
+
+27.6 录制子混音 - 环回
+TotalMix 包含一个内部环回功能，从硬件输出到录制软件。硬件输出的信号被发送到录制软件，而不是硬件输入的信号。这样，无需外部环回电缆即可录制子混音。此外，一个软件的回放也可以由另一个软件录制。
+该功能由硬件输出的设置面板中的环回按钮激活。
+在环回模式下，相应通道的硬件输入处的信号不再发送到录音软件，但仍会传递到 TotalMix。因此，TotalMix 可用于将此输入信号路由到任何硬件输出。使用子组录音，输入仍可录制在不同的通道上。
+由于 10 个立体声硬件输出中的每一个都可以路由到录音软件，并且这些硬件输入都不会丢失，因此 TotalMix 提供了任何其他解决方案都无法比拟的整体灵活性和性能。
+反馈是环回方法的基本问题，风险很低，因为反馈不会发生在混音器内，只有当音频软件切换到监控模式时才会发生。
+
+框图显示了软件的输入信号如何播放，以及如何从硬件输出反馈到软件输入。
+
+框图还显示了为什么在激活 Loopback 后，硬件输出的所有 PEQ 等现在都在录音路径内。在激活 Loopback 后，输入的激活 PEQ 和 Dyn 不在录音路径中，仅在监控路径中，即使激活了用于录音的选项 DSP – EQ+D 也是如此。
+
+录制软件的播放
+
+在实际应用中，使用另一个软件录制软件的输出会出现以下问题：录音软件尝试打开与播放软件（已激活）相同的播放通道，或者播放软件已经打开了录音软件应使用的输入通道。
+
+这个问题很容易解决。首先确保满足正确的多客户端操作的所有规则（不在两个程序中使用相同的录音/播放通道）。然后通过 TotalMix 将播放信号路由到录音软件范围内的硬件输出，并激活 Loopback 进行录音。
+
+将多个输入信号混合到一个录音通道 在某些情况下，将多个源录制到一个音轨中很有用。例如，当使用两个麦克风录制乐器和扬声器时，TotalMix 的 Loopback 模式可节省外部混音台。只需将输入信号路由/混合到同一输出（第三行），然后通过 Loopback 将此输出重新定义为录制通道。这样，来自不同来源的任意数量的输入通道都可以录制到单个音轨中。
+
+27.7 MS Processing
+The mid/side principle is a special positioning technique for micro- phones, which results in a mid signal on one channel and a side signal on the other channel. This information can be transformed back into a stereo signal quite easily. The process sends the mon- aural mid channel to left and right, the side channel too, but phase inverted (180°) to the right channel. For a better understanding: the mid channel represents the function L+R, while the side channel represents L-R.
+
+During record the monitoring needs to be done in 'conventional' stereo. Therefore TotalMix also offers the functionality of a M/S-decoder. Activation is done in the Settings panel of the Hardware Input and Software Playback channels via the MS Proc button.
+
+The M/S-Processing automatically operates as M/S encoder or decoder, depending on the source signal format. When processing a usual stereo signal, all monaural information will be shifted into the left channel, all stereo information into the right channel. Thus the stereo signal is M/S en- coded. This yields some interesting insights into the mono/stereo contents of modern music pro- ductions. Additionally some very interesting methods of manipulating the stereo base and gener- ating stereo effects come up, as it is then very easy to process the side channel with Low Cut, Expander, Compressor or Delay.
+
+The most basic application is the manipulation of the stereo width: a change of the level of the side channel allows to manipulate the stereo width from mono to stereo up to extended.
+
+27.7 MS 处理
+中/侧原理是一种特殊的麦克风定位技术，可在一个通道上产生中信号，在另一个通道上产生侧信号。此信息可以很容易地转换回立体声信号。该过程将单声道中声道发送到左声道和右声道，侧声道也是如此，但相位反转（180°）到右声道。为了更好地理解：中声道代表功能 L+R，而侧声道代表 L-R。
+
+录制期间，需要以“传统”立体声进行监控。因此，TotalMix 还提供 M/S 解码器的功能。通过 MS Proc 按钮在“硬件输入”和“软件播放”通道的“设置”面板中完成激活。
+
+M/S 处理自动作为 M/S 编码器或解码器运行，具体取决于源信号格式。处理通常的立体声信号时，所有单声道信息将移至左声道，所有立体声信息将移至右声道。因此立体声信号是 M/S 编码的。这为现代音乐制作的单声道/立体声内容提供了一些有趣的见解。此外，还出现了一些非常有趣的方法来操纵立体声基座和产生立体声效果，因为这样就可以非常轻松地使用低切、扩展器、压缩器或延迟来处理侧声道。
+
+最基本的应用是操纵立体声宽度：改变侧声道的级别可以操纵立体声宽度从单声道到立体声再到扩展。
+
+27.8 Program start options (Windows only)
+Under Windows TotalMix FX supports command line options. Appending the file name of a work- space loads it. Example: TotalMixFX.exe path\startworkspace.tmws. For automated loading, the parameter /nc can be used to suppress the confirmation dialog of loading the workspace.
+
+
+28. MIDI Remote Control
+28.1 Overview
+TotalMix can be remote controlled via MIDI. It is compatible to the widely spread Mackie Control protocol, so TotalMix can be controlled with all hardware controllers supporting this standard.
+Examples are the Mackie Control, Tascam US-2400 or Behringer BCF 2000.
+Additionally, the stereo output faders (lowest row) which are set up as Main Out in the Control Room section can also be controlled by the standard Control Change Volume via MIDI channel
+1. With this, the main volume of the Fireface is controllable from nearly any MIDI equipped hard- ware device.
+MIDI Remote Control always operates in View Submix mode, even when the View Option Free is currently selected in TotalMix FX.
 
 
 
+Page86 
+
+
+********************************************************************
+Class Compliant Mode
+
+31. General
+The Fireface UCX II operates in two different modes: driver-based USB2 and Class Compliant.
+The latter describes a standard that is natively supported by operating systems like Windows, Mac OS X and Linux. No proprietary drivers are required, the device will be directly recognized when the CC firmware is loaded. The natively available features will be limited in comparison to those provided by the RME driver for the UCX II. For example there will be no hardware settings, no (Total) Mix and no settings for the effects. However, on the iPad (iOS) the UCX II can be fully controlled by the optional app TotalMix FX for iPad.
+
+The Class Compliant mode can be activated and deactivated directly at the unit, as long as it is not connected to a Mac or PC: SETUP/REV, Options, Hardware/Diagnosis, CC Mode On.
+
+Neither Windows nor Mac Class Compliant support is relevant, though, since there are dedicated and matured drivers for both OS X and Windows, which provide ALL the device's features at lowest latencies. The main reason for implementing Class Compliant mode was to allow connect- ing the UCX II to an Apple iPad ® !
+
+The UCX II provides the iPad with the professional analog I/O connections it lacks. Superb mi- crophone preamps with EQ, dynamics, even with the AutoSet feature, in addition to professional balanced line outputs, and hi-power headphone outputs which also excel with high impedance phones. Plus level and gain adjustments, AES and ADAT I/O, reverb, echo, zero latency moni- toring, digitally via USB, without any limitation in quality, at up to 96 kHz and 24 bit. And of course a Sysex-capable MIDI I/O.
+
+DURec, the direct USB recording on USB memory stick or portable external hard drive, is also
+available in Class Compliant mode. Especially in regard to recording on the iPad it is not only a world-wide unique and extraordinary feature, it also proves to be something you don’t want to miss in real-world usage.
+
+TotalMix FX for iPad also provides full support for the optional ARC USB, an Advanced Remote Control specifically for the UCX II, making operation and handling of the iPad DAW even more easy and comfortable.
+
+类兼容模式
+
+31. 概述
+Fireface UCX II 有两种不同的运行模式：基于驱动程序的 USB2 和类兼容。
+后者描述了 Windows、Mac OS X 和 Linux 等操作系统原生支持的标准。无需专有驱动程序，加载 CC 固件时将直接识别设备。与 UCX II 的 RME 驱动程序提供的功能相比，原生可用功能将受到限制。例如，没有硬件设置、没有（总）混音，也没有效果设置。但是，在 iPad (iOS) 上，UCX II 可以通过可选应用程序 TotalMix FX for iPad 完全控制。
+
+只要设备未连接到 Mac 或 PC，就可以直接在设备上激活和停用类兼容模式：SETUP/REV、选项、硬件/诊断、CC 模式开启。
+
+不过，Windows 和 Mac Class Compliant 支持都无关紧要，因为 OS X 和 Windows 都有专用且成熟的驱动程序，它们以最低的延迟提供设备的所有功能。实施 Class Compliant 模式的主要原因是允许将 UCX II 连接到 Apple iPad ®！
+
+UCX II 为 iPad 提供了它所缺乏的专业模拟 I/O 连接。出色的麦克风前置放大器具有 EQ、动态，甚至具有 AutoSet 功能，此外还有专业平衡线路输出和高功率耳机输出，这些输出在高阻抗耳机上也表现出色。此外还有电平和增益调整、AES 和 ADAT I/O、混响、回声、零延迟监控，通过 USB 以数字方式进行，没有任何质量限制，最高可达 96 kHz 和 24 位。当然还有支持 Sysex 的 MIDI I/O。
+
+DURec 是一种直接通过 USB 录制 USB 记忆棒或便携式外置硬盘的功能，
+
+在 Class Compliant 模式下也可用。特别是在 iPad 上录制时，它不仅是一项全球独一无二且非凡的功能，而且在实际使用中也证明您不想错过它。
+
+TotalMix FX for iPad 还为可选的 ARC USB（专为 UCX II 设计的高级遥控器）提供全面支持，使 iPad DAW 的操作和处理更加轻松舒适。
+
+32. System requirements
+▶ UCX II in Class Compliant mode
+▶ Any Apple iPad with at least iOS 6
+▶ iPhone with iOS 7 or up
+▶ Apple iPad Camera Connection Kit or Lightning to USB adapter
+▶ iPad Pro: no adapter, only a USB-B to USB-C cable
+
+32. 系统要求
+▶ UCX II 处于 Class Compliant 模式
+▶ 至少运行 iOS 6的任何 Apple iPad
+▶ iPhone 配备 iOS 7 或更高版本
+▶ Apple iPad 相机连接套件或 Lightning 转 USB 适配器
+▶ iPad Pro：无适配器，仅需一根 USB-B 转 USB-C 线缆
+
+33. Operation
+Activation of the Class Compliant mode Remove USB cable from the UCX II. Press SETUP/REV so that the page Options is shown in the display.
+
+Turn the encoder until Hardware/Diagnosis appears in the display. Pushing the encoder the knob symbol changes into a double arrow symbol. Now turn the encoder to move the cursor vertically through the menu page. Scroll down to the entry CC Mode. Press the encoder again to change back to the knob symbol, then turn the encoder to select On. The unit now reboots. After that the field USB in the level meter screen shows CC.
+
+Below CC Mode you’ll find the option CC Mix, which offers different modes and routings of the playback signals. See chapter 36.
+
+Connect the USB cable to the UCX II and the Lightning to USB adapter. Start the iPhone/iPad and plug-in the adapter. If everything works as expected, the unit will enter CC host mode, indi- cated by the yellow CC field. Audio playback will automatically be performed by the UCX II, using analog outputs 1/2 and the phones outputs 7/8 (with routing option 8 Ch. + Phones activated).
+
+33. 操作
+
+激活 Class Compliant 模式 从 UCX II 上拔下 USB 电缆。按 SETUP/REV 键，显示屏上显示“选项”页面。
+
+转动编码器，直到显示屏上出现“硬件/诊断”字样。按下编码器，旋钮符号将变为双箭头符号。现在转动编码器，使光标在菜单页面中垂直移动。向下滚动到条目“CC 模式”。再次按下编码器可切换回旋钮符号，然后转动编码器选择“开启”。设备现在重新启动。之后，电平表屏幕中的 USB 字段显示 CC。
+
+在“CC 模式”下，您将找到“CC Mix”选项，它提供播放信号的不同模式和路由。请参阅第 36 章。
+
+将 USB 电缆连接到 UCX II 和 Lightning 转 USB 适配器。启动 iPhone/iPad 并插入适配器。如果一切正常，设备将进入 CC 主机模式，由黄色 CC 字段指示。 UCX II 将自动执行音频播放，使用模拟输出 1/2 和电话输出 7/8（激活路由选项 8 Ch. + 电话）。
+
+33.1 Useful hints
+If the unit is not in CC mode, the iPhone/iPad will detect an in- compatible USB device, and display a message saying “Cannot Use Device – The connected USB device is not supported”.
+
+No sound: Incorrect output gain settings, see chapter 36. Note that the iPhone/iPad volume con- trol is inactive during USB operation.
+
+If the unit does not enter Host mode: Remove and reconnect the Connection Kit.
+
+Since 2016 Apple offers another version of the USB to Lightning Adapter, called Lightning to USB 3 Camera Adapter. It has an additional Lightning port for power supply that charges the iPh- one/iPad even when used with the UCX II.
+
+The iPad Pro with its USB-C socket operates as regular USB host. Therefore no adapter is needed, only a matching cable (USB-C to USB-B).
+
+33.1 实用提示
+如果设备未处于 CC 模式，iPhone/iPad 将检测到不兼容的 USB 设备，并显示一条消息，提示“无法使用设备 - 不支持所连接的 USB 设备”。
+
+无声音：输出增益设置不正确，请参阅第 36 章。请注意，在 USB 操作期间，iPhone/iPad 音量控制处于非活动状态。
+
+如果设备未进入主机模式：请移除并重新连接连接套件。
+
+自 2016 年起，Apple 提供了另一版 USB 转闪电适配器，称为闪电转 USB 3 相机适配器。它有一个额外的闪电端口用于供电，即使与 UCX II 一起使用，也可以为 iPhone/iPad 充电。
+
+带有 USB-C 插座的 iPad Pro 可作为普通 USB 主机运行。因此不需要适配器，只需要匹配的电缆（USB-C 转 USB-B）。
+
+33.2 Class Compliant Mode under Windows and Mac OS X
+The Class Compliant mode of the UCX II is not compatible to Windows. The UCX II will be de- tected, but automatic driver in- stallation will fail.
+
+Mac OS X can be used in Class Compliant mode, although with- out Settings dialog and TotalMix FX it makes not much sense to do so. At least one can use the Audio MIDI Setup to check the available CC modes.
+
+The Audio window in the Audio MIDI Setup lists four modes: 8, 14, 16 and 20 channels. The sample rate shown is the one set in the UCX II.
+
+With 8 and 14 channels chosen up to 192 kHz sample rate can be used. Under iOS 192 kHz is not possible, as there exists no way to select the second or further Alternate Setting on the record side. iOS and all apps always use the first setting, 20 channels, which limits the sample rate for record and playback to 96 kHz.
+
+33.2 Windows 和 Mac OS X 下的类兼容模式
+UCX II 的类兼容模式与 Windows 不兼容。UCX II 将被检测到，但自动驱动程序安装将失败。
+
+Mac OS X 可以在类兼容模式下使用，尽管没有设置对话框和 TotalMix FX，这样做没有多大意义。至少可以使用音频 MIDI 设置来检查可用的 CC 模式。
+
+音频 MIDI 设置中的音频窗口列出了四种模式：8、14、16 和 20 通道。显示的采样率是 UCX II 中设置的采样率。
+
+选择 8 和 14 通道时，最多可以使用 192 kHz 的采样率。在 iOS 下 192 kHz 是不可能的，因为没有办法在录制方面选择第二个或更多的备用设置。iOS 和所有应用程序始终使用第一个设置，即 20 个通道，这将录制和播放的采样率限制为 96 kHz。
+
+34. Supported Inputs and Outputs
+When connected to an iPhone/iPad, the analog mic/line input 1 works with mono apps, inputs 1 and 2 with stereo apps (both dual mono and stereo), and up to 8 inputs with 8-channel applica- tions like MultiTrack DAW and Music Studio. Garage Band supports all inputs, but only two at a time. Auria and Cubasis can record all 20 inputs simultaneously.
+
+Playback will use the rear-side analog outputs 1 and 2, or even more channels if the app supports such operation. The UCX II can optionally copy the playback channels 1/2 to outputs 7/8, SPDIF and ADAT 1/2 for easier monitoring (CC Mix: 8-Channel + Phones). The current routing can easily be checked and verified with the level meter display. All outputs can be processed independently (volume, EQ, dynamics, FX return).
+
+Configuring the UCX II is ideally done via the app TotalMix FX for iPad, otherwise by loading Setups. These are written into the unit while operated with PC/Mac via TotalMix FX, also storing control clock mode master or AutoSync and the current sample rate.
+
+Using RME’s iPad app the Mix modes are automatically disabled as all routing is now controlled by the app.
+
+The UCX II (and with it the iPhone/iPad) will be synchronized to an external digital sample rate if there is a valid digital input signal. With a wrong sample rate heavy audio noise will occur. Without an AES/SPDIF or ADAT input signal the UCX II enters master mode and uses the sample rate set by Mac OS X or iOS (the app in use).
+
+While the MIDI I/O will send and receive Sysex messages, not all apps are ready to do this. The app Midi Tool Box can be used to verify that the UCX II is working correctly.
+
+34. 支持的输入和输出
+连接到 iPhone/iPad 时，模拟麦克风/线路输入 1 可与单声道应用程序配合使用，输入 1 和 2 可与立体声应用程序配合使用（双单声道和立体声），最多 8 个输入可与 8 通道应用程序（如 MultiTrack DAW 和 Music Studio）配合使用。Garage Band 支持所有输入，但一次只能支持两个。Auria 和 Cubasis 可以同时录制所有 20 个输入。
+
+播放将使用后侧模拟输出 1 和 2，如果应用程序支持此类操作，则可以使用更多通道。UCX II 可以选择性地将播放通道 1/2 复制到输出 7/8、SPDIF 和 ADAT 1/2，以便于监控（CC Mix：8 通道 + 耳机）。可以使用电平表显示轻松检查和验证当前​​路由。所有输出都可以独立处理（音量、均衡器、动态、FX 返回）。
+
+UCX II 的配置最好通过 iPad 版 TotalMix FX 应用程序完成，否则可通过加载设置完成。这些内容在通过 TotalMix FX 使用 PC/Mac 操作时写入设备，同时存储控制时钟模式主控或 AutoSync 和当前采样率。
+
+使用 RME 的 iPad 应用程序，混音模式将自动禁用，因为所有路由现在均由应用程序控制。
+
+如果有有效的数字输入信号，UCX II（以及 iPhone/iPad）将同步到外部数字采样率。如果采样率错误，将产生严重的音频噪音。如果没有 AES/SPDIF 或 ADAT 输入信号，UCX II 将进入主模式并使用 Mac OS X 或 iOS（正在使用的应用程序）设置的采样率。
+
+虽然 MIDI I/O 将发送和接收 Sysex 消息，但并非所有应用程序都准备好执行此操作。应用程序 Midi Tool Box 可用于验证 UCX II 是否正常工作。
+
+35. Front panel operation
+The front panel operation is identical to the one under Windows and OS X, or standalone opera- tion. The display therefore gives the usual easy access to all features and offers a quick editing of: input gains, playback levels, routing and monitoring, echo, reverb, EQ, dynamics, sample rate, status of the optical output (ADAT/SPDIF), and much more.
+
+36. Audio Routing and Processing
+In Class Compliant mode, the UCX II features operation very similar to normal operation with
+TotalMix FX, with two major differences:
+▶ There is no second TotalMix row (no software playback channels), hence no individual routing or mixing of playback channels (unless the optional app TotalMix FX for iPad is used). These will always be connected either straight to the physical outputs (CC Mix 20 Ch.), or have an additional signal copy, see below.
+▶ The input effects EQ/Dyn will always be active in the recording path
+
+The UCX II can be pre-configured for CC mode via TotalMix FX under Windows/Mac by saving up to 6 configurations into its setup memory, see next chapter.
+
+The input signal will pass through all activated functions of the TM FX input channel, namely settings, EQ, and Dynamics, and is then sent to the iPhone/iPad. Like under Windows and Mac, the input fader setting controls direct monitoring to the specified outputs. The FX send control for echo/reverb is also active.
+
+！ As in normal TotalMix FX use, the options Stereo Width, MS Proc and Phase L/R are NOT within the recording path, but in the monitor path. This is technically determined and can not be changed.
+
+The iPhone/iPad output signal passes through all activated functions of the TM FX hardware outputs, namely settings, EQ, and dynamics. Configuring the Phones output is done by output channels 7/8.
+
+35. 前面板操作
+前面板操作与 Windows 和 OS X 下的操作相同，或独立操作。因此，显示屏可以轻松访问所有功能，并可以快速编辑：输入增益、播放级别、路由和监控、回声、混响、EQ、动态、采样率、光纤输出状态（ADAT/SPDIF）等等。
+
+36. 音频路由和处理
+在 Class Compliant 模式下，UCX II 的操作与 TotalMix FX 的正常操作非常相似，但有两个主要区别：
+▶ 没有第二个 TotalMix 行（没有软件播放通道），因此没有单独的路由或播放通道混合（除非使用可选应用程序 TotalMix FX for iPad）。这些将始终直接连接到物理输出（CC Mix 20 Ch.），或具有额外的信号副本，见下文。
+▶ 输入效果 EQ/Dyn 将始终在录音路径中处于活动状态
+
+UCX II 可以通过 Windows/Mac 下的 TotalMix FX 预先配置为 CC 模式，方法是将最多 6 个配置保存到其设置内存中，请参阅下一章。
+
+输入信号将通过 TM FX 输入通道的所有激活功能，即设置、EQ 和动态，然后发送到 iPhone/iPad。与在 Windows 和 Mac 下一样，输入推子设置控制对指定输出的直接监控。回声/混响的 FX 发送控制也处于活动状态。
+
+！与正常的 TotalMix FX 使用一样，立体声宽度、MS Proc 和相位 L/R 选项不在录音路径内，而是在监控路径中。这是技术上确定的，无法更改。
+
+iPhone/iPad 输出信号通过 TM FX 硬件输出的所有激活功能，即设置、EQ 和动态。通过输出通道 7/8 配置手机输出。
+
+CC Mix Modes
+The CC Mix modes can be activated at any time and do not influence the mixer state loaded via the Setups, as Mix modes only influence the playback routing. The current routing can easily be checked and verified with the level meter display.
+
+The unit offers four different Mix modes to ease using the CC mode without TotalMix FX for iPad.
+
+They copy playback signals to various channels.
+
+TotalMix App. Locks various settings in several menus to avoid conflicts with TotalMix FX for iPad, in case the app is not in background mode. Note that all copy modes are automatically disabled when the TotalMix app is detected.
+
+8 Ch. + Phones. 8 channels of playback. Channels 1/2 are copied to Phones, SPDIF and ADAT 1/2. Channels 3/4 are copied to AES and ADAT 3/4, channels 5/6 and 7/8 to ADAT 5/6 and 7/8.
+
+8 Ch. Playback. Same, but no copy of 1/2 to Phones, so the output Phones (7/8) is available for separate playback.
+
+20 Ch. Playback. No copy mode active, all 20 channels are available separately.
+
+CC 混音模式
+CC 混音模式可随时激活，不会影响通过设置加载的混音器状态，因为混音模式仅影响播放路由。当前路由可通过电平表显示轻松检查和验证。
+
+该设备提供四种不同的混音模式，以便在没有 TotalMix FX for iPad 的情况下轻松使用 CC 模式。
+
+它们将播放信号复制到各个频道。
+
+TotalMix 应用程序。锁定多个菜单中的各种设置，以避免与 TotalMix FX for iPad 发生冲突，以防应用程序未处于后台模式。请注意，检测到 TotalMix 应用程序时，所有复制模式都会自动禁用。
+
+8 通道 + 手机。8 个播放通道。通道 1/2 复制到手机、SPDIF 和 ADAT 1/2。通道 3/4 复制到 AES 和 ADAT 3/4，通道 5/6 和 7/8 复制​​到 ADAT 5/6 和 7/8。
+
+8 通道播放。相同，但没有将 1/2 复制到 Phones，因此输出 Phones (7/8) 可供单独播放。
+
+20 通道播放。未激活复制模式，所有 20 个通道均可单独使用。
+
+37. Setups
+TotalMix FX can transfer all current settings to the device (Options/Store Current State into Device). There are six memory slots (Setups) available. An example:
+▶ Inputs with no processing, gain set to +30 dB and phantom power active. Outputs without processing, faders for 1/2 set to 0 dB, 9/10 at – 20 dB, clock mode master, saved in Setup 1.
+▶ Inputs with Compressor, Factory Preset Mix Limiter (digital overload protection), gain set to +30 dB, no phantom power, outputs 1/2 with EQ (factory preset Modern Bass Treble), outputs 9/10 with EQ (factory preset Cheap Phones Compensation), faders for 1/2 at 0 dB, 9/10 at - 20dB, clock mode AutoSync, saved in Setup 2.
+
+Via the menu SETUP/REV, Setups, one can switch between setups 1 and 2 at any time, alternat- ing between entirely different configurations. Further examples would be activating reverb/echo, or temporary monitoring of the input signal. Very comfortable is the use of the Advanced Remote USB, as its buttons can load the Setups 1 to 6 directly
+
+On the iPad the optional app TotalMix FX for iPad gives full control of all functions and parameters in real-time and with full overview, similar to working under Windows and Mac.
+
+37. 设置
+TotalMix FX 可以将所有当前设置传输到设备（选项/将当前状态存储到设备）。有六个内存插槽（设置）可用。示例：
+▶ 输入无处理，增益设置为 +30 dB，幻象电源处于活动状态。输出未经过处理，推子 1/2 设置为 0 dB，9/10 设置为 - 20 dB，时钟模式为主，保存在设置 1 中。
+▶ 输入带压缩器，出厂预设混音限制器（数字过载保护），增益设置为 +30 dB，无幻象电源，输出 1/2 带 EQ（出厂预设现代低音高音），输出 9/10 带 EQ（出厂预设廉价手机补偿），推子 1/2 设置为 0 dB，9/10 设置为 - 20dB，时钟模式 AutoSync，保存在设置 2 中。
+
+通过菜单 SETUP/REV、Setup，可以随时在设置 1 和 2 之间切换，在完全不同的配置之间交替。其他示例包括激活混响/回声，或临时监控输入信号。使用 Advanced Remote USB 非常方便，因为它的按钮可以直接加载设置 1 至 6
+
+在 iPad 上，可选应用程序 TotalMix FX for iPad 可以实时全面控制所有功能和参数，并提供完整的概览，类似于在 Windows 和 Mac 下工作。
+
+********************************************************************
+DURec ™ - Direct USB Recording

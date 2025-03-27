@@ -1,0 +1,1526 @@
+*******************************************
+——————————————————————————————————————————
+IMPORTANT NOTES
+
+####
+Power Supply
+• Do not connect this unit to same electrical outlet that is being used by an electrical appliance that is controlled by an inverter or a motor (such as a refrigerator, washing machine, microwave oven, or air conditioner).
+
+Depending on the way in which the electrical appliance is used, power supply noise may cause this unit to malfunction or may produce audible noise. If it is not practical to use a separate electrical outlet, connect a power supply noise filter between this unit and the electrical outlet.
+
+• To prevent malfunction and equipment failure, always make sure to turn off the power on all your equipment before you make any connections.
+
+• Although the LCD and LEDs are switched off when the unit is turned off, this does not mean that the unit has been completely disconnected from the source of power. If you need to turn off the power completely, first turn off the unit’s switch, then unplug the power cord from the power outlet. For this reason, the outlet into which you choose to connect the power cord’s plug should be one that is within easy reach and readily accessible.
+
+• With the factory settings, the INTEGRA-7 will automatically be switched off four hours after you stop playing or operating the unit. If you don’t want the unit to turn off automatically, change the “Auto Off” setting to “OFF” as described on p. 55.
+
+* The settings you were editing will be lost when the unit is turned off. If you want to keep your settings, you must save your settings before turning the unit off.
+
+重要注意事项
+
+####
+电源
+• 请勿将本设备连接到由逆变器或电机控制的电器（如冰箱、洗衣机、微波炉或空调）使用的同一电源插座。
+
+根据电器的使用方式，电源噪声可能会导致本设备发生故障或产生可听见的噪音。 如果无法使用单独的电源插座，请在本设备和电源插座之间连接电源噪声滤波器。
+
+• 为防止发生故障和设备故障，在进行任何连接之前，请务必关闭所有设备的电源。
+
+• 虽然关闭设备时 LCD 和 LED 会关闭，但这并不意味着设备已完全与电源断开连接。 如果需要完全关闭电源，请先关闭设备的开关，然后从电源插座上拔下电源线。 因此，您选择连接电源线插头的插座应位于触手可及且易于插入的位置。
+
+• 出厂设置下，INTEGRA-7 会在您停止播放或操作设备四小时后自动关闭。如果您不想让设备自动关闭，请按照第 55 页所述将“自动关闭”设置更改为“关闭”。
+
+* 设备关闭后，您正在编辑的设置将丢失。如果您想保留设置，必须在关闭设备之前保存设置。
+
+####
+Placement
+• Using the unit near power amplifiers (or other equipment containing large power transformers) may induce hum. To alleviate the problem, change the orientation of this unit; or move it farther away from the source of interference.
+
+• This device may interfere with radio and television reception. Do not use this device in the vicinity of such receivers.
+
+• Noise may be produced if wireless communications devices, such as cell phones, are operated in the vicinity of this unit.
+
+Such noise could occur when receiving or initiating a call, or while conversing. Should you experience such problems, you should relocate such wireless devices so they are at a greater distance from this unit, or switch them off.
+
+• When moved from one location to another where the temperature and/or humidity is very different, water droplets (condensation) may form inside the unit. Damage or malfunction may result if you attempt to use the unit in this condition. Therefore, before using the unit, you must allow it to stand for several hours, until the condensation has completely evaporated.
+
+• Depending on the material and temperature of the surface on which you place the unit, its rubber feet may discolor or mar the surface.
+You can place a piece of felt or cloth under the rubber feet to prevent this from happening. If you do so, please make sure that the unit will not slip or move accidentally.
+
+• Do not put anything that contains water on this unit. Also, avoid the use of insecticides, perfumes, alcohol, nail polish, spray cans, etc., near the unit. Swiftly wipe away any liquid that spills on the unit using a dry, soft cloth.
+
+####
+放置
+• 在功率放大器（或其他包含大型电源变压器的设备）附近使用本设备可能会产生嗡嗡声。要缓解此问题，请改变本设备的方向；或将其移离干扰源。
+
+• 本设备可能会干扰无线电和电视接收。请勿在这些接收器附近使用此设备。
+
+• 如果在本设备附近使用无线通信设备（如手机），可能会产生噪音。
+
+接听或发起呼叫时或通话时可能会出现此类噪音。如果遇到此类问题，应重新放置此类无线设备，使其与本设备保持更远的距离，或将其关闭。
+
+• 当从一个位置移动到温度和/或湿度差异很大的另一个位置时，本设备内部可能会形成水滴（冷凝水）。如果尝试在这种情况下使用本设备，可能会导致损坏或故障。因此，在使用本设备之前，必须将其静置几个小时，直到冷凝水完全蒸发。
+
+• 根据放置设备的表面材质和温度，橡胶脚可能会使表面褪色或损坏。
+您可以在橡胶脚下放一块毛毡或布，以防止发生这种情况。如果这样做，请确保设备不会意外滑落或移动。
+
+• 请勿将任何含水的东西放在本设备上。此外，避免在设备附近使用杀虫剂、香水、酒精、指甲油、喷雾罐等。用干燥柔软的布迅速擦去溅到设备上的任何液体。
+
+####
+Maintenance
+• For everyday cleaning wipe the unit with a soft, dry cloth or one that has been slightly dampened with water. To remove stubborn dirt, use a cloth impregnated with a mild, non- abrasive detergent. Afterwards, be sure to wipe the unit thoroughly with a soft, dry cloth.
+
+• Never use benzine, thinners, alcohol or solvents of any kind, to avoid the possibility of discoloration and/or deformation.
+
+####
+维护
+• 日常清洁时，请用柔软的干布或略微沾水的布擦拭设备。要去除顽固污垢，请使用浸有温和非研磨性清洁剂的布。之后，务必用柔软的干布彻底擦拭设备。
+
+• 切勿使用汽油、稀释剂、酒精或任何类型的溶剂，以免造成变色和/或变形。
+
+####
+Repairs and Data
+• Please be aware that all data contained in the unit’s memory may be lost when the unit is sent for repairs. Important data should always be backed up USB flash drives, or written down on paper (when possible). During repairs, due care is taken to avoid the loss of data. However, in certain cases (such as when circuitry related to memory itself is out of order), we regret that it may not be possible to restore the data, and Roland assumes no liability concerning such loss of data.
+
+维修和数据
+• 请注意，设备送修时，设备内存中包含的所有数据可能会丢失。重要数据应始终备份到 USB 闪存驱动器中，或写在纸上（如果可能）。维修期间，应小心谨慎，避免数据丢失。但是，在某些情况下（例如当与内存本身相关的电路出现故障时），我们很遗憾可能无法恢复数据，Roland 对此类数据丢失不承担任何责任。
+
+####
+Additional Precautions
+• Please be aware that the contents of memory can be irretrievably lost as a result of a malfunction, or the improper operation of the unit. To protect yourself against the risk of loosing important data, we recommend that you periodically save a backup copy of important data you have stored in the unit’s memory on a USB flash drives.
+
+• Unfortunately, it may be impossible to restore the contents of data that was stored in the unit’s memory, USB flash drives once it has been lost. Roland Corporation assumes no liability concerning such loss of data.
+
+• Use a reasonable amount of care when using the unit’s buttons, sliders, or other controls; and when using its jacks and connectors.
+
+Rough handling can lead to malfunctions.
+
+• Never strike or apply strong pressure to the display.
+
+• When disconnecting all cables, grasp the connector itself—never pull on the cable. This way you will avoid causing shorts, or damage to the cable’s internal elements.
+
+• A small amount of heat will radiate from the unit during normal operation.
+
+• To avoid disturbing others nearby, try to keep the unit’s volume at reasonable levels. You may prefer to use headphones, so you do not need to be concerned about those around you.
+
+• When you need to transport the unit, package it in the box (including padding) that it came in, if possible. Otherwise, you will need to use equivalent packaging materials.
+
+####
+其他注意事项
+• 请注意，由于设备故障或操作不当，内存内容可能会不可挽回地丢失。为了防止丢失重要数据的风险，我们建议您定期将存储在设备内存中的重要数据的备份保存在 USB 闪存驱动器上。
+
+• 遗憾的是，一旦丢失，可能无法恢复存储在设备内存、USB 闪存驱动器中的数据内容。Roland Corporation 对此类数据丢失不承担任何责任。
+
+• 使用设备的按钮、滑块或其他控件时，以及使用其插孔和连接器时，请小心谨慎。
+
+粗暴处理可能导致故障。
+
+• 切勿敲击或对显示屏施加强压。
+
+• 断开所有电缆时，请抓住连接器本身 - 切勿拉扯电缆。这样可以避免造成短路或损坏电缆的内部元件。
+
+• 正常运行期间，设备会散发少量热量。
+
+• 为避免打扰附近的其他人，请尽量将设备的音量保持在合理水平。您可能更喜欢使用耳机，这样就不必担心周围的人。
+
+• 当您需要运输设备时，请尽可能将其包装在随附的包装箱中（包括衬垫）。否则，您需要使用等效的包装材料。
+
+####
+Before Using External Memories
+Using External Memories
+• Carefully insert the USB flash drives all the way in—until it is firmly in place.
+
+• Never touch the terminals of the USB flash drives. Also, avoid getting the terminals dirty.
+
+• USB flash drives are constructed using precision components; handle the USB flash drives carefully, paying particular note to the following.
+
+		• To prevent damage to the cards from static electricity, be sure to discharge any static electricity from your own body before handling the USB flash drives.
+		• Do not touch or allow metal to come into contact with the contact portion of the USB flash drives.
+		• Do not bend, drop, or subject USB flash drives to strong shock or vibration.
+		• Do not keep USB flash drives in direct sunlight, in closed vehicles, or other such locations.
+		• Do not allow USB flash drives to become wet.
+		• Do not disassemble or modify the USB flash drives.
+		
+####
+使用外部存储器之前
+使用外部存储器
+• 小心地将 USB 闪存驱动器完全插入 — 直到其牢固就位。
+
+• 切勿触摸 USB 闪存驱动器的端子。另外，避免弄脏端子。
+
+• USB 闪存驱动器采用精密组件制成；请小心处理 USB 闪存驱动器，特别注意以下事项。
+
+• 为防止静电损坏卡，务必在处理 USB 闪存驱动器之前释放自己身上的任何静电。
+• 请勿触摸或让金属接触 USB 闪存驱动器的接触部分。
+• 请勿弯曲、掉落或使 USB 闪存驱动器受到强烈冲击或振动。
+• 请勿将 USB 闪存驱动器放在阳光直射、封闭的车辆或其他类似位置。
+• 请勿让 USB 闪存驱动器受潮。
+• 请勿拆卸或改装 USB 闪存驱动器。
+
+####
+Handling DVDs
+• Avoid touching or scratching the shiny underside (encoded surface) of the disc.
+Damaged or dirty DVD discs may not be read properly. Keep your discs clean using a commercially available DVD cleaner.
+
+####
+处理 DVD
+• 避免触摸或刮擦光盘的闪亮底面（编码表面）。
+损坏或脏污的 DVD 光盘可能无法正确读取。使用市售的 DVD 清洁器保持光盘清洁。
+
+####
+Intellectual Property Right
+• Do not use this product for purposes that could infringe on a copyright held by a third party. We assume no responsibility whatsoever with regard to any infringements of third-party copyrights arising through your use of this product.
+
+• The copyright of content in this product (the sound waveform data, style data, accompaniment patterns, phrase data, audio loops and image data) is reserved by Roland Corporation.
+
+• Purchasers of this product are permitted to utilize said content for the creating, performing, recording and distributing original musical works.
+
+• Purchasers of this product are NOT permitted to extract said content in original or modified form, for the purpose of distributing recorded medium of said content or making them available on a computer network.
+
+• Before you open the included DVD-ROM, you must read the “license agreement.” Opening the DVD-ROM will be taken to mean your acceptance of the license agreement.
+
+• MMP (Moore Microprocessor Portfolio) refers to a patent portfolio concerned with microprocessor architecture, which was developed by Technology Properties Limited (TPL). Roland has licensed this technology from the TPL Group.
+
+• Microsoft product screen shot(s) reprinted with permission from Microsoft Corporation.
+
+• This product contains eCROS integrated software platform of eSOL Co.,Ltd. eCROS is a trademark of eSOL Co., Ltd. in Japan.
+
+• Roland, SuperNATURAL are either registered trademarks or trademarks of Roland Corporation in the United States and/or other countries.
+
+• Cakewalk is a registered trademark of Cakewalk, Inc. in the United States.
+
+• SONAR is a trademark of Cakewalk, Inc.
+
+• Company names and product names appearing in this document are registered trademarks or trademarks of their respective owners.
+
+####
+知识产权
+• 请勿将本产品用于可能侵犯第三方版权的目的。对于因使用本产品而导致的任何第三方版权侵权，我们概不负责。
+
+• 本产品中内容（声音波形数据、风格数据、伴奏模式、乐句数据、音频循环和图像数据）的版权归 Roland Corporation 所有。
+
+• 本产品的购买者可以使用上述内容来创作、演奏、录制和分发原创音乐作品。
+
+• 本产品的购买者不得以原始或修改形式提取上述内容，以分发上述内容的录制媒体或将其发布到计算机网络上。
+
+• 在打开随附的 DVD-ROM 之前，您必须阅读“许可协议”。打开 DVD-ROM 即表示您接受许可协议。
+
+• MMP（摩尔微处理器组合）是指与微处理器架构有关的专利组合，由 Technology Properties Limited (TPL) 开发。Roland 已从 TPL 集团获得该技术的许可。
+
+• Microsoft 产品屏幕截图经 Microsoft Corporation 许可转载。
+
+• 本产品包含 eSOL Co.,Ltd. 的 eCROS 集成软件平台。eCROS 是 eSOL Co., Ltd. 在日本的商标。
+
+• Roland、SuperNATURAL 是 Roland Corporation 在美国和/或其他国家/地区的注册商标或商标。
+
+• Cakewalk 是 Cakewalk, Inc. 在美国的注册商标。
+
+• SONAR 是 Cakewalk, Inc. 的商标。
+
+• 本文件中出现的公司名称和产品名称是其各自所有者的注册商标或商标。
+
+Content
+目录
+（略）
+
+*******************************************
+Quick Guide 
+——————————————————————————————————————————
+01 Main Features
+The INTEGRA-7 is a completely new sound module that contains expressive and high-quality SuperNATURAL sounds in addition to a rich sound library from the ever-popular SRX series, as well as “Motional Surround,” which uses RSS (Roland Sound Space) technology to offer a new type of sound field.
+
+The powerful SuperNATURAL sounds are reproduced using Motional Surround in a deeper and even more natural sound field, allowing a truly new dimension of sound creation.
+
+*******************************************
+快速指南
+——————————————————————————————————————————
+01 主要特点
+INTEGRA-7 是一个全新的音效模块，除了广受欢迎的 SRX 系列丰富的音效库外，还包含富有表现力的高品质 SuperNATURAL 音效，以及使用 RSS（Roland Sound Space）技术提供新型声场的“Motional Surround”。
+
+强大的 SuperNATURAL 音效通过 Motional Surround 在更深、更自然的声场中再现，从而实现真正全新的声音创作维度。
+
+SuperNATURAL tones provide not only realistic sound, but also rich, natural expression during a performance
+SuperNATURAL 音色不仅提供逼真的声音，而且在表演过程中提供丰富、自然的表达
+
+####
+SuperNATURAL Acoustic Tones
+The SuperNATURAL acoustic tones built into the INTEGRA-7 do not merely reproduce the sound of acoustic instruments, they also use Behavior Modeling Technology to simulate the characteristic behavior of an instrument when it is played.
+
+A dedicated sound engine tuned specifically for each type of instrument analyzes the phrases performed by the player, automatically differentiating between chordal and melodic playing to produce the optimal expression for a performance.
+
+For example, the “violin” SuperNATURAL acoustic tone allows your conventional keyboard playing to create a realistically expressive solo violin sound that sounds as if it were being played by a violinist.
+
+####
+超自然原声音色
+INTEGRA-7 内置的超自然原声音色不仅能重现原声乐器的声音，还使用行为建模技术模拟乐器演奏时的特征行为。
+
+专门为每种乐器调校的专用声音引擎会分析演奏者演奏的乐句，自动区分和弦和旋律演奏，以产生最佳的演奏表达。
+
+例如，“小提琴”超自然原声音色可让您通过传统的键盘演奏创造出逼真的独奏小提琴声音，听起来就像小提琴手演奏的一样。
+
+####
+SuperNATURAL Synth Tones
+These are SuperNATURAL synth tones, which realistically reproduce sounds ranging from vintage analog synths to digital synths. Each synth tone consists of three sets of OSC, FILTER, AMP, and LFO, meaning that powerful synth sounds can be created using just a single synth tone.
+
+In addition, the behaviors of the oscillators and filters of analog synths have been analyzed, allowing their distinctive sounds to be reproduced. The INTEGRA-7 contains more than 1,000 sounds, which cover every type of synth sound from analog to digital.
+
+####
+超自然合成音
+这些是超自然合成音，可真实再现从老式模拟合成器到数字合成器的各种声音。每个合成音由三组 OSC、FILTER、AMP 和 LFO 组成，这意味着仅使用一个合成音即可创建强大的合成音。
+
+此外，还分析了模拟合成器的振荡器和滤波器的行为，从而可以再现其独特的声音。INTEGRA-7 包含 1,000 多种声音，涵盖从模拟到数字的所有类型的合成音。
+
+####
+SuperNATURAL Drum Kits
+The SuperNATURAL drum kits built into the INTEGRA-7 provide not only realistic, high- quality sound, they also boast smooth tonal change in response to your playing dynamics or to repeated strikes.
+For example, the crash cymbal can be played not only by a powerful strike, but will also respond to a light touch. The ride cymbal will shift through a variety of tones in response to your varying dynamics. The drum will also respond appropriately to repeated strikes, so press rolls, flams, and fill-ins will sound natural.
+
+####
+SuperNATURAL 鼓组
+INTEGRA-7 内置的 SuperNATURAL 鼓组不仅提供逼真的高品质声音，还可以根据演奏力度或反复敲击做出平滑的音调变化。
+例如，碎音镲不仅可以通过有力的敲击来演奏，而且也可以对轻触做出反应。叠奏镲会根据您不同的力度变化而改变各种音调。鼓组也会对反复敲击做出适当反应，因此压音、装饰音和填充音听起来会很自然。
+
+####
+What is SuperNATURAL?
+These are proprietary Roland sounds created using Behavior Modeling Technology, which enables natural and rich expression that was difficult to achieve on earlier sound generators.
+
+####
+什么是 SuperNATURAL？
+这些是使用行为建模技术创建的专有 Roland 声音，可以实现早期声音发生器难以实现的自然而丰富的表达。
+
+####
+What is Behavior Modeling Technology?
+Not only physical modeling of the instruments, Roland takes it a step further by modeling the instrument’s distinctive behavior that responds to how the performer plays, resulting in true-to-life, expressive sounds in realtime.
+
+####
+什么是行为建模技术？
+Roland 不仅对乐器进行物理建模，还更进一步，对乐器的独特行为进行建模，以响应演奏者的演奏方式，从而实时产生逼真、富有表现力的声音。	
+
+The INTEGRA-7 brings together the classic sounds of Roland synthesizers (PCM Tones)
+INTEGRA-7 汇集了 Roland 合成器的经典音色（PCM 音调）
+
+
+Classic preset sounds from past models of Roland synthesizers, as well as the sounds from the entire SRX series wave expansion boards have been included, especially tuned for the INTEGRA-7.
+
+The sound data includes PCM synth tones and PCM drum kits, and can be called up from the preset banks and expansion banks.
+
+The sounds of the SRX series are organized into SRX-01 through SRX-12 just as on the actual SRX models; when you load an entire title of sound data into one of the four virtual slots, those sounds will be available for use.
+
+包括 Roland 合成器过去型号的经典预设音色以及整个 SRX 系列波形扩展板的音色，特别针对 INTEGRA-7 进行了调整。
+
+音色数据包括 PCM 合成音色和 PCM 鼓组，可从预设库和扩展库中调用。
+
+SRX 系列的音色与实际 SRX 型号一样，被组织到 SRX-01 到 SRX-12 中；当您将整个音色数据标题加载到四个虚拟插槽之一时，这些音色将可供使用。
+
+####
+PCM Synth Tones
+These are sounds that were called “patches” on previous Roland synthesizers; they have been tuned specifically for the INTEGRA-7. One PCM synth tone can consist of up to four partials (waves).
+
+####
+PCM 合成音
+这些声音在之前的 Roland 合成器上被称为“音色”；它们专门针对 INTEGRA-7 进行了调整。一个 PCM 合成音最多可包含四个分音（波）。
+
+####
+PCM Drum Kits
+These were called “rhythm sets” on previous Roland synthesizers; they have been tuned specifically for the INTEGRA-7. A drum kit is a group of multiple percussion instrument sounds assigned so that a different percussion instrument will be heard depending on the key (note number) you play.
+
+####
+PCM 鼓组
+这些在之前的 Roland 合成器上被称为“节奏组”；它们已专门针对 INTEGRA-7 进行了调整。鼓组是一组分配的多种打击乐器声音，因此根据您演奏的键（音符编号）会听到不同的打击乐器。
+
+####
+Multi-effects Usable for 16 Parts Simultaneously
+All of the tones (SuperNATURAL tones and PCM tones) built into the INTEGRA-7 includes dedicated multi-effect settings.
+
+Since a multi-effect can be used by each of the 16 parts simultaneously, the most appropriate multi-effect settings will be called up when you select a tone.
+
+####
+可同时为 16 个声部使用多重效果
+INTEGRA-7 内置的所有音调（SuperNATURAL 音调和 PCM 音调）均包含专用的多重效果设置。
+
+由于 16 个声部中的每一个都可以同时使用多重效果，因此当您选择音调时，将调用最合适的多重效果设置。
+
+####
+Motional Surround lets you control not only left/right panning but also depth
+
+The INTEGRA-7 supports two-channel output as well as 5.1 channel surround.
+
+Using the Motional Surround function gives you even more freedom to manipulate the spatial position of each part (p. 16).
+
+Until now, sounds in a MIDI sound module could only be panned between left and right. However, the INTEGRA-7 lets you specify the depth as well, allowing you to create a sound field that has unprecedented depth and spaciousness.
+
+For example, a solo instrument can be placed nearby, while the ensemble or percussion instruments are placed at a distance, thus creating a sound field with greater depth; or you can create a perceptual space that extends beyond the actual speakers.
+
+This effect can be applied to external input signals as well, so you can use it on audio tracks as well as on the sounds of the sound module.
+* To use the Motional Surround function, turn the [MOTIONAL SURROUND] button ON (p. 16, p. 34).
+
+####
+动态环绕不仅让您控制左右声像，还能控制深度
+
+INTEGRA-7 支持双声道输出以及 5.1 声道环绕。
+
+使用动态环绕功能，您可以更自由地操纵每个部分的空间位置（第 16 页）。
+
+到目前为止，MIDI 音效模块中的声音只能在左右之间进行声像。但是，INTEGRA-7 还允许您指定深度，让您能够创建具有前所未有的深度和空间感的声场。
+
+例如，可以将独奏乐器放在附近，而将合奏或打击乐器放在远处，从而创建具有更大深度的声场；或者您可以创建超出实际扬声器的感知空间。
+
+此效果也可以应用于外部输入信号，因此您可以在音轨以及音效模块的声音上使用它。
+* 要使用动态环绕功能，请打开 [动态环绕] 按钮（第 16 页、第 34 页）。
+
+####
+What is Motional Surround?
+In the sounds we hear every day, the “direct sound,” which reaches our ears directly from the sound source, is combined with the “reflected sound,” which has bounced off various objects in the environment. The combination of these two types of sound gives us a sense of the distance between us and the sound source. Motional Surround takes into account the state of the actual room, and simulates the way in which objects in the room reflect the sound, thus creating a three-dimensional sound field.
+
+In order to create the most realistic sound field, the INTEGRA-7 contains a processor that generates a sense of distance, reverberation, and directionality, and also performs format conversion.
+
+As appropriate for your playback system, Motional Surround supports both 5.1 channel and two-channel output.
+
+####
+什么是 Motional Surround？
+在我们每天听到的声音中，从声源直接到达我们耳朵的“直达声”与从环境中各种物体反弹的“反射声”相结合。这两种声音的结合让我们感受到我们与声源之间的距离。Motional Surround 考虑了实际房间的状态，并模拟了房间中物体反射声音的方式，从而创建了三维声场。
+
+为了创建最逼真的声场，INTEGRA-7 包含一个处理器，可产生距离感、混响和方向感，并执行格式转换。
+
+根据您的播放系统，Motional Surround 支持 5.1 声道和双声道输出。
+
+——————————————————————————————————————————
+02 Getting Ready
+####
+Connection example 1: A compact production setup
+Here’s an example of the use of the INTEGRA-7 for high-quality music production.
+
+This is an easy way to set up a full-fledged music production system based on the INTEGRA-7 simply by connecting it to DAW software in your computer and to a MIDI keyboard.
+
+* If you turn the INTEGRA-7’s USB-MIDI Thru setting “ON,” you’ll be able to use it as a MIDI interface (p. 45).
+
+02 准备工作
+####
+连接示例 1：紧凑型制作设置
+以下是使用 INTEGRA-7 进行高品质音乐制作的示例。
+
+这是一种基于 INTEGRA-7 设置成熟音乐制作系统的简单方法，只需将其连接到计算机中的 DAW 软件和 MIDI 键盘即可。
+
+* 如果将 INTEGRA-7 的 USB-MIDI Thru 设置设为“ON”，则可以将其用作 MIDI 接口（第 45 页）。
+
+REFERENCE
+For details on connections, refer to “Rear Panel Connections” (p. 22).
+
+参考
+有关连接的详细信息，请参阅“后面板连接”（第 22 页）。
+
+####
+Connecting your computer via USB
+If you connect the INTEGRA-7 to your computer using a USB cable, you’ll be able to use your DAW software to record performance data (MIDI data) from a MIDI keyboard connected to the INTEGRA-7, and use performance data (MIDI data) played back by the DAW software to play the sound generator of the INTEGRA-7 (USB MIDI).
+
+The INTEGRA-7 will operate as a MIDI sound module when it is connected to your computer with a USB cable.
+
+####
+通过 USB 连接您的计算机
+如果您使用 USB 电缆将 INTEGRA-7 连接到您的计算机，您将能够使用您的 DAW 软件从连接到 INTEGRA-7 的 MIDI 键盘录制演奏数据（MIDI 数据），并使用 DAW 软件播放的演奏数据（MIDI 数据）播放 INTEGRA-7 的声音发生器（USB MIDI）。
+
+当使用 USB 电缆将 INTEGRA-7 连接到您的计算机时，它将作为 MIDI 声音模块运行。
+
+####
+To use USB audio functionality
+You’ll need to install a driver in order to use the USB audio functionality of the INTEGRA-7.
+This driver can be downloaded from the Roland website.
+Roland website
+https://www.roland.com/global/support/
+For the installation procedure, refer to the Readme file that was extracted along with the installer.
+You need to set the “Ext Part Source Select” parameter under “Volume and Pitch Settings (SOUND)” (p. 48) to “USB AUDIO.”
+
+####
+要使用 USB 音频功能
+您需要安装驱动程序才能使用 INTEGRA-7 的 USB 音频功能。
+此驱动程序可从 Roland 网站下载。
+Roland 网站
+https://www.roland.com/global/support/
+有关安装程序，请参阅随安装程序一起提取的 Readme 文件。
+您需要将“音量和音调设置（SOUND）”（第 48 页）下的“Ext Part Source Select”参数设置为“USB AUDIO”。
+
+####
+Connection example 2: Using the INTEGRA-7 as a sound module for live performance
+Here’s a connection example of including the INTEGRA-7 in an existing live performance system.
+In this example, the MIDI connector is used to connect a keyboard or another sound module.
+
+####
+连接示例 2：使用 INTEGRA-7 作为现场表演的声音模块
+以下是将 INTEGRA-7 纳入现有现场表演系统的连接示例。
+在此示例中，MIDI 连接器用于连接键盘或其他声音模块。
+
+MEMO
+Turn the INTEGRA-7’s USB-MIDI Thru setting “OFF” (p. 45).
+REFERENCE
+For details on connections, refer to “Rear Panel Connections” (p. 22).
+
+备注
+将 INTEGRA-7 的 USB-MIDI Thru 设置关闭（第 45 页）。
+参考
+有关连接的详细信息，请参阅“后面板连接”（第 22 页）。
+
+####
+About MIDI
+MIDI (Musical Instrument Digital Interface) is a standard specification that allows musical data to be transferred between electronic musical instruments and computers. If a MIDI cable is connected between devices equipped with MIDI connectors, you’ll be able to play multiple devices from a single MIDI keyboard, perform ensembles using multiple MIDI instruments, program the settings to change automatically as the song progresses, and more.
+
+####
+关于 MIDI
+MIDI（乐器数字接口）是一种标准规范，允许在电子乐器和计算机之间传输音乐数据。如果在配备 MIDI 连接器的设备之间连接 MIDI 电缆，您将能够通过单个 MIDI 键盘演奏多个设备，使用多个 MIDI 乐器进行合奏，对设置进行编程以使其随着歌曲的进行而自动更改，等等。
+
+——————————————————————————————————————————
+03 Using the Internal Sounds
+When you turn on the INTEGRA-7, the top screen will appear. You can choose the type of top screen (p. 48).
+
+Playing SuperNATURAL tones
+1. Press the [SuperNATURAL] button.
+The tone of the selected part will change to a SuperNATURAL tone.
+The display will show the SuperNATURAL tone list.
+2. Use the cursor buttons to change the type or the bank.
+3. Use the value dial to select a tone.
+4. Press the [ENTER] button.
+The part’s tone will be selected.
+
+Playing PCM tones
+1. Press the [PCM] button.
+The tone of the selected part will change to a PCM tone.
+The display will show the PCM tone list.
+2. Use the cursor buttons to change the type or the bank.
+3. Use the value dial to select a tone.
+4. Press the [ENTER] button.
+The part’s tone will be selected.
+
+——————————————————————————————————————————
+03 使用内置音色
+打开 INTEGRA-7 时，将出现顶部屏幕。您可以选择顶部屏幕的类型（第 48 页）。
+
+播放 SuperNATURAL 音色
+1. 按 [SuperNATURAL] 按钮。
+所选部分的音色将变为 SuperNATURAL 音色。
+显示屏将显示 SuperNATURAL 音色列表。
+2. 使用光标按钮更改类型或音色库。
+3. 使用数值拨盘选择音色。
+4. 按 [ENTER] 按钮。
+将选择该部分的音色。
+
+播放 PCM 音色
+1. 按 [PCM] 按钮。
+所选部分的音色将变为 PCM 音色。
+显示屏将显示 PCM 音色列表。
+2. 使用光标按钮更改类型或音色库。
+3. 使用数值拨盘选择音调。
+4. 按 [ENTER] 按钮。
+该部分的音调将被选中。
+
+MEMO
+Tone Preview function By pressing the [VOLUME] knob you can audition the tone of the selected part.
+
+备注
+音调预览功能 通过按下 [VOLUME] 旋钮，您可以试听所选部分的音调。
+
+Connecting a MIDI keyboard and performing
+* Depending on the settings of the connected MIDI keyboard, note messages played on the keyboard might be transmitted on several channels. Make settings on your MIDI keyboard so that the MIDI output is appropriate.
+
+连接 MIDI 键盘并演奏
+* 根据所连接 MIDI 键盘的设置，键盘上弹奏的音符信息可能会通过多个通道传输。请在 MIDI 键盘上进行设置，以使 MIDI 输出合适。
+
+Types and Features of the Internal Sounds
+For details on how to select sounds, refer to p. 12.
+
+SuperNATURAL Acoustic Tone (SN-A)
+
+####
+Changes in dynamics
+From delicate pianissimo to powerful fortissimo, these tones provide natural timbral variation (dynamics) that goes beyond mere changes in volume.
+
+* Dynamics can be controlled by note-on velocity, modulation controller (CC01), and expression (CC11).
+
+While a note is sounding, you can operate the modulation controller (CC01) or expression pedal (CC11) to continuously control the dynamics (except for struck-string instruments and plucked-string instruments).
+	
+####
+动态变化
+从细腻的弱音到强劲的强音，这些音调提供了自然的音色变化（动态），超越了单纯的音量变化。
+
+* 动态可以通过音符开启速度、调制控制器 (CC01) 和表情 (CC11) 来控制。
+
+在音符发声时，您可以操作调制控制器 (CC01) 或表情踏板 (CC11) 来连续控制动态（打击弦乐器和拨弦乐器除外）。
+
+####
+Legato
+By playing legato (the technique of sending the next note-on before releasing the previous key) you can produce smooth transitions between notes.
+
+* To obtain the legato effect, set the Mono/Poly of the part settings to “MONO” and set the Legato switch to “ON” (p. 32).
+
+####
+连奏
+通过演奏连奏（在释放前一个键之前发送下一个音符的技术），您可以在音符之间产生平滑的过渡。
+
+* 要获得连奏效果，请将部分设置的单声道/复音设置为“MONO”，并将连奏开关设置为“ON”（第 32 页）。
+
+####
+Switching variation sounds
+Each instrument provides effective performance variation sounds; you can use control changes CC80, CC81, CC82, CC83 (Tone Variation 1–4) to switch instantly between them as you play.
+
+####
+切换变奏音色
+每种乐器都提供有效的演奏变奏音色；您可以使用控制变化 CC80、CC81、CC82、CC83（音调变化 1-4）在演奏时立即在它们之间切换。
+
+SuperNATURAL Synth Tone (SN-S)
+####
+Realistic filter behavior
+The INTEGRA-7 contains filters that simulate the classic analog synths of the past, producing natural-sounding change when you vary the cutoff frequency (CC74) or resonance (CC71).
+
+SuperNATURAL Drum Kit (SN-D)
+
+####
+Changes in dynamics
+From delicate pianissimo to powerful fortissimo, these sounds provide natural timbral variation (dynamics) that goes beyond mere changes in volume.
+
+SuperNATURAL 合成音 (SN-S)
+####
+逼真的滤波器行为
+INTEGRA-7 包含模拟过去经典模拟合成器的滤波器，当您改变截止频率 (CC74) 或共振 (CC71) 时会产生自然的声音变化。
+
+SuperNATURAL 鼓组 (SN-D)
+
+####
+动态变化
+从细腻的弱音到强劲的强音，这些声音提供了自然的音色变化（动态），超越了单纯的音量变化。
+
+####
+Eliminates boring uniformity even for repeated attacks
+To avoid monotonous uniformity, the sense of attack will differ for each strike.
+
+####
+即使反复敲击，也不会显得单调乏味
+为了避免单调乏味，每次敲击的打击感都会有所不同。
+
+####
+Ambience control for the entire kit
+The drum kit consists of multiple drum instruments such as snare, kick, and hi-hat. You can control the resonance between instruments and the ambience of the room.
+
+####
+整个鼓组的氛围控制
+鼓组由多种鼓乐器组成，例如小鼓、底鼓和踩镲。您可以控制乐器之间的共鸣和房间的氛围。
+
+####
+PCM Synth Tone (PCMS) / PCM Drum Kit (PCMD)
+The PCM synth tones and PCM drum kits are what were called patches and rhythm sets on previous Roland synthesizers; they are remarkable for their high quality and their rich variations. Many classic sounds tuned specifically for the INTEGRA-7 are included.
+
+####
+PCM 合成音 (PCMS) / PCM 鼓组 (PCMD)
+PCM 合成音和 PCM 鼓组是以前 Roland 合成器上所谓的音色和节奏组；它们以高品质和丰富的变化而着称。其中包括许多专为 INTEGRA-7 调音的经典音色。
+
+——————————————————————————————————————————
+04 Using the Expansion Sounds
+About the EXPANSION Virtual Slots
+The INTEGRA-7 contains all the sound data from the entire SRX series of wave expansion boards, as well as expansion SuperNATURAL tones.
+
+You can add these sounds by loading each title into one of the INTEGRA-7’s four EXPANSION Virtual Slots (Slot A–D). (In other words, sound data for up to four titles can be used simultaneously.) The sound data includes tones (patches), drum kits (rhythm sets), instruments, and wave (waveform) data. (The content will vary by title.)
+
+04 使用扩展音色
+关于扩展虚拟插槽
+INTEGRA-7 包含整个 SRX 系列波形扩展板的所有音色数据，以及扩展超自然音色。
+
+您可以通过将每个标题加载到 INTEGRA-7 的四个扩展虚拟插槽（插槽 A-D）之一来添加这些音色。（换句话说，最多可以同时使用四个标题的声音数据。）声音数据包括音色（音色）、鼓组（节奏组）、乐器和波形（波形）数据。（内容因标题而异。）
+
+####
+Sound data (expansion)
+The INTEGRA-7 contains all SRX series sound data, expansion SuperNATURAL tones, and high-quality GM2 sounds.
+
+When you load expansion sound data into the EXPANSION Virtual Slots (A–D), the loaded sounds will be available for selection from the corresponding sound bank (title is displayed).
+
+####
+声音数据（扩展）
+INTEGRA-7 包含所有 SRX 系列声音数据、扩展 SuperNATURAL 音调和高品质 GM2 声音。
+
+当您将扩展声音数据加载到 EXPANSION 虚拟插槽 (A–D) 时，可以从相应的音库中选择已加载的声音（显示标题）。
+
+####
+Loading sound data into an EXPANSION Virtual Slot
+1. Press the [MENU] button.
+2. Choose “EXPANSION” and press the [ENTER] button.
+The EXPANSION screen will appear. This screen shows the sounds that are loaded into each EXPANSION Virtual Slot.
+3. In the VIRTUAL SLOTS area, move the cursor to the slot that you want to load, and use the [DEC] [INC] buttons to select the desired sound data.
+
+MEMO
+To view the expansion sound list, move the cursor to “INFO/LIST” and press the [ENTER] button.
+
+4. Move the cursor to “LOAD” and press the [ENTER] button.
+A message will ask “Are you sure?”
+5. To execute, choose “OK” and press the [ENTER] button.
+
+MEMO
+You can also access the EXPANSION (VIRTUAL SLOT) screen by holding down the [SHIFT] button and pressing the [MENU] button.
+
+####
+将声音数据加载到扩展虚拟插槽
+1. 按下 [MENU] 按钮。
+2. 选择“扩展”并按下 [ENTER] 按钮。
+将出现扩展屏幕。此屏幕显示加载到每个扩展虚拟插槽中的声音。
+3. 在虚拟插槽区域中，将光标移动到要加载的插槽，然后使用 [DEC] [INC] 按钮选择所需的声音数据。
+
+备注
+要查看扩展声音列表，请将光标移动到“INFO/LIST”并按下 [ENTER] 按钮。
+
+4. 将光标移动到“LOAD”并按下 [ENTER] 按钮。
+将出现一条消息询问“您确定吗？”
+5. 要执行，请选择“OK”并按下 [ENTER] 按钮。
+
+备注
+您还可以通过按住 [SHIFT] 按钮并按下 [MENU] 按钮来访问扩展（虚拟插槽）屏幕。
+
+####
+Using SRX series sounds
+SRX series sounds can be selected in the same way as PCM sounds.
+Select one SRX bank (SRX-01–SRX-12) to use the sounds that have been loaded into an EXPANSION Virtual Slot.
+* Some SRX titles have no PCM drum kit (PCMD).
+
+####
+使用 SRX 系列声音
+SRX 系列声音的选择方式与 PCM 声音相同。
+选择一个 SRX 音库 (SRX-01–SRX-12) 以使用已加载到 EXPANSION 虚拟插槽中的声音。
+* 某些 SRX 标题没有 PCM 鼓组 (PCMD)。
+
+####
+Using SuperNATURAL sounds
+SuperNATURAL sounds that have been loaded can be selected in the same way as the SuperNATURAL sounds of preset memory or user memory.
+
+Select one ExSN bank (ExSN1–SxSN6) to use the sounds that have been loaded into an EXPANSION Virtual Slot.
+
+* ExSN 1--5 contain only SuperNATURAL acoustic tones, and ExSN6 contains only SuperNATURAL drum kits.
+
+####
+使用 SuperNATURAL 音色
+可以像选择预设内存或用户内存中的 SuperNATURAL 音色一样选择已加载的 SuperNATURAL 音色。
+
+选择一个 ExSN 库 (ExSN1–SxSN6) 以使用已加载到 EXPANSION 虚拟插槽中的声音。
+
+* ExSN 1--5 仅包含 SuperNATURAL 原声音色，ExSN6 仅包含 SuperNATURAL 鼓组。
+
+####
+Using ExPCM sounds
+Loaded ExPCM sounds can be selected in the same way as PCM sounds.
+
+The sounds loaded into the EXPANSION Virtual Slot can be made available for use by selecting the ExPCM bank.
+
+When you load the ExPCM sounds, the “GM2” bank indication will change to “GM2#”, and high-quality GM2 sounds will be available.
+
+* The ExPCM sounds use all four slots.
+* You can’t edit ExPCM tones.
+
+####
+使用 ExPCM 声音
+可以像选择 PCM 声音一样选择已加载的 ExPCM 声音。
+
+通过选择 ExPCM 库，可以使用已加载到 EXPANSION 虚拟插槽中的声音。
+
+加载 ExPCM 声音时，“GM2”库指示将更改为“GM2#”，并且将提供高品质的 GM2 声音。
+
+* ExPCM 声音使用所有四个插槽。
+* 您无法编辑 ExPCM 音调。
+
+####
+If you want the expansion sounds to be loaded automatically at start-up
+You can have the INTEGRA-7 automatically load specified sound data into the EXPANSION Virtual Slots upon startup.
+* With the factory settings, the sound data will be loaded.
+1. Press the [MENU] button.
+2. In the MENU screen, choose “SYSTEM” and press the [ENTER] button.
+3. Select the desired sound data for Startup Exp Slot A–D.
+4. Hold down the [SHIFT] button and press the [EDIT] button to save the settings.
+
+####
+如果您希望在启动时自动加载扩展声音
+您可以让 INTEGRA-7 在启动时自动将指定的声音数据加载到 EXPANSION 虚拟插槽中。
+* 使用出厂设置，将加载声音数据。
+1. 按 [MENU] 按钮。
+2. 在 MENU 屏幕中，选择“SYSTEM”并按 [ENTER] 按钮。
+3. 选择启动扩展插槽 A–D 所需的声音数据。
+4. 按住 [SHIFT] 按钮并按 [EDIT] 按钮保存设置。
+
+——————————————————————————————————————————
+05 Creating a Sound Field with Depth
+####
+Connection example
+Here’s an example of using the INTEGRA-7’s Motional Surround function for 5.1 channel surround output.
+
+Place your speakers as shown in the illustration.
+
+To use the Motional Surround function, press the [MOTIONAL SURROUND] button to turn the Motional Surround function on.
+
+Dolby Digital and DTS are not supported. Please use analog cables to connect five speakers and a subwoofer.
+
+If you want to use Motional Surround with a two-channel system, connect your speakers to the A (MIX) L (MONO)/R jacks.
+
+REFERENCE
+• For more about connections, refer to “Rear Panel Connections” (p. 22).
+• For more about front center speaker (C jack) and subwoofer (LFE jack) output settings, refer to “Motional Surround Settings (MOTIONAL SURROUND)” (p. 49) in System Settings.
+
+——————————————————————————————————————————
+05 创建具有深度的声场
+####
+连接示例
+以下是使用 INTEGRA-7 的动态环绕功能实现 5.1 声道环绕输出的示例。
+
+按照图示放置扬声器。
+
+要使用动态环绕功能，请按 [MOTIONAL SURROUND] 按钮打开动态环绕功能。
+
+不支持杜比数字和 DTS。请使用模拟电缆连接五个扬声器和一个低音炮。
+
+如果要在双声道系统中使用动态环绕，请将扬声器连接到 A (MIX) L (MONO)/R 插孔。
+
+参考
+• 有关连接的更多信息，请参阅“后面板连接”（第 22 页）。
+• 有关前置中置扬声器 (C 插孔) 和重低音扬声器 (LFE 插孔) 输出设置的更多信息，请参阅系统设置中的“动态环绕设置 (MOTIONAL SURROUND)” （第 49 页）。
+
+####
+About the monitoring environment
+• An acoustically dead space with minimal reverberation is ideal as a monitoring room.
+• You should monitor at the sweet spot of your speaker system.
+
+Concerning perception of a sound image’s location
+• The ease with which one can sense where a sound emanates from can differ depending on the sound.
+For example, it is difficult to perceive the spatial location of low-frequency sounds or sounds that have relatively little harmonic content (such as sine waves). Conversely, it tends to be easier to determine the location of sounds having rich harmonic content and a distinct attack.
+• Perception of front/back localization can differ between individuals.
+
+####
+关于监听环境
+• 混响最小的声学死角是理想的监听室。
+• 您应该在扬声器系统的最佳位置进行监听。
+
+关于对声像位置的感知
+• 人们感知声音来源的难易程度可能因声音而异。
+例如，很难感知低频声音或谐波含量相对较少的声音（如正弦波）的空间位置。相反，往往更容易确定谐波含量丰富且攻击性明显的声音的位置。
+• 每个人对前后定位的感知可能不同。
+
+####
+Using Motional Surround
+1. Press the [MOTIONAL SURROUND] button.
+Motional Surround will turn on, and the MOTIONAL SURROUND screen will appear.
+2. Use the PART [ ] [ ] buttons to select a part.
+The selected part number will be highlighted.
+3. Use the cursor buttons to specify the sound’s panning (front/rear, left/right).
+
+####
+使用动态环绕
+1. 按下 [动态环绕] 按钮。
+动态环绕将打开，并出现动态环绕屏幕。
+2. 使用 PART [ ] [ ] 按钮选择一个部分。
+所选部分编号将突出显示。
+3. 使用光标按钮指定声音的声像（前/后、左/右）。
+
+####
+Detailed settings for Motional Surround
+Here’s how to make detailed settings for the ambience effect and for each part.
+1. In the MOTIONAL SURROUND screen, press the [ENTER] button.
+The MOTIONAL SURROUND EDIT screen will appear.
+2. Use the cursor [ ] [ ] buttons to select the “COMMON,” “PART,” or “CONTROL” tab, and use the
+cursor [ ] [ ] buttons to select a parameter.
+3. Use the value dial to edit the setting.
+REFERENCE
+For details on the each parameters, refer to p. 35.
+
+####
+Motional Surround 的详细设置
+以下介绍如何对环境效果和每个部分进行详细设置。
+1. 在 MOTIONAL SURROUND 屏幕中，按 [ENTER] 按钮。
+将出现 MOTIONAL SURROUND EDIT 屏幕。
+2. 使用光标 [ ] [ ] 按钮选择“COMMON”、“PART”或“CONTROL”选项卡，然后使用
+光标 [ ] [ ] 按钮选择一个参数。
+3. 使用数值拨盘编辑设置。
+参考
+有关每个参数的详细信息，请参阅第 35 页。
+
+####
+What is Motional Surround?
+The INTEGRA-7 supports two-channel and 5.1 channel surround output. By using the Motional Surround function, you can freely and easily control the placement of each part (p. 34).
+
+While conventional systems allow sound to be placed only in the left/right direction, this new function adds the front/back dimension, enabling you to play sounds that you’ve freely placed in a soundscape with depth. Additionally, you can specify the type and size of room; this allows you to adjust the acoustics as appropriate for your song, ranging from an intimate room to a large concert hall.
+####
+什么是动态环绕？
+INTEGRA-7 支持双声道和 5.1 声道环绕输出。通过使用动态环绕功能，您可以自由轻松地控制每个部分的放置（第 34 页）。
+
+虽然传统系统只允许声音放置在左/右方向，但此新功能增加了前后维度，使您能够播放自由放置在具有深度的音景中的声音。此外，您可以指定房间的类型和大小；这允许您根据您的歌曲调整音响效果，范围从私密的房间到大型音乐厅。
+
+——————————————————————————————————————————
+06 Using SONAR LE to Play Sounds (Windows)
+####
+Installing SONAR LE
+Install the included SONAR LE in your computer.
+For details on installation and main operations, refer to the manual included on the SONAR LE DVD-ROM.
+* SONAR LE is for Windows only. If you are a Mac user, you’ll need to obtain DAW software separately.
+
+06 使用 SONAR LE 播放声音（Windows）
+####
+安装 SONAR LE
+在计算机中安装随附的 SONAR LE。
+有关安装和主要操作的详细信息，请参阅 SONAR LE DVD-ROM 中附带的手册。
+* SONAR LE 仅适用于 Windows。如果您是 Mac 用户，则需要单独获取 DAW 软件。
+
+####
+Audio and MIDI settings
+Important!
+Before you begin making settings, download the INTEGRA-7’s USB driver from the Roland website and install it (p. 43). When installing the driver, change the USB Driver setting to “VENDER” (p. 44).
+
+Audio settings
+Specify the INTEGRA-7 as the audio input and output.
+1. Use a USB cable to connect the INTEGRA-7 to your computer.
+Connect the INTEGRA-7 to your computer as shown in “Connection example 1: A compact production setup” (p. 10).
+2. Start up SONAR.
+3. The “Quick Start” dialog box will appear. Click [Close].
+4. Click [Edit] [Preferences] to access the “Preferences” dialog box.
+5. From the “Audio” list at the left of the screen, choose [Options]. Choose “ASIO” as the driver mode, and click [Apply].
+6. In the “Audio” section of the list at the left of the screen, choose [Select Device]. Clear the check marks from audio devices
+you’re not using, and enter a check mark only for the INTEGRA-7.
+* When selecting INTEGRA-7 OUT as the output device, you need to set the “Ext Part Source Select” parameter under “Volume and Pitch Settings (SOUND)” (p. 48) to “USB AUDIO.”
+
+####
+音频和 MIDI 设置
+重要！
+开始设置之前，请从 Roland 网站下载并安装 INTEGRA-7 的 USB 驱动程序（第 43 页）。安装驱动程序时，将 USB 驱动程序设置更改为“VENDER”（第 44 页）。
+
+音频设置
+将 INTEGRA-7 指定为音频输入和输出。
+1. 使用 USB 电缆将 INTEGRA-7 连接到计算机。
+按照“连接示例 1：紧凑型生产设置”（第 10 页）所示将 INTEGRA-7 连接到计算机。
+2. 启动 SONAR。
+3. 将出现“快速启动”对话框。单击 [关闭]。
+4. 单击 [编辑] [首选项] 以访问“首选项”对话框。
+5. 从屏幕左侧的“音频”列表中，选择 [选项]。选择“ASIO”作为驱动模式，然后单击[应用]。
+6. 在屏幕左侧列表的“音频”部分中，选择[选择设备]。清除不使用的音频设备的复选标记，然后仅为 INTEGRA-7 输入复选标记。
+* 当选择 INTEGRA-7 OUT 作为输出设备时，您需要将“音量和音调设置（SOUND）”（第 48 页）下的“外部部分源选择”参数设置为“USB AUDIO”。
+
+####
+MIDI settings
+Next, you need to specify the INTEGRA-7 as the MIDI input and output device.
+7. In the “MIDI” section of the list at the left of the screen, choose [Select Device]. Enter a check mark for the INTEGRA-7, and clear the check marks from MIDI devices you’re not using.
+
+* When handling ordinary performance data, use “INTEGRA-7.”
+Use “INTEGRA-7 CTRL” (Windows only) when handling control data, such as
+that for MOTIONAL SURROUND.
+
+8. Click [Apply].
+9. In the “Preferences” dialog box, click [Close].
+
+MEMO If the INTEGRA-7 is not shown in the list of devices, close SONAR and try the operation again from step 2.
+If it is still not shown, the driver installation might not have completed successfully. Uninstall the driver, and then install the driver once again.
+
+####
+MIDI 设置
+接下来，您需要将 INTEGRA-7 指定为 MIDI 输入和输出设备。
+7. 在屏幕左侧列表的“MIDI”部分中，选择 [选择设备]。为 INTEGRA-7 输入复选标记，并清除未使用的 MIDI 设备的复选标记。
+
+* 处理普通演奏数据时，使用“INTEGRA-7”。
+处理控制数据（例如 MOTIONAL SURROUND 的控制数据）时，使用“INTEGRA-7 CTRL”（仅限 Windows）。
+
+8. 单击 [应用]。
+9. 在“首选项”对话框中，单击 [关闭]。
+
+备注 如果 INTEGRA-7 未显示在设备列表中，请关闭 SONAR 并从步骤 2 开始重试操作。
+如果仍未显示，则驱动程序安装可能未成功完成。卸载驱动程序，然后再次安装驱动程序。
+
+####
+Recording on a MIDI track
+Connect the INTEGRA-7 to your computer as shown in “Connection example 1: A compact production setup” (p. 10).
+* Turn the INTEGRA-7’s USB-MIDI Thru setting (p. 49) ON.
+
+1. In the [File] menu, click [New].
+The “Create a New Project” dialog box will appear.
+2. In the “Template” area, choose [Normal]; in the “Name” area, enter a name for your project and then click [OK].
+3. Record a MIDI track in SONAR.
+For details on how to record, refer to SONAR’s help.
+4. Play back SONAR.
+You’ll hear sound from the INTEGRA-7.
+
+####
+在 MIDI 音轨上录音
+按照“连接示例 1：紧凑型制作设置”（第 10 页）中所示，将 INTEGRA-7 连接到您的计算机。
+* 打开 INTEGRA-7 的 USB-MIDI Thru 设置（第 49 页）。
+
+1. 在 [文件] 菜单中，单击 [新建]。
+将出现“创建新项目”对话框。
+2. 在“模板”区域中，选择 [正常]；在“名称”区域中，输入项目名称，然后单击 [确定]。
+3. 在 SONAR 中录制 MIDI 音轨。
+有关如何录制的详细信息，请参阅 SONAR 的帮助。
+4. 播放 SONAR。
+您将听到来自 INTEGRA-7 的声音。
+
+####
+Recording the INTEGRA-7’s sound on an audio track
+1. In the [Insert] menu, choose [Audio Track].
+One audio track will be added.
+2. For the input field of the audio track, choose “Stereo INTEGRA-7 IN.”
+MEMO
+If the input field is not shown, click the track control list and choose “ALL.”
+3. Adjust the recording level.
+Put the track in recording-standby mode, then get the INTEGRA-7 to start playing. Adjust the input level of the SONAR so that the level meter reaches approximately -6 during the loudest passages.
+* For details on the recording procedure, refer to SONAR’s help.
+4. Record.
+Put the track in recording-standby mode, and press the record button of the transport module to begin recording.
+5. When the song ends, press the stop button. Recording will stop, and the recorded sound will be shown as a waveform in the audio track of SONAR.
+
+###
+将 INTEGRA-7 的声音录制到音轨上
+1. 在 [插入] 菜单中，选择 [音轨]。
+将添加一个音轨。
+2. 对于音轨的输入字段，选择“立体声 INTEGRA-7 输入”。
+备注
+如果未显示输入字段，请单击轨道控制列表并选择“全部”。
+3. 调整录音电平。
+将轨道置于录音待机模式，然后让 INTEGRA-7 开始播放。调整 SONAR 的输入电平，使电平表在最响亮的段落达到大约 -6。
+* 有关录音过程的详细信息，请参阅 SONAR 的帮助。
+4. 录音。
+将轨道置于录音待机模式，然后按下传输模块的录音按钮开始录音。
+5. 当歌曲结束时，按停止按钮。录音将停止，并且录制的声音将以波形形式显示在 SONAR 的音轨中。
+
+*******************************************
+Panel Descriptions
+——————————————————————————————————————————
+Front Panel
+
+表格略
+
+####
+Turning the INTEGRA-7 On/Off
+Once everything is properly connected (p. 22), be sure to follow the procedure below to turn on their power. If you turn on equipment in the wrong order, you risk causing malfunction or equipment failure.
+
+####
+打开/关闭 INTEGRA-7
+一切连接正确后（第 22 页），请务必按照以下步骤打开电源。如果按错误顺序打开设备，可能会导致故障或设备故障。
+
+####
+Turning the INTEGRA-7 On
+Before turning the unit on/off, always be sure to turn the volume down. Even with the volume turned down, you might hear some sound when switching the unit on/off. However, this is normal and does not indicate a malfunction.
+
+####
+打开 INTEGRA-7
+在打开/关闭设备之前，请务必调低音量。即使调低音量，打开/关闭设备时也可能会听到一些声音。但是，这是正常现象，并不表示出现故障。
+
+1. Minimize the volume of the INTEGRA-7 and your speakers.
+2. Turn the INTEGRA-7’s [ ] switch ON.
+This unit is equipped with a protection circuit. A brief interval (a few seconds) after turning the unit on is required before it will operate normally.
+3. Turn on the power of your speakers.
+4. Use the [VOLUME] knob to adjust the volume appropriately.
+
+1. 将 INTEGRA-7 和扬声器的音量调到最小。
+2. 打开 INTEGRA-7 的 [ ] 开关。
+本机配有保护电路。打开本机后需要短暂间隔（几秒钟）才能正常运行。
+3. 打开扬声器的电源。
+4. 使用 [VOLUME] 旋钮适当调节音量。
+
+NOTE
+With the factory settings, the INTEGRA-7 will automatically be switched off four hours after you stop playing or operating the unit. If you don’t want the unit to turn off automatically, change the “Auto Off” setting to “OFF” as described on p. 55.
+
+注意
+在出厂设置下，INTEGRA-7 会在您停止播放或操作设备四小时后自动关闭。如果您不想让设备自动关闭，请按照第 55 页所述将“自动关闭”设置更改为“关闭”。
+
+* The settings you were editing will be lost when the unit is turned off. If you want to keep your settings, you must save your settings before turning the unit off.
+
+* When turning the unit back on after it was turned off by the Auto-Off function, you must wait at least 10 seconds before turning the unit on. If you do not allow this interval to pass, the Auto-Off function might not be reset, and the unit might not turn on normally.
+
+This unit is equipped with a protection circuit. A brief interval (a few seconds) after turning the unit on is required before it will operate normally.
+
+* 关闭设备时，您正在编辑的设置将丢失。如果您想保留设置，必须在关闭设备之前保存设置。
+
+* 在通过自动关闭功能关闭设备后再次打开设备时，必须等待至少 10 秒钟才能打开设备。如果您不等待此间隔，则自动关闭功能可能无法重置，并且设备可能无法正常打开。
+
+本机配备有保护电路。打开设备后需要短暂间隔（几秒钟）才能正常运行。
+
+####
+Turning the INTEGRA-7 Off
+1. Minimize the volume of the INTEGRA-7 and your speakers.
+2. Turn off the power of your speakers.
+3. Turn the INTEGRA-7’s [ ] switch OFF.
+
+NOTE
+If you need to turn off the power completely, first turn off the unit, then unplug the power cord from the power outlet. Refer to Power Supply (p. 5).
+
+关闭 INTEGRA-7
+1. 将 INTEGRA-7 和扬声器的音量调到最小。
+2. 关闭扬声器的电源。
+3. 关闭 INTEGRA-7 的 [ ] 开关。
+
+注意
+如果您需要完全关闭电源，请先关闭设备，然后从电源插座上拔下电源线。请参阅电源（第 5 页）。
+
+####
+Playing the Demo Song
+1. Press the [MENU] button.
+2. Choose “DEMO PLAY” and press the [ENTER] button.
+3. Choose a demo song and press the [ENTER] button.
+The demo song will play.
+* The performance data for the demo song will not be output from the MIDI OUT connector.
+* If you want sound to be produced from the front center / subwoofer of your 5.1 channel speaker system, turn the 5.1CH Center SP Switch /Sub Woofer(LFE) Switch “ON.”
+
+MEMO
+The DEMO MENU screen can also be accessed by pressing the [EXIT] button while holding down the [SHIFT] button.
+
+####
+播放演示歌曲
+1. 按 [MENU] 按钮。
+2. 选择“DEMO PLAY”并按 [ENTER] 按钮。
+3. 选择一首演示歌曲并按 [ENTER] 按钮。
+演示歌曲将播放。
+* 演示歌曲的演奏数据不会从 MIDI OUT 连接器输出。
+* 如果希望从 5.1 声道扬声器系统的前置中央/低音炮发出声音，请将 5.1CH 中央 SP 开关/低音炮 (LFE) 开关设置为“ON”。
+
+备注
+也可以通过按住 [SHIFT] 按钮的同时按 [EXIT] 按钮来访问 DEMO MENU 屏幕。
+
+——————————————————————————————————————————
+Rear Panel Connections
+
+####
+OUTPUT jacks
+(When motional surround (p. 34) is OFF)
+A (MIX) L/MONO, R jacks
+These jacks output a stereo signal (L/R) to your amp or mixer.
+If you want to output in mono, connect to only the L side.
+Both XLR type and TRS type jacks are provided; they output the same audio.
+B, C, D L/R jacks
+These jacks output a stereo signal (L/R) to your amp or mixer.
+* The [VOLUME] knob on the front panel does not adjust the volume of these jacks.
+
+####
+输出插孔
+（当动态环绕声（第 34 页）关闭时）
+A（MIX）L/MONO、R 插孔
+这些插孔将立体声信号（L/R）输出到您的放大器或混频器。
+如果您想要以单声道输出，请仅连接到 L 侧。
+提供 XLR 类型和 TRS 类型插孔；它们输出相同的音频。
+B、C、D L/R 插孔
+这些插孔将立体声信号（L/R）输出到您的放大器或混频器。
+* 前面板上的 [VOLUME] 旋钮不会调节这些插孔的音量。
+
+####
+INDIVIDUAL 1–8 jacks
+These jacks output mono signals to your amp or mixer.
+* The [VOLUME] knob on the front panel does not adjust the volume of INDIVIDUAL 3–8 jacks.
+
+* The output destination (A–D, 1–8) can be assigned independently for each part “Output Assign” (p. 32).
+
+###
+INDIVIDUAL 1–8 插孔
+这些插孔将单声道信号输出到您的放大器或混音器。
+* 前面板上的 [VOLUME] 旋钮不会调节 INDIVIDUAL 3–8 插孔的音量。
+
+* 可以为每个部分独立分配输出目的地（A–D、1–8）“输出分配”（第 32 页）。
+
+####
+OUTPUT jacks
+(When motional surround (p. 34) is ON) Supports both two-channel and 5.1 channel surround output.
+
+MOTIONAL SURROUND 2 CH L/R jacks These jacks allow two speakers to output sound with spatial depth as specified by the motional surround settings.
+
+The same audio will be output from the TRS type and the XLR type jacks.
+
+MOTIONAL SURROUND 5.1 CH L/R/C/Ls/Rs/LFE jacks These jacks output 5.1 channel surround as specified by the motional surround settings.
+
+Position your speakers as shown in the illustration.
+
+* The [VOLUME] knob on the front panel does not adjust the volume of these jacks.
+
+* Two-channel and 5.1 channel surround are output simultaneously.
+
+* To prevent malfunction and equipment failure, always turn down the volume, and turn off all the units before making any connections.
+* This instrument is equipped with balanced (XLR/TRS) type jacks. Wiring diagrams for these jacks are shown below. Make connections after first checking the wiring diagrams of other equipment you intend to connect.
+
+* When connection cables with resistors are used, the volume level of equipment connected to the input jacks (front, rear) may be low. If this happens, use connection cables that do not contain resistors.
+
+####
+输出插孔
+（当动态环绕声（第 34 页）打开时）支持双声道和 5.1 声道环绕声输出。
+
+动态环绕声 2 CH L/R 插孔 这些插孔允许两个扬声器输出具有动态环绕声设置所指定的空间深度的声音。
+
+TRS 类型和 XLR 类型插孔将输出相同的音频。
+
+动态环绕声 5.1 CH L/R/C/Ls/Rs/LFE 插孔 这些插孔输出动态环绕声设置所指定的 5.1 声道环绕声。
+
+按照图示放置扬声器。
+
+* 前面板上的 [VOLUME] 旋钮不会调节这些插孔的音量。
+
+* 双声道和 5.1 声道环绕声同时输出。
+
+* 为防止故障和设备故障，在进行任何连接之前，请务必调低音量并关闭所有设备。
+* 本乐器配备平衡 (XLR/TRS) 型插孔。这些插孔的接线图如下所示。在连接之前，请先检查要连接的其他设备的接线图。
+
+* 使用带电阻的连接线时，连接到输入插孔（前、后）的设备的音量可能会较低。如果发生这种情况，请使用不包含电阻的连接线。
+
+——————————————————————————————————————————
+Getting Acquainted with the INTEGRA-7
+####
+Studio Sets
+Studio Sets allow you to use multiple tones and drum kits simultaneously.
+
+One studio set contains 16 “parts” for tones and one external part (EXT PART). You can assign a tone or drum kit to each part, allowing you to create an ensemble or to play rich-sounding layers.
+
+If you’re using an external MIDI device or DAW software, you’ll be able to independently control multiple sounds on a single INTEGRA-7 unit.
+
+熟悉 INTEGRA-7
+####
+录音室套装
+录音室套装允许您同时使用多种音色和鼓组。
+
+一个录音室套装包含 16 个音色“部分”和一个外部部分 (EXT PART)。您可以为每个部分分配一个音色或鼓组，这样您就可以创建合奏或演奏音色丰富的层次。
+
+如果您使用外部 MIDI 设备或 DAW 软件，您将能够独立控制单个 INTEGRA-7 设备上的多种声音。
+
+####
+How a Tone Is Structured
+A “tone” is a unit of sound used when performing. There are “SuperNATURAL tones” and “PCM tones,” each containing their own effect (MFX) settings.
+
+You need to select a tone from the sound library and assign it to a part. You can also edit a tone and save it in user memory.
+
+####
+音调的结构
+“音调”是演奏时使用的声音单位。有“SuperNATURAL 音调”和“PCM 音调”，每种音调都包含自己的效果 (MFX) 设置。
+
+您需要从音效库中选择音调并将其分配给某个部分。您还可以编辑音调并将其保存在用户内存中。
+
+####
+SuperNATURAL Tone
+There are three types of SuperNATURAL tones: “SuperNATURAL acoustic tones,” “SuperNATURAL synth tones,” and “SuperNATURAL drum kits.”
+
+####
+SuperNATURAL 音色
+SuperNATURAL 音色有三种类型：“SuperNATURAL 原声音色”、“SuperNATURAL 合成音色”和“SuperNATURAL 鼓组”。
+
+####
+SuperNATURAL Acoustic Tone (p. 38) These tones do not merely reproduce the sound of acoustic instruments, they also use behavior modeling technology appropriate for the selected tone to emulate the expressive power distinctive of each acoustic instrument, such as the phrases performed by the player and the differences between chords and melodic phrases.
+
+####
+SuperNATURAL 原声音色 (第 38 页) 这些音色不仅重现原声乐器的声音，还使用适合所选音色的行为建模技术来模拟每种原声乐器独特的表现力，例如演奏者演奏的乐句以及和弦与旋律乐句之间的差异。
+
+####
+SuperNATURAL Synth Tone (p. 38)
+These tones consist of three partials, and allow powerful synth sounds to be produced by a single tone.
+
+####
+SuperNATURAL 合成音 (第 38 页)
+这些音调由三个泛音组成，允许通过单个音调产生强大的合成音。
+
+####
+SuperNATURAL Drum Kit (p. 39)
+These tones consist of 62 partials; they allow you to sound a different percussion instrument for each key (note number) that’s played.
+
+A drum kit is provided with six compressor + equalizer units, allowing you to divide the instruments into groups so that you can individually adjust the dynamics of each group or modify its tone quality.
+
+####
+SuperNATURAL 鼓组（第 39 页）
+这些音调由 62 个泛音组成；它们允许您为弹奏的每个键（音符编号）发出不同的打击乐器的声音。
+
+鼓组配有六个压缩器 + 均衡器单元，允许您将乐器分成几组，以便您可以单独调整每组的动态或修改其音质。
+
+####
+PCM Tone
+There are two types of PCM tones: “PCM synth tones” and “PCM drum kits.”
+PCM Synth Tone (p. 39)
+These tones consist of four partials. Each partial can be turned on/off individually, allowing you to choose which partials will be heard.
+PCM Drum Kit (p. 40)
+These consist of 88 partials, and allow for the play of a different percussion instrument sound for each key (note number) you press. A drum kit is provided with six compressor + equalizer units, allowing you to divide the instruments into groups so that you can individually adjust the dynamics of each group or modify its tone quality.
+* The six compressor + equalizer units for a drum kit are applied only to one specified part of the multiple parts to which a drum kit can be assigned.
+Make this setting in STUDIO SET COMMON (p. 32).
+* Dedicated multi-effect settings are included in each tone (SuperNATURAL tones and PCM tones) built into the INTEGRA-7.
+
+####
+PCM 音调
+PCM 音调有两种类型：“PCM 合成音调”和“PCM 鼓组”。
+PCM 合成音调（第 39 页）
+这些音调由四个分音组成。每个分音都可以单独打开/关闭，让您选择要听到的分音。
+PCM 鼓组（第 40 页）
+它们由 88 个分音组成，并允许您按下的每个键（音符编号）播放不同的打击乐器声音。鼓组配有六个压缩器 + 均衡器单元，允许您将乐器分成几组，以便您可以单独调整每组的动态或修改其音质。
+* 鼓组的六个压缩器 + 均衡器单元仅应用于可以分配鼓组的多个部分中的一个指定部分。
+在 STUDIO SET COMMON（第 32 页）中进行此设置。
+* INTEGRA-7 内置的每种音调（SuperNATURAL 音调和 PCM 音调）都包含专用的多重效果设置。
+
+####
+EXPANSION Virtual Slots
+EXPANSION Virtual Slots are banks into which you can load “EXPANSION SOUNDS” sound data for use.
+
+“SRX tones,” “SuperNATURAL tones,” or “ExPCM (GM2 compatible) tones” can be loaded into an EXPANSION Virtual Slot. “ExPCM tones” use all four slots, meaning that they do not allow other tones to be loaded.
+
+For details, refer to “04 Using the Expansion Sounds” (p. 14).
+
+####
+扩展虚拟插槽
+扩展虚拟插槽是可以加载“扩展音色”声音数据以供使用的音库。
+
+“SRX 音色”、“SuperNATURAL 音色”或“ExPCM（GM2 兼容）音色”可以加载到扩展虚拟插槽中。“ExPCM 音色”使用所有四个插槽，这意味着它们不允许加载其他音色。
+
+有关详细信息，请参阅“04 使用扩展音色”（第 14 页）。
+
+####
+How a Studio Set Is Structured
+A studio set has sixteen parts; you can assign a tone to each part, allowing you to use sixteen sounds simultaneously.
+
+* Although you are free to assign a drum kit to any or all of the parts, we have assigned a drum kit to part 10 and a tone to the remaining parts as an example.
+
+####
+录音室套装的结构
+录音室套装有 16 个部分；您可以为每个部分分配一个音调，这样您就可以同时使用 16 种声音。
+
+* 虽然您可以自由地为任何或所有部分分配一套鼓，但我们已为第 10 部分分配一套鼓，并为其余部分分配一个音调，以此为例。
+
+Bank
+Tones are organized into groups called “banks.”
+
+Part
+A “part” is a location to which you can assign a tone or drum kit in order to play it on the INTEGRA-7.
+
+Partial
+A “partial” is a unit of sound within a SuperNATURAL synth tone (p. 38), SuperNATURAL drum kit (p. 39), PCM synth tone (p. 39), or PCM drum kit (p. 40). These tones consist of multiple partials.
+
+Inst
+An “inst” is the smallest unit of sound within a SuperNATURAL acoustic tone (p. 38). Each SuperNATURAL acoustic tone consists of a single “inst.”
+
+音库
+音色被组织成称为“音库”的组。
+
+声部
+“声部”是您可以将音色或鼓组分配到的位置，以便在 INTEGRA-7 上播放。
+
+部分
+“部分”是 SuperNATURAL 合成音色（第 38 页）、SuperNATURAL 鼓组（第 39 页）、PCM 合成音色（第 39 页）或 PCM 鼓组（第 40 页）中的声音单位。这些音色由多个部分组成。
+
+音符
+“音符”是 SuperNATURAL 原声音色（第 38 页）中最小的声音单位。每个 SuperNATURAL 原声音色都由一个“音符”组成。
+
+####
+Effects
+The INTEGRA-7 contains the following effects; each effect can be edited independently.
+
+####
+效果
+INTEGRA-7 包含以下效果；每个效果都可以独立编辑。
+
+####
+Effects for a Tone
+####
+音调效果
+
+#####
+Multi-effects (MFX)
+These are general-purpose effects that can modify the sound itself, even transforming it into an entirely different type of sound.
+You can choose from 67 types of effects as appropriate for your purpose.
+There are types that consist of a single effect, such as distortion or flanger, as well as a wide variety of other types. Although the multi- effect types also include chorus, this is a separate processor that is independent of the chorus unit of a studio set.
+Each tone has one set of multi-effect settings.
+
+#####
+多重效果 (MFX)
+这些是通用效果，可以修改声音本身，甚至将其转换为完全不同类型的声音。
+您可以根据自己的目的从 67 种效果中进行选择。
+有些类型只包含单一效果，例如失真或镶边，还有各种其他类型。虽然多重效果类型也包括合唱，但这是一个独立的处理器，独立于工作室合唱单元。
+每个音调都有一组多重效果设置。
+
+#####
+Compressor + Equalizer (COMP + EQ)
+A drum part allows you to use six compressor + equalizer units.
+They can be assigned individually to the drum instruments.
+* Although it is possible to assign drum kits to all of the parts, the six compressor + equalizer sets provided for a drum kit will be available only for the single part you specify (the Drum COMP + EQ Assign part).
+
+#####
+压缩器 + 均衡器 (COMP + EQ)
+鼓声部允许您使用六个压缩器 + 均衡器单元。
+它们可以单独分配给鼓乐器。
+* 虽然可以将鼓组分配给所有声部，但为鼓组提供的六个压缩器 + 均衡器组仅适用于您指定的单个声部（鼓 COMP + EQ 分配声部）。
+
+####
+Effects for a Studio Set
+#####
+Equalizer (EQ)
+This equalizer is applied to each individual part.
+It allows you to independently adjust the high, mid, and low-frequency ranges.
+
+####
+工作室套装效果
+#####
+均衡器 (EQ)
+此均衡器应用于每个单独的部分。
+它允许您独立调整高、中、低频范围。
+
+#####
+MOTIONAL SURROUND
+Motional surround allows you to not only position a sound anywhere between the left and right edges of the sound field, but also allows you to move it towards the front or rear.
+Two-channel and 5.1 channel output is supported, allowing you to place each instrument at the desired depth.
+* When you turn Motional Surround on, reverb/chorus will not be applied.
+
+#####
+动态环绕
+动态环绕不仅允许您将声音定位在声场的左边缘和右边缘之间的任何位置，还允许您将其向前或向后移动。
+支持双声道和 5.1 声道输出，允许您将每个乐器放置在所需的深度。
+* 当您打开动态环绕时，不会应用混响/合唱。
+
+#####
+CHORUS
+The chorus effect adds depth and spaciousness to the sound.
+* Motional Surround and chorus cannot be applied at the same time.
+
+#####
+合唱
+合唱效果为声音增添了深度和空间感。
+* 动态环绕和合唱不能同时应用。
+
+#####
+REVERB
+The reverb effect adds the reverberation that is characteristic of sounds played in a concert hall.
+You can choose from six types of reverb as appropriate for your needs.
+* Motional Surround and reverb cannot be applied at the same time.
+
+#####
+混响
+混响效果添加了音乐厅中播放的声音特有的混响。
+您可以根据需要从六种混响类型中进行选择。
+* 动态环绕和混响不能同时应用。
+
+#####
+MASTER EQ
+This equalizer is applied to the overall sound of the entire INTEGRA-7 sound module.
+It allows you to independently adjust the high, mid, and low-frequency ranges.
+
+#####
+MASTER EQ
+此均衡器应用于整个 INTEGRA-7 音效模块的整体声音。
+它允许您独立调整高、中、低频范围。
+
+####
+About Memory
+Memory is where data such as the settings for studio sets and tones are held.
+
+There are three types of memory: “temporary memory” (the temporary area, and the EXPANSION Virtual Slots), “rewritable memory” (user memory, system memory, and USB memory), and “non-rewritable memory” (preset memory).
+
+####
+关于内存
+内存是保存诸如工作室设置和音调设置等数据的地方。
+
+内存有三种类型：“临时内存”（临时区域和 EXPANSION 虚拟插槽）、“可重写内存”（用户内存、系统内存和 USB 内存）和“不可重写内存”（预设内存）。
+
+####
+Temporary memory
+#####
+Temporary Area
+This area temporarily holds the data of the studio set or tone that you’ve selected from the panel.
+####
+关于内存
+内存是保存诸如录音室设置和音调设置等数据的地方。
+
+内存有三种类型：“临时内存”（临时区域和 EXPANSION 虚拟插槽）、“可重写内存”（用户内存、系统内存和 USB 内存）和“不可重写内存”（预设内存）。####
+临时内存
+#####
+临时区域
+此区域临时保存您从面板中选择的录音室设置或音调的数据。
+
+When you play, the INTEGRA-7 produces sound according to the settings in the temporary area. When you edit a studio set or a tone, you’re not directly modifying the data in that memory; rather, the data is called into the temporary area, and your editing modifies this data.
+
+Settings in the temporary area are temporary, and will be lost when you turn off the unit or call up other settings. If you want to keep the settings of the temporary area, you must execute the Write operation (p. 29) to save them into rewritable User Memory.
+
+当您演奏时，INTEGRA-7 会根据临时区域中的设置发出声音。当您编辑录音室设置或音调时，您不会直接修改该内存中的数据；相反，数据会被调入临时区域，您的编辑会修改这些数据。
+
+临时区域中的设置是临时的，当您关闭设备或调用其他设置时，这些设置将会丢失。如果您想保留临时区域的设置，您必须执行写入操作（第 29 页）以将其保存到可重写的用户内存中。
+
+#####
+EXPANSION Virtual Slots
+Sound data from EXPANSION SOUNDS can be loaded into these memory locations to expand the available sounds.
+
+You can load four titles of SRX or SuperNATURAL sound data into these virtual slots.
+
+#####
+扩展虚拟插槽
+可以将来自扩展声音的声音数据加载到这些内存位置以扩展可用的声音。
+
+您可以将四个 SRX 或 SuperNATURAL 声音数据加载到这些虚拟插槽中。
+
+####
+Rewritable memory
+#####
+System Memory
+This is memory that holds the system parameter settings that specify how the INTEGRA-7 is to operate. To store the system parameters, execute the System Write operation (p. 48).
+
+####
+可重写内存
+#####
+系统内存
+此内存用于保存指定 INTEGRA-7 如何运行的系统参数设置。要存储系统参数，请执行系统写入操作（第 48 页）。
+
+####
+User Memory
+This is memory that stores data inside the INTEGRA-7. To store a studio set, execute Studio Set Write (p. 34). To store a tone, execute Tone Write (p. 40). To store a drum kit, execute Drum Kit Write (p. 40).
+
+####
+用户内存
+这是存储 INTEGRA-7 内部数据的内存。要存储录音室套装，请执行录音室套装写入 (p. 34)。要存储音色，请执行音色写入 (p. 40)。要存储鼓组，请执行鼓组写入 (p. 40)。
+
+* EXPANSION SOUNDS sound data that you’ve edited in the temporary area can be saved in user memory, but it will not be audible unless the EXPANSION SOUNDS used by that sound data have been loaded into an EXPANSION Virtual Slot.
+
+* 您在临时区域中编辑的扩展声音数据可以保存在用户内存中，但除非该声音数据所使用的扩展声音已加载到扩展虚拟插槽中，否则将无法听到。
+
+#####
+USB Memory
+You can use a USB flash drive to back up all of the studio sets, tones, and drum kits in User Memory, together with the system parameters from System Memory, as a single collection of data (p. 52).
+
+Of the studio sets and tones saved in the INTEGRA-7, you can select the desired sound data and export it to a USB flash drive. You can also select a desired studio set or tone from a file that was previously exported to a USB flash drive, and import it.
+
+#####
+USB 存储器
+您可以使用 USB 闪存驱动器将用户存储器中的所有录音室套装、音色和鼓组以及系统存储器中的系统参数备份为单个数据集合（第 52 页）。
+
+在 INTEGRA-7 中保存的录音室套装和音色中，您可以选择所需的声音数据并将其导出到 USB 闪存驱动器。您还可以从之前导出到 USB 闪存驱动器的文件中选择一个所需的录音室套装或音色，然后将其导入。
+
+####
+Non-rewritable Memory
+Preset Memory
+The data in preset memory cannot be rewritten.
+However, settings loaded from preset memory into the temporary area can be edited and then stored in user memory.
+
+####
+不可重写内存
+预设内存
+预设内存中的数据无法重写。
+但是，从预设内存加载到临时区域的设置可以进行编辑，然后存储在用户内存中。
+
+——————————————————————————————————————————
+Basic Operation
+This section explains the basic button operations used to operate the INTEGRA-7.
+
+####
+Switching Parts
+Here’s how to switch the part that’s shown in the screen or is selected (the “current part”).
+
+In the top screen, the current part is indicated by a symbol below the part number.
+
+PART [ ] [ ] buttons
+Press the PART [ ] button to switch to the next part. Press the PART [ ] button to switch to the previous part.
+If you hold down the PART [ ] or PART [ ] button, the part will change successively.
+The part will switch more rapidly if you press the PART [ ] (or
+PART [ ] button) while holding down the PART [ ] button (or PART [ ] button).
+
+####
+Moving the Cursor
+A single screen or window will contain multiple items (parameters) to edit or select. To edit a parameter’s setting, you must first move the cursor to that parameter’s value.
+The value of the selected parameter is highlighted.
+
+####
+Cursor buttons
+You can move the cursor by pressing the cursor [ ] [ ] [ ] [ ] buttons.
+If you hold down a cursor button, the cursor will continue moving.
+If you hold down the cursor button for the desired direction, and then press the opposite cursor button, the cursor will move more quickly.
+
+####
+Editing a Value
+To edit the value highlighted by the cursor, use either of the following controllers.
+• Value dial
+• [DEC] [INC] button
+
+####
+Value dial
+Turning the value dial toward the right will increase the value, and turning it toward the left will decrease the value.
+If you hold down the [SHIFT] button while turning the value dial, the value will change in larger steps.
+
+####
+[DEC] [INC] buttons
+Press the [INC] button to increase the value, or press the [DEC] button to decrease the value.
+• If you hold down a button, the value will increase (or decrease) continuously.
+• To rapidly increase the value, hold down the [INC] button and press the [DEC] button. Conversely, to rapidly decrease the value, hold down the [DEC] button and press the [INC] button.
+• If you hold down the [SHIFT] button and press the [INC] button or [DEC] button, the value will change in larger steps.
+
