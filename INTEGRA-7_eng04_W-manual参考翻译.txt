@@ -1483,22 +1483,38 @@ However, settings loaded from preset memory into the temporary area can be edite
 Basic Operation
 This section explains the basic button operations used to operate the INTEGRA-7.
 
+基本操作
+本节介绍操作 INTEGRA-7 的基本按钮操作。
+
 ####
 Switching Parts
 Here’s how to switch the part that’s shown in the screen or is selected (the “current part”).
-
 In the top screen, the current part is indicated by a symbol below the part number.
 
 PART [ ] [ ] buttons
 Press the PART [ ] button to switch to the next part. Press the PART [ ] button to switch to the previous part.
 If you hold down the PART [ ] or PART [ ] button, the part will change successively.
-The part will switch more rapidly if you press the PART [ ] (or
-PART [ ] button) while holding down the PART [ ] button (or PART [ ] button).
+The part will switch more rapidly if you press the PART [ ] (or PART [ ] button) while holding down the PART [ ] button (or PART [ ] button).
+
+####
+切换部分
+以下介绍如何切换屏幕上显示或选定的部分（“当前部分”）。
+在顶部屏幕中，当前部分由部分编号下方的符号表示。
+
+PART [ ] [ ] 按钮
+按 PART [ ] 按钮切换到下一个部分。按 PART [ ] 按钮切换到上一个部分。
+如果按住 PART [ ] 或 PART [ ] 按钮，部分将连续更改。
+如果在按住 PART [ ] 按钮（或 PART [ ] 按钮）的同时按下 PART [ ]（或 PART [ ] 按钮），部分将切换得更快。
 
 ####
 Moving the Cursor
 A single screen or window will contain multiple items (parameters) to edit or select. To edit a parameter’s setting, you must first move the cursor to that parameter’s value.
 The value of the selected parameter is highlighted.
+
+####
+移动光标
+单个屏幕或窗口将包含多个要编辑或选择的项目（参数）。要编辑参数的设置，您必须先将光标移动到该参数的值。
+所选参数的值将突出显示。
 
 ####
 Cursor buttons
@@ -1507,15 +1523,32 @@ If you hold down a cursor button, the cursor will continue moving.
 If you hold down the cursor button for the desired direction, and then press the opposite cursor button, the cursor will move more quickly.
 
 ####
+光标按钮
+您可以通过按光标 [ ] [ ] [ ] [ ] 按钮来移动光标。
+如果您按住光标按钮，光标将继续移动。
+如果您按住所需方向的光标按钮，然后按相反的光标按钮，光标将移动得更快。
+
+####
 Editing a Value
 To edit the value highlighted by the cursor, use either of the following controllers.
 • Value dial
 • [DEC] [INC] button
 
 ####
+编辑值
+要编辑光标突出显示的值，请使用以下任一控制器。
+• 值拨盘
+• [DEC] [INC] 按钮
+
+####
 Value dial
 Turning the value dial toward the right will increase the value, and turning it toward the left will decrease the value.
 If you hold down the [SHIFT] button while turning the value dial, the value will change in larger steps.
+
+####
+数值拨盘
+向右转动数值拨盘将增加数值，向左转动将减少数值。
+如果在转动数值拨盘时按住 [SHIFT] 按钮，数值将以更大的步长变化。
 
 ####
 [DEC] [INC] buttons
@@ -1524,3 +1557,649 @@ Press the [INC] button to increase the value, or press the [DEC] button to decre
 • To rapidly increase the value, hold down the [INC] button and press the [DEC] button. Conversely, to rapidly decrease the value, hold down the [DEC] button and press the [INC] button.
 • If you hold down the [SHIFT] button and press the [INC] button or [DEC] button, the value will change in larger steps.
 
+####
+[DEC] [INC] 按钮
+按 [INC] 按钮可增加值，按 [DEC] 按钮可减少值。
+• 如果按住某个按钮，值将连续增加（或减少）。
+• 要快速增加值，请按住 [INC] 按钮并按下 [DEC] 按钮。相反，要快速减少值，请按住 [DEC] 按钮并按下 [INC] 按钮。
+• 如果按住 [SHIFT] 按钮并按下 [INC] 按钮或 [DEC] 按钮，值将以更大的步长变化。
+
+####
+[SHIFT] Button Operations
+By holding down the [SHIFT] button and pressing another button, you can edit the settings of the button you pressed, or access a specific screen (shortcut).
+If you hold down the [SHIFT] button while editing a parameter’s value, the value will change in larger steps.
+
+####
+[SHIFT] 按钮操作
+通过按住 [SHIFT] 按钮并按下另一个按钮，您可以编辑所按下按钮的设置，或访问特定屏幕（快捷方式）。
+如果在编辑参数值时按住 [SHIFT] 按钮，则该值将以更大的步长变化。
+
+Shortcut list  （略）
+
+####
+[ENTER] Button Operations
+The [ENTER] button is used to set a value or to execute an operation.
+In the various editing screens, pressing the [ENTER] button will display a parameter list. Select a value and then press the [ENTER] button once again to confirm your selection.
+
+####
+[ENTER] 按钮操作
+[ENTER] 按钮用于设置值或执行操作。
+在各种编辑屏幕中，按 [ENTER] 按钮将显示参数列表。选择一个值，然后再次按 [ENTER] 按钮确认您的选择。
+
+####
+Saving
+From the top screen, hold down the [SHIFT] button and press the [EDIT] button to access the WRITE MENU screen. Select a studio set or tone, and save your settings.
+From the TONE EDIT screen, hold down the [SHIFT] button and press the [EDIT] button to save the tone.
+From the SYSTEM screen, hold down the [SHIFT] button and press the [EDIT] button to save the system settings.
+
+####
+保存
+在顶部屏幕上，按住 [SHIFT] 按钮并按下 [EDIT] 按钮以访问 WRITE MENU 屏幕。选择一个工作室设置或音调，然后保存您的设置。
+在 TONE EDIT 屏幕上，按住 [SHIFT] 按钮并按下 [EDIT] 按钮以保存音调。
+在 SYSTEM 屏幕上，按住 [SHIFT] 按钮并按下 [EDIT] 按钮以保存系统设置。
+
+Studio Set
+Save the Studio Set.
+
+Tone/Drum Kit
+Save the Tone/Drum Kit
+
+System
+Save overall settings for the INTEGRA-7.
+
+工作室设置
+保存工作室设置。
+
+音调/鼓组
+保存音调/鼓组
+
+系统
+保存 INTEGRA-7 的整体设置。
+
+####
+Assigning a Name
+The INTEGRA-7 lets you assign names to the following items.
+• Studio Set
+• Tone/Drum Kit
+• Sound data to be exported
+• Backup file
+Regardless of what you’re naming, the procedure is the same.
+
+1. Press the [ ] [ ] buttons to move the cursor to the location where you wish to input a character.
+2. Turn the VALUE dial, or press the [DEC] [INC] buttons to specify the character.
+You can use the cursor [ ] [ ] buttons to switch between uppercase and lowercase letters.
+3. If you decide to cancel your input, press the [EXIT] button.
+
+####
+指定名称
+INTEGRA-7 可让您为以下项目指定名称。
+• 工作室设置
+• 音色/鼓组
+• 要导出的声音数据
+• 备份文件
+无论您命名什么，步骤都是相同的。
+
+1. 按 [ ] [ ] 按钮将光标移动到您想要输入字符的位置。
+2. 转动 VALUE 拨盘，或按 [DEC] [INC] 按钮指定字符。
+您可以使用光标 [ ] [ ] 按钮在大写和小写字母之间切换。
+3. 如果您决定取消输入，请按 [EXIT] 按钮。
+
+####
+Inserting or Deleting Characters
+When entering a name, you can insert or delete characters.
+1. While entering a name, press the [MENU] button.
+The Menu screen will appear.
+Pressing the [MENU] button once again will take you back to the previous screen.
+2. Choose “INSERT” or “DELETE,” and press the [ENTER] button.
+
+Function Explanation
+INSERT	|Press the [ENTER] button to insert a space (blank) at the cursor location.
+DELETE	|Press the [ENTER] button to delete the character at the cursor location; subsequent characters will be moved forward to fill the gap.
+
+####
+插入或删除字符
+输入姓名时，可以插入或删除字符。
+1. 输入姓名时，按 [MENU] 按钮。
+将出现菜单屏幕。
+再次按 [MENU] 按钮将返回上一屏幕。
+2. 选择“INSERT”或“DELETE”，然后按 [ENTER] 按钮。
+
+功能说明
+INSERT |按 [ENTER] 按钮在光标位置插入空格（空白）。
+DELETE |按 [ENTER] 按钮删除光标位置的字符；后续字符将向前移动以填补空白。
+
+*******************************************
+Playing/Creating Sounds
+——————————————————————————————————————————
+Playing Sounds
+
+####
+Choosing a Studio Set
+A Studio Set stores the sounds selected for each Part, as well as various performance-related settings (except for system parameters).
+By switching studio sets you can change sounds at the beginning of a song or change large numbers of settings at once.
+
+NOTE
+If you’re selecting a studio set that uses tones from an EXPANSION Virtual Slot, you won’t hear anything unless the corresponding sound data is loaded.
+
+1. Press the [MENU] button.
+2. Choose “STUDIO SET SELECT” and press the[ENTER] button.
+3. Use the value dial to select a Studio Set.
+4. Press the [ENTER] button.
+The studio set will be switched.
+
+MEMO
+You can also access the STUDIO SET selection screen by holding down the [SHIFT] button and pressing the [PART VIEW] button.
+
+####
+选择录音室设置
+录音室设置存储为每个声部选择的声音，以及各种与演奏相关的设置（系统参数除外）。
+通过切换录音室设置，您可以在歌曲开始时更改声音，也可以一次更改大量设置。
+
+注意
+如果您选择的录音室设置使用来自 EXPANSION 虚拟插槽的音调，除非加载了相应的声音数据，否则您将听不到任何声音。
+
+1. 按 [MENU] 按钮。
+2. 选择“STUDIO SET SELECT”，然后按 [ENTER] 按钮。
+3. 使用数值拨盘选择录音室设置。
+4. 按 [ENTER] 按钮。
+录音室设置将被切换。
+
+备注
+您也可以通过按住 [SHIFT] 按钮并按 [PART VIEW] 按钮来访问 STUDIO SET 选择屏幕。
+
+####
+Viewing a List of All Parts (PART VIEW -ALL- Screen)
+
+In this screen you can edit the part parameters while viewing a list of all parts.
+* Some of the part parameters are not shown.
+1. Press the [PART VIEW] button.
+2. Use the cursor buttons to select the item that you want to edit, and use the value dial to edit the value.
+By holding down the [SHIFT] button and pressing a cursor [ ] [ ] button you can switch between tabs.
+
+####
+查看所有部件列表（PART VIEW -ALL- 屏幕）
+在此屏幕中，您可以在查看所有部件列表的同时编辑部件参数。
+* 某些部件参数未显示。
+1. 按 [PART VIEW] 按钮。
+2. 使用光标按钮选择要编辑的项目，然后使用值拨盘编辑值。
+按住 [SHIFT] 按钮并按光标 [ ] [ ] 按钮，您可以在选项卡之间切换。
+
+####
+Viewing the Part Settings
+(PART VIEW Screen)
+In this screen you can edit the part parameters while focusing on a single part.
+1. In the top screen, press the [PART VIEW] button twice.
+2. Use the PART [ ] [ ] buttons to select the part that you want to change.
+3. Use the cursor buttons to select the item that you want to edit, and use the value dial to edit the value.
+
+####
+查看部件设置
+（PART VIEW 屏幕）
+在此屏幕中，您可以编辑部件参数，同时专注于单个部件。
+1. 在顶部屏幕中，按两次 [PART VIEW] 按钮。
+2. 使用 PART [ ] [ ] 按钮选择要更改的部件。
+3. 使用光标按钮选择要编辑的项目，然后使用值拨盘编辑值。
+
+####
+Temporarily Silencing a Part’s Sound (MUTE)
+Here’s how to temporarily mute (silence) the sound of each part.
+1. In the top screen, move the cursor to “MUTE.”
+2. Use the PART [ ] [ ] buttons to select the part that you want to mute (silence).
+3. Use the [DEC] [INC] buttons to turn mute on/off.
+
+####
+暂时静音部分声音（静音）
+以下是暂时静音（静音）每个部分声音的方法。
+1. 在顶部屏幕中，将光标移动到“静音”。
+2. 使用 PART [ ] [ ] 按钮选择要静音的部分。
+3. 使用 [DEC] [INC] 按钮打开/关闭静音。
+
+####
+Listening to Only One Part (SOLO)
+Here’s how you can listen to only the sound of the currently selected part.
+1. In the top screen, move the cursor to “SOLO.”
+Only the selected part will be heard.
+2. Use the PART [ ] [ ] buttons to select the part that you want to hear.
+3. Use the [DEC] [INC] buttons to turn solo on/off.
+
+MEMO
+If you switch parts while solo is on, the soloed part will also change.
+
+####
+仅聆听一个部分（SOLO）
+以下是仅聆听当前选定部分声音的方法。
+1. 在顶部屏幕中，将光标移动到“SOLO”。
+只会听到选定的部分。
+2. 使用 PART [ ] [ ] 按钮选择要听到的部分。
+3. 使用 [DEC] [INC] 按钮打开/关闭独奏。
+
+备注
+如果在独奏打开时切换部分，独奏部分也会发生变化。
+
+####
+Choosing a Tone
+In the PART VIEW screen you can select the tone for each part.
+You can view the tone list by category or by type.
+Tone Preview function
+By pressing the [VOLUME] knob you can audition the tone of the selected part.
+
+####
+选择音调
+在 PART VIEW 屏幕中，您可以选择每个部分的音调。
+您可以按类别或类型查看音调列表。
+音调预览功能
+通过按下 [VOLUME] 旋钮，您可以试听所选部分的音调。
+
+####
+Selecting Tones from a Tone List by Category
+1. Press the [TONE FINDER] button.
+The tone list organized by category will appear.
+2. Use the cursor [ ] [ ] buttons to switch categories.
+3. Use the value dial or the cursor [ ] [ ] buttons to select a tone, and press the [ENTER] button.
+
+MEMO
+By holding down the [SHIFT] button and using the cursor [ ] [ ] buttons, you can switch to the next (or previous) type/bank.
+
+####
+按类别从音调列表中选择音调
+1. 按 [TONE FINDER] 按钮。
+将出现按类别组织的音调列表。
+2. 使用光标 [ ] [ ] 按钮切换类别。
+3. 使用数值拨盘或光标 [ ] [ ] 按钮选择音调，然后按 [ENTER] 按钮。
+
+备注
+通过按住 [SHIFT] 按钮并使用光标 [ ] [ ] 按钮，您可以切换到下一个（或上一个）类型/库。
+
+####
+Selecting Tones from a Tone List by Type/Bank
+1. Press the [SuperNATURAL] or [PCM] button.
+The tone list will appear.
+2. Use the cursor buttons to switch the type or bank tab.
+3. Use the value dial or the cursor [ ] [ ] buttons to select a tone, and press the [ENTER] button.
+
+####
+按类型/库从音调列表中选择音调
+1. 按 [SuperNATURAL] 或 [PCM] 按钮。
+音调列表将出现。
+2. 使用光标按钮切换类型或库选项卡。
+3. 使用数值拨盘或光标 [ ] [ ] 按钮选择音调，然后按 [ENTER] 按钮。
+
+####
+Selecting Drum Kits from a Tone List
+1. Press the [SuperNATURAL] or [PCM] button.
+The tone list will appear.
+2. Use the cursor buttons to select the drum kit tab.
+Select the “SN Drum Kit” tab for SuperNATURAL tones, or the “PCM Drum Kit” tab for PCM tones.
+3. Use the value dial or the cursor [ ] [ ] buttons to select a drum kit, and press the [ENTER] button.
+
+####
+从音调列表中选择鼓组
+1. 按下 [SuperNATURAL] 或 [PCM] 按钮。
+音调列表将会出现。
+2. 使用光标按钮选择鼓组选项卡。
+选择 SuperNATURAL 音调的“SN 鼓组”选项卡，或选择 PCM 音调的“PCM 鼓组”选项卡。
+3. 使用数值拨盘或光标 [ ] [ ] 按钮选择鼓组，然后按下 [ENTER] 按钮。
+
+——————————————————————————————————————————
+Editing a Studio Set
+编辑演播室设置
+####
+Studio Set Common Settings
+Here you can make settings that are common to the entire studio set.
+1. In the Top screen, press the [MENU] button.
+2. Choose “STUDIO SET COMMON” and press the [ENTER] button.
+3. Use the cursor buttons to select an item, and use the value dial to edit the value of that item.
+
+####
+演播室设置通用设置
+在此，您可以进行整个演播室设置的通用设置。
+1. 在顶部屏幕中，按 [MENU] 按钮。
+2. 选择“STUDIO SET COMMON”并按 [ENTER] 按钮。
+3. 使用光标按钮选择一个项目，然后使用值拨盘编辑该项目的值。
+
+####
+COMMON parameter
+MEMO
+For details on the part parameters, refer to “Parameter Guide PDF.”
+
+####
+通用参数
+备忘录
+有关零件参数的详细信息，请参阅“参数指南 PDF”。
+
+####
+Editing the Part Settings
+A studio set contains 16 parts; you can edit settings such as volume (Level), equalizer (EQ), and key range (KBD) for each part.
+1. In the top screen, press the [PART VIEW] button twice.
+2. Use the cursor buttons to select the item that you want to edit, and use the value dial to edit the value.
+By holding down the [SHIFT] button and pressing a cursor [ ] [ ] button you can switch between tabs.
+
+MEMO
+For details on the part parameters, refer to “Parameter Guide PDF.”
+
+####
+编辑声部设置
+一个工作室套装包含 16 个声部；您可以编辑每个声部的音量 (Level)、均衡器 (EQ) 和键范围 (KBD) 等设置。
+1. 在顶部屏幕中，按两次 [PART VIEW] 按钮。
+2. 使用光标按钮选择要编辑的项目，然后使用值拨盘编辑值。
+按住 [SHIFT] 按钮并按光标 [ ] [ ] 按钮，您可以在选项卡之间切换。
+
+备忘录
+有关声部参数的详细信息，请参阅“参数指南 PDF”。
+
+Parts 1–16 （略）
+
+####
+Saving a Studio Set
+Edits you make to a Studio Set are temporary; they will be lost when you turn off the unit or select another Studio Set. If you want to keep an edited Studio Set, you must save it.
+
+NOTE
+When you execute the Write operation, the existing data at the write destination will be overwritten.
+
+1. From the top screen or the STUDIO SET EDIT screen, hold down the [SHIFT] button and press the [EDIT] button.
+The WRITE MENU screen will appear.
+2. Choose “STUDIO SET WRITE” and press the [ENTER] button.
+3. Assign a name for the Studio Set.
+For details on how to assign a name, refer to “Assigning a Name” (p.29).
+4. Press the [ENTER] button.
+5. Use the value dial or the [DEC] [INC] buttons to select the desired save destination.
+6. Press the [ENTER] button.
+A message will ask “Are you sure?”
+7. To execute, choose “OK” and press the [ENTER] button.
+
+MEMO
+If you decide to cancel without saving, press the [EXIT] button.
+
+NOTE
+Never turn off the unit while settings are being saved.
+
+####
+保存工作室设置
+您对工作室设置所做的编辑是临时的；当您关闭设备或选择另一个工作室设置时，它们将会丢失。如果您想保留已编辑的工作室设置，则必须保存它。
+
+注意
+执行写入操作时，写入目标处的现有数据将被覆盖。
+
+1. 从顶部屏幕或工作室设置编辑屏幕，按住 [SHIFT] 按钮并按下 [EDIT] 按钮。
+将出现写入菜单屏幕。
+2. 选择“工作室设置写入”并按下 [ENTER] 按钮。
+3. 为工作室设置指定名称。
+有关如何指定名称的详细信息，请参阅“指定名称”（第 29 页）。
+4. 按 [ENTER] 按钮。
+5. 使用数值拨盘或 [DEC] [INC] 按钮选择所需的保存目标。
+6. 按 [ENTER] 按钮。
+系统会显示一条消息询问“您确定吗？”
+7. 要执行，请选择“确定”并按 [ENTER] 按钮。
+
+备注
+如果您决定取消而不保存，请按 [EXIT] 按钮。
+
+注意
+切勿在保存设置时关闭设备。
+
+####
+Panning the Sound with Depth
+(MOTIONAL SURROUND Screen)
+In addition to the left/right panning of each sound, the INTEGRA-7 lets you specify its depth in the sound field.
+In the MOTIONAL SURROUND screen you can visually specify the left/right panning and depth of each sound.
+1. Press the [MOTIONAL SURROUND] button.
+Motional Surround will turn on, and the MOTIONAL SURROUND screen will appear.
+2. Use the cursor buttons to specify the position (left/right and depth) of each instrument.
+You can use the PART [ ] [ ] buttons to switch the part you’re editing.
+
+MEMO
+• If you want to turn Motional Surround off, press the [MOTIONAL SURROUND] button once again in the Motional Surround screen.
+• If you want to return to the previous screen but leave Motional Surround turned on, press the [EXIT] button.
+• The [MOTIONAL SURROUND] button’s indicator shows whether Motional Surround is on (lit) or off (unlit).
+• By holding down the [SHIFT] button and pressing the [MOTIONAL SURROUND] button, you can access the Motional Surround screen without changing the Motional Surround on/off setting.
+* Motional Surround and reverb/chorus cannot be applied at the same time.
+* When you turn Motional Surround on, reverb/chorus will turn off.
+
+####
+用深度来平移声音
+（MOTIONAL SURROUND 屏幕）
+除了每个声音的左/右平移外，INTEGRA-7 还允许您指定其在声场中的深度。
+在 MOTIONAL SURROUND 屏幕中，您可以直观地指定每个声音的左/右平移和深度。
+1. 按下 [MOTIONAL SURROUND] 按钮。
+Motional Surround 将打开，并会出现 MOTIONAL SURROUND 屏幕。
+2. 使用光标按钮指定每个乐器的位置（左/右和深度）。
+您可以使用 PART [ ] [ ] 按钮切换您正在编辑的部分。
+
+备忘录
+• 如果您想关闭 Motional Surround，请在 Motional Surround 屏幕中再次按下 [MOTIONAL SURROUND] 按钮。
+• 如果您想返回上一个屏幕但保持 Motional Surround 处于打开状态，请按 [EXIT] 按钮。
+• [MOTIONAL SURROUND] 按钮的指示灯显示 Motional Surround 是打开（亮起）还是关闭（熄灭）。
+• 按住 [SHIFT] 按钮并按下 [MOTIONAL SURROUND] 按钮，您可以访问 Motional Surround 屏幕，而无需更改 Motional Surround 开/关设置。
+* Motional Surround 和混响/合唱不能同时应用。
+* 当您打开 Motional Surround 时，混响/合唱将关闭。
+
+####
+Editing the Motional Surround Settings
+Here’s how to turn Motional Surround on/off and specify the size of the room.
+1. In the MOTIONAL SURROUND screen, press the [ENTER]button.
+MOTIONAL SURROUND EDIT screen will appear.
+2. Use the cursor buttons to select the item you want to edit, and use the value dial to edit the value.
+You can use the cursor [ ] [ ] buttons to switch tabs.
+
+表 （略）
+MEMO
+For details on the parameters, refer to “Parameter Guide PDF.”
+
+####
+编辑动态环绕设置
+以下介绍如何打开/关闭动态环绕并指定房间的大小。
+1. 在动态环绕屏幕中，按 [ENTER] 按钮。
+将出现动态环绕编辑屏幕。
+2. 使用光标按钮选择要编辑的项目，然后使用值拨盘编辑值。
+您可以使用光标 [ ] [ ] 按钮切换选项卡。
+
+表 （略）
+备忘录
+有关参数的详细信息，请参阅“参数指南 PDF”。
+
+####
+Turning Effects On/Off
+1. In the top screen, press the [EFFECTS] button.
+The EFFECTS ROUTING screen will appear.
+When Motional Surround is “off”
+When Motional Surround is “on”
+2. Use the cursor buttons to select the effect that you want
+to turn on/off.
+3. Use [DEC] [INC] button to turn each effect on/off.
+
+####
+打开/关闭效果
+1. 在顶部屏幕中，按下 [EFFECTS] 按钮。
+将出现 EFFECTS ROUTING 屏幕。
+当 Motional Surround 处于“关闭”状态时
+当 Motional Surround 处于“打开”状态时
+2. 使用光标按钮选择要打开/关闭的效果。
+3. 使用 [DEC] [INC] 按钮打开/关闭每个效果。
+
+####
+Editing the Effects of a Studio Set
+(EFFECTS ROUTING Screen)
+Here’s how to edit a studio set’s effects.
+1. In the top screen, press the [EFFECTS] button.
+The EFFECTS ROUTING screen will appear.
+When Motional Surround is “off”
+When Motional Surround is “on”
+2. Move the cursor to the effect that you want to edit, and press the [ENTER] button.
+3. Use the cursor buttons to select the setting you want to edit, and use the value dial to edit its value.
+
+####
+编辑演播室效果
+（效果路由屏幕）
+以下介绍如何编辑演播室效果。
+1. 在顶部屏幕中，按下 [效果] 按钮。
+将出现效果路由屏幕。
+当 Motional Surround 处于“关闭”状态时
+当 Motional Surround 处于“打开”状态时
+2. 将光标移动到要编辑的效果，然后按下 [ENTER] 按钮。
+3. 使用光标按钮选择要编辑的设置，然后使用值拨盘编辑其值。
+
+####
+Editing the CHORUS Settings
+To edit Chorus settings, access the Chorus parameter screen.
+* Chorus will not be available when Motional Surround is on.
+1. Access the EFFECTS SWITCH screen or the EFFECTS
+ROUTING screen when the Motional Surround function is “OFF,” move the cursor to “CHORUS,” and press the [ENTER] button.
+2. Use the cursor buttons to select the setting you want to edit, and use the value dial to edit its value.
+
+####
+编辑合唱设置
+要编辑合唱设置，请访问合唱参数屏幕。
+* 当动态环绕开启时，合唱不可用。
+1. 当动态环绕功能为“OFF”时，访问 EFFECTS SWITCH 屏幕或 EFFECTS
+ROUTING 屏幕，将光标移动到“CHORUS”，然后按 [ENTER] 按钮。
+2. 使用光标按钮选择要编辑的设置，然后使用值拨盘编辑其值。
+
+####
+Editing the REVERB Settings
+To edit Reverb settings, access the Reverb parameter screen.
+* Reverb will not be available when Motional Surround is on.
+1. Access the EFFECTS SWITCH screen or the EFFECTS
+ROUTING screen when the Motional Surround function is “OFF,” move the cursor to “REVERB,” and press the [ENTER] button.
+2. Use the cursor buttons to select the setting that you want to edit, and use the value dial to edit its value.
+
+####
+编辑混响设置
+要编辑混响设置，请访问混响参数屏幕。
+* 当动态环绕开启时，混响不可用。
+1. 当动态环绕功能为“OFF”时，访问 EFFECTS SWITCH 屏幕或 EFFECTS
+ROUTING 屏幕，将光标移动到“REVERB”，然后按 [ENTER] 按钮。
+2. 使用光标按钮选择要编辑的设置，然后使用值拨盘编辑其值。
+
+####
+Adjusting the Overall Tone of the Audio Output (MASTER EQ)
+Here’s how to make final adjustments to the overall tone of INTEGRA-7’s audio output (OUTPUT A (MIX) jacks and PHONES jack).
+1. From the EFFECTS ROUTING screen, move the cursor to “MEQ (MASTER EQ)” and press the [ENTER] button.
+2. Use the cursor buttons to select the setting that you want to edit, and use the value dial to edit its value.
+
+####
+调整音频输出的整体音调 (MASTER EQ)
+以下是如何对 INTEGRA-7 音频输出 (OUTPUT A (MIX) 插孔和 PHONES 插孔) 的整体音调进行最终调整。
+1. 从 EFFECTS ROUTING 屏幕，将光标移动到“MEQ (MASTER EQ)”并按下 [ENTER] 按钮。
+2. 使用光标按钮选择要编辑的设置，然后使用值拨盘编辑其值。
+
+####
+Initializing a Part
+This operation will initialize the part settings of the current part.
+1. From the top screen or the STUDIO SET EDIT screen, press the [MENU] button.
+2. Choose “PART INIT” and press the [ENTER] button.
+A message will ask “Are you sure?”
+3. To initialize, choose “OK” and press the [ENTER] button.
+
+####
+初始化部件
+此操作将初始化当前部件的部件设置。
+1. 从顶部屏幕或 STUDIO SET EDIT 屏幕，按 [MENU] 按钮。
+2. 选择“PART INIT”并按 [ENTER] 按钮。
+将出现一条消息询问“您确定吗？”
+3. 要初始化，请选择“OK”并按 [ENTER] 按钮。
+
+####
+Initializing the Sound Controls
+This operation will initialize the following offset parameters that affect how each part sounds.
+• Cutoff Offset
+• Resonance Offset
+• Attack Offset
+• Decay Offset
+• Release Offset
+• Vibrato Rate
+• Vibrato Depth
+• Vibrato Delay
+
+####
+1. From the top screen or the STUDIO SET EDIT screen, press the [MENU] button.
+2. Choose “SOUND CTRL INIT” and press the [ENTER] button.
+A message will ask “Are you sure?”
+3. To initialize, choose “OK” and press the [ENTER] button.
+
+####
+1. 从顶部屏幕或 STUDIO SET EDIT 屏幕，按 [MENU] 按钮。
+2. 选择“SOUND CTRL INIT”并按 [ENTER] 按钮。
+将出现一条消息询问“您确定吗？”
+3. 要初始化，请选择“OK”并按 [ENTER] 按钮。
+
+####
+Initializing a Studio Set
+Here’s how to initialize the currently selected Studio Set.
+1. From the top screen or the STUDIO SET EDIT screen, press the [MENU] button.
+2. Choose “STUDIO SET INIT” and press the [ENTER] button.
+A message will ask “Are you sure?”
+3. To initialize, choose “OK” and press the [ENTER] button.
+
+####
+初始化工作室设置
+以下是初始化当前选定的工作室设置的方法。
+1. 从顶部屏幕或 STUDIO SET EDIT 屏幕，按 [MENU] 按钮。
+2. 选择“STUDIO SET INIT”并按 [ENTER] 按钮。
+将显示一条消息询问“您确定吗？”
+3. 要初始化，请选择“OK”并按 [ENTER] 按钮。
+
+——————————————————————————————————————————
+Editing a Tone
+####
+Editing the Tones Assigned to a Part
+Here’s how to edit the sound of each part.
+1. Select the part that you want to edit.
+2. Press the [EDIT] button.
+The tone edit screen will differ depending on the type of tone that’s selected for the part.
+
+MEMO
+For details on the tone parameters, refer to “Parameter Guide PDF.”
+
+图表（略）
+
+####
+Saving a Tone/Drum Kit
+Edits you make to a Tone/Drum Kit are temporary; they will be lost when you turn off the unit or select another Tone/Drum Kit. If you want to keep an edited Tone/Drum Kit, you must save it.
+
+NOTE
+When you execute the Write operation, the existing data at the write destination will be overwritten.
+1. In the TONE EDIT screen, hold down the [SHIFT] button and press the [EDIT] button.
+2. Assign a name to the tone/drum kit.
+For details on assigning a name, refer to “Assigning a Name” (p. 29).
+3. Press the [ENTER] button.
+4. Move the cursor to the save destination, and use the value dial or the [DEC] [INC] buttons to specify the save destination.
+5. Press the [ENTER] button.
+A message will ask “Are you sure?”
+6. To execute, select “OK” and press the [ENTER] button.
+
+MEMO
+If you decide to cancel without saving, press the [EXIT] button.
+
+NOTE
+Never turn off the unit while data is being written to memory.
+
+####
+保存音色/鼓组
+您对音色/鼓组所做的编辑是临时的；当您关闭设备或选择另一个音色/鼓组时，它们将丢失。如果您想保留已编辑的音色/鼓组，则必须保存它。
+
+注意
+执行写入操作时，写入目标处的现有数据将被覆盖。
+1. 在 TONE EDIT 屏幕中，按住 [SHIFT] 按钮并按下 [EDIT] 按钮。
+2. 为音色/鼓组分配一个名称。
+有关分配名称的详细信息，请参阅“分配名称”（第 29 页）。
+3. 按 [ENTER] 按钮。
+4. 将光标移动到保存目标，然后使用数值拨盘或 [DEC] [INC] 按钮指定保存目标。
+5. 按 [ENTER] 按钮。
+将出现一条消息询问“您确定吗？”
+6. 要执行，请选择“OK”并按 [ENTER] 按钮。
+
+备注
+如果您决定取消而不保存，请按 [EXIT] 按钮。
+
+注意
+切勿在数据写入内存时关闭设备。
+
+####
+Editing the Effects of a Tone
+Here’s how to edit the MFX settings or the settings of the compressor and equalizer used by the drum part.
+1. In the top screen, press the [EFFECTS] button.
+The EFFECTS ROUTING screen will appear.
+When Motional Surround is “off”
+When Motional Surround is “on”
+2. Move the cursor to the effect that you want to edit, and press the [ENTER] button.
+3. Use the cursor buttons to select an item, and use the value dial to edit its value.

@@ -1,0 +1,404 @@
+*********************************************************
+--------------------------------------------
+The MU90R — What It Is and What It Can Do
+MU90R — 它是什么以及它能做什么
+####
+What It Is…
+The MU90R is a fulll-featured and easy-to-use tone generator. It features full General MIDI Level 1 compatibility with 128 General MIDI Voices and 9 drum kits. It also provides new XG-MIDI (Extended General MIDI) compatibility, with a total of 586 Voices and 20 drum kits. The MU90R has 64-note polyphony and is 32-Part multi-timbral. In other words, the MU90R has 32 different Parts, each with its own Voice, so that up to 32 different Voices can be sounded simultaneously. Since the MU90R features dual MIDI input ports (A and B), 16 Parts can be played from one MIDI port and the remaining 16 from the other port.
+
+####
+它是什么……
+MU90R 是一款功能齐全且易于使用的音调发生器。它具有完全的通用 MIDI 1 级兼容性，具有 128 种通用 MIDI 音色和 9 种鼓组。它还提供新的 XG-MIDI（扩展通用 MIDI）兼容性，总共有 586 种音色和 20 种鼓组。MU90R 具有 64 个音符的复音，是 32 个声部多音色。换句话说，MU90R 有 32 个不同的声部，每个声部都有自己的音色，因此最多可以同时发出 32 种不同的音色。由于 MU90R 具有双 MIDI 输入端口（A 和 B），因此可以从一个 MIDI 端口播放 16 个声部，从另一个端口播放其余 16 个声部。
+
+The MU90R also has a TO HOST terminal for easy interfacing with a computer, allowing you to play the Voices using your favorite music soft- ware. This is where the advanced multi-timbral capabilities come in, let- ting you playing sophisticated arrangements using up to 32 different Voices at the same time.
+
+MU90R 还具有 TO HOST 终端，可轻松与计算机连接，让您使用自己喜欢的音乐软件播放音色。这就是高级多音色功能的用武之地，让您可以同时使用多达 32 种不同的音色演奏复杂的编曲。
+
+The MU90R also features a special Performance mode, in which four Parts are played simultaneously over a single MIDI channel. Connected to a MIDI keyboard, this effectively gives you four tone generators in one. The MU90R gives you 100 factory-programmed Preset Performances plus 100 Internal Performance locations for your own original Performances.
+
+MU90R 还具有特殊的演奏模式，在该模式下，四个声部通过单个 MIDI 通道同时播放。连接到 MIDI 键盘后，这实际上为您提供了四个音调发生器。MU90R 为您提供了 100 个工厂编程的预设演奏以及 100 个内部演奏位置，供您自己演奏原创曲目。
+
+####
+About General MIDI
+General MIDI is a new addition to the worldwide MIDI standard. MIDI, as you know, stands for Musical Instrument Digital Interface, and makes it possible for various electronic musical instruments and other devices to “communicate” with each other. For example, by connecting a sequencer to the MU90R’s MIDI IN terminal, you could play back a song on the sequencer using the Voices of the MU90R.
+
+####
+关于通用 MIDI
+通用 MIDI 是全球 MIDI 标准的新成员。众所周知，MIDI 代表乐器数字接口，它使各种电子乐器和其他设备能够相互“通信”。例如，通过将音序器连接到 MU90R 的 MIDI IN 端子，您可以使用 MU90R 的音色在音序器上播放歌曲。
+
+So, where does General MIDI fit in all of this? One of the most impor- tant features of General MIDI is in the standardization of Voices. This means that a song recorded in the General MIDI format can be played back on any General MIDI compatible tone generator and sound just as the com- poser intended. For example, if there is an alto sax solo in the song, it will be played by an alto sax Voice on the General MIDI tone generator (and not by a tuba or harpsichord!). Since the MU90R is fully compatible with General MIDI, you can take advantage of the vast wealth of musical mate- rial recorded in that format.
+
+那么，通用 MIDI 在所有这些中处于什么位置？通用 MIDI 最重要的功能之一是声音的标准化。这意味着以通用 MIDI 格式录制的歌曲可以在任何兼容通用 MIDI 的音调发生器上播放，并且声音完全符合作曲家的意图。例如，如果歌曲中有中音萨克斯独奏，它将由中音萨克斯声音在通用 MIDI 音调发生器上演奏（而不是由大号或大键琴演奏！）。由于 MU90R 与通用 MIDI 完全兼容，因此您可以利用以该格式录制的大量音乐素材。
+
+####
+What It Can Do…
+Here are a few ideas on how you can use the MU90R. The list below is not comprehensive, but is meant to be a general guide to the possibilities and provide a starting point or springboard for your own creative ideas and explorations.
+
+####
+它能做什么……
+以下是一些关于如何使用 MU90R 的想法。下面的列表并不全面，但旨在作为可能性的一般指南，并为您自己的创意和探索提供起点或跳板。
+
+####
+Using With MIDI Keyboard
+Use the MU90R as supplementary tone generator with your MIDI key- board and play the Voices of both instruments in a layer together. Or, use the convenient Performance mode, and play four Voices on the MU90R at once. You can split the four Voices across the keyboard, playing each from a different register. Or you can create sophisticated velocity splits, in which a different Voice is heard depending on how strongly you play the key- board. Or use keyboard and velocity splits together for even greater flex- ibility.
+
+####
+使用 MIDI 键盘
+使用 MU90R 作为 MIDI 键盘的补充音调发生器，同时演奏两种乐器的音色。或者，使用便捷的演奏模式，同时在 MU90R 上演奏四种音色。您可以将四种音色分割到键盘上，从不同的音区演奏每种音色。或者，您可以创建复杂的速度分割，根据您弹奏键盘的力度，可以听到不同的音色。或者将键盘和速度分割一起使用，以获得更大的灵活性。
+
+####
+Using With a Computer or Sequencer
+Home Studio Setup
+The MU90R integrates instantly and easily into any existing setup. If you have a MIDI keyboard, computer and sequencing software, the MU90R with its high-quality Voices and multi-timbral capabilities can expand your home studio system.
+
+####
+与计算机或音序器一起使用
+家庭工作室设置
+MU90R 可立即轻松集成到任何现有设置中。如果您有 MIDI 键盘、计算机和音序软件，MU90R 凭借其高品质音色和多音色功能可以扩展您的家庭工作室系统。
+
+Take It With You
+If you have a laptop computer (and sequencing software), simply connect the MU90R, plug in some headphones and you’ve got a complete, high- powered music making system that’s exceptionally easy to use. Use it for composing, arranging, practicing or making/playing demos for your band.
+
+随身携带
+如果您有笔记本电脑（和排序软件），只需连接 MU90R，插入耳机，您就会拥有一个完整、功能强大的音乐制作系统，使用起来非常简单。使用它为您的乐队创作、编曲、练习或制作/播放演示。
+
+Multimedia
+Since it’s compatible with General MIDI, the MU90R is a natural for multi- media applications. Since the computer interface is built-in to the MU90R, it hooks up instantly and easily to the computer’s serial port or printer port, without the need for any other equipment.
+
+多媒体
+由于兼容通用 MIDI，MU90R 非常适合多媒体应用。由于计算机接口内置于 MU90R，因此它可立即轻松连接到计算机的串行端口或打印机端口，而无需任何其他设备。
+
+####
+About the Modes of the MU90R
+
+The MU90R has two main operating modes: Multi and Performance. In Multi mode, the MU90R is a 32-Part multi-timbral tone generator; in Per- formance mode, the MU90R effectively functions as four tone generators controlled over a single MIDI channel.
+
+Which mode the MU90R is in depends on the selected Sound Module mode. If XG, TG300B or C/M are selected, the MU90R automatically sets itself to the Multi mode. When PFM is selected, the MU90R is in the Per- formance mode.
+
+####
+关于 MU90R 的模式
+
+MU90R 有两种主要操作模式：多重和性能。在多重模式下，MU90R 是一个 32 声部多音色音调发生器；在性能模式下，MU90R 可有效地用作通过单个 MIDI 通道控制的四个音调发生器。
+
+MU90R 处于哪种模式取决于所选的声音模块模式。如果选择了 XG、TG300B 或 C/M，MU90R 会自动设置为多重模式。当选择 PFM 时，MU90R 处于性能模式。
+
+图表（略）
+
+The bottom right of the display indicates the currently selected Sound Module mode.
+
+显示屏的右下方显示当前选择的声音模块模式。
+
+####
+Play Modes and the Part Controls
+Once the operating mode of the MU90R is set (Multi or Performance), there are two main ways you can use the MU90R: playing and editing. In the Play modes, you play the Voices; in the various Edit modes, you change their settings.
+
+####
+播放模式和声部控制
+一旦设置了 MU90R 的操作模式（多重或性能），您就可以通过两种主要方式使用 MU90R：播放和编辑。在播放模式下，您可以播放音色；在各种编辑模式下，您可以更改其设置。
+
+Within the Play modes are the Part controls. These let you make basic set- tings for the Parts. The Single Part controls allow you to make independent settings for each Part, while the All Part controls allow you to change the over- all settings of all Parts. (See pages 41 and 46 for more information.)
+
+播放模式中有声部控制。这些控制可让您对声部进行基本设置。单个声部控制允许您对每个声部进行独立设置，而所有声部控制允许您更改所有声部的整体设置。（有关详细信息，请参阅第 41 页和第 46 页。）
+
+####
+Utility Mode
+The Utility mode lets you set functions related to the overall operation of the MU90R, such as Master Tune, display Contrast and reception of cer- tain MIDI messages that affect the entire instrument. Included also are mis- cellaneous operations, such as sending bulk data to a data storage device, initializing of the MU90R settings, and playing the special Demo song.
+
+####
+实用模式
+实用模式可让您设置与 MU90R 整体操作相​​关的功能，例如主调音、显示对比度和接收影响整个乐器的某些 MIDI 信息。还包括杂项操作，例如将批量数据发送到数据存储设备、初始化 MU90R 设置以及播放特殊演示歌曲。
+
+####
+Part Edit Mode
+The Part Edit mode allows you to change certain settings for each individual Part, such as those of the Filter, EG (Envelope Generator), and many other settings. The internal Voices can be sounded during editing, allowing you to hear the effects of your edits.
+
+####
+声部编辑模式
+声部编辑模式允许您更改每个声部的某些设置，例如滤波器、EG（包络发生器）和许多其他设置。编辑期间可以发出内部音色，让您听到编辑的效果。
+
+
+*********************************************************
+GUIDED TOUR
+When using your MU90R for the first time, read through this short section of the manual. It guides you step-by-step in us- ing many of the basic operations: setting the instrument up, connecting it properly to other equipment, and — most im- portantly — playing it.
+
+导览
+首次使用 MU90R 时，请阅读本手册的这一小节。它将逐步指导您使用许多基本操作：设置乐器、将其正确连接到其他设备，以及——最重要的是——演奏它。
+
+####
+Setting Up Your MU90R
+In this introductory section, you’ll learn how to set up the MU90R for use with a MIDI keyboard. (Setting up for use with a computer is covered on page 29.)
+
+####
+设置您的 MU90R
+在此介绍部分中，您将学习如何设置 MU90R 以与 MIDI 键盘一起使用。（第 29 页介绍了与计算机一起使用的设置。）
+
+####
+What You’ll Need
+☛ The MU90R and the included power adaptor.
+☛ A MIDI keyboard, electronic piano, or any instrument that can output MIDI data.
+☛ An amplifier/speaker system, preferably stereo. Alternately, you can use a set of stereo headphones.
+☛ Audio connecting cables.
+☛ A MIDI cable.
+
+####
+您需要什么
+☛ MU90R 和附带的电源适配器。
+☛ MIDI 键盘、电子钢琴或任何可以输出 MIDI 数据的乐器。
+☛ 放大器/扬声器系统，最好是立体声的。或者，您可以使用一组立体声耳机。
+☛ 音频连接线。
+☛ MIDI 线。
+
+####
+Making the Connections
+CAUTION!
+Before making any connections, make sure that all equipment to be connected is turned off, and that the MU90R power adaptor is not connected to an electrical outlet.
+
+####
+进行连接
+注意！
+在进行任何连接之前，请确保所有要连接的设备都已关闭，并且 MU90R 电源适配器未连接到电源插座。
+
+####
+Operation
+1 Connect one end of the MIDI cable to the MIDI OUT terminal of the MIDI keyboard and the other to MIDI IN-A of the MU90R (as shown in the illustration below).
+
+2 Connect the audio cables from the R and L/MONO OUTPUT jacks of the MU90R to the appropriate inputs on the amplifier speaker system (as shown in the illustration below). You can also connect cables to the INDIV. OUTPUT jacks.
+If the amplifier has only one input, use the L/MONO jack on the MU90R. If you are using stereo headphones, connect them to the front panel PHONES jack.
+
+3 Set the HOST SELECT switch on the MU90R to MIDI.
+
+4 Connect the power adaptor to the DC IN terminal on the MU90R and plug the adaptor into an appropriate electrical outlet.
+
+####
+操作
+1 将 MIDI 电缆的一端连接到 MIDI 键盘的 MIDI OUT 端子，另一端连接到 MU90R 的 MIDI IN-A（如下图所示）。
+
+2 将音频电缆从 MU90R 的 R 和 L/MONO OUTPUT 插孔连接到放大器扬声器系统上的相应输入（如下图所示）。您也可以将电缆连接到 INDIV。OUTPUT 插孔。
+如果放大器只有一个输入，请使用 MU90R 上的 L/MONO 插孔。如果您使用立体声耳机，请将其连接到前面板 PHONES 插孔。
+
+3 将 MU90R 上的 HOST SELECT 开关设置为 MIDI。
+
+4 将电源适配器连接到 MU90R 上的 DC IN 端子，并将适配器插入合适的电源插座。
+
+CAUTION!
+● Do not attempt to use an AC adaptor other than the PA-3B. The use of an incompatible
+adaptor may result in irreparable damage to the MU90R, and even pose a serious shock
+hazard.
+● Be sure to disconnect the power adaptor from the outlet when the MU90R is not in use.
+
+注意！
+● 请勿尝试使用 PA-3B 以外的交流适配器。使用不兼容的
+适配器可能会对 MU90R 造成不可修复的损坏，甚至造成严重的电击
+危险。
+● 不使用 MU90R 时，请务必从插座上拔下电源适配器。
+
+####
+Powering Up and Playing the Demo Song
+Once you’ve connected everything properly, you’re ready to turn the MU90R on and start playing it. However, a small word of caution before you begin: Follow the instructions given below to avoid possible damage to your equipment and speakers.
+
+####
+通电并播放演示歌曲
+正确连接所有设备后，您就可以打开 MU90R 并开始播放。不过，在开始之前，请注意：请遵循以下说明，以避免损坏您的设备和扬声器。
+
+####
+Powering Up
+Operation
+1 If you haven’t done so already, press the POWER switch on the MU90R.
+After the greeting display, the following display will appear: 2 Turn on the power of your MIDI keyboard.
+
+3 Make sure that all volume controls (on the MU90R and the con- nected amplifier) are turned down. Then, turn on the power of your amplifier speaker system.
+
+4 Finally, set the volume control on the MU90R to about the mid- way position and set the volume on the amplifier to a suitable level.
+
+####
+通电
+操作
+1 如果您还没有这样做，请按下 MU90R 上的 POWER 开关。
+在显示问候语后，将显示以下显示： 
+
+2 打开 MIDI 键盘的电源。
+
+3 确保所有音量控制（在 MU90R 和连接的放大器上）都已调低。然后，打开放大器扬声器系统的电源。
+
+4 最后，将 MU90R 上的音量控制设置为中间位置，并将放大器上的音量设置为合适的水平。
+
+####
+Playing the Demo Song
+Now that you’ve set everything up properly, try playing the built-in Demo Song. This showcases the high-quality Voices and the AWM2 tone genera- tion system of the MU90R.
+
+Operation
+1 Press the UTIL button.
+
+2 Select “DEMO” with the SELECT w buttons and press the ENTER button.
+
+3 Press the ENTER button to start the Demo Song.
+The Demo Song starts playing immediately and repeats indefinitely until stopped (in step 4 below). After a while, playback of the indivi- dual Parts of the song is shown graphically by the “level meter” bars in the display.
+
+NOTE During Demo Song playback, all panel controls (except the EXIT button and the VOLUME control) cannot be used.
+
+4 To stop playback of the song, press the EXIT button.
+
+5 To exit from the Demo Song function, press the EXIT button again.
+
+####
+播放演示曲
+现在您已正确设置了所有内容，请尝试播放内置的演示曲。这将展示 MU90R 的高品质音色和 AWM2 音调生成系统。
+
+操作
+1 按 UTIL 按钮。
+
+2 使用 SELECT + "DEMO" 按钮选择“DEMO”，然后按 ENTER 按钮。
+
+3 按 ENTER 按钮开始播放演示曲。
+演示曲立即开始播放并无限重复，直到停止（在下面的步骤 4 中）。片刻之后，显示屏中的“电平表”条将以图形方式显示歌曲各个部分的播放情况。
+
+注意 在播放演示曲期间，所有面板控件（EXIT 按钮和 VOLUME 控件除外）都无法使用。
+
+4 要停止播放歌曲，请按 EXIT 按钮。
+
+5 要退出演示曲功能，请再次按 EXIT 按钮。
+
+####
+Playing Your MU90R With a MIDI Keyboard
+Operation
+Play some notes on your MIDI keyboard.
+If you’ve carefully followed all instructions up to now, one of the “level meter” bars in the display should move — and you should be able to hear the sound of the MU90R as you play.
+
+NOTE
+If your MIDI keyboard is transmitting on channel 1, the Voice of Part 1 should sound. If it is transmitting on another channel, another Part’s Voice will sound. For the sake of these intro- ductory instructions, set your keyboard so that it transmits on channel 1. (Refer to the own- er’s manual of that instrument if necessary.)
+
+####
+使用 MIDI 键盘演奏 MU90R
+操作
+在 MIDI 键盘上弹奏一些音符。
+如果您到目前为止已经仔细遵循了所有说明，显示屏上的其中一个“电平表”条应该会移动 - 并且您应该能够在弹奏时听到 MU90R 的声音。
+
+注意
+如果您的 MIDI 键盘在通道 1 上传输，则第 1 部分的音色应该会发声。如果它在另一个通道上传输，则另一个部分的音色会发声。为了便于理解这些介绍性说明，请将您的键盘设置为在通道 1 上传输。（如有必要，请参阅该乐器的用户手册。）
+
+####
+Selecting Voices
+In this brief section, you’ll learn how to select other Voices. You can do this directly from the panel of the MU90R or remotely, from your MIDI keyboard.
+Operation
+1 First, select a Part. Use the PART q buttons to select Part 1.
+Press the appropriate button until “01” appears in the PART section of the display.
+
+2 Use the SELECT w buttons to move the arrow cursor to the right side of the instrument icon, as shown below.
+
+3 Use the VALUE q buttons or data dial to change the Voice number. In the display below, Voice number 26 has been selected.
+
+Play this new Voice from the keyboard. Try selecting other Voices and play them as well. (For a list of all the available Voices, refer to the SOUND LIST & MIDI DATA booklet.
+
+####
+选择音色
+在此简短部分中，您将学习如何选择其他音色。您可以直接从 MU90R 面板或远程从 MIDI 键盘执行此操作。
+操作
+1 首先，选择一个声部。使用 PART q 按钮选择声部 1。
+按下相应的按钮，直到显示屏的 PART 部分出现“01”。
+
+2 使用 SELECT w 按钮将箭头光标移动到乐器图标的右侧，如下所示。
+
+3 使用 VALUE q 按钮或数据拨盘更改音色编号。在下面的显示屏中，已选择音色编号 26。
+
+从键盘播放这个新音色。尝试选择其他音色并播放它们。（有关所有可用音色的列表，请参阅 SOUND LIST & MIDI DATA 小册子。
+
+HINT
+You can rapidly move through the values by holding down one of the VALUE q buttons.
+
+You can move even more rapidly by holding down one button and then pressing and hold- ing down the other. For example, to rapidly advance (increase) the value, hold down the VALUE + button and simultaneously press and hold down the VALUE – button.
+
+提示
+按住 VALUE q 按钮之一即可快速移动值。
+
+按住一个按钮然后按住另一个按钮即可移动得更快。例如，要快速增加（增加）值，请按住 VALUE + 按钮并同时按住 VALUE – 按钮。
+
+####
+Changing the Voice Bank
+In the current Sound Module mode (XG), several banks of Voices are available. Each bank can contain up to 128 different Voices.
+Operation
+1 Use the SELECT w buttons to move the arrow cursor to the left side of the instrument icon, as shown below.
+
+2 Use the VALUE q buttons or data dial to change the Bank number.
+
+3 Finally, use the SELECT w buttons again to move the arrow cursor back to the right side of the instrument icon — for Voice selection.
+
+####
+更改音色库
+在当前声音模块模式 (XG) 中，有多个音色库可用。每个库最多可包含 128 种不同的音色。
+操作
+1 使用 SELECT w 按钮将箭头光标移动到乐器图标的左侧，如下所示。
+
+2 使用 VALUE q 按钮或数据拨盘更改库号。
+
+3 最后，再次使用 SELECT w 按钮将箭头光标移回乐器图标的右侧 — 用于音色选择。
+
+####
+Selecting Voices From Your MIDI Keyboard 
+You can also select Voices remotely from the connected MIDI key- board. Though the actual operation may differ depending on the keyboard used, the general procedure is the same. (Refer to the owner’s manual of your instrument for specific instructions.)
+Operation
+1 Make sure that your keyboard is set up to send Program Change messages.
+
+2 Use the panel controls to select a program on your keyboard.
+Generally, if everything has been set up properly, the Voice number and name on the MU90R will change, and will be the same number as the program number you selected on your keyboard.
+
+####
+从 MIDI 键盘选择音色 
+您还可以从连接的 MIDI 键盘远程选择音色。虽然实际操作可能因所用键盘而异，但一般步骤是相同的​​。（有关具体说明，请参阅乐器的用户手册。）
+操作
+1 确保您的键盘已设置为发送程序更改消息。
+
+2 使用面板控件选择键盘上的程序。
+通常，如果一切设置正确，MU90R 上的音色编号和名称将发生变化，并且将与您在键盘上选择的程序编号相同。
+
+####
+Changing Some of the Settings — Part Controls
+You can make changes to each individual Part by using the Part controls.
+
+These are always displayed in the Play mode, giving you at-a-glance con- firmation of the various basic settings of the MU90R. Let’s take a look at the Play display again:
+
+Each of these settings can be made independently for each of the Parts. For example, each Part could have a different Volume setting, or a different Pan setting. Try going through the brief sections below and making some changes in the Part controls yourself.
+
+####
+更改部分设置 — 声部控制
+您可以使用声部控制对每个声部进行更改。
+
+这些始终显示在播放模式下，让您一目了然地确认 MU90R 的各种基本设置。让我们再看一下播放屏幕：
+
+每个声部都可以单独进行这些设置。例如，每个声部可以有不同的音量设置或不同的声像设置。尝试阅读下面的简要部分并自己对声部控制进行一些更改。
+
+####
+Selecting Another Part and Changing its MIDI Channel
+Here we’ll select Part 2 and change its MIDI channel to 1, so that it matches the MIDI channel of Part 1. This allows you to play the Voices of both Part 1 and Part 2 over MIDI channel 1.
+
+Operation
+1 Use the PART q buttons to select Part 2.
+
+2 Use the SELECT w buttons to call up the “Rcv CH” display below.
+Current MIDI Receive Channel.
+
+3 Use the VALUE q buttons or data dial to change the MIDI Receive Channel to “A01.” 4 Finally, use the SELECT w buttons to move the arrow cursor back to the instrument icon (so that the Voice name is displayed), and play the MIDI keyboard again.
+
+Both “level meters” move together.
+
+If both Parts 1 and 2 have been set to MIDI channel 1, both of their “level meters” should move together as you play. And, if the two Parts are set to dif- ferent Voices, you should hear two different Voices sound at the same time.
+
+(To change the Voice for a Part, refer back to Selecting Voices above.)
+
+####
+选择另一个声部并更改其 MIDI 通道
+在这里，我们将选择声部 2 并将其 MIDI 通道更改为 1，以便它与声部 1 的 MIDI 通道匹配。这样您就可以通过 MIDI 通道 1 播放声部 1 和声部 2 的音色。
+
+操作
+1 使用 PART q 按钮选择声部 2。
+
+2 使用 SELECT w 按钮调出下面的“Rcv CH”显示。
+当前 MIDI 接收通道。
+
+3 使用 VALUE q 按钮或数据拨盘将 MIDI 接收通道更改为“A01”。4 最后，使用 SELECT w 按钮将箭头光标移回乐器图标（以便显示音色名称），然后再次弹奏 MIDI 键盘。
+
+两个“电平表”一起移动。
+
+如果声部 1 和声部 2 都已设置为 MIDI 通道 1，则在您弹奏时，它们的两个“电平表”都应一起移动。而且，如果两个声部设置为不同的音色，您应该会同时听到两种不同的音色。
+
+（要更改声部的音色，请参阅上面的“选择音色”。）
+

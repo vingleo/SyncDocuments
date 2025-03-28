@@ -1,0 +1,208 @@
+
+*************************************************
+Foreword
+The most amazing aspect of the book you’re holding in your hands is that it talks about a tech- nological subject that, while more than a decade and a half old, is still vital, growing, and rele- vant. Think back to other artifacts from the same era as MIDI’S early days: Is anyone still writing books about the Commodore 64, the joys of telecommunicating with 300-baud modems, getting the most out of a Mac Plus, or how to organize data on your 20-megabyte hard drive?
+
+Of course not. Technology has a certain ruthlessness; in the rush toward the new, the old is forgotten—cast away as an embarrassing reminder of what we once were.
+
+But this hasn’t happened with MIDI. Far from disappearing, MIDI has lived long and pros- pered. Once used by only a handful of computer-literate musicians, MIDI is now commonplace in computers around the world. It has become “the new sheet music,” but for computer media rather than the printed page.
+
+What accounts for MIDI’s stubborn refusal not to yield to something new and different, and even evolve to newer heights? Part of the reason is that MIDI was born to good parents. Virtually every music-related hardware and software manufacturer in the early 1980s worked together to hammer out a standard: Americans, Japanese, and Europeans debated, refined, and tested until they had forged a truly worldwide phenomenon. They had the good sense to make MIDI inex- pensive enough that there was no reason not to include it as part of musical hardware, which cre- ated the volume that made it worthwhile for other companies to develop MIDI-compatible widgets.
+
+MIDI was also powerful and useful enough that it served a wide range of musical needs. But the story would have ended there if not for the MIDI Manufacturers Association, the “guardians” of the MIDI spec. Periodically, this organization drafts new proposals that take MIDI to another level. In the years since MIDI’S inception, it has become part of studio recording, post-production, video games, lighting control, Broadway shows, the Internet, and much more. All of these improve- ments have been done in an orderly, consensus-oriented fashion that has guaranteed the spec’s universality and effectiveness.
+
+Which brings us to this book. MIDI’s evolution has meant that there has been a continuing need for books that explore this evolution. David Huber is an excellent guide to this world. He loves music, technology, and people, which puts him in a good position to communicate about tech- nology to those who want to learn more about this “MIDI thing.” Of course, The MIDI Manual includes info on MIDI basics, but more importantly, it discusses the many updates and enhance- ments that have occurred during the past 20? years. While it’s a fine place for beginners to get an overview, what’s special about The MIDI Manual is that it’s also “continuing education” for those who want to remain current about MIDI, and get a glimpse of where it’s going to be head- ing in the future.
+
+So sit back, relax, put on a background CD (which, odds are, had MIDI involved somewhere in its production), and find out more about the marvelous world of MIDI. Like a truly fine wine, it doesn’t get older—it just gets better.
+—Craig Anderton
+
+前言
+
+您手中这本书最令人惊奇的地方在于，它谈论的是一个技术主题，尽管已有十五年历史，但仍然至关重要、不断发展且具有现实意义。回想一下 MIDI 早期同一时代的其他文物：还有人在写有关 Commodore 64、使用 300 波特调制解调器进行通信的乐趣、充分利用 Mac Plus 或如何在 20 兆字节硬盘上组织数据的书吗？
+
+当然没有。技术有一定的无情性；在追求新事物的浪潮中，旧事物被遗忘——被抛弃，成为我们曾经的尴尬回忆。
+
+但 MIDI 并没有发生这种情况。MIDI 不仅没有消失，而且存在了很长时间并蓬勃发展。MIDI 曾经只被少数精通计算机的音乐家使用，现在已在世界各地的计算机中很常见。它已成为“新乐谱”，但用于计算机媒体而非印刷页面。
+
+MIDI 为何顽固地拒绝向新事物屈服，甚至发展到新的高度？部分原因是 MIDI 诞生于一个好父母。20 世纪 80 年代初，几乎所有与音乐相关的硬件和软件制造商都共同努力制定了一项标准：美国、日本和欧洲人经过辩论、改进和测试，直到他们打造出一种真正全球性的现象。他们明智地让 MIDI 变得足够便宜，以至于没有理由不将其作为音乐硬件的一部分，这创造了数量，使其他公司值得开发与 MIDI 兼容的小部件。
+
+MIDI 还非常强大和有用，可以满足广泛的音乐需求。但如果不是 MIDI 制造商协会（MIDI 规范的“守护者”），这个故事就会到此结束。该组织定期起草新的提案，将 MIDI 提升到另一个层次。自 MIDI 诞生以来，它已成为录音棚录音、后期制作、视频游戏、灯光控制、百老汇演出、互联网等的一部分。所有这些改进都是以有序、以共识为导向的方式进行的，从而保证了该规范的普遍性和有效性。
+
+这让我们想到了这本书。MIDI 的演变意味着需要不断出版探索这一演变的书籍。David Huber 是这个世界的优秀向导。他热爱音乐、技术和人，这使他能够很好地向那些想要了解更多有关“MIDI 事物”的人传达技术信息。当然，《MIDI 手册》包含有关 MIDI 基础知识的信息，但更重要的是，它讨论了过去 20 年发生的许多更新和增强。虽然《MIDI 手册》是初学者了解 MIDI 概况的好地方，但它的特别之处在于，对于那些想要了解 MIDI 最新动态并了解其未来发展方向的人来说，它也是“继续教育”。
+
+所以，坐下来，放松一下，放上一张背景 CD（很可能在制作过程中涉及到 MIDI），了解更多关于 MIDI 的奇妙世界。就像一瓶真正优质的葡萄酒，它不会变老，只会变得更好。
+—Craig Anderton
+
+*************************************************
+1 What Is MIDI?
+
+Simply stated, Musical Instrument Digital Interface (MIDI) is a digital communications language and compatible specification that allows multiple hardware and software electronic instruments, performance controllers, computers, and other related devices to communicate with each other over a connected network (Figure 1.1). MIDI is used to translate performance- or control-related events (such as playing a keyboard, selecting a patch number, varying a modulation wheel, trigger- ing a staged visual effect, etc.) into equivalent digital messages and then transmit these messages to other MIDI devices where they can be used to control sound generators and other performance parameters. The beauty of MIDI is that its data can be recorded into a hardware device or software program (known as a sequencer), where it can be edited and transmitted to electronic instruments or other devices to create music or control any number of parameters.
+
+In artistic terms, this digital language is an important medium that lets artists express themselves with a degree of flexibility and control that, before its inception, wasn’t possible on an individual level. Through the transmission of this performance language, an electronic musician can create and develop a song or composition in a practical, flexible, affordable, and fun production environment.
+
+Figure 1.1. Example of a typical MIDI system with the MIDI network connections.
+
+In addition to composing and performing a song, musicians can also act as techno-conductors, having complete control over a wide palette of sounds, their timbre (sound and tonal quality), overall blend (level, panning), and other real-time controls. MIDI can also be used to vary the perform- ance and control parameters of electronic instruments, recording devices, control devices, and sig- nal processors in the studio, on the road, or on the stage.
+
+The term “interface” refers to the actual data communications link and software/hardware systems in a connected MIDI network. Through the use of MIDI, it is possible for all of the electronic instruments and devices within a network to be addressed through the transmission of real-time performance and control-related MIDI data messages throughout a system to multiple instru- ments and devices through a single data line (which can be chained from device to device). This is possible because a single data cable is capable of transmitting performance and control messages over 16 discrete channels. This simple fact allows electronic musicians to record, overdub, mix, and play back their performances in a working environment that loosely resembles the multitrack recording process. Once mastered, MIDI surpasses this analogy by allowing a composition to be edited, controlled, altered, and called up with complete automation and repeatability—providing production challenges and possibilities that are well beyond the capabilities of the traditional tape- based multitrack recording process.
+
+Figure 1.2. Example of a typical MIDI system with the audio connections.
+
+*************************************************
+1 什么是 MIDI？
+
+简而言之，乐器数字接口 (MIDI) 是一种数字通信语言和兼容规范，允许多个硬件和软件电子乐器、性能控制器、计算机和其他相关设备通过连接的网络相互通信（图 1.1）。MIDI 用于将与性能或控制相关的事件（例如弹奏键盘、选择补丁号、改变调制轮、触发分阶段的视觉效果等）转换为等效的数字消息，然后将这些消息传输到其他 MIDI 设备，在那里它们可用于控制声音发生器和其他性能参数。MIDI 的美妙之处在于，它的数据可以记录到硬件设备或软件程序（称为音序器）中，在那里可以对其进行编辑并传输到电子乐器或其他设备以创作音乐或控制任意数量的参数。
+
+从艺术角度来看，这种数字语言是一种重要的媒介，它让艺术家能够以一定的灵活性和控制力表达自己，而在其诞生之前，这在个人层面上是不可能的。通过传输这种演奏语言，电子音乐家可以在实用、灵活、经济实惠且充满乐趣的制作环境中创作和开发歌曲或作品。
+
+图 1.1。具有 MIDI 网络连接的典型 MIDI 系统示例。
+
+除了创作和演奏歌曲外，音乐家还可以充当技术指挥，完全控制各种声音、音色（声音和音调质量）、整体混合（音量、声像）和其他实时控制。MIDI 还可用于改变录音室、路上或舞台上的电子乐器、录音设备、控制设备和信号处理器的性能和控制参数。
+
+术语“接口”是指连接的 MIDI 网络中的实际数据通信链路和软件/硬件系统。通过使用 MIDI，可以通过一条数据线（可从一个设备链接到另一个设备）将实时演奏和控制相关的 MIDI 数据信息传输到整个系统中的多个乐器和设备，从而解决网络中的所有电子乐器和设备的问题。这是因为一条数据线能够通过 16 个离散通道传输演奏和控制信息。这个简单的事实使电子音乐家能够在与多轨录音过程大致相似的工作环境中录制、配音、混音和播放他们的演奏。一旦掌握，MIDI 就超越了这种类比，允许以完全自动化和可重复的方式编辑、控制、更改和调用乐曲——提供的制作挑战和可能性远远超出了传统基于磁带的多轨录音过程的能力。
+
+图 1.2。带有音频连接的典型 MIDI 系统示例。
+
+####
+What MIDI Isn’t
+For starters, let’s dispel one of MIDI’s greatest myths: MIDI does not communicate audio nor can it cre- ate sounds! It is a digital language that instructs a device or program to create, playback, or alter sounds.
+
+MIDI is a data protocol that communicates on/off triggering and a wide range of parameters to instruct an instrument or device to generate, reproduce, or control audio or production-related func- tions. Because of these differences, the MIDI data path and the audio routing paths are entirely sepa- rate from each another (Figure 1.2). Even if they digitally share the same transmission cable (such as through FireWire™ or USB), the actual data paths and formats are completely separate.
+
+In short, MIDI communicates information that instructs an instrument to play or a device to carry out a function. It can be thought of as the dots on a player-piano roll—when we put the paper roll up to our ears, we hear nothing. When the cut-out dots pass over the sensors on a player piano, the instrument itself begins to make beautiful music. It’s exactly the same with MIDI.
+
+A MIDI file or data stream is simply a set of instructions that pass down a wire in a serial fashion, but when an electronic instrument interprets the data we begin to hear sound.
+
+####
+MIDI 不是什么
+首先，让我们来消除 MIDI 最大的误解之一：MIDI 不传递音频，也不能创建声音！它是一种数字语言，可以指示设备或程序创建、播放或改变声音。
+
+MIDI 是一种数据协议，可以传递开/关触发和各种参数，以指示乐器或设备生成、再现或控制音频或与制作相关的功能。由于这些差异，MIDI 数据路径和音频路由路径完全彼此独立（图 1.2）。即使它们在数字上共享相同的传输电缆（例如通过 FireWire™ 或 USB），实际的数据路径和格式也完全独立。
+
+简而言之，MIDI 传递指示乐器演奏或设备执行功能的信息。它可以被认为是自动钢琴卷轴上的点 - 当我们将纸卷放在耳边时，我们什么也听不到。当切出的点经过自动钢琴上的传感器时，乐器本身就开始演奏美妙的音乐。这与 MIDI 完全相同。
+
+MIDI 文件或数据流只是一组以串行方式通过电线传递的指令，但当电子乐器解释数据时，我们就开始听到声音。
+
+####
+A Brief History
+In the early days of electronic music, keyboard synthesizers were commonly monophonic devices (capable of sounding only one note at a time) and often generated a thin sound quality. These lim- iting factors caused early manufacturers to look for ways to combine instruments together to create a thicker, richer sound texture. This was originally accomplished by establishing an instrument link that would allow a synthesizer (acting as a master controller) to directly control the performance parameters of one or more synthesizers (known as slave sound modules). As a result of these links, a basic control signal (known as control voltage, or CV) was developed (Figure 1.3).
+
+This simple yet problematic system was based on the fact that when most early keyboards were played, they generated a DC voltage that could directly control another instrument’s voltage- controlled oscillators (which affected the pitch of a sounding note) and voltage-controlled ampli- fiers (which affected the note’s volume and on/off nature). Since many keyboards of the day generated a DC signal that ascended at a rate of 1 volt per octave (breaking each musical octave into 1/12-volt intervals), it was possible to use this standard control voltage as a master-reference signal for transmitting pitch information to other synths. In addition to a control voltage, this  standard required that a keyboard transmit a gate signal. This second signal was used to syn- chronize the beginning and duration times of each note. With the appearance of more advanced polyphonic synthesizers (which could generate more than one note at a time) and early digital devices, it was clear that this standard would no longer be the answer to system-wide control, and new standards began to appear on the scene (thereby creating the fun of having incompatible control standards). With the arrival of early drum machines and sequencing devices, standardi- zation became even more of a dilemma.
+
+####
+简史
+在电子音乐的早期，键盘合成器通常是单声道设备（一次只能发出一个音符），并且通常产生的声音质量较薄。这些限制因素导致早期制造商寻找将乐器组合在一起以创造更厚重、更丰富的声音质感的方法。这最初是通过建立乐器链接来实现的，该链接允许合成器（充当主控制器）直接控制一个或多个合成器（称为从属声音模块）的性能参数。由于这些链接，开发了一种基本的控制信号（称为控制电压或 CV）（图 1.3）。
+
+这个简单但有问题的系统基于这样一个事实：当演奏大多数早期键盘时，它们会产生直流电压，该电压可以直接控制另一个乐器的压控振荡器（影响发声音符的音高）和压控放大器（影响音符的音量和开/关特性）。因为当时许多键盘都能产生以每八度 1 伏特的速率上升的直流信号（将每个音乐八度分为 1/12 伏特的间隔），所以可以使用此标准控制电压作为主参考信号，以将音高信息传输到其他合成器。除了控制电压之外，此标准还要求键盘传输门信号。第二个信号用于同步每个音符的开始和持续时间。随着更先进的复音合成器（可以一次生成多个音符）和早期数字设备的出现，很明显此标准不再是系统范围控制的答案，并且新的标准开始出现（从而创造了拥有不兼容控制标准的乐趣）。随着早期鼓机和音序设备的出现，标准化变得更加困难。
+
+Figure 1.3. The late, great synth pioneer Bob Moog, who was outstanding in his field.
+(Photograph courtesy of Roger Luther; www.moogarchives.com.)
+
+图 1.3。已故的伟大合成器先驱 Bob Moog，他在其领域中表现突出。
+（照片由 Roger Luther 提供；www.moogarchives.com。）
+
+Synchronization between these early devices was also problematic, as manufacturers would often standardize on different sync-pulse clock rates. Synchronizing incompatible systems could be extremely difficult, because they would lose sync over a very short period of time, rendering sync nearly impossible without additional sync-rate converters or other types of modifications. Because of this mess, Dave Smith and Chet Wood (then of Sequential Circuits, a now-defunct manufac- turer of electronic instruments) began creating a digital electronic instrument protocol, which was named the Universal Synthesizer Interface (USI). As a result of this early protocol, equipment from different manufacturers could finally communicate directly (e.g., a synth from one company finally worked with another company’s sequencer). In the fall of 1981, USI was proposed to the Audio Engineering Society. During the following two years, a panel (which included representatives from the major electronic instrument manufacturers) modified this standard and adopted it under the name of Musical Instrument Digital Interface (MIDI Specification 1.0).
+
+这些早期设备之间的同步也存在问题，因为制造商通常会采用不同的同步脉冲时钟速率作为标准。同步不兼容的系统可能极其困难，因为它们会在很短的时间内失去同步，如果不使用额外的同步速率转换器或其他类型的修改，同步几乎是不可能的。由于这种混乱，Dave Smith 和 Chet Wood（当时在 Sequential Circuits 公司工作，该公司是一家现已倒闭的电子乐器制造商）开始创建数字电子乐器协议，该协议被命名为通用合成器接口 (USI)。由于这一早期协议，不同制造商的设备终于可以直接通信（例如，一家公司的合成器终于可以与另一家公司的音序器配合使用）。1981 年秋天，USI 被提交给音频工程协会。在接下来的两年里，一个小组（包括来自主要电子乐器制造商的代表）修改了该标准，并将其命名为乐器数字接口（MIDI 规范 1.0）。
+
+The strong acceptance of MIDI was largely due to the need for a standardized protocol and fast- paced advances in technology that allowed complex circuit chips and hardware designs to be manufactured cost effectively. It was also due, in part, to the introduction of Yamaha’s popular DX-7 synthesizer in the winter of 1983, after which time keyboard sales began to grow at an astonishing rate.
+
+MIDI 的广泛接受主要归功于标准化协议的需求以及快速发展的技术，这使得复杂的电路芯片和硬件设计能够以低成本制造。此外，部分原因是雅马哈于 1983 年冬季推出了广受欢迎的 DX-7 合成器，此后键盘的销量开始以惊人的速度增长。
+
+With the adoption of this industry-wide standard, any device that incorporated MIDI into its design could transmit or respond to digital performance and control-related data conforming to the MIDI 1.0 specification. For the first time, any new device that conformed to the MIDI spec would integrate into an existing MIDI system and actually work … without any muss or fuss.
+
+随着这一行业标准的采用，任何将 MIDI 融入其设计的设备都可以传输或响应符合 MIDI 1.0 规范的数字演奏和控制相关数据。这是第一次，任何符合 MIDI 规范的新设备都可以集成到现有的 MIDI 系统中并真正发挥作用……没有任何麻烦或麻烦。
+
+Over the course of time, new instruments came onto the market that offered improved sound and functional capabilities that led to the beginnings of software sound generators, samplers, and effects devices. With the eventual maturation of software instruments and systems that could emulate existing devices or create entirely an entirely new range of functions and sound, hard- ware controllers began to quickly spring onto the scene that made use of MIDI to communicate physical control movements into analogous moves in a program or plug-in software interface. In fact, this explosion of software emulation and control has breathed a new degree of life into the common, everyday use of MIDI.
+
+随着时间的推移，市场上出现了新的乐器，它们提供了更好的声音和功能，从而催生了软件声音发生器、采样器和效果设备的出现。随着软件乐器和系统的最终成熟，它们可以模拟现有设备或创建全新的功能和声音，硬件控制器开始迅速涌现，它们利用 MIDI 将物理控制动作传达为程序或插件软件界面中的类似动作。事实上，软件模拟和控制的爆炸式增长为 MIDI 的日常使用注入了新的活力。
+
+####
+Why Is MIDI?
+Before MIDI, it was pretty much necessary to perform a musical passage in real time. Of course,
+there are a few exceptions to this statement. In earlier days, music could be created and re-created though the mechanical triggering of a musical device (music boxes and the aforementioned player piano come to mind). When tape-based recording came along in the middle part of the last cen- tury, it became possible to edit two or more problematic performances together into a single, good take. However, when it came to the encoding of a musical passage and then faithfully play- ing it back—while still being able to edit or alter the tempo, notes, and control variables of a performance—we were pretty much back in the horse-and-buggy days.
+
+With the introduction of electronic music production and MIDI, a musical performance could be captured in the digital domain and then faithfully played back in a production-type environment that mimicked the traditional form and functions of multitrack recording. Basic tracks could be recorded one at a time, allowing a composition to be built up using various electronic instruments.
+
+But, here’s the kicker: MIDI finally made it possible for a performance track to be edited, layered, altered, spindled, mutilated, and improved with relative ease and under completely automated computer control. If you played a bad note, fix it. If you want to change the key or tempo of a piece, change it. If you want to change the expressive volume of a phrase in a song, just do it! Even its sonic character (timbre) can be changed! These capabilities just hint at the power of MIDI!
+
+This affordable potential for future expansion and increased control throughout an integrated production system has spawned the growth of an industry that’s also very personal in nature. For the first time in music history, it is possible for an individual to cost-effectively realize a full-scale sound production on his or her own time. Because MIDI is a real-time performance medium, it is also possible to listen to and edit a production at every stage of its development, all within the comfort of one’s own home or personal project studio.
+
+I’d also like to address another issue that has sprung up around MIDI and electronic music pro- duction. With the introduction of drum machines, modern-day synths, samplers, and powerful hardware or software instruments, it is not only possible but also relatively easy to build up a composition using instrument voices that closely mimic virtually any instrument that can be imagined. In the early days, studio musicians spoke out against MIDI, saying that it would be the robot that would make them obsolete. Although there was a bit of truth to this, these same musicians are now using the power of MIDI to expand their own musical palate and create pro- ductions of their own. Today, MIDI is being used by many professional and nonprofessional musicians alike to perform an expanding range of production tasks, including music production, audio-for-video and film postproduction, and stage production. Such is progress.
+
+####
+为什么是 MIDI？
+在 MIDI 出现之前，实时演奏一段音乐几乎是必要的。当然，
+这种说法也有一些例外。在早期，音乐可以通过音乐设备的机械触发来创作和重现（音乐盒和前面提到的自动钢琴就浮现在脑海中）。当上世纪中叶磁带录音出现时，人们可以将两个或多个有问题的表演剪辑成一个单一的、好的片段。然而，当涉及到对一段音乐进行编码，然后忠实地播放它时——同时仍然能够编辑或改变表演的节奏、音符和控制变量——我们几乎回到了马车时代。
+
+随着电子音乐制作和 MIDI 的引入，音乐表演可以在数字领域中被捕捉，然后在模仿多轨录音的传统形式和功能的制作环境中忠实地播放。基本音轨可以一次录制一个，这样就可以使用各种电子乐器创作乐曲。
+
+但关键在于：MIDI 终于使表演音轨能够相对轻松地在完全自动化的计算机控制下进行编辑、分层、修改、旋转、分割和改进。如果您弹奏了一个错误的音符，请对其进行修改。如果您想改变乐曲的调或节奏，请对其进行更改。如果您想改变歌曲中某个乐句的表达音量，请直接更改！甚至可以更改其声音特征（音色）！这些功能都暗示了 MIDI 的强大功能！
+
+这种未来扩展的可承受潜力以及对整个集成制作系统的增强控制催生了一个本质上非常个性化的行业的发展。在音乐史上，这是第一次，个人可以在自己的时间内以经济高效的方式实现全面的声音制作。由于 MIDI 是一种实时演奏媒介，因此人们还可以在作品开发的每个阶段收听和编辑作品，这一切都可以在自己家中或个人项目工作室中完成。
+
+我还想谈谈 MIDI 和电子音乐制作中出现的另一个问题。随着鼓机、现代合成器、采样器和强大的硬件或软件乐器的推出，使用乐器声音创作作品不仅可能，而且相对容易，这些乐器声音可以紧密模仿几乎任何可以想象到的乐器。早期，录音室音乐家反对 MIDI，称机器人会取代他们。虽然这话有一定道理，但这些音乐家现在正在利用 MIDI 的力量来扩展自己的音乐品味，创作自己的作品。如今，许多专业和非专业音乐家都在使用 MIDI 来执行越来越多的制作任务，包括音乐制作、视频音频和电影后期制作以及舞台制作。这就是进步。
+
+####
+MIDI in the Home
+A vast number of electronic musical instruments, effects devices, computer systems, and other MIDI-related devices are currently available on the new and used electronic music market. This diversity lets us select the type of production system that best suits our own particular musical taste and production style. With the introduction of the large-scale integrated circuit chip (which allows complex circuitry to be quickly and easily mass produced), many of the devices that make up an electronic music system are affordable for almost every musician or composer, whether he or she is a working professional, aspiring artist, or beginning hobbyist (Figure 1.4).
+
+One of the greatest benefits of a project or portable production system centers around the idea that an artist can select from a wide range of tools and toys to generate specific sounds—or to get the particular sounds that he or she likes. This technology is often extremely powerful, as the components combine to create a vast palette of sounds and handle a wide range of task-specific functions. Such a system might include one or more keyboard synthesizers, synth modules, sam- plers, drum machines, a computer (with a digital audio workstation and sequencing package), effects devices, and audio mixing capabilities.
+
+Figure 1.4. Gettin’ it all going in the bedroom studio. (Photograph courtesy of Yamaha Corporation of America;www.yamaha.com.)
+
+Systems like these are constantly being installed in the homes of working and aspiring musicians.
+Their size can range from taking up a corner of an artist’s bedroom to being a larger system that’s been installed in a dedicated project studio. All of these system types can be designed to handle a wide range of applications and have the important advantage of letting the artist produce his or her music in a comfortable environment whenever the creative mood hits. Such production luxuries, which would have literally cost an artist a fortune twenty years ago, are now within the reach of almost every working and aspiring musician.
+
+####
+家庭中的 MIDI
+目前，新旧电子音乐市场上有大量电子乐器、效果设备、计算机系统和其他 MIDI 相关设备。这种多样性使我们能够选择最适合我们自己的音乐品味和制作风格的制作系统类型。随着大规模集成电路芯片（允许快速轻松地批量生产复杂电路）的推出，构成电子音乐系统的许多设备几乎每个音乐家或作曲家都负担得起，无论他或她是专业人士、有抱负的艺术家还是初学者（图 1.4）。
+
+项目或便携式制作系统的最大好处之一是艺术家可以从各种工具和玩具中进行选择，以产生特定的声音 - 或者获得他或她喜欢的特定声音。这项技术通常非常强大，因为组件组合在一起可以创建大量的声音并处理各种特定于任务的功能。这样的系统可能包括一个或多个键盘合成器、合成器模块、采样器、鼓机、计算机（带有数字音频工作站和音序器）、效果设备和音频混音功能。
+
+图 1.4。在卧室工作室中开始这一切。（照片由 Yamaha Corporation of America 提供；www.yamaha.com。）
+
+像这样的系统经常被安装在工作和有抱负的音乐家的家中。
+它们的大小从占用艺术家卧室的一角到安装在专用项目工作室中的大型系统不等。所有这些系统类型都可以设计为处理广泛的应用，并且具有让艺术家在创作情绪来临时在舒适的环境中创作音乐的重要优势。这种制作奢侈品在二十年前会花费艺术家一大笔钱，但现在几乎每个工作和有抱负的音乐家都可以负担得起。
+
+####
+MIDI on the Go
+Of course, MIDI production systems can appear in any number of shapes and sizes and can be designed to match a wide range of production and budget needs. For example, a portable, all-in-one keyboard instrument (known as a MIDI workstation) often includes an integrated keyboard, polyphonic synthesizer, percussion sounds, built-in sequencer, and audio recording capabilities … all in a single hardware package. Laptops have hit the production scene big time, as they can combine software recording and production applications with portable keyboard controllers and audio interface devices to create a professional production system that lets us compose, produce, and mix in the studio or on the beach of a remote seaside island (Figure 1.5).
+
+Figure 1.5. Between takes. (Photograph courtesy of M-Audio, A Division of Avid Technology; www.m-audio.com.)
+
+####
+MIDI 随身携带
+当然，MIDI 制作系统可以有多种形状和大小，并且可以设计为满足各种制作和预算需求。例如，便携式一体式键盘乐器（称为 MIDI 工作站）通常包括集成键盘、复音合成器、打击乐音色、内置音序器和音频录制功能……所有这些都包含在一个硬件包中。笔记本电脑在制作领域大受欢迎，因为它们可以将软件录制和制作应用程序与便携式键盘控制器和音频接口设备相结合，以创建专业的制作系统，让我们可以在工作室或偏远的海边岛屿的海滩上创作、制作和混音（图 1.5）。
+
+图 1.5。拍摄之间。（照片由 M-Audio 提供，Avid Technology 的一个部门；www.m-audio.com。）
+
+####
+MIDI in the Studio
+MIDI has also dramatically changed the sound, technology, and production habits of the record- ing studio (Figure 1.4). Before MIDI and the concept of the home project studio, the professional recording studio was one of the only production environments that allowed an artist or composer to combine instruments and sound textures into a final recorded product. Often, the process of recording a group in a live setting was (and still can be) an expensive and time-consuming process.
+
+This is due to the high cost of hiring session musicians and the high hourly rates that are charged for a professional studio—not to mention Murphy’s studio law, which states that you’ll always spend more time and money than you thought you ever could in an effort to capture that elusive “ideal performance.” Because of the digital audio workstation (DAW) and MIDI, much of the music production process can now be preplanned and rehearsed (or even totally produced and recorded) before you step into the studio (Figure 1.6). This out-and-out luxury has reduced the number of hours that are needed for laying down recorded tracks to a cost-effective minimum; for example, it is now commonplace for groups to record and produce entire albums in their own project studios. Once completed (or nearly completed), the group can either dump the tracks to tape or simply bring their entire set of MIDI and recorded audio tracks into the studio and lay the instrument tracks down to disc or tape. In a professional studio, the tracks can be sweetened into a polished state by adding vocals or other instruments. Finally, the tracks can then be professionally mixed down into a final product. In essence, through the use of careful planning and preproduction in the project studio, a project can be produced in a much more timely fashion (and hopefully on budget) than would otherwise be possible.
+
+Figure 1.6. Steve Tushar, sound effects editor and musician, with his MC Media Application Controller running Nuendo.
+(Photograph courtesy of Andrew Wild, Euphonix, Inc.; www.euphonix.com.)
+
+Figure 1.7. Euphonix System 5 console at Goldcrest Post in London. (Photograph by Patrick Denis, courtesy of Euphonix, Inc.; www.euphonix.com.)
+
+####
+录音室中的 MIDI
+MIDI 还极大地改变了录音室的声音、技术和制作习惯（图 1.4）。在 MIDI 和家庭项目工作室概念出现之前，专业录音室是唯一允许艺术家或作曲家将乐器和声音纹理组合成最终录音产品的制作环境之一。通常，在现场环境中录制乐队的过程是（现在仍然是）一个昂贵且耗时的过程。
+
+这是由于聘请伴奏音乐家的成本高昂以及专业录音室收取的高小时费率——更不用说墨菲工作室定律，该定律指出，为了捕捉难以捉摸的“理想表演”，你总是会花费比你想象的更多的时间和金钱。由于数字音频工作站 (DAW) 和 MIDI，现在大部分音乐制作过程都可以在你进入录音室之前预先计划和排练（甚至完全制作和录制）（图 1.6）。这种彻头彻尾的奢侈将录制音轨所需的时间减少到最低限度，从而降低成本；例如，现在乐队在自己的项目工作室录制和制作整张专辑已是司空见惯。一旦完成（或接近完成），乐队可以将音轨转储到磁带上，或者干脆将他们的整个 MIDI 和录制的音轨带入工作室，并将乐器音轨放到光盘或磁带上。在专业工作室中，可以通过添加人声或其他乐器将音轨美化为精致状态。最后，可以将音轨专业地混合成最终产品。从本质上讲，通过在项目工作室中进行精心规划和预制作，可以比其他方式更及时地（并且希望在预算之内）制作项目。
+
+图 1.6. 音效编辑兼音乐家 Steve Tushar 和他的 MC Media Application Controller 一起运行 Nuendo。
+（照片由 Euphonix, Inc. 的 Andrew Wild 提供；www.euphonix.com。）
+
+图 1.7。伦敦 Goldcrest Post 的 Euphonix System 5 控制台。（摄影：Patrick Denis，由 Euphonix, Inc. 提供；www.euphonix.com。）
+
+####
+MIDI in Audio-for-Visual and Film
+Electronic music has long been an indispensable tool for the scoring and audio postproduction of television commercials, industrial videos, television shows, and full-feature motion picture sound tracks (Figure 1.7). For productions that are on a tight budget, entire scores are often written and produced in a project studio at a mere fraction of what it might cost to hire the musicians, a stu- dio, and mixdown rooms. Even high-budget projects make extensive use of MIDI in the prepro- duction and production phases. Often, orchestral scores for such projects are composed, edited, and finessed as a MIDI version of the composer’s score before the expensive orchestral tracks are finally recorded in the studio. Before MIDI, this simply wasn’t possible. Once approved, the final MIDI score can be printed and distributed to the musicians before the session.
+
+####
+音频视频和电影中的 MIDI
+长期以来，电子音乐一直是电视广告、工业视频、电视节目和全功能电影音轨的配乐和音频后期制作中不可或缺的工具（图 1.7）。对于预算紧张的制作，整个乐谱通常在项目工作室中编写和制作，而成本仅为聘请音乐家、工作室和混音室所需费用的一小部分。即使是高预算的项目也会在前期制作和制作阶段大量使用 MIDI。通常，在昂贵的管弦乐曲目最终在工作室录制之前，此类项目的管弦乐谱会作为作曲家乐谱的 MIDI 版本进行创作、编辑和完善。在 MIDI 出现之前，这根本不可能。一旦获得批准，最终的 MIDI 乐谱就可以在会议开始前打印并分发给音乐家。
