@@ -1,17 +1,17 @@
 
 *************************************************
 Foreword
-The most amazing aspect of the book you’re holding in your hands is that it talks about a tech- nological subject that, while more than a decade and a half old, is still vital, growing, and rele- vant. Think back to other artifacts from the same era as MIDI’S early days: Is anyone still writing books about the Commodore 64, the joys of telecommunicating with 300-baud modems, getting the most out of a Mac Plus, or how to organize data on your 20-megabyte hard drive?
+The most amazing aspect of the book you’re holding in your hands is that it talks about a tech- nological subject that, while more than a decade and a half old, is still vital, growing, and rele- vant. Think back to other artifacts from the same era as MIDI’S early days: Is anyone still writing books about the Commodore 64, the joys of telecommunicating with 300-baud modems, getting the most out of a Mac Plus, or how to organize data on your 20-megabyte hard drive=
 
 Of course not. Technology has a certain ruthlessness; in the rush toward the new, the old is forgotten—cast away as an embarrassing reminder of what we once were.
 
 But this hasn’t happened with MIDI. Far from disappearing, MIDI has lived long and pros- pered. Once used by only a handful of computer-literate musicians, MIDI is now commonplace in computers around the world. It has become “the new sheet music,” but for computer media rather than the printed page.
 
-What accounts for MIDI’s stubborn refusal not to yield to something new and different, and even evolve to newer heights? Part of the reason is that MIDI was born to good parents. Virtually every music-related hardware and software manufacturer in the early 1980s worked together to hammer out a standard: Americans, Japanese, and Europeans debated, refined, and tested until they had forged a truly worldwide phenomenon. They had the good sense to make MIDI inex- pensive enough that there was no reason not to include it as part of musical hardware, which cre- ated the volume that made it worthwhile for other companies to develop MIDI-compatible widgets.
+What accounts for MIDI’s stubborn refusal not to yield to something new and different, and even evolve to newer heights= Part of the reason is that MIDI was born to good parents. Virtually every music-related hardware and software manufacturer in the early 1980s worked together to hammer out a standard: Americans, Japanese, and Europeans debated, refined, and tested until they had forged a truly worldwide phenomenon. They had the good sense to make MIDI inex- pensive enough that there was no reason not to include it as part of musical hardware, which cre- ated the volume that made it worthwhile for other companies to develop MIDI-compatible widgets.
 
 MIDI was also powerful and useful enough that it served a wide range of musical needs. But the story would have ended there if not for the MIDI Manufacturers Association, the “guardians” of the MIDI spec. Periodically, this organization drafts new proposals that take MIDI to another level. In the years since MIDI’S inception, it has become part of studio recording, post-production, video games, lighting control, Broadway shows, the Internet, and much more. All of these improve- ments have been done in an orderly, consensus-oriented fashion that has guaranteed the spec’s universality and effectiveness.
 
-Which brings us to this book. MIDI’s evolution has meant that there has been a continuing need for books that explore this evolution. David Huber is an excellent guide to this world. He loves music, technology, and people, which puts him in a good position to communicate about tech- nology to those who want to learn more about this “MIDI thing.” Of course, The MIDI Manual includes info on MIDI basics, but more importantly, it discusses the many updates and enhance- ments that have occurred during the past 20? years. While it’s a fine place for beginners to get an overview, what’s special about The MIDI Manual is that it’s also “continuing education” for those who want to remain current about MIDI, and get a glimpse of where it’s going to be head- ing in the future.
+Which brings us to this book. MIDI’s evolution has meant that there has been a continuing need for books that explore this evolution. David Huber is an excellent guide to this world. He loves music, technology, and people, which puts him in a good position to communicate about tech- nology to those who want to learn more about this “MIDI thing.” Of course, The MIDI Manual includes info on MIDI basics, but more importantly, it discusses the many updates and enhance- ments that have occurred during the past 20= years. While it’s a fine place for beginners to get an overview, what’s special about The MIDI Manual is that it’s also “continuing education” for those who want to remain current about MIDI, and get a glimpse of where it’s going to be head- ing in the future.
 
 So sit back, relax, put on a background CD (which, odds are, had MIDI involved somewhere in its production), and find out more about the marvelous world of MIDI. Like a truly fine wine, it doesn’t get older—it just gets better.
 —Craig Anderton
@@ -34,7 +34,7 @@ MIDI 还非常强大和有用，可以满足广泛的音乐需求。但如果不
 —Craig Anderton
 
 *************************************************
-1 What Is MIDI?
+1 What Is MIDI=
 
 Simply stated, Musical Instrument Digital Interface (MIDI) is a digital communications language and compatible specification that allows multiple hardware and software electronic instruments, performance controllers, computers, and other related devices to communicate with each other over a connected network (Figure 1.1). MIDI is used to translate performance- or control-related events (such as playing a keyboard, selecting a patch number, varying a modulation wheel, trigger- ing a staged visual effect, etc.) into equivalent digital messages and then transmit these messages to other MIDI devices where they can be used to control sound generators and other performance parameters. The beauty of MIDI is that its data can be recorded into a hardware device or software program (known as a sequencer), where it can be edited and transmitted to electronic instruments or other devices to create music or control any number of parameters.
 
@@ -118,7 +118,7 @@ Over the course of time, new instruments came onto the market that offered impro
 随着时间的推移，市场上出现了新的乐器，它们提供了更好的声音和功能，从而催生了软件声音发生器、采样器和效果设备的出现。随着软件乐器和系统的最终成熟，它们可以模拟现有设备或创建全新的功能和声音，硬件控制器开始迅速涌现，它们利用 MIDI 将物理控制动作传达为程序或插件软件界面中的类似动作。事实上，软件模拟和控制的爆炸式增长为 MIDI 的日常使用注入了新的活力。
 
 ####
-Why Is MIDI?
+Why Is MIDI=
 Before MIDI, it was pretty much necessary to perform a musical passage in real time. Of course,
 there are a few exceptions to this statement. In earlier days, music could be created and re-created though the mechanical triggering of a musical device (music boxes and the aforementioned player piano come to mind). When tape-based recording came along in the middle part of the last cen- tury, it became possible to edit two or more problematic performances together into a single, good take. However, when it came to the encoding of a musical passage and then faithfully play- ing it back—while still being able to edit or alter the tempo, notes, and control variables of a performance—we were pretty much back in the horse-and-buggy days.
 
@@ -206,3 +206,480 @@ Electronic music has long been an indispensable tool for the scoring and audio p
 ####
 音频视频和电影中的 MIDI
 长期以来，电子音乐一直是电视广告、工业视频、电视节目和全功能电影音轨的配乐和音频后期制作中不可或缺的工具（图 1.7）。对于预算紧张的制作，整个乐谱通常在项目工作室中编写和制作，而成本仅为聘请音乐家、工作室和混音室所需费用的一小部分。即使是高预算的项目也会在前期制作和制作阶段大量使用 MIDI。通常，在昂贵的管弦乐曲目最终在工作室录制之前，此类项目的管弦乐谱会作为作曲家乐谱的 MIDI 版本进行创作、编辑和完善。在 MIDI 出现之前，这根本不可能。一旦获得批准，最终的 MIDI 乐谱就可以在会议开始前打印并分发给音乐家。
+
+####
+MIDI in Live Performance
+Electronic music production and MIDI are also at home on the stage. Obviously, MIDI has played a crucial role in helping to bring live music to the masses. The ability to sequence rhythm and background parts in advance, chain them together into a single, controllable sequence (using a jukebox-type sequencing program), and then play them on stage has become an indispensable live-performance tool for many musicians. This technique is widely used by solo artists who have become one-man bands by singing and playing their guitar to a series of background sequences.
+
+Larger techno-groups commonly use extensive on-stage loop and power sequencing to drive instruments, lighting and visuals in ways that are staggeringly compelling.
+
+Again, the power of MIDI lies in the fact that much of a performance can be composed and pro- duced in advance of going on stage or on tour. With advances in digital audio, recorded sounds can be easily integrated into the performance. The integration of looping technology often allows for on-the-spot improvisation, adding a fresh and varied feel to the performance for those on stage and in the audience. In addition to communicating performance data, MIDI con- trollers can be used to vary a staggering range of control parameters in real time.
+
+In addition to allowing for control over on-stage music performance, lighting, and preproduced sequencing, MIDI can play a strong role in the production and execution of on-stage lighting and special effects. Most modern-day lighting boards are equipped with a MIDI interface, allowing the lighting to be controlled from a linear sequencer over the course of a song or production—or, from a loop-based sequencer that allows for scene changes in a more interactive and on-the-spot manner (while still allowing scenes to be synchronized to the basic script, when needed).
+
+####
+现场表演中的 MIDI
+电子音乐制作和 MIDI 也在舞台上大行其道。显然，MIDI 在帮助将现场音乐带给大众方面发挥了至关重要的作用。能够提前对节奏和背景部分进行排序，将它们链接成一个单一的、可控制的序列（使用点唱机类型的排序程序），然后在舞台上播放它们，已经成为许多音乐家不可或缺的现场表演工具。这种技术被独唱艺术家广泛使用，他们通过随着一系列背景序列唱歌和弹吉他，成为一人乐队。
+
+较大的技术团体通常使用广泛的舞台循环和电源排序来驱动乐器、灯光和视觉效果，方式令人惊叹。
+
+同样，MIDI 的强大之处在于，大部分表演可以在上台或巡演之前创作和制作。随着数字音频的进步，录制的声音可以轻松地集成到表演中。循环技术的集成通常允许现场即兴表演，为舞台上和观众增添新鲜和多样化的表演感觉。除了传达表演数据外，MIDI 控制器还可用于实时改变范围惊人的控制参数。
+
+除了允许控制舞台上的音乐表演、灯光和预制作的排序之外，MIDI 还可以在舞台灯光和特效的制作和执行中发挥重要作用。大多数现代灯光板都配备了 MIDI 接口，允许在歌曲或作品的过程中从线性音序器控制灯光 - 或者从基于循环的音序器控制场景，从而以更具交互性和现场的方式进行场景变化（同时仍允许在需要时将场景与基本脚本同步）。
+
+####
+MIDI and Visuals
+Speaking of on-screen effects, the ability to offer control over a preprogrammed sequence or inter- active loops has put MIDI directly into the driver’s seat when it comes to on-stage visuals and video playback (Figures 1.8 and 1.9). Many music acts are beginning to integrate visuals into their band—so much so that VJs now stand alongside their bandmates on-stage, offering up compelling visuals that can be diced, sequenced, and scratched in forms that can instantly switch from being totally chaotic to being in perfect sync … and then back again.
+
+####
+MIDI 和视觉效果
+说到屏幕效果，能够控制预编程序列或交互式循环使 MIDI 直接成为舞台视觉效果和视频播放的主导（图 1.8 和 1.9）。许多音乐表演开始将视觉效果融入他们的乐队中——以至于 VJ 现在与乐队成员一起站在舞台上，提供引人注目的视觉效果，这些视觉效果可以以可以立即从完全混乱切换到完美同步的形式进行切割、排序和刮擦……然后再次切换回来。
+
+####
+MIDI and Multimedia One of the “media” in multimedia is definitely MIDI. It often pops up in places that you might expect—and in others that might take you by surprise. With the advent of General MIDI (a standardized specification that makes it possible for any soundcard or GM-compatible device to play back a score using the originally intended sounds and program settings), it is possible (and common) for MIDI scores to be integrated into multimedia games, text documents, CD- ROMs, and even websites. Due to the fact that MIDI is simply a series of performance com- mands (unlike digital audio, which actually encodes the audio information), the media’s data overhead requirements are extremely low. This means that almost no processing power is required to play MIDI, making it the ideal medium for playing real-time music scores while you are actively browsing text, graphics, or other media over the Internet. Truly, when it comes to weaving MIDI into the various media types, the sky (and your imagination) is the creative and technological limit.
+
+####
+MIDI 和多媒体 多媒体中的“媒体”之一肯定是 MIDI。它经常出现在您可能预料到的地方，也经常出现在让您大吃一惊的地方。随着通用 MIDI（一种标准化规范，使任何声卡或 GM 兼容设备都可以使用原始声音和程序设置播放乐谱）的出现，MIDI 乐谱可以（并且很常见）集成到多媒体游戏、文本文档、CD-ROM 甚至网站中。由于 MIDI 只是一系列性能命令（与实际对音频信息进行编码的数字音频不同），因此媒体的数据开销要求极低。这意味着播放 MIDI 几乎不需要任何处理能力，使其成为在您通过互联网浏览文本、图形或其他媒体时播放实时乐谱的理想媒体。确实，当谈到将 MIDI 编织到各种媒体类型中时，天空（和您的想象力）是创造力和技术的极限。
+
+Figure 1.8. The motion dive .tokyo performance package. (Photograph courtesy of Roland Corporation; www.rolandus.com/edirol.)
+
+图 1.8. motion dive .tokyo 性能包。（图片由 Roland Corporation 提供；www.rolandus.com/edirol。）
+
+Figure 1.9. ArKaos VJ MIDI video authoring software. (Photograph courtesy of ArKaos S.A.; www.arkaos.net.)
+
+图 1.9. ArKaos VJ MIDI 视频创作软件。（图片由 ArKaos S.A. 提供；www.arkaos.net。）
+
+####
+MIDI on the Phone
+With the integration of the General MIDI standard into various media devices, one of the fastest- growing MIDI applications, surprisingly, is probably comfortably resting in your pocket or purse right now—the ring tone on your cell phone (Figure 1.10). The ability to use MIDI (and often digital soundfiles) to let you know who is calling has spawned an industry that allows your cell to be personalized and super fun. One of my favorite ring tone stories happened on Hollywood Boulevard in L.A. This tall, lanky man was sitting at a café when his cell phone started blaring out the “If I Only Had a Brain” sequence from The Wizard of Oz. It wouldn’t have been nearly as funny if the guy didn’t look a lot like the scarecrow character. Of course, everyone laughed.
+
+Figure 1.10. One ringy-dingy … MIDIhelps us to reach out and touch someone through ring tones.
+
+####
+手机上的 MIDI
+随着通用 MIDI 标准集成到各种媒体设备中，令人惊讶的是，增长最快的 MIDI 应用程序之一可能现在就舒适地放在您的口袋或钱包中——手机铃声（图 1.10）。使用 MIDI（通常是数字声音文件）让您知道谁在打电话的能力催生了一个行业，使您的手机个性化并且超级有趣。我最喜欢的铃声故事之一发生在洛杉矶的好莱坞大道。这个高瘦的男人坐在一家咖啡馆里，他的手机开始播放《绿野仙踪》中的“如果我只有一个大脑”片段。如果这个人看起来不太像稻草人角色，那就不会那么有趣了。当然，每个人都笑了。
+
+图 1.10。一个铃声……MIDI 帮助我们通过铃声接触和接触某人。
+
+*************************************************
+MIDI 1.0
+
+The Musical Instrument Digital Interface is a digital communications protocol. That’s to say, it is a standardized control language and hardware specification that makes it possible for electronic instruments, processors, controllers, and other device types to communicate performance and control-related data in real time.
+
+MIDI 1.0
+
+乐器数字接口是一种数字通信协议。也就是说，它是一种标准化的控制语言和硬件规范，使电子乐器、处理器、控制器和其他类型的设备能够实时传输演奏和控制相关数据。
+
+####
+Exploring the Spec
+MIDI is a specified data format that must be strictly adhered to by those who design and man- ufacture MIDI-equipped instruments and devices. Because the format is standardized, you don’t have to worry about whether the MIDI output of one device will be understood by the MIDI in port of a device that’s made by another manufacturer. As long as the data ports say and/or com- municate MIDI, you can be assured that the data (at least the basic performance functions) will be transmitted and understood by all devices within the connected system. In this way, the user need only consider the day-to-day dealings that go hand-in-hand with using electronic instru- ments, without having to be concerned with data compatibility between devices.
+
+####
+探索规范
+MIDI 是一种指定的数据格式，设计和制造配备 MIDI 的乐器和设备的人员必须严格遵守该格式。由于格式是标准化的，因此您不必担心一个设备的 MIDI 输出是否会被另一家制造商生产的设备的 MIDI 输入端口理解。只要数据端口支持 MIDI 和/或通信，您就可以确保数据（至少是基本性能功能）将被传输并被连接系统内的所有设备理解。这样，用户只需考虑与使用电子乐器密切相关的日常事务，而不必担心设备之间的数据兼容性。
+
+####
+The Digital Word
+One of the best ways to gain insight into how the MIDI specification works is to compare MIDI to a spoken language. As humans, we’ve adapted our communication skills to best suit our physical bod- ies. Ever since the first grunt, we’ve found that it’s easiest for us to communicate with our vocal chords. And we’ve been doing it ever since. Over time, language developed by assigning a standard- ized meaning to a series of vocalized sounds (words). Eventually these words came to be grouped in such a way as to convey meanings that can be easily communicated … and, finally, written. For exam- ple, in order to record the English language, a standard notation system was developed that assigned 26 symbols to specific sounds (letters of the alphabet) that, when grouped together, could communi- cate an equivalent spoken word (Figure 2.1). When these words are strung into complete sentences, a more complex form of communication is used that can convey information in a way that has a greater meaning (whether spoken or recorded onto paper or other medium). For example, the letters B, O, O, and K don’t mean much when used individually; however, when grouped into a word, they refer to a physical media device that contains recorded data, which hopefully conveys messages that relate to a general theme. Changing a symbol in the word could change its meaning entirely; for example, changing the K to a T within the grouped word makes it refer to a tool that’s better off worn on your feet than carried in a backpack. When placed into a sentence, grouped words can be used to convey complex messages with greater clarity (e.g., Dude, is that a pirate book about pirate boots=).
+
+Microprocessors and computers, on the other hand, are digitally based devices that obviously lack vocal chords and ears (although even that’s changing). However, because they have the unique advantage of being able to process numbers at a very high rate, the obvious language of choice is the reception and transmission of digital data.
+
+Unlike our base 10 system of counting, computers are limited to communicating with a binary system of 0’s and 1’s (or off and on). Like humans, computers group these binary digits (known as bits) into larger numeric “words” that represent and communicate specific information and instructions. Just as humans communicate using simple sentences, a computer can generate and respond to a series of related digital words that are understood by other digital systems or software programs (Figure 2.2).
+
+####
+数字语言
+了解 MIDI 规范如何工作的最佳方法之一是将 MIDI 与口语进行比较。作为人类，我们已经调整了我们的沟通技巧以最适合我们的身体。自从第一次发出咕噜声以来，我们发现用声带交流对我们来说最容易。从那时起，我们就一直在这样做。随着时间的推移，语言通过为一系列发声的声音（单词）分配标准化含义而发展起来。最终，这些单词被分组，以便传达可以轻松传达的含义……并最终被书写出来。例如，为了记录英语，开发了一个标准符号系统，将 26 个符号分配给特定的声音（字母表的字母），当这些字母组合在一起时，可以传达等效的口语单词（图 2.1）。当这些单词串成完整的句子时，就会使用一种更复杂的交流形式，可以以更有意义的方式传达信息（无论是口头还是记录在纸上或其他媒介上）。例如，字母 B、O、O 和 K 单独使用时意义不大；但是，当它们组合成一个单词时，它们指的是包含记录数据的物理媒体设备，希望能够传达与一般主题相关的信息。改变单词中的符号可能会完全改变其含义；例如，将组合单词中的 K 改为 T，使其指的是一种最好穿在脚上而不是放在背包里的工具。当放在句子中时，组合单词可用于更清晰地传达复杂信息（例如，伙计，那是一本关于海盗靴的海盗书吗？）。
+
+另一方面，微处理器和计算机是基于数字的设备，显然缺乏声带和耳朵（尽管这一点正在改变）。然而，由于它们具有能够以极高的速度处理数字的独特优势，因此显然首选语言是数字数据的接收和传输。
+
+与我们的十进制计数系统不同，计算机仅限于与 0 和 1（或关闭和打开）的二进制系统进行通信。与人类一样，计算机将这些二进制数字（称为位）分组为更大的数字“字”，用于表示和传达特定信息和指令。就像人类使用简单的句子进行交流一样，计算机可以生成并响应一系列相关的数字字，这些字可以被其他数字系统或软件程序理解（图 2.2）。
+
+Figure 2.2. Example of a digitally generated MIDI message.
+图 2.2. 数字生成的 MIDI 消息的示例。
+
+####
+The MIDI Message
+MIDI digitally communicates musical performance data between devices as a string of MIDI mes- sages. These messages are traditionally transmitted through a standard MIDI line in a serial fashion at a speed of 31,250 bits/sec. Within a serial data transmission line, data travels in a single-file fashion through a single conductor cable (Figure 2.3a); a parallel data connection, on the other hand, is able to simultaneously transmit digital bits in a synchronous fashion over a number of wires (Figure 2.3b).
+
+When using a standard MIDI cable, it’s important to remember that data can only travel in one direction from a single source to a destination (Figure 2.4a). In order to make two-way commu- nication possible, a second MIDI data line must be used to communicate data back to the device, either directly or thru the MIDI chain (Figure 2.4b).
+
+####
+MIDI 消息
+MIDI 以 MIDI 消息串的形式在设备之间以数字方式传输音乐演奏数据。这些消息通常通过标准 MIDI 线以串行方式传输，速度为 31,250 位/秒。在串行数据传输线中，数据以单文件方式通过单芯电缆传输（图 2.3a）；另一方面，并​​行数据连接能够同时通过多条线路以同步方式传输数字位（图 2.3b）。
+
+使用标准 MIDI 电缆时，请务必记住数据只能从单个源向目的地单向传输（图 2.4a）。为了实现双向通信，必须使用第二条 MIDI 数据线将数据直接或通过 MIDI 链传回设备（图 2.4b）。
+
+Figure 2.3. Serial versus parallel data transmission: (a) Serial data must be transmitted in a single-file fashion over a serial data line.
+(b) Multiple bits of data can be synchronously transmitted over a number of parallel lines.
+
+图 2.3. 串行与并行数据传输：(a) 串行数据必须通过串行数据线以单文件方式传输。
+(b) 多位数据可以通过多条并行线同步传输。
+
+Figure 2.4. MIDI data can only travel in one direction through a single MIDI cable: (a) data transmission from a single source to a destination; (b) two-way data communication using two cables.
+
+图 2.4. MIDI 数据只能通过单条 MIDI 电缆单向传输：(a) 数据从单个源传输到目的地；(b) 使用两根电缆进行双向数据通信。
+
+Figure 2.5. The most significant bit of a MIDI data byte is used to distinguish between a status byte (where MSB = 1) and a data byte (where MSB = 0).
+	
+图 2.5. MIDI 数据字节的最高有效位用于区分状态字节（其中 MSB ？ 1）和数据字节（其中 MSB ？ 0）。
+
+MIDI messages are made up of groups of 8-bit words (known as bytes), which are transmitted in a serial fashion to convey a series of instructions to one or all MIDI devices within a system.
+
+MIDI 消息由多组 8 位字（称为字节）组成，这些字以串行方式传输，以向系统内的一个或所有 MIDI 设备传达一系列指令。
+
+####
+Only two types of bytes are defined by the MIDI specification: the status byte and the data byte.
+◆ A status byte is used to identify what type of MIDI function is to be performed by a device or program. It is also used to encode channel data (allowing the instruction to be received by a device that’s set to respond to the selected channel).
+◆ A data byte is used to associate a value to the event that’s given by the accompanying status byte.
+
+####
+MIDI 规范仅定义了两种类型的字节：状态字节和数据字节。
+◆ 状态字节用于识别设备或程序要执行哪种类型的 MIDI 功能。它还用于编码通道数据（允许设置为响应所选通道的设备接收指令）。
+◆ 数据字节用于将值与随附状态字节给出的事件相关联。
+
+Although a byte is made up of eight bits, the most significant bit (MSB; the leftmost binary bit within a digital word) is used solely to identify the byte type. The MSB of a status byte is always 1, while the MSB of a data byte is always 0 (Figure 2.5). For example, a 3-byte MIDI Note-On message (which is used to signal the beginning of a MIDI note) in binary form might read as shown in Table 2.1. Thus, a 3-byte Note-On message of (10010100) (01000000) (01011001) will transmit instructions that would be read as: “Transmitting a Note-On message over MIDI channel #5, using keynote #64, with an attack velocity [volume level of a note] of 89.”
+
+虽然一个字节由 8 位组成，但最高有效位 (MSB；数字字中最左边的二进制位) 仅用于标识字节类型。状态字节的 MSB 始终为 1，而数据字节的 MSB 始终为 0（图 2.5）。例如，二进制形式的 3 字节 MIDI 音符开启消息（用于表示 MIDI 音符的开始）可能如表 2.1 所示。因此，3 字节音符开启消息 (10010100) (01000000) (01011001) 将传输指令，如下所示：“通过 MIDI 通道 #5 传输音符开启消息，使用基调 #64，音符的起音速度 [音符的音量] 为 89。”
+
+Binary numbers (0’s and 1’s) are placed into groups (called binary words) that translate human
+concepts into an analogous language that’s spoken by computers. For example, with regard to
+MIDI channels:
+0000 = CH#1 0100 = CH#5 1000 = CH#9 1100 = CH#13
+0001 = CH#2 0101 = CH#6 1001 = CH#10 1101 = CH#14
+0010 = CH#3 0110 = CH#7 1010 = CH#11 1110 = CH#15
+0011 = CH#4 0111 = CH#8 1011 = CH#12 1111 = CH#16
+
+二进制数字（0 和 1）被分成几组（称为二进制字），将人类的概念翻译成计算机所说的类似语言。例如，对于 MIDI 通道：
+0000 = CH#1 0100 = CH#5 1000 = CH#9 1100 = CH#13
+0001 = CH#2 0101 = CH#6 1001 = CH#10 1101 = CH#14
+0010 = CH#3 0110 = CH#7 1010 = CH#11 1110 = CH#15
+0011 = CH#4 0111 = CH#8 1011 = CH#12 1111 = CH#16
+
+####
+MIDI Channels
+Just as a public speaker might single out and communicate a message to one individual in a crowd, MIDI messages can be directed to communicate information to a specific device or range of devices within a MIDI system. This is done by imbedding a channel-related nibble (4 bits) within the status/channel number byte (Figure 2.6). This makes it possible for performance or control information to be communicated to a specific device—or a sound generator within a device—that’s assigned to a particular channel.
+
+####
+MIDI 通道
+就像公共演讲者可能会从人群中挑选出一个人并向他传达信息一样，MIDI 消息也可以被定向为将信息传达给 MIDI 系统内的特定设备或一系列设备。这是通过在状态/通道号字节中嵌入与通道相关的半字节（4 位）来实现的（图 2.6）。这使得性能或控制信息可以传达给分配给特定通道的特定设备（或设备内的声音发生器）。
+
+Since this nibble is 4 bits wide, up to 16 discrete MIDI channels can be transmitted through a single MIDI cable or designated port.
+
+Whenever a MIDI device, sound generator within a device, or program function is instructed to respond to a specific channel number, it will only respond to messages that are transmitted on that channel (i.e., it ignores channel messages that are transmitted on any other channel). For example, let’s assume that we’re going to create a short song using a synthesizer that has a built- in sequencer (a device or program that’s capable of recording, editing, and playing back MIDI data) and two other “synths” (Figure 2.7):
+
+1. We could start off by recording a drum track into the master synth using channel 10 (many synths are preassigned to output drum/percussion sounds on this channel).
+2. Once recorded, the sequence will transmit the notes and data over channel 10, allowing the synth’s percussion section to played.
+
+Figure 2.6. The least significant nibble (4 bits) of the status/channel number byte is used to encode channel number data, allowing up to 16 discrete MIDI channels to be transmitted through a single MIDI cable or designated port.
+
+Figure 2.7. MIDI setup showing a set of MIDI channel assignments.
+
+3. Next, we could set a synth module to channel 3 and instruct the master synth to transmit on the same channel (since the synth module is set to respond to data on channel 3, its generators will sound whenever the master keyboard is played). We can now begin recording a melody line into the sequencer’s next track.
+4. Playing back the sequence will then transmit data to both the master synth (percussion section) and the module (melody line) over their respective channels. At this point, our song is beginning to take shape.
+5. Now we can set a sampler (or other instrument type) to respond to channel 5 and instruct the master synth to transmit on the same channel, allowing us to further embellish the song.
+6. Now that the song’s complete, the sequencer can play the musical parts to the synths on their respective MIDI channels—all in an environment that allows us to have complete control of volume, to edit, and to have a wide range of functions over each instrument.
+In short, we’ve created a true multichannel working environment.
+
+It goes without saying that the above example is just but one of the infinite setup and channel possibilities that can be encountered in a production environment. It’s often true, however, that even the most complex MIDI and production rooms will have a system … a basic channel and overall layout that makes the day-to-day operation of making music easier. This layout and the basic decisions that you might make in your own room are, of course, up to you. Streamlining a system to work both efficiently and easily will come with time, experience, and practice.
+
+由于这个半字节有 4 位宽，因此最多可以通过单个 MIDI 电缆或指定端口传输 16 个离散 MIDI 通道。
+
+每当 MIDI 设备、设备内的声音发生器或程序功能被指示响应特定通道号时，它只会响应在该通道上传输的消息（即，它会忽略在任何其他通道上传输的通道消息）。例如，假设我们要使用具有内置音序器（能够录制、编辑和播放 MIDI 数据的设备或程序）和两个其他“合成器”的合成器创建一首短歌（图 2.7）：
+
+1. 我们可以从使用通道 10 将鼓音轨录制到主合成器开始（许多合成器都预先分配为在此通道上输出鼓/打击乐声音）。
+
+2. 录制完成后，音序将通过通道 10 传输音符和数据，从而播放合成器的打击乐部分。
+
+图 2.6。状态/通道号字节的最低有效半字节（4 位）用于编码通道号数据，允许通过单个 MIDI 电缆或指定端口传输最多 16 个离散 MIDI 通道。
+
+图 2.7。MIDI 设置显示一组 MIDI 通道分配。
+
+3. 接下来，我们可以将合成器模块设置为通道 3，并指示主合成器在同一通道上传输（由于合成器模块设置为响应通道 3 上的数据，因此只要弹奏主键盘，其发生器就会发声）。我们现在可以开始将旋律线录制到音序器的下一个音轨中。
+4. 播放序列会通过各自的通道将数据传输到主合成器（打击乐部分）和模块（旋律线）。此时，我们的歌曲开始成形。
+5. 现在我们可以设置一个采样器（或其他乐器类型）来响应通道 5，并指示主合成器在同一通道上传输，这样我们就可以进一步修饰歌曲。
+6. 现在歌曲已经完成，音序器可以在各自的 MIDI 通道上为合成器播放音乐部分——所有这些都在一个环境中进行，这个环境允许我们完全控制音量、编辑并对每个乐器进行广泛的功能控制。
+简而言之，我们创建了一个真正的多通道工作环境。
+
+毋庸置疑，上述示例只是生产环境中可能遇到的无限设置和通道可能性之一。然而，通常情况下，即使是最复杂的 MIDI 和制作室也会有一个系统……一个基本的通道和整体布局，使制作音乐的日常操作更容易。当然，这种布局和您可能在自己的房间里做出的基本决定取决于您。简化系统以使其高效且轻松地工作需要时间、经验和实践。
+
+####
+Auto Channelizing
+Keeping track of the channels that are assigned to the various devices and tone generators can sometimes be a pain. As the previous paragraph suggests, it’s only natural that you’ll eventually come up with your own system for assigning MIDI channels to the various devices in your pro- duction studio. One of the ways to ease the pain of assigning channels throughout the studio is through the use of a channelizing feature that’s built into most sequencers. In short, channeliz- ing allows a sequencer to accept incoming data, regardless of its MIDI channel number, reassign the outgoing data to a selected track’s channel, and then output it to the appropriate device. This can be best understood by trying it out for yourself:
+
+####
+自动通道化
+跟踪分配给各种设备和音调发生器的通道有时会很麻烦。正如上一段所暗示的，您最终会想出自己的系统来将 MIDI 通道分配给制作工作室中的各种设备，这是很自然的。减轻整个工作室分配通道的痛苦的方法之一是使用大多数音序器内置的通道化功能。简而言之，通道化允许音序器接受传入数据（无论其 MIDI 通道号如何），将传出数据重新分配给选定轨道的通道，然后将其输出到适当的设备。您可以通过亲自尝试来最好地理解这一点：
+
+####
+DIY Auto Channelizing
+1. Plug a keyboard controller into a DAW or MIDI sequencer and make it the active MIDI input source.
+2. Create a MIDI track and assign its channel and port numbers to one of your favorite devices (e.g., transmitting on channel 1 to your favorite synth).
+3. Create another MIDI track and assign its channel and port numbers to another of your favorite devices (e.g., transmitting on channel 2 on another synth).
+4. Create yet another MIDI track and assign its channel and port numbers to another of your favorite devices (e.g., transmitting on channel 3 on yet another synth lead.
+5. Next, place the first track into the Record Ready mode and play your keyboard. This should cause the MIDI data to route to channel 1, allowing the first device to begin playing.
+6. Now, unselect the first track and place the second MIDI track into Record/Monitor Ready mode. This should cause the MIDI data to automatically route to channel 2, allowing the second device to begin playing.
+7. Finally, place the third track into the Record Ready mode and play your keyboard. Does the output channel routing automatically change so the third device responds to the MIDI data by playing? If not, be patient. Read through the manual and check your cables. If at first you don’t succeed ….
+
+####
+DIY 自动通道化
+1. 将键盘控制器插入 DAW 或 MIDI 音序器，并将其设为活动 MIDI 输入源。
+2. 创建 MIDI 轨道并将其通道和端口号分配给您最喜欢的设备之一（例如，通过通道 1 传输到您最喜欢的合成器）。
+3. 创建另一个 MIDI 轨道并将其通道和端口号分配给您最喜欢的另一个设备（例如，通过另一个合成器的通道 2 传输）。
+4. 创建另一个 MIDI 音轨并将其通道和端口号分配给您最喜欢的另一个设备（例如，在另一个合成器导线上的通道 3 上传输）。
+5. 接下来，将第一个音轨置于“录音就绪”模式并弹奏键盘。这应该会导致 MIDI 数据路由到通道 1，从而允许第一个设备开始播放。
+6. 现在，取消选择第一个音轨并将第二个 MIDI 音轨置于“录音/监听就绪”模式。这应该会导致 MIDI 数据自动路由到通道 2，从而允许第二个设备开始播放。
+7. 最后，将第三个音轨置于“录音就绪”模式并弹奏键盘。输出通道路由是否会自动更改，以便第三个设备通过播放来响应 MIDI 数据？如果没有，请耐心等待。通读手册并检查您的电缆。如果一开始你没有成功……
+
+From this, you can see that the MIDI channel or port will automatically change to match that of the selected track—in effect, making MIDI channel assignment much easier and allowing you to stick to the task of making music.
+
+由此，您可以看到 MIDI 通道或端口将自动更改以匹配所选音轨 - 实际上，这使得 MIDI 通道分配变得更加容易，并允许您专注于制作音乐的任务。
+
+####
+MIDI Modes
+Electronic instruments often vary in the number of sounds and notes that can be simultaneously produced by their internal sound generating circuitry. For example, certain instruments can only produce one note at a single time (known as a monophonic instrument), while others can gen- erate 16, 32, and even 64 notes at once (these are known as polyphonic instruments). The latter type can easily play chords or more than one musical line on a single instrument at a time.
+
+In addition, some instruments are only capable of producing a single generated sound patch (often referred to as a “voice”) at any one time. Its generating circuitry could be polyphonic, allowing the player to lay down chords and bass or melody lines, but it can only produce these notes using a sin- gle, characteristic sound at any one time (e.g., an electric piano, a synth bass, or a string patch).
+
+However, the vast majority of newer synths differ from this in that they’re multi-timbral in nature, meaning that they can generate numerous sound patches at any one time (e.g., an electric piano, a synth bass, and a string patch, as can be seen in Figure 2.8). That’s to say that it is common to run across electronic instruments that can simultaneously generate a number of voices, each offering its own control over parameters (such as volume, panning, or modulation). Best of all, it is also com- mon for different sounds to be assigned to their own MIDI channels, allowing multiple patches to be internally mixed within the device to a stereo output bus or independent outputs.
+
+####
+MIDI 模式
+电子乐器的内部声音生成电路可以同时产生的声音和音符数量通常各不相同。例如，某些乐器一次只能产生一个音符（称为单音乐器），而其他乐器可以一次产生 16、32 甚至 64 个音符（这些被称为复音乐器）。后一种乐器可以很容易地在单个乐器上同时演奏和弦或多条音乐线。
+
+此外，有些乐器一次只能产生一个生成的声音补丁patch（通常称为“声音”）。其生成电路可以是复音的，允许演奏者放下和弦和低音或旋律线，但它一次只能使用单一的特征声音产生这些音符（例如，电钢琴、合成贝司或弦乐补丁）。
+
+然而，绝大多数新型合成器与此不同，它们本质上是多音色的，这意味着它们可以同时生成多个声音补丁（例如，如图 2.8 所示，电钢琴、合成贝司和弦乐补丁）。也就是说，经常会遇到可以同时生成多个声音的电子乐器，每个声音都提供自己的参数控制（例如音量、声像或调制）。最重要的是，不同的声音通常被分配到自己的 MIDI 通道，从而允许多个补丁在设备内部混合到立体声输出总线或独立输出。
+
+It should be noted that the word “patch” is a direct reference from earlier analog synthesizers, where patch chords were used to connect one sound generator block or processing function to another to create a generated sound.
+
+值得注意的是，“patch”这个词直接来源于早期的模拟合成器，其中补丁线用于将一个声音发生器块或处理功能连接到另一个声音发生器块或处理功能以产生声音。
+
+Figure 2.8. Multi-timbral instruments are virtual bands-in-a-box that can simultaneously generate multiple patches, each of which can be assigned to its own MIDI channel.
+
+图 2.8.多音色乐器是盒内虚拟的乐队，可以同时生成多个音色，每个音色都可以分配给自己的 MIDI 通道。
+
+As a result of these differences between instruments and devices, a defined set of guidelines (known as MIDI reception modes) has been specified that allows a MIDI instrument to trans- mit or respond to MIDI channel messages in several ways. For example, one instrument might be programmed to respond to all 16 MIDI channels at one time, while another might be poly- phonic in nature, with each voice being programmed to respond only to a single MIDI channel.
+
+由于乐器和设备之间存在这些差异，因此制定了一套明确的准则（称为 MIDI 接收模式），允许 MIDI 乐器以多种方式传输或响应 MIDI 通道消息。例如，一种乐器可能被编程为同时响应所有 16 个 MIDI 通道，而另一种乐器可能本质上是复音的，每个声音被编程为仅响应单个 MIDI 通道。
+
+####
+Poly/Mono
+An instrument or device can be set to respond to MIDI data in either the poly mode or the mono mode. Stated simply, an instrument that’s set to respond to MIDI data polyphonically will be able to play more than one note at a time. Conversely, an instrument that’s set to respond to MIDI data monophonically will only be able to play a single note at any one time.
+
+####
+复音/单音
+乐器或设备可以设置为以复音模式或单音模式响应 MIDI 数据。简单地说，设置为以复音方式响应 MIDI 数据的乐器将能够一次演奏多个音符。相反，设置为以单音方式响应 MIDI 数据的乐器一次只能演奏一个音符。
+
+####
+Omni On/Off
+Omni on/off refers to how a MIDI instrument will respond to MIDI messages at its input. When Omni is turned on, the MIDI device will respond to all channel messages that are being received regardless of its MIDI channel assignment. When Omni is turned off, the device will respond only to a single MIDI channel or set of assigned channels (in the case of a multi-timbral instrument).
+
+####
+Omni 开/关
+Omni 开/关是指 MIDI 乐器如何响应其输入端的 MIDI 消息。当 Omni 开启时，MIDI 设备将响应所有正在接收的通道消息，而不管其 MIDI 通道分配如何。当 Omni 关闭时，设备将仅响应单个 MIDI 通道或一组分配的通道（对于多音色乐器而言）。
+
+####
+The following list and figures explain the four modes that are supported by the MIDI spec in more detail:
+◆ Mode 1-Omni On/Poly—In this mode, an instrument will respond to data that’s being received on any MIDI channel and then redirect this data to the instrument’s base channel (Figure 2.9a). In essence, the device will play back everything that’s presented at its input in a polyphonic fashion, regardless of the incoming channel designations. As you might guess, this mode is rarely used.
+◆ Mode 2-Omni On/Mono—As in Mode 1, an instrument will respond to all data that’s being received at its input, without regard to channel designations; however, this device will only be able to play one note at a time (Figure 2.9b). Mode 2 is used even more rarely than Mode 1, as the device can’t discriminate channel designations and can only play one note at a time.
+◆ Mode 3-Omni Off/Poly—In this mode, an instrument will only respond to data that matches its assigned base channel in a polyphonic fashion (Figure 2.9c). Data that’s assigned to any other channel will be ignored. This mode is by far the most commonly used, as it allows the voices within a multi-timbral instrument to be individually controlled by messages that are being received on their assigned MIDI channels. For example, each of the 16 channels in a MIDI line could be used to independently play each of the parts in a 16-voice, multi-timbral synth.
+◆ Mode 4-Omni Off/Mono—As with Mode 3, an instrument will be able to respond to performance data that’s transmitted over a single, dedicated channel; however, each voice will only be able to generate one MIDI note at a time (Figure 2.9d). A practical example of this mode is often used in MIDI guitar systems, where MIDI data is monophonically transmitted over six consecutive channels (one channel/voice per string).
+
+####
+以下列表和图表更详细地解释了 MIDI 规范支持的四种模式：
+◆ 模式 1-Omni On/Poly — 在此模式下，乐器将响应任何 MIDI 通道上接收到的数据，然后将这些数据重定向到乐器的基本通道（图 2.9a）。本质上，设备将以复音方式播放其输入端呈现的所有内容，而不管传入的通道名称如何。您可能猜到了，这种模式很少使用。
+◆ 模式 2-Omni On/Mono — 与模式 1 一样，乐器将响应其输入端接收到的所有数据，而不考虑通道名称；但是，此设备一次只能播放一个音符（图 2.9b）。模式 2 比模式 1 更少使用，因为设备无法区分通道名称，并且一次只能播放一个音符。
+◆ 模式 3-全音关闭/复音 — 在此模式下，乐器将仅响应与其指定的基本通道以复音方式匹配的数据（图 2.9c）。分配给任何其他通道的数据将被忽略。此模式是迄今为止最常用的模式，因为它允许多音色乐器中的声音由在其指定 MIDI 通道上接收的消息单独控制。例如，MIDI 线路中的 16 个通道中的每一个都可用于独立播放 16 声部、多音色合成器中的每个部分。
+◆ 模式 4-全音关闭/单声道 — 与模式 3 一样，乐器将能够响应通过单个专用通道传输的演奏数据；但是，每个声音一次只能生成一个 MIDI 音符（图 2.9d）。此模式的一个实际示例通常用于 MIDI 吉他系统，其中 MIDI 数据通过六个连续通道（每根弦一个通道/声音）单声道传输。
+
+Base Channel
+The assigned base channel determines which MIDI channel the instrument or device will respond to. For example, if a device’s base channel is set to 1, it will respond to performance messages arriving on channel 1 while ignoring those arriving on channels 2 though 16.
+
+基本通道
+指定的基本通道决定乐器或设备将响应哪个 MIDI 通道。例如，如果设备的基本通道设置为 1，它将响应到达通道 1 的演奏消息，同时忽略到达通道 2 至 16 的演奏消息。
+
+####
+Channel Voice Messages
+Channel Voice messages are used to transmit real-time performance data throughout a con- nected MIDI system. They’re generated whenever a MIDI instrument’s controller is played, selected, or varied by the performer. Examples of such control changes could be the playing of a keyboard, pressing of program selection buttons, or movement of modulation or pitch wheels.
+
+Each Channel Voice message contains a MIDI channel number within its status byte, meaning that only devices that are assigned to the same channel number will respond to these commands.
+
+There are seven Channel Voice message types: Note-On, Note-Off, Polyphonic Key Pressure, Channel Pressure, Program Change, Pitch Bend Change, and Control Change.
+
+####
+通道语音消息
+通道语音消息用于在连接的 MIDI 系统中传输实时演奏数据。每当演奏者演奏、选择或改变 MIDI 乐器的控制器时，就会生成这些消息。此类控制变化的示例包括弹奏键盘、按下程序选择按钮或移动调制轮或音调轮。
+
+每个通道语音消息的状态字节中包含一个 MIDI 通道号，这意味着只有分配给相同通道号的设备才会响应这些命令。
+
+有七种通道语音消息类型：音符开启、音符关闭、复音键压力、通道压力、程序变化、音高弯曲变化和控制变化。
+
+####
+Note-On Messages
+A Note-On message is used to indicate the beginning of a MIDI note. It is generated each time a note is triggered on a keyboard, controller or other MIDI instrument (i.e., by pressing a key, hit- ting a drum pad, or by playing a sequence). A Note-On message consists of 3 bytes of informa- tion (Figure 2.10):
+◆ Note-on status/MIDI channel number
+◆ MIDI pitch number
+◆ Attack velocity value
+
+####
+音符开启消息
+音符开启消息用于指示 MIDI 音符的开始。每次在键盘、控制器或其他 MIDI 乐器上触发音符时（即按下琴键、敲击鼓垫或播放音序），都会生成该消息。音符开启消息由 3 个字节的信息组成（图 2.10）：
+◆ 音符开启状态/MIDI 通道号
+◆ MIDI 音高号
+◆ 攻击速度值
+
+The first byte in the message specifies a note-on event and a MIDI channel (1–16). The second byte is used to specify which of the possible 128 notes (numbered 0–127) will be sounded by an instrument. In general, MIDI note number 60 is assigned to the middle C key of an equally tempered keyboard, while notes 21 to 108 correspond to the 88 keys of an extended keyboard controller (Figure 2.11). The final byte is used to indicate the velocity or speed at which the key was pressed (over a value range that varies from 0 to 127). Velocity (Figure 2.12) is used to denote the loudness of a sound- ing note, which increases in volume with higher velocity values (although velocity can also be programmed to work in conjunction with other parameters, such as expression, control over timbre, or sample voice assignments).
+
+Figure 2.10. Byte structure of a MIDI Note-On message.
+
+Figure 2.11. M-Audio Keystation 88es MIDI controller. (Courtesy of M-Audio, a division of Avid Technology,Inc.; www.m-audio.com.)
+
+Figure 2.12. Velocity is used to communicate the volume or loudness of a note within a performance.
+
+Not all instruments are designed to interpret the entire range of velocity values (as with certain drum machines), and others don’t respond dynamically at all. Instruments that don’t support veloc- ity information will generally transmit an attack velocity value of 64 for every note that’s played, regardless of the how soft or hard the keys are actually being pressed. Similarly, instruments that don’t respond to velocity messages will interpret all MIDI velocities as having a value of 64.
+
+A Note-On message that contains an attack velocity of 0 (zero) is generally equivalent to the transmission of a Note-Off message. This common implementation tells the device to silence a currently sounding note by playing it with a velocity (volume) level of 0.
+
+消息中的第一个字节指定音符开启事件和 MIDI 通道 (1-16)。第二个字节用于指定乐器将发出 128 个可能的音符（编号为 0-127）中的哪一个。通常，MIDI 音符编号 60 分配给等调键盘的中央 C 键，而音符 21 至 108 对应于扩展键盘控制器的 88 个键（图 2.11）。最后一个字节用于指示按键的速度或速率（值范围从 0 到 127）。速度（图 2.12）用于表示发声音符的响度，速度值越高，音量越大（尽管也可以对速度进行编程以与其他参数（例如表达、音色控制或样本语音分配）协同工作）。
+
+图 2.10。MIDI 音符开启消息的字节结构。
+
+图 2.11. M-Audio Keystation 88es MIDI 控制器。（由 M-Audio 提供，Avid Technology,Inc. 的一个部门；www.m-audio.com。）
+
+图 2.12. 力度用于传达演奏中音符的音量或响度。
+
+并非所有乐器都设计为解释整个力度值范围（例如某些鼓机），而其他乐器则根本不动态响应。不支持力度信息的乐器通常会为每个演奏的音符传输 64 的攻击力度值，无论实际按下琴键的力度是轻还是重。同样，不响应力度信息的乐器会将所有 MIDI 力度解释为具有 64 的值。
+
+包含 0（零）攻击力度的 Note-On 消息通常等同于传输 Note-Off 消息。这种常见的实现方式告诉设备通过以 0 的速度（音量）级别播放当前正在发声的音符来使其静音。
+
+####
+Note-Off Messages
+A Note-Off message is used as a command to stop playing a specific MIDI note. Each Note-On mes-sage will continue to play until a corresponding Note-Off message for that note has been received.
+
+In this way, the bare basics of a musical composition can be encoded as a series of MIDI note-on and note-off events. It should also be pointed out that a Note-Off message won’t cut off a sound; it’ll merely stop playing it. If the patch being played has a release (or final decay) slope, it will begin this stage upon receiving the message. As with the Note-On message, the note-off structure consists of 3 bytes of information (Figure 2.13):
+◆ Note-off status/MIDI channel number
+◆ MIDI note number
+◆ Release velocity value
+
+####
+音符关闭消息
+音符关闭消息用作停止播放特定 MIDI 音符的命令。每个音符开启消息将继续播放，直到收到该音符的相应音符关闭消息。
+
+这样，音乐作品的基本内容可以编码为一系列 MIDI 音符开启和音符关闭事件。还应指出，音符关闭消息不会切断声音；它只会停止播放。如果正在播放的音色具有释放（或最终衰减）斜率，它将在收到消息后开始此阶段。与音符开启消息一样，音符关闭结构由 3 个字节的信息组成（图 2.13）：
+◆ 音符关闭状态/MIDI 通道号
+◆ MIDI 音符号
+◆ 释放速度值
+
+In contrast to the dynamics of attack velocity, the release velocity value (0–127) indicates the velocity or speed at which the key was released. A low value indicates that the key was released very slowly, whereas a high value shows that the key was released quickly. Although not all instru- ments generate or respond to MIDI’s release velocity feature, instruments that are capable of responding to these values can be programmed to vary a note’s speed of decay, often reducing the signal’s decay time as the release velocity value is increased.
+
+与启音速度的动态相反，释放速度值 (0-127) 表示释放键的速度或速度。较低的值表示释放键的速度非常慢，而较高的值表示释放键的速度很快。虽然并非所有乐器都会生成或响应 MIDI 的释放速度功能，但可以对能够响应这些值的乐器进行编程以改变音符的衰减速度，通常会随着释放速度值的增加而减少信号的衰减时间。
+
+####
+All Notes Off
+On the odd occasion (often when you least expect it), a MIDI note can get stuck! This can happen when data drops out or a cable gets disconnected, creating a situation where a note receives a Note-On message but not a Note-Off message, resulting in a note that continues to plaaaaaaaaaaayyyyyyyyyy!
+
+Since you’re often too annoyed or under pressure to take the time to track down which note is the offending sucka, it’s generally far easier to transmit an All Notes Off message that silences every- thing on all channels and ports. If you get stuck in such a situation, pressing a “panic button” that might be built into your sequencer or hardware MIDI devices could save your ears and sanity.
+
+####
+所有音符关闭
+偶尔（通常是在您最意想不到的时候），MIDI 音符可能会卡住！数据丢失或电缆断开连接时可能会发生这种情况，从而导致音符收到“音符开启”消息但未收到“音符关闭”消息，导致音符继续播放！
+
+由于您经常太烦或压力太大而无法花时间找出哪个音符有问题，因此通常更容易发送“所有音符关闭”消息，使所有通道和端口上的所有音符都静音。如果您陷入这种情况，按下可能内置于您的音序器或硬件 MIDI 设备中的“紧急按钮”可以保护您的耳朵和理智。
+
+####
+Pressure (Aftertouch) Messages
+Pressure messages (often referred to as “AfterTouch”) occur after you’ve pressed a key and then decide to press down harder on it. For devices that can respond to (and therefore generally transmit) these messages, AfterTouch can often be assigned to such parameters as vibrato, loudness, filter cutoff, and pitch. Two types of Pressure messages are defined by the MIDI spec:
+
+Figure 2.13. Byte structure of a MIDI
+Note-Off message.
+◆ Channel Pressure
+◆ Polyphonic Key Pressure
+
+####
+压力（触后）消息
+压力消息（通常称为“触后”）在您按下某个键并决定用力按下该键后出现。对于可以响应（因此通常会传输）这些消息的设备，触后通常可以分配给诸如颤音、响度、滤波器截止和音高等参数。MIDI 规范定义了两种类型的压力消息：
+
+图 2.13。MIDI 的字节结构
+音符关闭消息。
+◆ 通道压力
+◆ 复音键压力
+
+####
+Channel Pressure Messages
+Channel Pressure messages are commonly transmitted by instruments that respond only to a sin- gle, overall pressure, regardless of the number of keys that are being played at any one time (Figure 2.14). For example, if six notes are played on a keyboard and additional aftertouch pres- sure is applied to just one key, the assigned parameter would be applied to all six notes. A Channel Pressure message consists of 3 bytes of information (Figure 2.15):
+◆ Channel pressure status/MIDI channel number
+◆ MIDI note number
+◆ Pressure value
+
+####
+通道压力信息
+通道压力信息通常由只对单个整体压力作出反应的乐器传输，而不管同时弹奏的琴键数量是多少（图 2.14）。例如，如果在键盘上弹奏六个音符，并且仅在一个琴键上施加额外的触后压力，则分配的参数将应用于所有六个音符。通道压力信息由 3 个字节的信息组成（图 2.15）：
+◆ 通道压力状态/MIDI 通道号
+◆ MIDI 音符号
+◆ 压力值
+
+####
+Polyphonic Key Pressure Messages
+Polyphonic Key Pressure messages respond to pressure changes that are applied to the individual keys of a keyboard. That’s to say that a suitably equipped instrument can transmit or respond to individual pressure messages for each key that’s depressed (Figure 2.16). How a device responds to these messages will often vary from manufacturer to manufacturer (or can be assigned by the user); however, pressure values are commonly assigned to such performance parameters as vibrato, loudness, timbre, and pitch. Although controllers that are capable of producing poly- phonic pressure are generally more expensive, it’s not uncommon for an instrument to respond to these messages.
+
+Figure 2.14. Channel Pressure messages simultaneously affect all notes that are being transmitted over a MIDI channel.
+
+Figure 2.15. Byte structure of a MIDI Channel Pressure message.
+
+Figure 2.16. Individual Polyphonic Key Pressure messages are generated when additional pressure is applied to each key that’s played.
+
+Figure 2.17. Byte structure of a MIDI Polyphonic Key Pressure message.
+
+A Polyphonic Key Pressure message consists of 3 bytes of information (Figure 2.17):
+◆ Polyphonic key pressure status/MIDI channel number
+◆ MIDI note number
+◆ Pressure value
+
+####
+复音键压信息
+复音键压信息响应施加到键盘各个键上的压力变化。也就是说，适当装备的乐器可以传输或响应每个按下的键的单独压力信息（图 2.16）。设备对这些信息的响应方式通常因制造商而异（或可由用户指定）；但是，压力值通常分配给诸如颤音、响度、音色和音高等性能参数。虽然能够产生复音压力的控制器通常更昂贵，但乐器响应这些消息并不罕见。
+
+图 2.14。通道压力信息同时影响通过 MIDI 通道传输的所有音符。
+
+图 2.15。MIDI 通道压力信息的字节结构。
+
+图 2.16。当对弹奏的每个键施加额外压力时，会生成单独的复音键压信息。
+
+图 2.17。 MIDI 复音键压消息的字节结构。
+
+复音键压消息由 3 个字节的信息组成（图 2.17）：
+◆ 复音键压状态/MIDI 通道号
+◆ MIDI 音符号
+◆ 压力值
+
+####
+Program Change Messages
+Program Change messages are used to change the active program or preset number of a MIDI instrument or device. A preset is a user- or factory-defined number that actively selects a specific sound patch or system setup. Using this extremely handy message, up to 128 presets can be remotely selected from another device or controller; for example:
+◆ A Program Change message can be transmitted from a remote keyboard or controller to an instrument, allowing sound patches to be remotely switched (Figures 2.18 and 2.19).
+
+Figure 2.18. Program Change messages can be used to change sound patches from a sequencer or from a remote controller.
+
+Figure 2.19.Workstations and sequencer software systems will often allow patches to be recalled via Program Change messages. (Courtesy of Steinberg Media Technologies GmbH, A Division of Yamaha Corporation, www.steinberg.net, and Digidesign, A Division of Avid Technology, www.digidesign.com.)
+
+◆ Program Change messages could be programmed at the beginning of a sequence to instruct the various instruments or voice generators to set to the correct sound patch before playing.
+◆ A Program Change message could be used to alter patches on an effects device, either in the studio or on stage.
+◆ The list goes on …
+A Program Change message (Figure 2.20) consists of 2 bytes of information:
+◆ Program change status/MIDI channel number (1–16)
+◆ Program ID number (0–127)
+
+####
+程序变更消息
+程序变更消息用于更改 MIDI 乐器或设备的活动程序或预设编号。预设是用户或工厂定义的编号，用于主动选择特定的声音补丁或系统设置。使用此极其方便的消息，可以从另一个设备或控制器远程选择最多 128 个预设；例如：
+◆ 程序变更消息可以从远程键盘或控制器传输到乐器，允许远程切换声音补丁（图 2.18 和 2.19）。
+
+图 2.18。程序变更消息可用于从音序器或远程控制器更改声音补丁。
+
+图 2.19。工作站和音序器软件系统通常允许通过程序变更消息调用补丁。 （感谢雅马哈公司旗下的 Steinberg Media Technologies GmbH 公司，www.steinberg.net，以及 Avid Technology 旗下的 Digidesign 公司，www.digidesign.com。）
+
+◆ 可以在序列开始时对程序变更消息进行编程，以指示各种乐器或语音发生器在播放之前设置正确的声音补丁。
+◆ 程序变更消息可用于更改效果设备上的补丁，无论是在工作室还是在舞台上。
+◆ 列表继续……
+程序变更消息（图 2.20）由 2 个字节的信息组成：
+◆ 程序变更状态/MIDI 通道号（1-16）
+◆ 程序 ID 号（0-127）

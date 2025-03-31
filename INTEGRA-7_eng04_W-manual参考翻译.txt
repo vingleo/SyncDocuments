@@ -2203,3 +2203,299 @@ When Motional Surround is “off”
 When Motional Surround is “on”
 2. Move the cursor to the effect that you want to edit, and press the [ENTER] button.
 3. Use the cursor buttons to select an item, and use the value dial to edit its value.
+
+####
+编辑音调效果
+以下介绍如何编辑 MFX 设置或鼓声部分使用的压缩器和均衡器的设置。
+1. 在顶部屏幕中，按下 [EFFECTS] 按钮。
+将出现 EFFECTS ROUTING 屏幕。
+当 Motional Surround 处于“关闭”状态时
+当 Motional Surround 处于“打开”状态时
+2. 将光标移动到要编辑的效果，然后按下 [ENTER] 按钮。
+3. 使用光标按钮选择一个项目，然后使用值拨盘编辑其值。
+
+####
+Editing the MFX (Multi-Effect) Settings
+	Here’s how to make detailed settings for the multi-effect.
+MFX settings are handled as part of the tone; your edits are saved as a user tone.
+1. In the EFFECTS ROUTING screen, move the cursor to “MFX” and press the [ENTER] button.
+2. Use the cursor buttons to select an item, and use the value dial to edit its value.
+
+####
+编辑 MFX（多重效果）设置
+以下介绍如何对多重效果进行详细设置。
+MFX 设置作为音调的一部分进行处理；您的编辑将保存为用户音调。
+1. 在 EFFECTS ROUTING 屏幕中，将光标移动到“MFX”并按下 [ENTER] 按钮。
+2. 使用光标按钮选择一个项目，然后使用值拨盘编辑其值。
+
+####
+Editing the COMP (Compressor) and EQ
+(Equalizer) Settings
+Here’s how to make compressor and equalizer settings for the drum kit of a Drum COMP + EQ Assign part.
+There are six compressor/equalizer sets; for each instrument (DRUM INST) in the drum kit, you can select the compressor/equalizer set that will be used.
+1. Use the PART [ ] [ ] buttons to select the part that is specified as the Drum Comp+EQ Assign part.
+“COMP+EQ” will appear in the screen.
+
+MEMO The Drum COMP + EQ Assign part to which the compressor and equalizer are applied can be specified in the “GENERAL” tab (p. 32) of the Studio Set Common screen.
+
+2. In the EFFECTS ROUTING screen, move the cursor to “Comp+EQ” and press the [ENTER] button.
+3. Use the cursor buttons to select an item, and use the value dial to edit its value.
+
+MEMO
+In the EFFECTS ROUTING screen, you can place the cursor at the location shown in the illustration and press the [ENTER] button to access the COMP + EQ output setting screen.
+
+####
+编辑 COMP（压缩器）和 EQ
+（均衡器）设置
+以下介绍如何为鼓 COMP + EQ 分配部分的鼓组进行压缩器和均衡器设置。
+有六个压缩器/均衡器组；对于鼓组中的每种乐器（DRUM INST），您可以选择要使用的压缩器/均衡器组。
+1. 使用 PART [ ] [ ] 按钮选择指定为鼓 Comp+EQ 分配部分的部分。
+屏幕上将显示“COMP+EQ”。
+
+备注可以在 Studio Set Common 屏幕的“GENERAL”选项卡（第 32 页）中指定应用压缩器和均衡器的鼓 COMP + EQ 分配部分。
+
+2. 在 EFFECTS ROUTING 屏幕中，将光标移动到“Comp+EQ”，然后按 [ENTER] 按钮。
+3. 使用光标按钮选择一个项目，然后使用值拨盘编辑其值。
+
+备注
+在 EFFECTS ROUTING 屏幕中，您可以将光标放在图中所示的位置，然后按 [ENTER] 按钮访问 COMP + EQ 输出设置屏幕。
+
+####
+Initializing a Tone
+Here’s how you can initialize the settings of the current tone.
+1. Press the [EDIT] button.
+The TONE EDIT screen will appear.
+2. Press the [MENU] button.
+3. Choose “TONE INIT” and press the [ENTER] button.
+A message will ask “Are you sure?”
+4. To initialize, choose “OK” and press the [ENTER] button.
+If you decide to cancel, press the [EXIT] button.
+When the initialization has been completed, press the [MENU] button to return to the previous screen.
+
+####
+初始化音调
+以下是初始化当前音调设置的方法。
+1. 按 [EDIT] 按钮。
+将出现 TONE EDIT 屏幕。
+2. 按 [MENU] 按钮。
+3. 选择“TONE INIT”并按 [ENTER] 按钮。
+将出现一条消息询问“您确定吗？”
+4. 要初始化，请选择“OK”并按 [ENTER] 按钮。
+如果决定取消，请按 [EXIT] 按钮。
+初始化完成后，按 [MENU] 按钮返回上一个屏幕。
+
+####
+Initializing a Partial
+Here’s how to initialize the partials of a SuperNATURAL Synth Tone, SuperNATURAL Drum Kit, PCM Synth Tone, or PCM Drum Kit.
+1. Press the [EDIT] button.
+The TONE EDIT screen will appear.
+2. Press the [MENU] button.
+3. Choose “PARTIAL INIT” and press the [ENTER] button.
+4. Select the partial that you want to initialize.
+5. To initialize, choose “OK” and press the [ENTER] button.
+If you decide to cancel, press the [EXIT] button.
+When the initialization has been completed, press the [MENU] button to return to the previous screen.
+
+####
+初始化分音
+以下介绍如何初始化 SuperNATURAL 合成音色、SuperNATURAL 鼓组、PCM 合成音色或 PCM 鼓组的分音。
+1. 按 [EDIT] 按钮。
+将出现 TONE EDIT 屏幕。
+2. 按 [MENU] 按钮。
+3. 选择“PARTIAL INIT”并按 [ENTER] 按钮。
+4. 选择要初始化的分音。
+5. 要初始化，请选择“OK”并按 [ENTER] 按钮。
+如果决定取消，请按 [EXIT] 按钮。
+初始化完成后，按 [MENU] 按钮返回上一屏幕。
+
+####
+Copying a Partial
+Here’s how to copy the partial settings of a SuperNATURAL Synth Tone, SuperNATURAL Drum Kit, PCM Synth Tone, or PCM Drum Kit.
+1. Press the [EDIT] button.
+The TONE EDIT screen will appear.
+2. Press the [MENU] button.
+3. Choose “PARTIAL COPY” and press the [ENTER] button.
+4. Select the copy-source partial and the copy-destination partial.
+5. To execute, choose “OK” and press the [ENTER] button.
+
+####
+复制部分
+以下介绍如何复制 SuperNATURAL 合成音色、SuperNATURAL 鼓组、PCM 合成音色或 PCM 鼓组的部分设置。
+1. 按 [EDIT] 按钮。
+将出现 TONE EDIT 屏幕。
+2. 按 [MENU] 按钮。
+3. 选择“PARTIAL COPY”并按 [ENTER] 按钮。
+4. 选择复制源部分和复制目标部分。
+5. 要执行，请选择“OK”并按 [ENTER] 按钮。
+
+####
+Selecting the Partial to Edit
+Here’s how to select the partials of a SuperNATURAL Synth Tone, SuperNATURAL Drum Kit, PCM Synth Tone, or PCM Drum Kit.
+1. Press the [EDIT] button.
+The TONE EDIT screen will appear.
+2. Press the [MENU] button.
+3. Choose “PARTIAL SELECT” and press the [ENTER] button.
+4. Select the partial that you want to edit.
+5. Turn the value dial or use [DEC] [INC] buttons to switch the partial/wave you’re editing on/off.
+* For a SuperNATURAL drum kit, only one partial can be selected.
+* You can’t switch all partials off.
+
+####
+选择要编辑的分音
+以下介绍如何选择 SuperNATURAL 合成音色、SuperNATURAL 鼓组音色、PCM 合成音色或 PCM 鼓组的分音。
+1. 按 [EDIT] 按钮。
+将出现 TONE EDIT 屏幕。
+2. 按 [MENU] 按钮。
+3. 选择“PARTIAL SELECT”并按 [ENTER] 按钮。
+4. 选择要编辑的分音。
+5. 转动数值拨盘或使用 [DEC] [INC] 按钮打开/关闭正在编辑的分音/波形。
+* 对于 SuperNATURAL 鼓组音色，只能选择一个分音。
+* 您无法关闭所有分音。
+
+*******************************************
+Using  with a Computer
+——————————————————————————————————————————
+Using the INTEGRA-7 with Your Computer
+If you use a commercially available USB cable to connect the USB
+COMPUTER port on the INTEGRA-7’s rear panel to your computer’s
+USB connector, audio or MIDI data played by your MIDI software
+(DAW software) can be sounded by the INTEGRA-7.
+
+For details on operating requirements, refer to the Roland website.
+https://www.roland.com/global/support/
+	
+********************************************
+与计算机一起使用
+————————————————————————————————————————————
+将 INTEGRA-7 与计算机一起使用
+如果您使用市售的 USB 电缆将 INTEGRA-7 后面板上的 USB
+COMPUTER 端口连接到计算机的
+USB 连接器，则 MIDI 软件（DAW 软件）播放的音频或 MIDI 数据可以通过 INTEGRA-7 发声。
+
+有关操作要求的详细信息，请参阅 Roland 网站。
+https://www.roland.com/global/support/
+
+NOTE
+• For some models of computer, the system might not operate correctly. Refer to the Roland website for the operating systems that are supported.
+• Before you make connections to other equipment, turn down the volume and turn off the power off on all equipment in order to prevent malfunction and/or speaker damage.
+• A USB cable is not included. To purchase one, please contact the dealer where you purchased the INTEGRA-7.
+• Use a USB cable that supports USB 2.0 Hi-Speed.
+• Use a computer that supports USB 2.0 Hi-Speed.
+• Switch on the INTEGRA-7 before you start up the DAW software on your computer. Do not switch the INTEGRA-7 on/off while your DAW software is running.
+
+注意
+• 对于某些型号的计算机，系统可能无法正常运行。请参阅 Roland 网站了解支持的操作系统。
+• 在连接到其他设备之前，请调低音量并关闭所有设备的电源，以防止发生故障和/或扬声器损坏。
+• 不附带 USB 电缆。要购买，请联系您购买 INTEGRA-7 的经销商。
+• 使用支持 USB 2.0 高速的 USB 电缆。
+• 使用支持 USB 2.0 高速的计算机。
+• 在计算机上启动 DAW 软件之前，请打开 INTEGRA-7。请勿在 DAW 软件运行时打开/关闭 INTEGRA-7。
+
+####
+What is the USB driver?
+The USB driver is software that transfers data between the INTEGRA-7 and the application (e.g., DAW software) on your computer when the INTEGRA-7 is connected via USB to your computer.
+
+The USB driver sends data from your application to the INTEGRA-7, and data from the INTEGRA-7 to your application.
+
+####
+什么是 USB 驱动程序？
+USB 驱动程序是一种软件，当 INTEGRA-7 通过 USB 连接到计算机时，它可以在 INTEGRA-7 和计算机上的应用程序（例如 DAW 软件）之间传输数据。
+
+USB 驱动程序将数据从您的应用程序发送到 INTEGRA-7，并将数据从 INTEGRA-7 发送到您的应用程序。
+
+####
+USB MIDI (p. 45)
+You’ll be able to use the INTEGRA-7 as a MIDI interface with your DAW software, and use the INTEGRA-7’s sound generator to play performance data (MIDI data) that’s played back by your DAW software.
+
+####
+USB MIDI（第 45 页）
+您将能够将 INTEGRA-7 用作 DAW 软件的 MIDI 接口，并使用 INTEGRA-7 的声音发生器播放由 DAW 软件播放的演奏数据（MIDI 数据）。
+
+####
+USB audio (p. 46)
+If you want to use USB audio, you’ll need to use the VENDER driver(p. 44).
+
+####
+USB 音频（第 46 页）
+如果您想使用 USB 音频，则需要使用 VENDER 驱动程序（第 44 页）。
+
+####
+Settings for INTEGRA-7 computer
+If the INTEGRA-7 is connected via a USB cable to the application (e.g., DAW software) on your computer, the same sound as from the INTEGRA-7’s MAIN OUT can be recorded into your computer.
+
+####
+INTEGRA-7 计算机设置
+如果通过 USB 电缆将 INTEGRA-7 连接到计算机上的应用程序（例如 DAW 软件），则可以将与 INTEGRA-7 的 MAIN OUT 相同的声音录制到计算机中。
+
+####
+Settings for computer → INTEGRA-7
+Sound from your computer can be played from the audio system connected to the INTEGRA-7’s OUTPUT jacks.
+
+If the Motional Surround function is on, the sound from your computer can also be positioned in the front/rear and left/right directions.
+
+####
+计算机 → INTEGRA-7 的设置
+计算机的声音可以通过连接到 INTEGRA-7 的 OUTPUT 插孔的音频系统播放。
+
+如果动态环绕功能开启，计算机的声音也可以定位在前/后和左/右方向。
+
+####
+USB Driver
+Here’s how to switch between the dedicated INTEGRA-7 USB driver and the generic driver provided by the operating system.
+If you want to use USB audio, you’ll need to use the VENDER driver.
+1. In the MENU screen, choose “SYSTEM” and press the [ENTER] button.
+2. Choose “SETUP” tab and press the [ENTER] button.
+3. Specify the USB Driver that you want to use.
+When you change this setting, a confirmation message will appear.
+
+Driver		 |		Explanation
+VENDER (MIDI+AUDIO) |		The dedicated INTEGRA-7 driver provided by Roland will
+							be used. MIDI and audio will be available.
+GENERIC (MIDI only)	|		The generic driver provided by the operating system
+							will be used. Only MIDI will be available.
+
+4. Choose “WRITE” and press the [ENTER] button to save the setting.
+5. Turn the unit off, then on again.
+
+####
+USB 驱动程序
+以下介绍如何在专用 INTEGRA-7 USB 驱动程序和操作系统提供的通用驱动程序之间切换。
+如果要使用 USB 音频，则需要使用 VENDER 驱动程序。
+1. 在 MENU 屏幕中，选择“SYSTEM”并按 [ENTER] 按钮。
+2. 选择“SETUP”选项卡并按 [ENTER] 按钮。
+3. 指定要使用的 USB 驱动程序。
+更改此设置时，将出现确认消息。
+
+驱动程序 | 说明
+VENDER (MIDI+AUDIO) | 将使用 Roland 提供的专用 INTEGRA-7 驱动程序。MIDI 和音频将可用。
+GENERIC (仅 MIDI) | 将使用操作系统提供的通用驱动程序。仅 MIDI 可用。
+
+MEMO
+This setting will take effect after you’ve carried out a System Write, and you’ve turned the unit off, then back on again.
+
+备注
+执行系统写入并关闭设备后，此设置将生效，然后重新打开。
+
+4. 选择“写入”并按 [ENTER] 按钮保存设置。
+5. 关闭设备，然后重新打开。
+
+####
+Connecting the INTEGRA-7 to Your
+Computer
+1. Install the USB driver on your computer.
+If you want to use the INTEGRA-7’s USB audio functionality, change the USB Driver setting to VENDER and then install the driver. You can download the driver from the Roland website.
+Roland website https://www.roland.com/global/support/
+The procedure for installing the driver will differ depending on your system. Before you proceed, you should carefully read the “Readme” file that was extracted along with the installer.
+2. Use a USB cable (sold separately) to connect the INTEGRA-7 to your computer.
+
+####
+将 INTEGRA-7 连接到您的
+计算机
+1. 在您的计算机上安装 USB 驱动程序。
+如果您想使用 INTEGRA-7 的 USB 音频功能，请将 USB 驱动程序设置更改为 VENDER，然后安装驱动程序。您可以从 Roland 网站下载驱动程序。
+Roland 网站 https://www.roland.com/global/support/
+安装驱动程序的过程将因您的系统而异。在继续之前，您应该仔细阅读与安装程序一起提取的“自述”文件。
+2. 使用 USB 电缆（单独出售）将 INTEGRA-7 连接到您的计算机。
+
+
+终止翻译，有官方中文手册

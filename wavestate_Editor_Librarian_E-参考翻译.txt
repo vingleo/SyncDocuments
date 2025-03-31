@@ -1,0 +1,1103 @@
+wavestate_Editor_Librarian_E
+****************************************
+----------------------------------------
+####
+
+****************************************
+				Introduction
+----------------------------------------
+References to different wavestate models
+This manual applies to all wavestate models, including the original wavestate, wavestate SE, wavestate mkII, and wavestate module, collectively referred to as “the wavestate.”
+
+****************************************
+				简介
+----------------------------------------
+不同 wavestate 模型的参考
+本手册适用于所有 wavestate 模型，包括原始 wavestate、wavestate SE、wavestate mkII 和 wavestate 模块，统称为“wavestate”。
+
+----------------------------------------
+About the wavestate Editor/Librarian
+The wavestate Editor/Librarian lets you organize and edit data on a wavestate connected to a Mac or Windows computer via USB, and transfer sound data back and forth between the wavestate and the computer.
+For instance, you can:
+• Edit Set Lists, Performances, Programs, Wave Sequences, and Wave Sequence Lanes, and Scales
+• See the progress of sequences and the results of modulation in real-time
+• Back up and restore all of the wavestate’s data
+• Use Import and Export to transfer sounds to and from your computer, from one wavestate to another, and to and from the wavestate native plug-in
+• Edit metadata for user sounds (Set Lists, Performances, Programs, Wave Sequences, Wave Sequence Lanes, and Scales), including the Name, Categories, and Collections (as shown on the wavestate’s display), as well as additional metadata including the Author and per-sound notes
+
+----------------------------------------
+关于 wavestate 编辑器/Librarian
+wavestate 编辑器/Librarian 可让您通过 USB 组织和编辑连接到 Mac 或 Windows 计算机的 wavestate 上的数据，并在 wavestate 和计算机之间来回传输声音数据。
+例如，您可以：
+• 编辑设置列表、性能、程序、波形序列、波形序列通道和音阶
+• 实时查看序列的进度和调制的结果
+• 备份和恢复 wavestate 的所有数据
+• 使用导入和导出在计算机之间、从一个 wavestate 到另一个 wavestate 以及 wavestate 本机插件之间传输声音
+• 编辑用户声音的元数据（设置列表、性能、程序、波形序列、波形序列通道和音阶），包括名称、类别和集合（如 wavestate 的显示屏上所示），以及其他元数据，包括作者和每个声音的注释
+
+####
+Think of the Editor/Librarian as an external display for the wavestate
+
+! Important: It’s best to think of the Editor/Librarian as an external display for the wavestate, instead of as a separate program. Everything that you see in the Editor/Librarian’s main and Set List windows is actually stored on the connected wavestate.
+
+When you make edits or import data with the Editor/Librarian, you are directly editing the data on the connected wavestate. The Editor/Librarian can export data to your computer (for backup, or for transferring to another wavestate), but it has no data of its own. This also means that the Editor/Librarian cannot be used “off-line;” it only functions when connected to a wavestate.
+
+####
+将编辑器/库管理器视为wavestate的外部显示器
+
+！重要提示：最好将编辑器/库管理器视为wavestate的外部显示器，而不是单独的程序。您在编辑器/库管理器的主窗口和设置列表窗口中看到的所有内容实际上都存储在连接的wavestate中。
+
+当您使用编辑器/库管理器进行编辑或导入数据时，您直接在连接的wavestate上编辑数据。编辑器/库管理器可以将数据导出到您的计算机（用于备份或传输到另一个wavestate），但它没有自己的数据。这也意味着编辑器/库管理器不能“离线”使用；它只有在连接到wavestate时才能工作。
+
+----------------------------------------
+Cautions
+Do not disconnect your wavestate from USB, or turn its power off, while the Editor/Librarian is running.
+Do not operate your wavestate while data is being transmitted.
+
+----------------------------------------
+注意事项
+编辑器/库管理器运行时，请勿断开 wavestate 与 USB 的连接，或关闭其电源。
+数据传输时，请勿操作 wavestate。
+
+----------------------------------------
+Operating requirements
+To use the wavestate Editor/Librarian, you need a wavestate running software version 3.1.5 or later, a USB cable, and a USB-capable Mac or Windows computer that satisfies the requirements below.
+
+Note: Full functionality is not necessarily guaranteed with all computers, even if they satisfy these system requirements.
+
+MacOS
+Mac OSX 10.12 through macOS 14, Intel or Apple Silicon.
+Windows
+Windows 10 and 11, 64-bit versions only. Touch panel operation is not supported.
+
+----------------------------------------
+操作要求
+要使用 wavestate 编辑器/Librarian，您需要运行软件版本 3.1.5 或更高版本的 wavestate、USB 电缆和满足以下要求的支持 USB 的 Mac 或 Windows 计算机。
+
+注意：即使满足这些系统要求，也不一定能保证所有计算机都能发挥全部功能。
+
+MacOS
+Mac OSX 10.12 至 macOS 14、Intel 或 Apple Silicon。
+Windows
+Windows 10 和 11，仅限 64 位版本。不支持触摸屏操作。
+
+****************************************
+				Installation
+----------------------------------------
+wavestate software version 3.1.5 or later is required
+Check the software version of the wavestate:
+1. Press UTILITY and then SHIFT + < (PAGE -).
+
+This will take you to the About page. The version number is shown at the top of the screen. If the version is earlier than 3.1.5, you’ll need to update the wavestate before continuing. The latest wavestate software can be downloaded from the Korg website (http://www.korg.com/ ).
+
+####
+What’s installed on my computer, and why?
+
+The Editor/Librarian communicates with the wavestate using networking over USB, as opposed to MIDI. To automatically identify and connect with the wavestate over the network, the Editor/Librarian uses the mDNS standard.
+
+On Windows, this requires Apple Inc.’s Bonjour, and so this is installed along with the Editor/Librarian application.
+
+####
+USB Network must be set to NCM
+To use the Editor/Librarian, the wavestate’s USB Network parameter must be set to NCM. To make sure that this is set correctly:
+1. Press UTILITY twice, and then hold SHIFT and press > (PAGE +).
+This takes you to the MIDI & USB page, as shown below.
+2. Make sure that USB Network is set to NCM.
+3. If you had to change this from RNDIS to NCM, turn off and restart the instrument before proceeding.
+USB Network
+[RNDIS, NCM]
+RNDIS: This is the legacy RNDIS protocol, which is no longer supported by the Editor/Librarian.
+NCM: This is the Network Control Model protocol, for use with MacOS and Windows 10 and later.
+
+！ Important: Changes to this parameter take effect only after the wavestate has been turned off and restarted.
+
+----------------------------------------
+MacOS
+To install the software on MacOS:
+1. On the wavestate, make sure that the USB Network parameter is set to NCM.
+For more information, see “USB Network must be set to NCM” on page 4.
+
+2. Connect your wavestate to the computer via USB.
+
+3. Open the wavestate Editor/Librarian [version number] .dmg file in the Finder.
+The disk image will open.
+
+4. On the disk image, open the wavestate Editor/Librarian [version number] .pkg file.
+The installer will start.
+
+5. Follow the on-screen instructions to complete the installation. Enter your administrator password when prompted.
+The installation will run, and the Editor/Librarian application will be installed in Applications/KORG/wavestate.
+
+----------------------------------------
+Windows
+To install the software on Windows 10 or later (earlier versions are not supported):
+1. On the wavestate, make sure that the USB Network parameter is set to NCM.
+For more information, see “USB Network must be set to NCM” on page 4.
+
+2. Double click “Korg wavestate Editor/Librarian [version number] Installer.exe.” The installer will start.
+
+3. Follow the on screen instructions to complete the installation.
+The installation will run, including the Editor/Librarian application, Apple Inc.’s Bonjour, and NCM networking support (using standard Windows drivers).
+
+4. Connect your wavestate to the computer via USB.
+
+In some cases, the wavestates may not be immediately recognized after installation. If this occurs, simply restart your computer.
+
+****************************************
+				Using the Editor/Librarian
+----------------------------------------
+Starting the wavestate Editor/Librarian 
+1. Install the software and connect the wavestate via USB, as described under “Installation” on page 4.
+A USB connection is required.
+2. Start the wavestate Editor/Librarian.
+You can find the wavestate Editor/Librarian application in the following locations, depending on the operating system being used:
+In MacOS, the wavestate Editor/Librarian is installed into Applications/KORG/wavestate. In Windows, you can find the wavestate Editor/Librarian under KORG/wavestate in All Programs, the Start Menu, etc.	
+
+使用编辑器/库管理器
+----------------------------------------
+启动 wavestate 编辑器/库管理器
+1. 安装软件并通过 USB 连接 wavestate，如第 4 页“安装”中所述。
+需要 USB 连接。
+2. 启动 wavestate 编辑器/库管理器。
+您可以在以下位置找到 wavestate 编辑器/库管理器应用程序，具体取决于所使用的操作系统：
+在 MacOS 中，wavestate 编辑器/库管理器安装在应用程序/KORG/wavestate 中。在 Windows 中，您可以在所有程序、开始菜单等中的 KORG/wavestate 下找到 wavestate 编辑器/库管理器。
+
+####
+Using the Editor/Librarian with two or more wavestates
+！ Important: Before connecting multiple wavestates, make sure to set each instrument’s System ID to a different number.
+
+To set the wavestate’s System ID:
+1. Press the UTILITY button to go to the System Setup page.
+If a different page appears at first, press UTILITY again.
+2. Set the System ID parameter, at the bottom of the page, as desired.
+The specific number isn’t important; just make sure that all connected wavestates have different System IDs.
+3. In the wavestate Editor/Librarian, use the Devices menu to select the desired wavestate.
+Note that data cannot be copied directly from one wavestate to another; instead, use Export to save the data from the first wavestate, and then Import to load the data into the second wavestate.
+
+####
+使用带有两个或更多wavestate的编辑器/库管理器
+！重要提示：在连接多个wavestate之前，请确保将每个设备的系统 ID 设置为不同的数字。
+
+要设置wavestate的系统 ID：
+1. 按 UTILITY 按钮转到系统设置页面。
+如果首先出现不同的页面，请再次按 UTILITY。
+2. 根据需要设置页面底部的系统 ID 参数。
+具体数字并不重要；只要确保所有连接的wavestate都有不同的系统 ID 即可。
+3. 在wavestate编辑器/库管理器中，使用设备菜单选择所需的wavestate。
+请注意，数据不能直接从一个wavestate复制到另一个wavestate；而是使用导出保存第一个wavestate的数据，然后使用导入将数据加载到第二个wavestate中。
+
+----------------------------------------
+Two modes: Editor and Librarian
+The buttons in the upper right of the main window select whether you’re working with the Editor or the Librarian. For the most part, you can simply switch between the two without thinking about it. It’s important to note, however, that some menu commands may be available only in one mode, and that undo is handled separately for each mode.
+
+----------------------------------------
+两种模式：编辑器和图书管理员
+主窗口右上角的按钮选择您是使用编辑器还是图书管理员。大多数情况下，您可以毫不犹豫地在两者之间切换。但需要注意的是，某些菜单命令可能仅在一种模式下可用，并且撤消操作针对每种模式单独处理。
+
+####
+Menu commands
+In general, menu commands for file operations, such as importing, exporting, backing up, and restoring, are available only when the Librarian is active. Similarly, menu commands for saving Performances are available only when the Editor is active.
+
+####
+菜单命令
+一般来说，文件操作的菜单命令（如导入、导出、备份和恢复）仅在 Librarian 处于活动状态时可用。同样，保存表演的菜单命令仅在 Editor 处于活动状态时可用。
+
+####
+Undo/Redo
+The wavestate Editor/Librarian supports multiple levels of undo and redo for most actions, including importing data, deleting, renaming, editing Set Lists, editing parameters, and so on. For instance, you could import a bundle file containing a thousand objects, and then rename all of your Programs, and safely undo both actions in turn. Note that restoring from a backup is not undoable.
+
+Undo/redo buffers are maintained separately for the Librarian and Editor modes. You’ll see this in the menu commands, whose names change based on the mode to either Librarian Undo/Redo or Editor Undo/Redo, respectively.
+
+####
+撤消/重做
+wavestate 编辑器/库管理器支持大多数操作的多个级别的撤消和重做，包括导入数据、删除、重命名、编辑设置列表、编辑参数等。例如，您可以导入包含一千个对象的捆绑文件，然后重命名所有程序，并依次安全地撤消这两个操作。请注意，从备份中恢复是不可撤消的。
+
+撤消/重做缓冲区是为库管理器和编辑器模式单独维护的。您将在菜单命令中看到这一点，其名称根据模式分别更改为库管理器撤消/重做或编辑器撤消/重做。
+
+****************************************
+				Using the Editor
+				使用编辑器
+----------------------------------------
+Basic use
+Note: This manual describes how to use the Editor application. For details about how to use the wavestate, and how its functions and parameters work, please see the wavestate Operation Guide.
+
+----------------------------------------
+基本使用
+注意：本手册介绍如何使用编辑器应用程序。有关如何使用 wavestate 以及其功能和参数如何工作的详细信息，请参阅 wavestate 操作指南。
+
+####
+Knobs and sliders
+To edit knob values, drag vertically. To edit slider values, drag in the direction of the slider.
+Most knobs and sliders can also be edited by hovering the cursor over the control, and then using the mouse wheel or dragging on the trackpad. The exception is when the controls are in a scrolling list, such as the detailed effects edit panels. In these lists, the mouse wheel and trackpad drag are used for scrolling, and so they are disabled for editing (to avoid unintended changes).
+Double-click knobs and sliders to center them.
+
+####
+旋钮和滑块
+要编辑旋钮值，请垂直拖动。要编辑滑块值，请沿滑块方向拖动。
+大多数旋钮和滑块也可以通过将光标悬停在控件上，然后使用鼠标滚轮或在触控板上拖动来编辑。例外情况是控件位于滚动列表中，例如详细效果编辑面板。在这些列表中，鼠标滚轮和触控板拖动用于滚动，因此它们无法编辑（以避免意外更改）。
+双击旋钮和滑块以使其居中。
+
+####
+Graphic editing
+Envelopes, LFOs, Key Zones, Key & Velocity Zones, and Master EQ can be edited directly in their respective graphics.
+To do this:
+1. Hover the cursor over the graphic to show a colored handle (either a dot or a line).
+2. Drag the handle to edit the value.
+For Envelopes, there are handles for Curve in the middle of the A/D/R segments.
+For Key & Velocity Zones, option-drag to edit the fade zone.
+
+####
+图形编辑
+可以直接在各自的图形中编辑包络、LFO、键盘区、键盘和力度区以及主均衡器。
+操作方法：
+1. 将光标悬停在图形上以显示彩色手柄（点或线）。
+2. 拖动手柄以编辑值。
+对于包络，A/D/R 段中间有曲线手柄。
+对于键盘和力度区，按住 Option 键拖动以编辑淡入淡出区。
+
+####
+Selecting sounds
+wavestate keeps track of sounds, and some individual sound elements, using a database. This includes Performances, Programs, Wave Sequences, Wave Sequence Lanes, Effects Presets, Scales, Set Lists, and Multisamples. In the Editor/ Librarian, these appear as Selectors: 
+Selectors
+
+####
+选择声音
+wavestate 使用数据库跟踪声音和一些单个声音元素。这包括演奏、程序、波形序列、波形序列通道、效果预设、音阶、设置列表和多重采样。在编辑器/库管理器中，这些显示为选择器：
+选择器
+
+This shows the currently selected item. Use the < and > arrows to step through them one by one, or click on the name to bring up a browser window (see “Sound Browser” on page 8).
+
+显示当前选定的项目。使用 < 和 > 箭头逐一浏览它们，或单击名称以打开浏览器窗口（请参阅第 8 页的“声音浏览器”）。
+
+! Important: the arrows step through the list of items according to the Sound Browser window’s sort order, and filtered by the window’s Categories, Collections, and search text. Each individual selector remembers these settings for as long as wavestate is open and unless a new parent sound is selected (for example, the Program is the parent sound of the Wave Sequence).
+If some items are hidden due to the selected Categories, Collections, and search text, the Filtered List icon appears between the < and > arrows. To clear the filters and show all items in the list, click the Filtered List icon. Alternatively, open the Sound Browser and adjust the filters as desired. For more information, see “Sound Browser” on page 8.
+
+! 重要提示：箭头根据声音浏览器窗口的排序顺序逐一浏览项目列表，并按窗口的类别、集合和搜索文本进行筛选。只要 wavestate 处于打开状态，每个单独的选择器都会记住这些设置，除非选择了新的父声音（例如，程序是 Wave Sequence 的父声音）。
+如果由于所选的类别、集合和搜索文本而隐藏了某些项目，则筛选列表图标会出现在 < 和 > 箭头之间。要清除过滤器并显示列表中的所有项目，请单击筛选列表图标。或者，打开声音浏览器并根据需要调整过滤器。有关更多信息，请参阅第 8 页上的“声音浏览器”。
+
+For Performances only, if the Performance has been edited from its saved version, this is indicated by an asterisk “*” to the right of the name.
+Press the Save icon to bring up the Save dialog; see “Saving Sounds,” below. Note that this does not appear for items which can’t be edited within wavestate, such as Multisamples and Scales.
+Right-click/control-click (macOS) on the name to bring up a contextual menu. For most items, this includes options for saving and renaming. For Programs and Wave Sequences, it also includes Copy and Paste.
+
+仅限演奏，如果演奏已从其保存的版本进行编辑，则名称右侧会显示星号“*”。
+按“保存”图标可打开“保存”对话框；请参阅下面的“保存声音”。请注意，对于无法在波形状态中编辑的项目（例如多重采样和音阶），不会显示此对话框。
+右键单击/按住 Control 键单击（macOS）名称可打开上下文菜单。对于大多数项目，这包括保存和重命名选项。对于程序和波形序列，它还包括复制和粘贴。
+
+----------------------------------------
+Sound Browser
+
+####
+Overview
+The Sound Browser is used for selecting any type of sound data, such as Performances, Programs, Wave Sequences, Wave Sequence Lanes, Multisamples, etc.
+
+Filters Panel
+The selections here help you narrow down the number of items in the Data List. Set the Search, Categories, and/or Collections as desired. The Filters Panel can be resized by dragging its right edge, to show one, two, or three columns of Categories and Collections.
+Important: The Search, Categories, and Collections settings continue to affect data selection, even after the Sound Browser is closed. Each individual sound selector remembers these settings for as long as wavestate is open and unless a new parent sound is selected (for example, the Program is the parent sound of the Wave Sequence). For more information, see “Selectors” on page 7.
+
+----------------------------------------
+声音浏览器
+
+####
+概述
+声音浏览器用于选择任何类型的声音数据，例如表演、程序、波形序列、波形序列通道、多重采样等。
+
+过滤器面板
+此处的选择可帮助您缩小数据列表中的项目数量。根据需要设置搜索、类别和/或集合。可以通过拖动过滤器面板的右边缘来调整其大小，以显示一列、两列或三列类别和集合。
+重要提示：即使关闭声音浏览器，搜索、类别和集合设置仍会继续影响数据选择。只要波形状态处于打开状态，每个声音选择器都会记住这些设置，除非选择了新的父声音（例如，程序是波形序列的父声音）。有关更多信息，请参阅第 7 页上的“选择器”。
+
+####
+Data List
+This shows the list of selectable sound data (Performances in the example above), as filtered by the Search, Category, and Collection settings in the Filters Panel. Click on an item in the list to select it for auditioning, or use the keyboard up/down arrows to browse through items one by one. Click in the list and type a few letters to select sounds by name.
+Double-click (or press OK) to select and close the browser.
+
+####
+数据列表
+显示可选声音数据列表（上例中的演出），由“过滤器”面板中的“搜索”、“类别”和“集合”设置进行过滤。单击列表中的项目以选择它进行试听，或使用键盘的上下箭头逐个浏览项目。单击列表并输入几个字母以按名称选择声音。
+双击（或按 OK）选择并关闭浏览器。
+
+####
+Metadata columns
+For each item, the list shows the Name, Collection, Category, Author, and Notes, as well as whether or not the item is locked factory data. You can drag the tops of the columns to re-arrange them, or to resize the columns.
+Click on a column heading to sort; click again to reverse the sort order. The triangle icon shows which column is selected for sorting, and the direction of the triangle (up or down) shows the sort order.
+
+####
+元数据列
+对于每个项目，列表显示名称、收藏、类别、作者和注释，以及该项目是否为锁定工厂数据。您可以拖动列的顶部以重新排列它们，或调整列的大小。
+单击列标题进行排序；再次单击可反转排序顺序。三角形图标显示选择哪一列进行排序，三角形的方向（向上或向下）显示排序顺序。
+	
+####
+Info Panel
+This panel lets you view the metadata for the selected items, including the Name, Collection, Categories 1 & 2, Author, and Notes. The Inspector panel can be resized by dragging its left edge.
+
+####
+信息面板
+此面板可让您查看所选项目的元数据，包括名称、收藏、类别 1 和 2、作者和注释。可以通过拖动检查器面板的左边缘来调整其大小。
+
+####
+OK/Cancel
+Press OK to confirm the selection and close the window, or Cancel to revert to the previous selection.
+
+####
+确定/取消
+按“确定”确认选择并关闭窗口，或按“取消”恢复到之前的选择。
+
+####
+Search
+Type into this field to filter the list by searching for text in any of the metadata fields. Click on the “X” to clear the field.
+
+####
+搜索
+在此字段中键入内容，通过搜索任何元数据字段中的文本来过滤列表。单击“X”可清除该字段。
+
+####
+Categories
+Categories let you filter by the type of sound, such as basses, leads, bells, etc. Each sound can be assigned to two Categories, and each data type—Performances, Programs, etc.—has its own list of Categories. Click on a Category name to filter by that Category; click on the “X” to deselect all Categories.
+When searching by Category, a sound will be shown if either of its Categories match the search criteria.
+
+####
+类别
+类别可让您按声音类型进行筛选，例如低音、主音、铃铛等。每种声音可分配到两个类别，每种数据类型（表演、程序等）都有自己的类别列表。单击类别名称可按该类别进行筛选；单击“X”可取消选择所有类别。
+按类别搜索时，如果任一类别符合搜索条件，则将显示声音。
+
+####
+Collections
+Categories let you filter sounds by group, such as factory sounds, expansion packs, or your own projects. Each sound can be assigned to one Collection. Click on a Collection name to filter by that Collection; click on the “X” to deselect all Collections.
+
+####
+集合
+类别可让您按组过滤声音，例如工厂声音、扩展包或您自己的项目。每个声音都可以分配给一个集合。单击集合名称可按该集合进行过滤；单击“X”可取消选择所有集合。
+
+----------------------------------------
+Saving Sounds
+The Performance, with its two Layers, is the main way of selecting, editing, and saving sounds. While you can save Programs, Wave Sequences, Wave Sequence Lane Presets, and Effects Presets, you don’t have to do so: all data is contained in the Performance.
+Similarly, when you load any of these data types into a Performance, a new copy of the data is created in the Performance. Any edits affect only the local copy inside the Performance, and not the original data. This lets you edit freely without worrying about affecting other sounds.
+To save a sound or preset:
+1. Go to the Selector for the sound or preset. For more information, see “Selectors” on page 7.
+2. Press the Save icon, or right-click/control-click (macOS) on the name to open the contextual menu and select the Save command.
+The Save dialog will appear:
+3. Set the Name, Author, Collection, and Categories as desired.
+You can also edit all of this metadata later, using the Librarian window.
+
+Important: changing the name does not automatically make a new copy of the sound! Always use Save As New when you want to make a copy.
+4. Save the sound, using either Overwrite or Save As New.
+To overwrite the existing sound, use Overwrite. To make a new copy and leave the existing sound unchanged, use Save As New. Factory sounds may be write-protected, in which case only “Save As New” is available.
+
+----------------------------------------
+保存声音
+Performance 具有两个层，是选择、编辑和保存声音的主要方式。虽然您可以保存程序、波形序列、波形序列通道预设和效果预设，但您不必这样做：所有数据都包含在 Performance 中。
+同样，当您将任何这些数据类型加载到 Performance 中时，Performance 中会创建数据的新副本。任何编辑都只会影响 Performance 中的本地副本，而不会影响原始数据。这样您就可以自由编辑，而不必担心影响其他声音。
+要保存声音或预设：
+1. 转到声音或预设的选择器。有关更多信息，请参阅第 7 页的“选择器”。
+2. 按“保存”图标，或右键单击/按住 Control 键单击（macOS）名称以打开上下文菜单并选择“保存”命令。
+将出现“保存”对话框：
+3. 根据需要设置名称、作者、合集和类别。
+您也可以稍后使用 Librarian 窗口编辑所有这些元数据。
+
+重要提示：更改名称不会自动生成声音的新副本！当您想要生成副本时，请务必使用另存为新。
+4. 使用覆盖或另存为新来保存声音。
+要覆盖现有声音，请使用覆盖。要生成新副本并保持现有声音不变，请使用另存为新。出厂声音可能受写保护，在这种情况下只能使用“另存为新”。
+
+####
+Renaming sounds
+As described above, Performances store all of the data for their Programs, Wave Sequences, Wave Sequence Lanes, and Effects Presets. This also includes the names of those elements. Because of this, you can rename any of these elements without saving them separately, as long as you then save the enclosing Performance. To do so:
+1. Right-click/control-click (macOS) on the name and select the Rename… command in the contextual menu.
+2. Select Rename.
+3. Enter the new name, and press OK to confirm.
+Names can be up to 24 characters long.
+4. Make sure to save the Performance once you’re done.
+
+####
+重命名声音
+如上所述，演出会存储其程序、波形序列、波形序列通道和效果预设的所有数据。这还包括这些元素的名称。因此，您可以重命名这些元素中的任何一个，而无需单独保存它们，只要您保存封闭的演出即可。操作方法：
+1. 右键单击​​/按住 Control 键单击（macOS）名称，然后在上下文菜单中选择重命名...命令。
+2. 选择重命名。
+3. 输入新名称，然后按 OK 确认。
+名称最多可包含 24 个字符。
+4. 完成后，请务必保存性能。
+
+----------------------------------------
+Copy/Paste
+You can use copy/paste with:
+• Layers
+• Programs
+• LFOs
+• Envelopes
+• Vector Envelope
+• Filter & Amp Key Track
+• Mod Processors
+• Individual effects (Pre FX, Mod FX, Delay, Reverb, and Master EQ)
+• Filter settings
+• Arpeggiator settings
+
+----------------------------------------
+复制/粘贴
+您可以将复制/粘贴用于：
+• 图层
+• 程序
+• LFO
+• 包络
+• 矢量包络
+• 滤波器和放大器键轨道
+• 调制处理器
+• 单个效果（Pre FX、Mod FX、延迟、混响和主均衡器）
+• 滤波器设置
+• 琶音器设置
+
+For example, you can copy from one LFO to another in the same Program, or copy the Filter or Arpeggiator settings from one Layer to another.
+To use copy and paste with any of the above:
+1. Right-click (or control-click on MacOS) on the title of the section that you’d like to copy, such as Filter LFO, Arpeggiator, or Mod Processor 2.
+A contextual menu will appear.
+2. Select Copy from the contextual menu.
+3. Right-click (or control-click on MacOS) on the title of the section to which you’d like to Paste.
+Note that this has to be the same type as the copy source; for instance, you can’t copy an LFO to an Envelope.
+4. Select Paste from the contextual menu.
+
+例如，您可以在同一个程序中从一个 LFO 复制到另一个 LFO，或者将滤波器或琶音器设置从一个层复制到另一个层。
+要使用上述任何一种复制和粘贴功能：
+1. 右键单击​​（或在 MacOS 上按住 Control 键单击）要复制的部分的标题，例如滤波器 LFO、琶音器或调制处理器 2。
+将出现一个上下文菜单。
+2. 从上下文菜单中选择复制。
+3. 右键单击​​（或在 MacOS 上按住 Control 键单击）要粘贴到的部分的标题。
+请注意，这必须与复制源的类型相同；例如，您不能将 LFO 复制到包络。
+4. 从上下文菜单中选择粘贴。
+
+####
+Copy/Paste for Wave Sequence Steps
+Wave Sequence Steps support Copy and Paste, as well as Cut, Insert Before, Insert After, and Delete. Shift-click to select a range of Steps, or select multiple non-continuous items by holding down the Command key on MacOS, or the Ctrl key in Windows. Once you’ve selected the desired step(s), right-click (or control-click on MacOS) to bring up the contextual menu and choose the desired copy/paste operation.
+
+If you have cut or copied multiple steps, and then select a range of steps as the Paste destination, the following will happen:
+• If a single step is selected, the steps will be pasted starting at that step, and then replace as many steps as necessary following that step.
+• If you’ve selected exactly the same number of steps as are on the clipboard, even if they are discontiguous, Paste will replace only those selected steps.
+• If you’ve selected fewer steps than are on the clipboard, even if they are discontiguous, Paste will replace the selected steps, and then replace as many steps as necessary following the last selected step.
+• If you’ve selected more steps than are on the clipboard, Paste will replace the selected steps with a loop of the clip- board, stopping at the last selected step.
+
+If you select a range of steps as the Insert Before or Insert After destination, only the first or last step matters. Insert Before refers to the first selected step, and Insert After refers to the last selected step.
+
+If the Lane doesn’t already contain enough steps to complete the paste operation, more will be added to the end, up to the maximum of 64.
+
+####
+波形序列步骤的复制/粘贴
+波形序列步骤支持复制和粘贴，以及剪切、在前插入、在后插入和删除。按住 Shift 键并单击可选择一系列步骤，或按住 MacOS 上的 Command 键或 Windows 上的 Ctrl 键可选择多个不连续的项目。选择所需的步骤后，右键单击（或在 MacOS 上按住 Control 键并单击）以调出上下文菜单并选择所需的复制/粘贴操作。
+
+如果您剪切或复制了多个步骤，然后选择一系列步骤作为粘贴目标，则将发生以下情况：
+• 如果选择了单个步骤，则将从该步骤开始粘贴步骤，然后在该步骤之后替换尽可能多的步骤。
+• 如果您选择的步骤数与剪贴板上的步骤数完全相同，即使它们不连续，粘贴也只会替换那些选定的步骤。
+• 如果您选择的步骤少于剪贴板上的步骤，即使这些步骤不连续，粘贴也会替换所选步骤，然后在最后选定的步骤之后替换尽可能多的步骤。
+• 如果您选择的步骤多于剪贴板上的步骤，粘贴会用剪贴板的循环替换所选步骤，并在最后选定的步骤处停止。
+
+如果您选择一系列步骤作为“插入之前”或“插入之后”目标，则只有第一步或最后一步很重要。插入之前是指第一个选定的步骤，插入之后是指最后一个选定的步骤。
+
+如果通道中步骤不足以完成粘贴操作，则会在末尾添加更多步骤，最多为 64 个。
+
+----------------------------------------
+Wave Sequence editing
+
+####
+Wave Sequence Inspector
+This area shows details for the currently selected Lane or Step.
+To edit Lane parameters, click on the Lane’s title. To edit Step parameters, click on a Step.
+
+####
+Changing the number of displayed steps
+Use the 16/32/64 step buttons to adjust the viewable range of the display, to show 16, 32, or 64 steps, respectively.
+
+####
+Editing Start, End, and Loop steps
+The triangles above the Steps show the Loop Start (green) and Loop End (red). The triangles below the Steps show the Start (green) and End (red). To edit, just click and drag on the triangles.
+
+####
+Editing values on the Step graphics
+For the Pitch, Gate, and Step Sequence lanes, as well as the Timing Lane when Tempo is off, drag on Steps in the graphic to edit the Transpose, Gate time, Step value, or Duration, respectively.
+For the Sample and Shape lanes, as well as the Timing Lane when Tempo is on, click and hold to bring up a popup menu to select the Multisample, Shape, or note value, respectively.
+
+####
+Solo Step
+Step solo mode makes the Lane temporarily loop on the selected Step, for auditioning Multisamples or shapes, troubleshooting, etc.
+To enter Step Solo mode:
+1. Right-click or control-click (macOS) on a Step to bring up the contextual menu.
+2. Select the Solo Step command.
+The Step will be marked with a yellow outline.
+The Wave Sequence will play as if that Lane was set to loop on the selected Step. Other Lanes will continue to play normally. If you select other Steps in the current Lane, solo will follow the selected Step.
+To exit Step Solo mode, bring up the contextual menu and un-select Solo Step.
+Only one Lane at a time can be in Step Solo mode. If you enter Step Solo mode for a second Lane, the first Lane’s Step Solo mode is turned off automatically. Changing to a different Layer also turns off Step Solo mode.
+
+----------------------------------------
+波形序列编辑
+
+####
+波形序列检查器
+此区域显示当前选定的通道或步骤的详细信息。
+要编辑通道参数，请单击通道的标题。要编辑步骤参数，请单击步骤。
+
+####
+更改显示的步骤数
+使用 16/32/64 步骤按钮调整显示的可视范围，分别显示 16、32 或 64 个步骤。
+
+####
+编辑开始、结束和循环步骤
+步骤上方的三角形显示循环开始（绿色）和循环结束（红色）。步骤下方的三角形显示开始（绿色）和结束（红色）。要编辑，只需单击并拖动三角形即可。
+
+####
+编辑步骤图形上的值
+对于音高、门限和步骤序列通道，以及关闭速度时的计时通道，拖动图形中的步骤以分别编辑移调、门限时间、步骤值或持续时间。
+对于样本和形状通道，以及打开速度时的计时通道，单击并按住以弹出菜单，分别选择多重采样、形状或音符值。
+
+####
+独奏步骤
+步骤独奏模式使通道暂时在选定的步骤上循环，用于试听多重采样或形状、故障排除等。
+要进入步骤独奏模式：
+1. 右键单击​​或按住 Control 键单击（macOS）步骤以调出上下文菜单。
+2. 选择独奏步骤命令。
+步骤将标有黄色轮廓。
+波形序列将播放，就像该通道设置为在选定的步骤上循环一样。其他通道将继续正常播放。如果您在当前通道中选择了其他步骤，则 solo 将遵循所选步骤。
+要退出 Step Solo 模式，请调出上下文菜单并取消选择 Solo Step。
+一次只能有一个通道处于 Step Solo 模式。如果您为第二个通道进入 Step Solo 模式，则第一个通道的 Step Solo 模式将自动关闭。更改为不同的层也会关闭 Step Solo 模式。
+
+----------------------------------------
+Modulation
+The Editor shows real-time modulated values as orange dots on knobs and sliders. If a parameter is shown only as a text or numeric box, and it is modulated, the text is shown in orange.
+
+####
+Modulation inspector
+The modulation inspector in the upper right shows the modulation routings, if any, for the selected parameter (marked by an orange box). You can also add new modulations or delete existing ones.
+
+####
+Drag and drop modulation routings
+To create a modulation routing using drag and drop:
+1. Click on the name of any of the following: the Mod or Pitch wheel, Mod Knobs, Envelopes, LFOs, Filter or Amp Key Track, or Mod Processors.
+For the Mod Knobs and wheels in particular, make sure to click on the name, and not the control or value display!
+2. Drag to a modulation destination.
+
+####
+Modulating one mod source with another
+You can also drag-and-drop to modulate one mod source with another. To create this sort of routing via drag-and-drop:
+1. Click on the name of the mod source, as above.
+2. Drag and hold over the tab for the desired modulation destination.
+For example, to modulate the Filter LFO, hold over the LFOs tab.
+After a moment, the tab will open.
+3. Once the tab opens and displays its contents, drag to the desired destination.
+
+####
+Fixed modulation routings
+Fixed modulation routings, such as Filter LFO to Filter Cutoff, are shown in the Mod Inspector. These routings are marked by a lock icon, and differ from user-created modulation routings in several ways: they cannot be deleted, the mod source cannot be changed, and there is no second modulation source.
+
+----------------------------------------
+调制
+编辑器将实时调制值显示为旋钮和滑块上的橙色圆点。如果参数仅显示为文本或数字框，并且已调制，则文本显示为橙色。
+
+####
+调制检查器
+右上角的调制检查器显示所选参数（用橙色框标记）的调制路由（如果有）。您还可以添加新的调制或删除现有的调制。
+
+####
+拖放调制路由
+要使用拖放创建调制路由：
+1. 单击以下任意一项的名称：调制或音高轮、调制旋钮、包络、LFO、滤波器或放大器键轨道或调制处理器。
+对于调制旋钮和轮子，请确保单击名称，而不是控件或值显示！
+2. 拖动到调制目标。
+
+####
+用另一个调制源调制一个调制源
+您还可以通过拖放操作将一个调制源调制为另一个调制源。要通过拖放创建此类路由：
+1. 单击调制源的名称，如上所述。
+2. 拖动并按住所需调制目标的选项卡。
+例如，要调制滤波器 LFO，请按住 LFO 选项卡。
+片刻之后，选项卡将打开。
+3. 选项卡打开并显示其内容后，拖动到所需目标。
+
+####
+固定调制路由
+固定调制路由（例如滤波器 LFO 到滤波器截止）显示在调制检查器中。这些路由以锁定图标标记，并且与用户创建的调制路由有几个不同之处：它们不能被删除，调制源不能更改，并且没有第二个调制源。
+
+----------------------------------------
+Effects
+Using the Editor, you can edit internal effects parameters and save Effects Presets.
+Press the EDIT button next to the effect name to show the full list of effects parameters.
+
+Modulation of internal parameters is allowed only from the FX Edit 1/2/3 knobs. To modulate effects from other sources, such as the Mod Wheel or the Mod Knobs, assign the internal parameter to one of the FX Edit knobs, and then modulate the FX Edit knob from the desired source.
+
+----------------------------------------
+效果
+使用编辑器，您可以编辑内部效果参数并保存效果预设。
+按效果名称旁边的 EDIT 按钮可显示效果参数的完整列表。
+
+仅允许从 FX Edit 1/2/3 旋钮调制内部参数。要从其他来源（例如 Mod Wheel 或 Mod Knobs）调制效果，请将内部参数分配给其中一个 FX Edit 旋钮，然后从所需来源调制 FX Edit 旋钮。
+
+****************************************
+Using the Librarian
+----------------------------------------
+Import and export
+Import and export let you transfer data between the wavestate and the computer. This lets you import new sounds, transfer sounds from one wavestate to another (and to and from the wavestate native plug-in), or back up and restore specific data. (For backing up the entire contents of the wavestate, see “Backup and restore” on page 14.)
+! Important: make sure to read “Think of the Editor/Librarian as an external display for the wavestate” on page 3.
+
+****************************************
+使用 Librarian
+----------------------------------------
+导入和导出
+导入和导出可让您在 wavestate 和计算机之间传输数据。这可让您导入新声音、将声音从一个 wavestate 传输到另一个 wavestate（以及与 wavestate 原生插件之间传输声音），或备份和恢复特定数据。（有关备份 wavestate 的全部内容，请参阅第 14 页的“备份和恢复”。）
+！重要提示：请务必阅读第 3 页的“将编辑器/Librarian 视为 wavestate 的外部显示器”。
+
+####
+Importing data
+To import data from your computer to the wavestate:
+1. In the File menu, select the Import… command.
+A standard file open dialog will appear.
+2. Select the wavestate file(s) to import.
+You can select and import multiple files at once.
+3. Press the Open button.
+The data in the file(s) will be imported into the wavestate. A message will appear to confirm the import, including information about which files have been added.
+
+####
+导入数据
+要将数据从计算机导入 wavestate：
+1. 在文件菜单中，选择导入…命令。
+将出现一个标准文件打开对话框。
+2. 选择要导入的 wavestate 文件。
+您可以一次选择并导入多个文件。
+3. 按打开按钮。
+文件中的数据将导入 wavestate。将出现一条消息以确认导入，其中包括有关已添加哪些文件的信息。
+
+####
+Data conflicts
+If some of the imported data appears to be different or updated versions of the internal data, a dialog will appear with the text:
+“A different or changed item already exists in the database for <item name>” The dialog offers several options: Cancel: the item will not be imported.
+Overwrite: the item will be imported, replacing the version in the wavestate.
+Make Unique: the item will be imported, and its UUID (see “UUIDs” on page 13) will be changed so that it does not conflict with the version already in the wavestate.
+Apply to All: the choice of Cancel, Overwrite, and Make Unique will be applied to all conflicting files in the Import.
+If a Set List is imported, and some of its constituent Performances were made unique, then the Set List is edited to point to the new Performances.
+
+####
+数据冲突
+如果部分导入的数据看起来与内部数据不同或为更新版本，则会出现一个对话框，其中显示以下文本：“数据库中已存在与 <item name> 不同的或已更改的项目”对话框提供了几个选项：取消：不会导入该项目。
+覆盖：将导入该项目，替换 wavestate 中的版本。
+使唯一：将导入该项目，并且其 UUID（请参阅第 13 页的“UUID”）将更改，以使其不与 wavestate 中已有的版本冲突。
+应用于全部：取消、覆盖和使唯一选项将应用于导入中的所有冲突文件。
+如果导入了 Set List，并且其部分组成 Performance 被设置为唯一，则将编辑 Set List 以指向新 Performance。
+
+####
+UUIDs
+The wavestate uses a database to keep sounds organized. Internally, sounds are identified not by their names, but rather by a unique tag attached to the file, called a UUID (“Universally Unique Identifier”). This means that even if a sound’s name has been changed, the system still knows it’s the same sound.
+
+####
+UUID
+wavestate 使用数据库来保持声音的有序性。在内部，声音不是通过其名称来识别的，而是通过附加在文件上的唯一标签来识别的，称为 UUID（“通用唯一标识符”）。这意味着即使声音的名称已更改，系统仍然知道它是同一个声音。
+
+When you write a sound from the wavestate front panel, “Overwrite” keeps the UUID the same, and “Save As New” creates a new UUID.
+
+When you import data, the UUIDs in the sounds to be imported are compared with those already in the database. If a sound has the same UUID, but its contents are different, you’ll see the dialog described under “Data conflicts” on page 13.
+
+当您从 wavestate 前面板写入声音时，“覆盖”会保持 UUID 不变，而“另存为新”会创建一个新的 UUID。
+
+导入数据时，要导入的声音中的 UUID 会与数据库中已有的 UUID 进行比较。如果声音具有相同的 UUID，但其内容不同，您将看到第 13 页“数据冲突”下描述的对话框。
+
+####
+Exporting data
+When exporting two or more pieces of data, you can either save them as separate files or as a single Bundle file.
+Exporting as separate files
+To export data from the wavestate to your computer as separate files on disk:
+1. In the Main Window, select the data that you’d like to export.
+For more information, see “List and selection” on page 20.
+2. In the File menu, select the Export… command.
+A standard file open dialog will appear.
+3. Navigate to the location to save the files.
+4. Press Open to select the current directory and save the files.
+
+####
+导出数据
+导出两块或更多块数据时，您可以将它们保存为单独的文件或单个 Bundle 文件。
+导出为单独的文件
+要将数据从 wavestate 导出到计算机作为磁盘上的单独文件：
+1. 在主窗口中，选择要导出的数据。
+有关更多信息，请参阅第 20 页的“列表和选择”。
+2. 在文件菜单中，选择导出...命令。
+将出现一个标准的文件打开对话框。
+3. 导航到要保存文件的位置。
+4. 按打开以选择当前目录并保存文件。
+
+####
+Exporting as a bundle
+To export multiple pieces of data from the wavestate to your computer as a bundle:
+1. In the Main Window, select the data that you’d like to export.
+2. In the File menu, select the Export Bundle… command.
+3. Navigate to the location to save the bundle, and enter a name for the file.
+4. Press Save to save the bundle file.
+
+####
+导出为包
+要将 wavestate 中的多条数据作为包导出到计算机：
+1. 在主窗口中，选择要导出的数据。
+2. 在文件菜单中，选择导出包…命令。
+3. 导航到要保存包的位置，然后输入文件的名称。
+4. 按保存以保存包文件。
+
+####
+Exporting all user data
+To export all of your custom data as a single bundle file, without saving the write-protected factory sounds:
+1. In the menu, select the Export Bundle of All User Sounds… command.
+2. Navigate to the location to save the bundle, and enter a name for the file.
+3. Press Save to save the bundle file.
+This exports a bundle of all non-write-protected data, for backing up or transferring all of your custom sounds at once.
+
+####
+导出所有用户数据
+要将所有自定义数据导出为单个捆绑文件，而不保存写保护的出厂声音：
+1. 在菜单中，选择“导出所有用户声音的捆绑包...”命令。
+2. 导航到要保存捆绑包的位置，然后输入文件的名称。
+3. 按“保存”保存捆绑包文件。
+这将导出所有非写保护数据的捆绑包，用于一次备份或传输所有自定义声音。
+
+####
+Importing and exporting Set Lists
+Set Lists refer to up to 64 Performances. When you export a Set List, both the Set List and its referenced Performances are saved together. This makes it easy to transfer groups of sounds between two or more wavestates.
+
+File Types
+The wavestate Editor/Librarian uses the file types below.
+
+####
+导入和导出曲目列表
+曲目列表最多可引用 64 个演奏。导出曲目列表时，曲目列表及其引用的演奏会一起保存。这样可以轻松地在两个或多个波形状态之间传输声音组。
+
+文件类型
+波形状态编辑器/库管理器使用以下文件类型。
+
+表略
+
+----------------------------------------
+Backup and restore
+####
+Backing up all data
+1. In the File menu, select the Backup… command.
+The Main Window will change to show the Backup window.
+2. Enter a brief descriptive note.
+3. If desired, enable the Include User Sample Bank option.
+If this box is checked, the current User Sample Bank will be included in the backup file. Note that this can significantly increase both the size of the backup file (up to 4 GB!), and the time required to complete the backup.
+4. Press Start to begin the backup, or Cancel to return to the Main Window.
+A progress bar shows the status of the backup, and a message appears when the backup is complete.
+5. Press the Done button to return to the Main Window.
+
+----------------------------------------
+备份和恢复
+####
+备份所有数据
+1. 在文件菜单中，选择备份…命令。
+主窗口将更改为显示备份窗口。
+2. 输入简短的说明性注释。
+3. 如果需要，启用包含用户样本库选项。
+如果选中此框，则当前用户样本库将包含在备份文件中。请注意，这可以显著增加备份文件的大小（最多 4 GB！）以及完成备份所需的时间。
+4. 按“开始”开始备份，或按“取消”返回主窗口。
+进度条显示备份状态，备份完成后会出现一条消息。
+5. 按“完成”按钮返回主窗口。
+
+####
+Restoring data
+！ Important: Restoring from a backup will delete all of the data currently in the wavestate. If a subset of the data types is selected during the restore, only the data of the selected types will be deleted.
+
+1. In the File menu, select the Restore… command.
+A standard file open dialog will appear.
+2. Select the wavestate backup file to use for the restore.
+The Main Window will change to show the restore dialog. This shows the text note stored with the file, and includes a series of check-boxes to select the types of data which will be restored. By default, all data types are selected except for Calibration Data and the User Sample Bank.
+！ mportant: Only select Calibration Data when restoring to the identical physical instrument which created the backup. Otherwise, leave it un-checked.
+3. If desired, select the types of data to restore.
+4. Press Start to begin the restore, or Cancel to return to the Main Window.
+A progress bar shows the status of the restore, and a message appears when the restore is complete.
+
+####
+Tip: Merging data
+If you want to merge your current state with a previous state, use Export and Import instead. If you have a backup file and want to merge it with your current state, first Export all data, then restore from the backup, and then re-Import the data.
+
+####
+正在恢复数据
+！重要提示：从备份中恢复将删除当前处于波形状态的所有数据。如果在恢复过程中选择了数据类型的子集，则只会删除所选类型的数据。
+
+1. 在文件菜单中，选择恢复…命令。
+将出现一个标准文件打开对话框。
+2. 选择要用于恢复的波形状态备份文件。
+主窗口将更改为显示恢复对话框。这将显示与文件一起存储的文本注释，并包括一系列复选框以选择要恢复的数据类型。默认情况下，除校准数据和用户样本库外，所有数据类型均被选中。
+！重要提示：仅在恢复到创建备份的相同物理仪器时选择校准数据。否则，请将其保留为未选中状态。
+3. 如果需要，选择要恢复的数据类型。
+4. 按“开始”开始恢复，或按“取消”返回主窗口。
+进度条显示恢复状态，恢复完成后会显示一条消息。
+
+####
+提示：合并数据
+如果您想要将当前状态与之前的状态合并，请使用导出和导入。如果您有备份文件并想要将其与当前状态合并，请先导出所有数据，然后从备份中恢复，然后重新导入数据。
+
+----------------------------------------
+Editing Set Lists
+With the Editor/Librarian, you can:
+• Duplicate Set Lists
+• Add Performances to Set Lists via drag-and-drop
+• Re-arrange, cut, copy, and delete the Slots in a Set List
+• Copy from one Set List to another
+
+####
+Duplicating Set Lists
+To duplicate a Set List:
+1. In the Main Window, select one or more Set Lists.
+It may help to select the Set Lists tab first, so that only Set Lists are shown. For more information, see “Main Window” on page 19.
+2. In the Edit menu, select the Duplicate command.
+You can also right-click on the Set List in the Main Window and use the contextual menu.
+The selected Set List(s) will be duplicated, with a number appended to their name.
+
+####
+Adding Performances to a Set List
+To add Performances to a Set List:
+1. Open a Set List window.
+With the default Preferences settings, you can open the window by double-clicking on a Set List in the Main Window.
+For more information, see “Preferences” on page 23.
+2. Select one or more Performances in the Main Window.
+3. Click and hold on a selected Performance, and drag it over a Slot in the Set List window.
+The Performance will be pasted over the Slot. If you’re dragging multiple Performances, they will be pasted over the Slot and immediately subsequent Slots, as necessary.
+
+####
+Re-arranging Slots in a Set List, or copying from one Set List to another
+You can re-arrange the Slots in a Set List, such as using cut, copy, paste, and insert, using three different methods:
+• Commands in the Edit menu
+• Commands in the pop-up contextual menu (right-click, or control-click on MacOS)
+• Drag-and-drop
+
+You can open multiple Set List windows at once. If one of the windows shows the Set List currently selected on the wavestate, the note “(Active)” appears after its name in the title bar.
+
+####
+Using commands in the Edit menu or contextual menu
+To re-arrange Slots using the Edit menu:
+1. Select the Slots that you’d like to copy, cut, or delete.
+You can select two or more non-continuous Slots using command-click on MacOS, or Ctrl-click in Windows.
+Alternatively, select a continuous range of Slots by using Shift-click.
+2. Select the Cut, Cut and Shift Slots, Copy, or Delete command, as desired.
+You can either select the commands from the Edit menu, or bring up the contextual menu by right-clicking/control-clicking on one of the selected Slots. For details on how these work, especially Cut and Shift Slots, see “Edit menu” on page 24.
+If you delete a Slot, its contents are replaced by the Init Performance.
+If using Paste or Insert Before, continue:
+3. Select the destination Slot.
+Important: if multiple Slots are selected, only the lowest-numbered selection affects the Paste or Insert Before operation; other selections are ignored. For more information, see “Paste” on page 24 and “Insert Before” on page 25.
+4. Select the Paste or Insert Before command, as desired.
+
+####
+Using drag-and-drop
+To re-arrange Slots using drag-and-drop:
+1. Select the Slots that you’d like to copy or cut.
+2. Click and drag on top of a Slot to Paste, or to the space between Slots to Insert Before.
+The effect on the original Slots depends on whether or not you hold the Option key (MacOS) or Alt key (Windows), and whether you’re dragging within a single Set List or from one Set List to another, as shown in the table below.
+
+----------------------------------------
+编辑曲目列表
+使用编辑器/库管理器，您可以：
+• 复制曲目列表
+• 通过拖放将表演添加到曲目列表
+• 重新排列、剪切、复制和删除曲目列表中的插槽
+• 从一个曲目列表复制到另一个曲目列表
+
+####
+复制曲目列表
+要复制曲目列表：
+1. 在主窗口中，选择一个或多个曲目列表。
+首先选择曲目列表选项卡可能会有所帮助，这样只会显示曲目列表。有关更多信息，请参阅第 19 页的“主窗口”。
+2. 在编辑菜单中，选择复制命令。
+您也可以右键单击主窗口中的曲目列表并使用上下文菜单。
+所选曲目列表将被复制，并在其名称后附加一个数字。
+
+####
+将表演添加到曲目列表
+要将表演添加到曲目列表：
+1. 打开曲目列表窗口。
+使用默认的首选项设置，您可以通过双击主窗口中的“Set List”来打开窗口。
+有关更多信息，请参阅第 23 页的“首选项”。
+2. 在主窗口中选择一个或多个表演。
+3. 单击并按住选定的表演，然后将其拖到“Set List”窗口中的插槽上。
+表演将粘贴在插槽上。如果您拖动多个表演，它们将根据需要粘贴在插槽上以及紧接着的插槽上。
+
+####
+重新排列“Set List”中的插槽，或从一个“Set List”复制到另一个“Set List”
+您可以使用三种不同的方法重新排列“Set List”中的插槽，例如使用剪切、复制、粘贴和插入：
+• 编辑菜单中的命令
+• 弹出上下文菜单中的命令（右键单击，或在 MacOS 上按住 Control 键单击）
+• 拖放
+
+您可以一次打开多个“Set List”窗口。如果其中一个窗口显示当前在波形状态上选择的 Set List，则标题栏中其名称后面会出现注释“(Active)”。
+
+####
+使用编辑菜单或上下文菜单中的命令
+要使用编辑菜单重新排列插槽：
+1. 选择要复制、剪切或删除的插槽。
+您可以在 MacOS 上使用命令单击或在 Windows 中使用 Ctrl 单击来选择两个或更多不连续的插槽。
+或者，使用 Shift 单击选择连续的插槽范围。
+2. 根据需要选择剪切、剪切和移动插槽、复制或删除命令。
+您可以从编辑菜单中选择命令，也可以通过右键单击/按住 Control 单击其中一个选定的插槽来调出上下文菜单。有关这些工作原理的详细信息，尤其是剪切和移动插槽，请参阅第 24 页的“编辑菜单”。
+如果删除插槽，其内容将由初始性能替换。
+如果使用粘贴或插入前，请继续：
+3. 选择目标插槽。
+重要提示：如果选择了多个插槽，则只有编号最小的选择会影响粘贴或插入前操作；其他选择将被忽略。有关更多信息，请参阅第 24 页的“粘贴”和第 25 页的“插入前”。
+4. 根据需要选择粘贴或插入前命令。
+
+####
+使用拖放
+要使用拖放重新排列插槽：
+1. 选择要复制或剪切的插槽。
+2. 单击并拖动要粘贴的插槽顶部，或拖动到要插入前的插槽之间的空间。
+对原始插槽的影响取决于您是否按住 Option 键（MacOS）或 Alt 键（Windows），以及您是在单个集合列表内拖动还是从一个集合列表拖动到另一个集合列表，如下表所示。
+
+表略
+
+Note that dragging to a different Set List always leaves the original Slots intact; option-drag is not required.
+
+请注意，拖拽到不同的 Set List 总是保持原始 Slots 完好无损；不需要选项拖拽。
+
+####
+Editing Scales
+To edit Scales:
+1. Go to the Librarian window.
+2. Set FILTERS (at the top of the left panel) to Scales.
+The main section of the window will change to show the installed Scales.
+3. Double-click on an unlocked Scale, or right-click on an unlocked Scale and select Open Scale Editor from the contextual menu.
+Only unlocked user Scales can be edited. To create an editable version of a locked, factory scale, right-click on the Scale and select Duplicate from the contextual menu.
+4. Edit the scale as desired; see “Scale settings,” below.
+5. Press Save to save the edited scale, or Cancel to exit and discard the changes.
+Important: Save always overwrites the existing Scale data, even if you change the name. To create a new Scale, use the Duplicate command first, and then edit the duplicate Scale.
+Scales are saved with the “korgscale” extension, and can be shared between the wavestate and modwave.
+
+####
+编辑音阶
+要编辑音阶：
+1. 转到 Librarian 窗口。
+2. 将 FILTERS（在左侧面板顶部）设置为 Scales。
+窗口的主要部分将更改为显示已安装的音阶。
+3. 双击解锁的音阶，或右键单击解锁的音阶并从上下文菜单中选择 Open Scale Editor。
+只能编辑解锁的用户音阶。要创建锁定的出厂音阶的可编辑版本，右键单击音阶并从上下文菜单中选择 Duplicate。
+4. 根据需要编辑音阶；请参阅下面的“音阶设置”。
+5. 按 Save 保存已编辑的音阶，或按 Cancel 退出并放弃更改。
+重要提示：即使您更改了名称，Save 也会始终覆盖现有的音阶数据。要创建新的音阶，请先使用“复制”命令，然后编辑复制的音阶。
+音阶使用“korgscale”扩展名保存，并且可以在 wavestate 和 modwave 之间共享。
+
+####
+Scale settings
+Scale Name
+[Text]
+This lets you edit the name of the Scale.
+Important: Save always overwrites the existing Scale data, even if you change the name!
+Type
+[Octave Scale, Octave Scale, A=Master Tune, 128 Note Scale]
+There are three supported scale types:
+Octave Scale is a standard 12-note scale which repeats every octave.
+Octave Scale, A=Master Tune is similar to the above, except that the Scale is automatically adjusted so that the pitch for A matches the Master Tune setting (e.g., A=440Hz), regardless of the Scale Key.
+128 Note Scale allows separate tuning of each MIDI note, for Scales which don’t repeat on octave boundaries.
+Cents
+[–100…+100]
+Each note can be detuned by up to 100 cents, flat or sharp.
+Semitones
+[–127…+127]
+The Semitones parameter lets you detune a note by up to the entire MIDI range. As a simple example, to make the C key play a D pitch, set Semitones to +2. This is useful for scales which do not repeat on octave boundaries, or for repeated notes within an octave scale.
+
+####
+音阶设置
+音阶名称
+[文本]
+这可让您编辑音阶的名称。
+重要提示：即使您更改名称，“保存”也会始终覆盖现有音阶数据！
+类型
+[八度音阶、八度音阶、A=主调、128 音符音阶]
+支持三种音阶类型：
+八度音阶是标准的 12 音符音阶，每个八度重复一次。
+八度音阶、A=主调与上述类似，不同之处在于音阶会自动调整，以便 A 的音高与主调设置相匹配（例如，A=440Hz），而与音阶键无关。
+128 音符音阶允许对每个 MIDI 音符进行单独调音，适用于在八度边界上不重复的音阶。
+音分
+[–100…+100]
+每个音符最多可以降调 100 音分，降调或升调。
+半音
+[–127…+127]
+半音参数可让您将音符调低至整个 MIDI 范围。举个简单的例子，要使 C 键演奏 D 音高，请将半音设置为 +2。这对于不在八度边界上重复的音阶或八度音阶内的重复音符很有用。
+
+----------------------------------------
+Editing Global UTILITY Settings
+
+####
+Overview
+The Editor/Libarian can edit most of the settings found under the UTILITY button. (The USB Network setting is an exception.) To do so:
+1. Select the Global UTILITY Settings… command in the Edit menu.
+The Global UTILITY Settings window will open, as shown below.
+2. Edit the settings as desired.
+For details about the settings, please see the wavestate Owner’s Manual.
+3. When you’re done, click the close button (“X”) in the top right corner.
+Important: Edits in this window take place immediately; there is no Cancel button. You can, however, use Reset All To Defaults if necessary.
+
+
+####
+Restoring Defaults
+Reset All To Defaults… This button is in the lower left corner of the window. It lets you restore all of the settings under the UTILITY button, such as the MIDI CC assignments, to their factory defaults.
+Pressing the button brings up a confirmation dialog. Press OK to restore default settings, or Cancel to exit.
+
+----------------------------------------
+编辑全局 UTILITY 设置
+
+####
+概述
+编辑器/Libarian 可以编辑 UTILITY 按钮下的大多数设置。（USB 网络设置除外。）操作方法：
+1. 在编辑菜单中选择全局 UTILITY 设置...命令。
+全局 UTILITY 设置窗口将打开，如下所示。
+2. 根据需要编辑设置。
+有关设置的详细信息，请参阅 wavestate 用户手册。
+3. 完成后，单击右上角的关闭按钮（“X”）。
+重要提示：此窗口中的编辑会立即生效；没有取消按钮。但是，如果需要，您可以使用全部重置为默认值。
+
+####
+恢复默认值
+全部重置为默认值...此按钮位于窗口的左下角。它允许您将 UTILITY 按钮下的所有设置（例如 MIDI CC 分配）恢复为出厂默认设置。
+按下按钮将出现确认对话框。按“确定”恢复默认设置，或按“取消”退出。
+
+****************************************
+				Windows
+This section provides a brief explanation of the wavestate Editor/Librarian’s screens and their functions.
+
+----------------------------------------
+Main Window
+This is the central window for the wavestate Editor/Librarian. It has two basic states, controlled by the buttons at the top right: Editor and Librarian.
+
+----------------------------------------
+Librarian
+This shows lists of all the data on the connected wavestate.
+
+Current Performance
+This shows the Performance currently active on the connected wavestate. This will update if you change the
+Performance on the wavestate, or if you select a Performance using the Editor/Librarian. For more information, see
+“Performance Selection” on page 23.
+LIBRARIAN and EDITOR buttons
+The buttons in the upper right of the main window select whether you’re working with the Editor or the Librarian.
+Search Field
+This filters the list by searching for text in any of the metadata fields.
+Lock icons: factory data is write-protected
+All of the data shipped from the factory is write-protected, including Performances, Programs, Effects presets, and so
+on. This is shown by the lock icons in the list and at the top of the Inspector panel. Factory sounds can’t be deleted, and their original versions can’t be changed, including metadata such as name, author etc. However, you can duplicate them
+and then edit however you’d like.
+Data Type menu
+The list can show the Performances, Programs, Wave Sequences, Wave Sequence Lane presets, Scales, Effects presets,
+and Set Lists on the connected wavestate. These tabs choose which type(s) of data are shown in the list. All Data shows
+all types of data at once.
+Metadata columns
+For each item, the list shows the Type, Name, Collection, Category, Author, Notes, and Created and Modified dates,
+as well as whether or not the item is locked factory data. You can drag the top of the columns to re-arrange them, or to
+resize the columns.
+Click on a column heading to sort; click again to reverse the sort order. The triangle icon shows which column is
+selected for sorting, and the direction of the triangle (up or down) shows the sort order.
+Info Panel
+This panel lets you view and edit the metadata for the selected items, including the Name, Collection, Categories 1 & 2,
+Author, and Notes. If more than one item is selected, and the items have different settings for a metadata field (such as
+the name or category), the field shows the note “<Multiple Values.>”
+If the lock icon is shown, the selection includes factory data, and the fields cannot be edited. You can, however, copy
+text to paste elsewhere.
+The Info panel can be resized by dragging its left edge.
+Categories
+Categories let you filter by the type of sound, such as basses, leads, bells, etc. Each sound can be assigned to two
+Categories, and each data type—Performances, Programs, etc.—has its own list of Categories. Click on a Category
+name to filter by that Category; click on the “X” to de-select all Categories.
+When searching by Category, a sound will be shown if either of its Categories match the search criteria.
+Collections
+Categories let you filter sounds by group, such as factory sounds, expansion packs, or your own projects. Each sound
+can be assigned to one Collection. Click on a Collection name to filter by that Collection; click on the “X” to de-select
+all Collections.
+List and selection
+This list shows the contents of the connected wavestate, as filtered by the data type tabs and search field.
+Click on an item in the list to select it. Selecting Performances and Set Lists can, optionally, also select them on the
+connected wavestate. For more information, see “Preferences” on page 23.
+Select multiple non-continuous items by holding down the command key on MacOS, or the Ctrl key in Windows. You
+can also select a range of items by using Shift.
+
+
