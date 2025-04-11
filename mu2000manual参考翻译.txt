@@ -1,0 +1,83 @@
+mu 2000  OWNER'S MANUAL
+
+Thank you for purchasing the Yamaha MU2000 Tone Generator.
+The MU2000 is an XG-compliant sound module that combines Yamaha's unique AWM2 engine and the high-quality sound of the latest effects. In addition, it is compatible with the Modular Synthesis Plug-in System and the XG Plug-in system, and you can freely expand the tone generator system and effects by installing a plug-in board.
+
+By including wave and sequence memory in the main unit, it has become a multi-functional sound source that combines the functions of a sampler and a sequencer, allowing for sampling and the loading and playing back of standard MIDI files.
+
+Enjoy the sounds and samples of the AWM2 sound source as an extension module for synthesizers and keyboards, and as a tone generator for computers and sequencers.
+
+In order to take full advantage of the superior functions of the MU2000, we hope that you will make use of this manual.
+
+Please keep the manual in a safe place after reading it, in case you have any questions.
+
+感谢您购买 Yamaha MU2000 音源。
+MU2000 是一款 XG 兼容音源模块，结合了 Yamaha 独特的 AWM2 引擎和最新效果的高品质声音。此外，它还兼容模块化合成插件系统和 XG 插件系统，您可以通过安装插件板自由扩展音源系统和效果。
+
+通过在主机中包含波形和序列内存，它已成为一个多功能声源，结合了采样器和音序器的功能，允许采样以及标准 MIDI 文件的加载和播放。
+
+作为合成器和键盘的扩展模块，以及计算机和音序器的音源，您可以享受 AWM2 声源的声音和样本。
+
+为了充分利用 MU2000 的卓越功能，我们希望您能使用本手册。
+
+阅读后，请将手册保存在安全的地方，以防您有任何问题。
+
+MU2000 features
+Standard sound source for multimedia with excellent compatibility The MU2000 is an XG and GM System Level 2 compliant sound source. Song data with the XG, GM, and GM2 logos can be faithfully played back. In addition, the MU2000 has wide compatibility thanks to its multiple instrument modes. As a result, your song data can now be played back with better sound.
+
+64 part architecture with 128-note polyphony The MU2000 is a multitimbral tone generator with 64 parts and a maximum polyphony of 128 notes. A single MU2000 can reproduce large ensembles such as big bands and full orchestras.
+
+1396 built-in Normal voices and 58 Drum Kit voices The MU2000 contains a wide variety of high-quality preset sounds from the AWM2 tone generator. Voice category buttons allow you to easily select sounds.
+
+Equipped with Modular Synthesis Plug-in System and XG Plug-in system connectors The Modular Synthesis Plug-in System and XG Plug-in system are tone generator expansion architectures where the tone generator and effects capabilities can be increased by attaching an optional Plug-in board to a built-in expansion connector. By installing these boards, you can dramatically expand the functions of the MU2000. A large number of expansion boards equipped with newly developed sound sources and effects are available.
+
+MU2000 功能
+
+多媒体标准音源，兼容性极佳 MU2000 是符合 XG 和 GM 系统 2 级标准的音源。带有 XG、GM 和 GM2 徽标的歌曲数据可以忠实播放。此外，由于 MU2000 具有多种乐器模式，因此兼容性广泛。因此，现在可以以更好的声音播放您的歌曲数据。
+
+64 部分架构，128 音符复音 MU2000 是一种多音色音调发生器，具有 64 个部分，最大复音为 128 个音符。单个 MU2000 可以再现大型合奏，例如大乐队和全管弦乐队。
+
+1396 个内置普通声音和 58 个鼓组声音 MU2000 包含来自 AWM2 音调发生器的各种高品质预设声音。语音类别按钮可让您轻松选择声音。
+
+配备模块化合成插件系统和 XG 插件系统连接器 模块化合成插件系统和 XG 插件系统是音源扩展架构，通过将可选插件板连接到内置扩展连接器，可以增强音源和效果功能。通过安装这些板，您可以显著扩展 MU2000 的功能。有大量配备新开发的音源和效果的扩展板可供选择。
+
+Available Modular Synthesis Plug-in System boards:
+PLG150-AN Analog Physical Modeling tone generator simulating an analog synthesizer
+PLG150-VL Virtual Acoustic tone generator capable of advanced expression
+PLG150-DX FM synthesis that reproduces the sound of the DX7
+PLG150-PF A full range of piano sounds
+
+Available XG plug-in boards:
+PLG100-SG Formant sound source that synthesizes human singing voices
+PLG100-VH Vocal harmony effect t that adds harmony to singing voices
+
+The MU2000 has 3 built-in expansion connectors, and can operate 3 Plug-in boards at the same time. The Plug-in system expansion cover on the rear panel is secured with a single screw, and boards can be inserted along the guide rails for easy installation.
+
+可用的模块化合成插件系统板：
+PLG150-AN 模拟物理建模音调发生器，模拟模拟合成器
+PLG150-VL 具有高级表达能力的虚拟声学音调发生器
+PLG150-DX FM 合成，再现 DX7 的声音
+PLG150-PF 全音域钢琴音色
+
+可用的 XG 插件板：
+PLG100-SG 共振峰声源，合成人类歌声
+PLG100-VH 人声和声效果，为歌声增添和声
+
+MU2000 有 3 个内置扩展连接器，可同时操作 3 个插件板。后面板上的插件系统扩展盖用一颗螺丝固定，可沿导轨插入板，安装方便。
+
+Detailed tone editing capabilities to match the music By editing parameters such as filter,EG and vibrato,you can freely change the sound.
+
+Equipped with a variety of effect functions using high-performance DSP The Mu2o00 has seven built-in digital effect processors: A Reverb block that gives the sound anatural reverberation, a Chorus block that gives a pleasant expanse, a Variation block with acollection of special effects that can suit a variety of musical expressions, and four lnsertionblocks (1-4).You can make detailed settings for each effect, greatly expanding the range ofsong creation.The variety of effect types has also been greatly enhanced, especially for thelnsertion effects, which now count 97 types, more than double that of the MU128.
+
+Equipped with a 5-band digital equalizer that can be set according to the music genre The MU2000 is equipped with a 5-band digital equalizer that allows you to adjust the soundaccording to the sound field.The equalizer has presets for genres such as jazz, pops andclassical, so you can set the optimum settings simply by selecting the genre you want to play.
+
+Expandable voice architecture with sampling function
+Up to 4MB of sampled sounds can be stored in the internal wave memory.Also, using the Mem-ory Card drive of the main unit, you can read files such as MU sampling exclusive files and wAv,AIFF and DLS files.Up to 256 normal voices + 4 drum kit sounds can be created.
+
+Play MIDl files independently with the simple sequencer functions 
+Using the MU SEQ Player function, it is now possible to play MIDl files using only the Mu2000 it-self.
+
+Equipped with a memory card drive 
+Using a Smart Media memory card, you can load and save sampling data and MIDl files.
+
+Equipped with 16-bit A/D inputs Signals input via the MU2000's two monaural A/D input jacks are converted (analog/digital 16-bit),processed by the built-in digital effects as well as adjusted with EQ, volume, pan, etc., mixed withthe MU2000's 64-part signals, and sent to the outputs. By using this function, you can connect amic to the A/D input to apply an echo, connect a guitar to apply distortion or flanger, or connect abass to apply a compressor.

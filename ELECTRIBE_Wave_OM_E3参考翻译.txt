@@ -1,0 +1,244 @@
+Thank you for purchasing the KORG ELECTRIBE Wave Music Production Machine. To help you get the most out of your new instrument, please read this manual carefully.
+感谢您购买 KORG ELECTRIBE Wave 音乐制作机。为了帮助您充分利用新乐器，请仔细阅读本手册。
+
+******************************************
+
+Main Features
+The ELECTRIBE Wave is a completely new version of the ELECTRIBE series, featuring a newly-developed wavetable sound generator. While retaining the same easy-to-use operability of the current ELECTRIBE series, the ELECTRIBE Wave allows you to experience a new kind of music production that lets you directly modify the unique wavetable sound generator parame- ters by hand.
+主要特点
+ELECTRIBE Wave 是 ELECTRIBE 系列的全新版本，具有新开发的波表声音发生器。在保留当前 ELECTRIBE 系列的易用性的同时，ELECTRIBE Wave 让您体验一种全新的音乐制作方式，让您可以直接手动修改独特的波表声音发生器参数。
+
+The ease of use, accessibility, sound, and musicality of the ELECTRIBE reach new heights in this latest software version which features a powerful wavetable sound source, a “QuickInput” sequencer and a convenient chord pad that allows you to play a chord with one finger. Even if you aren’t a musical virtuoso, with the ELECTRIBE Wave you can create state-of-the-art  dance music like EDM, Future Bass.
+ELECTRIBE 的易用性、可访问性、声音和音乐性在最新软件版本中达到了新的高度，该版本具有强大的波表音源、“QuickInput”音序器和方便的和弦板，可让您用一根手指弹奏和弦。即使您不是音乐大师，您也可以使用 ELECTRIBE Wave 创作最先进的舞曲，如 EDM、Future Bass。
+
+What’s a wavetable sound generator?
+A wavetable sound generator is a method of creating sound by looping the playback of short clips of audio data (such as PCM data and basic waveforms). The frequency (pitch) of a sound is determined by how fast the audio data is played back. The tonal color (harmonics) is based on the elements found in the audio data waveform.
+什么是波表声音发生器？
+波表声音发生器是一种通过循环播放音频数据（如 PCM 数据和基本波形）短片段来创建声音的方法。声音的频率（音高）由音频数据的播放速度决定。音调（谐波）基于音频数据波形中的元素。
+
+How the ELECTRIBE Wave is structured
+About the parts 
+The ELECTRIBE Wave features eight synth parts and eight drum parts. You can switch between the parts by using the selector button at the bottom of the screen.
+ELECTRIBE Wave 的结构
+关于部件
+ELECTRIBE Wave 有八个合成器部件和八个鼓部件。您可以使用屏幕底部的选择器按钮在部件之间切换。
+
+Synth Part
+• 8-part structure
+• Includes a PCM oscillator
+• IFX provided for each part
+合成器部分
+• 8 部分结构
+• 包括一个 PCM 振荡器
+• 为每个部分提供 IFX
+
+Sequencer
+• Polyphonic sequencer with detailed editing capabilities
+• Features a GROOVE function to add a natural groove feel for each part (only for drum parts)
+音序器
+• 具有详细编辑功能的复音音序器
+• 具有 GROOVE 功能，可为每个声部添加自然的凹槽感（仅适用于鼓声部）
+
+Motion sequences
+• Motion sequences, familiar to users of the ELECTRIBE series
+• Features “smooth” and “trigger hold,” selectable according to the motion used
+运动序列
+• ELECTRIBE 系列用户熟悉的运动序列
+• 具有“平滑”和“扳机保持”功能，可根据使用的动作进行选择
+
+Mixer
+• Mixer allows you to check the status of each part
+• Mute/solo and MFX can be switched on/off for each part
+• Features master effects (MFX) that can be used during performance
+混音器
+• Mixer 允许您检查每个部分的状态
+• 可以为每个部分打开/关闭静音/独奏和 MFX
+• 具有可在表演期间使用的主效果 （MFX）
+
+
+Quick Start
+Playing the synth
+Play the keyboard and listen to the ELECTRIBE Wave sounds.
+1. Tap the “SYNTH” button located next to the part buttons below the center of the screen.
+弹奏键盘并聆听 ELECTRIBE Wave 声音。
+1. 点击位于屏幕中心下方部分按钮旁边的“SYNTH”按钮。
+
+2. When you play the keyboard that is shown, you will hear sound.
+2. 当您弹奏显示的键盘时，您会听到声音。
+
+3. To switch to the chord pad, press the CHORD PAD button displayed to the right of the keyboard.
+3. 要切换到和弦面板，请按下键盘右侧显示的 CHORD PAD 按钮。
+
+4. To play a different sound, tap the PROGRAM button above to show the sound list.
+4. 要播放不同的声音，请点击上面的 PROGRAM 按钮显示声音列表。
+
+Select the desired sound from the list and tap “OK”. Try playing with the various sounds.
+从列表中选择所需的声音并点击“确定”。尝试播放各种声音。
+
+以下略
+
+
+
+
+
+EFFECT
+The ELECTRIBE Wave features an IFX (insert effect) for each track, as well as a MFX (master effect) that is applied to the master track. 29 types of effects are available, including reverb, delay, distortion and more.
+效果器
+ELECTRIBE Wave 的每个轨道都有一个 IFX（插入效果），以及一个应用于主轨道的 MFX（主效果）。提供 29 种效果，包括混响、延迟、失真等。
+
+Effect List
+1 Bypass			Turns off the effect.
+2 Chorus			Adds a feeling of spaciousness or vibrato tothe sound.
+3 Ensemble			Adds an ensemble effect for a deep, widesound.
+4 Flanger			Mixes a signal of varying pitch with the original sound, to create a swelling sound or add a vibrato feel. 
+5 Phaser			Shifts the phase of the sound to produce a swelling sound or add a stereo feel.
+6 Tremolo			Varies the volume of the input signal, giving a shaking sound.
+7 Auto Pan			Varies the left/right volume of the input signal. Increasing the DEPTH will widen the left-right stereo field.
+8 Pump				Adds a pumping feel to the sound, as if the sound is "jumping up." Can be used to con- trol the attack strength.
+9 Slicer			Gives an effect of the sound being sliced up. Adjust the length of sound using the hold parameter.
+10 Ring Mod			Modulates the sound by adding a metallic reverberation or other distinctive nuances. 
+11 Grain Shifter	Samples a tiny portion of the sound within a certain cycle and plays it back continuously.
+12 Short Delay		Applies a short time-based delay to make the sound seem to lag.
+13 BPM Delay		Applies a long time-based delay to make the sound seem to lag. Synchronizes with the tempo.
+14 Mod Delay		Applies a time-based delay to make the	sound seem to lag. Use this effect for a	swelling or wavering sound.
+15 Room Reverb		Simulates the echoes and presence of a room reverb.
+16 Hall Reverb		A hall-type reverb that simulates the sound	of being in a large hall or stadium.
+17 Gate Reverb		Applies a gate to the reverb output by using the input signal level.
+18 Compressor		Compresses the input signal of the instru-	ment's sound for a punchy feel.
+19 MasterCompressor	Used to achieve greater sound pressure levels or to adjust the final sound level.
+20 Drive			A drive effect is applied to the input signal for a natural booster-type distortion.
+21 Distortion 		A hard distortion effect.
+22 Valve Force		A Virtual Valve Force effect that simulates a vacuum tube for a warmer sound.
+23 Decimator		Lowers the sampling frequency bit count for a grungy sound similar to a cheap sampler.
+24 EQ				A shelving-type equalizer, used to lower or raise the low-end and high-end gain.
+25 Peaking EQ		Raises/lowers the gain on specific frequency bands.
+26 LPH				Allows only the low end of the sound to pass, giving a muffled, full sound.
+27 HPF				Allows only the high end of the sound to pass, giving a sharp, bright sound.
+28 BPF				Cuts out other frequencies aside from a	specific frequency band, emphasizing certain sounds.
+29 Comb Filter		An effect that applies a particular kind of effect to the sound by adjusting the roughness of the filter.
+30 Talking Mod		Adds vowel formants to the input sound for an effect like human speech.
+
+效果列表
+1 直通 关闭效果。
+2 合唱 为声音添加空间感或颤音。
+3 Ensemble 添加一个 ensemble 效果器，以获得深沉、宽广的声音。
+4 镶边 将不同音高的信号与原始声音混合，以创建膨胀的声音或添加颤音感觉。
+5 Phaser 移动声音的相位以产生膨胀的声音或添加立体声感觉。
+6 Tremolo 改变输入信号的音量，发出晃动的声音。
+7 自动声相 改变输入信号的左/右音量。增加 DEPTH 将拓宽左右立体声场。
+8 Pump 为声音添加抽吸感，就像声音 “跳起来” 一样。可用于控制攻击强度。
+9 Slicer 提供声音被切片的效果。使用 hold 参数调整声音的长度。
+10 Ring Mod 通过添加金属混响或其他独特的细微差别来调制声音。
+11 Grain Shifter 在某个周期内对声音的一小部分进行采样，并连续播放。
+12 短延迟 应用基于短时间的延迟，使声音看起来滞后。
+13 BPM 延迟 应用基于长时间的延迟，使声音看起来滞后。与速度同步。
+14 Mod Delay（调制延迟） 应用基于时间的延迟，使声音看起来滞后。将此效果用于膨胀或摇摆的声音。
+15 Room Reverb 模拟 Room 混响的回声和存在。
+16 Hall Reverb（16 霍尔混响）：一种大厅类型的混响，用于模拟在大型大厅或体育场中的声音。
+17 Gate Reverb （门限混响） 通过使用输入信号电平将门限应用于混响输出。
+18 压缩器 压缩仪器声音的输入信号以获得有力的感觉。
+19 MasterCompressor 用于实现更高的声压级或调整最终的声级。
+20 驱动 将驱动效果应用于输入信号，以实现自然的增强器类型失真。
+21 Distortion （扭曲） 一种硬性扭曲效果。
+22 Valve Force  一种虚拟的 Valve Force 效果器，用于模拟真空管以获得更温暖的声音。
+23 抽取器 降低采样频率位数，以获得类似于廉价采样器的邋遢声音。
+24 EQ 搁架式均衡器，用于降低或提高低端和高端增益。
+25 峰值均衡器 提高/降低特定频段的增益。
+26 LPH 仅允许声音的低频端通过，从而产生低沉、饱满的声音。
+27 HPF 仅允许声音的高频端通过，从而产生尖锐、明亮的声音。
+28 BPF 去掉除特定频段之外的其他频率，强调某些声音。
+29 梳状滤波器 一种通过调整滤波器的粗糙度对声音应用特定类型效果的效果。
+30 Talking Mod 将元音共振峰添加到输入声音中，以获得类似于人类语音的效果。
+
+******************************************
+SETTINGS
+These are global settings that pertain to the ELECTRIBE Wave overall, Bluetooth MIDI, transpose, MIDI synchronization and so on.
+设置
+这些是与 ELECTRIBE Wave 整体、蓝牙 MIDI、转调、MIDI 同步等相关的全局设置。
+
+插图略
+
+Blutooth MIDI
+From this menu, you can select the Bluetooth MIDI device (microKEY Air, nanoKONTROL Studio, nanoKEY Studio, etc.) to connect to. Select your Bluetooth MIDI device in order to use it.
+蓝牙 MIDI
+从此菜单中，您可以选择要连接的蓝牙 MIDI 设备（microKEY Air、nanoKONTROL Studio、nanoKEY Studio 等）。选择您的蓝牙 MIDI 设备即可使用它。
+
+MIDI In Mode
+..................................................................................Easy, Advanced
+Select the MIDI input setting mode.
+Easy: MIDI input is enabled for the selected part.
+Advanced: The part corresponding to the input MIDI channel will be played. Ch 1–8 correspond to S1–S8, and note numbers C2–G2 of Ch 10 correspond to D1–D8, respectively.
+
+MIDI 输入模式
+.................................................................................简单、高级
+选择 MIDI 输入设置模式。
+简单：所选部分启用 MIDI 输入。
+高级：将播放与输入 MIDI 通道对应的部分。Ch 1–8 对应 S1–S8，Ch 10 的音符编号 C2–G2 分别对应 D1–D8。
+
+MIDI Sync
+.................................................................................Int, Ext, Auto
+The setting for MIDI clock synchronization between the iOS device running ELECTRIBE Wave and the connected external MIDI device can be specified. Tap “Int”, “Ext” or “Auto” from “MIDI Sync” to select the setting.
+Int: The ELECTRIBE Wave operates using its internal clock.
+Select this setting when ELECTRIBE Wave is used by itself or when an external MIDI device is synchronized to the iOS device as the Master (controlling side).
+Ext: The ELECTRIBE Wave synchronizes to the MIDI clock of the connected external MIDI device.
+Auto: Normally, this works the same as “Int”. If the ELECTRIBE Wave receives a MIDI clock from the connected external MIDI device, the operation automatically switches to
+“Ext”.
+
+MIDI 同步
+................................................................................Int、Ext、Auto
+可以指定运行 ELECTRIBE Wave 的 iOS 设备与所连接的外部 MIDI 设备之间的 MIDI 时钟同步设置。点击“MIDI 同步”中的“Int”、“Ext”或“Auto”以选择设置。
+Int：ELECTRIBE Wave 使用其内部时钟运行。
+当 ELECTRIBE Wave 单独使用或外部 MIDI 设备作为主设备（控制端）与 iOS 设备同步时，请选择此设置。
+Ext：ELECTRIBE Wave 与所连接的外部 MIDI 设备的 MIDI 时钟同步。
+Auto：通常，其工作方式与“Int”相同。如果 ELECTRIBE Wave 从所连接的外部 MIDI 设备接收到 MIDI 时钟，则操作会自动切换到
+“Ext”。
+
+Ableton Link
+Ableton Link is technology for synchronizing beats, phrases and tempos of Ableton Live and a Link-enabled iOS app via a wire- less network.
+This gives you the freedom to play from multiple devices, like in a live band. While someone is playing, other members can participate in the performance so that everyone can follow along on their devices and even change the tempo.
+Using apps with Ableton Link built in, you can play together in time from multiple devices or from multiple apps used simulta- neously on the same device.
+Ableton Link: This switches the function on/off.
+In-app notification: This displays a message when an app compatible with Ableton Link is connected.
+Connected Apps: This displays the number of currently con- nected apps.
+
+Ableton Link
+Ableton Link 是一种通过无线网络同步 Ableton Live 和支持 Link 的 iOS 应用程序的节拍、乐句和节奏的技术。
+这让您可以自由地从多个设备演奏，就像在现场乐队中一样。当有人在演奏时，其他成员可以参与表演，这样每个人都可以在自己的设备上跟随演奏，甚至改变节奏。
+使用内置 Ableton Link 的应用程序，您可以从多个设备或在同一设备上同时使用的多个应用程序一起演奏。
+Ableton Link：这将打开/关闭该功能。
+应用内通知：当连接与 Ableton Link 兼容的应用程序时，这将显示一条消息。
+已连接的应用程序：这将显示当前连接的应用程序的数量。
+
+CC Learn
+(¬ p.51 “CC assign”)
+
+CC 学习
+（¬ 第 51 页“CC 分配”）
+
+Pattern/Song
+This function backs up or restores the pattern/song data to your iOS device.
+Backup: Backs up the pattern/song data to your iOS device.
+Restore: Select the data you backed up in your iOS device to restore the app to the condition when you made the backup.
+Factory Reset: Initializes the pattern/song data to the factory default state.
+note Use caution, since all data will be initialized when you execute the factory reset command.
+
+图案/歌曲
+此功能可将图案/歌曲数据备份或恢复到您的 iOS 设备。
+备份：将图案/歌曲数据备份到您的 iOS 设备。
+恢复：选择您在 iOS 设备中备份的数据，将应用程序恢复到备份时的状态。
+恢复出厂设置：将图案/歌曲数据初始化为出厂默认状态。
+注意请谨慎使用，因为执行恢复出厂设置命令时所有数据都将被初始化。
+
+Other Settings
+This displays the iOS settings screen for ELECTRIBE Wave. This allows you to specify settings for audio latency, background audio, etc.
+
+其他设置
+这将显示 ELECTRIBE Wave 的 iOS 设置屏幕。这允许您指定音频延迟、背景音频等设置。
+
+*************************************************
+				Appendix
+Scale list
+
+Groove Type List
+
+

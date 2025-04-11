@@ -858,6 +858,7 @@ SEE: AGGRESSION, FIGHT.
 4.52 Attainment
 These words, as here considered, refer to a capability resulting, at least in part, from conscious effort. All are frequently used in the plural. Attainment is the loftiest term. It implies a fully developed talent which leads to eminence in the arts, in science or in some comparable field of endeavour: Bertrand Russell is not only a distinguished philosopher but also a man of high literary attainments. Accomplishment, in this sense, refers to any ability or manner acquired from practice or experience; specifically, accomplishments are social graces meant to please or entertain. [In the 19 th century, a young woman of many accomplishments might sing, play the piano and paint; Skill in dancing and the ability to make small talk are accomplishments considered desirable by most adolescents.]
 
+4.52 成就
 这些词，正如这里所考虑的，是指至少部分地通过有意识的努力而产生的能力。所有这些词都经常以复数形式使用。成就是最崇高的术语。它意味着充分发展的才能，使人在艺术、科学或某些类似的领域中取得杰出成就：伯特兰·罗素不仅是一位杰出的哲学家，而且还是一位具有很高文学造诣的人。从这个意义上讲，成就是​​指从实践或经验中获得的任何能力或举止；具体而言，成就是旨在取悦或娱乐的社交风度。[在 19 世纪，一个多才多艺的年轻女性可能会唱歌、弹钢琴和画画；舞蹈技巧和闲聊能力是大多数青少年认为可取的成就。]
 
 An acquirement is a skill gained by study or practice rather than through natural talent. Where accomplishments may be showy and impressive, acquirements are substantial and useful: The ability to read Sanskrit is an acquirement rarely found even among scholars. Acquisition usually refers to a newly obtained material possession, especially one of intrinsic its rare-book acquisitions. Acquisition may also apply to the attainment of a quality, skill or body of knowledge that is valuable in itself: Self-discipline is an invaluable acquisition.
@@ -4294,8 +4295,122 @@ Sink may also suggest the fading away of energy or consciousness or a gradual de
 SEE: DECREASE.
 ANTONYMS: CLIMB, increase, lift, soar.
 
-4.247 Descent
+4.237 Descent
+These words may designate, collectively, those from whom one is descended or may indicate characteristics inherited from them.
+Descent is the most general word. It is frequently used to refer to the nationality, race or ethnic characteristics of one’s immediate forebears: a woman of Swedish descent. Ancestry refers most strictly to all one’s progenitors on both sides: He could trace his ancestry all the way back to William the Conqueror. It may also like descent, mean ancestral derivation of whatever kind: a youth of royal ancestry; a mongrel of dubious ancestry. Unlike descent, however, ancestry sometimes points specifically to noble or distinguished forebears: He thought he was better than other people because of his ancestry. Lineage emphasizes a direct line of descent from a particular ancestor. It may embrace in one family, for purposes of genealogy, all the descendants of such a progenitor: St. Joseph was of the house and lineage of David. Lineage, however, excludes all other branching of the family tree. Many people are of the lineage of William the Conqueror, but the rest of their ancestry varies so greatly that their being of William’s lineage has relatively little significance in accounting for their individual characteristics.
 
+4.237 血统
+这些词可以统称某人的后裔，也可以表示从他们那里继承的特征。
+血统是最常用的词。它经常用来指某人直系祖先的国籍、种族或民族特征：瑞典血统的女性。祖先最严格地指某人双方的所有祖先：他可以追溯到征服者威廉的祖先。它也可能像血统一样，表示任何类型的祖先来源：皇室血统的年轻人；血统可疑的杂种。然而，与血统不同的是，祖先有时专门指高贵或杰出的祖先：他认为由于自己的血统，他比其他人更好。血统强调来自特定祖先的直接血统。为了谱系的目的，它可能包括这样一个祖先的所有后代：圣约瑟夫是大卫家族和血统的后代。然而，血统排除了家谱的所有其他分支。许多人是征服者威廉的血统，但他们祖先的其他部分差异很大，以至于他们是否属于威廉的血统对于解释他们的个人特征意义不大。
+
+Pedigree stresses notable ancestry that is documented in detail and that usually includes many outstanding forebears. It may also refer to a list or table of descent, often a genealogical register of an animal. [A pedigreed pet is one of pure breed; Many dog owners are prouder of their pets pedigree than they are of their own.]
+
+家谱强调的是详细记录的显赫血统，通常包括许多杰出的祖先。它也可能指血统清单或表格，通常是动物的家谱登记册。[有家谱的宠物是纯种宠物；许多狗主人对他们宠物的血统比对自己的血统更自豪。]
+
+SEE: ANCESTOR, KIN.
+
+4.238  Desecration
+These words all refer to irreverent or improper acts. Desecration is the opposite of consecration. It indicates the dishonoring of something sacred by wrongful use or irreverent treatment and it commonly implies a conscious or intentional act. Specifically, the word often points to the deliberate degrading, damaging or destroying of a religious building or place: The stabling of horses in a church would be a desecration; the desecration of Jewish synagogues and cemeteries by the Nazis. Outside a religious context, desecration may suggest the contemptuous abuse of anything that is held dear or regarded as sacred: a desecration of our country’s flag. Profanation is a milder word than desecration and is less commonly used. It may or may not involve physical abuse of a sacred place but focuses on a lack of proper respect or a callous or shocking act of irreverence: the profanation of a shrine by thoughtless sightseers; a cult that considered it a profanation to visit its temple without a full day of fasting. Literally, profanation suggests a reduction of something sacred to the level of the secular; but the word has few general uses outside the religious context.
+
+Sacrilege comes from a Latin word meaning temple robber. In a theological sense, it may imply the improper use of a sacrament, as by one unfit to give or receive it. In a broader sense, it often points to an irreligious or taboo act that profanes the sacred character person, place or thing in a shocking way: The primitive tribe considered it a sacrilege to utter the sacred name. Sacrilege is even less concrete than profanation, though, since the irreverence involved can consist of a thought as well as an act and need not occur within religious surroundings: It was deemed a sacrilege to question the witch doctor’s teachings even for a moment.
+
+Defilement suggests the dirtying or profanation of something that should be cherished or kept pure. In a religious sense it may indicate the act of rendering something ceremonially (though not literally) unclean the defilement of the temple by the presence in it of infidels. In a broader sense, it may indicate either a physical or spiritual sullying: the defilement of justice by prejudiced and corrupt officials.
+Debasement is less often used in a religious sense and does not suggest befouling or pollution. Instead, it focuses on a lowering in character, quality or worth: determined to tolerate no debasement, however slight, of the club’s standards. Applied to persons, debasement may indicate a public humiliation, as though verbal attack: the accusations he shouted at her during the formal dinner made his debasement of her complete.
+
+Like desecration and profanation, violation may apply to the irreverent treatment of a sacred thing or holy place: the violation of the shrine by souvenir hunters; the vandals?violation of the sanctuary. But this word more often carries legal connotations than religious ones, suggesting the breaking of a law or a failure to abide by the terms of a binding contract: a violation of the tenancy clause. Outside this specific context it can be used of a sexual attack: medical tests to determine if there had been a sexual violation of the woman. In its most general sense, it can refer to any outrage of decency: a violation of his sense of fair play.
+
+SEE: CRIME, DIRTY, DISGRACE, POLLUTE, WORLDLY.
+ANTONYMS: consecration, purification, sanctification.
+
+4.238 亵渎
+这些词都指不敬或不当行为。亵渎与奉献相反。它表示通过错误使用或不敬对待对神圣之物的不敬，通常意味着有意识或故意的行为。具体来说，这个词通常指的是故意贬低、损坏或摧毁宗教建筑或场所：在教堂里圈养马匹是一种亵渎；纳粹对犹太教堂和墓地的亵渎。在宗教背景之外，亵渎可能暗示对任何珍视或视为神圣的东西的轻蔑滥用：亵渎我们国家的国旗。亵渎是一个比亵渎更温和的词，不太常用。它可能涉及也可能不涉及对神圣场所的身体虐待，但重点是缺乏适当的尊重或冷酷或令人震惊的不敬行为：粗心的观光者亵渎神殿；一个邪教认为，未经整天斋戒就去寺庙是一种亵渎。从字面上看，亵渎意味着将神圣的东西降低到世俗的水平；但这个词在宗教背景之外很少有一般用途。
+
+亵渎来自拉丁语，意为寺庙强盗。在神学意义上，它可能意味着对圣礼的不当使用，例如由不适合给予或接受它的人使用。从更广泛的意义上讲，它通常指的是一种不信教或禁忌的行为，这种行为以令人震惊的方式亵渎了神圣的人、地方或事物：原始部落认为说出神圣的名字是一种亵渎。然而，亵渎比亵渎更不具体，因为所涉及的不敬既可以是思想，也可以是行为，而且不一定发生在宗教环境中：即使是片刻质疑巫医的教义也被视为亵渎。
+
+污秽意味着弄脏或亵渎应该珍惜或保持纯洁的东西。从宗教意义上讲，它可能表示在仪式上（虽然不是字面意义上）使某物变得不洁净的行为，即异教徒出现在寺庙中而造成的玷污。从更广泛的意义上讲，它可能表示身体或精神上的玷污：有偏见和腐败的官员玷污了正义。
+贬低在宗教意义上较少使用，并不意味着污秽或污染。相反，它关注的是性格、品质或价值的降低：决心不容忍俱乐部标准的任何贬低，无论贬低程度多么轻微。应用于人，贬低可能表示公开羞辱，就像口头攻击一样：他在正式晚宴上对她大喊大叫的指责使他对她的贬低更加彻底。
+
+像亵渎和亵渎一样，侵犯可能适用于对神圣事物或圣地的不敬对待：纪念品猎人对神殿的侵犯；破坏者对圣所的侵犯。但这个词更多地带有法律含义而非宗教含义，表示违反法律或不遵守具有约束力的合同条款：违反租赁条款。在这种特定语境之外，它还可用于性侵犯：通过医学测试确定是否对女性进行了性侵犯。在最一般的意义上，它可以指任何有损体面的行为：违反他的公平竞争意识。
+
+参见：犯罪、肮脏、耻辱、污染、世俗。
+反义词：奉献、净化、圣化。
+
+4.239 Despair
+These words refer to a defeated, pessimistic attitude. Despair is the most general and informal of these. It implies the loss or abandonment of hope and may suggest a permanent state of mind or a momentary one bought about by some calamity: lives doomed to want and uncreative despair; their silent despair at having lost the election.
+It may also refer specifically to pessimism about the future, whether momentary or permanent: a growing despair of ever getting a salary rise. Hopelessness relates exclusively to this last possibility of despair, implying a pessimism more deep-seated and long lasting: the utter hopelessness with which she regarded her narrow range of choices.
+The word may also suggest that someone’s present position is extremely imperilled with or without his realizing it: they were not yet aware of the hopelessness of their situation, given the lack of fresh water on the lifeboat.
+
+Discouragement and dejection are much milder words than the others of this group. They restrict themselves to one possibility of despair in that they pertain almost exclusively to a let-down feeling at some misfortune or rebuff: the understandable discouragement with which he took the dismissal of his application; in constant dejection ever since his girl went away. Dejection is a state of existence, while discouragement most often suggests a response to the thwarting of frustration of an on-going process of effort; it can be momentary (as above), gradual or total: growing discouragement with his life that he couldn’t even explain or analyse. Despondency and depression also pertain to a thwarted or frustrated feeling, but are more intense than discouragement or dejection in suggesting more strictly a sense of total defeat that is expressed in lethargy, introversion and apathy: days of despondency in which he hardly bothered to get out of bed; a long period of depression before the first suicide attempt. These words relate tangentially to hopelessness in that such thoroughgoing defeat as the words suggest usually implies, as well, a feeling that the future will not improve one’s situation. Of the two, depression is the more intense, probably because it is the medical and psychological term for such a state.
+
+Desperation is unique among these words in suggesting such an intensity of despair that one may easily be goaded into wild, blind or reckless action as a last resort. Thus the word contrasts drastically with despondency and its implications of lethargy: fighting back at his tormentors with the desperation of a cornered rat; willing to risk anything in his seizure of desperation.
+
+SEE: MISERABLE, MISERY, SAD.
+ANTONYMS: CONFIDENCE, encouragement, EXPECTATION,hope, hopefulness, optimism.
+
+4.239 绝望
+这些词指的是一种失败的悲观态度。绝望是最普遍和非正式的。它意味着失去或放弃希望，可能暗示一种永久的精神状态或某种灾难带来的短暂的精神状态：注定要生活匮乏和绝望；他们因选举失败而默默绝望。
+它也可能特指对未来的悲观情绪，无论是暂时的还是永久的：对加薪的日益绝望。绝望只与绝望的最后可能性有关，暗示一种更根深蒂固和持久的悲观情绪：她对自己狭窄的选择范围感到完全绝望。
+这个词也可能暗示某人的当前处境极度危险，无论他是否意识到这一点：由于救生艇上缺少淡水，他们还没有意识到自己处境的绝望。
+
+沮丧和失落是比这组中其他词温和得多的词。它们仅限于绝望的一种可能性，即它们几乎完全与某些不幸或遭到拒绝后的失望感有关：申请被拒时他感到可以理解的沮丧；自从他的女朋友离开后，他一直处于沮丧状态。沮丧是一种存在状态，而沮丧通常表示对正在进行的努力过程中的挫折的反应；它可能是暂时的（如上所述），渐进的或彻底的：对自己的生活越来越沮丧，甚至无法解释或分析。沮丧和抑郁也与受挫或受挫的感觉有关，但比沮丧或沮丧更强烈，更严格地表示一种彻底失败的感觉，表现为昏睡、内向和冷漠：沮丧的日子，他几乎懒得起床；第一次自杀企图前的很长一段时间抑郁。这些词与绝望有间接关系，因为这些词所暗示的彻底失败通常也意味着一种未来不会改善自己处境的感觉。在这两个词中，抑郁更为强烈，可能是因为它是医学和心理学上用来描述这种状态的术语。
+
+绝望在这些词中是独一无二的，它暗示了绝望的强烈程度，以至于一个人很容易被激怒，在不得已的情况下采取疯狂、盲目或鲁莽的行动。因此，这个词与沮丧及其昏昏欲睡的含义形成了鲜明的对比：像被逼到绝境的老鼠一样绝望地反击折磨者；在绝望中愿意冒任何风险。
+
+参见：痛苦、苦难、悲伤。
+反义词：信心、鼓励、期望、希望、充满希望、乐观。
+
+4.240 Despise
+These words refer to a strong contempt or revulsion towards something. Despise indicates intense aversion or moral disapproval: I despise situation comedies; those of us who despise bigotry. Loathe focuses mainly on aversion or dislike: Her husband simply loathed her cooking. Abhor, by contrast, is stronger in suggesting outright hatred and hence extends to moral opprobrium better than loathe, which has been weakened by its extensive use for simple distaste: abhorring the smug, priggish suburbanite and his moral hypocrisy.
+
+Disdain suggests a feeling of superiority towards something or someone else; consequently, the word can suggest an unwarranted self-righteousness in addition to its reference to distaste: an airy disdain for all those less well-educated than she was. Scorn is a much stronger substitute for disdain, suggesting a haughty rejection or denunciation: scorning his proposal as though nothing could have been more repugnant to her.
+
+SEE: CONTEMPTUOUS, ENMITY, REPULSIVE.
+ANTONYMS: admire, adore, appreciate, like, LOVE, RESPECT.
+
+4.240 鄙视
+这些词表示对某事的强烈蔑视或厌恶。鄙视表示强烈的厌恶或道德上的不赞同：我鄙视情景喜剧；我们这些鄙视偏见的人。厌恶主要集中在厌恶或不喜欢：她的丈夫简直讨厌她做的饭。相比之下，厌恶在暗示彻底的仇恨方面更强烈，因此比厌恶更能延伸到道德上的谴责，厌恶因广泛用于简单的厌恶而被削弱：厌恶自鸣得意、自命不凡的郊区人及其道德上的虚伪。
+
+蔑视表示对某事或某人的优越感；因此，除了指厌恶之外，这个词还可以暗示一种毫无根据的自以为是：对所有受教育程度不如她的人的轻率蔑视。蔑视是蔑视的更强烈的替代词，表示傲慢的拒绝或谴责：蔑视他的求婚，好像没有什么比这更让她反感的了。
+
+参见：轻蔑、敌意、令人厌恶。
+反义词：钦佩、崇拜、欣赏、喜欢、爱、尊重。
+
+4.241 Despotic
+These words suggest repressive rule by a single person or group.
+Despotic is the clearest of these words in its disapproving indication of repressiveness and unrestrained power. Once this was not always true as the phrase benevolent despotism indicates. Now it more uniformly suggests a harsh and cruel wielding of power: despotic parents; a despotic leader. Dictatorial refers more neutrally to unrestrained power, usually in the hands of a single person, and can apply whether this power is used fairly or harshly: a dictatorial régime that took over from the corrupt democracy that preceded it. The word does, of course, often carry the same disapproval as despotic and can imply the same harshness of rule: the reign of terror during Stalin’s dictatorial leadership of the Soviet Union.
+
+Tyrannical can suggest the arbitrary and abusive exercise of power concentrated in the hands of a single person; it is now less used to refer to government than to any mishandling of authority: a tyrannical office manager; a tyrannical union leader. Tyrannous is less commonly used than tyrannical, except for rhetorical flourish; it might refer to a whole situation rather than to a person: tyrannous laws.
+
+Autocratic is the most neutral of these words, indicating one-person rule and referring descriptively to such a person’s absolute power rather than to how he exercises it: an autocratic father. Context can, of course, give the word a disapproving flavour: an arrogant and autocratic chief secretary.
+
+SEE: AUTHORITARIAN, CRUEL, OVERBEARING.
+ANTONYMS: COMPLIANT, conciliatory, democratic, LAWFUL, representative.
+
+4.241 专制
+这些词表示由一个人或一个团体进行的镇压性统治。
+专制是这些词中最明显的，它表示镇压性和不受约束的权力。过去，这并不总是正确的，正如短语仁慈专制所表明的那样。现在，它更一致地表示权力的严厉和残酷：专制的父母；专制的领导人。独裁更中性地指不受约束的权力，通常掌握在一个人手中，无论这种权力是公平还是严厉地使用，都可以适用：独裁政权接管了之前的腐败民主。当然，这个词通常带有与专制相同的反对意味，可以暗示同样严厉的统治：斯大林独裁领导苏联期间的恐怖统治。
+
+暴政可以暗示权力集中在一个人手中的任意和滥用；现在，它不再用来指政府，而是用来指任何滥用权力的行为：专制的办公室经理；专制的工会领袖。除了修辞手法外，Tyrannous 的使用频率低于 tyrannical；它可能指的是整个情况，而不是一个人：暴虐的法律。
+
+独裁是这些词中最中性的，表示一人统治，描述性地指代这种人的绝对权力，而不是他如何行使权力：专制的父亲。当然，上下文可以给这个词一种不赞同的味道：傲慢专制的首席秘书。
+
+参见：专制、残酷、霸道。
+反义词：顺从、和解、民主、守法、代表。
+
+4.242 Destiny
+These words refer to a situation or outcome as though it were fixed or predetermined. Destiny is the most general and lease specific of these. It can suggest an occult prearrangement of the future: No man can escape his destiny. At the other extreme, it can refer simply to a result without suggesting any forces at work beyond cause and effect: Parliament meeting to decide the destiny of the abortion reform law.
+Fate, by contrast, is much stronger in implications of a deterministic pattern. Where destiny might point to a desired goal without rejecting the notion of free will, fate points to an outcome, good or bad, as though choice, chance or cause and effect played no part in its working out: Oriental religions that advise man to accept his fate without bitterness. Even when weakened by use to refer merely to result the word often suggests an unpleasant outcome: mountain-climbers who met a disastrous fate.
+
+4.242 命运
+这些词指的是好像是固定的或预先确定的情况或结果。命运是其中最普遍、最不具体的。它可能暗示着未来的神秘预定：没有人能够逃脱自己的命运。在另一个极端，它可以仅仅指结果，而不暗示任何超越因果关系的力量：议会开会决定堕胎改革法的命运。
+相比之下，命运在确定性模式的含义方面要强大得多。命运可能指向一个期望的目标，但不否定自由意志的概念，而缘分则指向一个结果，无论好坏，仿佛选择、机会或因果在其运作中没有发挥任何作用：东方宗教建议人们坦然接受自己的命运。即使这个词被弱化用于仅指结果，它通常也暗示着不愉快的结果：登山者遭遇了灾难性的命运。
+
+Fortune suggests a future determined by luck or chance. By contrast with fate, it often indicates good luck or a pleasant outcome, especially when personified: hoping that fortune would smile on their efforts. A related use refers to a favourable future goal towards which one can work or struggle: going off to seek wealth and fortune. Lot once suggested a fate or fortune that befell one by chance; now, however, it refers mainly to one’s station in life, however, arrived at: peasants whose lot in life was hard and bitter; each person must learn how to bear his lot.
+
+财富表明未来是由运气或机会决定的。与命运相反，它通常表示好运或愉快的结果，尤其是当它被拟人化时：希望幸运之神能够眷顾他们的努力。相关用法指的是人们可以努力或主要奋斗的有利的未来目标：出去寻求财富和运气。承担他的命运。
+
+SEE: CHANCE.
+ANTONYMS: choice, freedom, free will, will.
 
 
 

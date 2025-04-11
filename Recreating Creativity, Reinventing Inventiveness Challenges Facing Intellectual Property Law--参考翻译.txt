@@ -1,0 +1,388 @@
+Recreating Creativity, Reinventing Inventiveness Challenges Facing Intellectual Property Law 
+重塑创造力，重新发明创造力——知识产权法面临的挑战
+
+
+*****************************************
+1	Generative AI in Court
+1 法庭上的生成式人工智能
+
+####
+Introduction
+
+	The spring 2023 sensation “Heart on My Sleeve” has taken the world by storm. Though it bears the unmistakable hallmarks of superstars Drake and The Weeknd, neither artist contributed to the song’s creation. Instead, the track emerged from the power of artificial intelligence, mimicking their iconic voices with uncanny accuracy. Launched by an anonymous TikTok creator, its rapid viral ascent has resulted in millions of streams, yet also ignited signifi- cant copyright concerns. Universal Music Group, representing The Weeknd, has voiced strong opposition to such AI-driven musical creations, challenging the ethics and legality of the technology (Schreckinger 2023). This is not an isolated dispute but rather at the forefront of an escalating debate over intel- lectual property rights in the AI era (ChatGPT is eating the world 2023). The surge in AI’s capabilities in the realm of creativity is remarkable, underscored by the rise of “Generative AI”. Such systems have shown prowess in penning poems, stories, and news pieces; crafting melodies; retouching photos; devis- ing video games; and producing paintings and other artistic visuals. The recent introduction of expansive text-to-image, text-to-music, and text-to-text mod- els, including the likes of Dall-E, Stable Diffusion, Midjourney, Jasper, Chat GPT-3, and MusicLM, signifies a pivotal moment in AI’s progress, under- scoring the immense possibilities in AI-fuelled creativity. Chat GPT-3, an advanced linguistic generative model, generates responses indistinguishable from human interaction based on textual cues. Dall-E, named in homage to both WALL-E and Salvador Dalí, crafts visual artworks from succinct text prompts. 1 Jasper operates akin to an adept copywriter, spinning content akin to seasoned writers from mere headlines (Simonite 2022). Innovation like Google’s MusicLM, which orchestrates intricate music pieces from textual inputs, and ventures like Meta’s Make-A-Video and Google’s Imagen Video, are constantly evolving (Agostinelli et al. 2023; Wilkins 2022).
+	
+####
+引言
+
+2023年春季的热门单曲《Heart on My Sleeve》席卷全球。尽管这首歌带有超级巨星Drake和The Weeknd的标志性特征，但这两位歌手均未参与歌曲的创作。相反，这首歌源于人工智能的力量，以惊人的精准度模仿了两位标志性歌手的声音。这首歌由一位匿名TikTok创作者发布，迅速走红，获得了数百万次的播放量，但也引发了严重的版权担忧。代表The Weeknd的环球音乐集团强烈反对此类人工智能驱动的音乐创作，质疑该技术的伦理和合法性（Schreckinger，2023）。这并非一场孤立的争议，而是人工智能时代知识产权争议的焦点（ChatGPT正在吞噬世界，2023）。人工智能在创造力领域的能力突飞猛进，而“生成式人工智能”的兴起更是锦上添花。这类系统在创作诗歌、故事和新闻报道，创作旋律，修饰照片，开发电子游戏，以及创作绘画和其他艺术视觉作品方面展现出非凡的实力。近期推出的众多文本转图像、文本转音乐和文本转文本模型，包括 Dall-E、Stable Diffusion、Midjourney、Jasper、Chat GPT-3 和 MusicLM 等，标志着人工智能发展的关键时刻，凸显了人工智能赋能创造力的巨大潜力。Chat GPT-3 是一种先进的语言生成模型，它基于文本提示生成与人类交互难以区分的响应。Dall-E 的名字取自《机器人总动员》和萨尔瓦多达利，它能够根据简洁的文本提示创作视觉艺术作品。 1 Jasper 的运作方式类似于一位熟练的文案撰稿人，能够像经验丰富的作家一样，仅凭标题就能创作出内容 (Simonite 2022)。诸如谷歌 MusicLM（可以根据文本输入编排复杂的音乐作品）之类的创新，以及 Meta 的 Make-A-Video 和谷歌 Imagen Video 之类的项目，都在不断发展 (Agostinelli 等人 2023；Wilkins 2022)。
+
+1 See Casey Newton, “How DALL-E could power a creative revolution”, The Verge, 10 June 2022, https://www .theverge .com /23162454 /openai -dall -e -image -generation -tool -creative -revolution; OpenAI, “DALL·E: Creating Images from Text”, OpenAI Blog, 5 January 2021, https://openai .com /blog /dall -e.
+
+	In this context, both cultural and legal spheres are now witnessing clashes between artists, media giants, AI developers, and the tech platforms that host them. Recently, Getty Images has taken legal action against Stability AI, the makers of the AI art tool Stable Diffusion, asserting that the firm unlawfully utilised and processed countless copyrighted images to hone its software. In a separate landmark lawsuit, artists such as Sarah Andersen, Kelly McKernan, and Karla Ortiz initiated an unprecedented class action for copyright infringe- ment against AI solution providers including Stability AI Ltd., Midjourney Inc., and DeviantArt Inc. They contend these entities used vast amounts of copyrighted images without acquiring permissions or providing payment to inform their AI applications (Andersen et al. v. Stability AI Ltd. et al. 2023).
+	在此背景下，文化和法律领域都见证了艺术家、媒体巨头、人工智能开发者以及承载这些开发者的科技平台之间的冲突。最近，Getty Images 对人工智能艺术工具 Stable Diffusion 的制造商 Stability AI 提起了法律诉讼，声称该公司非法使用和处理了大量受版权保护的图像来完善其软件。在另一起具有里程碑意义的诉讼中，Sarah Andersen、Kelly McKernan 和 Karla Ortiz 等艺术家对包括 Stability AI Ltd.、Midjourney Inc. 和 DeviantArt Inc. 在内的人工智能解决方案提供商发起了一场前所未有的版权侵犯集体诉讼。他们认为，这些实体在未获得许可或未支付任何费用的情况下使用了大量受版权保护的图像来为其人工智能应用程序提供信息（Andersen 等人诉 Stability AI Ltd. 等人，2023 年）。
+
+	Furthermore, Sarah Silverman, along with other writers, has filed a lawsuit against OpenAI and Meta, asserting that AI training breached their copy- rights, particularly when enabling users to produce summaries of their literary works. 2 Meanwhile, the U.S. copyright office, the District Court of Columbia, and other courts in multiple jurisdictions have been asked to review the pro- tectability of AI-generated works under the present copyright framework. 
+
+	此外，莎拉·西尔弗曼 (Sarah Silverman) 与其他作家一起对 OpenAI 和 Meta 提起诉讼，声称人工智能训练侵犯了他们的版权，特别是在允许用户制作其文学作品摘要方面。2 与此同时，美国版权局、哥伦比亚特区法院和多个司法管辖区的其他法院已被要求审查现行版权框架下人工智能生成作品的可保护性。
+	
+	The justification at the heart of these cases is two-fold. On one hand, copy- right holders seek to maintain their influence over rapidly advancing technolo- gies, questioning the extent of their control over new tools that repurpose existing content. In addition, given AI’s transformative potential that might impact the landscape of human labour and disrupt the human role in the crea- tive sector, these stakeholders desire safeguards to preserve their market share (Eloundou et al. 2023). Consequently, the integration of traditional copyright systems with AI-driven innovation is attracting significant judicial scrutiny globally (Iglesias Portela, Shamuilia, and Anderberg 2019). AI’s capability to generate content challenges established principles of copyright, authorship, and ownership, prompting pivotal debates over the legitimacy of protecting AI-produced works. Beyond the dilemma of recognising AI as an “author”, courts are grappling also with two other intertwined issues: the potential of AI to violate copyright during its learning phase, and its capacity to produce content that may infringe existing copyrights (Frosio 2022). This chapter aims to thoroughly explore these pressing concerns, which are currently—and will continue to be—presented before courts in multiple jurisdictions, emphasising their global relevance in the era of Generative AI and AI-generated creativity.
+	
+	这些案件的核心理由有两方面。一方面，版权持有者试图保持其对快速发展技术的影响力，质疑其对重新利用现有内容的新工具的控制程度。此外，鉴于人工智能的变革潜力可能会影响人类劳动力格局并颠覆人类在创意领域的角色，这些利益相关者希望获得保障措施以维护其市场份额（Eloundou 等人，2023）。因此，传统版权制度与人工智能驱动的创新的融合正在全球范围内引起严格的司法审查（Iglesias Portela、Shamuilia 和 Anderberg，2019）。人工智能生成内容的能力挑战了既定的版权、作者身份和所有权原则，引发了关于保护人工智能作品合法性的关键辩论。除了承认人工智能为“作者”的困境之外，法院还在努力应对另外两个相互交织的问题：人工智能在学习阶段侵犯版权的可能性，以及其创作可能侵犯现有版权内容的能力（Frosio，2022）。本章旨在深入探讨这些紧迫的问题，这些问题目前（并将继续）在多个司法管辖区的法院面前出现，并强调它们在生成性人工智能和人工智能创造的时代的全球相关性。
+
+2 See Sarah Silverman v. OpenAI, Inc., U.S. District Court for the Northern District of Califor- nia, No. 3:23-cv-03223, filed 7 July 2023, proposed class action, https://www .courtlistener .com /docket /67569254 /silverman -v -openai -inc. See also Paul Tremblay and Mona Awad v.
+Open AI, Inc., U.S. District Court for the Northern District of California, No. […] (filed 28 June 2023), https://copyrightlately .com /pdfviewer /tremblay -v -openai -class -action -com- plaint/ ?auto _viewer =true #page= &zoom =auto &pagemode =none.
+
+3 See infra fn. 113–120.
+
+####
+Rationale: Hold-Out Powers and Market Disruption
+As we embark on an exploration of the burgeoning legal landscape surround- ing Generative AI, two core justifications for the mounting lawsuits against Generative AI platforms become evident. Firstly, copyright holders are striving to retain their foothold in an environment dominated by rapidly progressing technologies. Their primary concern centres around the extent to which they can exert control over these novel tools, particularly when these tools have the capability to repurpose existing content in unprecedented ways. Secondly, the undeniable potential of AI to reshape the dynamics of human labour cannot be overlooked. Human creators yearn for mechanisms to safeguard their mar- ket positions against the sweeping tide of machine-driven creativity. This part of the chapter sets the stage for understanding these motivations, which are driving the wave of litigation against Generative AI platforms.
+
+####
+理由：保留权力与市场扰乱
+随着我们开始探索围绕生成式人工智能蓬勃发展的法律格局，针对生成式人工智能平台的诉讼日益增多，其背后的两个核心理由显而易见。首先，版权持有者正努力在快速发展的技术主导的环境中站稳脚跟。他们主要关注的是自己能在多大程度上控制这些新工具，尤其是当这些工具能够以前所未有的方式重新利用现有内容时。其次，人工智能重塑人类劳动力动态的潜力不容忽视。人类创造者渴望建立机制，以在机器驱动的创造力席卷而来的浪潮中维护自己的市场地位。本章的这一部分将为理解这些动机奠定基础，这些动机正在推动针对生成式人工智能平台的诉讼浪潮。
+
+####
+Hold-Out Powers
+In the wave of recent lawsuits against Generative AI platforms, we observe a recurring theme: copyright law wielded as a strategic instrument to secure or enhance market dominance. Historically, the allure of potential hefty statutory damages, especially in the United States, has often made litigation a more entic- ing route than forging business partnerships. This preference is further bolstered by the inherent unpredictability of fair-use decisions, which can deter newcom- ers, sparking battles over technological innovation and, in turn, encouraging monopolistic tendencies (Johnston 2008, 165; Moore 2007, 944). This raises important concerns about the historical struggle between copyright and innova- tion. This tension has consistently played out in courts, shaping the landscape of creative industries, and determining the extent to which emerging technologies can thrive.
+
+####
+保留权力
+在近期针对生成式人工智能平台的诉讼浪潮中，我们观察到一个反复出现的主题：版权法被用作一种战略工具，以巩固或增强市场主导地位。从历史上看，潜在的巨额法定赔偿金的诱惑力，尤其是在美国，往往使得诉讼比建立商业伙伴关系更具吸引力。合理使用裁决固有的不可预测性进一步强化了这种偏好，这可能会阻碍新进入者，引发技术创新之争，进而助长垄断倾向 (Johnston 2008, 165; Moore 2007, 944)。这引发了人们对版权与创新之间历史性斗争的重要担忧。这种紧张关系一直在法庭上上演，塑造着创意产业的格局，并决定着新兴技术能够蓬勃发展的程度。
+
+The annals of copyright law reveal a persistent tug-of-war between preservation and progress. Throughout history, property owners, particularly within the realm of copyright, have leveraged their hold-out power to obstruct pro- gress (Rose 1986, 711, 749–750, 752). From early confrontations involving piano rolls, tape recorders, 4 radios, 5 and VHS recorders, 6 to more contem- porary disputes over cable television, 7 peer-to-peer software, 8 MP3 music format, 9 search engines, digital thumbnails, 10 and cloud music-storage services, copyright holders have often resisted new technological frontiers. While some services like MP3Tunes successfully defended their innovative models, 11 others, like ReDigi and Tom Kabinet, found themselves quashed under legal scrutiny, illustrating the ongoing friction between copyright proprietors and innovators. The cases recently started against Generative AI platforms con- tinue illustrating this ongoing tension.
+
+版权法的编年史揭示了保护与进步之间持续不断的拉锯战。纵观历史，尤其是在版权领域，财产所有者一直利用其坚持权力来阻碍进步（Rose 1986，711，749-750，752）。从早期涉及钢琴卷、录音机4、收音机5和VHS录像机6的对抗，到当代涉及有线电视7、点对点软件8、MP3音乐格式9、搜索引擎9、数字缩略图10和云音乐存储服务的纠纷，版权持有者经常抵制新的技术前沿。虽然像MP3Tunes这样的服务成功捍卫了他们的创新模式11，但其他一些服务，如ReDigi和Tom Kabinet，却在法律审查下被撤销，这表明版权所有者和创新者之间持续存在的摩擦。最近针对生成式人工智能平台的案件继续说明了这种持续的紧张局势。
+
+5 See Twentieth Century Music Corp v. Aiken, 422 U.S. 151, 151 (1975).
+6 See Sony Corp of Am v. Universal Studios 464 U.S. 417, 429 (1984).
+7 See Fortnightly Corp v. United Artists 392 U.S. 390 (1968).
+8 See Metro-Goldwyn-Mayer Studios v. Grokster 545 U.S. 913 (2005); A&M Records v. Napster 239 F3d 1004 (9th Cir 2001).
+9 See UMG Recordings v. MP3com 92 F Supp 2d 349 (SDNY 2000).
+10 See e.g., Perfect 10 v. Amazon .c om 508 F3d 1146 (9th Cir 2007); Vorschaubilder, I ZR 69/08 (Bundesgerichtshof, 29 April 2010) (ruling that Google Image Search does not infringe copyright).
+
+This historical stance isn’t solely about defending rights; it underscores a tactical approach where copyright protection is used to dictate the pace and direction of innovation. The murky waters of fair use and fair dealing decisions, compounded by the varying interpretations of exceptions and limita- tions, embolden copyright holders in their litigious pursuits. Such a posture can stymie the birth and growth of novel technologies and business blueprints, including Generative AI. The risk? A potential market gap where innovations that might enrich the value of copyrighted content are stifled. Furthermore, it hints at an evolving narrative where copyright law transitions from merely regulating copying to orchestrating technological design itself (Gillespie 2007).
+
+这种历史立场并非仅仅为了捍卫权利；它强调了一种战术性的方法，即利用版权保护来决定创新的步伐和方向。合理使用和公平交易裁决的模糊性，加上对例外和限制的不同解读，使得版权持有者更加肆无忌惮地提起诉讼。这种姿态可能会阻碍新技术和商业蓝图的诞生和发展，包括生成式人工智能。风险是什么？潜在的市场缺口，可能会扼杀那些可能提升版权内容价值的创新。此外，它暗示着一种不断发展的叙事，即版权法正从仅仅规范复制转变为协调技术设计本身（Gillespie 2007）。
+
+Dominant players in the market have consistently resisted tech evolution to safeguard their market share. 12 In several episodes, these stakeholders wielded their influence to capture a slice of the economic boons ushered in by tech- nology, sometimes regardless of any economic loss that traditional business models may have suffered as a consequence of innovation. The Google Books case serves as a poignant illustration. Here, a project that could have been a win-win for all parties—rightsholders, innovators, and the public—was mired in litigation as stakeholders vied for a piece of the revenue pie. Cases like this underscore the potential pitfalls of aggressive copyright enforcement, which might thwart projects that can enrich culture, reward innovation, and serve the public interest. In a landmark decision, the U.S. Court of Appeals for the Second Circuit validated the legitimacy of the original relational database. 13 Yet, despite the vast number of books catalogued, only select excerpts are accessible. Moreover, this constrained fair use argument might not withstand legal scrutiny in many European courts. For instance, a French case high- lighted the challenges facing projects centred on book digitisation for text and data mining. 14 A parallel can be drawn with the Sony case. At its height, Jack Valenti, the Motion Picture Association of America President at the time, dramatically told Congress, “the VCR is to the American film producer and the American public as the Boston Strangler is to the woman home alone”. 15
+
+市场主导者一直抵制技术进步以维护其市场份额。12 在一些案例中，这些利益相关者利用其影响力从技术带来的经济发展中分得一杯羹，有时甚至不顾传统商业模式因创新而遭受的经济损失。谷歌图书案就是一个深刻的例证。在这个案例中，一个原本可以让所有参与方（权利人、创新者和公众）实现共赢的项目，却因利益相关者争夺收益而陷入诉讼泥潭。此类案件凸显了激进的版权执法的潜在陷阱，这可能会阻碍那些可以丰富文化、奖励创新和服务于公共利益的项目。美国第二巡回上诉法院在一项具有里程碑意义的裁决中，确认了原始关系数据库的合法性。13 然而，尽管已编目的图书数量巨大，但可供查阅的却只有部分摘录。此外，这种受限的合理使用论点可能经不起许多欧洲法院的法律审查。例如，一个法国案例凸显了以书籍数字化为核心、用于文本和数据挖掘的项目所面临的挑战。14 这与索尼案类似。在该案最严重的时候，时任美国电影协会主席的杰克·瓦伦蒂曾戏剧性地向国会表示：“录像机之于美国电影制片人和美国公众，就像波士顿绞杀手之于独居女性。”15
+
+11 See Capitol Records v. MP3Tunes 07 Civ 9931 (SDNY 2011).
+12 See e.g., White-Smith, 1; Amstrad, 159; Aiken, 151; Sony, 417; Fortnightly, 390; Grokster, 913; Napster, 1004.
+13 See The Authors Guild v. Google 804 F3d 202 (2nd Cir 2015).
+14 See Editions du Seuil et autres/Google Inc. et France (TGI Paris, 18 December 2009).
+15 Home Recording of Copyrighted Works: Hearings Before the Subcommittee on Courts, Civil
+Liberties, and the Administration of Justice of the Committee on the Judiciary, 97th Congress (1982) (testimony of Jack Valenti), http://cryptome .org /hrcw -hear .htm.
+
+However, history tells a different tale. The video rental sector significantly bol- stered the film industry’s growth. In both scenarios, innovative technologies, which held promise for copyright owners, faced opposition due to perceived threats they posed to the copyrighted content market.
+
+然而，历史却讲述了一个截然不同的故事。录像带租赁行业极大地促进了电影业的发展。在这两种情况下，创新技术虽然给版权所有者带来了希望，但却面临着反对，因为他们认为这些技术会对版权内容市场构成威胁。
+
+Reflecting on these historical precedents, it’s evident that the struggle between copyright and innovation persists in the realm of Generative AI. As in the past, current lawsuits might see rightsholders leveraging their influence to stymie AI’s transformative potential, including its ability to engender fresh modes of expression. Yet, the unparalleled prowess of AI necessitates a renewed focus on safeguarding human creativity. Navigating this balance between stimulating innovation and incentivising creativity remains a central challenge in copyright and innovation discourse, a debate that spans more than two centuries.
+
+回顾这些历史先例，版权与创新之间的斗争在生成性人工智能领域依然存在。与过去一样，当前的诉讼中，权利人可能会利用其影响力来阻碍人工智能的变革潜力，包括其催生全新表达方式的能力。然而，人工智能无与伦比的威力，迫使我们重新关注保护人类的创造力。如何在激励创新与激励创造力之间找到平衡，仍然是版权与创新讨论的核心挑战，这场争论已持续了两个多世纪。
+
+####
+Creative Market Disruption
+Legal challenges against AI-generated creativity are on the rise due to concerns about its potential upheaval of the creative industry. Pioneers in AI-generated music, like Tencent and Google’s MusicLM, are prompting debates over AI potentially replacing human composers, especially in fields like video games and films. 16 While there’s some evidence of AI’s role in ideation within archi- tecture and design, 17 substantial proof of its broad-scale adoption remains elu- sive. Additionally, while AI demonstrates potential in tasks like debugging and code-writing, it’s uncertain whether tools like ChatGPT and AlphaCode will entirely eclipse human programmers. 18 Presently, AI creativity tools often necessitate significant human involvement in prompt engineering, data fine- tuning, and model integration (Shynkarenka 2022). As of today, these tools mainly augment, rather than replace, creative professionals, acting as supple- mentary aids rather than direct competitors. However, the discourse around AI in creativity reveals a bifurcation. Some view AI as a tool to bolster artistic productivity, 19 while others, termed neo-Luddites, resist its integration. 20 The looming concern isn’t that AI will entirely supplant human artistry but that it might provide cost-effective alternatives, appealing to the mass market and satisfactory for a majority of consumers. Cases in point include Netflix’s use of AI for background art in animations 21 and platforms like Soundraw and ShutterStock offering vast AI-generated music libraries. 22 Rachel Hill, leader of the Association of Illustrators, acknowledges AI’s appeal for budget-con- scious art directors. 23 Yet, she underscores the irreplaceable value of human illustrators, especially in conceptual stages. This distinction, however, could wane as AI evolves, potentially reducing the need for human involvement in creative processes.
+
+####
+创意市场颠覆
+由于担心人工智能产生的创造力可能对创意产业造成颠覆性影响，针对其的法律挑战日益增多。腾讯和谷歌的MusicLM等人工智能音乐创作领域的先驱企业，正在引发关于人工智能可能取代人类作曲家的争论，尤其是在电子游戏和电影等领域。16 虽然有一些证据表明人工智能在建筑和设计领域的构思过程中发挥了作用，17 但其大规模应用的实质性证据仍然难以捉摸。此外，虽然人工智能在调试和代码编写等任务中展现出潜力，但ChatGPT和AlphaCode等工具是否会完全取代人类程序员尚不确定。18 目前，人工智能创造力工具通常需要大量人工参与快速工程、数据微调和模型集成（Shynkarenka 2022）。截至目前，这些工具主要增强而非取代创意专业人士，充当辅助工具而非直接竞争对手。然而，关于人工智能在创造力方面的讨论却出现了分歧。一些人将人工智能视为提高艺术生产力的工具，19 而另一些人，被称为新卢德分子，则抵制人工智能的融入。20 迫在眉睫的担忧不是人工智能将完全取代人类的艺术，而是它可能提供具有成本效益的替代方案，吸引大众市场并让大多数消费者满意。相关案例包括 Netflix 使用人工智能制作动画背景艺术，21 Soundraw 和 ShutterStock 等平台提供大量人工智能生成的音乐库。22 插画家协会负责人 Rachel Hill 承认人工智能对注重预算的艺术总监很有吸引力。23 然而，她强调了人类插画家不可替代的价值，尤其是在概念阶段。然而，随着人工智能的发展，这种区别可能会减弱，从而可能减少人类参与创作过程的需要。
+
+16 See Abner Li, “Google’s MusicLM is rather good at creating music from text descriptions”, 9to5Google, 28 January 28, 2023, https://9to5google .com /2023 /01 /28 /google -musiclm.
+17 See e.g., Ben Dreith, “How AI software will change architecture and design”, Dezeen, 16
+November 2022, https://www .dezeen .com /2022 /11 /16 /ai -design -architecture -product;
+Kevin Roose, “A.I.-Generated Art Is Already Transforming Creative Work”, NYTimes, 21
+October 2022, https://www .nytimes .com /2022 /10 /21 /technology /ai -generated -art -jobs
+-dall -e -2 .html.
+18 Davide Castelvecchi, “Are ChatGPT and AlphaCode going to replace programmers?”,
+Nature, 8 December 2022, https://www .nature .com /articles /d41586 -022 -04383 -z.
+19 See Will Knight, “When AI Makes Art, Humans Supply the Creative Spark”, Wired, 13 July
+2022, https://www .wired .com /story /when -ai -makes -art.
+20 See Rich Johnston, “Comic Book Creators React to AI Artificial Intelligence Art Explosion”,
+Bleeding Cool, 6 December 2022, https://bleedingcool .com /comics /comic -book -crea-
+tors -react -to -ai -artificial -intelligence -art -explosion; Matt Growcoot, “Midjourney Founder
+
+Recently, issues have been raised by AI apps like Dall-E, Stable Diffusion, and Stability AI generating outputs in the style of famous artist. For example, a user in the Stable Diffusion community, complaining about the scarcity of 2-D illustration styles, utilised 32 illustrations from the portfolio of Hollie Mengert, a well-known illustrator and character designer based in Los Angeles, to train Stable Diffusion, replicating her unique style. The outcome was then shared under an open licence for public use, with her name being used to identify the generated art style; for instance, by prompting “illustration of a princess in the forest, holliemengert artstyle”. 24 In Stable Diffusion’s concept library available on the website Hugging Face alone, there are roughly a thousand models like that trained on Mengert’s work. These range from styles inspired by classic and contemporary Disney animations to those influenced by the likes of Tron: Legacy and Kurzgesagt videos. 25 Creating and sharing these models is cost-effective and easily accessible. While Generative AI platforms may intro- duce mechanisms to avoid replicating a specific artist or author’s style, 26 users often discover workarounds to such restrictions. As we will delve into later, it remains a matter of debate whether copyright law can address these uses.
+
+This is mainly because such uses could be considered transformative at their core, and the existing idea–expression dichotomy might preclude protection of style. Regardless, such developments are bound to disrupt the creative mar- ket, potentially leading to legal grievances from disgruntled creatives.  
+
+
+最近，Dall-E、Stable Diffusion 和 Stability AI 等人工智能应用以模仿知名艺术家的风格输出，引发了争议。例如，Stable Diffusion 社区的一位用户抱怨二维插画风格匮乏，于是他从洛杉矶知名插画家兼角色设计师 Hollie Mengert 的作品集中选取了 32 幅插图来训练 Stable Diffusion，复制其独特的风格。训练结果随后以开放许可的形式分享给公众使用，并使用 Hollie Mengert 的名字来标识生成的艺术风格；例如，提示语为“森林公主插画，holliemengert 风格”。24 仅在 Hugging Face 网站上的 Stable Diffusion 概念库中，就有大约一千个类似使用 Mengert 作品训练的模型。这些模型风格各异，既有受经典和当代迪士尼动画启发的风格，也有受《创：战纪》和《Kurzgesagt》等视频影响的风格。 25 创建和共享这些模型既经济高效又易于获取。虽然生成式人工智能平台可能会引入一些机制来避免复制特定艺术家或作者的风格，26 但用户经常会发现绕过这些限制的方法。版权法是否能够涵盖这些用途仍是一个有争议的问题，我们稍后将深入探讨。
+
+这主要是因为这些用途本质上可能被视为具有变革性，而现有的“创意—表达”二分法可能会妨碍对风格的保护。无论如何，这样的发展必然会扰乱创意市场，并可能导致心怀不满的创意人士提起法律诉讼。
+
+Admits to Using a ‘Hundred Million’ Images Without Consent”, PetaPixel, 21 December
+2022, https://petapixel .com /2022 /12 /21 /midjourny -founder -admits -to -using -a -hundred
+-million -images -without -consent.
+21 See Benj Edwards, “Netflix stirs fears by using AI-assisted background art in short anime
+film”, ArsTechnica, 2 January 2023, https://arstechnica .com /information -technology /2023
+/02 /netflix -taps -ai -image -synthesis -for -background -art -in -the -dog -and -the -boy.
+22 See Soundraw, https://soundraw .io; ShutterStock, https://www .shutterstock .com /music /
+search ?artist =amper -music.
+23 “We are Training AI Twice as Fast this Year as Last. IEEE Spectrum”, ENGTalks, 30 June
+2022, https://www .enggtalks .com /news /217757 /we -re -training -ai -twice -as -fast -this -year
+-as -last ?c =2859.
+24 See Andy Baio, “Invasive Diffusion: How one unwilling illustrator found herself turned into
+an AI model”, Waxy, 1 November 2022, https://waxy .org /2022 /11 /invasive -diffusion
+-how -one -unwilling -illustrator -found -herself -turned -into -an -ai -model.
+25 ibi d.
+26 See infra fn. 80.
+
+In summation, future AI advancements might elevate the standards for top- tier creative roles, potentially sidelining many and consolidating the revenue stream from low-skilled creativity in the hands of a select few. AI’s potential to significantly reshape the creative sectors, particularly in graphic design, music, and copywriting, cannot be overlooked. The rapid and potent evolution of AI underscores that industry disruptions are imminent. The ability of AI algo- rithms to generate high-quality creative outputs quickly and cost-effectively poses a challenge to human creatives. One key factor that amplifies the poten- tial impact of AI is its exponential growth, both in terms of capabilities and the speed at which it learns. This “singular” nature of AI development implies that disruption in the creative job market is not a matter of if, but when.
+
+总而言之，未来人工智能的进步可能会提高顶级创意岗位的标准，可能使许多人被边缘化，并将低技能创意的收入来源集中在少数人手中。人工智能有可能显著重塑创意行业，特别是在平面设计、音乐和文案领域，这一点不容忽视。人工智能的快速而强大的发展凸显了行业颠覆即将来临。人工智能算法能够快速、经济高效地生成高质量的创意输出，这对人类创意人员构成了挑战。放大人工智能潜在影响的一个关键因素是其能力和学习速度的指数级增长。人工智能发展的这种“单一”性质意味着创意就业市场的颠覆不是“如果”，而是“何时”的问题。
+
+####
+Claims: Learning, Authoring, and Infringing
+As we venture further into the age of Generative AI, the established para- digms of our Intellectual Property (IP) systems, encompassing copyright, trade secrets, and patent law, face unprecedented challenges. While our cur- rent IP frameworks can secure protections for the software underpinning AI technologies 27 or computer-assisted creativity—which remains copyrightable provided the human involvement is original 28 —they grapple with the delinea- tion of rights concerning the input used by AI and outputs produced by such AI, where minimal “non-expressive” human interaction prompts a machine to conjure its own unique expressions. 29 To effectively unpack the evolving legal landscape of AI-driven creativity, courts must address three pivotal con- cerns. Beyond identifying the AI as an author or “A(I)uthor”, we must tackle the issues surrounding the machine as both a “Learner” and a potential “(A) Infringer”. These concerns delve into the machine’s capacity to potentially infringe upon existing copyrighted works during its learning process, as well as its ability to produce outputs that might infringe on copyrights. Both issues ultimately hinge on the potential attribution of copyright infringement lia- bilities to entities that train AI for creative generation or those employing AI tools to either assist their own creative process or to generate creativity independently.
+
+In this section, we shall embark on a comprehensive exploration of these pressing issues, dissecting the intricate interplay between Generative AI and the copyright frameworks, informed by various judicial reviews and interpretations.
+
+####
+权利要求：学习、创作与侵权
+随着我们进一步迈入生成型人工智能时代，我们既有的知识产权 (IP) 体系范式，包括版权、商业秘密和专利法，正面临着前所未有的挑战。虽然我们现有的知识产权框架可以为支撑人工智能技术的软件 27 或计算机辅助创作提供保护——只要人类参与是原创的，这些软件仍然享有版权 28 ——但它们仍难以界定人工智能所使用的输入及其产生的输出，在这种情况下，极少的“非表达性”人机交互就会促使机器创造出自己独特的表达方式。29 为了有效解读人工智能驱动的创造力不断变化的法律格局，法院必须解决三个关键问题。除了将人工智能认定为作者或“A(I) 作者”之外，我们还必须解决围绕机器作为“学习者”和潜在“(A) 侵权者”的问题。这些担忧深入探讨了机器在学习过程中可能侵犯现有版权作品的能力，以及其生成可能侵犯版权的输出的能力。这两个问题最终都取决于版权侵权责任的潜在归属，即训练人工智能进行创意生成的实体，还是使用人工智能工具辅助自身创作过程或独立产生创意的实体。
+
+在本节中，我们将全面探讨这些紧迫问题，剖析生成性人工智能与版权框架之间错综复杂的相互作用，并参考各种司法审查和解释。
+
+27 See Nathan Calvin and Jade Leung, “Who owns artificial intelligence? A preliminary analysis
+of corporate intellectual property strategies and why they matter”, University of Oxford’s
+Future of Humanity Institute (2020), https://www .fhi .ox .ac .uk /wp -content /uploads /Pat-
+ents_ -FHI -Working -Paper -Final- .pdf.
+28 See e.g., Robert Denicola, “Ex Machina: Copyright Protection for Computer-Generated
+Works”, Rutgers University Law Review 69 (2016): 269–270; Robert Clark and Shane Smyth
+(1997), Intellectual Property Law in Ireland, Butterworths, Dublin; Payer Components South
+Africa Ltd v. Bovic Gaskins [1995] 33 IPR 407.
+29 A related scenario emerges in the case of works co- or jointly authored, rather than assisted,
+by human and artificial intelligence.
+
+####
+The Machine Learner
+A fundamental aspect of machine learning (ML) and various other AI pro- cesses is the necessity for input data that fuels AI learning and development. 30 This reliance on data and extensive data processing is intrinsic to the essence of ML, 31 giving rise to significant questions concerning ownership and legal protections. On one hand, the issue of data ownership emerges as a crucial consideration. The development of AI and ML systems typically requires the utilisation of large datasets to enable the continuous refinement of the sys- tem’s decision-making capabilities. This leads to a pressing question: Who holds ownership over the datasets employed to train the system? Furthermore, should intellectual property Rights (IPR) be extended to the intermediate data generated by AI/ML during the training process? On the other hand, and more central to the pending lawsuits concerning Generative AI, a vital question surfaces regarding the potential copyright infringement that could arise through machine learning. These lawsuits arise inter alia from a growing conflict between AI firms and content creators over the use of human-created images as training data. Many AI firms argue that scraping images from the web for training purposes is covered under laws like the U.S. fair use doctrine, while rights holders contend that this constitutes a copyright violation. Our discussion will subsequently focus on unpacking this complex issue, shedding light on the legal intricacies that surround it.
+
+The legal framework concerning the intersection of machine learning, data mining, and intellectual property rights presents a complicated landscape. 32
+
+####
+机器学习者
+机器学习 (ML) 和其他各种人工智能流程的一个基本方面是需要输入数据来推动人工智能的学习和发展。30 这种对数据的依赖和大量的数据处理是机器学习的本质，31 由此引发了有关所有权和法律保护的重大问题。一方面，数据所有权问题成为一个至关重要的考虑因素。人工智能和机器学习系统的开发通常需要利用大型数据集来不断完善系统的决策能力。这就引出了一个紧迫的问题：谁拥有用于训练系统的数据集的所有权？此外，知识产权 (IPR) 是否应该扩展到人工智能/机器学习在训练过程中生成的中间数据？另一方面，对于正在审理的生成性人工智能诉讼而言，一个更为关键的问题是关于机器学习可能引发的版权侵权。这些诉讼的起因之一是人工智能公司与内容创作者之间就使用人工创作的图像作为训练数据而日益加剧的冲突。许多人工智能公司辩称，从网络上抓取图像用于训练目的的行为受到美国合理使用原则等法律的保护，而版权所有者则认为这构成了版权侵权。我们随后将重点探讨这一复杂问题，阐明围绕其的法律复杂性。
+
+机器学习、数据挖掘和知识产权交叉领域的法律框架呈现出复杂的局面。32
+
+30 See e.g., Olivier Gerber, “Artificial Intelligence and Machine Learning - Background Paper”,
+50th EPRA Meeting, Athens, 2019, https://www .epra .org /attachments /athens -plenary -2
+-artificial -intelligence -machine -learning -background -paper.
+31 See e.g., Andrea Ottolia, Big Data e Innovazione Computazionale (Giappichelli 2017), 163 ff.
+32 See e.g., Rossana Ducato and Alain Strowel, “Limitations to Text and Data Mining and Con-
+sumer Empowerment: Making the Case for a Right to ‘Machine Legibility’”, International
+Review of Intellectual Property and Competition Law 50(3) (2019): 649–684; Christophe
+Geiger, Giancarlo Frosio and Oleksander Bulayenko, ‘Text and Data Mining: Art. 3 and 4 of
+the Directive 790/2019/EU” in Los Derechos de autor en el mercado unico digital Europeo,
+eds. Concepción Sáiz García and Raquel Evangelio Llorca (Tirant lo Banch 2019), 27 ff;
+Bernt Hugenholtz, “The New Copyright Directive: Text and Data Mining (Articles 3 and
+4)”, Kluwer Copyright Blog, 2019, http://copyrightblog .kluweriplaw .com /2019 /07 /24 /
+the -new -copyright -directive -text -and -data -mining -articles -3 -and -4; Eleonora Rosati, “Copyright as an Obstacle or an Enabler? A European Perspective on Text and Data Mining and Its
+Role in the Development of AI Creativity”, Asia Pacific Law Review, 27 (2019): 198–217;
+Andrea Toth, “Algorithmic copyright enforcement and AI: Issues and potential solutions,
+through the lens of text and data mining”, Masaryk University Journal of Law and Technology
+
+Specifically, there’s a tension between the lawful utilisation of text-and-data- mining (TDM) techniques and Intellectual Property protection. Machine learn- ing techniques, described as algorithms trained to detect patterns for achieving specific goals, 33 rely heavily on TDM. TDM, is a method to extract information from vast digital data through automated software tools, 34 involving stages like (1) identification of materials, (2) copying and pre-processing, 35 (3) data extrac- tion, and (4) recombination to identify fina patterns. 36 The friction between IP protection and TDM arises from the fundamental principle that copyright pro- tects creative form, not the underlying data or information. 37 Essentially, TDM shouldn’t interfere with exclusive IPRs. However, certain activities in TDM may infringe on rights provided by copyright and database protection.
+
+具体而言，文本和数据挖掘 (TDM) 技术的合法使用与知识产权保护之间存在矛盾。机器学习技术被描述为经过训练以检测实现特定目标的模式的算法，33 严重依赖于 TDM。TDM 是一种通过自动化软件工具从海量数字数据中提取信息的方法，34 涉及以下阶段：(1) 材料识别，(2) 复制和预处理，35 (3) 数据提取，以及 (4) 重新组合以识别最终模式。36 知识产权保护与 TDM 之间的摩擦源于版权保护创作形式而非底层数据或信息的基本原则。37 本质上，TDM 不应干涉独家知识产权。但是，TDM 中的某些活动可能侵犯版权和数据库保护所提供的权利。
+
+####
+Tension Between Copyright Protection and Machine Learning
+TDM typically necessitates some level of copying protected subject matter, a process that might bring legal challenges, especially in certain jurisdictions such as the European Union, where even the limited copying of an excerpt might be perceived as infringing upon the right of reproduction. 38 However, a distinction exists when TDM tools are designed in such a way that they involve only minimal copying, perhaps just a few words, or crawl through data while processing each item individually. Such actions are more defensible, as they steer clear of subject matters protected either by copyright or sui gen- eris rights, thereby reducing the risk of legal liability. 39 Contrarily, any act of reproduction within TDM activities that results in the creation of a copy of protected work may instigate copyright infringement. Several stages within the TDM process can potentially give rise to legal challenges:
+
+####
+版权保护与机器学习之间的冲突
+TDM 通常需要一定程度地复制受保护的内容，这一过程可能会带来法律挑战，尤其是在欧盟等某些司法管辖区，即使是有限的摘录复制也可能被视为侵犯复制权。38 然而，当 TDM 工具的设计方式使其仅涉及最低限度的复制（例如仅复制几个单词）或在单独处理每个项目的同时抓取数据时，就会出现区别。此类行为更具辩护性，因为它们避开了受版权或特殊权利保护的内容，从而降低了承担法律责任的风险。39 相反，在 TDM 活动中，任何导致创建受保护作品副本的复制行为都可能引发版权侵权。TDM 流程中的几个阶段可能会引发法律挑战：
+
+13(2) (2019): 361–387; Christophe Geiger, Giancarlo Frosio, and Oleksander Bulayenko,
+“Text and Data Mining in the Proposed Copyright Reform: Making the EU Ready for an Age
+of Big Data?” IIC 49(7) (2018): 814–844; Marco Caspers and Lucie Guibault, Baseline report
+of policies and barriers of TDM in Europe (FutureTDM, 2016), https://project .futuretdm .eu
+/wp -content /uploads /2017 /05 /FutureTDM _D3 .3 -Baseline -Report -of -Policies -and -Barri-
+ers -of -TDM -in -Europe .pdf.; Jean-Paul Triaille, Jérôme De Meeûs D’Argenteuil, and Amélie
+De Francquen, Study of the Legal Framework of Text and Data Mining (TDM) (European
+Commission, 2014), http://ec .europa .eu /internal _market /copyright /docs /studies /1403
+_study2 _en .pdf. An essential bibliography including literature treating this question can be
+found at Giancarlo Frosio, “L’(I)Autore inesistente: una tesi tecno-giuridica contro la tutela
+dell’opera generata dall’intelligenza artificiale” AIDA 29 (2020): 52–91, 54, fn. 13.
+33 European Commission, White Paper on Artificial Intelligence: A European Approach to Excel-
+lence and Trust, COM(2020) 65, 16.
+34 See e.g., Jiawei Han, Micheline Kamber, and Jian Pei, Data Mining: Concept and Techniques
+(Morgan Kaufmann, 2011).
+35 In particular, copying encompasses (a) pre-processing materials by turning them into a
+machine-readable format compatible with the technology to be deployed for the TDM so
+that structured data can be extracted and (b) possibly, but not necessarily, uploading the pre-
+processed materials on a platform, depending on the TDM technique to be deployed.
+36 See Diane McDonald and Ursulla Kelly, “The Value and Benefit of Text Mining to UK Fur-
+ther and Higher Education. Digital Infrastructure”, JISC (2012), http://bit .ly /jisc -textm;
+Triaille et al., Study of the Legal Framework of Text and Data Mining (TDM), 28; Sholom
+Weiss, Nitin Indurkhya, and Tong Zhang, Fundamentals of Predictive Text Mining, Texts in
+Computer Sciences (Springer, 2010), 15.
+37 See e.g., Bernt Hugenholtz, Auteursrecht op informatie (Kluwer, 1989).
+38 See CJEU, C-5/08, Infopaq International A/S v. Danske Dagblades Forening, 16 July 2009,
+ECLI:EU:C:2009:465, paras 54–55.
+
+1 Pre-processing stage: Standardising materials into machine-readable formats might provoke an infringement on the right of reproduction. 40 Further, the uploading of pre-processed material on a platform could violate this right, although this might be contingent upon whether the chosen TDM technique employs specific software for direct data analysis from the source. 41
+2 Pre-processing for extraction: In more nuanced circumstances, TDM may also involve various alterations of a database protected by copyright, encompassing reproduction translation, adaptation, arrangement, and other changes affecting the original selection and arrangement of the database’s content. 42 For example, pre-processing for extraction might necessitate cleansing a database of irrelevant portions and data for analysis, which could violate both the right of reproduction and the right to make adaptations and arrangements. 43
+3 Mining stage: This crucial part of the TDM process, where data is finally extracted, may also infringe the right of reproduction, depending upon the character of the extraction and the mining software deployed. 44
+4 Sui generis database rights: TDM might further infringe upon these rights, especially regarding the extraction (and, to a lesser degree, the re-utilisation) of substantial parts of a database. Here, the violation could occur even without the reproduction of original materials, as the extrac- tion itself could infringe upon the exclusive rights bestowed upon the database owner. 45 In emphasising the legal intricacies involved, the Court of Justice of the European Union (CJEU) has elucidated that the act of transferring data from one medium to another and its integration into a new medium is deemed an act of extraction, further complicating the landscape for TDM activities. 46
+
+1 预处理阶段：将材料标准化为机器可读格式可能会侵犯复制权。40 此外，将预处理后的材料上传到平台也可能侵犯复制权，但这可能取决于所选的 TDM 技术是否使用特定软件从源头进行直接数据分析。41
+2 提取预处理：在更复杂的情况下，TDM 还可能涉及对受版权保护的数据库进行各种修改，包括复制、翻译、改编、编排以及其他影响数据库内容原始选择和编排的更改。42 例如，提取预处理可能需要清除数据库中不相关的部分和分析数据，这可能侵犯复制权以及进行改编和编排的权利。43
+3 挖掘阶段：TDM 流程中的关键环节，即最终提取数据，也可能侵犯复制权，具体取决于提取的性质和所部署的挖掘软件。 44
+4 特殊数据库权利：TDM 可能会进一步侵犯这些权利，尤其是在提取（以及在较小程度上重复利用）数据库的重要部分时。在这种情况下，即使没有复制原始资料，侵权也可能发生，因为提取本身可能侵犯数据库所有者的专有权。45 为强调所涉及的法律复杂性，欧洲联盟法院 (CJEU) 明确指出，将数据从一种媒介转移到另一种媒介并将其集成到新媒介的行为被视为提取行为，这进一步加剧了 TDM 活动的复杂性。46
+
+39 See Directive 2019/790/EU of the European Parliament and of the Council of 17 April
+2019 on copyright and related rights in the Digital Single Market and amending Directives
+96/9/EC and 2001/29/EC, 2019 O.J. L 130, Recital 8
+40 See Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001
+on the harmonisation of certain aspects of copyright and related rights in the information
+society, 2000 O.J. L 167, Art. 2
+41 See Triaille et al., Study of the Legal Framework of Text and Data Mining (TDM), 28.
+42 See Directive 1996/9/EC of the European Parliament and of the Council of 11 March 1996
+on the legal protection of databases, 1996 O.J. L 77, Art. 5(a-b). See also Stamatoudi, 2016,
+264–265
+43 See Directive 1996/9/EC, Art. 5(a-b). See also Irini Stamatoudi, “Text and Data Mining”,
+in New Developments in EU and International Copyright Law, ed. Irini Stamatoudi (Kluwer
+Law International, 2016), 262; Triaille et al., Study of the Legal Framework of Text and Data
+Mining (TDM), 34.
+44 See Triaille et al., Study of the Legal Framework of Text and Data Mining (TDM), 31.
+45 Directive 1996/9/EC, Art. 7.
+
+####
+The Legality of Machine Learning: Exceptions, Limitations, and Fair Uses
+The legality of TDM and its potential infringement on intellectual property
+laws hinge upon varied national approaches, exceptions, limitations, and
+interpretations of fair use in copyright law. 47 Exceptions, limitations, and
+fair uses within copyright law permit the use of copyrighted works without
+a licence from the owner, recognising that such usage may fulfil important
+public interests and fundamental rights, such as freedom expression. 48 In the
+context of TDM, applying these principles can be seen as promoting public
+interests, especially in the domains of scientific advancement and economic
+development. 49
+
+####
+机器学习的合法性：例外、限制和合理使用
+时间数据管理 (TDM) 的合法性及其对知识产权法的潜在侵犯，取决于各国对版权法中合理使用的不同做法、例外、限制和解释。47 版权法中的例外、限制和合理使用允许在未经所有者许可的情况下使用受版权保护的作品，并承认此类使用可能实现重要的公共利益和基本权利，例如言论自由。48 在时间数据管理 (TDM) 的背景下，应用这些原则可以被视为促进公共利益，尤其是在科学进步和经济发展领域。49
+
+In Europe, several exceptions have been considered to shield TDM from intellectual property infringement. Notable exceptions include temporary acts of reproduction, research, private use, normal use of a database, and the extraction of insubstantial parts of a database. 50 Despite these exceptions, legal uncertainties have persisted, leading to the introduction of a specific TDM exception in the Copyright in the Digital Single Market Directive of 2019. 51 Unfortunately, this exception presents limitations; it can be opted-out of by right holders or utilised without restrictions solely by public research insti- tutions for research purposes. 52 This arrangement disadvantages private AI industries, restricting their ability to freely employ TDM for machine learning, a restriction echoed across many civil law jurisdictions. 53
+
+在欧洲，已考虑多项例外情况以保护 TDM 免遭知识产权侵犯。值得注意的例外情况包括临时复制、研究、私人使用、数据库的正常使用以及数据库非实质性部分的提取。50 尽管存在这些例外情况，但法律上的不确定性依然存在，导致 2019 年《数字单一市场版权指令》中引入了具体的 TDM 例外情况。51 遗憾的是，此例外情况存在局限性；权利人可以选择退出，或者仅公共研究机构可以不受限制地将其用于研究目的。52 这种安排不利于私营人工智能产业，限制了它们自由使用 TDM 进行机器学习的能力，许多民法管辖区都存在这种限制。53
+
+Conversely, countries following common law traditions, such as the United States, Canada, the UK, Australia, and New Zealand, have leveraged opening clauses or fair use models to legitimise TDM. 54 In the United States, for example, TDM’s application for training foundational models seems to be protected under the fair use doctrine, 55 albeit with some narrow limitations. 56 Cases like Google Books and Perfect 10 have strengthened the understanding that using TDM to create search indices or generate data insights constitutes transformative fair use, thus supporting lawful TDM practices under U.S. copyright law. 57 Moreover, landmark rulings, such as Baker v. Selden and subsequent reverse engineering cases, 58 further cement the legal position that TDM is likely permissible. The decision in Baker v.
+
+Selden emphasised that copyright protection is confined to specific expres- sions and not underlying ideas. Thus, protected content can be utilised and copied if it “must necessarily be used as an incident to” the use of unpro- tected materials. 59 This ruling can be applied to TDM for training Generative AI models, where the focus is on analysis and extraction from large datasets without replicating the original copyrighted expression. Additionally, this legal precedent implies that the lawful reproduction of protected materials may be possible when mining text and data to train Generative AI models, which themselves remain unprotected. However, courts might also consider that some authors argue that fair use may not protect expressive machine learning applications. 60 In this context, I would propose that Sobel’s distinc- tion between non-expressive and expressive fair use doesn’t compellingly align with the reality of Generative AI. The argument pivots on the way expressions are deployed as input data for training machine learning models.
+
+When these expressions are processed for the purpose of extracting data, the foundational models at play do not interact with the protected expressions in any creative or expressive manner. Instead, the models utilise this content in a functionally analytic or non-expressive manner, serving as building blocks to construct a new, inventive machine that possesses the capability to create an endless array of original expressions. The apparent confusion in Sobel’s argument likely originates from an underlying assumption that the use of input materials in crafting an expressive machine necessarily imbues that usage with an expressive character. Yet, this reasoning overlooks the subtlety that the utilisation remains inherently non-expressive, corresponding more closely to precedents such as the Google Books case. In those instances, it’s not the act of using the content that is expressive, but rather the novel machine or tool itself that manifests expressiveness. This distinction under- scores the transformative nature of the process, wherein existing expressions are not simply repurposed but fundamentally reshaped, contributing to the creation of something entirely new. The challenge for courts, then, is to accurately discern the nuances of this interaction.
+
+相反，遵循普通法传统的国家，例如美国、加拿大、英国、澳大利亚和新西兰，则利用开篇条款或合理使用模型来使 TDM 合法化。54 例如在美国，TDM 用于训练基础模型的应用似乎受到合理使用原则的保护，55 尽管存在一些狭窄的限制。56 像 Google Books 和 Perfect 10 这样的案例强化了人们的认识，即使用 TDM 创建搜索索引或生成数据洞察构成了转化性合理使用，从而支持了美国版权法规定的合法 TDM 实践。57 此外，具有里程碑意义的裁决，例如 Baker v. Selden 案以及随后的逆向工程案件，58 进一步巩固了 TDM 可能被允许的法律地位。Baker v. Selden 案的判决强调版权保护仅限于特定的表达，而不是潜在的思想。因此，如果受保护内容“必然会作为使用不受保护材料的偶然事件而被使用”，则可以使用和复制该内容。59 这项裁决可以应用于训练生成式人工智能模型的文本数据挖掘 (TDM)，其重点是从大型数据集中进行分析和提取，而无需复制原始的受版权保护的表达。此外，这一法律先例意味着，在挖掘文本和数据以训练生成式人工智能模型时，合法复制受保护的材料是可能的，而这些模型本身仍然不受保护。然而，法院也可能考虑到，一些作者认为合理使用可能无法保护表达型机器学习应用。60 在此背景下，我认为索贝尔对非表达性合理使用和表达性合理使用的区分与生成式人工智能的现实并不完全相符。该论点的核心在于如何将表达用作训练机器学习模型的输入数据。
+
+当处理这些表达以提取数据时，所使用的基础模型不会以任何创造性或表达性的方式与受保护的表达进行交互。相反，这些模型以一种功能分析或非表达性的方式运用这些内容，将其作为构建新型创造性机器的基石，而这种机器能够创造出无穷无尽的原创表达。索贝尔论证中看似混乱的现象可能源于一个潜在的假设：在构建表达性机器的过程中，输入材料的使用必然会赋予这种使用以表达性。然而，这种推理忽略了一个微妙之处，即这种使用本质上仍然是非表达性的，这与谷歌图书案等先例更为接近。在这些情况下，并非使用内容的行为具有表达性，而是新颖的机器或工具本身体现了表达性。这种区别凸显了该过程的变革性，其中现有的表达不仅被重新利用，而且被从根本上重塑，从而促成了全新事物的创造。因此，法院面临的挑战是如何准确辨别这种互动的细微差别。
+
+46 Directive 1996/9/EC, Arts. 2(a), 7(1), and 7(2)(b); CJEU, C-203/02, The British
+Horseracing Board Ltd and Others v. William Hill Organization Ltd, 9 November 2004,
+ECLI:EU:C:2004:695; Stamatoudi, “Text and Data Mining”, 267.
+47 See Sean Fiil-Flynn et al., “Legal reform to enhance global text and data mining research:
+Outdated copyright laws around the world hinder research”, Science, 378(6623) (2022):
+951–953. https://www .science .org /doi /10 .1126 /science .add6124.
+48 See Christophe Geiger, “Copyright’s Fundamental Rights Dimension at EU Level”, in
+Research Handbook on the Future of EU Copyright, ed. Estelle Derclaye (Edward Elgar,
+2009), 27.
+49 See Joao Pedro Quintais, “Rethinking Normal Exploitation: Enabling Online Limitations in
+EU Copyright Law”, AMI 6 (2017): 197–205.
+50 Geiger, Frosio, and Bulayenko, “Text and Data Mining: Art. 3 and 4 of the Directive
+790/2019/EU”, 31–37
+51 Directive 2019/790/EU, Arts. 3 and 4.
+52 ibi d.
+53 See Fiil-Flynn et al., “Legal reform to enhance global text and data mining research”.
+54 ibi d.
+55 See e.g., Mark Lemley and Bryan Casey, “Fair Learning”, Texas L Rev 99(4) (2021): 743,
+743–785.
+56 See Henderson et al., ‘Foundation Models and Fair Use’ (2023) preprint 1 <https://arxiv .org
+/pdf /2303 .15715 .pdf> (noting that “copyrighted content may be used to build foundation
+models without incurring liability due to the fair use doctrine. However, there is a caveat: If
+the model produces output that is similar to copyrighted data, particularly in scenarios that affect
+the market of that data, fair use may no longer apply to the output of the model”) (emphasis
+added).
+57 See Authors Guild, 202; Authors Guild v. HathiTrust, 755 F.3d 87 (2nd Cir. 2014); Perfect
+10 v. Amazon .c om, 508 F.3d 1146 (9th Cir, 2007); Perfect 10 v. Google, 416 F. Supp. 2d 828
+(C.D. Cal. 2006).
+58 See e.g., Sega Enterprises Ltd v. Accolade, Inc, 977 F. 2d 1510 (9th Cir. 1992); Sony Computer
+Entertainment v. Connectix Corp, 203 F. 3d 496 (9th Cir. 2000).
+59 Baker v. Selden, 101 U.S. 99, 104 (1879).
+60 See Benjamin Sobel, “Artificial intelligence’s fair use crisis”, Colum. JL & Arts 41 (2017): 45,
+45 (emphasis added).
+
+####
+Potential Policy and Judicial Approaches to Machine Learning
+In sum, the complex relationship between TDM techniques and copyright law and the legality of data scraping for training Generative AI presents a multifaceted and jurisdiction-dependent challenge for courts. First, courts are faced with the task of navigating an intricate legal terrain where they must balance technological advancements with the protection of original creations. This task is further complicated by the rapid evolution of technol- ogy and the corresponding lag in legal adaptation. Second, the regulatory landscape’s diversity in governing TDM and machine learning creates an unequal playing field, particularly for private AI industries operating within jurisdictions with more restrictive laws. While these restrictive approaches undoubtedly fortify the rights of creators and shield their market share from encroachment by AI technologies, they simultaneously impose limitations on innovation. Third, this dichotomy is starkly evident in the European context, where uncertainty surrounding the permissibility of TDM and AI training has significantly impeded the competitive edge of European AI innovators.
+
+The risk of legal liabilities within the EU, coupled with the ambiguity in interpreting and applying copyright laws to emerging technologies, has cre- ated a stifling environment. This state of inaction inadvertently tilts the bal- ance in favour of jurisdictions like the United States, where landmark cases and the application of the fair use doctrine create a more favourable ecosys- tem for innovation.
+
+####
+机器学习的潜在政策和司法途径
+总而言之，时间-数据-再造 (TDM) 技术与版权法之间的复杂关系，以及为训练生成式人工智能而进行数据抓取的合法性，给法院带来了多方面且受司法管辖权制约的挑战。首先，法院面临着在错综复杂的法律领域中寻求平衡的任务，必须在技术进步与原创作品保护之间取得平衡。技术的快速发展及其相应的法律适应滞后，使这项任务更加复杂。其次，监管环境在时间-数据-再造 (TDM) 和机器学习方面的多样性，创造了一个不平等的竞争环境，尤其对于在法律更为严格的司法管辖区内运营的私营人工智能行业而言。虽然这些限制性措施无疑加强了创作者的权利，并保护了他们的市场份额免受人工智能技术的侵蚀，但它们同时也限制了创新。第三，这种二分法在欧洲尤为明显，围绕时间-数据-再造 (TDM) 和人工智能训练的可许可性的不确定性，极大地阻碍了欧洲人工智能创新者的竞争优势。
+
+欧盟内部的法律责任风险，加上对新兴技术版权法的解释和适用模糊性，造成了一种令人窒息的环境。这种不作为的状态无意中使平衡偏向了美国等司法管辖区。在这些司法管辖区，里程碑式的案例和合理使用原则的运用，为创新创造了更有利的生态系统。
+
+In addressing these challenges, courts must be guided by coherent policy considerations that recognise the multifaceted nature of the problem. Among these considerations are: encouraging innovation with policymaking geared towards fostering an environment that stimulates creativity and innovation without eroding essential copyright protections; international consistency with efforts made to create some semblance of international alignment to avoid jurisdictional disparities that may hinder global technological advance- ment; and ethical considerations concerning the impact of AI technologies on societal values, cultural heritage, and individual creativity must be part of the judicial deliberation. 61 
+
+在应对这些挑战时，法院必须以连贯的政策考量为指导，并认识到问题的多面性。这些考量包括：鼓励创新，制定政策时应着眼于营造一个既能激发创造力和创新，又不损害基本版权保护的环境；努力实现国际一致性，避免可能阻碍全球技术进步的司法管辖权差异；此外，司法审议必须考虑人工智能技术对社会价值观、文化遗产和个人创造力的影响的伦理考量。61
+
+As courts grapple with these challenges, certain legal precedents and emerg-
+ing technologies provide insight into how these issues might be addressed.
+
+The Field v. Google decision, for instance, highlights the importance of adher- ence to technical standards. 62 In this case, the fact that Field had not employed the “robots .t xt” exclusion standard to prevent Google from web crawling his site weighed against his copyright claim of infringement by copying his con- tent. This suggests that Generative AI system developers and deployers might be well-advised to adopt technical mitigation strategies to support their fair use claims. Such strategies could align with the broader aim of fostering an environment that stimulates creativity and innovation without undermining essential copyright protections.
+
+例如，菲尔德诉谷歌案的判决凸显了遵守技术标准的重要性。62 在本案中，菲尔德没有使用“robots.txt”排除标准来阻止谷歌抓取其网站，这一事实与他声称复制其内容构成侵权的版权主张相悖。这表明，生成式人工智能系统开发者和部署者或许应该采取技术缓解策略来支持其合理使用主张。此类策略可以与更广泛的目标相一致，即营造一个既能激发创造力和创新，又不会损害基本版权保护的环境。
+
+Meanwhile, innovative self-help solutions are emerging as a means of shielding artists from potential infringement by AI art generators. An example of this is Glaze, a technology developed at the University of Chicago, crafted to protect images from AI art generators that might replicate an artist’s unique style. 63 Artists can employ Glaze to attach “style cloaks” to their works before publishing them online. These almost imperceptible changes are intended to mislead Generative AI models that might attempt to mimic the artist’s style, effectively causing the AI to associate the artwork with something unrelated.
+
+To assess the efficiency and applicability of the “glazing” process, the develop- ers of Glaze have worked with more than 1,100 professional artists, testing it on various works. Among them is Karla Ortiz, one of the plaintiffs in a recent lawsuit against Stability AI, Midjourney, and DeviantArt. This method, how- ever, may face challenges from future neural networks capable of recognis- ing and removing the “glaze”, much like current technologies can detect and erase watermarks. Courts might conclude that developing AI that circumvents self-help solutions might weigh in favour of a copyright infringement claim.
+
+与此同时，创新的自助解决方案正在涌现，成为保护艺术家免受人工智能艺术生成器潜在侵权的一种手段。芝加哥大学开发的Glaze技术就是一个例子，旨在保护图像免受可能复制艺术家独特风格的人工智能艺术生成器的侵害。63艺术家可以使用Glaze在其作品上添加“风格外衣”，然后再将其发布到网上。这些几乎难以察觉的变化旨在误导可能试图模仿艺术家风格的生成式人工智能模型，从而有效地使人工智能将艺术作品与不相关的事物联系起来。
+
+为了评估“上釉”流程的效率和适用性，Glaze的开发人员与1100多名专业艺术家合作，在各种作品上进行了测试。其中包括卡拉·奥尔蒂斯（Karla Ortiz），她是最近针对Stability AI、Midjourney和DeviantArt的诉讼的原告之一。然而，这种方法可能会面临未来神经网络的挑战，因为这些神经网络能够识别并去除“釉面”，就像当前的技术可以检测并擦除水印一样。法院可能会得出结论，开发能够规避自助解决方案的人工智能，可能会有利于版权侵权索赔。
+
+Finally, there are legislative initiatives aimed at increasing transparency in the use of copyrighted material within Generative AI processes. Specifically, the AI Act proposed by the European Commission mandates that providers of Generative AI disclose a detailed summary of how copyrighted training data is utilised. 64 It’s important to note that this disclosure requirement does not absolve the AI providers from potential legal liabilities. The proposed legislation explicitly states that this obligation exists “without prejudice to Union or national or Union legislation on copyright”. 65 Nevertheless, courts may take into account whether this transparency obligation has been fulfilled when determining the final outcome of potential infringement cases. Additionally, such disclosure obligations could pave the way for creators to exercise an opt- out option, thereby establishing a market for their works to be used in training Generative AI models. 66 Companies like Stability AI have already started to incorporate opt-out provisions, allowing content creators and artists to exclude their works from the next version of their product, Stable Diffusion. 67 In a recent public statement, the CEO of Stability AI asserted that the training datasets they use are “ethically, morally, and legally sourced and used”, while acknowledging dissenting opinions by adding, “[s]ome folks disagree so we are doing opt out and alternate datasets/models that are fully cc”. 68 Courts may consider these opt-out mechanisms in their legal reasoning, possibly introduc- ing the concept of implied licences to adjudicate on infringement cases. As such, once these opt-out mechanisms gain widespread acceptance, they could potentially set a legal standard that influences judicial outcomes.
+
+最后，还有一些立法举措旨在提高生成式人工智能流程中受版权保护材料使用的透明度。具体而言，欧盟委员会提出的《人工智能法案》要求生成式人工智能提供商披露受版权保护的训练数据使用方式的详细摘要。64 值得注意的是，这项披露要求并不能免除人工智能提供商的潜在法律责任。拟议立法明确指出，这项义务的存在“不影响联盟或国家或联盟的版权立法”。65 尽管如此，法院在确定潜在侵权案件的最终结果时，可能会考虑是否履行了这一透明义务。此外，此类披露义务可以为创作者行使选择退出权铺平道路，从而为其作品用于训练生成式人工智能模型建立市场。66 像 Stability AI 这样的公司已经开始纳入选择退出条款，允许内容创作者和艺术家将他们的作品排除在其产品 Stable Diffusion 的下一版本之外。 67 Stability AI 的首席执行官在最近的一份公开声明中坚称，他们使用的训练数据集“在伦理、道德和法律层面上均有来源和使用”，同时也承认了不同意见，并补充道：“有些人不同意，所以我们选择退出，并替换完全合法的数据集/模型”。68 法院可能会在其法律推理中考虑这些选择退出机制，并可能引入默示许可的概念来裁决侵权案件。因此，一旦这些选择退出机制获得广泛接受，它们就有可能设定影响司法结果的法律标准。
+
+####
+The A(I)uthor
+The inquiry into the A(I)uthor, or the concept of a machine as an author, sets forth the pressing question of whether AI-generated creativity can be sheltered under the existing fabric of copyright law. Delving into this issue necessitates an examination of two central prerequisites for the copyright pro- tection of creative works: authorship and originality. 69 As mentioned earlier, current intellectual property regimes, including copyright law, trade secrets, and patent law, already offer protections to the foundational software underly- ing AI technology. However, a distinct challenge emerges when considering the actual creative output generated by AI, for the legal safeguards afforded to the software do not readily translate to this innovative domain. A report from the European Commission candidly illustrates the dilemma, observing that the “protection of AI-generated works [...] seems to be [...] problematic”  within the existing legal framework. 70 This complexity arises, in part, from the “humanist approach” ingrained in copyright law, leading to a contentious debate over whether AI-created works truly merit copyright protection at all. 71 In the sections that follow, we will delve deeper into the complex interplay between the notions of authorship and originality as they relate to creativity generated by artificial intelligence. We will explore why these concepts, as cur- rently understood, may pose obstacles to extending copyright protections to AI-generated works. 72
+
+####
+人工智能作者
+对人工智能作者（A(I)author）或机器作为作者的概念的探究，提出了一个紧迫的问题：人工智能产生的创造力是否可以在现有的版权法框架下得到保护。深入研究这个问题需要考察创意作品版权保护的两个核心先决条件：作者身份和原创性。69 如前所述，现行的知识产权制度，包括版权法、商业秘密和专利法，已经为人工智能技术背后的基础软件提供了保护。然而，在考虑人工智能产生的实际创意成果时，一个独特的挑战出现了，因为为软件提供的法律保障并不容易转化为这一创新领域。欧盟委员会的一份报告坦率地阐述了这一困境，指出在现有法律框架内“对人工智能作品的保护[...]似乎[...]存在问题”。 70 这种复杂性部分源于版权法中根深蒂固的“人文主义方法”，这引发了关于人工智能创作作品是否真正值得版权保护的激烈争论。71 在接下来的章节中，我们将深入探讨作者身份和原创性概念之间复杂的相互作用，因为它们与人工智能产生的创造力息息相关。我们将探讨为什么这些概念（就目前理解而言）可能会对将版权保护扩展到人工智能创作的作品构成障碍。72
+
+
+
+
+61 See Joao Pedro Quintais and Nick Diakopoulos, “A Primer and FAQ on Copyright Law and
+Generative AI for News Media”, Medium, 28 April 2023, https://generative -ai -newsroom
+.com /a -primer -and -faq -on -copyright -law -and -generative -ai -for -news -media -f1349f514883
+(listing a number of ethical and responsible uses that should be nonetheless warranted even if
+generative AI models are permitted under copyright law).
+62 See Field v. Google, Inc., 412 F. Supp. 2d 1106 (D. Nev. 2006).
+63 See Shawn Shan et al., “Glaze: Protecting Artists from Style Mimicry by Text-to-Image Mod-
+els”, arXiv:2302.04222 [cs.CR] (2023), https://arxiv .org /abs /2302 .04222.
+64 See AI Act, Art. 28 b 4 c).
+65 ibid.
+66 See Quintais and Diakopoulos, “A Primer and FAQ on Copyright Law and Generative AI for
+News Media”.
+67 See e.g., Benj Edwards, “Stability AI plans to let artists opt out of Stable Diffusion 3 image
+training”, ArsTechnica, 12 December 2022, https://arstechnica .com /information -technol-
+ogy /2022 /12 /stability -ai -plans -to -let -artists -opt -out -of -stable -diffusion -3 -image -training.
+68 See Emad Mostaque (@EMostaque), Twitter, 15 January, https://twitter .com /EMostaque /
+status /1614437223323111425.
+69 Alongside the matters of authorship and originality, there exists a tangential but significant
+question concerning the legal personality of machines generating work. This complex issue,
+though closely related, falls outside the scope of our discussions in this chapter. See e.g., Fro-
+sio, “Four Theories”, 159–161.

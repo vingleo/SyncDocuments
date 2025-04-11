@@ -1,0 +1,374 @@
+MU80E2 手册参考翻译
+
+**********************************************
+Welcome to the MU80
+
+Congratulations and thank you for purchasing the Yamaha MU80 Tone Generator!
+
+The MU80 is an advanced tone generator providing 729 high-quality Voices, full General MIDI compatibility — including Yamaha’s new XG- MIDI (Extended General MIDI) — plus flexible computer interfacing in a highly compact and portable package.
+
+With the convenient built-in host computer interface and MIDI ter- minals, the MU80 is ideal for any computer music system — from connec- tion to a simple laptop to integration in a complete MIDI studio. With its large LCD and the intuitive graphic controls on the display, the MU80 is remarkably easy to use.
+
+The MU80 also features completely independent dual MIDI inputs, 32 Part multi-timbral capacity and full 64-note polyphony for playback of even the most sophisticated song data. A special Performance mode gives you flexible four-Voice operation, for live performance applications.
+
+Built-in digital multi-effects give you enormous versatility in “sweeten- ing” the sound. Plus, the convenient A/D inputs allow you to connect a mi- crophone, electric guitar or other instrument, and mix those signals with the MU80’s Voices. What’s more, the MU80 provides a host of comprehensive, yet easy-to-use editing tools for getting just the sound you need.
+
+欢迎使用 MU80
+
+恭喜您并感谢您购买 Yamaha MU80 音调发生器！
+
+MU80 是一款先进的音调发生器，提供 729 种高品质音色、完全通用 MIDI 兼容性（包括 Yamaha 的新型 XG-MIDI（扩展通用 MIDI））以及灵活的计算机接口，并且封装紧凑且便携。
+
+凭借方便的内置主机接口和 MIDI 终端，MU80 是任何计算机音乐系统的理想选择——从连接到简单的笔记本电脑到集成到完整的 MIDI 工作室。凭借其大 LCD 和显示屏上直观的图形控件，MU80 非常易于使用。
+
+MU80 还具有完全独立的双 MIDI 输入、32 声部多音色容量和完整的 64 音符复音，可播放最复杂的歌曲数据。特殊的演奏模式为您提供灵活的四音色操作，适用于现场演奏应用。
+
+内置数字多重效果器让您能够灵活地“美化”声音。此外，便捷的 A/D 输入允许您连接麦克风、电吉他或其他乐器，并将这些信号与 MU80 的声音混合。此外，MU80 还提供一系列全面且易于使用的编辑工具，让您获得所需的声音。
+
+*************************************************************** 
+Unpacking
+Your MU80 package should include the items listed below. Make sure that you have them all. Also, write down the serial number of your MU80 in the box below, for future reference.
+拆包
+您的 MU80 包装应包含以下所列物品。请确保您已收到所有物品。此外，请在下面的方框中写下您的 MU80 的序列号，以供日后参考。
+
+目录
+
+***************************************************************
+How to Use This Manual
+You are probably eager to try out your new MU80 Tone Generator right away and hear what it can do, rather than have to read through a lot of in- structions before you can even get a sound out of it.
+
+However, to get the most out of your MU80, we strongly suggest that you read the following sections in the order given: 
+1) Precautions This gives you important information on how to care for your new MU80, how to avoid damaging, and how to ensure long-term, reliable operation.
+
+2) The Controls of the MU80 This section introduces you to the panel controls and connectors.
+
+3) The MU80 — What It Is and What It Can Do This briefly provides an overview of the functions and features of the MU80 and offers some important hints on how you can use it effectively.
+
+4) Guided Tour This very important section gets you started using your new MU80. It helps you set up the instrument, play it, and use some of the more im- portant functions and features. The hands-on experience you gain in this section will help you navigate through the other sections of the manual.
+
+5) Setting Up the MU80 in Your Music System; Using the MU80 with a Computer These sections (within the Guided Tour) provide all you need to know to effectively integrate the MU80 into your present computer music system.
+
+6) Reference Once you’re familiar with everything above, lightly go over this com- prehensive guide to all editing functions. You won’t need (or want) to read everything at once, but it is there for you to refer to when you need information about a certain feature or function.
+
+7) Appendix Finally, use the sections in the Appendix as necessary. For example, the Index will come in handy when you need to quickly find information on a specific topic. Other sections, such as the Glossary, Trouble- shooting and Error Messages provide additional useful information.
+
+如何使用本手册
+您可能迫不及待地想立即试用新的 MU80 音调发生器并听听它能做什么，而不必阅读大量说明​​才能听到声音。
+
+但是，为了充分利用您的 MU80，我们强烈建议您按给定顺序阅读以下部分：
+1) 注意事项
+这为您提供了有关如何保养新 MU80、如何避免损坏以及如何确保长期可靠运行的重要信息。
+
+2) MU80 的控件
+本节向您介绍面板控件和连接器。
+
+3) MU80 — 它是什么以及它能做什么
+这简要概述了 MU80 的功能和特性，并提供了有关如何有效使用它的一些重要提示。
+
+4) 导览这个非常重要的部分将帮助您开始使用新的 MU80。它可以帮助您设置乐器、演奏乐器以及使用一些更重要的功能和特性。您在本节中获得的实践经验将帮助您浏览手册的其他部分。
+
+5) 在音乐系统中设置 MU80；将 MU80 与计算机一起使用 这些部分（在导览中）提供了将 MU80 有效集成到您当前的计算机音乐系统中所需的所有信息。
+
+6) 参考 熟悉上述所有内容后，请轻松浏览本指南，了解所有编辑功能。您不需要（或不想）一次阅读所有内容，但当您需要有关某个特性或功能的信息时，可以参考它。
+
+7) 附录 最后，根据需要使用附录中的部分。例如，当您需要快速查找有关特定主题的信息时，索引会派上用场。其他部分，如词汇表、故障排除和错误消息，提供了其他有用信息。
+
+**********************************************
+Precautions
+Your MU80 will give you years of reliable service if you follow the simple precautions below:
+
+■  LOCATION
+Keep the instrument away from locations where it is likely to be exposed to high temperatures (such as direct sunlight) or humidity. Also avoid loca- tions which are subject to excessive dust accumulation or vibration which could cause mechanical damage.
+■ USE THE CORRECT POWER ADAPTOR
+Use only the recommended PA-1207 Power Adaptor for supplying power to the instrument. Use of another adaptor may cause serious damage to the instrument or the adaptor itself.
+■ MAKE SURE POWER IS OFF WHEN MAKING OR REMOVING CONNECTIONS
+To prevent damage to the instrument and other connected equipment, al- ways turn off the power prior to connecting or disconnecting cables. Also, turn the power off when the instrument is not in use, and disconnect the power adaptor during electric storms.
+■ HANDLE THE INSTRUMENT WITH CARE
+Although the instrument has been constructed to withstand the rigors of normal use for optimum sturdiness and reliability, avoid subjecting it to strong physical shocks (such as dropping or hitting it). Since the MU80 is a precision-made electronic device, also avoid applying excessive force to the various controls. When moving the instrument, first unplug the power adap- tor and all other cables to prevent damage to cords and jacks. Always un- plug cables by gripping the plug firmly, not by pulling on the cable.
+■ CLEAN WITH A SOFT, DRY CLOTH
+Never use solvents such as benzine or thinner to clean the instrument, since these will damage the cabinet finish or dull the keys. Wipe clean with a soft, dry cloth. If necessary, use a soft, clean, slightly moistened cloth — making sure to wipe the case off again with a dry cloth.
+■ ELECTROMAGNETIC INTERFERENCE
+Avoid using the unit near televisions, radios or other equipment generating electromagnetic fields. Proximity to such equipment may cause the unit to malfunction, and may generate interference noise in the other appliance as well.
+■ DO NOT OPEN THE CASE OR TRY REPAIRING THE INSTRUMENT YOURSELF
+The instrument contains no user-serviceable parts. Never open the case or tamper with the internal circuitry in any way, since doing so may result in damage to the instrument. Refer all servicing to qualified Yamaha service personnel.
+■ MIDI CABLES
+When connecting the instrument to other MIDI equipment, be sure to use only high-quality cables made especially for MIDI data transmission. Also, avoid using cables longer than 15 meters, since long cables can result in data errors.
+
+Yamaha is not responsible for damage caused by improper handling or operation.
+
+注意事项
+如果您遵循以下简单的注意事项，MU80 将为您提供多年的可靠服务：
+
+■ 位置
+将仪器远离可能暴露在高温（如阳光直射）或潮湿的地方。还要避免放置在灰尘过多或振动过多的地方，因为这可能会造成机械损坏。
+■ 使用正确的电源适配器
+仅使用推荐的 PA-1207 电源适配器为仪器供电。使用其他适配器可能会对仪器或适配器本身造成严重损坏。
+■ 确保在建立或断开连接时关闭电源
+为防止损坏仪器和其他连接设备，在连接或断开电缆之前务必关闭电源。此外，在不使用仪器时请关闭电源，并在雷暴期间断开电源适配器。
+■ 小心处理设备
+尽管设备的构造能够承受正常使用的严酷环境，具有最佳的坚固性和可靠性，但请避免使其受到强烈的物理冲击（例如掉落或撞击）。由于 MU80 是精密制造的电子设备，因此也请避免对各种控件施加过大的力。移动仪器时，请先拔下电源适配器和所有其他电缆，以防止损坏电线和插孔。拔下电缆时，务必牢牢抓住插头，而不要拉扯电缆。
+■ 用柔软的干布清洁
+切勿使用汽油或稀释剂等溶剂清洁仪器，因为这些溶剂会损坏机柜表面或使琴键变钝。用柔软的干布擦拭干净。如有必要，请使用柔软、干净、略微润湿的布 — 确保再次用干布擦拭机壳。
+■ 电磁干扰
+避免在电视、收音机或其他产生电磁场的设备附近使用本设备。靠近此类设备可能会导致本设备发生故障，并且还可能对其他设备产生干扰噪音。
+■ 请勿打开机壳或尝试自行维修本乐器
+本乐器不包含用户可维修的部件。切勿以任何方式打开机壳或篡改内部电路，因为这样做可能会导致乐器损坏。所有维修均应交由合格的 Yamaha 维修人员处理。
+■ MIDI 电缆
+将本乐器连接到其他 MIDI 设备时，请务必仅使用专为 MIDI 数据传输而制造的高质量电缆。此外，避免使用长度超过 15 米的电缆，因为长电缆可能会导致数据错误。
+
+Yamaha 对因不当处理或操作造成的损坏概不负责。
+
+**********************************************
+The Controls of the MU80
+Front Panel
+
+
+**********************************************
+The MU80 — What It Is and What It Can Do
+What It Is…
+
+The MU80 is a compact, highly portable and easy-to-use tone generator. It
+features full General MIDI Level 1 compatibility with 128 General MIDI Voices and 9 drum kits. It also provides new XG-MIDI (Extended General MIDI) compatibility, with a total of 537 Voices and 11 drum kits. The MU80 has 64-note polyphony and is 32-Part multi-timbral. In other words, the MU80 has 32 different Parts, each with its own Voice, so that up to 32 different Voices can be sounded simultaneously. Since the MU80 features dual MIDI input ports (A and B), 16 Parts can be played from one MIDI port and the remaining 16 from the other port.
+
+The MU80 also has a TO HOST terminal for easy interfacing with a computer, allowing you to play the Voices using your favorite music soft- ware. This is where the advanced multi-timbral capabilities come in, letting you playing sophisticated arrangements using up to 32 different Voices at the same time.
+
+The MU80 also features a special Performance mode, in which four Parts are played simultaneously over a single MIDI channel. Connected to a MIDI keyboard, this effectively gives you four tone generators in one. The MU80 gives you two sets of 64 factory-programmed Preset Performances plus 128 Internal Performance locations for your own original Performances.
+
+MU80 — 它是什么以及它能做什么
+它是什么……
+
+MU80 是一款紧凑、高度便携且易于使用的音调发生器。它
+具有完全通用 MIDI 1 级兼容性，具有 128 种通用 MIDI 音色和 9 种鼓组。它还提供新的 XG-MIDI（扩展通用 MIDI）兼容性，总共有 537 种音色和 11 种鼓组。MU80 具有 64 个音符复音，是 32 个声部多音色。换句话说，MU80 有 32 个不同的声部，每个声部都有自己的音色，因此最多可以同时发出 32 种不同的音色。由于 MU80 具有双 MIDI 输入端口（A 和 B），因此可以从一个 MIDI 端口播放 16 个声部，从另一个端口播放其余 16 个声部。
+
+MU80 还具有 TO HOST 终端，可轻松与计算机连接，让您可以使用自己喜欢的音乐软件播放音色。这就是高级多音色功能的用武之地，让您可以同时使用多达 32 种不同的音色演奏复杂的编曲。
+
+MU80 还具有特殊的演奏模式，其中四个声部通过单个 MIDI 通道同时播放。连接到 MIDI 键盘后，这实际上为您提供了四个音调发生器。MU80 为您提供两组 64 个工厂编程的预设演奏以及 128 个内部演奏位置，供您自己演奏原创曲目。
+
+About General MIDI
+General MIDI is a new addition to the worldwide MIDI standard. MIDI, as you know, stands for Musical Instrument Digital Interface, and makes it possible for various electronic musical instruments and other devices to “communicate” with each other. For example, by connecting a sequencer to the MU80’s MIDI IN terminal, you could play back a song on the sequencer using the Voices of the MU80.
+
+So, where does General MIDI fit in all of this? One of the most impor- tant features of General MIDI is in the standardization of Voices. This means that a song recorded in the General MIDI format can be played back on any General MIDI compatible tone generator and sound just as the com- poser intended. For example, if there is an alto sax solo in the song, it will be played by an alto sax Voice on the General MIDI tone generator (and not by a tuba or harpsichord!). Since the MU80 is fully compatible with General MIDI, you can take advantage of the vast wealth of musical mate- rial recorded in that format.
+
+关于通用 MIDI
+通用 MIDI 是全球 MIDI 标准的新成员。如您所知，MIDI 代表乐器数字接口，它使各种电子乐器和其他设备能够相互“通信”。例如，通过将音序器连接到 MU80 的 MIDI IN 端子，您可以使用 MU80 的音色在音序器上播放歌曲。
+
+那么，通用 MIDI 在所有这些中处于什么位置？通用 MIDI 最重要的功能之一是音色的标准化。这意味着以通用 MIDI 格式录制的歌曲可以在任何通用 MIDI 兼容的音调发生器上播放，并且听起来就像作曲家想要的那样。例如，如果歌曲中有中音萨克斯独奏，它将由通用 MIDI 音调发生器上的中音萨克斯音色演奏（而不是由大号或大键琴演奏！）。由于 MU80 与通用 MIDI 完全兼容，因此您可以利用以该格式记录的大量音乐素材。
+
+What It Can Do…
+Here are a few ideas on how you can use the MU80. The list below is not comprehensive, but is meant to be a general guide to the possibilities and provide a starting point or springboard for your own creative ideas and ex- plorations.
+
+它能做什么……
+以下是一些关于如何使用 MU80 的想法。下面的列表并不全面，但旨在作为可能性的一般指南，并为您自己的创意和探索提供起点或跳板。
+
+Using With MIDI Keyboard
+Use the MU80 as supplementary tone generator with your MIDI keyboard and play the Voices of both instruments in a layer together. Or, use the con- venient Performance mode, and play four Voices on the MU80 at once. You can split the four Voices across the keyboard, playing each from a different register. Or you can create sophisticated velocity splits, in which a different Voice is heard depending on how strongly you play the keyboard. Or use keyboard and velocity splits together for even greater flexibility.
+
+Using With a Computer or Sequencer
+Home Studio Setup
+The MU80 integrates instantly and easily into any existing setup. If you have a MIDI keyboard, computer and sequencing software, the MU80 with its high-quality Voices and multi-timbral capabilities can expand your home studio system.
+Carry It With You
+If you have a laptop computer (and sequencing software), simply connect the MU80, plug in some headphones and you’ve got a complete, high-pow- ered music making system that’s ready to go wherever you go. Use it for composing, arranging, practicing or making/playing demos for your band.
+Multimedia
+Since it’s portable and compatible with General MIDI, the MU80 is a natu- ral for multimedia applications. Bring it with you to a presentation — since the computer interface is built-in to the MU80, it hooks up instantly and easily to the computer’s serial port or printer port, without the need for any other equipment.
+
+与 MIDI 键盘配合使用
+将 MU80 用作 MIDI 键盘的补充音调发生器，并在同一层中同时演奏两种乐器的音色。或者，使用便捷的演奏模式，同时在 MU80 上演奏四种音色。您可以将四种音色分割到键盘上，从不同的音区演奏每种音色。或者，您可以创建复杂的速度分割，根据您弹奏键盘的力度，可以听到不同的音色。或者将键盘和速度分割一起使用，以获得更大的灵活性。
+
+与计算机或音序器配合使用
+家庭工作室设置
+MU80 可立即轻松地集成到任何现有设置中。如果您有 MIDI 键盘、计算机和音序软件，MU80 凭借其高品质音色和多音色功能可以扩展您的家庭工作室系统。
+随身携带
+如果您有笔记本电脑（和排序软件），只需连接 MU80，插入耳机，您就拥有了一个完整的、功能强大的音乐制作系统，无论您去哪里都可以使用。使用它为您的乐队作曲、编曲、练习或制作/播放演示。
+多媒体
+由于 MU80 便携且兼容通用 MIDI，因此它非常适合多媒体应用。将它带到演示中 — 由于计算机接口内置于 MU80，因此它可以立即轻松地连接到计算机的串行端口或打印机端口，而无需任何其他设备。
+
+About the Modes of the MU80
+The MU80 has two main operating modes: Multi and Performance. In Multi mode, the MU80 is a 32-Part multi-timbral tone generator; in Per- formance mode, the MU80 effectively functions as four tone generators controlled over a single MIDI channel.
+关于 MU80 的模式
+MU80 有两种主要操作模式：多重和性能。在多重模式下，MU80 是一个 32 声部多音色音调发生器；在性能模式下，MU80 可有效地用作通过单个 MIDI 通道控制的四个音调发生器。
+
+Which mode the MU80 is in depends on the selected Sound Module mode. If XG, TG300B or C/M are selected, the MU80 automatically sets itself to the Multi mode. When PFM is selected, the MU80 is in the Per- formance mode.
+MU80 处于哪种模式取决于所选的声音模块模式。如果选择了 XG、TG300B 或 C/M，MU80 会自动设置为多重模式。当选择 PFM 时，MU80 处于性能模式。
+
+Sound Module Mode
+|----------XG
+|----------TG300B
+|----------C/M
+|----------Performance
+
+The bottom right of the display indicates the currently selected Sound Module mode.
+显示屏的右下方显示当前选择的声音模块模式。
+
+Play Modes and the Part Controls
+Once the operating mode of the MU80 is set (Multi or Performance), there are two main ways you can use the MU80: playing and editing. In the Play modes, you play the Voices; in the various Edit modes, you change their settings.
+
+Within the Play modes are the Part controls. These let you make basic settings for the Parts. The Single Part controls allow you to make independ- ent settings for each Part, while the All Part controls allow you to change the overall settings of all Parts. (See page 36 for more information.)
+
+播放模式和声部控制
+一旦设置了 MU80 的操作模式（多重或性能），您可以使用两种主要方式使用 MU80：播放和编辑。在播放模式下，您可以播放声音；在各种编辑模式下，您可以更改其设置。
+
+播放模式中有声部控制。这些控制可让您对声部进行基本设置。单个声部控制允许您对每个声部进行独立设置，而所有声部控制允许您更改所有声部的整体设置。（有关更多信息，请参阅第 36 页。）
+
+
+Using Mute/Solo
+The MU80 has convenient Mute and Solo functions for selectively muting or soloing any of the 32 Parts and A/D Parts A1 and A2. This is especially useful when playing back several Parts from a connected computer or sequencer. Mute lets you silence one Part to hear how all of the other Parts sound without it. Solo lets you isolate a single Part, to hear how that Part sounds by itself.
+
+Mute and Solo are effective tools that help you as you edit the Parts, since they allow you to better hear how the changes you make affect specific Voices as well as the overall sound.
+
+使用静音/独奏
+MU80 具有方便的静音和独奏功能，可选择性地静音或独奏 32 个声部和 A/D 声部 A1 和 A2。这在从连接的计算机或音序器播放多个声部时特别有用。静音可让您静音一个声部，以听到没有它时其他所有声部的声音。独奏可让您隔离单个声部，以听到该声部本身的声音。
+
+静音和独奏是帮助您编辑声部的有效工具，因为它们可以让您更好地听到所做的更改如何影响特定音色以及整体声音。
+
+Operation
+While playing the keyboard (or during playback of a song from a sequencer), press the MUTE button. Each press cycles through the three functions: Mute, Solo and Normal operation.
+
+操作
+弹奏键盘时（或播放音序器中的歌曲时），按下静音按钮。每按一次，静音、独奏和正常操作这三个功能都会循环。
+
+####
+Using the A/D Input
+The MU80 features a special A/D (Analog-to-Digital) Input function that allows you to connect a microphone, electric guitar or other instrument and mix in those signals with the MU80’s Voices. A/D Input is perfect for singing along with your keyboard performance, since it allows you to blend the two signals without the need for an external mixer. Or you can use it to sing or play guitar over backing tracks played from a MIDI sequencer. There are two A/D Parts — A1 and A2 — and they include several different pre-programmed settings that take advantage of the built-in effects of the MU80.
+
+使用 A/D 输入
+MU80 具有特殊的 A/D（模拟到数字）输入功能，可让您连接麦克风、电吉他或其他乐器，并将这些信号与 MU80 的声音混合。A/D 输入非常适合在键盘演奏的同时唱歌，因为它允许您混合两个信号，而无需外部混音器。或者，您可以使用它在 MIDI 音序器播放的伴奏曲目上唱歌或弹吉他。有两个 A/D 部分 - A1 和 A2 - 它们包括几种不同的预编程设置，可利用 MU80 的内置效果。
+
+Operation
+1 Turn down the A/D INPUT control on the front panel.
+2 Connect the microphone or instrument to the A/D INPUT jack.
+3 Use the PART q buttons to select Part A1.
+4 Use the SELECT w buttons to move the arrow cursor to PGM#, as shown below, and use the VALUE q buttons to select number 002.
+5 Move the arrow cursor to BANK (with the SELECT w buttons) and use the VALUE q buttons to select the type of input: Mic, Guitar, Keyboard or Audio. This determines the gain level of the input. Select the type corresponding to the input you’ll use.
+6 Slowly bring up the A/D INPUT control on the front panel and play the instrument (or sing into the microphone) until the level is appropriate.
+7 Now, move the arrow cursor back to PGM# (with the SELECT w buttons) and try selecting some different A/D programs (with the VALUE q buttons).
+
+The available programs have been specially programmed to suit the type of input selected. For example, programs for Mic input include Karaoke and Vocal; Guitar input programs include Tube, Stack and Phaser. Explore some of these settings on your own with a microphone and different instruments.
+
+操作
+1 调低前面板上的 A/D INPUT 控制旋钮。
+2 将麦克风或乐器连接到 A/D INPUT 插孔。
+3 使用 PART q 按钮选择声部 A1。
+4 使用 SELECT w 按钮将箭头光标移动到 PGM#（如下所示），然后使用 VALUE q 按钮选择编号 002。
+5 将箭头光标移动到 BANK（库）（使用 SELECT w 按钮），并使用 VALUE q 按钮选择输入类型：麦克风、吉他、键盘或音频。这将决定输入的增益电平。请选择与您要使用的输入对应的类型。
+6 慢慢调出前面板上的 A/D INPUT 控制旋钮，演奏乐器（或对着麦克风演唱），直到电平合适为止。
+7 现在，将箭头光标移回 PGM#（使用 SELECT w 按钮），并尝试选择一些不同的 A/D 程序（使用 VALUE q 按钮）。
+
+可用的程序已根据所选的输入类型进行了专门编程。例如，麦克风输入程序包括卡拉 OK 和人声；吉他输入程序包括 Tube、Stack 和 Phaser。您可以使用麦克风和不同的乐器自行探索这些设置。
+
+####
+Setting Up the MU80 in Your Music System
+As you learned in the section The MU80 — What It Is and What It Can Do on page 4, the MU80 can be integrated into a variety of setups. It would be impossible to cover all connection possibilities in a short manual as this; however, the section below will help in quickly setting up the MU80 and using it in your system.
+
+####
+在您的音乐系统中设置 MU80
+正如您在第 4 页“MU80 — 它是什么以及它能做什么”一节中了解到的，MU80 可以集成到各种设置中。在如此简短的手册中不可能涵盖所有连接可能性；但是，以下部分将帮助您快速设置 MU80 并将其用于您的系统。
+
+Connecting With a Computer
+The MU80 features a built-in host computer interface, allowing you to di- rectly connect it to your computer — eliminating the need of installing a special MIDI interface to your computer. The MU80 can be used with the following computers: Apple Macintosh, IBM PC and the NEC PC-9800 Series.
+
+If your computer has a MIDI interface you may want to connect the MU80 to it, rather than using the host computer interface on the MU80.
+
+(See the section “Connecting to Other MIDI Devices” on page 28.) Depending on the computer or interface used, set the HOST SELECT switch to the appropriate setting: MIDI, PC-1 (NEC computers), PC-2 (IBM and clones), or Mac (Macintosh). For information on the types of ca- bles that can be used for connection, see the section “MIDI/Computer Connecting Cables” on page 32.
+
+连接计算机
+MU80 具有内置主机接口，可让您直接将其连接到计算机 - 无需在计算机上安装特殊的 MIDI 接口。MU80 可与以下计算机一起使用：Apple Macintosh、IBM PC 和 NEC PC-9800 系列。
+
+如果您的计算机有 MIDI 接口，您可能希望将 MU80 连接到它，而不是使用 MU80 上的主机接口。
+
+（请参阅第 28 页的“连接到其他 MIDI 设备”部分。）根据所使用的计算机或接口，将 HOST SELECT 开关设置为适当的设置：MIDI、PC-1（NEC 计算机）、PC-2（IBM 和克隆）或 Mac（Macintosh）。有关可用于连接的电缆类型的信息，请参阅第 32 页的“MIDI/计算机连接电缆”部分。
+
+Macintosh
+Follow these instructions if you have an Apple Macintosh not equipped with an external MIDI interface. Connect the TO HOST terminal on the MU80 to the Modem or Printer port on the Macintosh.
+
+Operation
+1 Set the HOST SELECT switch to Mac.
+2 Connect the MU80 to the host computer, as shown in the illustration above. Use a standard Macintosh cable (8-pin Mini DIN on both ends; see page 32).
+3 Turn on the the host computer, then the MU80.
+4 Start up your music software, and set up the appropriate options on the software for operation with the MU80.
+
+Macintosh
+如果您的 Apple Macintosh 电脑未配备外部 MIDI 接口，请按照以下说明操作。将 MU80 上的 TO HOST 端子连接到 Macintosh 电脑上的调制解调器或打印机端口。
+
+操作
+1 将 HOST SELECT 开关设置为 Mac。
+2 将 MU80 连接到主计算机，如上图所示。使用标准 Macintosh 线缆（两端均为 8 针 Mini DIN 接口；参见第 32 页）。
+3 打开主计算机，然后打开 MU80。
+4 启动您的音乐软件，并在软件上设置与 MU80 兼容的选项。
+
+The options you may have to set include:
+MIDI Interface Type g Standard MIDI Interface
+MIDI Time Piece g On (for controlling all 32 Parts of the MU80)
+Clock g 1 MHz
+
+Other options and settings may have to be made as well. Refer to the owner’s manual of your particular music software for more information.
+
+IBM PC and Clones
+Follow these instructions if you have an IBM PC/AT or compatible computer not equipped with an external MIDI interface. Connect the TO HOST terminal on the MU80 to one of the computer’s serial ports, COM 1 or COM 2.
+
+NOTE
+Your music software must be able to recognize the TO HOST connection. Consult your Yamaha dealer for more details. If your software is not compatible, you can still use the MU80 by installing a MIDI interface (internal card or external) to the computer.
+
+Operation
+1 Set the HOST SELECT switch to PC-2.
+2 Connect the MU80 to the host computer, as shown in the illustration above. Use a standard computer cable (8-pin Mini DIN to 9-pin D-SUB; see page 32).
+3 Turn on the the host computer, then the MU80.
+4 Start up your music software, and set up the appropriate options on the software for operation with the MU80.
+
+Refer to the owner’s manual of your particular music software for more information.
+
+Connecting to Other MIDI Devices
+The MU80 is equipped with MIDI IN and OUT terminals, allowing you to use it in any MIDI system. Example uses for the built-in MIDI interface include:
+☛ Connecting to a MIDI keyboard (for playing the sounds of the MU80 from that keyboard).
+☛ Connecting to a computer equipped with a MIDI interface (either internal or external).
+☛ Connecting to a hardware sequencer (such as the Yamaha QY300).
+☛ Connecting to a MIDI data storage device (such as the Yamaha MDF2 MIDI Data Filer).
+
+Operation
+1 Set the HOST SELECT switch to MIDI.
+2 Connect the MU80 to the appropriate MIDI device, as shown in the illustrations above. Use a standard MIDI cable (see page 32).
+3 Turn on the the connected device, then the MU80.
+4 If you are using a computer, start up your music software, and set up the appropriate options on the software for operation with the MU80.
+
+Using the MU80 with a MIDI Data Storage Device
+You can also use the MU80 with a MIDI data storage device, such as the Yamaha MDF2 MIDI Data Filer. This lets you save or back up whatever changes you’ve made in the settings of the Utility and Part Edit modes, as well as changes to the EQ built-in effects and Performances. Then, when you want to recall those settings, you can transfer the appropriate data from the storage device.
+
+The MDF2 also allows you to play compatible song data on the MU80 directly from the MDF2 itself, without the need of a sequencer.
+
+Make sure that the MU80 is properly connected to the data storage de- vice (via MIDI). (Refer to page 28 for the connection example.) Use the Dump Out function (page 102) to send data to the device. Also refer to the owner’s manual of your data storage device for specific operating instruc- tions in receiving or sending data.
+
+Data Flow Block Diagram
+When HOST SELECT switch is set to MIDI (31,250 bps):
+
+MIDI/Computer Connecting Cables
+
+This concludes your basic tour of the important functions of the MU80. To find out more about how to best use your MU80, look through the Reference section that fol- lows and try out some of the functions and operations that interest you.
+
+************************************************************
+REFERENCE
+
+The Reference section of this manual covers in detail all of the functions of the MU80. Refer to it when you need information about a specific function, feature or operation.
+
+Multi Mode
+In the Multi mode, the MU80 performs as a multi-timbral tone generator capa- ble of playing up to 32 Parts simultaneously, over 32 MIDI channels. Normally, the MU80 should be set to Multi mode when using it with a sequencer and General MIDI song data. There are three Multi modes: XG, TG300B and C/M.
+Each mode provides compatibility with different music software and hardware.
+XG: This stands for Extended General MIDI and provides the full poten- tial of the MU80, giving you access to all 537 Voices.
+TG300B: This mode provides compatibility with the GM-B mode of the TG300 Tone Generator.
+C/M: This mode provides compatibility with most computer music soft- ware not supported by the other two Multi modes.
+
+NOTE
+When set to the TG300B mode, the MU80 may not be able to play TG300-specific song data with complete accuracy. However, MIDI data designed for other computer music tone generators is compatible with the MU80.
+
+To set the Multi mode:
+1 Press the MODE button.
+2 Use theg SELECT w buttons to select the desired Multi mode:
+XG, TG300B or C/M.
+3 Press the EXIT button or the PLAY button to return to the Play display.
+
+The currently selected mode setting is shown by the arrow at the bottom
+right of the display.
+
+
+Multi Play Mode
+The Play mode (with the main Play display shown below) is the normal op- erating mode of the MU80. To select the Play mode from any other mode, press the PLAY button. (The Play mode is also automatically selected when you turn on the MU80.)
+
+

@@ -683,3 +683,53 @@ A Program Change message (Figure 2.20) consists of 2 bytes of information:
 程序变更消息（图 2.20）由 2 个字节的信息组成：
 ◆ 程序变更状态/MIDI 通道号（1-16）
 ◆ 程序 ID 号（0-127）
+
+####
+Pitch Bend Messages
+Pitch bend sensitivity refers to the response sensitivity (in semitones) of a pitch-bend wheel or other pitch-bend controller (which, as you’d expect, is used to bend the pitch of a note upward or downward). Since the ear can be extremely sensitive to changes in pitch, this control parameter is encoded using 2 data bytes, yielding a total of 16,384 steps. Since this parameter is most com- monly affected by varying a pitch wheel (Figures 2.21 and 2.22), the control values range from ?8192 to ?8191, with 0 being the instrument’s or part’s unaltered pitch. Although the General MIDI spec recommends that the pitch-bend wheel have a range of ?2 half steps, most devices allows the pitch-bend range to be varied upwards to a full octave.
+
+####
+弯音信息
+弯音灵敏度是指弯音轮或其他弯音控制器（如您所料，用于将音符的音高向上或向下弯曲）的响应灵敏度（以半音为单位）。由于耳朵对音高变化非常敏感，因此此控制参数使用 2 个数据字节进行编码，总共产生 16,384 个步骤。由于此参数最常受弯音轮变化的影响（图 2.21 和 2.22），控制值范围从 ?8192 到 ?8191，其中 0 表示乐器或声部的未改变音高。尽管通用 MIDI 规范建议弯音轮的范围为 ?2 个半音，但大多数设备允许弯音范围向上变化到一个完整的八度。
+
+####
+Control Change Messages
+Control Change messages are used to transmit information to a device (either internally orthrough a MIDI line/network) that relates to real-time control over its performance parameters.
+
+Three types of Control Change messages can be transmitted via MIDI:
+◆ Continuous controllers—Controllers that relay a full range of variable control settings (often ranging in value from 0 to 127, although, in certain cases, two controller messages can be combined in tandem to achieve a greater resolution)
+◆ Switch controllers—Controllers that have either an “off” or an “on” state with no intermediate settings
+◆ Channel mode message controllers—Controllers that range from controller numbers 120 through
+127 and are used to set the note sounding status, instrument reset, local control on/off, all notes off, and MIDI mode status of a device or instrument
+
+####
+控制变化消息
+控制变化消息用于将信息传输到设备（内部或通过 MIDI 线路/网络），该信息与实时控制其性能参数有关。
+
+可以通过 MIDI 传输三种类型的控制变化消息：
+◆ 连续控制器 - 传递全范围可变控制设置的控制器（值通常从 0 到 127，但在某些情况下，两个控制器消息可以串联组合以实现更高的分辨率）
+◆ 开关控制器 - 具有“关闭”或“打开”状态且没有中间设置的控制器
+◆ 通道模式消息控制器 - 控制器编号范围从 120 到
+127，用于设置音符发声状态、乐器重置、本地控制打开/关闭、所有音符关闭以及设备或乐器的 MIDI 模式状态
+
+A single Control Change message or a stream of such messages is transmitted whenever controllers (such as foot switches, foot pedals, pitch-bend wheels, modulation wheels, or breath controllers) are varied in real time (Figure 2.23). Newer controllers and software editors often offer up a wide range of switched and variable controllers, allowing for extensive, user-programmable control over any number of device, voice, and mixing parameters in real time (Figure 2.24).
+A Control Change message (Figure 2.25) consists of 3 bytes of information:
+◆ Control change status/MIDI channel number (1–16)
+◆ Controller ID number (0–127)
+◆ Corresponding controller value (0–127)
+
+每当控制器（如脚踏开关、脚踏板、弯音轮、调制轮或呼吸控制器）实时变化时，就会传输单个控制变化消息或此类消息流（图 2.23）。较新的控制器和软件编辑器通常提供各种开关和可变控制器，允许实时对任意数量的设备、语音和混音参数进行广泛的用户可编程控制（图 2.24）。
+控制变化消息（图 2.25）由 3 个字节的信息组成：
+◆ 控制变化状态/MIDI 通道号（1-16）
+◆ 控制器 ID 号（0-127）
+◆ 相应的控制器值（0-127）
+
+####
+Controller ID Numbers
+As you can see, the second byte of the Control Change message is used to denote the controller ID number. This all-important value is used to specify which of the device’s program or perform- ance parameters are to be addressed. Before we move on to discuss the various control numbers that are listed in the MIDI spec, it’s best to take time out to discuss the values that are assigned
+to these parameters (i.e., the third and subsequent bytes).
+
+####
+控制器 ID 号
+如您所见，控制更改消息的第二个字节用于表示控制器 ID 号。这个非常重要的值用于指定要处理设备的哪个程序或性能参数。在我们继续讨论 MIDI 规范中列出的各种控制号之前，最好花点时间讨论一下分配给这些参数的值（即第三个字节和后续字节）。
+

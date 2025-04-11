@@ -1,12 +1,14 @@
 Legal English 翻译
 原稿路径
-d:\工作内容\要看的电子书-可删除-不要新增\Finance Legal Trade财务法律-金融\14Legal English-添加书签.pdf
+d:\工作内容\要看的电子书-可删除-不要新增\Finance Legal Trade财务法律-金融\Legal English.pdf
 
-
+********************************************
+********************************************
 PART 1
 Business law and practice
 商业法与实务
 
+********************************************
 Chapter 1 Company formation
 第一章 公司成立
 
@@ -120,5 +122,480 @@ Taking account of the company details provided on p. 8, complete the following c
 ·表格 10
 ·表格 12
 考虑到第8页中提供的公司详细信息，通过在阴影空间中输入正确的详细信息来相应地完成以下公司成立文件。
+
+表格略
+
+Exercise 4–multi-word verbs
+Complete the following sentences by entering an appropriate multi-word verb into each blank space from the selection in the panel below.
+
+contract for	 	|negotiate with |act for
+appeal against 		|decide against |enter into
+
+1. The Defendant has decided to _ _ the judgment.
+2. The judgment _ _  my client.
+3. We are confident that the Judge will _ _ our opponent.
+4. He wants to _ _ discussions with a view to becoming a director of the company.
+5. He intends to _ _ the company to purchase some shares.
+6. l have been asked to _ _ a newly incorporated company.
+
+练习 4 – 多词动词
+通过在下方面板的选择中在每个空白处输入适当的多词动词来完成以下句子。
+
+合同 | 谈判 | 行动
+上诉 | 决定 | 参与
+
+1. 被告已决定 _ _ 判决。
+2. 判决 _ _ 我的客户。
+3. 我们相信法官会 _ _ 我们的对手。
+4. 他希望 _ _ 讨论，以期成为公司的董事。
+5. 他打算 _ _ 公司购买一些股份。
+6. 我被要求 _ _ 一家新成立的公司。
+
+Law notes
+Characteristics of a limited liability company
+■ A limited company has a separate legal personality in law (as established by case of Salomon v Salomon 1897)
+■ A company is owned by shareholders, management decisions primarily being made by
+directors
+■ Shareholders (members) and directors have limited liability
+■ A company must be registered at the Companies Registry (based in Cardiff for companies incorporated in England and Wales and in Edinburgh for companies incorporated in Scotland)
+■ A company comes into existence upon issue of a certificate of incorporation
+■ Documents required to form a company: Memorandum of Association; Articles of Association; Form 10; Form 12
+■ Memorandum of Association indicates: the name of the company; whether it is a private or public limited company; the objects of the company (which state the purpose of the company and the scope of its legal capacity to conduct business with outside parties)
+■ Articles of Association provide a set of internal company rules
+■ A shareholder’s personal liability is limited to paying fully for shares held
+■ A company’s nominal (or authorised) share capital refers to the quantity of shares a com- pany is authorised to issue (as indicated in the company’s Memorandum of Association)
+■ A company’s issued share capital (also known as allotted share capital) refers to the value of shares actually issued (or allotted) to shareholders
+■ A company’s paid-up share capital refers to the amount of the total (nominal) value of
+the issued share capital actually ‘paid-up’ by shareholders
+■ There are various types of shares which a company can issue, including:
+1. ordinary shares–usually carrying voting rights and a right to any dividend declared by the company (i.e. share of any profits made by the company)
+2. preference shares–which do not carry voting rights (referred to as non-voting shares) but provide priority (i.e. a preference) to payment of a dividend
+■ Continuing duty on company to maintain annual accounts and to file annual accous with Registrar of Companies
+
+法律说明
+有限责任公司的特征
+■ 有限责任公司在法律上具有独立法人资格（由 1897 年 Salomon v Salomon 案确立）
+■ 公司由股东所有，管理决策主要由
+董事做出
+■ 股东（成员）和董事承担有限责任
+■ 公司必须在公司注册处注册（在英格兰和威尔士注册的公司注册处位于卡迪夫，在苏格兰注册的公司注册处位于爱丁堡）
+■ 公司在颁发注册证书后成立
+■ 成立公司所需文件：公司章程；公司章程细则；表格 10；表格 12
+■ 公司章程表明：公司名称；公司是私人有限公司还是公众有限公司；公司宗旨（阐明公司宗旨及其与外部各方开展业务的法律能力范围）
+■ 公司章程规定了一套公司内部规则
+■ 股东的个人责任仅限于全额支付所持有的股份
+■ 公司的名义（或授权）股本是指公司获准发行的股份数量（如公司的公司章程大纲所示）
+■ 公司的已发行股本（也称为分配股本）是指实际发行（或分配）给股东的股份价值
+■ 公司的实缴股本是指股东实际“缴付”的已发行股本的总（名义）价值
+■ 公司可以发行各种类型的股份，包括：
+1. 普通股——通常具有投票权和公司宣布的任何股息的权利（即公司所获利润的份额）
+2. 优先股——不具有投票权（称为优先股）无投票权股份），但优先（即优先权）支付股息
+■ 公司继续有义务维护年度账目并向公司注册处提交年度账目
+
+Grammar notes
+
+Multi-word verbs
+Multi-word verbs consist of a verb and at least one particle. A particle is a word which would be a preposition or an adverb in a different context. In this chapter you have encountered several examples of multi-word verbs such as those in: enter into a contract; comply with the requirements; subscribe their names to.
+Multi-word verbs come in four categories:
+1. verbs with particles and no object. E.g. Sit down!
+2. verbs with two particles. E.g. He gets on with his client.
+3. verb + inseperable particle ? object. E.g. I’m waiting for the trial.
+4. verb + separable particle ? object. E.g. He set out the terms / He set the terms out.
+
+多词动词
+多词动词由一个动词和至少一个助词组成。助词是一个词，在不同语境中可以用作介词或副词。在本章中，您已经遇到了几个多词动词的例子，例如：订立合同；遵守要求；签署他们的名字。
+多词动词分为四类：
+1. 带助词而无宾语的动词。例如坐下！
+2. 带两个助词的动词。例如他和他的客户相处得很好。
+3. 动词 + 不可分离助词 ? 宾语。例如我在等待审判。
+4. 动词 + 可分离助词 ? 宾语。例如他制定了条款/他制定了条款。
+
+List of multi-word verbs
+The following is a non-exhaustive list of examples of multi-word verbs used in legal English.
+
+act for | appeal against | charge with
+contract for | decide for / against | enter into
+file for | find against|  legislate for / against
+negotiate with / for | prohibit from  | rule against
+settle for | swear in | withdraw from
+
+多词动词列表
+以下是法律英语中使用的多词动词示例的非详尽列表。
+
+赞成 | 反对 | 指控
+签约 | 决定赞成/反对 | 进入
+提交 | 裁定反对 | 立法赞成/反对
+谈判 | 禁止 | 裁定反对
+达成协议 | 宣誓 | 退出
+
+********************************************
+Chapter 2 Board meetings
+第二章 董事会会议
+
+Learning Objectives
+By completing the exercises in this chapter you will:
+■ Understand and be capable of explaining the practice and procedure of board meetings
+■ Be familiar with board meeting documentation
+■ Develop your vocabulary in relation to company meetings
+■ Acquire practice in drafting board meeting documentation
+■ Develop word skills and vocabulary relevant to company law
+■ Consider the use of relevant grammar including combining nouns and plural nouns
+
+学习目标
+通过完成本章中的练习，您将：
+■ 理解并能够解释董事会会议的惯例和程序
+■ 熟悉董事会会议文件
+■ 积累与公司会议相关的词汇量
+■ 获得起草董事会会议文件的实践经验
+■ 培养与公司法相关的词汇技能和词汇量
+■ 考虑使用相关语法，包括组合名词和复数名词
+
+Introduction
+In this chapter and the next one we will consider the practice and procedure of company meetings. These take two basic forms:
+1. Board meetings
+2. Shareholders’ meetings
+We shall consider shareholders’ meetings in the next chapter. The main characteristics of a board meeting (also known as a directors’ meeting) are as follows.
+
+简介
+在本章和下一章中，我们将探讨公司会议的实践和程序。这些会议有两种基本形式：
+1. 董事会会议
+2. 股东大会
+我们将在下一章探讨股东大会。董事会会议（也称为董事会议）的主要特点如下。
+
+Board meetings
+Board meetings are attended by the directors of the company. Day to day business decisions are usually taken at board meetings. Matters to be decided upon are put to the meeting in the form of ‘resolutions’, each director present casting a vote for or against each resolution being considered. (Voting is usually by a ‘show of hands’.) Whether or not a resolution is passed depends on whether the majority of votes are in favour of or against that resolution. In other words the decision is made by a simple majority. Multi-national companies with directors located inter- nationally often stipulate in their articles that board meetings may be validly held by means of telephone or audio-visual conferencing as well as via the internet.
+
+董事会会议
+董事会会议由公司董事出席。日常业务决策通常在董事会会议上做出。待决定的事项以“决议”的形式提交会议，每位出席的董事对正在审议的每项决议投赞成或反对票。（投票通常采用“举手表决”的方式。）决议是否通过取决于多数票是赞成还是反对该决议。换句话说，决定由简单多数作出。董事位于国际各地的跨国公司通常会在其章程中规定，董事会会议可以通过电话或视听会议以及互联网有效举行。
+
+Any director can call a board meeting on reasonable notice to all the other direc- tors. Board meetings are therefore often convened at short notice. A written record is made of matters discussed and of resolutions considered at a board meeting.
+This record is known as the ‘minutes’ of the meeting.
+
+任何董事均可在向所有其他董事发出合理通知后召集董事会会议。因此，董事会会议通常在短时间内召开。董事会会议讨论的事项和审议的决议均有书面记录。
+该记录称为会议“会议记录”。
+
+Exercise 1–comprehension
+In Chapter 1 we incorporated a company named Maplink Limited (‘Maplink’). In common with all companies, Maplink will hold board and shareholders’ meetings. Let us assume therefore that Maplink is now planning to hold its first board meeting. (You may recall that Maplink has two directors, namely Thomas Shapiro and Dimitris Yavaprapas.) Continuing to act as Maplink’s lawyer you are now asked to prepare the minutes for the first board meeting of the company, taking account of the following specific instructions.
+
+练习 1——理解
+在第 1 章中，我们成立了一家名为 Maplink Limited（“Maplink”）的公司。与所有公司一样，Maplink 将召开董事会和股东大会。因此，我们假设 Maplink 现在正计划召开其第一次董事会会议。（您可能还记得 Maplink 有两位董事，分别是 Thomas Shapiro 和 Dimitris Yavaprapas。）继续担任 Maplink 的律师，现在要求您准备公司第一次董事会会议的会议记录，并考虑以下具体指示。
+
+CLIENT INSTRUCTIONS
+■ Another director is to be appointed, namely Mr Kadir Salleh of 4 Kensington Palace Gardens, London, W2 4AJ 
+■ The name of the company is to be changed from Maplink Limited to Travelgraph Limited
+
+TASK
+Complete the minutes of the company’s first board meeting by selecting the most appropriate word from the list below to place in each correspondingly numbered space in the draft minutes on the following page.
+
+1. (a) restitution
+(b) resolution
+(c) resolved
+(d) determined
+
+2. (a) employed
+(b) appointed
+(c) selected
+(d) commissioned
+
+3. (a) classified
+(b) head
+(c) official
+(d) registered
+
+4. (a) disclosed
+(b) indicated
+(c) presented
+(d) represented
+
+5. (a) collated
+(b) convened
+(c) assembled
+(d) accumulated
+
+6. (a) given
+(b) provided
+(c) catered
+(d) supplied
+
+7. (a) intentions
+(b) proposals
+(c) resolve
+(d) resolutions
+
+8. (a) declared
+(b) proclaimed
+(c) affirmed
+(d) publicised
+
+客户指示
+■ 将任命另一名董事，即位于 4 Kensington Palace Gardens, London, W2 4AJ 的 Kadir Salleh 先生
+■ 公司名称将从 Maplink Limited 更改为 Travelgraph Limited
+
+任务
+完成公司第一次董事会会议的会议记录，从下面的列表中选择最合适的单词，并将其放在下页草稿会议记录中每个相应编号的空间中。
+
+1. (a) 补偿
+(b) 决议
+(c) 解决
+(d) 确定
+
+2. (a) 雇用
+(b) 任命
+(c) 选定
+(d) 委任
+
+3. (a) 保密
+(b) 首领
+(c) 官员
+(d) 登记
+
+4. (a) 披露
+(b) 表明
+(c) 提出
+(d) 代表
+
+5. (a) 整理
+(b) 召集
+(c) 汇集
+(d) 积累
+
+6. (a) 给予
+(b) 提供
+(c) 满足
+(d) 供应
+
+7. (a) 意图
+(b) 提议
+(c) 解决
+(d) 决议
+
+8. (a) 宣布
+(b) 宣告
+(c) 确认
+(d) 公布
+
+Now name yourself as the company’s solicitor by entering your own name in box ‘A’ of paragraph 2 of the minutes of the board meeting!
+
+				MAPLINK LIMITED
+				
+Minutes of the first meeting of the board of directors of Maplink Limited (‘the company’) held at 44 Princess Diana Walk, South Kensington, London, W2 3SL on 15 May 2006 at 10.00 a.m.
+
+Present: Thomas Shapiro
+		Dimitris Yavaprapas
+		
+		
+In Attendance: Gisela Wirth
+1. Thomas Shapiro and Dimitris Yavaprapas accepted office as directors of the
+company. It was resolved that Thomas Shapiro be appointed Chairman of the board.
+2. It was [1] that [A] be appointed solicitor to the
+company.
+3. It was resolved that Gisela Wirth be [2] secretary of the company.
+4. It was resolved that the [3] office be at 44 Princess Diana Walk, South
+Kensington, London, W2 3SL.
+5. It was resolved that the quorum necessary for the transaction of the business of the
+directors should be two directors personally present.
+6. A draft notice of an extraordinary general meeting of the company was
+[4] to the meeting and approved. It was further resolved that such
+meeting be [5] and that notice of this be [6] forthwith
+to the shareholders.
+7. The meeting thereupon adjourned. Upon resumption it was reported that the
+[7] set out in the notice of the extraordinary general meeting had
+been passed respectively as ordinary and special resolutions of the company.
+8. Upon there being no further competent business the meeting was then
+[8] closed by the Chairman.
+
+
+
+————————————————
+Chairman
+
+现在，通过在董事会会议记录第 2 段的方框“A”中输入您自己的姓名，将自己命名为公司的律师！
+
+MAPLINK LIMITED
+
+Maplink Limited（“公司”）董事会第一次会议记录于 2006 年 5 月 15 日上午 10 点在伦敦南肯辛顿戴安娜王妃大道 44 号 W2 3SL 举行。
+
+出席者：Thomas Shapiro
+Dimitris Yavaprapas
+
+出席者：Gisela Wirth
+
+1. Thomas Shapiro 和 Dimitris Yavaprapas 接受公司董事职务。会议决定任命 Thomas Shapiro 为董事会主席。
+
+2. [1] 任命 [A] 为公司律师。
+
+3. 会议决定任命 Gisela Wirth 为 [2] 公司秘书。
+4. 会议决定 [3] 办公室地址为伦​​敦南肯辛顿戴安娜王妃路 44 号，邮编 W2 3SL。
+5. 会议决定，董事处理事务所需的法定人数应为两名亲自出席的董事。
+6. 公司特别股东大会通知草案已 [4] 提交会议并获得批准。会议进一步决定 [5] 召开此类会议，并 [6] 立即向股东发出通知。
+7. 会议随即休会。复会后，据报告，特别股东大会通知中 [7] 所列事项已分别作为公司普通决议和特别决议获得通过。
+8. 由于没有其他有效事项，会议 [8] 由主席宣布闭会。
+
+————————————————
+主席
+
+Exercise 2–convening a board meeting
+Answer the following questions relating to the above text on board meetings and on the minutes you have just finalised for Maplink’s first board meeting.
+1. What is meant by convening a meeting?
+2. What is meant by a simple majority?
+3. What is meant by a vote being taken on a show of hands?
+4. Why do you think multi-national companies sometimes conduct board meetings by audiovisual conferencing?
+5. Suggest one reason why a director may wish to call a board meeting.
+6. Paragraph 5 of the minutes indicates that the quorum for board meetings is two. What is a quorum?
+
+练习 2 — 召开董事会会议
+回答与上述董事会会议文本以及您刚刚为 Maplink 第一次董事会会议确定的会议记录相关的以下问题。
+1. 召开会议是什么意思？
+2. 简单多数是什么意思？
+3. 举手表决是什么意思？
+4. 您认为跨国公司有时通过视听会议召开董事会会议的原因是什么？
+5. 提出董事可能希望召开董事会会议的一个原因。
+6. 会议记录第 5 段表明董事会会议的法定人数为两人。什么是法定人数？
+
+Law notes
+Board meetings
+■ Attended by directors of the company
+■ Address general managerial decisions of the company
+■ Each director normally has one vote
+■ Only directors of the company can vote at board meetings
+■ Resolutions are passed by simple majority
+
+法律说明
+董事会会议
+■ 公司董事出席
+■ 处理公司一般管理决策
+■ 每位董事通常有一票表决权
+■ 只有公司董事才能在董事会会议上投票
+■ 决议以简单多数通过
+
+Grammar notes
+Combining nouns
+There are a number of instances in this chapter where two nouns are used together. In
+such instances the first of the two nouns usually provides some indication or description
+of the type or variety of the second noun. For example:
+a directors’ meeting a shareholders’ meeting
+(both a directors’ meeting and a shareholders’ meeting being types of meeting).
+Further examples are: interview record (a type of record) Magistrates’ Court (a type
+of court)
+Sometimes when two nouns are placed together in this way they are separated by a
+hyphen (-). This often occurs when the two nouns are commonly placed together, as
+illustrated for instance with work-place and time-limit. If you are in any doubt as
+to whether a hyphen is normally used with any particular combination of nouns you
+are advised to use a good dictionary in order to check, such as Dictionary of Law by L.B. Curzon. Some combinations of nouns have become so synonymous with each other
+however that they are written as one-word compound nouns. E.g. wheelchair.
+
+语法说明
+名词组合
+本章中有许多两个名词一起使用的例子。在这种情况下，两个名词中的第一个通常会提供一些指示或描述第二个名词的类型或种类。例如：
+董事会议 股东会议
+（董事会议和股东会议都是会议的类型）。
+其他示例包括： 面试记录（一种记录） 治安法庭（一种法庭）
+有时，当两个名词以这种方式放在一起时，它们会用连字符 (-) 隔开。这通常发生在两个名词通常放在一起时，例如工作场所和时间限制。如果您对连字符是否通常与任何特定的名词组合一起使用有任何疑问，建议您使用一本好的字典来检查，例如 L.B. Curzon 的法律词典。然而，有些名词组合已经变得如此同义，以至于它们被写成单词复合名词。例如，轮椅。
+
+Possessive forms
+Possessive ‘s’
+A possessive ‘s’ is added to nouns along with an apostrophe to indicate that the word(s) following are related (i.e. ‘belong’) to the word(s) with a possessive ‘s’. E.g. counsel’s opinion. The letter ‘s’ is also put at the end of nouns to indicate a range of other relation- ships. For example:
+
+Places: Europe’s main legal centres
+Time: four days’ trial
+
+Plural nouns
+When dealing with regular plural verbs the apostrophe ( ’ ) should be placed after the ‘s’.
+You will see for instance that this is where the apostrophe is placed with:
+
+directors’ meetings shareholders’ meetings
+Note that the apostrophe is also placed after the possessive ‘s’ when a singular noun ends in ‘s’. For instance: James’s case.
+With singular nouns however the apostrophe should be placed before the possessive ‘s’.
+Hence:the expert’s report Gordon’s witness statement
+This is also the correct position for the apostrophe with irregular plural nouns. E.g. women’s court attire.
+
+所有格形式
+所有格‘s’
+所有格‘s’与撇号一起加到名词上，表示后面的单词与所有格‘s’的单词相关（即‘属于’）。例如，律师的意见。字母‘s’也放在名词的末尾，表示一系列其他关系。例如：
+
+地点：欧洲主要法律中心
+时间：四天审判
+
+复数名词
+处理常规复数动词时，撇号（’）应放在‘s’后面。
+
+例如，您将看到撇号放在以下位置：
+
+董事会议股东会议
+请注意，当单数名词以‘s’结尾时，撇号也放在所有格‘s’后面。例如：詹姆斯的案子。
+但是，对于单数名词，撇号应放在所有格“s”之前。
+因此：专家报告 戈登的证人陈述
+这也是不规则复数名词撇号的正确位置。例如，女士宫廷服装。
+
+
+********************************************
+Chapter 3 Shareholders’ meetings
+第三章 股东大会
+
+Learning Objectives
+By completing the exercises in this chapter you will:
+■ Acquire practice in drafting company resolutions and further company meeting documentation
+■ Understand and be capable of explaining the practice and procedure of shareholders’ meetings
+■ Be aware of the roles of the officers of a company
+■ Draft company documentation to appoint a further director to the board
+■ Draft company documentation to change the name of a company
+■ Further develop word skills and vocabulary relevant to company law
+■ Consider the use of relevant grammar including the use of prepositions
+
+学习目标
+通过完成本章中的练习，您将：
+■ 获得起草公司决议和进一步的公司会议文件的实践
+■ 理解并能够解释股东大会的惯例和程序
+■ 了解公司高管的角色
+■ 起草公司文件以任命董事会的另一位董事
+■ 起草公司文件以更改公司名称
+■ 进一步发展与公司法相关的词汇技能和词汇量
+■ 考虑使用相关语法，包括使用介词
+
+Introduction
+You will recall that in the last chapter we identified two main types of company meetings:
+1. Board meetings (also known as directors’ meetings)
+2. Shareholders’ meetings (also known as members’ meetings)
+In this chapter we will look at the practice and procedure of the second of these,having considered board meetings in the previous chapter. Read the next section on shareholders’ meetings then try the exercises which follow.
+
+简介
+您会记得，在上一章中，我们确定了两种主要的公司会议类型：
+1. 董事会会议（也称为董事会议）
+2. 股东会议（也称为成员会议）
+在本章中，我们将研究第二种会议的实践和程序，并在上一章中讨论了董事会会议。阅读下一节关于股东会议的内容，然后尝试完成后面的练习。
+
+Exercise 1–reading
+
+SHAREHOLDERS’ MEETINGS
+Company law dictates that certain business decisions concerning a company need shareholder approval. In particular, shareholders’ meetings are required when major changes to the company are being proposed. Proposals for such changes are put to a shareholders’ meeting in the form of resolutions. Shareholders’ meetings can be attended by the company’s direc- tors as well as by its shareholders. However, only shareholders have the right to vote. (It is possible to be a director without being a shareholder, unless a company’s articles of associa- tion provide otherwise.) A company’s annual general meeting (AGM) is a type of shareholders’ meeting. Other share- holders’ meetings are known as extraordinary general meetings (EGMs). Twenty-one days’ no- tice is normally required to be provided to the shareholders before an AGM can be validly held, 14 days’ notice being required for an EGM. A vote on a proposed resolution is usually taken ini- tially by ‘a show of hands’. In the course of such a vote each shareholder (otherwise known as a member of the company) normally has one vote, irrespective of the number of shares s/he possesses. Once the result of the vote on ‘a show of hands’ is declared, any member may de- mand what is known as a ‘poll’ (unless the company’s articles specifically provide otherwise).
+
+If a poll is held votes are then counted differently. Rather than each member having one vote regardless of his or her shareholding, each member has one vote for each share s/he holds. The chairman of the company will usually have a casting vote in the event that the number of votes are the same for and against a resolution, in order to enable such a dead- lock to be broken. (Article 50 of Table A Articles provides for this for instance.) Shareholders’ meetings are usually called by the board. If however the board is reluctant to call a share- holders’ meeting then the shareholders can requisition one (as provided by s. 368 CA ’85).
+
+练习 1——阅读
+
+股东大会
+公司法规定，公司某些业务决策需要股东批准。特别是，当公司提出重大变更时，需要召开股东大会。此类变更的提案以决议的形式提交股东大会。公司董事和股东均可出席股东大会。但是，只有股东才有投票权。（除非公司章程另有规定，董事可以不是股东。）公司的年度股东大会 (AGM) 是一种股东大会。其他股东大会称为特别股东大会 (EGM)。通常需要提前 21 天通知股东，才能有效召开年度股东大会，特别股东大会需要提前 14 天通知。对拟议决议的表决通常首先以“举手表决”的方式进行。在进行此类投票时，每位股东（也称为公司成员）通常都有一票，无论其持有多少股份。一旦“举手表决”表决结果公布，任何成员均可要求进行所谓的“投票表决”（除非公司章程另有明确规定）。
+
+如果进行投票表决，则投票的计算方式将有所不同。与每位成员无论其持股多少都有一票不同，每位成员对其持有的每一股都有一票。如果赞成和反对某项决议的票数相同，公司董事长通常会投决定票，以便打破这种僵局。（例如，章程表 A 第 50 条对此作出了规定。）股东大会通常由董事会召集。但是，如果董事会不愿召集股东大会，股东可以要求召集（根据 1985 年《公司法》第 368 条的规定）。
+
+TYPES OF RESOLUTIONS 
+The types of resolutions and their main characteristics are set out below. The first two mentioned are the most common types of resolutions proposed at company meetings.
+
+1. Ordinary Resolution (OR)–requires a simple bare majority (i.e. 50% +1 of votes cast) to be passed. Usual notice required to be provided to members of a proposed ordinary resolution is 14 days.
+2. Special Resolution (SR)–requires 75% of votes cast. Usual notice requirement is 21 days.
+(Note that this means therefore that if an SR is being proposed at an EGM then the required notice for the EGM will normally be 21 days rather than 14 days.)
+3. Extraordinary Resolution–similar to a special resolution albeit notice requirement is 14 days (as opposed to 21 days for a special resolution).
+4. Elective Resolution–enables private companies to ‘opt out’ of certain company law formalities by unanimous agreement (e.g. to dispense with need to hold an annual general meeting each year).
+5. Written Resolution–a resolution in writing which can be validly passed without the need for a meeting provided all those entitled to vote sign the written resolution to signify their unanimous approval of the resolution.
+
+决议类型
+决议类型及其主要特征如下。前两种是公司会议上提出的最常见的决议类型。
+
+1. 普通决议 (OR) – 需要简单多数票（即 50% +1 票）即可通过。通常需要向成员提供拟议普通决议的通知时间为 14 天。
+2. 特别决议 (SR) – 需要 75% 的票数。通常的通知要求是 21 天。
+（请注意，这意味着如果在 EGM 上提出 SR，则 EGM 所需的通知通常为 21 天，而不是 14 天。）
+3. 特别决议 – 类似于特别决议，但通知要求为 14 天（而特别决议为 21 天）。
+4. 选举决议——允许私营公司通过一致同意“选择退出”某些公司法手续（例如，无需每年召开年度股东大会）。
+5. 书面决议——书面决议可以有效通过，无需召开会议，只要所有有权投票的人签署书面决议，表示他们一致批准该决议。
 
 
