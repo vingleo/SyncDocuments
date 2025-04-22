@@ -598,4 +598,87 @@ The types of resolutions and their main characteristics are set out below. The f
 4. 选举决议——允许私营公司通过一致同意“选择退出”某些公司法手续（例如，无需每年召开年度股东大会）。
 5. 书面决议——书面决议可以有效通过，无需召开会议，只要所有有权投票的人签署书面决议，表示他们一致批准该决议。
 
+HOLDING A SHAREHOLDERS’ MEETING
+You will recall that in the last chapter you prepared the minutes for the first board meeting of Maplink Limited (‘Maplink’). Continuing to act as lawyer for Maplink, you are now asked to prepare the documentation required in order to convene the company’s first shareholders’ meeting. Remember that the company requires to achieve two specific objectives in the course of that meeting:
+
+召开股东大会
+您可能还记得，在上一章中，您准备了 Maplink Limited（“Maplink”）首次董事会会议的会议记录。现在，作为 Maplink 的律师，您需要准备召开公司首次股东大会所需的文件。请记住，公司需要在本次股东大会期间实现两个具体目标：
+
+■ To appoint Kadir Salleh of 4 Kensington Palace Gardens, London, W2 4AJ (date of birth 4th of April 1969) to the board of directors
+■ To change the name of the company from Maplink Limited to Travelgraph Limited.
+
+■ 任命 Kadir Salleh（地址：4 Kensington Palace Gardens, London, W2 4AJ，出生日期：1969 年 4 月 4 日）为董事会成员
+■ 将公司名称从 Maplink Limited 更改为 Travelgraph Limited。
+
+The steps now required are therefore as follows.
+Step 1 Call the first shareholders’ meeting
+Step 2 Prepare the minutes of the first shareholders’ meeting
+Step 3 Prepare post-meeting documentation
+
+因此，现在所需的步骤如下。
+步骤 1：召开首次股东大会
+步骤 2：准备首次股东大会会议记录
+步骤 3：准备会后文件
+
+Exercise 2–preparing the notice of the meeting
+Complete the following notice of the shareholders’ meeting (EGM), filling in the blanks by selecting the appropriate words from the list below.
+
+resolutions convened passing vote Notice
+for the purpose of member appointed special Travelgraph
+
+练习2——准备股东大会通知
+请完成以下股东大会（临时股东大会）通知，并从以下列表中选择合适的词语填空。
+
+决议 召开 通过 投票 通知
+为了成员 任命 特别 Travelgraph
+
+以下联系略
+
+Law notes
+Shareholders’ meetings
+■ Attended by the company’s directors and shareholders
+■ Convened to pass resolutions affecting the constitution of the company (including for instance changes in share capital, approving a director’s service contract and changing the name of the company etc.)
+■  Only shareholders are entitled to vote (including directors who are also shareholders)
+■  Majority required to pass a resolution depends on the type of resolution being considered
+
+ordinary resolution (OR) requires 50% ? 1 of votes cast
+special resolution (SR) requires 75% of votes cast
+法律注释
+股东大会
+■ 由公司董事和股东出席
+■ 召开会议以通过影响公司章程的决议（例如，变更股本、批准董事服务合同以及更改公司名称等）。
+■ 只有股东才有权投票（包括同时担任股东的董事）。
+■ 通过决议所需的多数票取决于所考虑的决议类型。
+
+普通决议 (OR) 需要 50% 以上的投票赞成。
+特别决议 (SR) 需要 75% 以上的投票赞成。
+
+Procedure for convening directors’ and shareholders’ meetings
+■ Call board (i.e. directors’) meeting–any director can call on reasonable notice
+■ Ensure quorum present and hold board meeting–propose resolutions required, vote on resolutions, adjourn meeting and finalise minutes of meeting
+■ Call extraordinary general meeting–notice required is normally 14 days or 21 days if SR on agenda
+■ Ensure quorum present and hold extraordinary general meeting (EGM)–pass resolutions, close meeting and finalise minutes
+■ ‘Present’ in the minutes refers to those in attendance and entitled to vote wherea ‘In Attendance’ refers to those present but with no such right to vote
+■ Re-convene board meeting–report result of voting on resolutions at EGM and close meeting
+■ Complete post-meeting documentation
+
+召开董事会议和股东大会的程序
+■ 召开董事会（即董事会议）——任何董事均可在合理通知后召开会议
+■ 确保出席人数达到法定人数并召开董事会会议——提出所需决议、对决议进行表决、休会并最终确定会议记录
+■ 召开临时股东大会——通常需要提前 14 天通知，如果议程上有股东特别大会，则需要提前 21 天通知
+■ 确保出席人数达到法定人数并召开临时股东大会 (EGM)——通过决议、结束会议并最终确定会议记录
+■ 会议记录中的“出席”指出席并有权表决的人员，“出席”指出席但无表决权的人员
+■ 重新召开董事会会议——报告临时股东大会上决议的表决结果并结束会议
+■ 完成会后文件
+
+Grammar notes
+Prepositions
+  Many short words in the English language such as at, in, of and after are prepositions.
+Prepositions can also however consist of several words, such as in terms of and in the
+event of. The only effective way of becoming truly conversant in using prepositions in le-
+gal English is through familiarisation with their use in a legal context. Getting into the
+habit of referring to a good dictionary (such as Dictionary of Law by L.B. Curzon) when you
+are uncertain can also assist in this regard.
+  As a general rule, prepositions are placed before a noun, as in the following examples:
+
 

@@ -1,0 +1,352 @@
+
+
+Chapter2 Building Native Data Protection for Kubernetes
+IN THIS CHAPTER
+»» Understanding why native backup matters
+»» Taking new deployment patterns into account
+»» Fitting into the DevOps world
+»» Easing stress for operators
+»» Addressing the gaps in data protection
+»» Plugging into multiple data services
+»» 了解原生备份的重要性
+»» 考虑新的部署模式
+»» 融入 DevOps 世界
+»» 减轻运营商压力
+»» 弥补数据保护方面的差距
+»» 接入多种数据服务
+
+
+Your organization relies on application uptime, and
+Kubernetes is fantastic at achieving that. Even so, where
+would you be if you lost all the data in your business?
+This chapter spells out exactly why you need Kubernetes-native
+backup solutions. It explores many of the factors that make it
+absolutely essential, from the different deployment patterns to
+the practices known as DevOps. Read on to find out how cloudnative
+backup will ease stress for operators and give them more
+bandwidth for innovation, fill in the data protection gaps, and
+ensure that you’re in good shape even as your apps tap into multiple
+different data services.
+
+您的组织依赖于应用程序的正常运行时间，而 Kubernetes 在实现这一点方面非常出色。即便如此，如果您丢失了企业中的所有数据，您会怎么办？
+本章将详细说明您需要 Kubernetes 原生备份解决方案的原因。它探讨了使其至关重要的诸多因素，从不同的部署模式到 DevOps 实践。继续阅读，了解云原生备份如何减轻运维人员的压力，为他们提供更多创新带宽，填补数据保护方面的缺口，并确保即使您的应用程序接入多种不同的数据服务，也能保持良好的状态。
+
+Recognizing the Need
+No one needs to remind you about the importance of backup.
+Regardless of how you fit into the technology picture, you’ve
+probably at some point or another woken up from a bad dream
+involving a catastrophic loss of data.
+认识到需求
+无需他人提醒，备份的重要性毋庸置疑。
+无论您的技术水平如何，您都可能
+在某个时刻从噩梦中惊醒，
+梦见灾难性的数据丢失。
+
+There are numerous failure scenarios that could turn that bad
+dream into a real-life nightmare. There’s accidental deletion,
+general misunderstanding of the platform, as well as ransomware
+and other malicious activity. Many perils threaten your data, and
+how would your business survive without that data?
+Not to trigger any more restless nights, but there’s no escaping
+the fact that Kubernetes is a whole new world, and for a number
+of reasons it can exacerbate existing reasons for data loss in
+the cloud. For one thing, it’s complex, it’s still kind of unfamiliar
+to a lot of people, and administrative responsibilities are not as
+centralized. That makes it all the more possible for accidents to
+happen.
+Great tools are available for virtualization-based infrastructure,
+but you’ll need a new set of tools for non-virtualized environments.
+It’s tempting to assign responsibility to each application
+team, but splitting up the backup responsibility increases both the
+risk and recovery time. Time is, of course, money — in this case,
+the average cost per hour of critical application failure is half a
+million dollars.
+You’re far better off, then, with a cloud-native backup solution in
+place. To back up and protect Kubernetes-based applications, you
+need a Kubernetes-native backup solution.
+
+无数故障场景都可能将这个噩梦变成现实生活中的噩梦。例如意外删除、对平台的普遍误解，以及勒索软件和其他恶意活动。许多危险威胁着您的数据，如果没有这些数据，您的企业将如何生存？
+我不想再让您夜不能寐，但毋庸置疑的是，Kubernetes 是一个全新的世界，由于多种原因，它可能会加剧云端数据丢失的现有原因。首先，它很复杂，对很多人来说仍然比较陌生，而且管理职责也不够集中。这使得事故更容易发生。
+对于基于虚拟化的基础设施来说，市面上已经有了优秀的工具，
+但对于非虚拟化环境，您需要一套新的工具。
+将责任分配给每个应用程序团队很诱人，但分散备份责任会增加风险和恢复时间。时间当然就是金钱——在这种情况下，关键应用程序故障每小时的平均成本高达50万美元。因此，部署云原生备份解决方案将是您的最佳选择。要备份和保护基于 Kubernetes 的应用程序，您需要一个 Kubernetes 原生备份解决方案。
+
+Dealing with Different Deployment Patterns
+处理不同的部署模式
+
+No one needs to tell you that Kubernetes is a game-changer. It’s
+revolutionary and popular, a different way of architecting that has
+moved the abstraction layer, increasing flexibility for improving
+the running of workloads. There are fundamental differences
+between the Kubernetes platform and just about all the compute
+infrastructure before it.
+毋庸置疑，Kubernetes 是一个颠覆性的技术。它具有革命性且广受欢迎，它采用了一种独特的架构方式，移除了抽象层，从而提升了工作负载运行的灵活性。Kubernetes 平台与之前几乎所有的计算基础设施都存在根本性的区别。
+
+What has not changed, though, are the requirements around
+backup. In every platform, not just Kubernetes, every admin
+should have a backup plan.
+One of the timeless rules that can effectively address any failure
+scenario is called the 3-2-1 backup rule. This approach helps to
+answer two important questions: How many backup files should
+I have, and where should I store them? The 3-2-1 backup rule
+provides the answers:
+然而，备份的要求始终没有改变。每个平台（不仅仅是 Kubernetes）的每个管理员都应该有一个备份计划。
+能够有效应对任何故障场景的永恒规则之一是 3-2-1 备份规则。这种方法有助于回答两个重要问题：我应该有多少个备份文件？我应该将它们存储在哪里？3-2-1 备份规则提供了以下答案：
+
+»»3: Have at least three copies of your data.
+»»2: Store the copies on two different media.
+»»1: Keep one backup copy offsite.
+»»3：至少保留三份数据副本。
+»»2：将副本存储在两种不同的介质上。
+»»1：在异地保留一份备份。
+
+Begin with the fact that you don’t map containerized applications
+to servers or virtual machines (VMs). In contrast to VMs, all a
+container requires is enough of an operating system, supporting
+programs and libraries, and system resources to run a specific
+program.
+Given that, you can put two or three times as many applications on
+a single server with containers than you can with a VM. Containers
+also allow you to create a portable, consistent operating environment
+for development, testing, and deployment. Kubernetes
+distributes application components across all servers using its
+own placement policy to boost performance and fault tolerance.
+Approach these situations with a traditional data management
+system and you’re likely to fail. You may be able to achieve backup,
+but if you’re using tools that aren’t designed in a cloud-native
+way, things will start to get difficult when it comes to recovery.
+Add in the fact that cloud-native applications benefit from their
+environment’s dynamic nature. To improve load balancing, containers
+can be rescheduled on the fly or scaled on different nodes.
+New deployments happen all the time, with components added
+and removed continually.
+首先，您无需将容器化应用程序映射到服务器或虚拟机 (VM)。与虚拟机不同，容器只需要足够的操作系统、支持程序和库以及运行特定程序所需的系统资源。因此，与虚拟机相比，您可以在单个服务器上使用容器部署两到三倍的应用程序。容器还允许您为开发、测试和部署创建一个可移植、一致的操作环境。Kubernetes 使用其自身的布局策略将应用程序组件分布到所有服务器上，以提高性能和容错能力。使用传统的数据管理系统来处理这些情况，您很可能会失败。您或许可以实现备份，但如果您使用的工具并非以云原生方式设计，那么恢复时就会变得困难。此外，云原生应用程序受益于其环境的动态特性。为了改善负载平衡，容器可以动态重新调度或在不同节点上扩展。新的部署始终在进行，组件也会不断添加和删除。
+
+In other words, the application is shifting constantly. What you
+need is a backup solution that understands the cloud-native
+architectural patterns, one that’s fine without stability in IP
+addresses — one that loves change as much as your cloud-native
+Kubernetes application does.
+Traditional backup solutions that function well in an environment
+of servers and VMs may be like freshwater fish in a salty ocean if
+you toss them into the Kubernetes environment. To meet such
+requirements as dynamic application discovery, instantaneous
+backup, platform-integration recovery, and capturing all application
+context, what you need is Kubernetes-native backup.
+换句话说，应用程序在不断变化。您需要的是一个能够理解云原生架构模式的备份解决方案，一个即使 IP 地址不稳定也能正常工作的解决方案——一个像您的云原生 Kubernetes 应用程序一样喜欢变化的解决方案。
+传统的备份解决方案在服务器和虚拟机环境中运行良好，但如果将它们扔到 Kubernetes 环境中，可能就像咸海里的淡水鱼一样。为了满足动态应用程序发现、即时备份、平台集成恢复以及捕获所有应用程序上下文等需求，您需要的是 Kubernetes 原生备份。
+
+To take in a little more background on this evolution, consider that
+physical systems required an agent-based approach to protect the
+data and operating system. When virtualization came along, a lot
+of those same backup vendors simply moved their agents to the
+virtual world. This created an overhead on VMs to perform the
+backup because it treated them like physical machines in their
+new surroundings.
+It became clear that the best way to protect these virtual workloads
+was at the virtualization layer through APIs. That allowed
+creation of application-consistent backups in a fast and efficient
+manner without impacting the performance of the virtual
+machine.
+Simply put, the same story is unfolding once again in the
+Kubernetes world. In theory, you could take your virtualization
+or physical backup process and protect some of your Kubernetes
+environment and data. Some, but not all, which makes things
+rather tricky when it comes to recovery.
+
+为了更深入地了解这一演变的背景，我们假设物理系统需要基于代理的方法来保护数据和操作系统。当虚拟化出现时，许多相同的备份供应商只是将其代理迁移到虚拟世界。这给虚拟机执行备份带来了额外开销，因为虚拟机在新环境中被视为物理机器。显然，保护这些虚拟工作负载的最佳方法是通过 API 在虚拟化层进行保护。这允许快速高效地创建应用程序一致性备份，而不会影响虚拟机的性能。简而言之，同样的故事在 Kubernetes 世界中再次上演。理论上，您可以利用虚拟化或物理备份流程来保护部分 Kubernetes 环境和数据。但这只是部分保护，而非全部，这使得恢复变得相当棘手。
+
+Shifting to the Left
+Many visualize the DevOps philosophy as an infinity symbol, the
+sideways “8” that creates an infinite loop of movement from left
+to right to left to right, and so on. You can also think of it almost
+as a racetrack, which is fitting in that DevOps is all about highvelocity
+application development cycles.
+When visualizing DevOps with infinity imagery, it’s common to
+think of development on the left and operations on the right. The
+DevOps philosophy, when used in the world of Kubernetes, brings
+the needs and requirements of developers and operations together
+in a way that traditionally has not been the case. More is happening
+on the left side of that loop, hence the term “shift left.”
+向左移动
+许多人将 DevOps 理念想象成一个无穷大符号，横着的数字“8”，它创造了一个从左到右，再从左到右的无限循环。你也可以把它想象成一条赛道，这与 DevOps 的核心理念——高速应用程序开发周期——相契合。
+当用无限大的图像来可视化 DevOps 时，通常会将开发部分放在左侧，将运维部分放在右侧。
+在 Kubernetes 的世界中，DevOps 理念以一种传统上从未有过的方式将开发者和运维人员的需求和要求结合在一起。在这个循环的左侧，正在发生更多的事情，因此有了“向左移动”的说法。
+
+Kubernetes is, indeed, driven by a focus on developers and their
+applications — and that ever-running race through development
+cycles. Because of the platform’s design, backup solutions really
+must be application-centric, rather than infrastructure-focused.
+Developers in this environment define — as code — both application
+components and infrastructure requirements such as storage
+and load balancers. The data protection requirement needs
+to be integrated and speak the same language as their code. That
+lets them define protection schedules rather than the traditional
+practice of handing over to the infrastructure or backup admin.
+Kubernetes 的驱动力确实在于关注开发者及其应用程序——以及持续不断的开发周期。由于平台的设计，备份解决方案实际上必须以应用程序为中心，而不是以基础设施为中心。在这种环境下，开发者以代码的形式定义应用程序组件和基础设施需求，例如存储和负载均衡器。数据保护需求需要集成，并使用与代码相同的语言。这样，他们就可以定义保护计划，而不是像传统做法那样将工作交给基础设施或备份管理员。
+
+You need a way to introduce data management tasks into the
+day-to-day development process. That way it’s no longer just
+the responsibility of the operations team. A great way to achieve
+this is through an API approach. The backup platform must be
+API-first, with a cloud-native API.
+We’re talking Kubernetes-native API as opposed to the older REST
+or SOAP APIs. Authentication and authorization become seamless,
+and you achieve simpler application and workflow integration.
+Developers and operators are able to use tools they know well,
+such as kubecti.
+您需要一种方法将数据管理任务引入到日常开发流程中。这样，它就不再仅仅是运维团队的职责。实现这一点的一个好方法是使用 API 方法。备份平台必须采用 API 优先，并采用云原生 API。我们讨论的是 Kubernetes 原生 API，而不是老旧的 REST 或 SOAP API。身份验证和授权将变得无缝衔接，并且您可以实现更简单的应用程序和工作流集成。开发者和运维人员可以使用他们熟悉的工具，例如 kubecti。
+
+Resolving Operator Challenges
+Virtualization focuses on abstracting the physical hardware and
+leveraging that to build multiple virtual machines to house monolithic
+workloads. Cloud-native workloads, on the other hand, are
+completely focused on the application rather than the VM. This
+simplifies management operations by focusing on applications
+as the operational unit, abstracting away infrastructure or data
+stores.
+It’s essential to have a backup tool that allows flexibility and
+choice of approach. Not every organization will need an API to
+drive their backup workflows. Some will need a dashboard to
+navigate their journey into Kubernetes.
+Deep Kubernetes integration can hide the complexity of the
+underlying platform. You can eliminate or reduce manual or integration
+work by gaining a sharp focus on the user experience and
+revisiting backup workflows for cloud-native applications.
+Consider that in the past, a single application might have involved
+a few virtual machines, whereas today’s containerized applications
+are typically composed of hundreds of distinct Kubernetes
+resources, including configuration, disks, and secrets.
+That’s just one application. Now think about all the applications
+in a cluster, and your operator must understand and protect millions
+of components. That is, unless the application is the operational
+unit for backup.
+解决运营商挑战
+虚拟化专注于抽象物理硬件，并利用其构建多个虚拟机来承载单体工作负载。而云原生工作负载则完全专注于应用程序而非虚拟机。这通过将应用程序作为运营单元，抽象出基础设施或数据存储，简化了管理操作。
+拥有一个灵活且支持多种方法的备份工具至关重要。并非每个组织都需要 API 来驱动其备份工作流程。有些组织需要一个仪表板来引导他们迁移到 Kubernetes。
+深度 Kubernetes 集成可以隐藏底层平台的复杂性。您可以通过专注于用户体验并重新审视云原生应用程序的备份工作流程来消除或减少手动或集成工作。
+想想看，过去单个应用程序可能只涉及几个虚拟机，而如今的容器化应用程序通常由数百个不同的 Kubernetes 资源组成，包括配置、磁盘和密钥。这还只是单个应用程序的一个例子。现在想想集群中的所有应用程序，您的运维人员必须了解并保护数百万个组件。除非应用程序是备份的运行单元。
+
+A legacy backup system is likely to pay attention to infrastructure
+such as disks and volumes, while ignoring Kubernetes resources.
+That’s a recipe for lots of errors in recovery playbooks with missing
+relationships that result in super-high recovery times.
+What would be required in this unfortunate situation is a manual
+process to figure out what backups are required for restore, and
+then another complex manual process to connect restored volumes
+back into Kubernetes applications. That would be a huge
+burden for operations, even if there hasn’t been any drift in
+Kubernetes objects between backup and restore (and that’s not
+likely).
+传统备份系统可能会关注磁盘和卷等基础设施，而忽略 Kubernetes 资源。
+这会导致恢复剧本中出现大量错误，因为缺少关系，从而导致恢复时间过长。
+在这种情况下，需要手动确定恢复所需的备份，然后再次进行复杂的手动操作将恢复的卷重新连接到 Kubernetes 应用程序。即使 Kubernetes 对象在备份和恢复之间没有任何偏移（这种情况不太可能发生），这也会给运营带来巨大的负担。
+
+Filling in the Gaps
+It’s hard to beat Kubernetes when it comes to keeping your applications
+running even if there are partial infrastructure outages.
+Fault tolerance is a strong selling point, but it’s important not to
+get a false sense of security and brush off the need for backup,
+disaster recovery, and application mobility.
+Again, high availability and replication are not the same thing as
+backup. You’re still at risk for data corruption or deletion, either
+by accident or through a malicious act. If that happens, it can
+spread to all replicas and result in catastrophic data loss.
+Doesn’t the fact that Kubernetes is often running on public clouds
+make the storage failure-proof? Nope, that’s a myth. The most
+reliable cloud storage solutions promise super-reliable uptime,
+but protecting data is your responsibility.
+How about on-premises storage vendors — they can provide volume
+snapshots, right? Yes, but these snapshots are often still vulnerable
+to hardware failure. And if a volume gets deleted, related
+snapshots are usually automatically deleted.
+This is where the 3-2-1 backup rule outlined earlier in the “Dealing
+with Different Deployment Patterns” section comes into play.
+Following the rule will protect you against most, if not all, failure
+scenarios, especially when you start adding immutability protection
+to your offsite copies.
+填补空白
+在即使部分基础设施中断也能保持应用程序运行方面，Kubernetes 无疑是无可匹敌的。
+容错能力是其一大卖点，但重要的是不要
+对安全抱有错误的认识，而忽视备份、
+灾难恢复和应用程序移动性的需求。
+再次强调，高可用性和复制与
+备份并非一回事。您仍然面临数据损坏或删除的风险，无论是意外还是恶意行为。如果发生这种情况，风险可能会蔓延到所有副本，并导致灾难性的数据丢失。
+Kubernetes 通常运行在公有云上，难道这不就意味着存储具备万无一失的能力吗？不，这只是个误区。最可靠的云存储解决方案承诺提供超可靠的正常运行时间，
+但保护数据是您的责任。
+那么本地存储供应商呢？他们可以提供卷快照，对吧？没错，但这些快照通常仍然容易受到硬件故障的影响。如果某个卷被删除，相关的快照通常会被自动删除。
+这就是前面“处理不同的部署模式”部分中概述的 3-2-1 备份规则发挥作用的地方。
+遵循该规则可以保护您免受大多数（如果不是全部）故障场景的影响，尤其是在您开始为异地副本添加不可变性保护时。
+Without elevated Kubernetes security privileges, you won’t normally
+have access to such actions as quiescing file system activity.
+But if you have a Kubernetes-native backup system with welldefined
+permissions and role-based access control, you can gain
+database and Kubernetes workload quiescing hooks allowing the
+same result with no security compromise.
+What’s important is that developers and operations are working
+together, or more closely than they have in the past. The common
+denominator linking their interests is doing what’s right for the
+data.
+Disaster recovery is another key area of consideration. Backups
+are fundamental to failure scenarios that can be recovered from
+within the same cluster, but disaster recovery involves bringing
+your workloads up in a completely different location.
+如果没有提升的 Kubernetes 安全权限，您通常无法执行诸如停顿文件系统活动之类的操作。
+但是，如果您拥有一个 Kubernetes 原生备份系统，并且该系统拥有明确定义的权限和基于角色的访问控制，那么您就可以获得数据库和 Kubernetes 工作负载停顿钩子，从而实现相同的结果，而不会损害安全性。
+重要的是，开发人员和运维人员正在合作，或者比过去更加紧密地合作。他们共同的利益在于，采取对数据有利的措施。
+灾难恢复是另一个需要考虑的关键领域。备份对于可在同一集群内恢复的故障场景至关重要，但灾难恢复需要将您的工作负载迁移到完全不同的位置。
+
+Integrating the Ecosystems
+Polyglot persistence is a term referring to using multiple data storage
+technologies for varying data storage needs across an application
+or within smaller components of an application. And we’re
+not just talking about relational and nonrelational databases but
+also such storage areas as batch/data streaming and message
+queues.
+Such varying data storage needs could arise in an enterprise
+with multiple applications, or within singular components of an
+application that need to store data differently from one another.
+Polyglot persistence is on the rise as Kubernetes becomes more
+prevalent.
+The good news is that, despite this complexity, you can get
+richer backups for these workloads by integrating against Kubernetes
+for automated workload discovery. That means the backup
+solution can consider the application’s requirements and pick
+the capture primitive (such as volume snapshots, applicationconsistent
+backups, and logical dumps).
+With a single data service becoming a thing of the past, Kubernetes
+metadata can shed light allowing the backup solution to
+automatically discern the relationship between multiple independent
+data services.
+整合生态系统
+多语言持久化是指使用多种数据存储技术来满足应用程序或应用程序较小组件内不同的数据存储需求。我们讨论的不仅仅是关系型数据库和非关系型数据库，还包括批处理/数据流和消息队列等存储领域。这种不同的数据存储需求可能出现在拥有多个应用程序的企业中，也可能出现在需要以不同方式存储数据的单个应用程序组件中。
+随着 Kubernetes 的普及，多语言持久化正在兴起。
+好消息是，尽管存在这种复杂性，但您可以通过与 Kubernetes 集成以实现自动化工作负载发现，为这些工作负载获得更丰富的备份。这意味着备份解决方案可以考虑应用程序的需求并选择捕获原语（例如卷快照、应用程序一致性备份和逻辑转储）。
+随着单一数据服务成为过去，Kubernetes 元数据可以提供信息，使备份解决方案能够自动识别多个独立数据服务之间的关系。
+
+Getting a handle on application topology allows the Kubernetesnative
+backup solution to capture a consistent copy of the whole
+application stack, both within and across services. That lets it
+identify and gather data from replicas to reduce the application
+impact. Performance and efficiency improve, and leveraging
+Kubernetes parallelism optimizes restore performance.
+Another angle on the complexity: More organizations are running
+lots of Kubernetes clusters across different environments.
+The backup platform must, therefore, interoperate with the rest
+of the cloud-native infrastructure ecosystem.
+掌握应用程序拓扑结构，Kubernetes 原生备份解决方案就能捕获整个应用程序堆栈（包括服务内部和跨服务）的一致副本。这使得它能够识别并收集副本中的数据，从而降低对应用程序的影响。性能和效率得以提升，而利用 Kubernetes 并行性则能优化恢复性能。
+从另一个角度来看复杂性：越来越多的组织在不同环境中运行大量 Kubernetes 集群。
+因此，备份平台必须与云原生基础设施生态系统的其他部分实现互操作。
+
+Ultimately, you’ll gain a better user experience, help ops teams
+be more efficient, and cut costs, all at the same time. One element
+of that improved user experience is the fact that developers
+and operators can keep using cloud-native tools to which they’ve
+become accustomed. For example, integrate with Prometheus
+to monitor and alert, and integrate with Kubernetes APIs for
+RBAC, logging, and the auditing you need to perform root-cause
+analyses.
+最终，您将获得更佳的用户体验，帮助运维团队提高效率，并同时降低成本。提升用户体验的其中一个要素是，开发者和运维人员可以继续使用他们已经熟悉的云原生工具。例如，集成 Prometheus 进行监控和警报，以及集成 Kubernetes API 进行 RBAC、日志记录和审计，从而执行根本原因分析。
+
+
+Chapter 3 Following Best Practices for Kubernetes Backup

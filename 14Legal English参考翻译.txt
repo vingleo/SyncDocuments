@@ -1,0 +1,3343 @@
+14Legal English参考翻译
+
+####################
+Preface
+This book is aimed at legal professionals, law students and other persons who
+regularly deal with legal documents written in English. It constitutes a practical reference and self-study resource, which will help you both understand English legal language as it appears in contemporary written and oral contexts, and to use clear, accurate English in everyday legal and business situations.
+
+前言
+本书面向法律专业人士、法学院学生以及其他经常处理英文法律文件的人士。本书是一本实用的参考书和自学资源，旨在帮助您理解当代书面和口头语境中的英语法律语言，并在日常法律和商业环境中运用清晰准确的英语。
+
+The book falls into three parts. The first part focuses on the key aspects of legal English writing, and provides detailed coverage of the following areas:
+
+本书分为三个部分。第一部分重点介绍法律英语写作的关键方面，并详细介绍以下领域：
+
+● Introduction to legal English
+● Elements of legal writing
+● Punctuation for legal writing
+● Basic standards of legal writing
+● Elements of good style
+● What to avoid
+● British and American English
+
+● 法律英语简介
+● 法律写作要素
+● 法律写作标点符号
+● 法律写作的基本标准
+● 良好文体要素
+● 应避免的事项
+● 英式英语和美式英语
+
+The second part deals with the drafting of contracts and other legal documents, as well as letters, emails and memoranda. There is also a chapter on applying for legal positions, which contains advice on the composition of CVs and application letters.
+
+第二部分介绍合同和其他法律文件以及信函、电子邮件和备忘录的起草方法。本书还包含一章关于申请法律职位的内容，其中包含简历和求职信的撰写建议。
+
+The following areas are covered:
+● Contracts: performance, termination and remedies
+● Contracts: structure and interpretation
+● Contract clauses: types and specimen clauses
+● Drafting legal documents: language and structure
+● Correspondence and memoranda
+● Applying for legal positions
+
+涵盖以下领域：
+● 合同：履行、终止和救济措施
+● 合同：结构和解释
+● 合同条款：类型和示例条款
+● 法律文件起草：语言和结构
+● 信函和备忘录
+● 法律职位申请
+
+The third part looks at the key areas in which English is used orally in legal practice and how English usage can be tailored to achieve maximum effectiveness in different situations. Specific suggestions as to phrases that may be used in commonly encountered situations are given throughout this part of the book.
+
+第三部分探讨法律实践中英语口语运用的关键领域，以及如何根据不同情况调整英语用法以达到最佳效果。本书的这一部分将针对常见情况下可能使用的短语提供具体建议。
+
+The following areas are covered:
+● Aspects of spoken English
+● Meeting, greeting and getting down to business
+● Interviewing and advising
+● Dealing with difficult people: ten-point guide
+● Court advocacy
+● Negotiation
+● Chairing a formal meeting
+● Making presentations
+● Telephoning
+
+本书涵盖以下领域：
+● 英语口语的各个方面
+● 会面、问候和谈正事
+● 面试和咨询
+● 与难相处的人打交道：十点指南
+● 法庭辩护
+● 谈判
+● 主持正式会议
+● 进行演示
+● 打电话
+
+Throughout the book, clear and concise explanations of different issues are supported by practical examples. These range from specimen clauses, contracts and letters to transcripts of court hearings and client interviews. The book also contains no fewer than 35 separate self-study exercises, ranging from short gap-filling exercises to more involved comprehension exercises. Answers are contained in a key at the back of the book. In addition to these self-study exercises, further resources, and study tools can be accessed in the Companion Website at www.routledgelaw.com/books/companionwebsites and on the author’s materials website at www.legalenglishstore.com.
+
+In addition, the book includes extensive glossaries explaining the meaning of key legal terminology.
+
+全书以清晰简洁的解释，辅以实际案例，涵盖从样本条款、合同、信函到法庭听证会和客户访谈记录等各种主题。本书还包含多达35个独立的自学练习，涵盖从简短的填空练习到更深入的理解练习等各种内容。答案包含在书后的图例中。除了这些自学练习外，您还可以访问配套网站 www.routledgelaw.com/books/companionwebsites 和作者资料网站 www.legalenglishstore.com 获取更多资源和学习工具。
+
+此外，本书还包含丰富的词汇表，解释关键法律术语的含义。
+
+####################
+1	Introduction to legal English
+####
+1.1 THE DEVELOPMENT OF MODERN ENGLISH 
+The English language contains elements from many different European languages and has also borrowed words from a wide variety of other languages. It is impossible to grasp how these influences affect the language without understanding a little about the history of the British Isles.
+
+Prior to the Roman invasion in 55 BC , the inhabitants of Britain spoke a Celtic dialect. Latin made little impression until St. Augustine arrived in AD 597 to spread Christianity. Latin words are regularly used in English, particularly in professional language. In the legal profession, Latin phrases like inter alia (among others) and per se (in itself) remain in current use.
+
+Subsequently, the Angles, Saxons and Jutes invaded the British Isles from mainland northern Europe. The language they brought with them forms the basis of what is known as Old English. This gives us the 100 most commonly used words in the English language (words like God, man, woman, child, love, live, go, at, to).
+
+The Vikings began to raid the northeast of England from Scandinavia from the eighth century onwards. At a later date, a significant number of Vikings settled in this area, bringing with them their own linguistic contribution (which can be seen for example in the numerous place names in the northeast of England (and Scotland) ending in -by or -thorpe, -wick, -ham and in words such as egg, husband, law, take, knife).
+
+In 1066 the Normans invaded from northern France and conquered England.
+
+Words such as court, parliament, justice, sovereign and marriage come from this period.
+
+Later, the English helped themselves initially to further words from French, such as chauffeur, bourgeois, elite. As the British Empire expanded, further opportunities to borrow words arose – words such as taboo and pukka came into the English language from that period.
+
+The result of this multiplicity of linguistic influences is a rich and diverse language with a complex grammar and many synonyms. For example, a coming together of two or more people could be a meeting or gathering (Old English), assignation or encounter (Old French), a rendezvous, rally or reunion (French), a caucus (Algonquin), pow-wow (Narragansett) or a tryst (Old French).
+
+####################
+1	法律英语简介
+####
+1.1 现代英语的发展
+英语融合了多种欧洲语言的元素，也借用了其他多种语言的词汇。如果不了解不列颠群岛的历史，就无法理解这些影响是如何影响英语的。
+
+在公元前55年罗马入侵之前，不列颠居民讲的是凯尔特方言。直到公元597年圣奥古斯丁到来传播基督教之前，拉丁语才在不列颠群岛留下了深刻的印象。拉丁语词汇在英语中经常使用，尤其是在专业用语中。在法律界，像inter alia（以及其他）和per se（本身）这样的拉丁语短语至今仍在使用。
+
+随后，盎格鲁人、撒克逊人和朱特人从北欧大陆入侵不列颠群岛。他们带来的语言构成了古英语的基础。这给出了英语中最常用的100个单词（例如God、man、woman、child、love、live、go、at、to）。
+
+维京人从公元8世纪开始从斯堪的纳维亚半岛袭击英格兰东北部。后来，大量维京人定居于此，并带来了他们自己的语言贡献（例如，英格兰东北部（以及苏格兰）的许多地名以-by或-thorpe、-wick、-ham结尾，以及egg、husband、law、take、knife等单词）。
+
+1066年，诺曼人从法国北部入侵并征服了英格兰。
+
+court、parliament、justice、sovereign和marriage(法院、议会、司法、主权、婚姻)等词汇都源于这一时期。
+
+后来，英国人最初从法语中吸收了一些词汇，例如chauffeur、bourgeois和elite（司机、资产阶级、精英）。随着大英帝国的扩张，借用词汇的机会也随之增加——诸如taboo（禁忌）和pukka（普卡）之类的词汇也从那时开始进入英语。
+
+这种多元语言影响的结果是，英语拥有丰富多样的语法和众多同义词。例如，两人或多人的聚会可以是会议或集会（古英语），约会或邂逅（古法语），集会、集会或团聚（法语），核心小组会议（阿尔冈昆语），帕瓦会议（纳拉干西特语）或幽会（古法语）。
+
+####
+1.2 SOURCES OF LEGAL ENGLISH 
+Legal English reflects the mixture of languages that has produced the English language generally. However, modern legal English owes a particular debt to French and Latin. Following the Norman invasion of England in 1066, French became the official language of England, although most ordinary people still spoke English. For a period of nearly 300 years, French was the language of legal proceedings, with the result that many words in current legal use have their roots in this period. These include property, estate, chattel, lease, executor and tenant.
+
+During this period, Latin remained the language of formal records and statutes.
+
+However, since only the learned were fluent in Latin, it never became the language of legal pleading or debate.
+
+Therefore, for several centuries following the Norman invasion, three languages were used in England. English remained the spoken language of the majority of the population, but almost all writing was done in French or Latin. English was not used in legal matters.
+
+In 1356, the Statute of Pleading was enacted (in French). It stated that all legal proceedings should be in English, but recorded in Latin. Nonetheless, the use of French in legal pleadings continued into the seventeenth century in some areas of the law. In this later period, new branches of – in particular – commercial law began to develop entirely in English and remain relatively free of French-based terminology.
+
+As the printed word became more commonplace, some writers made a deliberate effort to adopt words derived from Latin, with the aim of making their text appear more sophisticated. Some legal words taken from Latin in this way are adjacent, frustrate, inferior, legal, quiet and subscribe. Some writers also started to use a Latin word order. This led to an ornate style, deliberately used to impress rather than inform. Even today, Latin grammar is responsible for some of the ornateness and unusual word order of legal documents. It also lies behind the frequent use of shall constructions in legal documents.
+
+English was adopted for different kinds of legal documents at different times. Wills began to be written in English in about 1400. Statutes were written in Latin until about 1300, in French until 1485, in English and French for a few years, and in English alone from 1489.
+
+####
+1.2 法律英语的来源
+法律英语反映了多种语言的混合，正是这种混合造就了英语的形成。然而，现代法律英语尤其受益于法语和拉丁语。1066年诺曼人入侵英格兰后，法语成为英格兰的官方语言，尽管当时大多数普通民众仍然使用英语。在近300年的时间里，法语一直是法律诉讼的语言，因此，许多当今法律使用的词汇都源于这一时期。这些词汇包括财产（property）、遗产（estate）、动产（chattel）、租赁（lease）、遗嘱执行人和承租人（executor）等。
+
+在此期间，拉丁语仍然是正式记录和法规的语言。
+
+然而，由于只有博学之士才能精通拉丁语，拉丁语从未成为法律诉讼或辩论的语言。
+
+因此，在诺曼人入侵后的几个世纪里，英格兰使用三种语言。英语仍然是大多数人口的口语，但几乎所有的写作都是用法语或拉丁语完成的。英语在法律事务中并不使用。
+
+1356年，《诉状法》（法语）颁布。该法规定所有法律程序均应以英语进行，但记录则以拉丁语进行。尽管如此，法语在法律诉状中的使用仍持续到17世纪的某些法律领域。在后期，新的法律分支——尤其是商法——开始完全用英语发展，并且相对而言没有使用法语术语。
+
+随着印刷文字的普及，一些作家刻意采用源自拉丁语的词汇，目的是使他们的文本显得更加精妙。一些以这种方式从拉丁语中借用的法律词汇包括：相邻的（negative）、挫败的（frustrate）、劣等的（subritorial）、合法的（legal）、安静的（quiet）和订阅（subscribe）。一些作家也开始使用拉丁语的语序。这导致了一种华丽的风格，刻意用来给人留下深刻印象，而非提供信息。即使在今天，拉丁语法仍然是法律文件中一些华丽和不寻常语序的原因。它也是法律文件中频繁使用“shall”结构的原因。
+
+在不同时期，英语被用于不同类型的法律文件。遗嘱大约在 1400 年开始用英语书写。法令直到大约 1300 年才用拉丁文书写，直到 1485 年才用法语书写，几年内同时用英语和法语书写，从 1489 年开始仅用英语书写。
+
+####
+1.3 WHAT MAKES ENGLISH DIFFICULT? 
+It is said of chess that the game takes a day to learn, and a lifetime to master. In similar vein, English is reputed to be an easy beginner’s language in which it is nevertheless very hard to achieve native-level fluency. Why is this?
+
+There are probably four main factors that make English difficult to master. These are:
+1 Lack of clear rules of grammar. We have seen how English is a product of various different linguistic traditions. One of the results of this is a comparative lack of consistent grammatical rules. Prepositions are a clear example of this.
+
+2 Extensive vocabulary. There are many different ways of saying the same thing in English. This is again due to the fact that English draws upon different linguistic traditions. For example, if you wanted to say that something was legally permissible, you could use the Old Norse (Scandinavian)-derived word, lawful.
+
+Alternatively, you could use the Latin-derived word, legitimate. Or, if you wanted a more emotive word, you could use the Old English word, right. To take another example, when talking about employment do you say calling, career, profession, employment, job, work, occupation or vocation?
+
+3 The use of phrasal verbs in English (and legal English). For example, you put down a deposit, and you enter into a contract. These combinations must be learned individually because they involve using a verb with a preposition or adverb or both; and, as noted above, prepositions do not follow clear grammatical rules. Some of the phrasal verbs most commonly used in legal English are set out in a glossary at the back of the book.
+
+4 The use of idioms. Idioms are groups of words whose combined meaning is different from the meanings of the individual words. For example, the expression over the moon means ‘happy’. Idioms are frequent in ordinary English – they are a distinctive element of the way native English speakers use the language. They are found less often in legal English, but exist in some legal jargon. For example, the expression on all fours is used to refer to the facts of a case that correspond exactly to the facts of a previous case.
+
+####
+1.3 英语难学的原因是什么？
+有人说，国际象棋只需一天就能学会，但精通却需要一生的时间。同样，英语也被认为是一种易于初学者掌握的语言，但要达到母语水平的流利程度却非常困难。为什么呢？
+
+英语难学主要有四个原因。它们是：
+1. 缺乏清晰的语法规则。我们已经看到，英语是各种不同语言传统的产物。其结果之一就是缺乏一致的语法规则。介词就是一个明显的例子。
+
+2. 词汇量大。用英语表达同一件事有很多不同的方式。这同样是因为英语借鉴了不同的语言传统。例如，如果你想说某事在法律上是允许的，你可以使用源自古挪威语（斯堪的纳维亚语）的单词lawful。
+
+或者，你可以使用源自拉丁语的单词“legal”（合法的）。或者，如果你想要一个更具情感色彩的词，你可以使用古英语单词“right”（对的）。再举个例子，当谈论就业时，你会说calling（召唤）、career（职业）、profession（专业）、employment（就业）、job（工作）、occupation（职业）还是vocation（职业）？
+
+3 英语（和法律英语）中短语动词的用法。例如，你付了定金，然后你签订了一份合同。这些组合必须单独学习，因为它们涉及使用动词和介词或副词，或者两者兼而有之；而且，如上所述，介词并不遵循明确的语法规则。法律英语中最常用的一些短语动词在本书后面的词汇表中列出。
+
+4 习语的使用。习语是由词组组成的，其组合含义与单个词的含义不同。例如，over the moon这个表达的意思是“快乐的”。习语在日常英语中很常见——它们是英语母语人士使用语言方式的一个独特元素。它们在法律英语中不太常见，但存在于一些法律术语中。例如，“on all fours”这个表达用来指案件事实与先前案件事实完全一致。
+
+####
+1.4 WHAT MAKES LEGAL LANGUAGE DIFFICULT? 
+
+One of the main reasons why legal language is sometimes difficult to understand is that it is often very different from ordinary English. This comprises two issues: 
+1 The writing conventions are different: sentences often have apparently peculiar structures, punctuation is used insufficiently, foreign phrases are sometimes used instead of English phrases (e.g. inter alia instead of among others), unusual pronouns are employed (the same, the aforesaid, etc), and unusual set phrases are to be found (null and void, all and sundry).
+
+2 A large number of difficult words and phrases are used. These fall into four categories, brief details of which are given below.
+
+####
+1.4 法律语言的难点是什么？
+
+法律语言有时难以理解的主要原因之一是它与普通英语差异很大。这包括两个方面：
+1. 写作习惯不同：句子结构通常比较特殊，标点符号使用不足，有时使用外来语代替英语短语（例如，用“inter alia”代替“among others”），使用不常见的代词（例如，“the same”、“the aforesaid”等），以及使用不常见的固定短语（例如，“null and void”、“all and sundry”等）。
+
+2. 法律语言中使用了大量的难词和短语。这些难词和短语分为四类，下文将简要介绍。
+
+1.4.1 Legal terms of art 1.4.1
+Legal terms of art are technical words and phrases that have precise and fixed legal meanings and which cannot usually be replaced by other words. Some of these will be familiar to the layperson (e.g. patent, share, royalty). Others are generally only known to lawyers (e.g. bailment, abatement).
+
+A number of frequently encountered terms of art are defined in the glossary of legal terminology at the back of this book.
+
+1.4.1 法律术语 1.4.1
+法律术语是指具有精确、固定的法律含义且通常无法被其他词语替代的专业词汇和短语。其中一些术语为普通人所熟知（例如：专利、股份、特许权使用费）。另一些术语通常只有律师才知晓（例如：委托保管、减免）。
+
+本书后面的法律术语表中对一些常用的术语进行了定义。
+
+1.4.2 Legal jargon 
+Terms of art should be differentiated from legal jargon. Legal jargon comprises words used by lawyers, which are difficult for non-lawyers to understand. Jargon words range from near-slang to almost technically precise words. Well-known examples of jargon include boilerplate clause and corporate veil.
+
+Jargon includes a number of archaic words no longer used in ordinary English.
+
+These include annul (to declare that something, such as a contract or marriage is no longer legally valid) and bequest (to hand down as an inheritance property other than land).
+
+It also includes certain obscure words which have highly specialised meanings and are therefore not often encountered except in legal documents. Examples include emoluments (a person’s earnings, including salaries, fees, wages, profits and benefits in kind) and provenance (the origin or early history of something).
+
+Jargon words should be replaced by plain language equivalents wherever possible.
+
+1.4.2 法律术语
+专业术语应与法律术语区分开来。法律术语包括律师使用的词汇，非律师人士难以理解。术语的范围从近乎俚语到几乎技术性的精确词汇。众所周知的术语示例包括样板条款和公司面纱。
+
+术语包含许多在普通英语中已不再使用的古词。
+
+这些包括annul（宣布某事物，例如合同或婚姻，不再具有法律效力）和bequest（将土地以外的财产作为遗产继承）。
+
+术语还包括一些含义非常专业化的晦涩词汇，因此除了在法律文件中很少见到。例如，emoluments（个人收入，包括薪金、费用、工资、利润和实物福利）和proportance（某事物的起源或早期历史）。
+
+应尽可能用通俗易懂的语言替代术语。
+
+1.4.3 Legal meaning may differ from the general meaning 
+There is also a small group of words that have one meaning as a legal term of art and another meaning in ordinary English. One example is the word distress, which as a legal term of art refers to the seizure of goods as security for the performance of an obligation. In ordinary English it means anxiety, pain or exhaustion. Here are some further examples.
+
+Word and its legal English meaning 
+Consideration in legal English means an act, forbearance, or promise by one party to a contract that constitutes the price for which the promise of the other party is bought. Consideration is essential to the validity of any contract other than one made by deed.
+
+Word and its ordinary English meaning
+Consideration in ordinary English means; (1) careful thought, (2) a fact taken into account when making a decision, (3) thoughtfulness towards others.
+
+Construction in legal English means interpretation. ‘To construe’ is the infinitive verb form of the term.
+
+Construction in ordinary English means: (1) the action of constructing [e.g. a building]; (2) a building or other structure; (3) the industry of erecting buildings.
+
+Redemption in legal English means the return or repossession of property offered as security on payment of a mortgage debt or charge.
+
+Redemption in ordinary English usually means Christian salvation.
+
+Tender in legal English means an offer to supply goods or services. Normally a tender must be accepted to create a contract.
+
+Tender in ordinary English means: (1) gentle and kind; (2) (of food) easy to cut or chew; (3) (of a part of the body) painful to the touch; (4) young and vulnerable; (5) easily damaged.
+
+Further examples may be found in the glossary dealing with obscure words and phrases at the back of the book.
+
+1.4.3 法律含义可能与一般含义不同
+还有一小部分词语，作为法律术语具有一种含义，而在普通英语中则具有另一种含义。例如，“stress”（窘迫）一词，作为法律术语，指扣押货物作为履行义务的担保。在普通英语中，它表示焦虑、痛苦或疲惫。以下是一些其他示例。
+
+词语及其法律英语含义
+Consideration 在法律英语中是指合同一方当事人的行为、忍耐或承诺，构成了购买另一方承诺的代价。Consideration 对于任何合同（契约合同除外）的有效性都至关重要。
+
+词语及其普通英语含义
+Consideration 在普通英语中的含义为：(1) 深思熟虑，(2) 做出决定时考虑的事实，(3) 对他人的体贴。
+
+Construction 在法律英语中是指解释。“To construment”是该术语的不定式动词形式。
+
+在普通英语中，construction 的意思是：(1) 建造（例如建筑物）的行为；(2) 建筑物或其他构筑物；(3) 建筑行业。
+
+在法律英语中，redemption 的意思是归还或收回作为抵押债务或抵押品偿还担保的财产。
+
+在普通英语中，redemption 通常指基督教的救赎。
+
+在法律英语中，tender 的意思是提供商品或服务的要约。通常，tender 必须被接受才能构成合同。
+
+在普通英语中，tender 的意思是：(1) 温柔和善；(2) （食物）易于切割或咀嚼；(3) （身体部位）触摸时疼痛；(4) 年轻和脆弱；(5) 易受损。
+
+更多例子可以在本书后面关于生僻词和短语的词汇表中找到。
+
+1.4.4 Words may be used in apparently peculiar contexts 
+A number of words and phrases, which are used in ordinary English, are also used in legal English but in unusual contexts. Examples include furnish, prefer, hold. For details of the meanings of these and other words and phrases, refer to the glossaries dealing with obscure words and phrases at the back of the book.
+
+1.4.4 词汇可能用于看似特殊的语境
+许多在日常英语中使用的词汇和短语也用于法律英语，但语境并不常见。例如，furnish、prefer、hold。有关这些词汇和其他词汇的含义详情，请参阅本书后面关于生僻词汇和短语的词汇表。
+
+####################
+2	Elements of legal writing
+The aim of this chapter is not to provide comprehensive coverage of all aspects of grammar, but merely to provide guidance on various issues that may cause difficulties in legal writing.
+
+####
+2.1 ARTICLES
+Articles in English include the, a and an.
+
+A few simple rules clarify the way in which these articles should be used.
+
+A and an are indefinite articles. A is used when mentioning something for the first time (‘a client walked into the office’). An is used in the same circumstances but only where the following word begins with a vowel (‘an attorney walked into the office’).
+
+The is the definite article. It is used when referring to something already mentioned before (‘the client then sat down’), or when referring to something that is the only one of its kind (‘the sun’) or when referring to something in a general rather than specific way (‘the Internet has changed our way of life’).
+
+In some circumstances, articles should be omitted. For example, when a sentence links two parallel adjectival phrases, the article should be omitted from the second phrase. Here is an example: The judge ruled that Cloakus Ltd was a validly registered and an existing company.
+
+In addition, when using certain abstract nouns in a general, conceptual sense, it is not necessary to use an article to precede the noun. For example: In the event of conflict between the definitions given in appendix 1 and the definitions given in the contract, the contract shall prevail There is no need here to precede conflict with a, since conflict is used in a general conceptual sense. However, when referring to a specific conflict, articles should be used, as in ‘the opposing factions took part in the conflict’.
+
+####
+2.1 冠词
+英语中的冠词包括 the、a 和 an。
+
+一些简单的规则阐明了这些冠词的使用方式。
+
+A 和 an 是不定冠词。A 用于首次提及某事物时（“一位客户走进办公室”）。An 也用于相同情况，但仅限于后续单词以元音开头时（“一位律师走进办公室”）。
+
+The 是定冠词。它用于指代之前已经提及的事物（“客户随后坐下”），或指代同类中独一无二的事物（“太阳”），或泛指而非具体指代某事物（“互联网改变了我们的生活方式”）。
+
+在某些情况下，应该省略冠词。例如，当一个句子连接两个并列的形容词短语时，应该省略第二个短语中的冠词。以下是一个例子：法官裁定 Cloakus Ltd 是一家有效注册且现存的公司。
+
+此外，在以一般概念意义使用某些抽象名词时，无需在名词前加冠词。例如：如果附录1中的定义与合同中的定义相冲突，则以合同为准。此处无需在“冲突”前加冠词，因为“冲突”一词通常用于一般概念意义。但是，当指代具体的冲突时，应使用冠词，例如“对立派系参与了冲突”。
+
+####
+EXERCISE 1
+Correct these sentences by adding articles as appropriate. The answers can be EXERCISE 1 found in the answer key at the back of the book.
+
+Alternatively, visit the Companion Website to access this question online.
+
+(1) Parties signed contract today after having discussed price.
+(2) Lawyer about whom I spoke arrived at meeting too late to advise about amount of damages company could get.
+(3) If there is telephone call for me about case, put it through.
+(4) Client said that Roggins was inefficiently run and unprofitable company.
+(5) Mobile phone has revolutionised way in which firm does business.
+
+####
+练习 1
+根据情况添加冠词，修改以下句子。答案可以在本书后面的练习 1 答案中找到。
+
+或者，您也可以访问配套网站在线访问此问题。
+
+(1) 双方在讨论价格后，今天签署了合同。
+(2) 我提到的那位律师开会时太晚了，无法告知公司可能获得的赔偿金额。
+(3) 如果有人打电话给我，请接通。
+(4) 客户说罗金斯公司经营效率低下，盈利能力差。
+(5) 手机彻底改变了公司的经营方式。
+
+####
+2.2 Prepositions
+Prepositions are words used with a noun or pronoun, which show place, position, time or method.
+
+Prepositions such as to, in, from, between, after, before, etc. normally come before a noun or pronoun and give information about how, when or where something has happened (‘she arrived before lunch’, ‘I travelled to London’).
+
+The preposition between should be followed by an object pronoun like me, him or us instead of a subject pronoun such I, she and we. It is therefore correct to say ‘this matter is between you and me’ and wrong to say ‘this matter is between you and I’.
+
+The main problem for the non-native speaker is remembering which preposition to use. There are no clear rules to follow in this respect, but some examples of common usages are set out below: 
+● The parties to this agreement . . .
+● The goods must be delivered to the purchaser.
+● The commencement/termination of this agreement . . .
+● The price list set out in Schedule 1 . . .
+● Royalties will be paid in accordance with this agreement for a period of five years.
+● The goods must be delivered within 14 days.
+● The Company agrees to provide training for service personnel.
+● The agreement may be terminated by notice.
+● An arrangement between the Seller and the Buyer . . .
+● It is agreed that the goods will be collected from the Seller’s warehouse at 21 Redwoods Road.
+● It is agreed that the goods will be collected from the Seller’s warehouse in/on Redwoods Road.
+● Interest will be charged on any unpaid instalments after the expiration of a period of 28 days from the date hereof.
+● He was charged with murder.
+● The property at 2 Pond Road is sold with vacant possession.
+
+It is important to note that in certain circumstances it may be possible to use more than one preposition, and that there may be small but important differences in meaning between them. For example, the sentence: The goods must be delivered within 7 days is subtly different from The goods must be delivered in 7 days.
+
+The use of the word within makes it clear that the goods may be delivered at any time up to the seventh day, while the word in implies that the goods should be delivered on the seventh day. This minor linguistic difference could be critically important in a contract for the sale of goods.
+
+####
+2.2 介词
+介词是与名词或代词连用的词，用于表示地点、位置、时间或方式。
+
+介词，例如 to、in、from、between、after、before 等，通常位于名词或代词之前，用于描述某事发生的方式、时间或地点（“她午饭前就到了”，“我去了伦敦”）。
+
+介词 between 后面应该跟宾语代词，例如 me、him 或 us，而不是主语代词，例如 I、she 和 we。因此，说“这件事是你我之间的事情”是正确的，而说“这件事是你我之间的事情”是错误的。
+
+对于非母语人士来说，主要问题是记住使用哪个介词。在这方面没有明确的规则，但以下列出了一些常见用法的示例：
+● 本协议的各方……
+● 货物必须交付给买方。
+● 本协议的生效/终止。 ……
+● 附表1所列价格表……
+● 特许权使用费将根据本协议支付，期限为五年。
+● 货物必须在14天内交付。
+● 公司同意为服务人员提供培训。
+● 本协议可经通知终止。
+● 买卖双方达成协议……
+● 双方同意货物将从卖方位于红木路21号的仓库提取。
+● 双方同意货物将从卖方位于红木路的仓库提取。
+● 自本协议签订之日起28天后，任何未付分期付款将收取利息。
+● 他被控谋杀。
+● 位于池塘路2号的房产以空置状态出售。
+
+值得注意的是，在某些情况下，可以使用多个介词，并且它们之间可能存在细微但重要的语义差异。例如，句子“货物必须在7天内交付”与“货物必须在7天内交付”有细微的差别。
+
+“within”一词的使用明确表示货物可以在7天之前的任何时间交付，而“in”一词则暗示货物应在7天交付。这种细微的语言差异在货物买卖合同中可能至关重要。
+
+####
+EXERCISE 2
+Replace the missing prepositions in the gaps in the following sentences. The EXERCISE 2 answers can be found in the answer key at the back of the book.
+
+Alternatively, visit the Companion Website to access this question online.
+
+(1) Ten units must be delivered the buyer 30 November.
+(2) This agreement can be terminated giving not less than 14 days’ notice writing.
+(3) Rent will be paid accordance this agreement.
+(4) This is an agreement the parties to the contract.
+(5) The goods are to be moved the defendant’s warehouse no later 28 August.
+
+####
+练习 2
+请用介词替换下列句子中缺失的介词。练习 2 的答案可以在本书后面的答案中找到。
+
+或者，您也可以访问配套网站在线查看此问题。
+
+(1) 必须在 11 月 30 日之前向买方交付 10 件商品。
+(2) 本协议可提前至少 14 天书面通知终止。
+(3) 租金将按照本协议支付。
+(4) 这是合同双方达成的协议。
+(5) 货物应在 8 月 28 日之前运至被告仓库。
+
+####
+2.3 PRONOUNS
+A pronoun is a word used instead of a noun to indicate someone or something already mentioned or known. For example, I, you, this, that.
+
+Pronouns are used to avoid repeated use of a noun. They are usually used to refer back to the last used noun.
+
+Legal drafters have traditionally avoided using personal pronouns such as he, she, we, they, instead replacing them with formulations such as the said, the aforesaid, or the same. The reason for this is a fear of ambiguity in cases where it is unclear to which noun the pronoun might refer if a number of parties are mentioned in the document.
+
+Here is an example of a sentence made ambiguous by unclear use of personal pronouns: He arrived with James and John. John then continued his journey by car. James stayed at the depot, and he followed John later.
+
+The modern trend, however, is to use pronouns where possible, as their use makes documentation less formal and intimidating. For example, ‘you must pay the sum of £100 per month to me’ is easier for a layperson to understand than ‘the Tenant must pay the sum of £100 per month to the Landlord’.
+
+However, their use is inappropriate where the aim of the drafter is to impress the reader with the seriousness of the obligations being undertaken, as pronouns often lead to a chattier and lighter style than is found in traditional legal documentation.
+
+One aspect of pronoun use that is now highly relevant lies in the desire to avoid sexist language in legal and business English. This subject is discussed further in Chapter 6. A list of common gender-neutral pronouns and adjectives that can be used to avoid using sexist language is set out below.
+
+● any
+● anybody
+● anyone
+● each
+● every
+● everybody
+● nobody
+● none
+● no one
+● some
+● somebody
+● someone
+
+2.3 代词
+代词是用来代替名词，指代已经提及或已知的人或事物的词。例如，我、你、这、那。
+
+代词用于避免名词的重复使用。它们通常用于指代上一次使用的名词。
+
+法律起草者传统上避免使用人称代词，例如他、她、我们、他们，而是用诸如所述、前述或相同之类的表述来代替。这样做的原因是，如果文件中提到了多个当事人，当代词可能指的是哪个名词时，他们担心会产生歧义。
+
+以下是一个因人称代词使用不明确而产生歧义的句子示例：他和詹姆斯和约翰一起到达。然后约翰继续开车旅行。詹姆斯留在车站，后来他跟随约翰。
+
+然而，现代趋势是尽可能使用代词，因为它们的使用可以使文件不那么正式和令人生畏。例如，“你必须每月支付我100英镑”比“租客必须每月支付房东100英镑”更容易被普通人理解。
+
+然而，如果起草者的目的是让读者感受到所承担义务的严肃性，那么使用代词就不合适了，因为代词的使用往往会导致比传统法律文件更冗长、更轻松的风格。
+
+代词使用的一个如今高度相关的方面是，人们希望在法律和商务英语中避免使用性别歧视语言。第六章将进一步讨论这一主题。以下列出了一些常见的中性代词和形容词，可以用来避免使用性别歧视语言。
+
+● any
+● anyone
+● anyone
+● each
+● every
+● everyone
+● nobody
+● none
+● no one
+● some
+● someone
+● someone
+
+####
+EXERCISE 3
+Replace the missing pronouns in the following sentences. The answers can be EXERCISE 3 found in the answer key at the back of the book.
+
+Alternatively, visit the Companion Website to access this question online.
+(1) I went to the office very early this morning and did not see there.
+(2) It is important that be there to welcome Mr Jones when he arrives at the airport tomorrow evening.
+(3) These rules are very clear. Therefore should be in any doubt as to what they mean.
+(4) If you feel that the issues Mr Smith wants you to resolve are outside your field of expertise, don’t hesitate to pass case to me.
+(5) The lawyers in that firm are rather old-fashioned in approach. It’s time for to modernise.
+
+####
+练习 3
+请替换下列句子中缺失的代词。答案可以在本书后面的练习 3 答案中找到。
+
+或者，您也可以访问配套网站在线访问此问题。
+(1) 我今天早上很早就去了办公室，但没有看到那里。
+(2) 琼斯先生明天晚上到达机场时，务必在那里迎接他。
+(3) 这些规则非常明确。因此，您不应该对它们的含义有任何疑问。
+(4) 如果您觉得史密斯先生希望您解决的问题超出了您的专业领域，请随时将案件交给我。
+(5) 那家律师事务所的律师们做事风格比较古板。是时候进行现代化了。
+
+####
+2.4 ADJECTIVES
+An adjective is a word used to describe a noun or make its meaning clearer (e.g.
+
+excellent, as in ‘an excellent horse’). Some words in the English language have the ability to change parts of speech. For example, the word principal, often used in legal English, can be used as an adjective (‘the principal sum’) or as a noun (‘the principal instructs the agent’).
+
+Some adjectives are described as uncomparable adjectives, meaning that they describe something that can only be absolute. Such adjectives cannot be qualified by words like most, more, less, very, quite or largely. For example, if a provision in a contract is void it cannot be ‘largely void’ or ‘more void’ – it is simply void.
+
+A short list of uncomparable adjectives is set out below:
+● absolute
+● certain
+● complete
+● definite
+● devoid
+● entire
+● essential
+● false
+● final
+● first
+● impossible
+● inevitable
+● irrevocable
+● manifest
+● only
+● perfect
+● principal
+● stationary
+● true
+● uniform
+● unique
+● void
+● whole
+
+####
+2.4 形容词
+形容词是用来修饰名词或使其含义更清晰的词（例如，excellent，如“一匹优秀的马”）。英语中有些词可以改变词性。例如，principal（委托人）一词在法律英语中经常使用，可以用作形容词（“本金”）或名词（“委托人指示代理人”）。
+
+有些形容词被称为不可比拟形容词，这意味着它们描述的事物只能是绝对的。这类形容词不能用most、more、less、very、quite或largely等词修饰。例如，如果合同中的某项条款无效，则不能用“largely void”或“more void”来修饰——它就是无效的。
+
+以下列出了一些不可比拟的形容词：
+● 绝对的
+● 确定的
+● 完整的
+● 明确的
+● 缺乏的
+● 全部的
+● 必要的
+● 错误的
+● 最后的
+● 最初的
+● 不可能的
+● 不可避免的
+● 不可撤销的
+● 明显的
+● 唯一的
+● 完美的
+● 主要的
+● 固定的
+● 真实的
+● 统一的
+● 唯一的
+● 无效的
+● 全部的
+
+####
+EXERCISE 4
+Legal English contains many adjectives that relate to abstract nouns. For EXERCISE 4 example, remediable from remedy. Complete the table below. The answers can be found in the answer key at the back of the book.
+
+Alternatively, visit the Companion Website to access this question online.
+
+Nouns 	|	Adjectives
+(1) 	|	defective
+acceptance|	 (2)
+(3) 	|	restorable
+reliance |	(4)
+(5) 	|	requisite
+
+####
+练习 4
+法律英语中有许多与抽象名词相关的形容词。例如，练习 4 中的 remedible 对应 relief。请完成下表。答案可在本书背面的答案中找到。
+
+或者，您也可以访问配套网站在线查看此问题。
+
+名词 | 形容词
+(1) | 有缺陷的
+接受 | (2)
+(3) | 可恢复的
+信赖 | (4)
+(5) | 必需的
+
+####
+2.5 ADVERBS
+An adverb is a word that modifies or qualifies a verb (e.g. walk slowly), an adjective (e.g. really small) or another adverb (e.g. very quietly).
+
+Most adverbs consist of an adjective + the ending -ly. There are a number of words that act both as adjectives and as adverbs, to which the suffix -ly cannot be added. These include:
+● alone
+● early
+● enough
+● far
+● fast
+● further
+● little
+● long
+● low
+● much
+● still
+● straight
+
+####
+2.5 副词
+副词是修饰或限定动词（例如 walk slowly）、形容词（例如 really small）或其他副词（例如 very quietly）的词。
+
+大多数副词由形容词 + 词尾 -ly 组成。有一些词既可用作形容词，又可用作副词，但不能加 -ly 后缀。这些词包括：
+● 独自
+● 早
+● 足够
+● 远
+● 快
+● 更远
+● 少
+● 长
+● 低
+● 多
+● 静止
+● 直
+
+####
+EXERCISE 5
+Choose an appropriate adverb from the list below to complete the following
+EXERCISE 5
+sentences. The answers can be found in the answer key at the back of the book.
+Alternatively, visit the Companion Website to access this question online.
+(1) My client accepts that he is responsible for the difficult financial circumstances in which he finds himself.
+(2) This clause is not enforceable.
+(3) The speaker droned on for over two hours.
+(4) We should be grateful if the documents were issued .
+(5) The proposition, though attractive, was flawed.
+a. superficially
+b. legally
+c. expeditiously
+d. tediously
+e. solely
+
+####
+练习 5
+从下面的列表中选择一个合适的副词完成以下
+练习 5
+句子。答案可以在本书后面的答案中找到。
+或者，访问配套网站在线访问此问题。
+(1) 我的客户承认他应对自己所处的困难财务状况负责。
+(2) 本条款不可执行。
+(3) 演讲者喋喋不休地说了两个多小时。
+(4) 如果文件能签发，我们将不胜感激。
+(5) 该提议虽然有吸引力，但存在缺陷。
+a. 表面上
+b. 合法地
+c. 迅速地
+d. 乏味地
+e. 仅仅
+
+####
+2.6 COLLECTIVE NOUNS
+A collective noun is one that refers to a group of people or things (e.g. jury, government, committee). Such nouns can be used with either a singular verb (‘the jury was made up of people from many different backgrounds’) or a plural verb (‘the jury are all in the court now’).
+
+It should be remembered that if the verb is singular any following pronouns (words such as he, she, it or they) must also be singular, e.g. ‘the firm is prepared to act, but not until it knows the outcome of the negotiations’ (not ‘. . . until they know the outcome’).
+
+In general it is better to use the singular when referring to collective nouns. The exception to this is where the plural is used to indicate that one is referring not primarily to the group but to all the individual members of the group (e.g. ‘the staff were unhappy with the changes that had been proposed’).
+
+Here is a short list of collective nouns found in legal English:
+● board (e.g. of directors)
+● class
+● club
+● committee
+● company
+● government
+● group
+● jury
+● majority
+● nation
+● parliament
+● party (i.e. a body of persons)
+● staff
+● team
+● union
+● the Cabinet
+● the public
+
+####
+2.6 集合名词
+集合名词是指一群人或事物（例如陪审团、政府、委员会）。这类名词可以与单数动词连用（“陪审团由来自不同背景的人组成”），也可以与复数动词连用（“陪审团现在都在法庭上”）。
+
+需要注意的是，如果动词是单数，则其后的任何代词（例如“他”、“她”、“它”或“他们”）也必须是单数，例如“公司准备采取行动，但要等到知道谈判结果后才能采取行动”（而不是“……直到他们知道结果”）。
+
+一般来说，提及集合名词时最好使用单数。例外情况是，使用复数形式表示主要指的不是群体，而是群体中的所有个体成员（例如，“工作人员对提出的变更不满意”）。
+
+以下是法律英语中出现的集合名词的简短列表：
+● 董事会（例如，董事）
+● 阶层
+● 俱乐部
+● 委员会
+● 公司
+● 政府
+● 团体
+● 陪审团
+● 多数
+● 国家
+● 议会
+● 政党（即一群人）
+● 工作人员
+● 团队
+● 工会
+● 内阁
+● 公众
+
+####
+EXERCISE 6
+Consider the sentences below and decide whether the singular or plural form should be used. The answers can be found in the answer key at the back of the book.
+
+Alternatively, visit the Companion Website to access this question online.
+(1) Our staff (is/are) divided over the proposed management changes.
+(2) Our staff (consists/consist) of skilled people from many different backgrounds.
+(3) The committee (have/has) decided to approve the amended proposal.
+(4) The majority of our lawyers (is/are) fluent in English.
+(5) The group (thank/thanks) all those people who have helped it to succeed.
+
+####
+练习 6
+思考以下句子，并决定应该使用单数还是复数形式。答案可以在本书最后的答案中找到。
+
+或者，访问配套网站在线访问此问题。
+(1) 我们的员工 (is/are) 对拟议的管理变革意见不一。
+(2) 我们的员工 (consists/consist) 由来自不同背景的技术人员组成。
+(3) 委员会 (have/has) 决定批准修订后的提案。
+(4) 我们大多数律师 (is/are) 能说流利的英语。
+(5) 该集团 (thank/thanks) 所有帮助其取得成功的人。
+
+####
+2.7 UNCOUNTABLE NOUNS
+Some nouns in English are uncountable. In other words, they are not used with a or an and do not have plural forms. For example, the word information, as in the phrase I need some information.
+
+In order to refer to a particular number of an uncountable noun, especially one, you can join the noun to a word that is itself countable, or use a countable synonym instead.
+
+Here are some examples:
+
+Uncountable noun 	|A particular number
+data 				|A piece/item of data
+equipment 			|a piece of equipment
+litigation 			|a litigation matter
+					|a case
+					|a claim
+machinery 			|a piece of machinery
+					|a machine
+software 			|a piece of software
+					|an application
+					|a program
+training 			|a training course
+					|a training programme
+legislation 		|a law
+					|an Act
+real estate 		|a property
+
+####
+2.7 不可数名词
+英语中有些名词是不可数的。换句话说，它们不与 a 或 an 连用，也没有复数形式。例如，在短语“我需要一些信息”中，“信息”一词。
+
+为了表示不可数名词的特定数量，尤其是“一”，你可以将名词与一个本身可数的词连接，或者使用可数同义词。
+
+以下是一些示例：
+
+不可数名词 | 特定数量
+数据 | 数据项/数据项
+设备 | 一件设备
+诉讼 | 诉讼事项
+| 案件
+| 索赔
+机械 | 一台机械
+| 一台机器
+| 软件 | 一个软件
+| 应用程序
+| 程序
+培训 | 培训课程
+| 培训计划
+立法 | 法律
+| 法案
+房地产 | 财产
+
+####
+2.8 PAST TENSES
+One of the main difficulties experienced by non-native speakers in using tenses concerns which form of past tense to use in different situations. The subject is more complex than the guidance given below might indicate, but these notes cover the most common areas of difficulty.
+
+2.8.1 Past-perfect tense 
+This tense refers to a past action that is completed before a more recent time in the past, and is formed using had. For example:
+
+In 1998 I lived in New York. In 1997 I had decided to move to the United States the following year.
+
+2.8.2 Simple past
+This tense refers to completed actions that occurred in the past, and is formed with the ending -ed. For example:
+I lived in New York.
+
+2.8.3 Past continuous
+This tense refers to an action that occurred in the past and is not described as having been completed. For example: In 1998 I was living in New York.
+
+A common mistake made by non-native speakers is to use the past continuous when the simple past or past-perfect tense should be used. In legal contexts this can easily lead to ambiguity. For example, to say ‘In 1998 I was working as a commercial lawyer’ leaves it unclear as to whether you still work as a commercial lawyer.
+
+####
+2.8 过去时
+非母语人士在使用时态时遇到的主要困难之一是，在不同情况下应该使用哪种形式的过去时。这个问题比以下指南可能显示的要复杂得多，但这些笔记涵盖了最常见的难点。
+
+2.8.1 过去完成时
+这种时态指的是过去某个更近的时间之前完成的过去动作，其构成方式为 had。例如：
+
+1998 年，我住在纽约。1997 年，我决定第二年搬到美国。
+
+2.8.2 一般过去时
+这种时态指的是过去发生的已经完成的动作，其词尾为 -ed。例如：
+我住在纽约。
+
+2.8.3 过去进行时
+这种时态指的是过去发生的动作，但并未被描述为已经完成。例如：1998 年，我住在纽约。
+
+非母语人士常犯的一个错误是，在应该使用一般过去时或过去完成时的地方使用了过去进行时。在法律语境中，这很容易造成歧义。例如，如果说“1998年，我是一名商业律师”，就会让人搞不清楚你是否仍然在从事商业律师的工作。
+
+####
+EXERCISE 7
+Read through the passage below and insert the correct past tense forms. The EXERCISE 7 answers can be found in the answer key at the back of the book.
+
+Alternatively, visit the Companion Website to access this question online.
+
+In 1989, Statchem (insert correct form of verb ‘to open’) its first chemical plant in Thailand. Two years before this the company (insert correct form of verb ‘to begin’) negotiations with Kemble Inc., but these eventually (insert correct form of phrasal verb ‘to fall through’). At about the same time, during the mid to late eighties, Statchem (insert correct form of phrasal verb ‘to be involved in’) the development of plastics technology and (insert correct form of verb ‘to spend’) considerable sums of money on research and development. Statchem (insert correct form of verb ‘to hope’) that this investment would result in an increased market share going into the new decade.
+
+Unfortunately, this strategy failed (alter phrase ‘fail to pay off’ as appropriate). Due to the onset of a global recession, the market (insert correct form of verb ‘to shrink’) and as a result all the money and effort that Statchem (insert correct form of phrasal verb ‘to put into’) the project (insert correct form of verb ‘to waste’).
+
+####
+练习 7
+阅读下面的段落并填写正确的过去时态。练习 7 的答案可以在本书后面的答案中找到。
+
+或者，您也可以访问配套网站在线查看此问题。
+
+1989 年，Statchem（插入动词“to open”的正确形式）在泰国开设了第一家化工厂。两年前，该公司（插入动词“to begin”的正确形式）与 Kemble Inc. 进行了谈判，但最终（插入短语动词“to fall through”的正确形式）告吹。大约在同一时期，即 20 世纪 80 年代中后期，Statchem（插入短语动词“to be engaged in”的正确形式）致力于塑料技术的开发，并在研发上投入了大量资金。Statchem（插入动词“to spending”的正确形式）希望这项投资能够使其在新十年的市场份额有所提升。
+
+不幸的是，这一策略失败了（根据情况修改短语“未能成功”）。由于全球经济衰退的爆发，市场（插入动词“萎缩”的正确形式），以及Statchem公司（插入短语动词“投入”的正确形式）投入该项目（插入动词“浪费”的正确形式）的所有资金和精力都付诸东流。
+
+####
+2.9 VERB FORMS
+2.9.1 The conditional form
+This form is used to express a condition; or to put it another way, to express that
+something is dependent on something else. For example:
+● I would go if I felt better (I would in fact go if I felt better).
+● I could go if I felt better (I would be able to go if I felt better).
+● I should go if I felt better (I would in fact go if I felt better).
+● I should go if I feel better (I ought to go if I feel better in the future).
+When used for the conditional, should goes with I and we, and would goes with you, he, she, it and they. However, even well-educated English native speakers often disregard this rule. Consequently, using the wrong word is not a very serious error.
+
+A mistake often made by non-native speakers is to use the conditional instead of the subjunctive in a sentence in which both forms should be used. Consequently, the sentence, ‘I wouldn’t try it if I were you’ is often wrongly expressed, ‘I wouldn’t try it if I would be you’.
+
+####
+2.9 动词形式
+2.9.1 条件式
+此形式用于表达条件；或者换句话说，表达
+某事依赖于其他事。例如：
+● 如果我感觉好些，我会去（如果我感觉好些，我实际上会去）。
+● 如果我感觉好些，我可以去（如果我感觉好些，我能够去）。
+● 如果我感觉好些，我应该去（如果我感觉好些，我实际上会去）。
+● 如果我感觉好些，我应该去（如果我将来感觉好些，我应该去）。
+当用于条件式时，should 与 I 和 we 连用，而 would 与 you、he、she、it 和 they 连用。然而，即使是受过良好教育的英语母语人士也经常忽视这条规则。因此，用错词并不是什么严重的错误。
+
+非英语母语人士常犯的一个错误是，在一个应该使用两种形式的句子中使用条件式而不是虚拟式。因此，“如果我是你，我就不会尝试”这句话经常被错误地表达为“如果我是你，我就不会尝试”。
+
+####
+EXERCISE 8
+Insert the correct conditional form (could, would, or should) in the sentences below. The answers can be found in the answer key at the back of the book.
+Alternatively, visit the Companion Website to access this question online.
+(1) We be grateful if you send the documents to us.
+(2) You insert a clause dealing with that issue if you want to avoid uncertainty.
+(3) We were advised that the goods arrive on 20 May 2002.
+(4) We certainly help you if we .
+(5) you mind answering the telephone?
+
+####
+练习 8
+在以下句子中插入正确的条件形式（could、would 或 should）。答案可以在本书最后的答案中找到。
+或者，您也可以访问配套网站在线访问此问题。
+(1) 如果您将文件寄给我们，我们将不胜感激。
+(2) 如果您想避免不确定性，请插入一个处理该问题的条款。
+(3) 我们被告知货物于 2002 年 5 月 20 日到达。
+(4) 如果我们……，我们一定会帮助您。
+(5) 您介意接电话吗？
+
+2.9.2 The subjunctive form 
+This form of a verb is in the following circumstances:
+● to express what is imagined (‘Let’s imagine that he were here today’);
+● to express what is wished (‘I wish that he were here today’);
+● to express what is possible (‘If only that were possible!’).
+
+It is usually the same as the ordinary form of the verb except in the third person singular (he, she, it), where the normal -s ending is omitted. For example, you should say face rather than faces in the sentence ‘the report recommends that he face the tribunal’.
+
+The situation is slightly different when using the verb to be. The subjunctive for to be when using the present tense is be, whereas the ordinary present tense is am, are or is. For example, ‘the report recommends that he be dismissed’.
+
+When using the past subjunctive form of to be, you should use were instead of was. For example, ‘I wouldn’t try it if I were you’.
+
+2.9.2 虚拟式
+动词的虚拟式形式适用于以下情况：
+● 表达想象中的事物（“让我们想象一下他今天在这里”）；
+● 表达希望的事物（“我希望他今天在这里”）；
+● 表达可能的事物（“如果那可能就好了！”）。
+
+它通常与动词的普通式相同，除了第三人称单数（他、她、它）时，省略了通常的 -s 词尾。例如，在句子“报告建议他面对法庭”中，应该使用 face 而不是 faces。
+
+使用动词 to be 时情况略有不同。to be 的虚拟式形式在现在时是 be，而普通现在时是 am、are 或 is。例如，“报告建议他被解雇”。
+
+使用 to be 的过去式虚拟式时，应该使用 were 而不是 was。例如，“如果我是你，我就不会尝试”。
+
+####
+EXERCISE 9
+Insert the correct subjunctive forms in the sentences below. The answers can be found in the answer key at the back of the book.
+Alternatively, visit the Companion Website to access this question online.
+(1) I to suggest this course of action, it is unlikely that it would be accepted.
+(2) The committee recommends that he (insert correct form of verb ‘to face’) an enquiry.
+(3) We think it best that the machinery (insert correct form of verb ‘to be’) tested by an expert.
+(4) We would be happier you to agree to reduce the price by 20%.
+(5) If we to reduce the price, we would expect you to accept a penalty for late payment.
+
+####
+练习 9
+在以下句子中插入正确的虚拟式。答案可以在本书最后的答案中找到。
+或者，您也可以访问配套网站在线访问此问题。
+(1) 我建议采取这种行动，但不太可能被采纳。
+(2) 委员会建议他（插入动词“to face”的正确形式）进行调查。
+(3) 我们认为最好由专家对机器（插入动词“to be”的正确形式）进行测试。
+(4) 如果您同意将价格降低 20%，我们会更高兴。
+(5) 如果我们降低价格，我们希望您接受逾期付款的罚款。
+
+####
+2.10 PHRASAL VERBS
+Phrasal verbs are phrases that consist of a verb used together with an adverb (e.g. break down) or a preposition (e.g. call for) or both (e.g. put up with). They are often found in legal English. For example, account for, enter into, serve upon, put down.
+
+Phrasal verbs can cause particular problems for non-native speakers of English where the verbs used have ordinary meanings when used without an adverb or preposition, but form an idiom when used with an adverb or preposition. In such cases the literal meaning of the words differs from the real meaning. For example, the phrasal verb to brush up on means to practise or study something in order to get back the skill or knowledge you had in the past but have not used for some time. For example, ‘I must brush up on my French before visiting Paris’.
+
+Here are the main adverbs and prepositions that may be used with a verb to form a phrasal verb.
+
+● aback
+● about
+● above
+● across
+● after
+● against
+● ahead
+● ahead of
+● along
+● among
+● apart
+● around
+● as
+● aside
+● at
+● away
+● back
+● before
+● behind
+● between
+● by
+● down
+● for
+● forth
+● forward
+● from
+● in
+● into
+● of
+● off
+● on
+● onto
+● out
+● out of
+● over
+● past
+● round
+● through
+● to
+● together
+● towards
+● under
+● up
+● upon
+● with
+● without
+
+See also the phrasal verb glossary at the back of the book, which sets out the most common phrasal verbs in legal usage together with explanations of their meanings and examples showing how they are used.
+
+####
+2.10 短语动词
+短语动词是由动词与副词（例如 break down）或介词（例如 call for）或两者（例如 put up with）一起使用而构成的短语。它们经常出现在法律英语中。例如，account for、enter into、serve upon、put down。
+
+短语动词可能会给非英语母语人士带来一些特殊问题，因为这些动词在没有副词或介词的情况下使用时具有普通含义，但与副词或介词一起使用时会形成习语。在这种情况下，单词的字面意思与实际含义不同。例如，短语动词 to brush up on 的意思是练习或学习某事，以恢复你过去掌握但有一段时间没有使用的技能或知识。例如，“我必须在去巴黎之前温习一下我的法语”。
+
+以下是可以与动词一起使用构成短语动词的主要副词和介词。
+
+● aback
+● about
+● above
+● across
+● after
+● against
+● ahead
+● ahead of
+● along
+● among
+● Apart
+● around
+● as
+● aside
+● at
+● away
+● back
+● before
+● behind
+● between
+● by
+● down
+● for
+● forth
+● forward
+● from
+● in
+● into
+● of
+● off
+● on
+● onto
+● out
+● out of
+● over
+● past
+● round
+● through
+● to
+● together
+● towards
+● under
+● up
+● upon
+● with
+● without
+
+另请参阅本书后面的短语动词词汇表，其中列出了法律用法中最常用的短语动词，并附有其含义的解释和用法示例。
+
+####
+EXERCISE 10
+Insert the most appropriate phrasal verb from the list at the bottom into the EXERCISE 10 sentences below. The answers can be found in the answer key at the back of the book.
+
+Alternatively, visit the Companion Website to access this question online.
+
+(1) The corporation about $10,000 in unpaid debts last year.
+(2) A number of members of staff had to be due to the sudden downturn in the company’s profitability.
+(3) Unfortunately, the partners failed to the agreement they had reached.
+(4) We do not want to court proceedings, but we may have to do so if the debtor fails to pay the money he owes us.
+(5) I do not your leaving the office early on Friday, provided you finish your work before you go.
+(6) We need to running costs when considering the total expense of this project.
+(7) The parties an agreement for the provision of accountancy services.
+(8) This is an interesting article which Finnish employment law.
+(9) This client is somewhat exacting, so make sure you her instructions very carefully.
+(10) Let’s try to this meeting by 5pm.
+a. laid off
+b. entered into
+c. deals with
+d. wrote off
+e. wrap up
+f. carry out
+g. object to
+h. resort to
+i. factor in
+j. adhere to
+
+####
+练习 10
+将底部列表中最合适的短语动词插入到下面的练习 10 句子中。答案可以在本书背面的答案中找到。
+
+或者，访问配套网站在线访问此问题。
+
+(1) 该公司去年有约 10,000 美元的未偿债务。
+(2) 由于公司盈利能力突然下滑，一些员工不得不休假。
+(3) 不幸的是，合伙人未能履行他们达成的协议。
+(4) 我们不想提起诉讼，但如果债务人未能偿还欠我们的钱，我们可能不得不这样做。
+(5) 如果你在离开前完成工作，我同意你周五早点离开办公室。
+(6) 考虑到这个项目的总费用，我们需要计算运营成本。
+(7) 双方就提供会计服务达成了协议。
+(8) 这篇关于芬兰劳动法的文章很有趣。
+(9) 这位客户要求比较高，所以请务必仔细听取她的指示。
+(10) 我们尽量在下午5点前结束这次会议吧。
+a. 解雇
+b. 订立合同
+c. 处理
+d. 注销
+e. 结束
+f. 执行
+g. 反对
+h. 诉诸
+i. 考虑
+j. 坚持
+
+####
+2.11 NEGATIVES
+Negatives are formed in English by using prefixes. The most common of these are un-, in-, il-, im-, ir-, non- and anti-.
+
+Here are some common negative forms often used in legal English:
+● unlawful
+● unfamiliar
+● impractical
+● illegal
+● unfair
+● invalid
+● independent
+● injustice
+● impartiality
+● inequitable
+● unwritten
+● impracticable
+● unconstitutional
+● illicit
+
+The prefix dis- is often used in a slightly different way to the prefixes listed above.
+
+It is not usually a direct negation but generally indicates dissent. For example, ‘we disagree’.
+
+Note also that there are some words in English, which look like negatives but are in fact synonyms. For example, flammable and inflammable both mean easily set on fire.
+
+See also 6.5.5 below for guidance on the use of un- and non-.
+
+####
+2.11 否定词
+英语中否定词的构成方式是使用前缀。最常见的前缀有 un-、in-、il-、im-、ir-、non- 和 anti-。
+
+以下是法律英语中常用的一些否定形式：
+● unlawful（非法的）
+● unfamiliar（不熟悉的）
+● impractical（不切实际的）
+● illegal（非法的）
+● irreparable（不公平的）
+● invalid（无效的）
+● independent（独立的）
+● injustice（不公正的）
+● impartiality（公正的）
+● inequitable（不公平的）
+● unwritten（不成文的）
+● impracticable（不切实际的）
+● unconstitutional（违宪的）
+● illicit（非法的）
+
+前缀 dis- 的用法通常与上面列出的前缀略有不同。
+
+它通常不是直接否定，而是表示异议。例如，“我们不同意”。
+
+还要注意，英语中有些词看起来像否定词，但实际上是同义词。例如，flammable（易燃的）和 inflammable（易燃的）都表示容易着火。
+
+有关使用 un- 和 non- 的指导，另请参阅下文 6.5.5。
+
+####
+EXERCISE 11
+Add the correct prefixes to the following words in order to make them negative. The answers can be found in the answer key at the back of the book.
+Alternatively, visit the Companion Website to access this question online.
+(1) stabilise
+(2) paid
+(3) approve
+(4) partial
+(5) regard
+(6) usual
+(7) correctly
+(8) respective
+(9) limited
+(10) valid
+
+####
+练习 11
+为下列单词添加正确的前缀，使其变为否定形式。答案可以在书后的答案中找到。
+或者，您也可以访问配套网站在线访问此问题。
+（1）稳定
+（2）已支付
+（3）批准
+（4）部分
+（5）尊重
+（6）通常
+（7）适当
+（8）尊重
+（9）有限
+（10）有效
+
+####
+2.12 SENTENCE STRUCTURE
+2.12.1 Basic structure 
+
+The general rule in English is that a simple declarative sentence should be structured Subject – Verb – Object. For example: The lawyer drafted the contract.
+
+In this sentence, the lawyer is the subject, drafted is the verb, and contract is the object.
+
+Subject 
+The subject is the part of the sentence that usually comes first and on which the rest of the sentence is predicated. It is typically – but not always – a noun phrase.
+
+In traditional grammar it is said to be the ‘doer’ of the verbal action.
+
+A subject is essential in English sentence structure – so much so that a dummy subject (usually ‘it’) must sometimes be introduced (e.g. It is raining). However, they are unnecessary in imperative sentences (e.g. Listen!), and in some informal contexts (e.g. See you soon).
+
+Verb 
+Verbs are traditionally described as ‘doing’ words. They are usually essential to clause structure.
+
+Verbs may be classified either as main or auxiliary. Auxiliary verbs are traditionally described as ‘helping verbs’, and include be, do and have.
+
+Compare: I bought oranges.
+
+I have been buying oranges.
+
+Object 
+The object is usually a noun phrase. In a simple declarative sentence it follows the verb. The object is usually said to be ‘affected’ by the verb.
+
+The object is usually a noun phrase. In a simple declarative sentence it follows the verb. The object is usually said to be ‘affected’by the verb. For example, The lawyer drank a cup of coffee.
+
+####
+2.12 句子结构
+2.12.1 基本结构
+
+英语的一般规则是，简单的陈述句应采用主语-动词-宾语的结构。例如：律师起草了合同。
+
+在这个句子中，律师是主语，起草的是动词，合同是宾语。
+
+主语
+主语是句子中通常位于句首的部分，句子的其余部分以此为基础。它通常（但并非总是）是一个名词短语。
+
+在传统语法中，它被称为动词动作的“执行者”。
+
+主语在英语句子结构中至关重要——以至于有时必须引入一个虚主语（通常是“it”）（例如，下雨了）。然而，在祈使句（例如，听！）和一些非正式语境（例如，再见）中，它们并非必需。
+
+动词
+动词传统上被描述为“做”的词。它们通常是从句结构中必不可少的。
+
+动词可以分为主要动词和辅助动词。辅助动词传统上被描述为“帮助动词”，包括be、do和have。
+
+比较：我买了橘子。
+
+我一直在买橘子。
+
+宾语
+宾语通常是名词短语。在简单的陈述句中，它位于动词之后。宾语通常被称为受动词“影响”。
+
+宾语通常是名词短语。在简单的陈述句中，它位于动词之后。宾语通常被称为受动词“影响”。例如，律师喝了一杯咖啡。
+
+2.12.2 More complex sentences 
+In more complex sentences, it may be necessary to introduce other parts of speech. These include: Adjectives An adjective is a word used to describe a noun or make its meaning clearer, e.g.
+
+A green car.
+An efficient engine.
+
+Adjectives go before the nouns they qualify. For example: The commercial lawyer drafted the sales contract.
+
+Adverbs Adverbs are words or phrases that add more information about place, time, manner or degree to an adjective, verb, other adverb or sentence (e.g. greatly, very, fortunately, efficiently).
+
+Therefore, adverbs may be added to modify the meaning of our example: The commercial lawyer efficiently drafted the sales contract.
+
+2.12.2 更复杂的句子
+在更复杂的句子中，可能需要引入其他词类。这些词类包括：形容词。形容词是用来修饰名词或使其含义更清晰的词，例如：
+
+一辆绿色汽车。
+一台高效的发动机。
+
+形容词位于其修饰的名词之前。例如：这位商业律师起草了销售合同。
+
+副词。副词是用来为形容词、动词、其他副词或句子添加更多关于地点、时间、方式或程度信息的词或短语（例如：极大地、非常、幸运地、高效地）。
+
+因此，可以添加副词来修饰我们示例的含义：这位商业律师高效地起草了销售合同。
+
+2.12.3 Linking clauses 
+In order to build more complex sentences, it is necessary to find ways of linking clauses together.
+
+One way of achieving this is by using prepositions (in, at, on, to, from, etc) or conjunctions (and, or, but, since, when, because, although, etc). For example: The commercial lawyer efficiently drafted the sales contract for the company, but the client requested various amendments and additions.
+
+Punctuation can be used to coordinate clauses in a sentence. For example: The commercial lawyer efficiently drafted the sales contract, the receptionist faxed it to the client, and the client approved the draft.
+
+In addition, relative pronouns (e.g. who, whom, whose, which, that) provide a convenient means of linking sentences together. For example:
+The commercial lawyer efficiently drafted the sales contract, which the client read and approved.
+
+More information on relative pronouns is set out below.
+
+2.12.3 连接从句
+为了构建更复杂的句子，有必要找到连接从句的方法。
+
+实现这一点的一种方法是使用介词（in、at、on、to、from 等）或连词（and、or、but、since、when、because、although 等）。例如：这位商业律师高效地为公司起草了销售合同，但客户要求进行各种修改和补充。
+
+标点符号可用于协调句子中的从句。例如：这位商业律师高效地起草了销售合同，接待员将其传真给客户，客户批准了该草案。
+
+此外，关系代词（例如 who、whom、whose、which、that）也为连接句子提供了一种便捷的方式。例如：
+这位商业律师高效地起草了销售合同，客户阅读并批准了该合同。
+
+有关关系代词的更多信息，请参见下文。
+
+####
+2.13 RELATIVE PRONOUNS
+As noted above, relative pronouns include who, whom, whose, which and that. Here are some brief notes about their use.
+
+####
+2.13 关系代词
+如上所述，关系代词包括 who、whom、whose、which 和 that。以下是一些关于其用法的简要说明。
+
+2.13.1 Who or Whom?
+The correct use of who and whom is a matter which many non-native and native speakers of English alike have difficulty with. The distinction between them is that who acts as the subject of a verb, while whom acts as the object of a verb or preposition. This distinction is not particularly important in informal speech but should be observed in legal writing.
+
+For example, whom should be used in the sentence, ‘I advised Peter, John and Mary, all of whom are contemplating claims against RemCo Ltd’.
+
+Who should be used in the sentence, ‘I saw Peter, who is contemplating a claim against RemCo Ltd’.
+
+When who is used, it should directly follow the name it refers to. If it does not, the meaning of the sentence may become unclear. For example, ‘I saw Peter, who was one of my clients, and James’ instead of ‘I saw Peter and James, who was one of my clients’.
+
+2.13.1 Who 还是 Whom？
+who 和 whom 的正确使用是许多英语母语人士和英语非母语人士都难以理解的问题。它们之间的区别在于，who 充当动词的主语，而 whom 充当动词或介词的宾语。这种区别在非正式用语中并不特别重要，但在法律写作中应该注意。
+
+例如，在“我建议彼得、约翰和玛丽，他们都在考虑对 RemCo Ltd 提出索赔”这句话中应该使用 whom。
+
+在“我看到彼得，他正在考虑对 RemCo Ltd 提出索赔”这句话中应该使用 who。
+
+使用 who 时，应直接跟在所指代的名称之后。如果不这样做，句子的含义可能会变得不清楚。例如，应该使用“我看到彼得，他是我的客户之一，还有詹姆斯”，而不是“我看到彼得和詹姆斯，他是我的客户之一”。
+
+2.13.2 Which or that?
+Which or that can frequently be used interchangeably. However, there are two rules to bear in mind.
+
+● When introducing clauses that define or identify something, it is acceptable to use that or which. For example, ‘a book which deals with current issues in international trade law’ or ‘a book that deals with current issues in international trade law’.
+
+● Use which, but never that, to introduce a clause giving additional information about something. For example, ‘the book, which costs ?30, has sold over five thousand copies’ and not ‘the book, that costs ?30, has sold over five thousand copies’.
+
+2.13.2 Which 还是 that？
+Which 或 that 经常可以互换使用。但是，需要记住两个规则。
+
+● 在引导定义或识别某事物的从句时，可以使用 that 或 which。例如，“一本涉及国际贸易法当前问题的书”或“一本涉及国际贸易法当前问题的书”。
+
+● 引导提供补充信息的从句时，请使用 which，而不要使用 that。例如，“这本售价 30 英镑的书已售出 5000 多册”，而不是“这本售价 30 英镑的书已售出 5000 多册”。
+
+2.13.3 Who，whom,which or that？
+Who or whom should not be used when referring to things that are not human.
+
+Which or that should be used instead. For example, ‘the company which sold the shares’ is correct. ‘The company that sold the shares’ is also correct. ‘The company who sold the shares’ is incorrect.
+
+That should be used when referring to things that are not human, and may be used when referring to a person. However, it is usually thought that is more impersonal than who/whom when used in this way. As a result it is better to say ‘the client who I saw yesterday’ than ‘the client that I saw yesterday’.
+
+2.13.3 Who、whom、which 或 that？
+指代非人类事物时，不应使用 Who 或 whom。
+
+应使用 Which 或 that。例如，“出售股票的公司”是正确的。“出售股票的公司”也正确。“出售股票的公司”是错误的。
+
+that 应用于指代非人类事物，也可用于指代人。然而，通常认为，在这种情况下，that 比 who/whom 更不具人格性。因此，与其说是“我昨天见到的客户”，不如说是“我昨天见到的客户”。
+
+####
+EXERCISE 12
+Link these sentences together using relative clauses. You may also need to adjust the wording and/or word order of the sentences. In some cases you should consider deleting or replacing certain words and phrases. The answers can be found in the answer key at the back of the book.
+
+Alternatively, visit the Companion Website to access this question online.
+(1) Here is a contract. There are many typing errors in it.
+(2) This is the burning question. Everyone wants to know the answer to it.
+(3) Is that Susan Jones? I saw her CV only yesterday.
+(4) Please refer to clause 7 of the contract. It deals with certain force majeure situations.
+(5) We have an intellectual property expert. Her name is Clare Brewster. She specialises in complex patent infringement cases.
+
+####
+练习 12
+使用关系从句将这些句子连接在一起。你可能还需要调整句子的措辞和/或词序。在某些情况下，你应该考虑删除或替换某些单词和短语。答案可以在本书后面的答案中找到。
+
+或者，访问配套网站在线访问此问题。
+(1) 这是一份合同。里面有很多打字错误。
+(2) 这是一个亟待解决的问题。每个人都想知道答案。
+(3) 那是苏珊·琼斯吗？我昨天才看到她的简历。
+(4) 请参阅合同的第 7 条。它涉及某些不可抗力的情况。
+(5) 我们有一位知识产权专家。她叫克莱尔·布鲁斯特。她专门处理复杂的专利侵权案件。
+
+####################
+Punctuation for legal writing
+
+####
+3.1 GENERAL POINTS
+One of the most unusual aspects of old-fashioned contract drafting was the belief among lawyers and judges that punctuation was unimportant. The prevailing view in common law jurisdictions was that the meaning of legal documents should be ascertained from the words of the document and their context rather than from punctuation. Accordingly, old-fashioned legal drafting tends to involve little or no punctuation. This makes it extremely hard to read and potentially highly ambiguous. For example, consider these unpunctuated sentences: This man said the judge is a fool.
+
+Woman without her man would be a savage.
+
+Now consider the same sentences with punctuation: This man, said the judge, is a fool.
+
+Woman – without her, man would be a savage.
+
+Fortunately, modern legal drafters have begun to use punctuation in the same way that ordinary writers use punctuation – to give guidance about meaning.
+
+######################
+法律写作中的标点符号
+
+####
+3.1 一般要点
+老式合同起草中最不寻常的一点是，律师和法官认为标点符号并不重要。在普通法管辖区，普遍的观点是，法律文件的含义应该根据文件的措辞及其上下文来确定，而不是根据标点符号。因此，老式的法律起草往往很少或根本不使用标点符号。这使得文件阅读起来极其困难，而且可能产生很大的歧义。例如，考虑以下没有标点符号的句子：
+这个男人说法官是个傻瓜。
+没有男人的女人会是个野蛮人。
+
+现在考虑带有标点符号的相同句子：
+法官说，这个男人是个傻瓜。
+女人——没有她，男人会是个野蛮人。
+
+幸运的是，现代法律起草者已经开始以与普通作家相同的方式使用标点符号——提供关于含义的指导。
+
+####
+3.2 PUNCTUATION MARKS 
+
+3.2.1 Full stop/period (.)
+Full stop is the British English term for this punctuation mark, and period is the American English term for it. Full stops should be used in the following situations: 
+● At the end of all sentences that are not questions or exclamations. The next word should normally begin with a capital letter.
+● After abbreviations. For example, ‘Sun. 10 June’.
+● When a sentence ends with a quotation which itself ends with a full stop, question mark, or exclamation mark, no further full stop is required.
+However, if the quotation is short, and the sentence introducing it is more important, the full stop is put outside the quotation marks. For example: on the door were written the words ‘no entry’.
+● A sequence of three full stops indicates an omission from the text. A fourth full stop should be added if this comes at the end of a sentence.
+For example, ‘this handbook . . . is exceptionally useful. . . . I refer to it every day.’
+
+####
+3.2 标点符号
+
+3.2.1 句号/句号 (.)
+句号是英式英语中对这种标点符号的称呼，句号是美式英语中对这种标点符号的称呼。句号应在以下情况下使用：
+● 在所有非疑问句或感叹句的句子末尾。下一个单词通常应以大写字母开头。
+● 在缩写之后。例如，“Sun. 10 June”。
+● 如果一个句子以引语结尾，而该引语本身以句号、问号或感叹号结尾，则无需再加句号。
+但是，如果引语很短，并且引言更重要，则句号应放在引号外面。例如：门上写着“禁止入内”。
+● 三个连续的句号表示文本中的省略。如果第四个句号出现在句子末尾，则应添加第四个句号。
+例如，“这本手册……非常有用……我每天都会参考它。”
+
+3.2.2 Comma (,) 
+Commas are used to show a short pause within a sentence. They should be used with care as a misplaced comma can alter the intended meaning of the sentence.
+
+For example: 
+James hit Ian and Edward, then ran away.
+James hit Ian, and Edward then ran away.
+
+At the same time, commas should be used where necessary to clarify meaning.
+
+Simply omitting the commas often leads to ambiguity or an unintended meaning.
+
+For example: This lawyer, said the judge, is a fool.
+
+This lawyer said the judge is a fool.
+
+The principal circumstances in which commas should be used are as follows:
+● To separate items in a list of more than two items. For example, ‘cars, trucks, vans, and tractors’. In this sentence, it may be crucial to put the comma after vans to ensure that it is clear that tractors does not form part of the same category of items.
+● To separate coordinated main clauses. For example, ‘cars should park here, and trucks should continue straight on’.
+● To mark the beginning and end of a sub-clause in a sentence. For example, ‘James, who is a corporate lawyer, led the seminar.’ 
+● After certain kinds of introductory clause. For example, ‘Having finished my work, I left the office.’ 
+● To separate a phrase or sub-clause from the main clause in order to avoid misunderstanding. For example, ‘I did not go to work yesterday, because I was unwell.’ 
+● Following words which introduce direct speech. For example, ‘He said, “my lawyer is a genius!”’ 
+● Between adjectives which each qualify a noun in the same way. For example, ‘a small, dark room’. However, where the adjectives qualify the noun in different ways, or when one adjective qualifies another, no comma is used. For example, ‘a distinguished international lawyer’ or ‘a shiny blue suit’.
+
+The importance of using commas correctly cannot be overstated. In one Australian case the court had to look at a workers insurance policy that described the employer’s business as ‘Fuel Carrying and Repairing’. The question the court had to decide was whether the policy covered an employee who was injured when driving the employer’s vehicle carrying bricks. The court interpreted the policy as if it read either ‘Fuel, Carrying, and Repairing’ or ‘Fuel Carrying, and Repairing’. Litigation could have been avoided if a comma had been inserted in the first place.
+
+Commas are softer in effect than full stops and semicolons, and are therefore unsuitable for long lists. They should not be used simply as an alternative to using short sentences or if there is any risk of ambiguity.
+
+3.2.2 逗号 (,)
+逗号用于表示句子中的短暂停顿。使用时应谨慎，因为错误的逗号位置可能会改变句子的原意。
+
+例如：
+James hit Ian and Edward, then ran away.
+James hit Ian, and Edward then ran away.
+
+同时，在必要时应使用逗号来阐明含义。
+
+直接省略逗号通常会导致歧义或产生非预期的含义。
+
+例如：This lawyer, said the Judge, is a fool.
+
+This lawyer said the Judge is a fool.
+
+逗号的主要使用情况如下：
+● 用于分隔包含两个以上物品的列表。例如，“cars, trucks, vans, and tractors”。在这个句子中，在 vans 后面加上逗号可能至关重要，以确保清楚地表明 tractors 不属于同一类别。
+● 用于分隔并列的主句。例如，“汽车应停在此处，卡车应继续直行”。
+● 用于标记句子中从句的开始和结束。例如，“詹姆斯是一位公司律师，他主持了这次研讨会”。
+● 用于某些类型的引导性从句之后。例如，“我完成工作后就离开了办公室”。
+● 用于分隔短语或从句与主句，以避免误解。例如，“我昨天没去上班，因为我身体不舒服”。
+● 用于引导直接引语的词语之后。例如，“他说，‘我的律师是个天才！’”。
+● 用于以相同方式修饰名词的形容词之间。例如，“一间又小又暗的房间”。但是，如果形容词以不同的方式修饰名词，或者一个形容词修饰另一个形容词，则无需使用逗号。例如，“一位杰出的国际律师”或“一套闪亮的蓝色西装”。
+
+正确使用逗号的重要性怎么强调也不为过。在一个澳大利亚的案件中，法院必须审查一份工人保险单，该保险单将雇主的业务描述为“燃料运输和修理”。法院必须裁定的问题是，该保险单是否涵盖一名员工在驾驶雇主车辆运送砖块时受伤的情况。法院将该保险单解读为“燃料运输和修理”或“燃料运输和修理”。如果一开始就插入逗号，诉讼本可以避免。
+
+逗号的效果比句号和分号更柔和，因此不适用于长列表。它们不应仅仅用作短句的替代，或在存在任何歧义风险的情况下使用。
+
+3.2.3 Colon (:) 
+The colon is usually used to point to information that follows it. It may also be used to link two clauses. Here are some examples of usage:
+● To precede a list (e.g. ‘The following items are included:’).
+● To introduce a step from an introduction to a main theme or from a general statement to a particular situation (e.g. ‘The remedy is simple: introduce new rules.’).
+● To show cause and effect (e.g. ‘An energetic new director has been appointed: this accounts for the rise in share prices.’).
+● To precede an explanation (e.g. ‘The argument used by the defence was as follows:’).
+Colons should not be followed by a dash (–). The dash serves no useful purpose in this context.
+
+3.2.3 冒号 (:)
+冒号通常用于指向其后的信息。它也可以用于连接两个从句。以下是一些用法示例：
+● 位于列表之前（例如：“包含以下内容：”）。
+● 引导从引言到主题或从一般性陈述到特定情况的步骤（例如：“补救措施很简单：引入新规则。”）。
+● 说明因果关系（例如：“任命了一位精力充沛的新董事：这解释了股价上涨的原因。”）。
+● 位于解释之前（例如：“辩方使用的论点如下：”）。
+冒号后不应跟破折号 (-)。在这种情况下，破折号没有任何作用。
+
+3.2.4 Semicolon (;) 
+The semicolon is used to separate parts of a sentence when a more distinct break is needed than can be provided by a comma, but the parts of the sentence are too closely connected for separate sentences to be used. For example, ‘To err is human; to forgive, divine’.
+
+In legal writing, semicolons are used to punctuate the end of any sub-clause or paragraph that forms part of a longer sentence. However, if the sub-clause or paragraph constitutes the last part of the sentence a full stop may be more appropriate.
+
+3.2.4 分号 (;)
+当句子需要比逗号更清晰的分隔时，如果句子各部分之间的联系过于紧密，无法用逗号分隔，则可以使用分号。例如，“人非圣贤，孰能无过；宽恕乃天命”。
+
+在法律写作中，分号用于标点构成长句一部分的子句或段落的结尾。但是，如果子句或段落构成句子的最后部分，则使用句号可能更合适。
+
+3.2.5 Parentheses ( ) 
+These are used to enclose words, phrases or whole sentences. If a whole sentence is in parentheses, the end punctuation stays inside it. For example: (Stanning plc is hereinafter referred to as ‘the Company’.) Where only the end part of the sentence is in parentheses, the end punctuation goes outside the parentheses. For example:
+Stanning plc (hereinafter referred to as ‘the Company’).
+
+The main circumstances in which parentheses are used are as follows:
+● To enclose remarks made by the writer of the text himself or herself. For example, ‘Mr. X (as I shall call him) then stood up to speak’.
+● To enclose mention of an authority, definition, explanation, reference or translation.
+● In the report of a speech, to enclose interruptions by the audience.
+● To enclose reference letters or figures. For example, ‘(1) (a)’.
+Avoid parentheses within parentheses – use commas or dashes instead. Dashes are a useful way of separating concepts within sentences.	
+
+3.2.5 括号 ( )
+括号用于括起单词、短语或整个句子。如果整句都放在括号中，句末标点符号则保留在括号内。例如：（Stanning plc 以下简称“公司”）。如果只有句末部分放在括号中，则句末标点符号放在括号外。例如：
+Stanning plc（以下简称“公司”）。
+
+括号的主要使用情况如下：
+● 括起文本作者本人的注释。例如，“X先生（我这样称呼他）随后站起来发言”。
+● 括起对权威、定义、解释、参考或翻译的提及。
+● 在演讲报告中，括起听众的打断。
+● 括起参考字母或数字。例如，“(1) (a)”。
+避免在括号内使用括号——请使用逗号或破折号。破折号是分隔句子中概念的有效方式。
+
+3.2.6 Square brackets [ ] 
+These enclose comments, corrections, explanations or notes not in the original text, but added at a later stage by new authors or editors.
+
+Square brackets are used in legal writing to adjust the format of quoted material.
+
+For example, they may be used to indicate that a letter now in lowercase was in capitals in the original text (‘The court ruled that [e]xistence of the subject matter of the contract precluded a finding of force majeure.’).
+
+3.2.6 方括号 [ ]
+方括号用于包含原文中未包含、但由新作者或编辑后期添加的评论、更正、解释或注释。
+
+方括号用于法律写作中调整引用材料的格式。
+
+例如，方括号可用于指示原文中现在小写的字母是大写的（“法院裁定，合同标的物的存在排除了不可抗力的认定。”）。
+
+3.2.7 Dashes (– and —) 
+Dashes can be used in two circumstances. They can be used to enclose a sub- clause in a sentence. For example: Very few – in fact almost none – of the lawyers working in this city have additional expertise in accountancy.
+
+This can be a handy way to clarify sentences which might otherwise be filled with confusing commas.
+
+A long dash can also be used as a substitute for the word to. For example: The proposed route is Helsinki—London—New York—Helsinki.
+
+3.2.7 破折号（- 和 —）
+破折号有两种用法。一种是用于在句子中括起从句。例如：在这个城市工作的律师中，很少有人（实际上几乎没有人）具备会计方面的额外专业知识。
+
+这是一种方便的澄清句子的方法，否则句子中可能会充斥着令人困惑的逗号。
+
+长破折号也可以代替“to”。例如：拟议的路线是赫尔辛基—伦敦—纽约—赫尔辛基。
+
+3.2.8 Hyphen (-) 
+Hyphens are used in two circumstances. They are used, particularly in British English, to join together two words in respect of which the first word is a prefix of the second. For example, pre-trial, non-statutory. These words are usually run together in American English: pretrial, nonstatutory.
+
+Hyphens are also used to make phrasal adjectives, which are adjectives made up of more than one word. For example, health-care provider or real-estate purchase.
+
+3.2.8 连字符 (-)
+连字符有两种用法。它们尤其用于英式英语中，用于连接两个单词，其中第一个单词是第二个单词的前缀。例如，pre-trial、non-statutory。在美式英语中，这两个词通常连在一起：pretrial、nonstatutory。
+
+连字符也用于构成短语形容词，即由多个单词组成的形容词。例如，health-care provider 或 real-estate purchase。
+
+3.2.9 Apostrophe (’) 
+The apostrophe is often used incorrectly both by native and by non-native English speakers. However, mistakes can be avoided by following a few simple rules.
+There are two uses for the apostrophe. First, it is used to show that a word has been shortened or that two words have been combined. For example:
+I’ll be there, so don’t say that I won’t.
+This use of the apostrophe to shorten a word is not usually seen in legal writing as it is considered too informal for most situations.
+Secondly, the apostrophe is used to show that something belongs to somebody or something else. For example:
+The client’s payment was late.
+When more than one person or thing owns something, put the apostrophe after the s. For example:
+The clients’ payments were late.
+You could put this another way by saying ‘the payments of the clients were late’.
+However, this looks very clumsy and laborious by the standards of modern English.
+Take care when using its. It only takes an apostrophe when it is short for it is or it has. For example:
+It’s a straightforward case.
+When using its in a possessive sense, the apostrophe should be omitted. For example:
+This agreement has its advantages.
+
+3.2.9 撇号 (’)
+撇号经常被英语母语人士和非英语母语人士错误地使用。但是，遵循一些简单的规则可以避免错误。
+撇号有两种用法。首先，它用于表示一个单词被缩短或两个单词被合并。例如：
+我会在那里，所以不要说我不会。
+这种使用撇号来缩短单词的用法在法律写作中并不常见，因为在大多数情况下，这种用法被认为过于非正式。
+其次，撇号用于表示某物属于某人或其他事物。例如：
+客户的付款迟到了。
+当某物由多个人或物拥有时，将撇号放在“s”之后。例如：
+客户的付款迟到了。
+你可以换句话说，“客户的付款迟到了”。
+然而，按照现代英语的标准，这看起来非常笨拙费力。
+使用 its 时要小心。只有当它是 it is 或 it has 的缩写时才需要撇号。例如：
+这是一个简单的例子。
+当 its 用作所有格时，应该省略撇号。例如：
+这种一致有其优点。
+
+3.2.10 Quotation marks (‘ ’ and “ ”) 
+In British English, single quotation marks (‘ ’) should be used for a first quotation.
+For example:
+He wrote, ‘that is the most important question’.
+Double quotation marks should be used for any quotation within a quotation. For example:
+He wrote, ‘she said “that is the most important question”’.
+Single quotation marks should be used again for any quotation inside a quotation inside a quotation. For example:
+He wrote, ‘she said “that is the most important question he asked during his ‘manor house’ speech”’.
+The closing quotation mark should come before all punctuation marks unless these form part of the quotation itself. For example:
+Did the judge really say, ‘that lawyer is a fool’? but:
+The judge asked, ‘is that lawyer a fool?’
+
+3.2.10 引号（‘ ’和“ ”）
+在英式英语中，第一个引语应使用单引号（‘ ’）。
+例如：
+他写道：“那是最重要的问题”。
+引语中的引语应使用双引号。例如：
+他写道：“她说‘那是最重要的问题’”。
+引语中的引语再包含引语时，也应使用单引号。例如：
+他写道：“她说‘那是他在‘庄园’演讲中提出的最重要的问题’”。
+除非标点符号本身就是引语的一部分，否则结束引号应位于所有标点符号之前。例如：
+法官真的说了“那个律师是个傻瓜”吗？但是：
+法官问的是“那个律师是个傻瓜吗？”
+
+3.2.11 Question mark (?) 
+The circumstances in which question marks are used are as follows:
+● To follow every question that requires a direct answer. For example, ‘what does that mean?’. However, note that a question mark is not required after indirect questions. For example, ‘he asked me what that meant’.
+● A question mark may also be placed before a word or phrase the accuracy of which is doubted. For example, ‘Joe (?) Zanuderghosh’.
+
+3.2.11 问号（？）
+问号的使用情况如下：
+● 用于需要直接回答的所有问题之后。例如，“那是什么意思？”。但请注意，间接疑问句后无需使用问号。例如，“他问我那是什么意思？”。
+● 问号也可以放在准确性存疑的单词或短语之前。例如，“Joe (?) Zanuderghosh”。
+
+3.2.12 Exclamation mark (!) 
+The exclamation mark is used after an exclamatory word, phrase or sentence. It usually forms the concluding full stop but need not do so. It may also be used within square brackets after quoted text to indicate the writer’s feelings of, for example, amusement, surprise or disagreement. For example, ‘The court then heard the defendant mutter, “this judge is a fool”’ [!].	
+
+3.2.12 感叹号 (!)
+感叹号用于感叹词、短语或句子之后。它通常构成句号，但并非必须如此。它也可以用于引用文本后的方括号中，以表示作者的感受，例如感到好笑、惊讶或不同意。例如，“法庭随后听到被告嘀咕着‘这个法官是个傻瓜’”[!]。
+
+3.2.13 Capital letters 
+Capital letters should only be used in the following situations:
+● At the beginning of a sentence (e.g. ‘Thank you for your letter.’).
+● When writing proper names (e.g. London, George W Bush).
+● When writing names which derive from proper names (e.g. Christianity, Marxism).
+● For certain abbreviations (e.g. USA, NATO, WTO).
+● For a defined term in a legal document where the definition uses a capital letter (e.g. ‘Roggins plc, hereinafter referred to as “the Company”’).
+
+3.2.13 大写字母
+大写字母仅应在以下情况下使用：
+● 句首（例如：“感谢您的来信。”）。
+● 书写专有名词时（例如：伦敦、乔治·W·布什）。
+● 书写源自专有名词的名称时（例如：基督教、马克思主义）。
+● 某些缩写（例如：美国、北约、世贸组织）。
+● 法律文件中定义的术语，其定义使用大写字母（例如：“Roggins plc，以下简称“公司””）。
+
+In lower case subheadings, use a capital letter only at the beginning of the first word (and for defined terms).
+
+When inserting information in tables or lists, only use a capital letter if a separate sentence is being started (lists often occur within a sentence, in which case the only capital should be at the start of the sentence).
+
+When writing headings or titles, capitalise the first letter of every important word (e.g. nouns, pronouns, verbs, adjectives and adverbs). Capitalise the first letter of the first and last word in the heading. Put articles, prepositions and conjunctions (and, or) in lowercase.
+
+在小写副标题中，仅在第一个单词的开头（以及定义的术语）使用大写字母。
+
+在表格或列表中插入信息时，仅在以单独的句子开头时才使用大写字母（列表通常出现在句子中，在这种情况下，唯一应在句子开头大写）。
+
+撰写标题时，每个重要单词（例如名词、代词、动词、形容词和副词）的首字母均应大写。标题中第一个和最后一个单词的首字母也应大写。冠词、介词和连词（and、or）应小写。
+
+####
+EXERCISE 13
+The punctuation has been removed from the following sentences. Replace it.
+Model answers can be found in the answer key at the back of the book.
+Alternatively, visit the Companion Website to access this question online.
+
+(1) no variation of this agreement or any document entered into pursuant to this agreement shall be valid unless it is in writing and signed by or on behalf of each of the parties hereto
+(2) the purchaser and the seller agree as follows the goods will be sold for the sum of four hundred pounds £400 per unit delivery will take place on 4 august 2003 and payment will be made in cash no later than 28 august 2003
+(3) dear sirs thank you for your letter of 12 may with regard to your contention that our client is in breach of his agreement with your client it is clear that this is not the case your letter of 3 february to our client constitutes a clear waiver of paragraph 3 sub paragraph b of the agreement between our respective clients dated 9 june 2001
+(4) he said it appears that what the judge said was I will not accept this application unless it is made in the proper form and not I will not accep this application under any circumstances as we had previously been told for which information we thanked him
+(5) you said or at least this is what the report states you can all go to hell do you accept first of all that you made this comment and if so do you not think that it was a highly unwise comment for you to have made
+
+####
+练习 13
+以下句子中的标点符号被删除了。请将其替换。
+示例答案可在本书后面的答案中找到。
+或者，您也可以访问配套网站在线查看此问题。
+
+(1) 本协议或根据本协议达成的任何文件的变更，除非以书面形式并由本协议各方或其代表签署，否则均无效。(2) 买方和卖方约定如下：货物售价为每件四百英镑，交货时间为2003年8月4日，付款最迟应在2003年8月28日以现金支付。(3) 先生们，感谢您5月12日就我方客户违反其与贵方客户协议一事发来的信函。很显然，事实并非如此。您2月3日致我方客户的信函明确表明了对我们双方客户于2001年6月9日达成的协议第3款b项的放弃。(4) 他说，法官所说的似乎是“除非申请形式正确，否则我不会接受该申请”，而不是“我在任何情况下都不会接受该申请”，正如我们之前被告知的那样，我们感谢这些信息。他
+（5）你说，或者至少报告里是这么说的，你们都见鬼去吧。首先，你是否承认你发表了这样的言论？如果承认，你不认为你的言论非常不明智吗？
+
+####################
+4	Basic standards of legal writing
+
+####
+4.1 DATES 
+In British English dates should be written 1 February 1999, 3 March 2000 – not 1st February or 3rd day of March.
+
+Note, however, that dates are written differently in American English, since the month is placed before the day, and a comma is often placed after the day. For example, February 1st, 1999.
+
+######################
+4 法律写作基本规范
+
+####
+4.1 日期
+英式英语中，日期应写为 1999 年 2 月 1 日、2000 年 3 月 3 日，而不是 2 月 1 日或 3 月 3 日。
+
+但请注意，美式英语中日期的写法有所不同，因为月份放在日期之前，而逗号通常放在日期之后。例如，2009 年 2 月 1 日。
+
+####
+4.2 NUMBERS 
+The general rule is that all numbers ten and below should be spelt and numbers 11 and above should be put in numerals. However, there are certain exceptions to this:
+● If numbers recur through the text or are being used for calculations, then numerals should be used.
+● If the number is approximate (e.g. ‘around six hundred years ago’) it should be spelled out.
+● Very large numbers should generally be expressed without using rows of zeros where possible (e.g. $3.5 million instead of $3,500,000). In contracts, the use of both words and numbers is common in order to increase certainty. For example, ‘THREE THOUSAND FIVE HUNDRED EUROS (?3,500)’.
+● Percentages may be spelled out (twenty per cent) or written as number (20%)
+● Numbers that begin sentences should be spelled out.
+
+In English writing, the decimal point is represented by a dot (.) and commas are used to break up long numbers. Commas cannot be used to represent a decimal point.
+
+Therefore, the number ten thousand five hundred and fifty-three and three- quarters is written like this in English: 10,553.75 while in most Continental European countries, it is written like this: 10.553,75 When referring to sums of money, the following rules apply:
+
+● When writing numerical sums, the currency sign goes before the sum (e.g. $100). Note that there is no gap between the sign and the figure that follows it.
+● When spelling out numbers, the name of the currency is put after the number (e.g. ‘one hundred pounds sterling’). The percentage sign (%) appears after the number to which it relates, and there is no gap between the sign and the number (e.g. 95%).
+
+####
+4.2 数字
+一般规则是，所有十及以下的数字都应拼写，而十一及以上的数字应使用数字。但是，也有一些例外：
+● 如果数字在文中重复出现或用于计算，则应使用数字。
+● 如果数字是近似值（例如，“大约六百年前”），则应拼写出来。
+● 非常大的数字通常应尽可能避免使用连续的零（例如，350万美元而不是350万美元）。在合同中，为了增加确定性，通常同时使用文字和数字。例如，“三千五百欧元（3500英镑）”。
+● 百分比可以拼写出来（百分之二十）或写成数字（20%）。
+● 句子开头的数字应拼写出来。
+
+在英语书写中，小数点用点 (.) 表示，逗号用于分隔长数字。逗号不能用于表示小数点。
+
+因此，数字一万五百五十三又四分之三在英语中写成：10,553.75，而在大多数欧洲大陆国家，它的写法是：10.553,75。在表示金额时，适用以下规则：
+
+● 书写数值时，货币符号位于金额之前（例如 $100）。注意，符号与其后的数字之间没有空格。
+● 拼写数字时，货币名称位于数字之后（例如“一百英镑”）。百分号 (%) 位于其对应的数字之后，符号与数字之间没有空格（例如 95%）。
+
+####
+4.3 CITATIONS
+Statutes should be written without a comma between the name of the statute and the year it was enacted. For example, the ‘Treaty of Amsterdam 1999’.
+
+The word ‘the’ should not form part of the name of a statute. Therefore, one should write ‘the Single European Act 1986’ and not ‘The Single European Act 1986’.
+
+When referring to a section of a statute write ‘section’ in full using a lowercase ‘s’ (unless starting a sentence). For example, ‘section 2 of the Law of Property (Miscellaneous Provisions) Act 1989’.
+
+When referring to a particular subsection of a statute do not use the word ‘subsection’. Use the word ‘section’ followed by the relevant number and letter, for example, ‘section 722(1) of the Companies Act 1985’.
+
+The names of cases should be written in italics and the word ‘versus’ should appear as ‘v.’. For example, ‘Donoghue v Stevenson’. In US case citations, a dot (.) generally appears after ‘v’.
+
+####
+4.3 引用
+法规名称和颁布年份之间不应使用逗号。例如，“1999 年阿姆斯特丹条约”。
+
+“the”一词不应成为法规名称的一部分。因此，应写作“1986 年单一欧洲法案”，而不是“1986 年单一欧洲法案”。
+
+提及法规的某一章节时，应使用小写字母“s”完整书写“section”（除非用于句首）。例如，“1989 年财产法（杂项规定）法第 2 节”。
+
+提及法规的某一特定小节时，请勿使用“subsection”一词。应使用“section”一词，后接相应的数字和字母，例如，“1985 年公司法第 722(1) 节”。
+
+案件名称应使用斜体，“versus”一词应显示为“v.”。例如，“Donoghue v Stevenson”。在美国案例引用中，“v”后通常加一个点 (.)。
+
+####
+4.4 TERMINOLOGY AND LINGUISTIC PECULIARITIES 
+4.4.1 Terms of art 
+Legal English, in common with many other professional languages, employs a great deal of terminology that has a technical meaning and is not generally familiar to the layperson. These are sometimes referred to by lawyers as ‘terms of art’.
+
+Examples include waiver, restraint of trade, restrictive covenant and promissory estoppel. See the glossary of legal terminology for more information.
+
+####
+4.4 术语和语言特性
+4.4.1 专业术语
+与许多其他专业语言一样，法律英语使用大量具有专业含义且非专业人士熟悉的术语。这些术语有时被律师称为“专业术语”。
+
+例如，弃权、贸易限制、限制性契约和允诺禁反言。更多信息，请参阅法律术语表。
+
+4.4.2 Foreign terminology
+In addition, a number of Latin and French words and phrases (such as inter alia, mutatis mutandis, ad hoc and force majeure) are in regular use in legal English. While these should not be overused, a number of them are regarded as indispensable by lawyers because they express a legal idea much more succintly than could be achieved in English. For example, the phrase inter alia is sometimes rendered in English as ‘including but not limited to’.
+
+See the glossary of foreign terms used in law for more information.
+
+4.4.2 外来术语
+此外，法律英语中也经常使用一些拉丁语和法语词汇和短语（例如“inter alia”、“mutatis mutandis”、“ad hoc”和“force majeure”）。虽然这些词汇和短语不应过度使用，但律师认为它们是必不可少的，因为它们能够比英语更简洁地表达法律概念。例如，“inter alia”一词有时在英语中被翻译为“包括但不限于”。
+
+更多信息，请参阅法律中使用的外来术语词汇表。
+
+4.4.3 Doublets and triplets 
+There is a curious historical tendency in legal English to string together two or three words to convey what is usually a single legal concept. Examples of this include null and void, fit and proper, perform and discharge, dispute, controversy or claim, and promise, agree and covenant. These are often called ‘doublets’ or ‘triplets’.
+
+These should be treated with caution, since sometimes the words used mean, for practical purposes, exactly the same thing (null and void); and sometimes they do not quite do so (dispute, controversy or claim).
+
+Modern practice is to avoid such constructions where possible and use single word equivalents instead. For example, the phrase give, devise and bequeath could be replaced by the single word give without serious loss of meaning.
+
+However, the pace of change in legal usage is slow, and as a result it is still quite common to see certain typical doublets and triplets in certain legal documents.
+
+Some of the most common of these are listed below (with suggested equivalents in brackets).
+
+Doublets
+Able and willing (=able)
+Agree and covenant (=agree)
+All and sundry (=all)
+Authorise and direct (=authorise OR direct)
+Cancelled and set aside (=cancelled)
+Custom and usage (=custom)
+Deem and consider (=deem)
+Do and perform (=perform)
+Due and owing (=owing)
+Fit and proper (=fit)
+Full and complete (=complete)
+Goods and chattels (=goods)
+Keep and maintain (=maintain)
+Known and described as (=known as)
+Legal and valid (=valid)
+Null and void (=void)
+Object and purpose (=object OR purpose)
+Order and direct (=order)
+Over and above (=exceeding)
+Part and parcel (=part)
+Perform and discharge (=perform OR discharge)
+Repair and make good (=repair)
+Sole and exclusive (=sole OR exclusive)
+Terms and conditions (=terms)
+Touch and concern (=concern)
+Uphold and support (=uphold)
+
+4.4.3 双重词组和三重词组
+法律英语中存在一种有趣的历史趋势，即用两三个词组来表达通常为一个单一的法律概念。例如，无效（null and void）、合适且适当（fit and proper）、履行和解除（perform and discharge）、争议（dispute）、争议或索赔（controversy or claim），以及承诺（promise）、同意（agree）和契约（covenant）。这些词组通常被称为“双重词组”或“三重词组”。
+
+应谨慎对待这些词组，因为有时这些词组在实际应用中含义完全相同（null and void）；有时含义又不完全相同（dispute、controversy or claim）。
+
+现代做法是尽可能避免使用此类结构，而使用单个词组。例如，短语give、devise和bequeath可以用单个词give代替，而不会造成严重的语义损失。
+
+然而，法律用法的变化速度缓慢，因此在某些法律文件中仍然经常看到某些典型的双重词组和三重词组。
+
+以下列出了其中一些最常见的（括号中为建议的等效项）。
+
+双重
+能够并愿意 (=能够)
+同意并立约 (=同意)
+所有及杂项 (=全部)
+授权并指示 (=授权或指示)
+取消并撤销 (=取消)
+习惯和惯例 (=习惯)
+视为并考虑 (=视为)
+执行并履行 (=履行)
+应得并欠款 (=欠款)
+合适且适当 (=合适)
+完整且完整 (=完整)
+动产及动产 (=货物)
+保管并维护 (=维护)
+已知并描述为 (=已知为)
+合法且有效 (=有效)
+无效且无效 (=无效)
+目的和宗旨 (=目的或宗旨)
+命令和指示 (=命令)
+超出 (=超出)
+不可分割部分 (=部分)
+履行并解除 (=履行或解除)
+修理并修复 (=修理)
+唯一且排他 (=唯一)或独家）
+条款和条件（=条款）
+关怀与关注（=关注）
+支持与维护（=维护）
+
+Triplets
+Cancel, annul, and set aside (=cancel)
+Communicate, indicate or suggest (=communicate)
+Dispute, controversy or claim (=dispute)
+Give, devise and bequeath (=give)
+Hold, possess, and enjoy (=hold)
+Pay, satisfy, and discharge (=pay)
+Possession, custody, and control (=possession OR custody OR control)
+Promise, agree, and covenant (=promise OR agree)
+Repair, uphold and maintain (=repair OR uphold OR maintain)
+Way, shape or form (=way)
+
+三联词
+取消、废止和搁置（=取消）
+沟通、表明或建议（=沟通）
+争议、争议或主张（=争议）
+赠予、遗赠和遗赠（=赠予）
+持有、占有和享用（=持有）
+支付、满足和解除（=支付）
+占有、保管和控制（=占有或保管或控制）
+承诺、同意和契约（=承诺或同意）
+修复、维护和维持（=修复或维护或维持）
+方式、形态或形式（=方式）
+
+4.4.4 Here-, there- and where- words 
+Words like hereof, thereof, and whereof (and further derivatives ending in -at, -in, -after, -before, -with, -by, -above, -on, -upon, etc.) are not often used in ordinary English. They are still sometimes used in legal English, primarily as a way of avoiding the repetition of names of things in the document – very often, the document itself.
+For example:
+the parties hereto
+instead of:
+the parties to this contract
+or
+the provisions contained hereinafter
+instead of:
+the provisions contained to later on in this contract
+
+However, in most cases the use of such words is strictly unnecessary or can be rendered unnecessary by the use of definitions. For example, if there is likely to be doubt about the matter, the parties can be defined, in a definitions section, as ‘the parties to this contract’. In most cases, however, the meaning of words and phrases can be gathered from the context in which they are placed. Here-, there- and where- words persist in modern legal usage largely as a consequence of legal tradition rather than usefulness.
+Here is a list of some of these words and the way in which they are used. It should be noted that the list is not exhaustive.
+Hereafter means ‘from now on or at some time in the future’. For example, ‘the contract is effective hereafter’.
+Hereat means (1) ‘at this place or point’ or (2) ‘on account of or after this’. For example, ‘hereat the stream divided’.
+Hereby means ‘by this means; as a result of this’. For example, ‘the partie hereby declare’.
+Herefrom means ‘from this place or point’. For example, ‘the goods shall be collected herefrom’.
+Herein means ‘in this document or matter’. For example, ‘the terms referred to herein’.
+Hereinabove means ‘previously in this document or matter’. For example, ‘the products hereinabove described’.
+Hereinafter means ‘later referred to in this matter or document’. For example, ‘hereinafter referred to as the Company’).
+Hereinbefore means ‘previously in this document or matter’. For example, ‘the products hereinbefore described’.
+Hereof means ‘of this matter or document’. For example, ‘the parties hereof’.
+Hereto means ‘to this place or to this matter or document’. For example, ‘the parties hereto’.
+Heretofore means ‘before now’. For example, ‘the parties have had no business dealings heretofore’.
+Hereunder means ‘later referred to in this matter or document’. For example, ‘the exemptions referred to hereunder’.
+Herewith means ‘with this letter or document’. For example, ‘I enclose herewith the plan’.
+Thereof means ‘of the thing just mentioned’. For example, ‘The contract was signed on 1 May 1999. The parties thereof . . .’
+Thereafter means ‘after that time’. For example, ‘The products shall be transported to The Grange. Thereafter, they shall be stored in a warehouse.’
+Thereat means (1) at that place or (2) on account of or after that. For example, ‘thereat, payments shall cease’.
+Thereby means ‘by that means; as a result of that’. For example, ’the parties thereby agree’.
+Therein means ‘in that place, document or respect’. For example, ‘The parties shall refer to the contract dated 1 May 1999. It is agreed therein that . . .’ Thereinafter means ‘later referred to in that matter or document’. For example, ‘thereinafter, it is agreed that . . .’
+Thereof means ‘of the thing just mentioned’. For example, ‘Reference is made in paragraph 5 to the contract dated 1 May 1999. The parties thereof agreed that . . .’
+Thereon means ‘on or following from the thing just mentioned’. For example, ‘The machine rests on a wooden block. There is placed thereon a metal bracket . . .’
+Thereto means ‘to that place or to that matter or document’. For example, ‘the parties thereto’.
+Therefor means ‘for that’. For example, ‘the equipment shall be delivered on 13 September 2003. The Company agrees to pay therefor the sum of $150,000’.
+Therefor should not be confused with ‘therefore’ which means ‘for that reason’.
+Thereupon means ‘immediately or shortly after that’. For example, ‘delivery shall take place on 13 September 2003. Thereupon the equipment shall be stored in the Company’s warehouse’.
+Whereabouts means ‘the place where someone or something is’. For example, ‘the Company shall be kept informed as to the whereabouts of the products’.
+Whereat means ‘at which’. For example, ‘The seller attempted to charge extra interest on late payment, whereat the buyer objected’.
+Whereby means ‘by which’. For example, ‘the contract dated 1 May 1999, whereby the Company agreed to purchase the products’.
+Wherefore means ‘as a result of which’. For example, ‘the buyer breached the contract, wherefore the seller suffered damage’.
+Wherein means (1) in which, or (2) in which place or respect. For example, ‘the contract dated 1 May 1999, wherein it is stated that . . .’
+Whereof means ‘of what or of which’. For example, ‘the Company one of the directors whereof is a foreign national’.
+Whereupon means ‘immediately after which’. For example, ‘The sum of $15,000 shall be paid by the buyer to the seller on 13 September 2003, whereupon the buyer’s liability to the seller shall be discharged’.
+
+4.4.4 此处、彼处和何处用词
+诸如 hereof、thereof 和 whereof 之类的词（以及以 -at、-in、-after、-before、-with、-by、-above、-on、-upon 等词结尾的衍生词）在日常英语中并不常用。但它们有时仍用于法律英语中，主要是为了避免文件中事物名称的重复——通常是指文件本身。
+例如：
+the Parties hereto
+而不是：
+本合同的当事人
+或
+the provisions contained premises
+而不是：
+本合同稍后包含的条款
+
+然而，在大多数情况下，使用这些词是完全不必要的，或者可以通过使用定义使其变得不必要。例如，如果对相关事项可能存在疑问，可以在定义部分将当事人定义为“本合同的当事人”。然而，在大多数情况下，词语和短语的含义可以从其所处的上下文中推断出来。 “此处”、“那里”和“何处”等词语在现代法律用法中得以保留，很大程度上是法律传统而非实用性的结果。
+以下列出了其中一些词语及其用法。需要注意的是，该列表并非详尽无遗。
+“此后”的意思是“从现在开始或将来某个时间”。例如，“合同自此生效”。
+“此处”的意思是 (1)“在此地点或地点”或 (2)“由于此或在此之后”。例如，“溪流在此分流”。
+“此处”的意思是“以此方式；因此”。例如，“当事人特此声明”。
+“此处”的意思是“从此地点或地点”。例如，“货物应从此处收取”。
+“此处”的意思是“在本文件或材料中”。例如，“本文中提及的条款”。
+“此处”的意思是“先前在本文件或材料中”。例如，“上述产品”。
+Hereinafter 指“本事项或文件中稍后提及”。例如，“以下简称公司”）。
+Heinbefore 指“本文件或事项之前”。例如，“前述产品”。
+Hereof 指“本事项或文件的”。例如，“本协议各方”。
+Hereto 指“至此地或至本事项或文件”。例如，“本协议各方”。
+Heretofore 指“在此之前”。例如，“各方此前未有过任何业务往来”。
+Hereunder 指“本事项或文件中稍后提及”。例如，“本协议提及的豁免”。
+Herewith 指“随本函件或文件”。例如，“我随函附上计划”。
+Thereof 指“刚才提及的事项”。例如，“本合同于 1999 年 5 月 1 日签署。本协议各方……”
+Thereafter 指“此后”。例如，“产品应运至The Grange。此后，产品应存放于仓库。”
+Thereat 的意思是 (1) 在该地点，或 (2) 因该地点或该地点之后。例如，“thereat，付款应停止。”
+Thereby 的意思是“以此方式；因此”。例如，“双方在此同意。”
+Therein 的意思是“在该地点、文件或方面。”例如，“双方应提及1999年5月1日签订的合同。双方在此同意……”。Tafter 的意思是“随后在该事项或文件中提及。”例如，“此后，双方同意……”。
+Thereof 的意思是“关于刚才提到的事项。”例如，“第5段提及1999年5月1日签订的合同。双方在此同意……”。
+Thereon 的意思是“关于刚才提到的事项或之后。”例如，“机器放置在一个木块上。木块上放置着一个金属支架……”
+Thereto 的意思是“到达该地点、该事项或文件”。例如，“相关各方”。
+Therefor 的意思是“为此”。例如，“设备应于 2003 年 9 月 13 日交付。公司同意为此支付 150,000 美元”。
+Therefor 不应与“因此”混淆，后者表示“因此”。
+Thereupon 的意思是“立即或此后不久”。例如，“交货应于 2003 年 9 月 13 日进行。设备应随即存放在公司的仓库中”。
+Whereabouts 的意思是“某人或某物所在的地点”。例如，“公司应随时了解产品的下落”。
+Whereat 的意思是“在何处”。例如，“卖方试图对逾期付款收取额外利息，买方对此表示反对”。
+Whereby 的意思是“由此”。例如，“1999 年 5 月 1 日签订的合同，公司同意购买产品”。
+Wherefore 的意思是“因此”。例如，“买方违反了合同，因此卖方遭受损失”。
+Wherein 的意思是 (1) 在其中，或 (2) 在哪个地点或方面。例如，“1999 年 5 月 1 日签订的合同，其中规定……”
+Whereof 的意思是“关于什么或其中的”。例如，“公司，其中一名董事是外国人”。
+Wheupon 的意思是“紧接着……”。例如，“
+
+####
+EXERCISE 14
+Select the correct words from the list (a) to (j) and insert them into the gaps in the sentences below. The answers can be found in the answer key at the back of the book.
+Alternatively, visit the Companion Website to access this question online.
+(1) The parties agree that this contract shall continue for a period of two years from the date of execution .
+(2) . . . and the Purchaser is desirous of acquiring from the Vendor the Goods which form the subject-matter of this contract . . .
+(3) The provisions shall not apply if the parties agree to waive them.
+(4) The specifications of the Products are set out in the clauses appearing.
+(5) That was a case the judge ruled that liability could not be excluded in all circumstances, but that limitations might be permissible.
+(6) The provisions contained shall be construed in accordance with the laws of England and Wales.
+(7) Any dispute arising shall be resolved in arbitration.
+(8) all disputes between the parties have been resolved amicably.
+(9) A copy of the lease is enclosed .
+a. heretofore
+b. whereas
+c. herefrom
+d. hereinafter
+e. hereof
+f. wherein
+g. herein
+h. above-mentioned
+i. herewith
+j. hereto
+
+####
+练习 14
+从 (a) 至 (j) 列表中选择正确的单词，并将它们填入以下句子的空白处。答案可以在本书后面的答案中找到。
+或者，您也可以访问配套网站在线访问此问题。
+(1) 双方同意本合同自签订之日起有效期为两年。
+(2) ……且买方希望从卖方处获得构成本合同标的的货物……
+(3) 如果双方同意放弃本合同条款，则本合同条款不适用。
+(4) 产品的规格在出现的条款中列出。
+(5) 在该案例中，法官裁定，并非在所有情况下都不能排除责任，但可以允许限制责任。
+(6) 本合同条款应根据英格兰和威尔士的法律进行解释。
+（7）任何争议应通过仲裁解决。
+（8）双方之间的所有争议均已友好解决。
+（9）附上租约副本。
+a. 此前
+b. 鉴于
+c. 自此
+d. 此后
+e. 此处
+f. 其中
+g. 此处
+h. 上述
+i. 此处
+j. 此处
+
+4.4.5 Whatsoever, wheresoever and howsoever 
+In addition to the words listed above, you may also encounter the words whatsoever, wheresoever and howsoever. These have extremely limited practical meaning and exist as a result of legal tradition only.
+
+Whatsoever means ‘whatever’, i.e. ‘no matter what’ in contractual contexts.
+
+Wheresoever means ‘wherever’, i.e. ‘in or to whatever place’ in contractual contexts.
+
+Howsoever means ‘however’, i.e. ‘in whatever way or to whatever extent’.
+
+These words are occasionally used together; for example, in the following sentence: This limitation shall apply in any situation whatsoever, wheresoever and howsoever arising.
+
+The word whosoever may also be encountered. This simply means ‘whoever’.
+
+4.4.5 无论如何（Whatsoever）、无论何地（wheresoever）和无论何事（howsoever）
+除了上面列出的词语外，您还可能会遇到“无论何地（whatsoever）、无论何地（wheresoever）和无论何事（howsoever）”这些词语。这些词语的实际含义极其有限，仅仅是法律传统的产物。
+
+“无论何地（whatsoever）”在合同语境中表示“无论何地（whatever）”，即“无论何事（no matter what）”。
+
+“无论何地（wheresoever）”在合同语境中表示“无论何地（wherever）”，即“在或到任何地点（in or to any place）”。
+
+“无论何事（howsoever）”表示“然而（however）”，即“以任何方式或程度（in regardless of way or to any degree）”。
+
+这些词语有时会一起使用；例如，在以下句子中：此限制应适用于任何情况，无论何地（whatsoever）、无论何地（wheresoever）和无论何事（howsoever）发生的情况（howsoever）。
+
+也可能遇到“无论何人（whosoever）”一词。这仅仅表示“无论谁（whoever）”。
+
+4.4.6 Hence, whence and thence
+The words hence, whence and thence, and the derivatives henceforth and thenceforth are all archaic forms in ordinary English, which are however still occasionally seen in legal English. Their meanings are briefly outlined below.
+
+Hence means (1) for this reason; and (2) from now on.
+
+Henceforth means from this or that time on.
+
+Whence means (1) from what place or source; (2) from which or from where; (3) to the place from which; or (4) as a consequence of which.
+
+Thence means (1) from a place or source previously mentioned; (2) as a consequence.
+
+Thenceforth means from that time, place or point onwards.
+
+4.4.6 Therefore、whence 和 thence
+thence、whence 和 thence 等词，以及其派生词 thereforeforth 和 thenceforth 在普通英语中都是古语形式，但在法律英语中仍偶尔出现。它们的含义简述如下。
+
+therefore 的意思是 (1) 因为这个原因；以及 (2) 从现在开始。
+
+therefore 的意思是 从此时或彼时开始。
+
+whence 的意思是 (1) 从什么地方或来源；(2) 从哪个或从哪里；(3) 到从哪个地方；或 (4) 因此。
+
+thence 的意思是 (1) 从先前提到的地方或来源；(2) 因此。
+
+thenceforth 的意思是 从那个时间、地点或点开始。
+
+4.4.7 -er, -or and -ee names 
+Legal English contains a large number of names and titles, such as employer and employee in which the reciprocal and opposite nature of the relationship is indicated by the use of -er/-or and -ee endings. These endings derive from Latin.
+
+In the example given here, the employer is the one who employs the employee.
+
+Hence, the employee is employed by the employer.
+
+Here are some further examples that you may have encountered: Assignor is a party who assigns (transfers) something to another party.
+
+Assignee is the party to whom something is assigned.
+
+Donor is a party who donates something to another party.
+Donee is the party to whom something is donated.
+Interviewer is a person who is interviewing someone.
+Interviewee is a person who is being interviewed by the interviewer.
+Lessor is a party who grants a lease over a property. He or she is therefore the landlord.
+Lessee is the party to whom a lease over a property is granted. He or she is therefore the tenant.
+Mortgagor is a lender who lends money to a property owner (the mortgagee) in return for the grant by the mortgagee of a mortgage over the property as security for the loan.
+Mortgagee is the property owner to whom money is loaned by the mortgagor in return for the grant of a mortgage over the property.
+Offeror is a party who makes a contractual offer to another party.
+Offeree is the party to whom a contractual offer is made.
+Payer is a party who makes a payment to another party.
+Payee is the party to whom payment is made.
+Promisor is a party who makes a promise to another party.
+Promisee is the party to whom a promise is made.
+Representor is a party who makes a contractual representation to another party.
+Representee is the party to whom a contractual representation is made.
+Transferor is a party who transfers something to another party.
+Transferee is the party to whom something is transferred.
+Note that these words are not always used in the way the examples given above might lead one to expect. For example, a guarantor is someone who provides a guarantee. However, the person to whom a guarantee is given is known technically as the principal debtor, not the guarantee. The guarantee is the document by which the secondary agreement that constitutes the guarantee is made.
+
+4.4.7 -er、-or 和 -ee 结尾的名称
+法律英语包含大量的名称和头衔，例如雇主和雇员，其中使用 -er/-or 和 -ee 结尾来表示关系的对等和对立性质。这些结尾源自拉丁语。
+
+在本例中，雇主是雇用雇员的人。
+
+因此，雇员受雇于雇主。
+
+以下是一些您可能遇到的更多示例：转让人是将某物转让（转移）给另一方的一方。
+
+受让人是某物被转让的一方。
+
+捐赠人是将某物捐赠给另一方的一方。
+受赠人是接受某物捐赠的一方。
+采访人是正在采访某人的人。
+采访人是正在接受采访人采访的人。
+出租人是将房产出租的一方。因此，出租人是出租房产的一方。
+承租人是获得财产租赁权的一方。因此，他或她是承租人。
+抵押人是贷款人，将资金借给财产所有人（抵押权人），抵押权人授予该财产的抵押权作为贷款担保。
+抵押权人是财产所有人，抵押人将资金借给该财产所有人，抵押权人授予该财产的抵押权。
+要约人是向另一方提出合同要约的一方。
+受要约人是合同要约的接受方。
+付款人是向另一方付款的一方。
+收款人是付款的接受方。
+承诺人是向另一方作出承诺的一方。
+受诺人是承诺的接受方。
+代表人是向另一方作出合同陈述的一方。
+受代表人是合同陈述的接受方。
+转让人是将某物转让给另一方的一方。
+受让人是接受转让的一方。
+请注意，这些词语的用法并不总是与上述例子所暗示的一致。例如，担保人是提供担保的人。然而，从技术上讲，接受担保的人被称为主债务人，而不是担保人。担保是构成担保的次要协议的文件。
+
+4.4.8 Unfamiliar pronouns 
+Unfamiliar pronouns represent an archaic usage in legal English, and include such formulations as the same, the said, the aforementioned, etc.
+
+The use of such pronouns in legal texts is interesting since very frequently they do not replace the noun – which is the whole purpose of pronouns – but are used to supplement them. For example, the said John Smith.
+
+4.4.8 不熟悉的代词
+不熟悉的代词在法律英语中是一种古老的用法，包括“相同”、“所述”、“上述”等表述。
+
+此类代词在法律文本中的使用颇具趣味，因为它们通常并非替代名词（这才是代词的真正用途），而是用来补充名词。例如，“所述约翰·史密斯”。
+
+4.4.9 Ordinary words in unusual contexts 
+Apparently ordinary words are sometimes found in unusual contexts in legal English and have different meanings in those contexts.
+For example, the familiar term consideration refers, in legal English, to contracts, and means ‘an act, forbearance or promise by one party to a contract that constitutes the price for which the promise of the other party is bought’ (Oxford Dictionary of Law).
+Other words found in unusual contexts in legal English include:
+● construction (interpretation);
+● redemption (used in relation to the repayment of debts secured on property);
+● furnish (to provide e.g. documents);
+● hold (the application of a legal principle in court proceedings, by a judge); and
+● find.
+
+4.4.9 特殊语境中的普通词汇
+在法律英语中，普通词汇有时会出现在特殊语境中，并且在这些语境中具有不同的含义。
+例如，在法律英语中，我们熟悉的术语“consideration”（对价）指的是合同，其含义为“合同一方做出的行为、忍让或承诺，构成了购买另一方承诺的代价”（《牛津法律词典》）。
+其他在法律英语中出现在特殊语境中的词汇包括：
+● construct（解释）；
+● redemption（用于偿还以财产担保的债务）；
+● furnish（提供文件等）；
+● hold（法官在法庭诉讼中运用法律原则）；以及
+● find（发现）。
+
+4.4.10 Deeming 
+The word deem is frequently used in legal English. In its legal sense it means to treat a thing as being something that it is not, or as possessing certain characteristics that it does not in fact possess. This meaning is employed in contracts and in legislation to create the idea that something mentioned in the contract is deemed (treated) to be something else.
+
+Consequently, although it would seem absurd to a layperson, from the point of view of common law drafting practices it would be perfectly acceptable to write in a contract: In this agreement dogs shall be deemed to be cats.
+
+More typically, one might find deemed being used in this sort of clause: Notice shall be deemed served 72 hours after having been posted.
+
+The purpose of such a clause is to indicate that for the purposes of the contract the parties agree to regard a notice as having been served once 72 hours has passed after the notice was posted.
+
+In ordinary language, deem is simply an old-fashioned term meaning to consider in a specified way. It is a synonym for think or judge.
+
+4.4.10 视为（Deeming）
+“视为”（deem）一词在法律英语中经常使用。其法律含义是指将某物视为并非其本身的某物，或视为其具有某些实际上并不具备的特征。合同和立法中运用这一含义是为了营造一种观念，即合同中提及的某物被视为（处理）为其他事物。
+
+因此，尽管外行人可能觉得荒谬，但从普通法起草实践的角度来看，在合同中这样写是完全可以接受的：在本协议中，狗应被视为猫。
+
+更常见的是，人们可能会在以下条款中发现“视为”（deem）的使用：通知应在张贴后72小时视为已送达。
+
+此类条款的目的是表明，就合同而言，双方同意在通知张贴后72小时视为已送达。
+
+在日常用语中，“视为”（deem）只是一个老式术语，意为以特定方式考虑。它是思考或判断的同义词。
+
+####
+4.5 ABBREVIATIONS 
+There are two kinds of abbreviations. The first kind is the acronym. An acronym is made from the initial letters or parts of a phrase or compound terms. It is usually referred to as a single word. For example, radar = radio detection and ranging.
+
+The second kind is an initialism, which is made from the initial letters or parts of a phrase or compound term. These are usually referred to letter by letter rather than as a single word, e.g. USA = United States of America.
+
+In general, those abbreviations that refer to an entity, such as UK, USA,or NATO should be capitalised without dots between the letters.
+
+Those abbreviations that are used as grammatical shorthand, such as e.g. and i.e.
+
+are usually written in lowercase letters with dots between the letters.
+
+There are also certain terms that are referred to in speech as a single word, but which are capitalised in writing. For example, NATO = North Atlantic Treaty Organization.
+Here is a list of some common abbreviations and their usages:
+AGM = Annual General Meeting
+a.k.a. = also known as (‘John Smith a.k.a. King of Style’)
+a.m. = ante meridiem (‘before noon’)
+AOB = any other business (often used in meeting agendas)
+B2B = business to business
+B2C = business to consumer
+cc = carbon copy (used to show that a copy of a letter has also been sent to another person or persons).
+CEO = chief executive officer
+CGT = capital gains tax
+c.f. = compare(d), with
+c.i.f. = cost, insurance, freight contract
+c.o.d. = cash on delivery
+EC = European Communities
+e.g. = exempli gratia (‘for example’)
+enc = enclosed
+etc = et cetera
+EU = European Union
+FBI = Federal Bureau of Investigation
+f.o.b = free on board contract
+GATT = General Agreement on Tariffs and Trade
+GBH = grievous bodily harm
+GM = genetically modified
+GmbH = German business vehicle equivalent to the common law limited
+company (Ltd.)
+GMT = Greenwich Mean Time
+GNP = gross national product
+HR = Human Resources
+Ibid = ibidem (‘in the same source’)
+ID = identification
+i.e. = id est (‘that is to say’)
+Inc = incorporated (USA)
+IOU = I owe you
+IPO = Initial Public Offering (of shares of a company)
+IT = Information Technology
+Ltd = limited company (UK)
+MD = managing director
+MEP = member of the European Parliament
+NAFTA = North American Free Trade Agreement
+NATO = North Atlantic Treaty Organization
+NB = nota bene (‘note well’)
+p.a. = per annum
+PA = personal assistant
+PC = (1) personal computer; (2) politically correct; (3) police constable
+p.c. = per cent
+plc = public limited company (UK)
+p.m. = post meridiem (‘afternoon’)
+p.p. = per procurationem (used when signing a letter on someone else’s behalf)
+PO = post office
+PPS = post postscript
+PR = public relations
+PS = postscript
+PTO = please turn over
+QC = Queen’s Counsel
+QED = quod erat demonstrandum (‘thus I prove’)
+TLC = tender loving care
+UK = United Kingdom
+UN = United Nations
+USA = United States of America
+VAT = value added tax
+viz = videlicet (‘namely, in other words’)
+vs. = versus, against
+WIP = work in progress
+
+####
+4.5 缩写
+缩写有两种。第一种是首字母缩略词 (acronym)。首字母缩略词由短语或复合词的首字母或部分组成。通常将其作为一个单词来表示。例如，雷达 (radar) = 无线电探测和测距 (radiodetection and ranging)。
+
+第二种是首字母缩写词 (initialism)，由短语或复合词的首字母或部分组成。首字母缩写词通常逐字表示，而不是作为一个单词来表示，例如，USA = 美国 (United States of America)。
+
+一般来说，指代实体的缩写，例如英国 (UK)、美国 (USA) 或北约 (NATO)，应大写，字母之间不加点。
+
+用于语法速记的缩写，例如 e.g. 和 i.e.，
+
+通常用小写字母书写，字母之间加点。
+
+有些术语在口语中被作为一个单词表示，但在书面语中则大写。例如，NATO = 北大西洋公约组织。
+以下是一些常见缩写及其用法：
+AGM = 年度股东大会
+a.k.a. = 也称为（“John Smith，又名 King of Style”）
+a.m. = ante meridiem（“中午之前”）
+AOB = 其他业务（常用于会议议程）
+B2B = 企业对企业
+B2C = 企业对消费者
+cc = 抄送（用于表示信件副本也已发送给其他人）。
+CEO = 首席执行官
+CGT = 资本利得税
+c.f. = 比较（d），与……比较
+c.i.f. = 成本、保险、运费合同
+c.o.d. = 货到付款
+EC = 欧洲共同体
+例如= exempli gratia (例如)
+enc = 随附
+etc = 等等
+EU = 欧盟
+FBI = 联邦调查局
+f.o.b = 船上交货合同
+GATT = 关税与贸易总协定
+GBH = 严重人身伤害
+GM = 转基因
+GmbH = 德国商业实体，相当于普通法上的有限公司
+公司（Ltd.）
+GMT = 格林威治标准时间
+GNP = 国民生产总值
+HR = 人力资源
+Ibid = ibidem (同上)
+ID = 身份证明
+ie. = id est (也就是说)
+Inc = 股份有限公司（美国）
+IOU = 我欠你
+IPO = 首次公开募股（公司股票）
+IT = 信息技术
+Ltd = 有限公司（英国）
+MD = 董事总经理
+MEP = 欧洲议会议员
+NAFTA = 北美自由贸易协定
+NATO = 北大西洋公约组织
+NB = nota bene (注意) （好吧）
+p.a. = 每年
+PA = 私人助理
+PC = (1) 个人电脑；(2) 政治正确；(3) 警员
+p.c. = 百分比
+plc = 上市公司（英国）
+p.m. = post meridiem（下午）
+p.p. = per procurationem（用于代表他人签署信件）
+PO = 邮局
+PPS = 后记
+PR = 公共关系
+PS = 后记
+PTO = 请翻页
+QC = 御用大律师
+QED = quod erat demonstrandum（我由此证明）
+TLC = 温柔关爱
+UK = 英国
+UN = 联合国
+USA = 美利坚合众国
+VAT = 增值税
+viz = videlicet（换句话说）
+vs. = 对比，反对
+WIP = 在制品	
+
+####
+4.6 BUSINESS BUZZWORDS 
+‘Business buzzwords’ refers to the typical phrases used by English-speaking lawyers and business people in the course of daily working life. It is a difficult area of English usage to master, and there are two reasons for this.
+The first is that the buzzwords or phrases themselves are often extremely euphemistic and may not appear at first sight to have any connection with what they are supposed to mean or describe.
+The second is that they are constantly changing. New words and phrases are constantly appearing and old ones dropping out of use.
+Here is a brief selection of buzzword and phrases in current (2009) use.
+Adminisphere – upper levels of management that are known for making stupid or impractical suggestions.
+Blamestorming – a meeting to agree who should be blamed for something that has gone wrong. This is of course a pun on the long-established term brainstorming.
+Bleeding edge – something extremely new, more so than if it were merely cutting edge.
+Bobbleheading – group head-nodding when the boss talks.
+Carbon-based error – a mistake made by a human being.
+Déjà poo – the feeling that you’ve got into this mess before.
+Let’s sunset that – referring to a bad idea that should not be mentioned again.
+Little ‘r’ me – send me a personal answer to an email.
+Low-hanging fruit – easy opportunities to create business or make money.
+Offline – to take something offline is to discuss something in person or on the phone, rather than via email, or to deal with something after a meeting.
+Plutoed – a project relegated to lower status.
+Prairie dogging – the habit of office workers to stick their heads up over cubicle partitions.
+Stickiness – a web page quality that captures people’s interest. Hence sticky content.
+Thought grenade – an explosive good idea.
+There is no ‘I’ in team – individual interests must be sacrificed to the needs of the team.
+Think outside the box – roughly, this involves not thinking like you normally do, but pretending to be someone much smarter.
+Viral marketing – A marketing campaign that spreads very quickly.
+
+####
+4.6 商业流行语
+“商业流行语”是指英语律师和商界人士在日常工作中使用的典型短语。掌握这一英语用法非常困难，原因有二。
+首先，这些流行语或短语本身通常非常委婉，乍一看似乎与它们原本的含义或描述毫无关联。
+其次，它们在不断变化。新的词汇和短语不断涌现，旧的词汇和短语逐渐被淘汰。
+以下是当前（2009 年）流行语和短语的简要选集。
+Adminisphere – 以提出愚蠢或不切实际的建议而闻名的高层管理人员。
+Blamestorming – 为商定谁应该为出现的问题负责而召开的会议。这当然是对历史悠久的“头脑风暴”一词的双关。
+Bleeding edge – 极其新颖的事物，比仅仅是尖端技术还要新颖。
+摇头晃脑——老板讲话时集体点头。
+碳基错误——人为错误。
+似曾相识——感觉你以前也遇到过这种麻烦。
+日落——指一个不好的想法，不应该再提起。
+给我发一封电子邮件——给我发一封私人回复。
+唾手可得的果实——轻松创造业务或赚钱的机会。
+线下——线下是指面对面或电话讨论某事，而不是通过电子邮件，或在会议后处理某事。
+冥王星——项目被降级。
+草原犬鼠——办公室职员习惯把头探出隔间。
+粘性——一种吸引人们兴趣的网页特质。因此，内容具有粘性。
+思想手榴弹——一个爆炸性的好主意。
+团队中没有“我”——个人利益必须为团队的需求而牺牲。
+跳出固有思维模式——简单来说，就是不按常规思考，而是假装自己比别人聪明得多。
+病毒式营销——一种传播速度极快的营销活动。
+
+####################
+5	Elements of good style: clarity, consistency, effectiveness
+
+####
+5.1 GENERAL CONSIDERATIONS 
+Style in legal writing is to some extent a matter of personal preference or company policy. The only unbreakable rules of style in legal documents and letters are that your writing should be as easy to understand as possible and that it should avoid offensive terms.
+
+In addition to drafting letters, emails and other communications, most lawyers also spend a considerable amount of time creating legal documents for a variety of purposes. These may either be intended for use in court proceedings or for use in non-contentious business such as sales of land, goods or services.
+
+Typical documents prepared by lawyers for use in court include statements of claim, witness statements, divorce petitions, petitions for bankruptcy and affidavits.
+
+Typical documents prepared by lawyers for non-contentious purposes include transfers of land, contracts for sale of goods, articles of association for companies, licences and options.
+
+The style of writing used in legal documents differs from the style used in legal correspondence. This is because the purpose of legal documents is different from that of legal correspondence.
+
+Most legal documents used in court proceedings either act as evidence in support or defence of some claim or make allegations and arguments either in support or in defence of a claim. Most legal documents used in non-contentious business generally record an agreement between parties. Such documents are intended primarily to regulate all aspects of the agreement reached between the parties.
+
+They lay down the obligations each party must carry out and specify the consequences of failure. They are intended to be legally effective in court.
+
+Consequently, the language used in legal documents displays certain typical features, which often make them difficult to read. These include:
+● Use of terms of art. These are words that have a precise and defined legal meaning. They may not be familiar to the layperson, but cannot be replaced by other words.
+● Use of defined terms. Many legal documents contain a definitions section in which the parties agree that certain words used repetitively throughout the document shall have an agreed meaning.
+● Use of obscure legal phrasing. This can be confusing to the layperson, either simply because the language is unfamiliar, or because the words used have a different meaning in ordinary English.
+● Repeated use of the words shall and must to express obligations, and may to express discretions (where the parties are entitled to do something but are not obliged to do it).
+
+These issues are dealt with in more detail in Chapter 11.
+
+The writing used in legal correspondence usually has a different purpose. It is generally intended to provide information and advice, to put forward proposals and to provide instructions to third parties.
+
+However, all legal writing should aim at achieving three goals – clarity, consistency and effectiveness. The notes set out below show how these goals can be achieved in practice.
+
+######################
+良好文风的 5 个要素：清晰、一致、有效
+
+####
+5.1 一般考虑事项
+法律文书的文风在某种程度上取决于个人偏好或公司政策。法律文件和信函中唯一不可违反的文风规则是，您的文风应尽可能通俗易懂，并避免使用冒犯性词语。
+
+除了起草信函、电子邮件和其他通讯材料外，大多数律师还会花费大量时间撰写用于各种目的的法律文件。这些文件可能用于法庭诉讼，也可能用于非诉讼业务，例如土地、商品或服务的销售。
+
+律师准备的用于法庭的典型文件包括索赔声明、证人陈述、离婚申请书、破产申请书和宣誓书。
+
+律师准备的用于非诉讼业务的典型文件包括土地转让、货物销售合同、公司章程、许可证和期权。
+
+法律文件的写作风格与法律信函的写作风格不同，这是因为法律文件的目的与法律信函的目的不同。
+
+大多数用于法庭诉讼的法律文件要么作为支持或辩护某项索赔的证据，要么提出支持或辩护某项索赔的指控和论点。大多数用于非诉讼业务的法律文件通常记录当事人之间的协议。此类文件主要旨在规范当事人之间达成的协议的各个方面。
+
+它们规定了各方必须履行的义务，并明确了违约的后果。它们旨在在法庭上具有法律效力。
+
+因此，法律文件中使用的语言具有一些典型特征，这些特征通常使其难以阅读。这些特征包括：
+● 使用专业术语。这些术语具有精确明确的法律含义。它们可能不为外行人所熟悉，但不能用其他词语替代。
+● 使用定义术语。许多法律文件包含定义部分，其中当事人同意，文件中重复使用的某些词语应具有约定的含义。
+● 使用晦涩的法律措辞。这可能会让外行人感到困惑，要么仅仅是因为语言不熟悉，要么是因为这些词语在普通英语中含义不同。
+● 反复使用“shall”（应当）和“must”（必须）等词语来表达义务，以及“may”（可以）等词语来表达自由裁量权（即当事人有权做某事，但没有义务去做）。
+
+这些问题将在第11章中更详细地讨论。
+
+法律信函中使用的文字通常有不同的目的。它通常旨在提供信息和建议、提出提案以及向第三方提供指示。
+
+然而，所有法律写作都应致力于实现三个目标——清晰、一致和有效。以下说明展示了如何在实践中实现这些目标。
+
+####
+5.2 CLARITY
+Writing of all kinds should be as easy to understand as possible. The key elements of clarity are:
+● Clear thinking. Clarity of writing usually follows clarity of thought.
+● Saying what you want to say as simply as possible.
+● Saying it in such a way that the people you are writing for will understand it – consider the needs of the reader.
+● Keep it as short as possible.
+
+####
+5.2 清晰度
+所有类型的写作都应尽可能通俗易懂。清晰度的关键要素包括：
+● 思路清晰。清晰的写作通常源于清晰的思路。
+● 尽可能简单地表达你想表达的内容。
+● 用读者能够理解的方式表达——考虑读者的需求。
+● 尽可能简短。
+
+5.2.1 Planning
+Start by considering the overall purpose of your document or letter. Before
+starting to draft a document you need to be sure that you have a clear idea of
+what the document is supposed to achieve and whether there are any problems
+that need to be overcome to allow it to be achieved. Ask yourself the following
+questions:
+● Have you taken your client’s full instructions?
+● Do you have all the relevant background information?
+● What is your client’s main goal or concern?
+● What are the main facts that provide the backbone of the document?
+● What is the applicable law and how does it affect the drafting?
+● Are there any good alternatives for the client? Would it be more effective or cheaper to approach the client’s goal in a different way? For example, if it seems that drafting the necessary documentation in English will be too difficult, consider the following options:
+	○ draft the document in your native language and have it translated and verified;
+	○ engage the services of a native English-speaking lawyer as a consultant in respect of the case;
+	○ draft the document as best as you can in English and have a legally qualified English native speaker check and correct the documents.
+● Are there any useful precedents (generic legal documents on which specific legal documents can be based), which could be used for the draft?
+
+More detailed notes on drafting documents are contained in Chapter 11.
+More detailed notes on correspondence are contained in Chapter 12.
+
+5.2.1 规划
+首先要考虑文件或信函的总体目的。在开始起草文件之前，您需要确保自己清楚地了解该文件的目标，以及是否存在需要克服的问题才能实现该目标。请问自己以下问题：
+● 您是否已听取客户的全部指示？
+● 您是否掌握了所有相关的背景信息？
+● 客户的主要目标或顾虑是什么？
+● 构成该文件主线的主要事实是什么？
+● 适用法律是什么？它如何影响起草？
+● 对客户来说，是否有其他更好的选择？以其他方式实现客户目标是否更有效或更经济？例如，如果您觉得用英语起草必要的文件过于困难，请考虑以下选项：
+○ 用您的母语起草文件，并将其翻译和核实；
+○ 聘请以英语为母语的律师作为案件顾问；
+○ 尽可能用英语起草文件，并请一位具有法律资质的英语母语人士检查并修改文件。
+● 是否有一些有用的先例（可供特定法律文件参考的通用法律文件）可用于起草？
+
+关于起草文件的更详细说明请参见第11章。
+关于信函的更详细说明请参见第12章。
+
+5.2.2 Words
+Whether writing documents or correspondence, the following guidelines are relevant.
+
+5.2.2 词语
+无论是撰写文件还是信函，以下准则都适用。
+
+5.2.2.1 Use the words that convey your meaning 
+Use the words that convey your meaning, and nothing more. Never use words simply because they look impressive and you want to try them out, or because you like the sound of them. There is a tendency in legal writing to use unnecessary obscure words rather than their ordinary equivalents, perhaps out of a feeling that the obscure words are somehow more impressive.
+
+5.2.2.1 使用能够表达您意思的词语
+仅使用能够表达您意思的词语，别无其他。切勿仅仅因为词语看起来令人印象深刻、想尝试一下，或者因为您喜欢它们的发音而使用它们。法律写作中，人们倾向于使用不必要的、晦涩难懂的词语，而不是通常的对应词语，这可能是因为他们觉得这些晦涩难懂的词语更令人印象深刻。
+
+5.2.2.2 Use ordinary English words where possible
+Do not use a foreign phrase or jargon if you can think of an ordinary English word that means the same thing. For example, do not write modus operandi when you can write method, nor soi disant when you can write so-called.
+
+In legal English, this is more difficult to achieve in practice than it is in ordinary English, because much of the terminology used (inter alia, ab initio, force majeure, mutatis mutandis) comes from French and Latin. These often act as shorthand for a longer English phrase. For example, inter alia comes out in English as ‘including but not limited to’. Your choice of vocabulary – between English or French and Latin – will be influenced by who you are writing to.
+
+5.2.2.2 尽可能使用普通英语词汇
+如果您能想到一个意思相同的普通英语词汇，就不要使用外来短语或行话。例如，如果能写“method”，就不要写“modus operandi”，如果能写“so-called”，就不要写“soi disant”。
+
+在法律英语中，这在实践中比在普通英语中更难做到，因为许多使用的术语（例如“inter alia”、“ab initio”、“force majeure”、“mutatis mutandis”）来自法语和拉丁语。这些术语通常用作较长英语短语的简写。例如，“inter alia”在英语中读作“包括但不限于”。您的词汇选择——英语还是法语和拉丁语——将取决于您的收信人。
+
+5.2.2.3 Avoid negative structures 
+Avoid negative structures where possible. There is a tendency in much business
+and legal writing to try to soften the impact of what is being said by using not
+un- (or not im-, il-, in-, etc.) formations such as:
+● not unreasonable	
+● not impossible
+● not unjustifiable
+● not unthinkable
+● not negligible
+
+Such structures make what you are saying less clear and definite. They become very hard to follow when more than one is used within a single sentence, for example: It is not impossible that this matter will have a not inconsiderable bearing upon our decision.
+
+Which, translated in ordinary English, reads: It is possible that this matter will have a considerable bearing upon our decision.
+
+5.2.2.3 避免使用否定结构
+尽可能避免使用否定结构。许多商业和法律写作中，倾向于使用“not un-”（或“not im-”、“il-”、“in-”等）结构来弱化内容的冲击力，例如：
+● 并非不合理
+● 并非不可能
+● 并非不正当
+● 并非不可想象
+● 并非不可忽略
+
+此类结构会使您的表达不够清晰明确。如果在同一个句子中使用多个否定结构，则会变得难以理解，例如：这件事对我们的决定可能产生不容小觑的影响。
+
+用普通英语翻译过来就是：这件事可能会对我们的决定产生相当大的影响。
+
+5.2.3 Sentences
+In addition to the notes on sentence structure set out at 2.12 above, bear in mind  the following points.
+
+5.2.3.1 Keep sentences short where possible 
+Use words economically to form your sentences. This does not necessarily mean that every sentence should be short (which might create a displeasing staccato effect), but that all unnecessary words should be removed; this will make your writing much more vigorous.
+
+In particular, pay attention to phrases that introduce new pieces of information or argument. These can often be reduced to single words. Here are some examples:
+
+Commonly used phrase 				| Single word equivalent
+be a significant factor in 			|affect, influence
+be in a position to 				|can, may
+be inclined to the view that 		|think [that]
+by dint of 							|because
+give rise to 						|cause
+have a detrimental effect upon 		|harm
+have a tendency to 					|tend
+have an effect upon 				|affect
+have the effect of |				(in most contexts) cause
+
+Commonly used phrase 				|Single word equivalent
+having regard to 					|concerning
+impact upon 						|affect
+in spite of the fact that 			|despite, although
+in the interests of (e.g. saving time) |to (e.g. save time)
+in view of 							|because
+it is arguable that 				|perhaps
+make contact with 					|contact
+meet with 							|meet
+notwithstanding the fact that 		|despite, although
+the fact that 						|delete phrase – replacement word usually unnecessary
+with regard to the question of. . . |concerning, regarding
+
+5.2.3 句子
+除了上文 2.12 中关于句子结构的注意事项外，还请注意以下几点。
+
+5.2.3.1 尽可能使用简短的句子
+精简用词来造句。这并不意味着每个句子都应该简短（否则可能会产生令人不快的断断续续的效果），而是应该删除所有不必要的词语；这样会使你的写作更有活力。
+
+尤其要注意那些引入新信息或论点的短语。这些短语通常可以精简为单个单词。以下是一些示例：
+
+常用短语 | 相当于单个单词
+成为…的重要因素 | 影响，影响
+能够，可能
+倾向于认为 | 认为
+由于 | 因为
+引起 | 导致
+对…产生不利影响 | 伤害
+倾向于 | 倾向于
+对…产生影响 | 影响
+产生…的效果 | （在大多数情况下）导致
+
+常用短语 | 单词等效
+考虑到 | 关于
+影响 | 影响
+尽管 | 尽管，尽管
+为了（例如节省时间） | 为了（例如节省时间）
+鉴于 | 因为
+可以说 | 也许
+与...接触 | 接触
+与...会面 | 会面
+尽管 | 尽管，尽管
+事实上 | 删除短语 - 替换词通常是不必要的
+关于...的问题... | 关于，关于
+
+5.2.3.2 One main idea per sentence 
+Try to have only one main idea per sentence. Where you want to add more than one piece of additional information about a subject introduced in a sentence, consider starting a new sentence. Always start with the most important piece of information, then deal with lesser matters, qualifications or exceptions.
+
+For example, the sentence: Unless the order is for the goods described in Appendix 3, X shall deliver the goods to Y within 7 days.
+
+would be better written as follows: X shall deliver the goods to Y within 7 days of an order being received, unless the order is for the goods described in Appendix 3.
+
+And this sentence: The company, the headquarters of which are in Oxford, specialises in pharmaceutical products and made a record profit last year.
+
+would be better split up as follows: The company specialises in pharmaceutical products. Its headquarters are in Oxford, and it made a record profit last year.
+
+5.2.3.2 每句一个中心思想
+尽量每句只写一个中心思想。如果您想为句子中引入的主题添加多条补充信息，请考虑另起一句。始终从最重要的信息开始，然后再处理次要事项、资格或例外情况。
+
+例如，以下句子：除非订单是附录3中描述的商品，否则X公司应在7天内将货物交付给Y公司。
+
+更好的写法是：除非订单是附录3中描述的商品，否则X公司应在收到订单后7天内将货物交付给Y公司。
+
+还有以下句子：该公司总部位于牛津，专营医药产品，去年利润创历史新高。
+
+更好的写法是：该公司专营医药产品。其总部位于牛津，去年利润创历史新高。
+
+5.2.3.3 Use the active voice where possible 
+Voice refers to the relationship between a clause’s subject and its verb. The phrase, ‘the lawyer considered the documents’ is active because the verb ‘considered’ performs the action of the subject. The phrase, ‘the documents were considered by the lawyer’ is passive because the verb is acted upon.
+
+The passive voice has the effect of deadening the impact of the action by burying it in the subsidiary part of the sentence. The active form highlights the action in the first part of the sentence.
+
+Legal drafters have a tendency to use passive forms (‘a meeting is to be called’) rather than active forms (‘John Smith will call a meeting’). The reason for this is that the passive permits an indirect and formal tone with which lawyers instinctively feel comfortable.
+
+However, overuse of the passive can lead to lack of clarity. The example given above leaves it unclear as to who is going to call the meeting. It also leads to less effective and less forceful communication with the reader.
+
+Sentences using the active voice are shorter and more direct. In most cases the active voice is preferable. However, there may be cases in which the writer’s intention is to divert attention from the real subject. For example, ‘the contract was signed’ (passive), as opposed to, ‘I signed the contract’ (active).
+
+Alternatively, the writer may use the passive voice to focus attention on the object in a case where that is more important than the subject. For example, ‘the meeting will be held’ (passive) as opposed to ‘the company will hold a meeting’ (active).
+
+In these last two cases the passive should be used. In other cases it should be avoided.
+
+5.2.3.3 尽可能使用主动语态
+语态指的是从句的主语和谓语之间的关系。短语“律师考虑了这些文件”是主动语态，因为动词“考虑”执行了主语的动作。短语“律师考虑了这些文件”是被动语态，因为动词是被动的。
+
+被动语态通过将动作隐藏在句子的从属部分中，可以减弱动作的冲击力。主动语态则将动作突出于句子的前半部分。
+
+法律起草者倾向于使用被动语态（“将召开会议”），而不是主动语态（“约翰·史密斯将召开会议”）。原因是被动语态能够形成一种间接而正式的语气，律师本能地会感到舒适自在。
+
+然而，过度使用被动语态会导致表达不清晰。上面的例子让人搞不清楚谁将主持会议。这也会导致与读者的沟通效率低下，力度不足。
+
+使用主动语态的句子更短更直接。大多数情况下，主动语态更佳。然而，在某些情况下，作者的意图可能是转移对真正主语的注意力。例如，“合同已签署”（被动语态），而不是“我签署了合同”（主动语态）。
+
+或者，当宾语比主语更重要时，作者可能会使用被动语态来将注意力集中在宾语上。例如，“会议将举行”（被动语态），而不是“公司将举行会议”（主动语态）。
+
+在后两种情况下，应该使用被动语态。在其他情况下，应避免使用被动语态。
+
+5.2.3.4 Use positive phrases where possible 
+A positive phrase is usually better than a negative one. For example, ‘Clause 2 shall apply only if . . . ’ is clearer than ‘Clause 2 shall not apply unless . . . ’ However, restrictions are often difficult to express in the positive rather than the negative without either:
+● changing the meaning (‘A shall not sell goods except those made by B’ is a restriction whereas ‘A shall sell goods made by B’ is a positive obligation and therefore fundamentally different); or
+● using indirect language (‘A may build anything except a house’ is less direct than saying ‘A may not build a house’).
+
+In these cases, therefore, the negative forms should be used. In other cases they should be avoided.
+
+5.2.3.4 尽可能使用肯定句
+肯定句通常比否定句更好。例如，“第2条仅在……的情况下适用”比“第2条不适用，除非……”更清晰。然而，限制通常很难用肯定句而不是否定句来表达，除非：
+● 改变含义（“A不得出售B制造的商品以外的商品”是一项限制，而“A应出售B制造的商品”是一项肯定义务，因此两者有根本区别）；或
+● 使用间接语言（“A可以建造除房屋以外的任何东西”比“A不得建造房屋”更不直接）。
+
+因此，在这些情况下，应使用否定形式。在其他情况下，应避免使用否定形式。
+
+5.2.4 Paragraphs
+Paragraphs should not be defined by length. They are best treated as a unit of thought. In other words, each paragraph should deal with a single thought or topic.
+
+Change paragraphs when shifting to a new thought or topic.
+
+Paragraphs should start with the main idea, and then deal with subordinate matters. The writing should move logically from one idea to the next. It should not dance about randomly between different ideas.
+
+One-sentence paragraphs should not be used too often, but can be useful in certain circumstances.
+
+Pay attention to the way the paragraphs look on the page. Text, evenly divided into manageably sized paragraphs, with occasional shorter ones, looks inviting to the reader. Huge, unbroken sections of text are very off-putting to the reader and should be avoided. So too should untidy sequences of very short paragraphs.
+
+5.2.4 段落
+段落不应以长度来定义。它们最好被视为一个思想单位。换句话说，每个段落应该处理一个单一的思想或主题。
+
+当转换到新的想法或主题时，请更改段落。
+
+段落应从中心思想开始，然后处理次要内容。写作应逻辑性地从一个思想过渡到另一个思想，不应在不同思想之间随意切换。
+
+单句段落不宜过多使用，但在某些情况下可能会有用。
+
+注意段落在页面上的呈现方式。将文本均匀地划分为大小适中的段落，偶尔包含较短的段落，对读者来说更具吸引力。冗长、连续的文本会让读者感到反感，应避免使用。同样，由非常短的段落组成的杂乱无章的段落也应避免使用。
+
+5.2.5 Vigour
+As a general rule, as noted above, the fewer the words you can use to convey your meaning the more vigorous your writing will be. Every time you write something, look back at it and think how many words you can cut out. Then do it. You will be surprised at what a difference it makes to the vigour and clarity of your writing.
+Certain other issues are relevant when trying to write vigorously. Here are some of them:
+
+5.2.5 活力
+如上所述，一般来说，用词越少，表达意思的文字就越有活力。每次写作时，回顾一下，想想可以删减多少字。然后就这么做。你会惊讶地发现，这会大大提升你的写作活力和清晰度。
+在尝试写得更有活力时，还需要考虑其他一些问题。以下是其中一些：
+
+5.2.5.1 Use active verbs where possible 
+Use active verbs rather than nominalisations where possible. Nominalisations are produced when verbs are buried in longer nouns. They usually end with one of the following: -tion, -sion, -ment, -ence, -ance, -ity. Anglo-American lawyers are addicted to them. They should usually be avoided because they make writing longer and less dynamic.
+
+Common examples include give consideration to instead of consider, to be in opposition to instead of to oppose, and to be in contravention of instead of to contravene.
+
+Here is one example of usage: We are in agreement that our firm will give consideration to the documents.
+
+This sentence would be better expressed: We agree that our firm will consider the documents.
+
+However, there are certain occasions in legal writing when we need to use nominalisations. For example, lawyers don’t agree to arbitrate but to go to arbitration: arbitration is a defined legal process and should be referred to in its nominalised form.
+
+Here are some examples of commonly used nominalisations and their active verb equivalents.
+
+Nominalisation 				|Active verb equivalent
+agreement 					|agree
+arbitration 				|arbitrate
+arrangement 				|arrange
+compulsion 					|compel
+conformity 					|conform
+contravention 				|contravene
+enablement 					|enable
+enforcement 				|enforce
+identity 					|identify
+implementation 				|implement
+incorporation 				|incorporate
+indemnification 			|indemnify
+indication 					|indicate
+knowledge 					|know
+litigation 					|litigate
+mediation 					|mediate
+meeting 					|meet
+negotiation 				|negotiate
+obligation 					|obligate, oblige
+opposition 					|oppose
+ownership 					|own
+perpetration 				|perpetrate
+perpetuation 				|perpetuate
+possession 					|possess
+reduction 					|reduce
+violation 					|violate
+
+5.2.5.1 尽可能使用主动语态
+尽可能使用主动语态，而不是名词化。名词化是指动词被嵌入较长的名词中。它们通常以以下形式结尾：-tion、-sion、-ment、-ence、-ance、-ity。英美律师沉迷于使用名词化。通常应该避免使用名词化，因为它们会使文章冗长乏味。
+
+常见的例子包括：用give consider to代替consider，用to be in opposition to代替to oppose，用to be in contravention of代替to contravene。
+
+以下是一个用法示例：我们同意本律所将考虑这些文件。
+
+这句话可以更好地表达为：我们同意本律所将考虑这些文件。
+
+然而，在法律写作中，有些情况下我们需要使用名词化。例如，律师不同意仲裁，而是同意去仲裁：仲裁是一个明确的法律程序，应该用其名词化形式来提及。
+
+以下是一些常用名词化及其主动动词对应词的示例。
+
+名词化 | 主动动词对应词
+协议 | 同意
+仲裁 | 仲裁
+安排 | 安排
+强迫 | 强制
+符合 | 符合
+违反 | 违反
+使能 | 使能
+执行 | 执行
+身份 | 识别
+实施 | 实施
+合并 | 合并
+赔偿 | 赔偿
+指示 | 指示
+知识 | 知道
+诉讼 | 诉讼
+调解 | 调解
+会议 | 会面
+谈判 | 谈判
+义务 | 承担义务，责成
+反对 | 反对
+所有权 | 拥有
+实施 | 实施
+永久化 | 永久化
+占有 | 拥有
+减少 | 减少
+违反 | 违反
+
+5.2.5.2 Use short words where possible 
+Never use a long word where a short one can be used. For example, avoid words like notwithstanding where simple words like despite, still or even if can be used instead.
+
+Never use a phrase where you can use one short word. There is a creeping tendency to include unnecessary phrases like with regard to, with respect to, in reference to and so on (see above).
+
+However, this rule is modified by the need to use (1) terms of art, and (2) defined terms properly – and a number of them are long.
+
+5.2.5.2 尽可能使用短词
+切勿在可以使用短词的地方使用长词。例如，避免使用“尽管如此”之类的词，因为可以使用“尽管”、“仍然”或“即使”之类的简单词语代替。
+
+切勿使用可以用一个短词的短语。现在有一种趋势，就是加入一些不必要的短语，例如“关于”、“关于”、“参考”等等（见上文）。
+
+然而，这条规则需要根据 (1) 专业术语和 (2) 定义术语的正确使用情况进行修改——其中许多术语很长。
+
+5.2.6 Precision
+Use precise language and terminology. This means two things: choosing your words carefully and avoiding ambiguity. Refer to 6.1 for notes on avoiding ambiguity.
+
+Differentiate between legal jargon and terms of art. A boilerplate clause can be replaced by other words; patent, waiver and rescission cannot.
+
+Use the words that convey your meaning, and nothing more. Never use words simply because they look impressive and you want to try them out, or because you like the sound of them. There is a tendency in legal writing to use unnecessary obscure words rather than their ordinary equivalents, perhaps out of a feeling that the obscure words are somehow more impressive. Here are some examples:
+
+Obscure word or phrase 				|Ordinary equivalent
+annex 								|attach
+at this point in time 				|now
+append 								|attach
+cease 								|stop
+conceal 							|hide
+covenant and agree 					|agree
+demise 								|death
+desist 								|stop, leave off
+detain 								|hold, delay
+determine (as in terminate) 		|end OR decide (according to context)
+donate 								|give
+effectuate 							|carry out
+
+employ (when not used in connection with labour relations)				|use
+endeavour 																|try
+evince 																	|show
+expedite 																|hasten
+expend 																	|spend
+expiration, expiry 														|end
+extend 																	|give
+extinguish 																|end
+forthwith 																|immediately, soon
+forward 																|send
+furnish 																|give, provide
+hence 																	|therefore
+implement 																|carry out, fulfil
+inaugurate 																|begin
+indicate 																|state, show, say
+initiate 																|begin
+institute 																|begin
+necessitate 															|require
+occasion (as verb) 														|cause
+peruse 																	|read
+possess 																|have
+present 																|give
+prior 																	|earlier
+proceed 																|go (ahead)
+quantum 																|amount
+retain 																	|keep
+suborn 															|bribe (e.g. a juror or witness)
+subsequently 															|then, after, later
+terminate 																|end
+utilise 																|use
+
+5.2.6 精准
+使用精准的语言和术语。这意味着两点：谨慎选择措辞并避免歧义。有关避免歧义的注意事项，请参阅 6.1。
+
+区分法律术语和专业术语。样板条款可以用其他词语替代；专利、弃权和撤销则不能。
+
+使用能够表达您意思的词语，仅此而已。切勿仅仅因为词语看起来令人印象深刻、想要尝试，或者因为您喜欢它们的发音而使用它们。法律写作中，人们倾向于使用不必要的晦涩词语，而不是通常的同义词，这可能是因为他们觉得晦涩的词语更令人印象深刻。以下是一些示例：
+
+模糊的单词或短语 | 普通对应词
+附件 | 附加
+此时此刻 | 现在
+附加 | 附加
+停止 | 停止
+隐藏 | 隐藏
+约定并同意 | 同意
+消亡 | 死亡
+终止 | 停止，停止
+扣留 | 扣留，拖延
+确定（如终止）| 结束或决定（根据上下文）
+捐赠 | 给予
+生效 | 执行
+
+雇用（不用于劳动关系时）| 使用
+努力 | 尝试
+证明 | 表明
+加快 | 加速
+支出 | 花费
+到期，到期 | 结束
+延长 | 给予
+熄灭 | 结束
+随即 | 立即，很快
+转发 | 发送
+提供 | 给予，提供
+因此 | 因此
+实施 | 执行，履行
+就职 | 开始
+表明 | 陈述，表明，说
+发起 | 开始
+设立|开始
+需要 | 要求
+场合（用作动词）|导致
+细读 | 阅读
+拥有 | 拥有
+呈现 | 给予
+先前 | 较早
+进行 | 前进
+量子 | 数量
+保留 | 保持
+唆使 | 贿赂（例如陪审员或证人）
+随后 | 然后，之后，稍后
+终止 | 结束
+利用 | 使用
+
+5.2.7 Discourse markers 
+When writing in English, lawyers use ‘discourse markers’ to show how different ideas interrelate. These usually appear at the beginning of sentences and they indicate to the reader the way in which he or she should treat the information or ideas given in the sentence. They provide an essential means of orientating the reader and assisting his or her comprehension of the text.
+
+In practice, since there are only a limited number of language functions that are typically required in legal discourse, a small handful of words and phrases will cover most situations that a lawyer might expect to encounter in the course of daily working life.
+
+Here are some examples:
+
+5.2.7 话语标记
+律师在用英语写作时，会使用“话语标记”来表明不同观点之间的相互关联。这些标记通常出现在句首，指示读者应该如何处理句子中的信息或观点。它们是引导读者理解文本的重要手段。
+
+在实践中，由于法律话语中通常所需的语言功能有限，因此少量的词汇和短语即可涵盖律师在日常工作中可能遇到的大多数情况。
+
+以下是一些示例：
+
+1 In the event that a trademark owner wishes to allow others to use the trademark, he or she must inform the Registrar.
+Here, the opening phrase ‘in the event that’ indicates to the reader that what follows is a hypothesis. The word ‘if’ could also be used to the same effect.
+
+2 Where trademark infringement occurs, the owner of the trademark has the right to sue. However, a trademark may be lost if it is no longer distinctive.
+Here, the opening word of the second sentence – however – indicates a qualification to the previous statement.
+
+3 Of course, if information is already in the public domain, it will no longer be regarded as confidential.
+The opening phrase of course in this sentence indicates an assumption. The writer uses this technique to indicate to the reader that the idea conveyed in the rest of the sentence is generally accepted.
+
+4 Therefore, in such circumstances a confidentiality agreement covering such information will be ineffective.
+In this sentence, the opening word therefore indicates a logical step or deduction based on the information provided in the previous sentence.
+The table below sets out some of the more common functions for which discourse markers are used (on the left) and some suggested words or phrases for those functions (on the right).
+
+1 如果商标所有人希望允许他人使用该商标，则必须告知注册处。
+此处，开头的“如果”一词向读者表明接下来的内容是一种假设。“如果”一词也可以用于相同的效果。
+
+2 如果发生商标侵权，商标所有人有权提起诉讼。但是，如果商标不再具有显著性，则可能会失效。
+此处，第二句的开头词“然而”表示对前一句的限定。
+
+3 当然，如果信息已经属于公共领域，则将不再被视为机密。
+这句话的开头词“当然”表示一种假设。作者使用这种技巧向读者表明，句子其余部分传达的观点是普遍接受的。
+
+4 因此，在这种情况下，涵盖此类信息的保密协议将无效。
+在此句中，“因此”一词表示基于前一句提供的信息进行的逻辑步骤或推论。
+下表列出了话语标记的一些较常见的功能（左侧）以及一些建议用于这些功能的单词或短语（右侧）。
+
+Function 						|Suggested word or phrase
+Referring to the past 			|formerly, previously
+Expanding on a point 			|besides, furthermore
+Contrasting 					|on the other hand, conversely
+Summarising 					|in short, in summary, by way of précis
+Drawing a conclusion or inference |as a consequence, consequently, as a result
+Giving an example 				|for instance, for example
+Emphasising 					|in particular, especially, it should be stressed that
+Qualifying 						|however, it should also be borne in mind that
+Making a logical step in the argument |therefore, thus, it follows that in particular
+Beginning 						|firstly, to begin with
+Making an assumption 			|of course, naturally, clearly, evidently
+Referring to a new issue 		|turning to, with reference to, with respect to, with regard to, regarding
+Hypothesising 					|in the event that, if
+Bearing a factor in mind 		|given that, bearing in mind that, considering that,
+Stating an exemption 			|except, with the exception of, save for, save as to
+
+功能 | 建议使用的词语或短语
+提及过去 | 以前，先前
+扩展某一点 | 此外，此外
+对比 | 另一方面，相反地
+总结 | 简而言之，概括，通过摘要
+得出结论或推论 | 因此，因此，结果
+举例 | 例如，例如
+强调 | 尤其，尤其，应该强调
+限定 | 但是，也应该记住
+在论证中采取逻辑步骤 | 因此，因此，尤其
+开始 | 首先，首先
+做出假设 | 当然，自然地，清楚，显然
+提及新问题 | 转向，参考，关于，关于，关于
+假设 | 如果，如果
+记住一个因素 | 鉴于，记住，考虑到，
+陈述一个豁免|除…之外，除…之外，除…之外
+
+5.2.8 Presentation
+Pay attention to the layout of the document. There is no point in writing excellent English but presenting it badly on paper or on the screen. Here are some basic suggestions:
+● Use a readable serif font in an appropriate size (generally between 9 and
+12 points).
+● Use between 45 and 70 characters per line.
+● Use plenty of white space – break up slabs of text, use wide margins
+around the text, and use appropriate spacing.
+● Use headings to structure the text.
+● Use italics rather than underlining to emphasise text.
+● Use properly indented lists where appropriate.
+● Avoid excessive capitalisation.
+	
+5.2.8 呈现
+注意文档的布局。即使写出优秀的英文，但在纸上或屏幕上呈现效果不佳，也是没有意义的。以下是一些基本建议：
+● 使用可读的衬线字体，字号要合适（通常在 9 到
+12 点之间）。
+● 每行使用 45 到 70 个字符。
+● 使用充足的空白——打破文本块，在文本周围留出宽边距，并使用适当的间距。
+● 使用标题来组织文本。
+● 使用斜体而不是下划线来强调文本。
+● 在适当的情况下使用适当的缩进列表。
+● 避免过度使用大写字母。
+
+5.2.9 Clarity summary
+These considerations will help focus your mind on writing well.
+● When starting to write a letter or document, ask yourself three questions:
+	○ What am I trying to say?
+	○ What words will express it?
+	○ Could I make it shorter?
+● Keep sentences as short as possible. If you can cut words out without affecting the meaning of the sentence, do it. For example, do not write ‘in spite of the fact that. . .’ Write ‘although’ instead.
+● Try to have only one main idea per sentence.
+● Paragraphs should start with the main idea, then deal with subordinate matters.
+● The writing should move logically from one idea to the next.
+● Avoid negative structures. For example, ‘not unreasonable’ should be simply ‘reasonable’.
+● Use precise language and terminology. Avoid ambiguity.
+● Use active verbs rather than nominalisations. For example, do not write ‘we are in opposition to that idea’. Write ‘we oppose that idea’ instead.
+● Never use a long word where a short one can be used. For example, avoid words like ‘notwithstanding’ where simple words like ‘despite’, ‘still’ or ‘even if’ can be used instead.
+● Do not use a foreign phrase or jargon if you can think of an ordinary English word that means the same thing. For example, do not write modus operandi when you can write method nor soi-disant when you can write so-called.
+● Use terms of art with care. Differentiate between terms of art and jargon.
+A corporate veil can be replaced with other words, but bailment and patent cannot.
+● Try to produce text that looks as if it has been written by a normal human being. Break any of the rules above sooner than write like a robot.
+
+5.2.9 清晰的总结
+这些考虑将有助于你集中精力写好文章。
+● 开始写信或文件时，问自己三个问题：
+○ 我想说什么？
+○ 用什么词可以表达？
+○ 我可以把它写短一些吗？
+● 句子尽量简短。如果可以删减一些词而不影响句子意思，那就删减。例如，不要写“尽管……”，而要写“虽然……”。
+● 尽量每句话只写一个中心思想。
+● 段落应该以中心思想开头，然后再处理次要内容。
+● 文章应该逻辑性地从一个思想过渡到另一个思想。
+● 避免使用否定结构。例如，“并非不合理”应该写成“合理的”。
+● 使用精确的语言和术语。避免歧义。
+● 使用主动词而不是名词化动词。例如，不要写“我们反对那个想法”。写“我们反对那个想法”。
+● 能用短词的地方，切勿使用长词。例如，避免使用“尽管”之类的长词，而要用“尽管”、“仍然”或“即使”等短词代替。
+● 如果你能想到一个普通的英语单词表达相同的意思，就不要使用外来短语或行话。例如，能写“方法”就不要写“操作方法”，能写“所谓”就不要写“所谓”。
+● 谨慎使用专业术语。区分专业术语和行话。
+“公司面纱”可以用其他词语代替，但“委托保管”和“专利”不能。
+● 尽量使文本看起来像是由正常人写的。与其像机器人一样写作，不如违反上述任何规则。
+
+####
+5.3 CONSISTENCY
+5.3.1 Synonyms
+Legal English is full of synonyms. It is therefore all too easy to start writing about something using certain words, and then later on in the document or letter start using other words to describe it. This can lead to lack of clarity or to ambiguity. It is crucial to be consistent in your use of terminology.
+
+For example, if you start off with buyer and seller, do not start using vendor and purchaser later in the document. Never mix parts of different pairs: for example landlord and lessee, vendor and buyer.
+
+Here are some examples of commonly used synonyms for legal concepts used in legal documents. There are subtle differences in meaning or usage between them.
+● Assign is used in relation to intangible property (such as rights under a contract) while transfer is generally used in relation to tangible property (such as land and other physical items).
+● Breach is used in relation to contractual violations, while infringement is used in relation to the violation of rights (particularly intellectual property rights).
+● Clause is frequently used in relation to specific contracts, while article is more often in relation to EC legislation and overarching or framework agreements/terms and conditions.
+● Contract is generally used in relation to a specific written contract with legal effect, while agreement may also be used in a more general sense to refer to loose understandings or oral agreements (which may or may not have legal effect).
+● Landlord and tenant are used in relation only to the lease of real estate, while lessor and lessee may also be used in relation to the lease of other types of property.
+● Obligation is generally used to refer to a specific duty under a contract or legal provision, while liability refers to legal consequences. For example, breach of an obligation may lead to legal liability.
+● Undertake is generally used to indicate a commitment to do a certain thing and to accept the legal consequences of doing so (‘X undertakes to deliver the goods to Y by 5 June’), while assurance refers to a collateral promise given by a third party.
+● Void and invalid mean that something is not legally binding and has no legal effect, while ineffective refers to something that fails to achieve the required legal aim.
+
+####
+5.3 一致性
+5.3.1 同义词
+法律英语中充满了同义词。因此，很容易在开始用某些词语描述某件事，然后在文件或信函的后面用其他词语来描述它。这会导致不清楚或产生歧义。术语使用上的一致性至关重要。
+
+例如，如果您一开始使用买方和卖方，则不要在文档的后面使用卖方和购买者。切勿混淆不同词语组合的部分：例如，房东和承租人、卖方和买方。
+
+以下是一些法律文件中常用的法律概念同义词的示例。它们在含义或用法上存在细微的差别。
+● Assign 用于无形财产（例如合同项下的权利），而 Transfer 通常用于有形财产（例如土地和其他实物）。
+● Breach 用于违反合同，而 Infringement 用于侵犯权利（尤其是知识产权）。
+● 条款通常用于特定合同，而条款则更多地用于欧共体立法以及总体或框架协议/条款和条件。
+● 合同通常用于具有法律效力的特定书面合同，而协议也可用于更广义的理解或口头协议（可能具有或不具有法律效力）。
+● 房东和房客仅用于房地产租赁，而出租人和承租人也可用于其他类型财产的租赁。
+● 义务通常用于指合同或法律条款项下的特定义务，而责任则指法律后果。例如，违反义务可能导致法律责任。
+● 承诺通常用于表示承诺做某事并接受这样做的法律后果（“X 承诺在 6 月 5 日之前将货物交付给 Y”），而保证是指第三方作出的担保承诺。
+● 无效是指不具有法律约束力，不发生法律效果，无效是指未达到应有的法律目的。
+
+5.3.2 Defined terms 
+The problems caused by the difficulties in choosing and adhering to the most appropriate term can be dealt with in part by using defined terms. However, defining too many terms can be counterproductive, especially if the matters to which the definitions refer only appear once or twice. As a general rule, if a definition is only going to be used once, it should be omitted altogether.
+
+A definition is only needed if the meaning of the word or phrase is unclear and cannot be ascertained from the context. When creating a definition, ensure: (1) that the definition created has a clear and specific meaning; and (2) that the word or phrase defined is used in the same sense throughout the document as that provided by the original definition.
+The dangers of putting in too many definitions can be summarised as follows:
+● The document becomes more difficult to read and use.
+● Creating the document is more difficult: the author is more likely to make mistakes.
+● Over-rigid definition of the meaning of certain words may lead to absurd or unintended conclusions.
+● Overdefining can be self-defeating: often the attempt to include everything leads to something important being left out. A court might then take the view that the omission must have been deliberate (in the light of the fact that everything else in the contract is rigidly defined). As a result, the use of definitions can actually lead to loopholes in the document.
+
+5.3.2 定义术语
+使用定义术语可以部分解决难以选择和遵循最合适术语的问题。然而，定义过多的术语可能会适得其反，尤其是在定义所指的事项仅出现一两次的情况下。一般来说，如果一个定义只使用一次，则应将其完全省略。
+
+只有当单词或短语的含义不明确且无法从上下文中确定时，才需要定义。创建定义时，请确保：(1) 创建的定义具有清晰明确的含义；(2) 所定义的单词或短语在整个文档中的使用方式与原始定义的含义相同。
+
+添加过多定义的危害可以概括如下：
+● 文档的阅读和使用变得更加困难。
+● 文档创建更加困难：作者更容易犯错误。
+● 对某些词语含义的定义过于僵化可能会导致得出荒谬或意想不到的结论。
+● 过度定义可能适得其反：试图囊括所有内容往往会导致遗漏一些重要内容。法院可能会认为这种遗漏是故意的（考虑到合同中其他所有内容都有严格的定义）。因此，使用定义实际上可能会导致合同出现漏洞。
+
+####
+5.4 EFFECTIVENESS
+When drafting legal documents or letters, clarity and consistency are worth nothing if the document is not actually legally effective.
+
+5.4.1 Effectiveness checklist 
+The following checklist will help focus your mind on how to achieve legal effectiveness and relates particularly to the drafting of legal documents such as contracts.
+1 Does the language you use correctly state a condition, obligation, authorisation, or limitation? See 11.1 below.
+2 Does it state it in such a way that it is clear to whom or what it relates?
+A key point here is to avoid the passive – that is, do not write a meeting must be called if . . ., but the Managing Director must call a meeting if . . .
+3 Does it state it in such a way that: it is enforceable (1) under the terms of the document itself; and (2) according to the law that governs the document?
+4 Have you set clear time limits for the performance of any obligation?
+5 Is it in conflict with any other terms of the document?
+6 Does the document clearly state what will happen in the case of breach of any obligation? It is important to define the nature of the innocent party’s rights and the nature of the penalty that will be imposed on the breaching party.
+7 Are the obligations, authorisations, conditions and discretions actually capable of being exercised in practice? A key point here is to be careful with precedent legal documents – if used, they must be adapted rigorously to the deal in hand.
+8 Is it precise enough? In particular, set clear time-frames rather than using words like forthwith; specify precise standards rather than use formulations like to a reasonable standard; state enforceable obligations rather than use formulations like use their best endeavours to, etc.
+
+####
+5.4 有效性
+起草法律文件或信函时，如果文件实际上不具有法律效力，那么清晰度和一致性就毫无意义。
+
+5.4.1 有效性检查清单
+以下检查清单将帮助您集中精力思考如何实现法律效力，尤其适用于起草合同等法律文件。
+1 您使用的语言是否正确表述了条件、义务、授权或限制？请参阅下文 11.1。
+2 您的表述是否清晰地表明了其与谁或什么相关？
+这里的关键点是避免使用被动语态——也就是说，不要写“如果……必须召开会议”，而是写“如果……总经理必须召开会议”。
+3 您的表述是否符合以下要求：(1) 根据文件本身的条款；以及 (2) 根据管辖该文件的法律，该条款具有可执行性？
+4 您是否为履行任何义务设定了明确的时限？
+5 它是否与文件中的任何其他条款相冲突？
+6 该文件是否明确规定了违反任何义务时将发生的情况？重要的是要明确无辜方的权利性质以及违约方将受到的处罚性质。
+7 这些义务、授权、条件和自由裁量权在实践中是否真的能够行使？这里的关键点是要谨慎对待先例法律文件——如果使用，必须根据实际交易进行严格的调整。
+8 它是否足够精确？特别是，要设定明确的时间框架，而不是使用诸如“立即”之类的措辞；要明确具体的标准，而不是使用诸如“达到合理标准”之类的措辞；要阐明可执行的义务，而不是使用诸如“尽最大努力”之类的措辞。
+
+5.4.2 Beware of adjectives
+Adjectives should be used with great care, particularly in legal documents. The reason for this is that their meaning can vary greatly according to the context and to the writer’s intention. They do this to a markedly greater extent than occurs with nouns and verbs, the meaning of which is usually reasonably well fixed.
+
+Consider the following typical legal phrases, paying particular attention to the adjectives shown in bold:
+● The Company is entitled to make such changes as it considers necessary and prudent.
+● The Distributor shall promptly return all documents upon reasonable request by the Company.
+● The Company must deliver goods of satisfactory quality, and must replace all defective parts free of charge.
+
+It will be seen that the general effect of using these adjectives is to make the meaning of the sentences less precise. When is a change ‘necessary’? When is a request ‘reasonable’? When is quality ‘satisfactory’? It may be that these words have a defined meaning in the law on which the relevant document is based, but this is a matter that needs to be verified. Lack of clarity on such issues may lead to unnecessary disputes between the contracting parties.
+
+Consequently, when drafting a document in which obligations need to be precisely specified, adjectives should be avoided where possible. Instead of writing that changes may be made when ‘necessary’ or ‘prudent’, define the circumstances in which changes may be made. Instead of using words like ‘forthwith’ or ‘promptly’, specify exact time limits. Instead of stipulating that goods must be of ‘satisfactory’ quality, provide a detailed quality specification. In addition, consider the use of defined terms to fix the meaning of any words that might otherwise have an ambiguous or indeterminate meaning.
+
+In some cases, of course, attempts to define everything may be undesirable or self-defeating. The use of adjectives can be useful where the parties wish to create some leeway in the interpretation of obligations, or where it is not essential – or feasible – to define every obligation in detail. For this reason, adjectives are useful in framework agreements where the precise nature of specific obligations will be defined in further agreements made in relation to a particular transaction. However, in such cases it is important to have some understanding of how a particular adjective might be construed by the courts.
+
+Finally, never use any word unless: you are sure (1) that you know all its possible legal meanings; and (2) that it can only have one meaning in the context in which you have used it.
+
+5.4.2 谨慎使用形容词
+形容词的使用应格外谨慎，尤其是在法律文件中。这是因为形容词的含义会根据上下文和作者的意图而发生很大变化。形容词的这种变化比名词和动词的变化要大得多，因为名词和动词的含义通常比较固定。
+
+考虑以下典型的法律用语，尤其要注意以粗体显示的形容词：
+● 公司有权进行其认为必要和审慎的变更。
+● 经销商应根据公司的合理要求立即退还所有文件。
+● 公司必须交付质量令人满意的货物，并必须免费更换所有有缺陷的部件。
+
+可以看出，使用这些形容词通常会使句子的含义变得不那么精确。什么时候变更是“必要的”？什么时候请求是“合理的”？什么时候质量是“令人满意的”？这些词语在相关文件所依据的法律中可能具有明确的含义，但这一点需要核实。此类问题缺乏明确性可能会导致缔约方之间不必要的争议。
+
+因此，在起草需要精确规定义务的文件时，应尽可能避免使用形容词。与其写“必要时”或“谨慎时”可以进行更改，不如定义可以进行更改的情况。与其使用“立即”或“及时”之类的词语，不如明确具体的时间限制。与其规定货物必须具有“令人满意”的质量，不如提供详细的质量规范。此外，应考虑使用明确的术语来明确任何可能含义模糊或不明确的词语的含义。
+
+当然，在某些情况下，试图定义所有内容可能是不可取的，甚至是适得其反的。当双方希望在解释义务时留有余地，或者无需（或不可行）详细定义每一项义务时，使用形容词会很有用。因此，在框架协议中，形容词非常有用，因为具体义务的确切性质将在与特定交易相关的进一步协议中定义。然而，在这种情况下，了解法院可能如何解释特定形容词至关重要。
+
+最后，除非您确信 (1) 您了解该词语所有可能的法律含义；并且 (2) 在您使用该词语的语境中，该词语只能具有一种含义，否则切勿使用任何词语。
+
+####
+5.5 EXAMPLES OF BAD STYLE AND ANALYSIS 
+Here are some examples of bad style together with analyses of what is wrong with them and suggested solutions.
+
+####
+5.5 不良文体示例及分析
+以下列举一些不良文体示例，并分析其不足之处并提出解决方案。
+
+5.5.1 Example 1: waiver 
+5.5.1.1 Text
+In the event that there is a waiver of the indemnity provisions by the vendor, a letter confirming the waiver must be produced by the vendor’s solicitor for the purpose of inspection by the purchaser.
+
+5.5.1.2 Problems
+This sentence is too long for its content. Its meaning should be capable of being understood at a single glance, but this is not the case. The main problems are: (1) that the wordiness of the sentence obscures its meaning; and (2) that it contains unnecessary stipulations.
+
+5.5.1.3 Solution
+The following changes should be made:
+1 Reduce phrases to words. Therefore ‘in the event that’ can be reduced to ‘if’.
+2 Change nominalisations to verbs. Therefore, ‘waiver’ can be changed to ‘waive’. This allows us to get rid of ‘there is a waiver of’ and replaces it with ‘waives’.
+3 Correct the structure of the sentence. As currently drafted, the order of the sentence is verb (waive) – object (indemnity provisions) – subject (the vendor). In order to create a subject-verb-object structure, vendor should be mentioned first.
+4 Remove the unnecessary stipulations. The phrase ‘for the purpose of inspection by’ is unnecessary, since it can be assumed that the purchaser will read the letter. The phrase ‘a letter confirming the waiver must be produced’ can be changed to the shorter and more familiar term ‘confirmed in writing’.
+
+5.5.1.4 Redrafted version 
+If the vendor waives the indemnity provisions, this must be confirmed in writing to the purchaser by the vendor’s solicitor.
+
+5.5.1 示例 1：放弃
+5.5.1.1 文本
+如果卖方放弃赔偿条款，卖方律师必须出具放弃条款的确认函，以供买方查阅。
+
+5.5.1.2 问题
+这句话相对于其内容而言过长。其含义应该一目了然，但事实并非如此。主要问题在于：(1) 句子冗长，使其含义模糊；(2) 包含不必要的规定。
+
+5.5.1.3 解决方案
+应进行以下修改：
+1. 将短语简化为单词。因此，“如果”可以简化为“如果”。
+2 将名词化动词改为动词。因此，“waiver”可以改为“waive”。这样我们就可以去掉“there is a waiver of”，而用“waives”代替。
+3 修改句子结构。目前的句子结构是动词（waive）- 宾语（赔偿条款）- 主语（卖方）。为了形成主谓宾结构，应首先提及卖方。
+4 删除不必要的规定。“for the purpose of checking by”这一短语是不必要的，因为可以假设买方会阅读这封信。“a letter confirmed the waiver must be made”这一短语可以改为更简短、更通俗易懂的“confirmed in writing”。
+
+5.5.1.4 重新起草的版本
+如果卖方放弃赔偿条款，则卖方的律师必须以书面形式向买方确认。
+
+5.5.2 Example 2: settlement 
+5.5.2.1 Text
+The first case was settled for £2,000, the second piece of litigation was disposed of out of court for £2,500, while the price of the agreement reached in the third suit was £5,500.
+
+5.5.2.2 Problems
+This sentence is too long and contains inconsistent terminology (‘settled’, ‘disposed of out of court’ and ‘price of the agreement’, as well as ‘case’, ‘piece of litigation’ and ‘suit’) to describe the same things.
+
+5.5.2.3 Solution
+The following changes should be made:
+1 In all three cases, the term ‘settled’ should be used to indicate that agreement was reached between the parties without the need for a full court hearing.
+2 In all three cases the term ‘case’ should be used to refer to the dispute between the parties.
+3 The sentence should be phrased so that ‘settled’ is used as a verb applying to all three cases.
+
+5.5.2.4 Redrafted version 
+The first case was settled for £2,000, the second for £2,500, and the third for £5,500.
+
+5.5.2 示例 2：和解
+5.5.2.1 文本
+第一起案件以 2,000 英镑和解，第二起诉讼以 2,500 英镑庭外和解，而第三起诉讼达成的和解金额为 5,500 英镑。
+
+5.5.2.2 问题
+此句过长，且包含不一致的术语（“已和解”、“庭外和解”和“和解金额”，以及“案件”、“诉讼”和“诉讼”）来描述同一事物。
+
+5.5.2.3 解决方案
+应进行以下修改：
+1 在所有三个案例中，应使用“已和解”一词来表示双方已达成和解，无需进行完整的法庭审理。
+2 在所有三个案例中，应使用“案件”一词来指代双方之间的争议。
+3 句子的措辞应确保“settled”用作动词，适用于所有三个案件。
+
+5.5.2.4 重新起草的版本
+第一起案件的和解金额为 2,000 英镑，第二起案件的和解金额为 2,500 英镑，第三起案件的和解金额为 5,500 英镑。
+
+5.5.3 Example 3: exclusion clause
+5.5.3.1 Text
+The exclusion clause is already null and void by reason of the prior order and direction of the court. This being the case, the exclusionary clause can have no further force or effect.
+
+5.5.3.2 Problems
+The problems here are: (1) repetition between the two sentences; and (2) unnecessary words.
+
+5.5.3.3 Solution
+The following changes should be made:
+1 The second sentence adds nothing to the meaning of the whole, and should be deleted.
+2 The phrases ‘null and void’ and ‘order and direction’ can be shortened to ‘void’ and ‘order’, respectively, since in both cases the additional words add nothing to the meaning.
+3 The phrase ‘by reason of’ should be changed to a less pretentious equivalent, such as ‘due to’ or ‘as a result of’, and ‘order of the court’ can be shortened to ‘court order’.
+
+5.5.3.4 Redrafted version 
+The exclusion clause is already void due to the prior court order.
+5.5.3 示例 3：排除条款
+5.5.3.1 文本
+由于法院先前作出的命令和指示，排除条款已属无效。因此，排除条款不再具有效力。
+
+5.5.3.2 问题
+此处的问题在于：(1) 两句之间重复；(2) 不必要的词语。
+
+5.5.3.3 解决方案
+应进行以下修改：
+1. 第二句对全文含义没有任何补充，应删除。
+2. “无效”和“命令和指示”这两个短语可以分别缩写为“无效”和“命令”，因为在这两种情况下，新增的词语对原文含义均无补充。
+3. “由于”一词应改为更简洁的等同词，例如“由于”或“由于”，“法院命令”可以缩写为“法院命令”。
+
+5.5.3.4 重新起草的版本
+由于先前的法院判决，该排除条款已经无效。
+
+5.5.4 Example 4: offer of settlement 
+5.5.4.1 Text
+My client is willing to settle this case for £7,500, to be paid to your client, and your client must immediately return the blueprints and specifications and must remove all his equipment from the property. Moreover, my client insists upon having replacement of the entire section of fence which your client took down, the replacement to be at your client’s expense.
+
+5.5.4.2 Problems
+This is an offer to settle a case on specified terms. The main problem here is that the precise nature of the terms is not set out in a clear way.
+
+5.5.4.3 Solution
+The following changes should be made:
+1 A form of tabulation should be introduced so that the terms of the offer are clearly delineated.
+2 Unnecessary and repetitive wording (such as ‘moreover’, ‘insists’, etc.) should be removed.
+3 Nominalisations (i.e. ‘having replacement of’) should be changed to active verbs.
+
+5.5.4.4 Redrafted version 
+My client is prepared to settle this case for £7,500, provided that your client:
+(1) returns the blueprints and specifications;
+(2) removes all his equipment from the property; and
+(3) replaces at his own expense the entire section of fence he took down.
+
+5.5.4 示例 4：和解要约
+5.5.4.1 文本
+我的客户愿意以 7,500 英镑的价格和解此案，该金额将支付给你的客户，并且你的客户必须立即归还蓝图和规格说明书，并将其所有设备从房产中移除。此外，我的客户坚持要求更换你客户拆除的整段围栏，更换费用由你客户承担。
+
+5.5.4.2 问题
+这是一份按特定条款和解的要约。这里的主要问题是，条款的具体性质没有明确规定。
+
+5.5.4.3 解决方案
+应进行以下修改：
+1. 应采用表格形式，以便清晰地划分要约条款。
+2. 应删除不必要的重复措辞（例如“此外”、“坚持”等）。
+3 名词化（例如“替换”）应改为主动动词。
+
+5.5.4.4 改写版本
+我的客户愿意以 7,500 英镑和解此案，前提是你的客户提供以下服务：
+(1) 归还蓝图和规格说明书；
+(2) 将所有设备从房产中移除；以及
+(3) 自费更换他拆除的整段围栏。
+
+5.5.5 Example 5: personal injury 
+5.5.5.1 Text
+Mr Brown hit the windscreen of the car with his head, but as it was composed of celluloid he was unhurt.
+
+5.5.5.2 Problems
+The only problem with this sentence is that it is unclear whether it is Mr Brown’s head or the windscreen that is composed of celluloid.
+
+5.5.5.3 Solution
+In order to remove the ambiguity in the sentence, we must clarify that it is the windscreen that is composed of celluloid. This can be done by replacing ‘it’ with ‘windscreen’.
+
+5.5.5.4 Redrafted version 
+Mr Brown hit the windscreen of the car with his head, but as the windscreen was composed of celluloid he was unhurt.
+
+####
+EXERCISE 15
+Rewrite the following colloquial sentences in a formal manner appropriate to legal drafting. Before attempting this exercise, you may also find it useful to read Chapter 11. Model answers can be found in the answer key at the back of the book.
+Alternatively, visit the Companion Website to access this question online.
+(1) Because you have signed this document you have given up your right to sue for any breaches.
+(2) Both the parties that have signed this agreement can bring it to an end if it turns out that the other party is not able to pay its debts.
+(3) Party A agrees that if Party B gets sued by anyone for a reason to do with the distribution or sale of the products then Party A will be responsible for any costs that result from this.
+(4) Party A has to pay all invoices sent by Party B by 30 days after the day the goods which the invoices are for arrive at Party A’s depot. If Party A hasn’t paid the invoices in time, Party B is allowed to charge penalty interest at the rate of 20%.
+(5) This agreement will last for a period of two years from the date on which it was signed by the parties, but unless either party ends it for one of the reasons set out in clause 5, it will be automatically renewed for further periods of two years.
+
+####
+练习 15
+将以下口语句子改写成适合法律文书起草的正式形式。在尝试本练习之前，阅读第11章可能会有所帮助。您可以在本书后面的答案中找到示范答案。
+或者，您也可以访问配套网站在线查看此问题。
+(1) 由于您已签署本文件，因此您放弃了就任何违约行为提起诉讼的权利。
+(2) 如果发现另一方无力偿还债务，签署本协议的双方均可终止本协议。
+(3) 甲方同意，如果乙方因与产品分销或销售有关的原因而被任何人起诉，则甲方将承担由此产生的任何费用。
+(4) 甲方必须在发票所涉货物到达甲方仓库之日起30天内支付乙方发送的所有发票。如果甲方未及时支付发票，乙方有权按20%的利率收取罚息。
+（5）本协议自双方签署之日起有效，有效期为两年。除非任何一方因第5条规定的原因终止本协议，否则本协议将自动续期两年。
