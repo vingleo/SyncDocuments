@@ -1368,7 +1368,7 @@ Alternatively, visit the Companion Website to access this question online.
 (5) 我们有一位知识产权专家。她叫克莱尔·布鲁斯特。她专门处理复杂的专利侵权案件。
 
 ####################
-Punctuation for legal writing
+3	Punctuation for legal writing
 
 ####
 3.1 GENERAL POINTS
@@ -1383,7 +1383,7 @@ Woman – without her, man would be a savage.
 Fortunately, modern legal drafters have begun to use punctuation in the same way that ordinary writers use punctuation – to give guidance about meaning.
 
 ######################
-法律写作中的标点符号
+3	法律写作中的标点符号
 
 ####
 3.1 一般要点
@@ -1694,7 +1694,7 @@ In British English dates should be written 1 February 1999, 3 March 2000 – not
 Note, however, that dates are written differently in American English, since the month is placed before the day, and a comma is often placed after the day. For example, February 1st, 1999.
 
 ######################
-4 法律写作基本规范
+4	法律写作基本规范
 
 ####
 4.1 日期
@@ -2422,7 +2422,7 @@ The writing used in legal correspondence usually has a different purpose. It is 
 However, all legal writing should aim at achieving three goals – clarity, consistency and effectiveness. The notes set out below show how these goals can be achieved in practice.
 
 ######################
-良好文风的 5 个要素：清晰、一致、有效
+5	良好文风的 5 个要素：清晰、一致、有效
 
 ####
 5.1 一般考虑事项
@@ -3341,3 +3341,703 @@ Alternatively, visit the Companion Website to access this question online.
 (3) 甲方同意，如果乙方因与产品分销或销售有关的原因而被任何人起诉，则甲方将承担由此产生的任何费用。
 (4) 甲方必须在发票所涉货物到达甲方仓库之日起30天内支付乙方发送的所有发票。如果甲方未及时支付发票，乙方有权按20%的利率收取罚息。
 （5）本协议自双方签署之日起有效，有效期为两年。除非任何一方因第5条规定的原因终止本协议，否则本协议将自动续期两年。
+
+####################
+6	What to avoid
+
+####
+6.1 AMBIGUITY
+Ambiguity occurs when writing can be interpreted to mean more than one thing, and these things are in conflict with each other. You can often get away with this in ordinary English if one meaning seems more likely than another. In legal English – especially in contract drafting – it can be disastrous. Anglo-American lawyers still take a literalist approach to construction – that is, contract words are interpreted according to their literal meaning rather than according to the purpose and effect that can be presumed from the context.
+
+The meaning of English sentences can in many cases be changed completely by altering the order of words or the punctuation. For example: My client has discussed your proposal to fill the drainage ditch with his partners.
+
+The judge, said the accused, was the most heinous villain he had ever met.
+
+Most of the problems caused in this respect are due to the separation of different parts of the verb phrase. In the first sentence, the verb phrase is ‘discussed with’.
+
+By reuniting the parts of the phrase the real meaning of the sentence becomes clear: My client has discussed with his partners your proposal to fill the drainage ditch.
+
+In the second sentence, the verb phrase is ‘the judge said’. The use of commas creates a subordinate clause of the words ‘said the accused’. This has the effect of severing the verb phrase and linking ‘the judge’ with ‘was’. Removing the punctuation reveals the more likely meaning of the sentence: The judge said the accused was the most heinous villain he had ever met.
+
+Ambiguity should be distinguished from mere vagueness. Vagueness arises when the language used is imprecise or non-committal, and may sometimes be intentional (for example, in order to avoid giving a specific commitment on a particular issue).
+
+######################
+6 应避免的事项
+
+####
+6.1 歧义
+当文字可以被解读为多种含义，且这些含义相互冲突时，就会出现歧义。在日常英语中，如果一种含义比另一种含义更合理，这种情况通常可以避免。但在法律英语中，尤其是在合同起草中，这种情况可能会造成灾难性的后果。英美律师仍然采取字面主义的解释方法——也就是说，合同用语的解释依据是其字面意思，而不是根据上下文推断的目的和效果。
+
+在很多情况下，通过改变词序或标点符号，英语句子的含义可能会完全改变。例如：我的客户已经和他的合伙人讨论了你关于填埋排水沟的建议。
+
+被告说，这位法官是他见过的最恶毒的恶棍。
+
+这方面的大部分问题是由于动词短语的不同部分被分割造成的。第一句中的动词短语是“discussed with”。
+
+将短语的各个部分重新组合起来，句子的真正含义就清晰了：我的委托人已经和他的合伙人讨论了你关于填埋排水沟的建议。
+
+第二句中的动词短语是“法官说”。逗号的使用创建了一个由“被告说”组成的从句。这起到了切断动词短语并将“法官”与“是”连接起来的效果。删除标点符号可以揭示句子更可能的含义：法官说被告是他见过的最恶毒的恶棍。
+
+歧义应该与单纯的含糊不清区分开来。当使用的语言不精确或含糊不清时，就会出现含糊不清的情况，有时可能是故意的（例如，为了避免就特定问题做出具体承诺）。
+
+####
+EXERCISE 16
+The sentences below are ambiguous. Rewrite them in a way that makes their intended meaning clear and unambiguous. The answers can be found in the answer key at the back of the book.
+Alternatively, visit the Companion Website to access this questio online.
+(1) Even if the company sells the product, if it does not usually sell this particular product in the usual course of business it may not be held liable.
+(2) The caution of the legal temperament, as well as the desire for certainty historically has accounted for the slow pace of change in the law.
+(3) No drilling work shall be carried out on this land within 50 metres of any residence currently situated on said land without the lessor’s consent.
+(4) This lawyer said the client is the best trial advocate he had ever had working on one of his cases.
+(5) John drafted the contract for the client during the meeting itself and he then read it through carefully.
+
+练习 16
+以下句子有歧义。请改写这些句子，使其含义清晰明确。答案可在本书背面的答案中找到。
+或者，您也可以访问配套网站在线访问此问题。
+(1) 即使公司销售该产品，如果其在正常业务过程中通常不销售该产品，则可能不承担责任。
+(2) 法律界的谨慎态度以及对确定性的追求，历来是法律变化缓慢的原因。
+(3) 未经出租人同意，不得在该土地上任何现有住宅50米范围内进行钻探工作。
+(4) 这位律师说，这位客户是他处理案件以来遇到的最好的辩护律师。
+(5) 约翰在会谈期间为客户起草了合同，并仔细通读了一遍。
+
+6.2 SEXIST LANGUAGE 
+6.2.1 Personal pronouns 
+It is inappropriate to use the personal pronouns he or his to refer to a person whose sex might be male or female. English has a number of gender-neutral words such as person, as well as a number of gender-neutral pronouns such as anyone, everyone and no one. However, it does not have gender-neutral singular personal pronouns.
+
+A good workaround is to use the plural possessive form, their. The Oxford English Dictionary 2001 sanctions the use of this form to refer to ‘belonging or associated with a person whose sex is not specified’. In this way, the writer can avoid using sexist language. For example: Every competent lawyer must ensure that their legal knowledge is kept up to date.
+Other methods can also be employed to avoid using he or his. These include:
+● Deleting the pronoun reference altogether if possible. For example, ‘the director read the documents as soon as they were delivered to him’: delete to him.’ ● Changing the pronoun to an article like a or the. For example, ‘the sales representative assisted the customer with his order’ can be changed to ‘the sales representative assisted the customer with the order’.
+● Using who, especially when he follows if. For example, ‘if he does not pay attention to detail, a finance officer is worse than useless’ should read ‘a finance officer who does not pay attention to detail is worse than useless’.
+● Repeating the noun instead of using a pronoun. For example, ‘When considering the conduct of negotiations, the delegate should retain an objective view. In particular, he [read the delegate] should . . .’ ● Use the plural form of the noun. For example, instead of writing ‘a lawyer must check that he has all the relevant papers before attending court’, write ‘lawyers must check that they have all the relevant papers before attending court’.
+● Use the infinitive form of the verb, including ‘to’ (e.g. ‘to perform’, ‘to draft’ etc.). For example, instead of writing ‘the lawyer agrees that he will draft the contract’, write ‘the lawyer agrees to draft the contract’.
+● If all else fails, use the passive form. For example, instead of writing ‘he must deliver the files to X’, write ‘the files must be delivered to X’.
+
+However, note that this is not a perfect solution, since the passive form makes it unclear who is responsible for delivering the files to X. Therefore, it should only be used if the identity of the parties has already been established in a previous sentence, or if the question of who is responsible for undertaking the actions is unimportant.
+
+6.2 性别歧视语言
+6.2.1 人称代词
+使用人称代词“他”或“他的”来指代性别可能为男性或女性的人是不恰当的。英语中有许多不分性别的词汇，例如“person”，也有一些不分性别的代词，例如“anyone”、“everyone”和“no one”。但是，英语中没有不分性别的单数人称代词。
+
+一个好的解决方法是使用复数所有格形式“their”。2001 年版牛津英语词典允许使用这种形式来指代“属于或与性别不明的人有联系”。这样，作者就可以避免使用性别歧视语言。例如：每一位称职的律师都必须确保其法律知识保持最新。
+也可以采用其他方法来避免使用“他”或“他的”。这些方法包括：
+● 如果可能，完全删除代词指代。例如，“文件一送到主任手里，主任就立即阅读了”：删除“给他”。● 将代词改为冠词，如a或the。例如，“销售代表协助客户下订单”可以改为“销售代表协助客户下订单”。
+● 使用who，尤其是在he跟if之后。例如，“如果财务人员不注意细节，那他就比没用还糟糕”应读作“不注意细节的财务人员比没用还糟糕”。
+● 重复名词，而不是使用代词。例如，“在考虑谈判的进行时，代表应保持客观的观点。特别是，他（读作代表）应该……”● 使用名词的复数形式。例如，不要写“律师在出庭前必须检查自己是否拥有所有相关文件”，而要写“律师在出庭前必须检查自己是否拥有所有相关文件”。
+● 使用动词不定式，包括“to”（例如“to perform”、“to draft”等）。例如，不要写“律师同意他将起草合同”，而要写“律师同意起草合同”。
+● 如果其他方法都不奏效，请使用被动语态。例如，不要写“他必须将文件交给 X”，而要写“文件必须交给 X”。
+
+然而，请注意，这并非完美的解决方案，因为被动语态会模糊谁负责将文件交给 X。因此，只有在前一句已经明确了当事人的身份，或者谁负责执行这些行动的问题并不重要的情况下，才应该使用被动语态。
+
+6.2.2 Terminology
+In addition to paying attention to the use of personal pronouns, it is also important to ensure as far as possible that the terminology used is not gender-specific. This applies particularly to words ending in -man. For example, you should consider using chair instead of chairman, firefighter instead of fireman, and drafter instead of draftsman.
+
+It should be remembered, however, that there is a limit to the extent to which the English language can reasonably be manipulated to remove all possible traces of gender discrimination. There is a balance to be struck between avoiding the use of gender-specific language and making your English sound like normal language.
+
+A particular problem arises in respect of words for which the only gender-neutral equivalent involves the use of -person or person-. Words such as personpower, warehouseperson and foreperson (instead of foreman) should be avoided where possible.
+
+Equally, avoiding sexist language in English writing is not simply a matter of avoiding certain specific words and phrases. The underlying attitudes of the writer are more important.
+
+Some examples of old-fashioned terms and suggested non-sexist alternatives are set out below.
+
+6.2.2 术语
+除了注意人称代词的使用外，尽可能确保所用术语不带有性别歧视也至关重要。这尤其适用于以“-man”结尾的单词。例如，你应该考虑用“chair”代替“chairman”，用“firefighter”代替“fireman”，用“drafter”代替“draftsman”。
+
+然而，需要记住的是，在英语中，为了消除所有可能的性别歧视痕迹，合理运用的程度是有限的。在避免使用性别歧视语言和使你的英语听起来像正常语言之间，需要取得平衡。
+
+一个特殊的问题出现在一些词语上，它们唯一的性别中立对应词是“-person”或“person-”。应尽可能避免使用诸如“personpower”、“warehouseperson”和“foreperson”（而不是“foreman”）之类的词语。
+
+同样，在英语写作中避免使用性别歧视语言不仅仅是避免使用某些特定的词语和短语。作者的潜在态度更为重要。
+
+以下列举了一些过时术语的例子，并建议使用非性别歧视的替代词。
+
+
+Old-fashioned term 				|Nonsexist equivalent
+Air hostess/stewardess 			|Flight attendant
+Anchorman 						|Anchor
+Businessman 					|Business executive, manager, entrepreneur
+Cameraman 						|Camera operator, photographer
+Chairman 						|Chair
+Craftsman 						|Artisan
+Deliveryman 					|Courier, messenger, delivery driver
+Draftsman 						|Drafter
+Fireman 						|Firefighter
+Foreman (in the workplace) 		|Supervisor
+Foreman (of a jury) 			|Presiding juror
+Freshman 						|Fresher, first-year student
+Headmaster 						|Head, principal
+Juryman 						|Juror
+Mankind 						|Humankind/humanity
+Man-made 						|Synthetic, manufactured
+Manpower 						|Workforce, personnel
+Ombudsman 						|Ombuds
+Policeman/policewoman 			|Police Officer
+Postman/mailman 				|Postal worker, mail carrier
+Salesman 						|Sales representative
+Spokesman 						|Representative
+Statesman 						|Political leader
+Statesmanship 					|Diplomacy
+The common man 					|The average person
+Warehouseman 					|Warehouser
+Workman 						|Worker
+
+老式术语 | 非性别歧视的对应词
+空姐/空姐 | 乘务员
+新闻播音员 | 主播
+商人 | 企业高管、经理、企业家
+摄影师 | 摄像师、摄影师
+主席 | 主席
+工匠 | 手艺人
+送货员 | 信使、信使、送货司机
+绘图员 | 绘图员
+消防员 | 消防队员
+（工作场所的）领班 | 主管
+（陪审团的）领班 | 首席陪审员
+新生 | 新生、一年级学生
+校长 | 校长
+陪审员 | 陪审员
+人类 | 人类/人性
+人造 | 合成、制造
+人力 | 劳动力、人事
+监察员 | 监察员
+警察 | 警官
+邮递员 | 邮政工作人员、邮递员
+销售员 | 销售代表
+发言人|代表
+政治家 |政治领袖
+政治才能 |外交
+普通人 |普通人
+仓库管理员 |仓库管理员
+工人 |工人
+
+####
+EXERCISE 17
+Rewrite the sentences below in such a way as to remove any inherent sexism.
+The answers can be found in the answer key at the back of the book.
+Alternatively, visit the Companion Website to access this question online.
+(1) A judge should meet his responsibility to avoid any suspicion of bias in his judgment.
+(2) If a student cannot write competently, he cannot expect to make a good lawyer in the future.
+(3) A lawyer knows better than the layman that knowledge of where to find the law is at least as useful as knowledge of specific legal provisions.
+(4) When commencing court proceedings, the lawyer must ensure that his client has been fully advised about the risks of litigation. In particular, he must give the client a realistic estimate of the likely costs.
+(5) The distributor hereby undertakes that upon termination of this contract he will return to the Company all confidential papers.
+
+####
+练习 17
+请改写以下句子，以消除任何固有的性别歧视。
+答案可以在本书最后的答案中找到。
+或者，您也可以访问配套网站在线查看此问题。
+(1) 法官应履行其责任，避免在判决中出现任何偏见。
+(2) 如果学生写作能力不强，就不能指望将来成为一名优秀的律师。
+(3) 律师比门外汉更了解，了解法律的出处至少与了解具体的法律条款一样有用。
+(4) 在开始诉讼程序时，律师必须确保其委托人已充分了解诉讼风险。特别是，他必须向委托人提供可能费用的切合实际的估算。
+(5) 经销商特此承诺，在本合同终止后，他将把所有机密文件归还给公司。
+
+####
+6.3 CONSTANTLY LITIGATED WORDS 
+Two words and phrases, commonly used in English legal drafting have produced constant litigation: best endeavours and forthwith.
+
+Best endeavours is often used in contracts to indicate that parties have promised to attempt to do something. The use of the phrase usually suggests a compromise in which neither party is prepared to accept a clear statement of their obligations.
+
+The problem with the phrase is that there are no objective criteria by which best endeavours can be judged. It is easy to conclude that someone has used ‘best endeavours’ to ensure that something is done if the result is that the thing is done.
+
+It is very hard to make the same judgment if, despite certain efforts having been made, the thing is not done.
+
+The phrase poses particular problems in professional undertakings (such as ‘X promises to use its best endeavours to obtain the title deeds’) due to the vagueness it introduces into the obligation undertaken. For this reason, the Law Society of England and Wales has warned solicitors against giving a ‘best endeavours’ undertaking.
+
+Forthwith causes problems because it is too open-ended to introduce any certainty into the contract. According to the context, ‘forthwith’ could mean a matter of hours or a matter of weeks.
+
+Everything depends on the context. For example, in one English case ‘forthwith’ was held to be within 14 days. In another it was held that notice entered on a Friday and given the following Monday was not given ‘forthwith’. In yet another, the duty to submit a claim ‘forthwith’ was held not to arise until a particular state department had the basic information to allow the claim to be determined.
+
+For these reasons, it is preferable to specify a precise time and date by which something must be done if time is of the essence in an agreement.
+
+####
+6.3 经常引发诉讼的词语
+在英语法律文书起草中，有两个常用词语和短语经常引发诉讼：best endeavours 和 forthwith。
+
+“best endeavours”通常用于合同中，表示双方已承诺尝试做某事。该短语的使用通常暗示双方达成妥协，即双方均不准备接受对其义务的明确陈述。
+
+该短语的问题在于，没有客观标准可以判断“best endeavours”。如果结果确实发生了某事，很容易得出结论，认为某人使用了“best endeavours”来确保某事完成。
+
+如果尽管做出了某些努力，但事情仍未完成，则很难做出同样的判断。
+
+由于该短语对所承担的义务进行了模糊处理，因此在专业事务中（例如“X承诺尽最大努力获得地契”），该短语会造成特殊的问题。因此，英格兰和威尔士律师协会警告律师不要做出“尽最大努力”的承诺。
+
+“立即”一词会带来问题，因为它过于开放，无法在合同中引入任何确定性。根据上下文，“立即”可能指几小时或几周的时间。
+
+一切都取决于上下文。例如，在一个英国案例中，“立即”被认定为14天内。在另一个案例中，判决认为，周五提交通知并在下周一发出的通知不属于“立即”发出。还有一例，“立即”提交索赔的义务被认为只有在特定国家部门掌握足以确定索赔的基本信息后才会发生。
+
+出于这些原因，如果协议中时间至关重要，最好明确规定必须完成某件事的确切时间和日期。
+
+####
+6.4 FALSE WORD PAIRS 
+Many words in English look and sound alike but can have very different meanings.
+
+Typical examples include principal and principle, affect and effect, and disinterested and uninterested. In some cases – as in prescribe and proscribe – the meanings may in fact be opposite.
+
+It is important to be aware of the more common of these false pairs – the consequences of confusing them could be disastrous. For more information on this subject, see the glossary of easily confused words at the back of the book.
+
+####
+6.4 错误词对
+英语中很多单词看起来和听起来相似，但含义却大相径庭。
+
+典型的例子包括 principal 和 principal、affect 和 effect，以及 disinterested 和 uninterested。在某些情况下，例如 prescribe 和 proscribe，它们的含义实际上可能相反。
+
+务必注意这些更常见的错误词对——混淆它们的后果可能是灾难性的。有关此主题的更多信息，请参阅本书后面的易混淆词汇表。
+
+####
+EXERCISE 18
+Choose the correct word from the choices given in brackets in respect of each sentence. The answers can be found in the answer key at the back of the book.
+Alternatively, visit the Companion Website to access this question online.
+(1) You are not (eligible/illegible) to practise as a lawyer in this country unless you have received official authorisation to do so.
+(2) The testimony given by the witness was not entirely (credible/creditable).
+(3) I have always been completely (disinterested/uninterested) in what judges do in their spare time.
+(4) It is an important legal (principal/principle) that the accused should be presumed to be not guilty until proven guilty.
+(5) The present economic recession will (affect/effect) this company adversely.
+
+####
+练习 18
+从每个句子括号中的选项中选择正确的单词。答案可以在书后的答案中找到。
+或者，您也可以访问配套网站在线访问此问题。
+(1) 除非您获得官方授权，否则您无权 (eligible/illegible) 在本国执业为律师。
+(2) 证人提供的证词并不完全 (credible/creditable)。
+(3) 我一直对法官在业余时间做的事情完全 (disinterested/uninterested)。
+(4) 一项重要的法律 (principal/principal) 是，在被证明有罪之前，应推定被告无罪。
+(5) 当前的经济衰退将对这家公司产生不利影响 (effect/effect)。
+
+####
+6.5 PROBLEM WORDS 
+Certain words cause problems, either because they have a number of meanings or because it is unclear to writers when one word should be used instead of another. It may not be possible to avoid them – particularly since many such words are extremely useful (when used correctly) – but care should be taken when using the following words, among others.
+
+####
+6.5 问题词
+某些词语容易引发问题，要么是因为它们含义繁多，要么是作者不清楚何时该用一个词代替另一个词。这些问题可能无法避免——尤其是因为许多这类词语（如果使用得当）非常有用——但在使用以下词语时，应格外小心。
+
+6.5.1 Only
+Only, when used as an adverb, has four meanings:
+1 It can be used to mean ‘nothing or no one else but’ (‘only qualified lawyers are able to draft these documents’).
+2 It can also be used to mean ‘with the negative result that’ (‘he turned, only to find his path was blocked’).
+3 A further meaning is ‘no longer ago than’ (‘it was only on Thursday that the document arrived’).
+4 Lastly, it can mean ‘not until’ (‘we can finalise the contract only when the document arrives’).
+The positioning of this word in a sentence is of critical importance. The meaning of the whole sentence can change profoundly according to where it is placed.
+Generally, it should go immediately in front of the word or phrase which it is qualifying: for example, ‘the only cows are seen on the northern plain’ has a different meaning to ‘the cows are only seen on the northern plain’, which in turn has a different meaning to ‘the cows are seen on only the northern plain’.
+
+6.5.1 Only
+only 用作副词时，有四种含义：
+1 它可以表示“除了……之外，没有其他人”（“只有合格的律师才能起草这些文件”）。
+2 它也可以用来表示“结果不好”（“他转身，却发现路被堵住了”）。
+3 另一个含义是“不早于……”（“文件直到星期四才到达”）。
+4 最后，它可以表示“直到……才到达”（“只有文件到达后，我们才能最终确定合同”）。
+这个词在句子中的位置至关重要。整个句子的含义会根据它的位置发生巨大的变化。
+一般来说，它应该紧接着所修饰的单词或短语前面：例如，“the only cows are seen on the northern plain” 与“the cows are only seen on the northern plain” 的含义不同，而后者又与“the cows are seen on only the northern plain” 的含义不同。
+
+6.5.2 Fewer or less? 
+These words are often used incorrectly, even by native speakers of English.
+Fewer should be used with plural nouns, as in ‘eat fewer cakes’ or ‘there are fewer people here today’.
+Less should be used with nouns referring to things that cannot be counted, as in ‘there is less blossom on this tree’. It is wrong to use less with a plural noun (‘less people’, ‘less cakes’).
+
+6.5.2 Fewer 还是 less？
+这些词经常被误用，即使是英语母语人士也会犯同样的错误。
+Fewer 应该与复数名词连用，例如“eat less cakes”或“there are less people here today”。
+Less 应该与指代不可计数事物的名词连用，例如“这棵树上的花少了”。将 less 与复数名词连用是错误的（“less people”、“less cakes”）。
+
+6.5.3 Can or may? 
+Can is mainly used to mean ‘to be able to’, as in the sentence ‘Can he move?’, which means, is he physically able to move?
+
+May is used when asking to be allowed to do something as in ‘may we leave now?’, as can is thought to be less correct or less polite in such cases.
+
+6.5.3 Can 还是 may？
+Can 主要用来表示“能够”，例如在句子“Can he move?”中，意思是他身体上能动吗？
+
+may 用于请求允许做某事，例如“我们现在可以离开吗？”，因为在这种情况下，can 被认为不太正确或不太礼貌。
+
+6.5.4 Imply or infer? 
+Do not confuse the words imply and infer. They can describe the same situation, but from different points of view.
+
+If a speaker or writer implies something, as in ‘he implied that the manager was a fool’, it means that the person is suggesting something though not saying it directly.
+
+If you infer something from what has been said, as in ‘we inferred from his words that the manager is a fool’, this means that you come to the conclusion that this is what they really mean.
+
+6.5.4 暗示还是推断？
+不要混淆“暗示”和“推断”这两个词。它们可以描述同一种情况，但视角不同。
+
+如果说话者或作者暗示了某事，例如“他暗示经理是个傻瓜”，则表示该人虽然没有直接说出来，但却在暗示某事。
+
+如果根据所说内容推断某事，例如“我们从他的话中推断出经理是个傻瓜”，则表示你得出结论，这就是他们真正的意思。
+
+6.5.5 Non- or un-? 
+The prefixes non- and un- both mean ‘not’ but they tend to be used in slightly different ways. Non- is more neutral in meaning, while un- means an opposite and thus often suggests a particular bias or standpoint.
+
+For example, unnatural means that something is not natural in a bad way, whereas non-natural simply means ‘not natural’.
+
+As a consequence, where there is a genuine choice about which prefix to use, non- is preferred in legal writing (e.g. non-statutory instead of unstatutory).
+
+6.5.5 Non- 还是 un-？
+前缀 non- 和 un- 均表示“不”，但它们的用法略有不同。Non- 的含义更中性，而 un- 则表示相反的意思，因此常常暗示特定的偏见或立场。
+
+例如，unnatural 的意思是某事物以一种不好的方式不自然，而 non-natural 则仅仅表示“不自然”。
+
+因此，在法律文书中，如果要真正选择使用哪个前缀，则通常优先使用 non-（例如，non-statutory 而不是 unstatutory）。
+
+6.5.6 If or whether? 
+Although if can mean ‘whether’, it is better to use the word whether rather than if in writing (‘I’ll see whether he left an address’ rather than ‘I’ll see if he left an address’).
+
+6.5.6 If 还是 Whether？
+虽然 if 可以表示“是否”，但在书面语中最好使用“whether”而不是“if”（例如，“I’ll see if he left an address”而不是“I’ll see if he left an address”）。
+
+6.5.7 Specially or especially? 
+Although especially and specially can both mean ‘particularly’, they are not exactly the same. Especially also means ‘in particular, chiefly’, as in ‘he distrusted them all, especially Karen’, while specially also means ‘for a special purpose’ as in ‘the machine was specially built for this job’.
+
+6.5.7 Specially 还是 particularly？
+虽然 particularly 和 specially 都可以表示“特别地”，但它们并不完全相同。especially 也表示“特别是，主要是”，例如“他不信任他们所有人，尤其是凯伦”。而 specially 也表示“为了特殊目的”，例如“这台机器是专门为这项工作制造的”。
+
+6.5.8 Save
+Save usually means to rescue from harm or danger. However, it can also be used to mean ‘except’. It is frequently used in this sense in legal documents. For example: 
+No warranties are given save as to those set out in Schedule 3.
+
+6.5.8 拯救
+“拯救”通常指从伤害或危险中拯救出来。然而，它也可以表示“除了”。在法律文件中，它经常被用作此种含义。例如：
+除附表3中规定的保证外，不提供任何保证。
+
+6.5.9 Client or customer? 
+Generally speaking, businesses that provide professional services (e.g. lawyers, accountants) have clients, while businesses that sell products (e.g. retailers) have customers.
+
+6.5.9 客户还是顾客？
+一般来说，提供专业服务的企业（例如律师、会计师）有客户，而销售产品的企业（例如零售商）有顾客。
+
+####
+EXERCISE 19
+Choose the correct word from the alternatives provided in parentheses in the sentences below. The answers can be found in the answer key at the back of the book.
+
+Alternatively, visit the Companion Website to access this question online.
+(1) There are (less/fewer) risks in this transaction than I had previously assumed.
+(2) The hardware store did not have many (customers/clients) that morning.
+(3) It (can/may) be a good idea to send a copy of that document to the client.
+(4) I dislike all English food, (specially/especially) fish and chips.
+(5) I asked him to help me with this project but I’m afraid he was most (uncooperative/non-cooperative).
+
+####
+练习 19
+从以下句子括号中的选项中选择正确的单词。答案可以在本书后面的答案中找到。
+
+或者，您也可以访问配套网站在线访问此问题。
+(1) 这笔交易的风险比我之前预想的要小。
+(2) 那天早上，五金店的顾客不多。
+(3) 将该文件的副本发送给客户是个好主意。
+(4) 我不喜欢所有的英国食物，尤其是炸鱼薯条。
+(5) 我请他帮我做这个项目，但恐怕他很不合作。
+
+
+####################
+7	British and American English
+British and American English can be differentiated in three ways:
+1 Differences in language-use conventions: meaning and spelling of words, grammar and punctuation differences;
+2 Vocabulary. There are a number of important differences, particularly in business terminology;
+3 Differences in the ways of using English dictated by the different cultural values of the two countries.
+It is necessary to choose between British or American English and then apply the conventions of the version you choose consistently. If you muddle up British and American standards, it implies that you do not understand that they are different.
+
+####################
+7 英式英语和美式英语
+英式英语和美式英语可以从三个方面进行区分：
+1. 语言使用习惯的差异：词义和拼写、语法和标点符号的差异；
+2. 词汇的差异。两者之间存在许多重要的差异，尤其是在商业术语方面；
+3. 两国不同的文化价值观导致英语使用方式的差异。
+有必要在英式英语和美式英语之间做出选择，并始终如一地运用你选择的版本的习惯。如果你混淆了英式英语和美式英语的标准，则意味着你不了解它们的差异。
+
+####
+7.1 DIFFERENCES IN LANGUAGE-USE CONVENTIONS
+Here are some of the key differences in language-use conventions.
+1 Dates. In British English the standard way of writing dates is to put the day of the month as a figure, then the month (either as a figure or spelled out) and then the year. For example, 19 September 1973 or 19.09.73. The standard way of writing dates in American English is to put the month first (either as a figure or spelled out), then the day of the month, then the year. For example, September 19th 1973 or 9/19/73. Commas are also frequently inserted after the day of the month in the USA, for example, September 19, 1973.
+2 o and ou. In British English, the standard way of writing words that might include either the letter o or the letters ou is to use the ou form. For example, colour, humour, honour, behaviour. The standard way of writing such words in American English is to use only o. For example, color, humor, honor, behavior.
+3 Through. In American English, the word through (or thru) can be used to mean until. For example, ‘September 19th thru October 1st’, would be in British English ‘19 September until 1 October’.
+4 Hyphens. Hyphens are often used in British English to connect prefixes with the main word. For example, pre-emption, pre-trial, co-operation. They are less common in American English. For example, preemption, pretrial, cooperation.
+5 z or s? In British English, s is generally used in such words as recognise, authorise. The letter z is used in American English in such words as recognize or authorize. However, it is not wrong to use z in such words when using British English as standard.
+Note, however, that some words must always end in -ise, whether you are using British or American English standards. These include:
+
+advertise				|advise
+arise 					|comprise
+compromise 				|demise
+despise 				|devise
+disguise 				|enfranchise
+excise 					|exercise
+franchise 				|improvise
+incise 					|merchandise
+premise 				|revise
+supervise 				|surmise
+surprise 				|televise
+
+####
+7.1 语言使用惯例的差异
+以下是一些语言使用惯例的主要差异。
+1 日期。在英式英语中，日期的标准书写方式是先用数字表示日期，然后是月份（可以用数字或拼写），最后是年份。例如，19 September 1973 或 19.09.73。美式英语中日期的标准书写方式是先用数字表示月份（可以用数字或拼写），然后是日期，最后是年份。例如，September 19th 1973 或 9/19/73。在美国，逗号也经常出现在日期后面，例如，September 19, 1973。
+2 o 和 ou。在英式英语中，包含字母 o 或 ou 的单词的标准书写方式是使用 ou 形式。例如，colour、humour、honor、behavior。美式英语中，这些词的标准书写方式是只使用o。例如，color、humour、honor、behavior。
+3 Through。在美式英语中，through（或thru）可以用来表示until（直到）。例如，“9月19日至10月1日”在英式英语中是“9月19日至10月1日”。
+4 连字符。在英式英语中，连字符通常用于连接前缀和主词。例如，pre-emption、pre-trial、co-operation。在美式英语中，连字符不太常见。例如，preemption、pretrial、cooperation。
+5 z 还是 s？在英式英语中，s通常用于recognize、authorise等词中。在美式英语中，字母z用于recognize或authorize等词中。但是，以英式英语为标准，在这些词中使用z并没有错。
+但请注意，无论使用英式英语还是美式英语标准，有些单词必须以 -ise 结尾。这些单词包括：
+
+advertise | advise
+arise | comprise
+compromise | demise
+despise | devise
+disguise | enfranchise
+excise | exercise
+franchise | improvise
+incise | merchandise
+premise | revise
+supervise | surmise
+surprise | televise
+广告 | 建议
+出现 | 包含
+妥协 | 消亡
+鄙视 | 设计
+伪装 | 授予权利
+剥夺 | 行使
+特权 | 即兴发挥
+切割 | 商品
+前提 | 修改
+监督 | 推测
+惊喜 | 电视转播
+
+6 l or ll? In American English, a single l is used in such words as traveled or counseled. In British English, ll is used (e.g. travelled, counselled).
+Note, however, that in British English, some words which end in a double ll lose one l when a suffix is added: skill becomes skilfully, will becomes wilfully. In American English, the double ll is retained: skill becomes skillfully, will becomes willfully.
+7 -re or -er? In American English, the -er ending is used in words like theater, center, meter, and fiber. In British English, these words are spelt theatre, centre, metre, and fibre.
+8 oe and ae. Some scientific terms retain the use of the classical composite vowels oe and ae in British English. These include diarrhoea, anaesthetic, gynaecology, and homoeopathy. In American English, a single e replaces the composite vowel: diarrhea, anesthetic, gynecology, homeopathy.
+9 -e or -ue? In British English, the final silent -e or -ue is retained in such words as analogue, axe and catalogue. In American English, it is omitted: analog, ax, and catalog.
+10 -eable or -able? The silent e, produced when forming some adjectives with a suffix is generally used in British English in such words as likeable, unshakeable and ageing. In American English, it is generally left out: likable, unshakable, and aging. The e is however sometimes used in American English where it affects the sound of the preceding consonant: traceable or manageable.
+11 -ce or -se? In British English the verb that relates to a noun ending in -ce is sometimes given the ending -se. For example, advice (noun)/advise (verb), device/devise, licence/license, practice/practise. In American English the situation is more complicated. Both forms are used in advice/advise and device/devise, license is used for both noun and verb, and practice for both noun and verb. It also uses -se for other nouns, which in British English are spelt -ce, including defense, offense, pretense.
+12 Prepositions. In American English, it is acceptable to omit prepositions in certain situations. In British English, this habit is less common. For example, an American lawyer might find a certain clause in a contract to be ‘likely enforceable’. A British colleague would be more likely to say that it was ‘likely to be enforceable’. An American civil rights activist might ‘protest discrimination’, while his British colleagues would ‘protest against discrimination’.
+13 Have and got. In American English it is quite acceptable to use the word got without have in sentences like ‘I got two tickets for the show tonight’. In British English, it is more usual to say ‘I’ve got two tickets for the show tonight’.
+14 Gotten. Gotten is a proper word in American English, but is only used as an Americanism in British English, except in certain phrases such as ‘ill-gotten gains’.
+15 While or whilst? Both while and whilst are used in British English. In American English, while is the right word to use, and whilst is regarded as a pretentious affectation.
+
+6 l 还是 ll？在美式英语中，traveled 或 counseled 等词使用单个 l。在英式英语中，使用 ll（例如 travelled、councilled）。
+不过，请注意，在英式英语中，一些以双 ll 结尾的词在添加后缀时会少一个 l：skill 变成 skillfully，will 变成 wilfully。在美式英语中，保留了双 ll：skill 变成 skillfully，will 变成 willfully。
+7 -re 还是 -er？在美式英语中，-er 结尾用于 theatre、center、meter 和 fiber 等词。在英式英语中，这些词拼写为 theatre、centre、metre 和 fiber。
+8 oe 和 ae。一些科学术语在英式英语中保留了经典复合元音 oe 和 ae 的使用。这些包括 diarrhoea、anaesthetic、gynaecology 和 homoeopathy。在美式英语中，单个e代替复合元音：diarrhea（腹泻）、anesthetic（麻醉药）、gynecology（妇科）、homeopathy（顺势疗法）。
+9 -e 还是 -ue？在英式英语中，词尾不发音的-e或-ue在以下单词中保留，例如analogue、axe和catalogue。在美式英语中，它被省略：analog、ax和catalog。
+10 -eable 还是 -able？在构成一些带后缀的形容词时产生的不发音的e，在英式英语中通常用于likeable、unshakeable和ageing等单词。在美式英语中，它通常被省略：likable、unshakable和aging。然而，在美式英语中，e有时会影响前一个辅音的发音：traceable或manageable。
+11 -ce 还是 -se？在英式英语中，与以-ce结尾的名词相关的动词有时会被赋予词尾-se。例如，advice（名词）/advise（动词）、device/devise、license/license、practice/practise。美式英语中的情况更为复杂。advice/advise 和 device/devise 两种形式都使用，license 既可用于名词也可用于动词，practice 既可用于名词也可用于动词。美式英语还对其他名词使用 -se，这些名词在英式英语中拼写为 -ce，包括 defend、offense、pretense。
+12 介词。在美式英语中，在某些情况下可以省略介词。在英式英语中，这种习惯不太常见。例如，一位美国律师可能会认为合同中的某个条款“likely forceable”（很可能可执行）。而一位英国同事则更有可能说它“likely to be forceable”（很可能可执行）。一位美国民权活动家可能会“protest discrimination”（抗议歧视），而他的英国同事则会“protest against discrimination”（抗议歧视）。
+13 Have 和 got。在美式英语中，像“I got two tickets for the show tonight”（我今晚有两张演出票）这样的句子中，使用 got 而不带 have 是完全可以接受的。在英式英语中，更常见的说法是“I've got two tickets for the show tonight”（我今晚有两张演出票）。
+14 Gotten。Gotten 是美式英语中的专有名词，但在英式英语中，除了某些短语，例如“ill-gotten gains”（不义之财），它仅作为美式用法使用。
+15 While 还是 while？在英式英语中，while 和 while 都可用。在美式英语中，while 是正确的用法，而 while 则被认为是一种矫揉造作的矫揉造作。
+
+####
+7.2 VOCABULARY
+Here are some key vocabulary or spelling differences.
+
+7.2.1 Ordinary words and phrases 
+British 					|American
+aerial (TV) 				|antenna
+aluminium 					|aluminum
+anti-clockwise 				|counterclockwise
+at weekends 				|on weekends
+aubergine 					|eggplant
+autumn 						|fall
+banknote 					|bill
+bill 						|check
+biscuit 					|cookie
+braces 						|suspenders
+building society 			|savings and loan association
+calibre 					|caliber
+camp bed 					|cot
+car bonnet 					|hood
+car park 					|parking lot
+car windscreen 				|windshield
+caravan 					|trailer
+cheque (bank) 				|check
+chips 						|french fries (or, recently, ‘freedom fries’)
+cinema 						|movie theater
+clerk (bank) 				|teller
+clever 						|smart
+cling film 					|plastic wrap
+cooker 						|stove
+cosy 						|cozy
+courgette 					|zucchini
+crisps 						|potato chips
+crossroads/junction 		|intersection
+dialled 					|dialed
+dived 						|dove
+draught 					|draft
+dressing gown 				|bathrobe/housecoat/robe
+dual carriageway 			|four-lane highway
+estate agent 				|realtor/real estate agent
+film 						|movie
+flat 						|apartment
+flyover 					|overpass
+frying pan 					|skillet
+fuelled 					|fueled
+full stop (punctuation) 	|period
+give way 					|yield
+
+British 					|American
+grey 						|gray
+ground floor 				|first floor
+high street 				|main street
+holiday 					|vacation
+increase (of money) 		|hike
+lent 						|loaned
+lift 						|elevator
+lorry 						|truck
+maize/sweetcorn 			|corn
+manoeuvre 					|maneuver
+meet 						|meet with
+metre 						|meter
+motorway 					|highway, freeway, expressway,throughway
+mum 						|mom
+muslin 						|cheesecloth
+nappy 						|diaper
+oblige 						|obligate
+ordinary 					|regular, normal
+pants 						|underpants
+pavement 					|sidewalk
+petrol 						|gasoline, gas
+plough 						|plow
+post 						|mail
+power point 				|electrical outlet
+programme 					|program
+property (land) 			|real estate
+quarters (three-quarters) 	|fourths (three-fourths)
+queue 						|line, line-up
+rationalisation (personnel) |downsizing
+riding (horses) 			|horseback riding
+ring road 					|beltway
+rivalled 					|rivaled
+rowing boat 				|rowboat
+sceptical 					|skeptical
+sizeable 					|sizable
+skilful 					|skillful
+solicitor 					|attorney, lawyer
+sombre 						|somber
+stand (for election) 		|run
+starter 					|appetizer
+storey (of building) 		|story, floor
+stupid 						|dumb
+sweet shop 					|candy store
+tap 						|faucet
+tartan 						|plaid
+terraced house 				|row house
+till 						|checkout
+towards 					|toward
+transport 					|transportation
+trainers 					|sneakers
+travelled 					|traveled
+trousers 					|pants or slacks
+tyre 						|tire
+underground (or tube train) |subway
+upmarket 					|upscale
+vest 						|undershirt
+waistcoat 					|vest
+work out (problem) 			|figure out
+Yours faithfully 			|Respectfully yours/Yours truly
+Yours sincerely (letter) 	|Sincerely yours
+
+####
+7.2 词汇
+以下是一些关键词汇或拼写差异。
+
+7.2.1 常用单词和短语
+英式 | 美式
+天线（电视） | 天线
+铝 | 铝
+逆时针 | 逆时针
+周末 | 在周末
+茄子 | 茄子
+秋天 | 秋季
+钞票 | 钞票 | 支票
+饼干 | 曲奇饼
+背带 | 吊带
+建房互助协会 | 储蓄贷款协会
+口径 | 口径
+行军床 | 帆布床
+车罩 | 引擎盖
+停车场 | 停车场
+汽车挡风玻璃 | 挡风玻璃
+大篷车 | 拖车
+支票（银行） | 支票
+薯条 | 炸薯条（或最近称为“自由薯条”）
+电影院 | 电影院
+职员（银行） | 出纳员
+聪明 | 智能
+保鲜膜 | 塑料包装纸
+炊具 | 炉子
+舒适 | 舒适
+西葫芦 | 西葫芦
+薯片 | 薯片
+十字路口/交叉口 | 交叉路口
+已拨号|已拨号 |潜水 |鸽子 |穿堂风 |穿堂风
+晨衣 |浴袍/家居服/睡袍 |双车道 |四车道公路
+房地产经纪人 |房地产经纪人/房地产经纪人
+电影 |电影
+公寓 |公寓
+立交桥 |天桥
+煎锅 |长柄平底锅
+加油 |加油
+句号（标点符号） |句号
+让路 |让行
+
+英式 |美式
+灰色 |灰色
+底层 |一楼
+商业街 |主要街道
+假日 |休假
+（金钱的）增加 |徒步旅行
+借出的 |借出的
+升降机 |电梯
+卡车 |货车
+玉米/甜玉米 |玉米
+操纵 |操纵
+会合 |会合
+米 |米
+高速公路 |高速公路，快速路，快速公路，直达道路
+妈妈 |妈妈
+平纹细布 |粗棉布
+尿布 |尿布
+义务 |义务
+普通的|常规的，正常的
+裤子 |内裤
+人行道 |人行道
+汽油 |汽油，天然气
+犁 |犁
+邮局 |邮件
+电源插座 |电源插座
+程序 |程序
+财产（土地） |房地产
+四分之一（四分之三） |四分之一（四分之三）
+队列 |排队，排队
+合理化（人员） |裁员
+骑马 |骑马
+环城公路 |绕城公路
+竞争对手 |竞争对手
+划艇 |划艇
+怀疑的 |怀疑的
+相当大的 |相当大的
+熟练的 |熟练的
+律师 |律师，律师
+阴沉的 |阴沉的
+参选 |跑步
+开胃菜 |开胃菜
+（建筑物的）楼层 |楼层，地板
+愚蠢的 |愚蠢的
+糖果店 |糖果店
+水龙头 |水龙头
+格子呢 |格子呢
+排屋 |联排别墅
+收银机 |结账处
+朝向|朝向
+交通 |交通
+运动鞋 |运动鞋
+旅行 |旅行过
+裤子 |裤子或休闲裤
+轮胎 |轮胎
+地铁（或地铁列车） |地铁
+高档 |高档
+背心 |汗衫
+马甲 |背心
+解决（问题） |弄清楚
+此致 |此致
+此致（信） |此致
+
+7.2.2 Business and legal terminology 
+Note that some of these terms are not exactly equivalent or may be used interchangeably in some cases. For example, ‘competition law’ is often understood as a wider concept than ‘antitrust law’, and a large number of US terms (e.g. ‘par value’) are in relatively common use in British legal English.
+
+7.2.2 商业和法律术语
+请注意，其中一些术语并不完全相同，在某些情况下可能互换使用。例如，“竞争法”通常被理解为比“反垄断法”更广泛的概念，并且大量美国术语（例如“票面价值”）在英国法律英语中相对常用。

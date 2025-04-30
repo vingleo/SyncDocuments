@@ -350,3 +350,154 @@ analyses.
 
 
 Chapter 3 Following Best Practices for Kubernetes Backup
+IN THIS CHAPTER
+»» Focusing on the application as a whole
+»» Exploring and scaling the architecture
+»» Ensuring recoverability
+»» Easing operations
+»» Maintaining tight security in a multitenant environment
+»» Succeeding at restore while keeping it portable
+
+第三章 遵循 Kubernetes 备份的最佳实践
+本章内容
+»» 关注整个应用程序
+»» 探索和扩展架构
+»» 确保可恢复性
+»» 简化操作
+»» 在多租户环境中维护严密的安全性
+»» 成功恢复并保持其可移植性
+
+As outlined in Chapters 1 and 2, the Kubernetes environment is a world unto itself. What you used to do in terms of backup isn’t enough, and may not even work at all.
+This chapter focuses on some of the best practices for handling backup of your Kubernetes applications. It discusses the differences in architecture that require an application-centric focus, dives into the ways to ensure recoverability, and explores how a native backup system makes life easier for operations as the application scales up and down. It spotlights the importance of security considerations, even as multi-tenancy complicates matters.
+And it touches on the challenges of ever-evolving objects and APIs, and the importance of portability.
+正如第一章和第二章所述，Kubernetes 环境自成一体。您过去所做的备份工作远远不够，甚至可能根本行不通。
+本章重点介绍一些处理 Kubernetes 应用程序备份的最佳实践。它讨论了需要以应用程序为中心的架构差异，深入探讨了确保可恢复性的方法，并探索了原生备份系统如何在应用程序扩展和缩减时简化运维工作。它强调了安全考虑的重要性，即使多租户架构使问题变得更加复杂。
+它还探讨了不断发展的对象和 API 所带来的挑战，以及可移植性的重要性。
+
+Capturing the Application In the big picture, the application is the real focus of attention.
+
+The infrastructure is vital, but it’s there to make the application available and flexible. That has always been true, but that fact takes on special meaning in the context of Kubernetes, with its keen focus on developers, the applications they create, and the speed at which they develop and upgrade them.
+
+A platform so focused on the developer and the application requires a backup solution that also is application-centric. As put forth in Chapters 1 and 2, your backup must be Kubernetes-native to properly serve containerized applications in the Kubernetes world.
+
+掌控应用程序 从总体来看，应用程序才是真正关注的焦点。
+基础设施至关重要，但它的存在是为了确保应用程序的可用性和灵活性。这一点一直以来都是正确的，但在 Kubernetes 的背景下，这一事实具有特殊的意义，因为它高度关注开发者、他们创建的应用程序以及他们开发和升级应用程序的速度。
+
+一个如此专注于开发者和应用程序的平台需要一个同样以应用程序为中心的备份解决方案。正如第一章和第二章所述，您的备份必须是 Kubernetes 原生的，才能在 Kubernetes 世界中正确地服务于容器化应用程序。
+
+Being application-centric means understanding Kubernetes constructs
+rather than being focused on the infrastructure. It requires
+full application capture, protecting all components and not missing
+any resources, filters, or labels.
+以应用为中心意味着理解 Kubernetes 的构造，而不是专注于基础设施。它需要
+完整的应用程序捕获，保护所有组件，并且不遗漏任何资源、过滤器或标签。
+
+Tapping into the Architecture
+This book focuses specifically on Kubernetes backup, an essential part of the big picture of success on this platform. There’s no need for a super-deep dive on Kubernetes architecture for this purpose, but it’s helpful to spend a little time on the topic of architecture to really get a sense for how to implement a good backup strategy.
+
+Connecting the components
+To begin with, take a look at Figure 3-1 to see some of the primary components of a Kubernetes application. Among other things, you’ll see pods, services, certificates, secrets, and persistent volumes.
+
+An application in production will consist of hundreds of components like these. The question becomes, how do you best protect and restore data, as well as all of the other internal components?
+
+How do you do that at scale?
+
+You’ll be pleased to know that it’s not all up to you. Choose the right backup platform and it automatically interfaces with the Kubernetes control plane by way of the API server. Through this integration, the backup solution will discover Kubernetes applications running on the cluster. Then, it integrates with the underlying compute, network, and storage infrastructure.
+
+深入了解架构
+本书重点介绍 Kubernetes 备份，它是该平台成功的关键组成部分。本书无需深入研究 Kubernetes 架构，但花些时间了解一下架构主题，有助于真正了解如何实施良好的备份策略。
+
+连接组件
+首先，请参考图 3-1，了解 Kubernetes 应用程序的一些主要组件。其中包括 Pod、服务、证书、Secret 和持久卷。
+
+生产环境中的应用程序将包含数百个类似的组件。问题是，如何才能最好地保护和恢复数据以及所有其他内部组件？
+
+如何在大规模环境中做到这一点？
+
+您会很高兴地知道，这并非完全取决于您。选择合适的备份平台，它会通过 API 服务器自动与 Kubernetes 控制平面交互。通过这种集成，备份解决方案将发现集群上运行的 Kubernetes 应用程序。然后，它与底层计算、网络和存储基础设施集成。
+
+The first order of business is to discover the relationship between storage and applications. Then it’s a matter of figuring out the best way to capture application data that’s stored on persistent volumes, along with all the related application resources. This needs to be handled efficiently and consistently.
+
+Next up is determining the backup data location. That can be within the storage system to enable fast recovery, or if you’re running on one of the major cloud providers, going with durable snapshots. In most cases, though, it’s better to store backup data in an object storage system located in a different fault domain, one that could allow geo-replication for disaster recovery. “Better safe than sorry” is a simple but applicable way to roll.
+
+首要任务是发现存储与应用程序之间的关系。然后，需要找到捕获持久卷上存储的应用程序数据以及所有相关应用程序资源的最佳方法。这需要高效且一致地处理。
+
+接下来是确定备份数据的位置。备份数据可以位于存储系统内，以便快速恢复；如果您使用的是主流云服务提供商，则可以选择持久快照。不过，在大多数情况下，最好将备份数据存储在位于不同故障域的对象存储系统中，以便进行跨地域复制以实现灾难恢复。“稳妥行事，避免后悔”是一种简单但实用的方法。
+
+The 3-2-1 backup rule discussed in Chapter 2 is a good rule to follow when it comes to planning your backup. You need at least three copies of your data, they should be stored on two different media, and one copy should be stored offsite. Your data is at significantly greater risk if you don’t follow this basic approach.
+
+You have a couple more things to think about when it comes to storage integration in Kubernetes. First of all, you’ll see storage represented as persistent volumes, which are made available for use by the containers. You need to protect this key business data.
+
+And where are you going to keep that data? Local block storage?
+
+You might consider an object storage platform such as Amazon S3 or Microsoft Azure blob storage, if you’re running Kubernetes on-premises or offsite. Your consideration of secondary storage for backup data needs to reflect flexibility, choice, and ease of use.
+
+So, your basic to-do list in this area includes:
+
+Discover the relationship between applications and their storage.
+»»Determine how you’ll capture application data on persistent volumes.
+»»Decide where you’ll keep the backup, to ensure you’re in compliance with the 3-2-1 guidance.
+
+在规划备份时，第二章讨论的 3-2-1 备份规则是一个很好的参考。您至少需要三个数据副本，它们应该存储在两个不同的介质上，并且其中一个副本应该存储在异地。如果不遵循这一基本方法，您的数据将面临更大的风险。
+
+在 Kubernetes 中集成存储时，您还需要考虑一些事项。首先，您会看到存储以持久卷的形式呈现，可供容器使用。您需要保护这些关键业务数据。
+
+那么，这些数据要保存在哪里呢？本地块存储？
+
+如果您在本地或异地运行 Kubernetes，您可以考虑使用对象存储平台，例如 Amazon S3 或 Microsoft Azure Blob 存储。您对备份数据的辅助存储的考虑需要体现灵活性、选择性和易用性。
+
+因此，您在这方面的基本待办事项包括：
+
+»»了解应用程序与其存储之间的关系。
+»»确定如何在持久卷上捕获应用程序数据。
+»»确定备份的保存位置，以确保符合 3-2-1 指导原则。
+
+Whatever platform you use to protect Kubernetes applications, it must automatically discover all the components running on the cluster, and treat that application as the unit of atomicity. It’s vital for the application to include the state spanning across all storage volumes and databases, as well as the configurable data in Kubernetes objects, such as configmaps and secrets.
+无论使用什么平台保护 Kubernetes 应用程序，它都必须自动发现集群上运行的所有组件，并将该应用程序视为原子性单元。对于应用程序而言，至关重要的是包含跨所有存储卷和数据库的状态，以及 Kubernetes 对象（例如 configmap 和 secret）中的可配置数据。
+
+Scaling up
+There’s so much under-the-hood in an application running on Kubernetes. Applications are broken down into hundreds of different components with their own lifecycles, thanks to microservices and Kubernetes support for everything from configuration to secret handling. For the most part, this complexity is largely visible only to Kubernetes.
+
+It takes a cloud-native backup solution to handle all the millions of components in large clusters and understand the relationships between applications, the data they use, and the related Kubernetes state. Only a cloud-native solution can capture all of this at scale.
+
+Just as Kubernetes and cloud-native applications are built to easily scale up and down in response to load, backup solutions must be able to follow suit. Here’s what you should expect from your backup solution:
+»»Adopt the same cloud-native architectural pattern so that it can scale with application and cluster changes.
+»»Scale down to zero when not in use.
+»»Do these things automatically, with no need for manual operator input.
+
+扩展
+在 Kubernetes 上运行的应用程序背后隐藏着许多底层技术。得益于微服务和 Kubernetes 对从配置到密钥处理等所有环节的支持，应用程序被分解成数百个拥有各自生命周期的不同组件。在大多数情况下，这种复杂性只有 Kubernetes 才能感知。
+
+需要云原生备份解决方案来处理大型集群中数百万个组件，并了解应用程序、它们使用的数据以及相关 Kubernetes 状态之间的关系。只有云原生解决方案才能大规模捕获所有这些信息。
+
+正如 Kubernetes 和云原生应用程序能够根据负载轻松扩展和缩减一样，备份解决方案也必须能够做到。以下是您对备份解决方案的期望：
+»»采用相同的云原生架构模式，以便能够随着应用程序和集群的变化而扩展。
+»»不使用时缩减至零。
+»»自动执行这些操作，无需人工操作。
+
+With a backup platform that grows along with the cluster, you achieve the best performance. But you also save money, because its resource footprint is tied to current, instantaneously variable requirements, rather than peak load. Also, because the backup system scales up in linear fashion with the application and cluster growth, it’s a whole lot smoother. No step-function jumps like you’d see with an appliance-based model.
+
+The scale challenges get all the more complex with Kubernetes multi-cluster use increasing. There may be thousands of name spaces per cluster and hundreds of Kubernetes resources per name space.
+
+You’re seeing multiple clusters across environments, such as dev, staging, and prod. But there are also splits across the boundaries of applications, security, and teams. And clusters are deployed across multiple availability zones, regions, clouds, and onpremises data centers.
+
+That’s just a crazy potential operational burden, if it all had to be handled manually. It’s really not even possible, to be honest, unless you have a cloud-native backup platform that can handle multi-cluster operations, and offer global visibility across it all.
+
+Here are your essential steps related to scaling:
+»»Ensure that your backup solution is able to scale up and down in concert with the applications it is protecting.
+»»Determine how your solution will respond to the challenges of Kubernetes multi-clustering.
+
+借助可随集群扩展的备份平台，您可以实现最佳性能。同时，您还可以节省成本，因为它的资源占用与当前瞬时变化的需求（而非峰值负载）相关。此外，由于备份系统会随着应用程序和集群的增长而线性扩展，因此运行更加平稳。不会像基于设备的模型那样出现阶跃函数式的跳跃。
+
+随着 Kubernetes 多集群使用的增加，扩展挑战变得更加复杂。每个集群可能有数千个命名空间，每个命名空间可能有数百个 Kubernetes 资源。
+
+您会看到跨环境（例如开发、预发布和生产）的多个集群。但应用程序、安全和团队之间也存在分裂。集群部署在多个可用区、区域、云和本地数据中心。
+
+如果所有这些都必须手动处理，那将是一个巨大的潜在运维负担。说实话，除非您拥有一个能够处理多集群操作并提供全局可见性的云原生备份平台，否则这几乎不可能实现。
+
+以下是与扩展相关的基本步骤：
+»»确保您的备份解决方案能够与其所保护的应用程序协同扩展和缩减。
+»»确定您的解决方案将如何应对 Kubernetes 多集群带来的挑战。
+
+
+!!!!!未完整
