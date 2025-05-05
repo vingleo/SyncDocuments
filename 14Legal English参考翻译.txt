@@ -4041,3 +4041,6 @@ Note that some of these terms are not exactly equivalent or may be used intercha
 
 7.2.2 商业和法律术语
 请注意，其中一些术语并不完全相同，在某些情况下可能互换使用。例如，“竞争法”通常被理解为比“反垄断法”更广泛的概念，并且大量美国术语（例如“票面价值”）在英国法律英语中相对常用。
+
+
+
