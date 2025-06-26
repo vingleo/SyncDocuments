@@ -4042,5 +4042,120 @@ Note that some of these terms are not exactly equivalent or may be used intercha
 7.2.2 商业和法律术语
 请注意，其中一些术语并不完全相同，在某些情况下可能互换使用。例如，“竞争法”通常被理解为比“反垄断法”更广泛的概念，并且大量美国术语（例如“票面价值”）在英国法律英语中相对常用。
 
+British 				|American
+called to the bar 		|admitted to the bar
+competition law 		|antitrust law
+articles of association |bylaws
+balance sheet 			|statement of financial position
+bills 					|notes
+bonus or scrip issue 	|stock dividend or stock split
+company 				|corporation
+creditors 				|payables
+debtors 				|receivables
+depreciation 			|amortization
+employment law 			|labor law
+exceptional items 		|unusual items
+flotation 				|initial public offering (IPO)
+indemnify 				|hold harmless and indemnify
+land and buildings 		|real estate
+maintenance 			|alimony
+nominal value 			|par value
+ordinary shares 		|common stock
+preference shares 		|preferred stock
+profit and loss account |income statement
+provisions 				|allowances
+receivership 			|chapter 11 bankruptcy
+share premium 			|additional paid-in capital
+shareholders’ funds 	|stockholders’ equity
+stocks 					|inventories
+theft 					|larceny
+turnover 				|revenues
+undistributable reserves |restricted surplus
+
+英国 | 美国
+取得律师资格 | 律师资格
+竞争法 | 反垄断法
+公司章程 | 章程细则
+资产负债表 | 财务状况表
+票据 | 票据
+红利或股票发行 | 股票股息或股票分割
+公司 | 企业
+债权人 | 应付款项
+债务人 | 应收款项
+折旧 | 摊销
+雇佣法 | 劳动法
+例外项目 | 非常项目
+上市 | 首次公开募股 (IPO)
+赔偿 | 免责和赔偿
+土地和建筑物 | 房地产
+维修费 | 赡养费
+面值 | 票面价值
+普通股 | 普通股
+优先股 | 优先股
+损益表 | 损益表
+拨备 | 津贴
+接管 | 第11章破产
+股本溢价 | 额外实收资本
+股东资金 | 股东权益
+股票 | 存货
+盗窃|盗窃
+营业额 |收入
+不可分配储备金 |限制性盈余
+
+####
+7.3 DIFFERENCES RELATED TO CULTURAL VALUES 
+There are a number of differences between British and American English, which relate to the different cultural values of the two countries. For example, British English contains a number of frequently used metaphors relating to football (‘scoring an own goal’) and cricket (‘a sticky wicket’), while American English uses metaphors relating to baseball (‘in the ball park’).
+
+The two versions of the language also have certain tendencies that are worth bearing in mind. These are not absolute, since individual writers have their own styles, which may incorporate aspects of both British and American tendencies.
+However, in general:
+
+与两国不同的文化价值观相关。例如，英式英语包含许多与足球（“乌龙球”）和板球（“棘手的三柱门”）相关的常用隐喻，而美式英语则使用与棒球（“在球场上”）相关的隐喻。
+
+两种语言版本也各有其独特的倾向，值得注意。这些倾向并非绝对，因为每个作家都有自己的风格，可能融合了英式和美式的倾向。
+然而，总体而言：
+
+● British English tends to react more slowly to new words and phrases than American English. American English enthusiastically adopts new usages, some of which later pass into general use (e.g. corporate citizen, social performance), and some die out after a short period in fashion (e.g. synergy).
+● British English has a slight tendency to vagueness and ponderous diction.
+American English (at its best) tends to be more direct and vivid.
+● American English tends to be more slangy than British English.
+● Both American and British English are keen on euphemisms. In British English, these are often used for humorous purposes (e.g. to be economical with the truth) or to smooth over something unpleasant.
+In American English they may be used for prudish reasons (thus lavatory or WC becomes restroom or bathroom), to make something mundane sound important (thus ratcatcher becomes rodent operative), or to cover up the truth of something unpleasant (thus civilian deaths in war become collateral damage).
+● American English has a tendency to lengthen unnecessarily existing words in an effort to make them sound more important (thus transport becomes transportation).
+
+● 英式英语对新词汇和短语的反应往往比美式英语慢。美式英语积极地吸收新用法，其中一些后来成为普遍使用（例如企业公民、社会绩效），而另一些则在短暂流行后逐渐消亡（例如协同效应）。
+● 英式英语略显含糊和冗长的措辞。
+美式英语（在其最佳状态下）往往更直接、更生动。
+● 美式英语比英式英语更偏向俚语。
+● 美式英语和英式英语都热衷于使用委婉语。在英式英语中，委婉语通常用于幽默目的（例如，尽量避免使用事实）或掩饰不愉快的事情。
+在美式英语中，它们可能出于拘谨的原因而被使用（因此 lavatory 或 WC 变成 restroom 或 bathroom），使平凡的事物听起来很重要（因此 ratcatcher 变成 rodent operative），或掩盖不愉快的事情的真相（因此战争中的平民死亡变成附带损害）。
+● 美式英语倾向于延长不必要的现有单词，以使它们听起来更重要（因此 transport 变成 transportation）。
+
+####
+EXERCISE 20
+The passage below is written in British English. Put it into American English.
+A model answer can be found in the answer key at the back of the book.
+Alternatively, visit the Companion Website to access this question online.
+We signed the document on 19 October 2007 in my solicitor’s city centre offices after a great deal of complex manoeuvring fuelled by the need to establish a manageable programme for the transport of maize by lorry. It was a grey, rainy autumn day, which I remember well, because I arrived at the office rather late, after getting stuck in a traffic jam on the anti-clockwise section of ring road – on the flyover just past the Daventry crossroads in fact.
+
+I parked the car in the car park next to the estate agent’s office, placed my ticket on the windscreen, and threw my empty crisp bag into the rubbish bin.
+
+Then I climbed the stairs to Mr. Smith’s first floor office. I recall that Smith was wearing a rather striking waistcoat, in a lurid purple colour, together with truly appalling tartan trousers and braces. His idea of humour, I thought.
+
+‘Have a biscuit’, said Smith, as we started looking at the document. ‘I dare say traffic on the motorway was bad this morning?’ I made no comment, but began to look over the text whilst Smith skilfully explained the document to me: ‘this paragraph obliges the other party to make payment in case of default, and this one provides for pre-emption . . .’ I listened sceptically.
+
+Smith then explained that the other side had authorised a company called Dartingley Hoardings to install aerials in city centre flats at weekends from 20 November 2008 to 19 November 2009. Payment for these services was to be made from a building society account. ‘Is that clever?’ I asked. Smith thought it would have no effect on company turnover.
+
+下面这段话是用英式英语写的。请把它译成美式英语。
+范文可以在本书后面的答案中找到。
+或者，您也可以访问配套网站在线查看此问题。
+2007年10月19日，我们在我的律师位于市中心的办公室签署了这份文件，此前我们经历了一系列复杂的程序，因为需要制定一个可管理的卡车玉米运输计划。那是一个阴雨绵绵的秋日，我记得很清楚，因为我到办公室的时候已经很晚了，因为堵在了环城公路逆时针方向的路段——实际上是在过了达文特里十字路口的立交桥上。
+
+我把车停在房地产经纪人办公室旁边的停车场，把罚单放在挡风玻璃上，然后把空的薯片袋扔进了垃圾桶。
+
+然后我爬上楼梯，来到史密斯先生位于二楼的办公室。我记得史密斯当时穿着一件相当醒目的背心，颜色是鲜艳的紫色，搭配着令人作呕的格子呢裤子和背带。我想，这就是他的幽默感吧。
+
+“吃块饼干吧，”史密斯说着，我们开始翻看文件。“我敢说今天早上高速公路的交通状况很糟糕吧？”我没有评论，只是开始浏览文本，而史密斯则熟练地向我解释文件的内容：“这一段规定，如果对方违约，对方有义务付款，而这一段规定了优先购买权……”我满怀怀疑地听着。
+
+史密斯随后解释说，对方已授权一家名为达廷利围墙公司（Dartingley Hoardings）的公司，在2008年11月20日至2009年11月19日的周末在市中心的公寓楼安装天线。这些服务的费用将从建房互助协会的账户中支付。“这很聪明吗？”我问道。史密斯认为这不会对公司营业额产生影响。
 
 

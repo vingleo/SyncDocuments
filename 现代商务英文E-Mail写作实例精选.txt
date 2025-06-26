@@ -1,4 +1,130 @@
 现代商务英文E-Mail写作实例精选
+
+第三章 日常工作类英文电子邮件实例
+3.1 欢迎和欢送
+人员流动在现代社会是很普遍的。当新员工来报到时,人事部主管会向大家作介绍,以表欢迎。当有职员要离开时,通常有人牵头组织大家一起吃顿午饭表示欢送。午饭一般采取AA制,参加者自付饭费。组织者这时会提前几天发电子邮件让大家报名,然后去预订餐位。同时,电子邮件中需要注明饭店的名字,位置和午饭时间。
+
+欢迎
+3.1 例1
+				Welcome
+Deal all，
+    Caroline Allen will be joining the MRI as a Project Officer with systematic Reviews。 Caroline starts work on Monday. Please make her welcome.
+
+Thanks
+Miranda Carr	
+
+Notes
+1. MRI: Medical Research Institue 医学研究所
+
+
+3.1 例2  
+				Reception
+Dear Staff，
+    Sabrina Zhang has commenced work at the MRI, undertaking finance/administration duties. Sabrina will, on a roster basis , be working on the reception as part of her role. She will provide this service each lunch hour during the day and in two afternoons each week, usually Tuesdays and Fridays.
+	Please make Sabrina welcome.
+	
+Thanks
+Miranda Carr
+
+				Words & Expressions
+commence v.  着手，开始 
+undertake v. 承担，从事
+
+Notes
+1. on a roster basis:基本上做轮班
+
+欢送
+3.1 例1
+				Shirley's Leaving Lunch
+Dear all，
+    Next Thursday will be Shirley Wonder's last day at the MRI, we will be having lunch at the Hampshire Hotel from 12pm. If you would like to join shirley then please use the voting buttons on this mail to confirm your attendance.
+    If you could let me know by the end of the week then I can book a table.
+
+cheers
+Louisa
+
+				Words & Expressions
+confirm v.确认
+attendance n. 出席，参加
+	
+Notes
+1. cheers:是常见用语,很口语化。西方人很爱说"cheers”。比如,邮递员送快递，接收的人签了字,随口都会说"cheers”。"cheers"在不同的场合有不同的意思，在宴会上是指“干杯";用于信的结尾是指“谢谢"或较为随意的问候,没有“Regards”正式。
+
+3.1 例2
+				Farewell Lunch for Karen Lee
+Hi all,
+    As you are all no doubt sware, Thursday is karen's last day at the MRI before she leaves to prepare for the exciting new addition to her family.
+	Please use the voting buttons to indicate if you are able to join us for lunch to farewell Karen and wish her all the best.
+Venue: Hampshire Hotel
+Date: Thursday 29 June
+Time： 12 noon
+    I will leave a menu for ordering at the Oncology reception counter. (There is quite a collection there, so take care to fill out the correct one)
+	
+Cheers
+Anne
+
+				Words & Expressions
+aware n. 知道，发觉
+indicate v. 表示，指出
+farewell a.告别的，送行的
+
+Notes
+1. no doubt :无疑地。
+2. Oncology :n.肿瘤学。
+3. reception counter:接待台。
+
+3.2临别感言
+    一些员工工作了一段时间后,会因各种原因离开单位。有的是因为找到了新工作;有的是要去休产假;有的要到海外脱产学习;有老板炒雇员鱿鱼的,也有雇员主动辞职炒老板鱿鱼的。总之,无论是何种原因,高兴或不高兴的,将要离开的人都会出于礼貌,写下临别感言,以表达他们离别前的心情。另外,如果他们临走前收到了礼品,还会对送礼品的人表示感谢。
+    有时,写邮件不像写信那样正式,如果写一两句话能说明白,就无需长篇大论。由于临走的人心情各不相同.有的人只想说一两句话,不想多说(如3.2例11);还有的人本人不愿出面而让别人代言(如3.2例12)。3.2例13是一个特殊的例子, Bernard在发表了一番感慨后亲自邀请大家参加他的告别午餐。看得出,他是很不情愿走的。
+
+3.2 例1
+				Thanks and see you next year
+Hi everyone,
+    Just a quick note to say thanks very much for the activities planned to commemorates my farewell this week including the tear jerker slide presentation on Wednesday and lovely farewell lunch today. I feel very special and I am rethinking the grounds of my decision to move so fare away. I will miss my team immensely.
+	It's been a great 4 years. I have learnt much and I am 	looking forward to my research fellowship in Canada.
+	I will be contactable on my e-mail address but for Oncology related matters please contact Danielle Miller who will be in the role of Program Manager.
+	I look forward to working with you all again when I am back August 2009.
+	
+Best wishes,
+Burcu
+
+大家好！
+非常感谢大家本周为纪念我的告别而安排的活动，包括周三催人泪下的幻灯片演示和今天丰盛的告别午餐。我感觉非常特别，正在重新思考我决定搬到这么远的地方的理由。我会非常想念我的团队。
+过去四年过得很愉快。我学到了很多，并期待着在加拿大的研究奖学金。
+您可以通过我的电子邮件地址联系我，但肿瘤学相关事宜请联系Danielle Miller，她将担任项目经理。
+期待2009年8月回来后再次与大家合作。
+
+祝好，
+Burcu
+
+				Words & Expressions
+commemorate v. 纪念
+immensely ad. （口语）非常地
+contactable a. 能够联系到的
+
+Notes
+1. tear jerker：（习惯用法）使人想哭的，非常感人的。
+2. the grounds of my decision: 我这么决定的理由。
+3. look forward to :期待
+
+3.2 例 2
+				Thanks and bye!
+Hi all, 
+    Thank you for the lovely lunch, card and present. I'm looking forward to hitting Myer baby department with the gift card!
+	It's been a real pleasure working with you all for the last year. Even though I am very relieved to be finishing up so that I can have a break, I will really miss seeing your friendly faces here every day.
+	
+See you next July.
+Karen
+
+Notes
+1. Myer: 商场名字
+2. have a break: 休息
+
+3.2 例3 
+				Thank you and see you in 12 months!
+				
+
+***************************************
 3.5	有关人事安排
 3.5	例1
 
@@ -48,6 +174,16 @@ reception	n.	接待,招待;招待会.
 	★ sales and account managers.
 	If you would like to attend please advise me by 2:30 pm today.
 	
+	该大学已委托澳大利亚管理学院 (AIM) 举办为期两天的合同管理课程。课程将于12月1日（星期五）和12月4日（星期一）举行。课程详情如下：
+本课程旨在帮助参与商品和服务买卖的人员了解合同管理流程。
+通过各种实践活动，包括练习、案例研究和谈判角色扮演，学员将能够实践合同规划和管理的概念和技巧，直至成功签订合同。该课程还注重培养通过协作方式建立可持续关系所需的人际交往技能。
+祝您学习愉快，并在接下来的两天里学习宝贵的理解技能和知识，以帮助您提高积极参与和管理合同的能力。
+本合同管理课程面向以下人群：
+★ 参与商品和服务买卖流程的任何人；
+★ 经理、团队领导和主管；
+★ 销售和客户经理。
+如果您想参加，请于今天下午 2:30 之前通知我。
+	
 	Thanks
 	Miranda Carr
 	
@@ -81,36 +217,104 @@ reception	n.	接待,招待;招待会.
 		
 3.7 会议记录与总结
 	无论在公司，还是在学校或研究所，凡是有工作经历的人， 一定参加过许多这样或者那样的会议。会议的种类大致有总结会、研讨会、计划工作会等等。通常，比较正式的会议都要有会议记录。会议记录把工作总结、会议决议以及今后工作的计划记录归档，以供相关人员交流或日后查看。会议记录要求文字简洁、重点突出、内容详实。会议记录一般包括会议召开与结束的时间、地点、主持人、参加者、发言者、特邀嘉宾、会议进行过程及内容等。
-	
+    在有些单位,最典型也是参加者最多的会议是全体职员会议。会议主题视情况而定,有时可能是领导传达有关信息,有时可能是由来自各部门的代表发言汇报前一阶段任务完成情况、目前工作进展和近期工作计划。做会议记录的人在会后要把会议记录以邮件的形式发送给相关的人土。
+
+    下面的例子是一个完整的会议记录。
+
 		
 3.7 	例
-	Minutes of General Staff Meeting, 3th May 2008
+				Minutes of General Staff Meeting, 3th May 2008
 	The meeting opened at 9:30 am with Dana in the Chair.
 	New staff/staff changes: Tatiana has moved from Oncology to Statistics. Anne Palmer has joined Oncology.
 	
-	REPORTS FROM TRIAL GROUPS
+REPORTS FROM TRIAL GROUPS
 	
-	Oncolgy:
+Oncolgy:
 		Pip reported that interviews for clinical trials assistants, data managers and study monitors will take place this week to work on the new trials.
 		A workshop relating to public health was held at the Cancer Council. This was facilitated by Paul Butow and was designed to teach data managers and research nurses practical skills in communicating with patients.
 		Data is currently being cleaned and the database improved. Team members are being realigned and contractors are to be hired to help with data management.
+肿瘤科：
+		Pip 报告称，本周将对临床试验助理、数据管理员和研究监察员进行面试，以参与新试验。癌症委员会举办了一场与公共卫生相关的研讨会。研讨会由 Paul Butow 主持，旨在教授数据管理员和研究护士与患者沟通的实用技巧。
+		目前正在清理数据并改进数据库。团队成员正在调整，并将聘请承包商协助数据管理。
+
 		
-	Cardiology:
-		Sarah reported that 6955 patientsws have been recruited. There are 22 active sites in Australia and New Zealand. There will be 30 sites altogether in the next couple of months. Ann Ratcliffe has been working on organising the sites, as well as producing a newsletter.
+Cardiology:
+		Sarah reported that 6955 patients have been recruited. There are 22 active sites in Australia and New Zealand. There will be 30 sites altogether in the next couple of months. Ann Ratcliffe has been working on organising the sites, as well as producing a newsletter.
+心脏病学：
+		Sarah 报告称，已招募 6955 名患者。澳大利亚和新西兰共有 22 个活跃的研究中心。未来几个月将新增 30 个研究中心。Ann Ratcliffe 一直致力于组织这些研究中心的工作，并撰写简报。	
 	
-	Gastroenterology:
+Gastroenterology:
 		Shirley reported that Nicole and Megan are working on the National Clinical Trials Register. A grant application relating to radiotherapy has been submitted.
 	
-	Systermatic Reviews:
+Systermatic Reviews:
 		Sally reported that there is one new project for Cardiology group. It will start from next monnth.
 	
-	Statistics:
+Statistics:
 		Vincent reported that he is working with Anna on internal audits for each of MRI groups.
 		Miranda reported that a position of Head of Data Management has been advertised and applications are still beding received. Even though the position has been unfilled for quite a while, the work is still beding covered by Kathleen and Wendy, as well as Phillipa.
 	
-	IT:
-	    Paul stated that things are "humming along" with work on oncology data
+IT:
+	    Paul stated that things are "humming along" with work on oncology data specialfications. Sarah is improving the database. The second part of the drug system is being worked on. Daniel has now returned from leaving to the infrastructure group, which is especially concerned at the moment with the area of worms and viruses. The MRI has purchased a new software for Oncollogy group and Shirley has set up a massive training roster for trial design for 20 to 30 peolple, commencing next week.
+		保罗表示，肿瘤数据专业化工作进展顺利。莎拉正在改进数据库。药物系统的第二部分正在开发中。丹尼尔刚刚离开基础设施小组，现在回来了，该小组目前特别关注蠕虫和病毒领域。MRI 为肿瘤学小组购买了一款新软件，雪莉则为 20 到 30 人建立了一个庞大的试验设计培训名册，将于下周开始。
 		
+Education:
+		Vincent reported that the Education committee decided to run the Introductory Data Management course, both externally and internally, possibly at the end of August.
 	
+Publications:
+		Rush reported that there were two new publications —— Daisy in Journal of Evidence-Basted Dental Practice.
+		Dana mentioned that 3 PhD theses have been submitted recently by Wendy, Simon and Helen.
+
+Grants:
+		Five grant applications have been submitted from the Oncology area,  four as multi-state Cancer Council applications and one to National Breast Cancer Foundation.
+		Simon has submmited an application relating to the national assessment of safety and quality of health care in Australia.
+		
+Administration/HR:
+		Miranda mentioned the painting, currently in progress, and that a request has been made to have lighting installed in the car park as , now that daylight saving has ended, it is dark there soon after 5 pm.
+		Arrangements will be made to have the dishwasher fixed and to buy a new microwave and a refrigerator.
+		On the HR side, Miranda reported that shortlisting is taking place for clinical trails assistant positions and that applicants will be interviewed next week for levels 6-8 positions in Cardiology and Oncology, data management and Systematic Reviews. A clinical trials assistant traning program will be put in place, with the introductory data management course incorporated into this. Feedback on the program will be requested.
+		
+Finance:
+		Dana referred to the ongoing development of budget and costing models.
+		
+Meetings:
+		Sonia will attend a meeting in Singaporre on 14th and 15th June relating to clinical trials regulations and operations.
+		The group from the National Taiwan University Hospital will visit again on 20th May to have further discussions in relation to setting up a clincial trials centre in Taiwan.
+		There being no further business, the general staff meeting closed at 10:10 am.
+
+Monica Edwards
+
+				Words & Expressions
+assessment
+audit
+cardiology
+clinical
+facilitate
+feedback
+gastroenterology
+grant
+hurn
+infrastructure
+journal
+massive
+monitor
+ongoing
+purchase
+radiotherapy
+roster
+submit
+virus
+worm
+
+Notes
+1. in the Chair: （在文中指）做会议主持人。
+2. HR: human resource 人力资源。
+3. refer to:提到，提及
+		
+3.8 取消会议或讲座
+
+3.8 例1 Cancellation of IT meeting
+
+
+		
 	
 	

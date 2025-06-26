@@ -1,16 +1,25 @@
 PART I 系统清理要点 
 
+
+一、笔记本上要清理的
 1. 清理 QQ安装目录下的文件  d:\Program Files (x86)\Tencent\用户ID\FileRecv  ||d:\Program Files (x86)\Tencent\QQ\用户ID\FileRecv
-2. 用户目录下的私人文件
-3. IE浏览器历史记录
-4. 微信文件C:\Users\ware\Documents\WeChat Files\vingleo\FileStorage\File\2020-03
+2. 用户目录下的私人文件（C:\Users\ware\Documents> 全部文档）
+3. IE浏览器历史记录、 Chrome浏览器、Firefox全部目录
+4. 微信文件 
+通用设置——清空聊天记录、存储空间管理
+C:\Users\ware\Documents\WeChat Files\vingleo 所有
 5. 清理钉钉文件
 6. 各类文档打开记录
-7. SSH的秘钥：公钥/私钥
-8. 邮箱文件。 Outlook 
+7. SSH的秘钥：公钥/私钥（MobaXterm 目录d:\Program Files\MobaXterm\）
+8. 邮箱文件。 Outlook （D:\mail\leo20200324.pst 和 D:\mail\ware_wang@amaxgs.com.pst）
 9. idea下的 settings.xml (c:\Users\ware\.m2\)
-10. 印象笔记的数据文件（本地和云备份），账号密码
+10. 印象笔记的数据文件（本地d:\印象笔记\），账号密码
+11. Stickies（标签——所有内容需要单独手工备份）
+12. MobaXtern 文件夹全部复制后删除
+13. d:\Courses\ 所有文件    和 d:\temp\待上传文件\ 所有文件
 
+二、台式机上要清理的
+1. 
 
 
 以上可以制作成一键清理脚本，待补充
@@ -45,7 +54,7 @@ ftp的配置文件——d:\Program Files\TotalCMD64\Wcx_ftp.ini
 22. JDK（JRE1.8.0以上）
 23. 翻译软件Lingoes
 24. Mozilla Firefox火狐
-25. Notepad++
+25. Notepad++ （插件--python script 注意备份d:\Program Files\Notepad++\plugins\Config\PythonScript\scripts\下）
 26. Acrobat X PDF 制作工具
 27. PDF PDF Password Remover v3.1 汉化绿色版
 28. PDF查看工具（Acrobat  Reader、SumatraPDF）
@@ -73,5 +82,33 @@ ftp的配置文件——d:\Program Files\TotalCMD64\Wcx_ftp.ini
 50. 爱思助手 
 
 
+Part III 需转移资料
+1. e:\docker-images\
+
+Part IV 所有虚拟机 上需要清理的资料
+1. 所有用到 clash 的地方都清理掉（114上的可执行程序清理掉）
+2. 所有temcity agent 上的hoost 清理掉。 
+3. 所有用户环境变量中代理清理掉
+
+
+
+简历补充
+TestLink   bitnami产品 使用 Mariadb 测试用例
+
+邮箱设置自动转发
+
+辞职通知书
+1. 提前30天
+2. 具体日期
+3. 书面工作交接清单（交接同事和领导）
+
+
+公司主营产品或服务。企业性质：民营、外资等
+
+
+餐补
+通信费
+班车
+工作时间，工作地点，工作内容，年假
 
 
