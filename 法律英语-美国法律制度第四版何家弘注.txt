@@ -295,35 +295,179 @@ shares of corporate stock,and negotiable instruments.其他种类不太有形的
 【63】 the reported decisions of American courts:收入判例汇编的美国法院判决。
 【64】 legal commentary:法律评论。
 
+::Exercises 练习
+1. Questions about the text :
+①　What is a contract?
+②　Please give some examples about tangible things and intangible things.
+③　What are the individual rights that may need legal protection?
+④　What acts are criminal but not tortious?
+⑤　What acts are tortious but not criminal?
+⑥　Why do people want to convey the right of ownership to some other persons?
+⑦　What is the function of contract law in our society ?
+⑧　What are the sources of contract law?
+⑨　What are the differences between judicial opinions and statutory law?
+⑩　What is the Restatement of Contracts?
+1. 关于文章的问题：
+①什么是合同？
+②请举例说明有形物和无形物。
+③哪些个人权利可能需要法律保护？
+④哪些行为构成犯罪但不构成侵权？
+⑤哪些行为构成侵权但不构成犯罪？
+⑥为什么人们想要将所有权转让给他人？
+⑦合同法在我们的社会中起着什么作用？
+⑧合同法的渊源有哪些？
+⑨司法意见和成文法之间有哪些区别？
+⑩什么是《合同法重述》？
+
+2. Listening comprehension:Williams v. Walker-Thomas Furniture Co.
+　　Ms. Williams has seven children and is separated from her husband. She has a limited　formal education and maintains her household with the assistance of public funds. She　made a series of purchases of household goods from the Walker-Thomas Furniture Co.from 1957 to 1962. These purchases included sheets，curtains，rugs，chairs，beds,mattresses，a washing machine and most recently a stereo set.
+　　Each of the items was purchased on an installment plan agreement which Ms. Williamssigned.The installment plan agreement included fourteen contracts and each contained along paragraph in extremely fine print.Part of that section provided that each paymentmade by the purchaser would be applied to the entire outstanding balance due. So eachpayment would actually pay a little bit of each purchased item's balance remaining.Thefurniture store retained the rights of ownership ( title) to each item purchased until theamount due was paid.
+　　Ms. William's last purchase was a stereo unit for $ 514.She failed to make therequired payments and as a result，the furniture company sought to take back everythingshe had previously purchased，even though her total outstanding balance beforepurchasing the stereo set was just $ 164.The total amount of her purchases was $ 1,800.Her total payments amounted to $ 1,400.
+　　At the trial，Ms. Williams admitted that she had signed the installment purchase　contracts but contended that she had not read them before signing.The case was before theCourt of Appeals for District of Columbia in 1965.
+
+2. 听力理解：威廉姆斯诉沃克-托马斯家具公司案
+　　威廉姆斯女士育有七个孩子，与丈夫分居。她受过的正规教育有限，依靠公共资金维持家庭生活。1957年至1962年，她从沃克-托马斯家具公司购买了一系列家居用品。这些物品包括床单、窗帘、地毯、椅子、床、床垫、洗衣机，以及最近购买的立体声音响。
+　　每件物品均以威廉姆斯女士签署的分期付款协议购买。该分期付款协议包含十四份合同，每份合同都包含一段极其精细的文字。该条款规定，购买者支付的每笔款项都将用于支付全部未偿余额。因此，每笔付款实际上只会支付每件所购商品剩余余额的一小部分。家具店保留对每件所购商品的所有权，直至到期款项付清。
+　　威廉女士上次购买的是一台价值514美元的立体声音响。由于她未能按时付款，家具公司试图收回她之前购买的所有商品，尽管在购买这台立体声音响之前，她的未偿余额仅为 164 美元。她购买的所有商品总金额为 1,800 美元，而她支付的总金额为 1,400 美元。
+　　在审判中，威廉姆斯女士承认她签署了分期付款购买合同，但辩称她在签署前没有仔细阅读过这些合同。该案于 1965 年在哥伦比亚特区上诉法院审理。
+
+3. Mock trial:Williams v. Walker-Thomas Furniture Co.
+①　Reference information about the case:
+I. Who was the plaintiff in the original trial?
+ll. Who was the defendant in the case?
+III. Who won the case in the original trial?
+IV. How much money had Ms. Williams paid to the Co. before buying the stereo set?
+V. How much money was Ms. Williams last payment?
+VI. Is a stereo set a necessity of life?
+VlI. Is the contract a standard-form contract?
+②　Instructions:
+A. The students are divided into three groups: group one is the advocate team for Ms.Williams, the appellor; group two is the advocate team for Walker-Thomas Furnitwre Co., the appellee; group three is the panel of judge.
+B. The three groups discuss the case separately and select at least two speakers for the mock trial.
+C. The two litigant groups give their arguments in the mock trial; and then the judge group gives its comments and judgement.
+3. 模拟审判：Williams诉Walker-Thomas家具公司案
+①
+案例参考信息：
+I. 原审原告是谁？
+II. 本案被告是谁？
+III. 谁在原审中胜诉？
+IV. Williams女士在购买音响之前向公司支付了多少钱？
+V. Williams女士最后一笔付款是多少钱？
+VI. 音响是生活必需品吗？
+VI. 本合同是格式合同吗？
+②
+说明：
+A. 学生分为三组：第一组为上诉人Williams女士的辩护团队；第二组为被上诉人Walker-Thomas家具公司的辩护团队；第三组为法官小组。
+B. 三组分别讨论案件，并选择至少两位发言人进行模拟审判。
+C.模拟庭审中，双方诉讼组分别进行辩论，由法官组进行评论和裁判。
 
 
+Supplementary Reading 补充读物及参考译文
+    I agreed to repair your bike. You agreed to pay me S 5(). I repaired your bike. You
+gave me S 25. I threatened to sue. After all, we did have an oral contract. Is it enforceable?
+Usually, it is, but the party seeking to enforce it must establish the existence of the
+contract as well as its actual terms. Naturally, when the parties have no written documents
+or memoranda about the contract, only oral testimony can be uæd in court to establish the
+existence of the terms of the contract. The problem with oral testimony is that parties are
+willing to in order to win lawsuits. Ihis led to an early
+English statute that some contracts must be in writing to be enforceable. This act was
+known as "an act for the prevention of frauds and It became more commonly know as the Statute of Frauds.
+    Today almost every state has a statute of frauds, modeled after the English act. Ihe
+actual name is misleading since it neither applies to fraud nor invalidates any of
+contract. Rather, it denies to certain contracts that do not comply with its
+requirements. Although the statutes vary slightly from state to state, with certain
+exceptions they all require the following types of contracts to be in writing or evidenced by a written memorandum:
+1. Contracts involving an interest in land;
+2. Contracts that cannot by their terms be within one year from date of formation;
+3. Collateral contracts such as promises to answer for the debt or duty of another and by the administrator or executor of an estate to pay a debt of the estate personally,that is, out of his or her own pocket;
+4. Promises made in consideration of marriage;
+5. Contracts for the sale of goods for more than $ 500.
+　　A contract calling for the sale of land is not enforceable unless it is in writing or evidenced by a written memorandum. Land is real prcFty and includes all physical objects that are attached to the soil, such as buildings, plants, trees. and soil itself. The statute of frauds as a defenæ to the of an oral contract for the sale of land. If S contracts orally to sell Blackacre to B but later decides not to sell, B cannot enforce the contract. Likewise, if B refuses to close the deal , S cannot B to pay for the land by bringing a lawsuit. Ihe statute of frauds is a defense to the enforcement of this typ of oral contract.
+　　The statute of frauds applied not only to the sale of land but also to the sale or transfer of any interest in land. A life estate is an ownership interest in land as æcurity for the repayment of a loan. The transfer of this interest is also required to be in writing to be enforceable.
+　　An easement is a legal right to land without owning it. Easements are created expressly or implicitly. An express easement when the owner of land expressly agrees to allow another to uæ the land. To be this agreement must be in writing. Implied easements can from past conduct of the parties, and by its nature , implied, such an easement need not be in writing to be enforceable.
+　　A lease is a transfer of of real estate for certain of time. Most states have statutes dealing with leaæs apart from the statute of frauds and exempt leases of less than one year from the writing requirement, that any lasting more than one year must be in writing. states extend this For example, Indiana allows leases to be oral for up to three years.
+　　Since the statute of frauds is a against enforcement of an oral contract for the of land or an interest in land, problems ariæ when an oral contract has been partially If the seller of land conveys title to the buyer, then the buyer's oral to pay is enforceable. Conversely, if the buyer has paid part of the purchase price and taken possession of the premises or made improvements to the the oral promise to convey title to the will be enforceable.
+　　On the other hand, when the purchase price has been paid, but the buyer has not taken possession, the parties can be returned to their original positions, so the courts will usually not grant specific performance. The test of whether specific performance will be granted is whether the parties can be returned to their original positions. If not, the courts will maneuver to find a contract that is enforceable outside the statute of frauds.
+　　Contracts that cannot, by their own terms, be within one year from the date the contract is formed must be in writing to be enforceable. Since disputes over such contracts are unlikely to occur until q.»me time after the contracts are made, resolution of these disputes is difficult unless the contract terms have been put in writing.
+　　In order for a particular contract to fall into this category, contract must be objectively impossible within a year from the date of contract formation. If the contract , by its terms. is possible (not probable) to perform within the year, the contract is not within the statute of frauds and need not be in writing.
+　　In summary, the test to determine whether an oral contract is under the one-year rule of the statute of fraud is not whether an agreement is likely to be within a year from the date of making the contract. Rather, the question revolves around whether within a year is Conversely, when of an oral mntract is impossible during a one-year this provision of the statute of frauds will bar recovery on the oral contract.
 
-
-
-
-
-
+ReferenceTranslations　参考译文
+　　我同意修理你的自行车，你同意付我美元。我修理了你的自行车，你给我25美元。我威胁说要去起诉。我们毕竟有一个口头合同。它可以强制执行吗？通常来说是可以的，不过那寻求强制执行的一方必须证明该合同及其实际内容的存在。很自然，在当事人没有关于合同的书面文件或备忘录时，在法庭上只能用口头证言来证明合同条款的存在。使用口头证言的准题在于当事人有时自己愿意去做伪证以便贏得诉讼。这就导致了英国早期一项法律的产生，该法律规定某些合同必须有书面形式才可以强制执行。这项法律被称为“预防诈欺和伪证条例"，但后来便通称为“诈欺条例"（或译“反诈欺法”）。
+　　目前，几乎美国的每个州都有按照该英国条例的模式制定的反诈欺法。这个实际名称会使人误解，因为它既不适用于诈欺行为也不使任何种类的合同无效。其实，它只是否定了那些不符合其要求之合同的可强制执行性。虽然各州的反诈欺法略有不同，但是除某些特殊情况外，各州均要求下列合同必须具有书面形式或有书面备忘录佐证：
+1. 涉及上地权益的合同；
+2. 按合同条款规定不能在订立之日后一年内履行的合同；
+3. 附属（担保）合同，如为他人的债务或义务作保的许诺；遗产管理人或遗产执行人同意个人偿还一一即自己掏腰包一一遗产债务的许诺；
+4. 以婚姻为约因的许诺；
+5. 价款超过500 美元之货物的买卖合同。
+　　要进行土地买卖的合同必须以书面形式或有书面备忘录佐证，否则不能强制执行。土地是不动产，而且包括所有固定地附属于该土地的实物，如建筑物、农作物、树木和土壤本身。反诈欺法发挥着抗阻强制执行口头土地买卖合同的功能。假如甲口头约定将布莱克田地卖给乙但后来又决定不卖了，乙不能强制执行该约定。同样，如果乙后来拒绝完成该交易，甲也不能通过起诉来强迫乙支付该土地的价款。反诈欺法就是抗阻强制执行这类口头合同的依据。
+　　反欺诈法不仅适用于土地买卖，而且适用于任何土地权益的买卖或转让。终身财产权是作为返还贷款之担保的一种土地所有益。这种担保权益的转让也必须有书面形式才能强制执行。
+　　地役权是一种在不拥有某块土地而使用之的法律权益。地役权的设定可以是明示的也可以是默示的。当土地所有人以明确的方式同意让他人使用其土地时，明示的地役权便产生了。要想能强制执行，这个协议必须有书面形式。默示的地役权可以由当事人过去的行为而产生，而且因其性质时默示的，所以这种协议不需要有书面形式来强制执行。
+　　租赁是不动产的占有权在一定时期内的转让。多数州都在反欺诈法之外另有法律专门固定租赁的问题，而且免除不足一年租赁协议的书面要求，因此任何期限超过一年的租赁协议都必须有书面形式。有些州放宽了这一期限。例如，印第安纳州允许口头租赁协议的期限长达三年。
+　　由于反欺诈法是阻抗强制执行有关土地买卖或土地权益之口头合同的一个依据，所以当一项口头合同已被部分履行时便产生了问题。如果土地出让方已将产权证书交给了买方，则买方的口头付款许诺就是可以强制执行的。反之，如果买方已经支付了部分价款并占有了该地产或者对改地产做了永久性改善，则卖方交付该财产产权证书的口头许诺就是可以强制执行的。
+　　另一方面，如购买价款虽已支付，但买方尚未占有，且双方均可恢复原状，那么法院通常不会给出特定履行的判决。是否应判决特定履行的标准在于双方当事人能否恢复原状。如果不能，法院则会设法找到一个在反诈欺法之外可以强制执行的合同。
+　　那些按其本身条款规定不能再合同订立之日后一年内履行的合同必须有书面形式才能强制执行。由于关于此种合同的纠纷一般都要在该合同订立之后的某个时间才会发生，所以这些纠纷的解决就十分困难，除非该合同条款已经书面写成。
+　　要将某个具体合同置入这一范畴，从合同订立之日起在一年之内履行该合同必须已无客观上的可能性。如果该合同根据其本条款可能（不是很可能）在一年之内履行，那么它就不属于反诈欺法规定的范围，因而也不必用书面形式。
+　　总之，确定一项口头合同应否按反诈欺法的一年期规则强制执行的标准不在于一项协议是否会在合同订立之日后一年内履行。其实，问题的核心在于一年内履行是否可能。反之，如果一项口头合同不可能在一年期间履行，那么反诈欺法的这一规定就会禁止就该口头合同的索偿。
                      
 第九课	合同与合同法
-	当我们使用“合同”一词的时候，通常是说它是一份存在于两方或三方之间的契约。它不是一种简单的信任，而是通常理解为合同的一方或双方在将来的时候都要去做的某种事情。有时候，“合同”也用来指一套包括四部分内容的文件。对于律师而言，“合同”通常是指具有法律效力的协议，即设置了一种法律义务，当某行为没有按照预先约定的那样去履行时，可以依照合同去依法强制执行。【对于律师而言，“合同”通常是指当某方没有按照预先约定履行义务时，当事人可以依照这个文件依法强制对方去履行的法律协议书。】这种翻译方式比较符合现代汉语的句式结构，但是在口译时比较费劲。因此，有时候，在一次交易中，区分三种不同的因素就变得非常必要，这些因素中的每个因素都可以叫做合同；（1）双方之间的事实合同（2）书面合同，它可能与事实合同不完全一致（3）基于前（1）（2）两项而对应产生的权利和义务。注：此段的“合同”是基于我国《合同法》的分类而翻译的，《合同法》规定了“事实合同”“书面合同”，而非“事实协议”“书面协议”。5.在权利义务问题上，如果情况可以允许，我们可做到不用去努力阐明这种短少但包含法律意义的界定情况，那么它就强烈建议我们在早已设定好的合同和现行法律（定义）框架下的去审视在（订立）创制合同中律师和法官（角色）作用，他们会解决各方行为引发的争执以及对违约行为以恰当的形式进行补偿。
-	在英美法体系中，有相当大部分的法律都明确或者间接的规定了所有权这个敏感的问题。从一台推土机、一枚钻戒到帝国大厦、小说《飘》，都可能是一个人或者一些人的财产。这意味着国家将保护所有权人对其所有物的使用、享受甚至是毁灭的权利，同时排除他人对此行为的干涉。按照惯例，第一年的财产课程会侧重于英美法律对财产保护的详细规定，诸如土地和地上物等不动产的所有权的细化性规定。然后，你将会学习到基本是对版权、专利权、股权、可转让票据等无形财产的所有权的法律保护。
-	任何社会一旦承认财产的所有权，那么它就必须解决如何处置“侵犯财产权”的的问题。财产权不是由法律简单地保护的一种个体性权利。甚至，社会不允许财产所有权个人肆意同意他人创设某种随意侵害他人身体或其他有损他人个体自由或者尊严的行为的权利。关于（财产权的保护）这个问题，刑法和民事侵权行为法有自己有不同的规定：刑法侧重于对个人和财产性权利不受妨害的保护，即社会认为这些犯罪行为的危险性已经严重到须以一系列刑法惩处发可阻止的程度。比如抢劫、强奸、谋杀都是明显的例子。民事侵权法则认为对于个体的伤害应基于有效的赔偿。由行为在本质上的不同，因此，刑法和民事侵权法及时有很大部分是重合的，但两者并不完全相同。许多行为由于他们侵犯的不是个体而是国家，因此它们不是民事侵权行为而是刑事犯罪，比如，叛国罪、偷税罪；而诸如诽谤则是民事侵权行为而非犯罪行为。
-	在上述情况下，合同法是如何运用的呢？我们已经注意到我们的社会已经承认并保护一系列的人身性和财产性权利。最初的财产所有权，包括使用和消灭自有物的权利，但通过许多判例，它发展为所在权人有交易或转让的权利，对于交换中的许多人来说，这种所有权具有更高的价值，它可能是金钱，也可能是其他财产的所有权。一架钢琴对于会演奏它的人来说，价值要远高于那些不会弹奏的人；两个相邻的不动产，可能比两个彼此独立的不动产捆绑销售更有价值。同样的，当一家机器工厂拥有一群可以工作的技师和工人，有独立可靠的原材料供应渠道和加工产品时所需的专利许可的时候，它的所有权的价值要更高。为交换而订立的合同，意味着它可以集中并大量的被使用。这种合同数量巨大，要求在购买货物或者服务的时候，即时支付合同规定的价钱，比如买早报、汉堡包或者去理发。然而，进行那些重要的买卖合同的时候，合同通常会规定双方将在未来相当长的一段时间里要去履行的行为和计划。为了保护基于合同的约定而在未来的时候，任何一方都履行自己合同义务的可期待性，合同法已成为我们社会对此予以调整的法律途径。比如转让有形和无形的财产、提供服务行为、支付报酬。
-	在更加细致地检查合同法之前，这里我们应指出必须先要弄清楚今年你们能遇到到不同的实体法之间的关系，这种关系有时候被描述的过于简单化。法律为题并不总是很巧合地按照法律体系调整的类别来发生，有一些法律问题通常须由几个部门法共同来解决。例如，在课程里将会学到有多种欺诈行为合同法和侵权行为法都会调整到。传统上，地主与佃农之间出租土地契约的法律效力由财产法规则调整，但近年来，法院更倾向于使用传统意义上的合同法来分析他们的法律效力。法谚有云：“法网致密，无有疏漏”，尽管这种情况从来不会出现。可是，研习法律的老师和学生都应该小心不要陷入一个错误思维的窠臼：我们不同类型的法律都是坚不可破且永恒不变的，实际上它们并不这样。
+　　当我们使用“合同”一词的时候，通常是说它是一份存在于两方或三方之间的契约。它不是一种简单的信任，而是通常理解为合同的一方或双方在将来的时候都要去做的某种事情。有时候，“合同”也用来指一套包括四部分内容的文件。对于律师而言，“合同”通常是指具有法律效力的协议，即设置了一种法律义务，当某行为没有按照预先约定的那样去履行时，可以依照合同去依法强制执行。【对于律师而言，“合同”通常是指当某方没有按照预先约定履行义务时，当事人可以依照这个文件依法强制对方去履行的法律协议书。】这种翻译方式比较符合现代汉语的句式结构，但是在口译时比较费劲。因此，有时候，在一次交易中，区分三种不同的因素就变得非常必要，这些因素中的每个因素都可以叫做合同；（1）双方之间的事实合同（2）书面合同，它可能与事实合同不完全一致（3）基于前（1）（2）两项而对应产生的权利和义务。注：此段的“合同”是基于我国《合同法》的分类而翻译的，《合同法》规定了“事实合同”“书面合同”，而非“事实协议”“书面协议”。5.在权利义务问题上，如果情况可以允许，我们可做到不用去努力阐明这种短少但包含法律意义的界定情况，那么它就强烈建议我们在早已设定好的合同和现行法律（定义）框架下的去审视在（订立）创制合同中律师和法官（角色）作用，他们会解决各方行为引发的争执以及对违约行为以恰当的形式进行补偿。
+　　在英美法体系中，有相当大部分的法律都明确或者间接的规定了所有权这个敏感的问题。从一台推土机、一枚钻戒到帝国大厦、小说《飘》，都可能是一个人或者一些人的财产。这意味着国家将保护所有权人对其所有物的使用、享受甚至是毁灭的权利，同时排除他人对此行为的干涉。按照惯例，第一年的财产课程会侧重于英美法律对财产保护的详细规定，诸如土地和地上物等不动产的所有权的细化性规定。然后，你将会学习到基本是对版权、专利权、股权、可转让票据等无形财产的所有权的法律保护。
+　　任何社会一旦承认财产的所有权，那么它就必须解决如何处置“侵犯财产权”的的问题。财产权不是由法律简单地保护的一种个体性权利。甚至，社会不允许财产所有权个人肆意同意他人创设某种随意侵害他人身体或其他有损他人个体自由或者尊严的行为的权利。关于（财产权的保护）这个问题，刑法和民事侵权行为法有自己有不同的规定：刑法侧重于对个人和财产性权利不受妨害的保护，即社会认为这些犯罪行为的危险性已经严重到须以一系列刑法惩处发可阻止的程度。比如抢劫、强奸、谋杀都是明显的例子。民事侵权法则认为对于个体的伤害应基于有效的赔偿。由行为在本质上的不同，因此，刑法和民事侵权法及时有很大部分是重合的，但两者并不完全相同。许多行为由于他们侵犯的不是个体而是国家，因此它们不是民事侵权行为而是刑事犯罪，比如，叛国罪、偷税罪；而诸如诽谤则是民事侵权行为而非犯罪行为。
+　　在上述情况下，合同法是如何运用的呢？我们已经注意到我们的社会已经承认并保护一系列的人身性和财产性权利。最初的财产所有权，包括使用和消灭自有物的权利，但通过许多判例，它发展为所在权人有交易或转让的权利，对于交换中的许多人来说，这种所有权具有更高的价值，它可能是金钱，也可能是其他财产的所有权。一架钢琴对于会演奏它的人来说，价值要远高于那些不会弹奏的人；两个相邻的不动产，可能比两个彼此独立的不动产捆绑销售更有价值。同样的，当一家机器工厂拥有一群可以工作的技师和工人，有独立可靠的原材料供应渠道和加工产品时所需的专利许可的时候，它的所有权的价值要更高。为交换而订立的合同，意味着它可以集中并大量的被使用。这种合同数量巨大，要求在购买货物或者服务的时候，即时支付合同规定的价钱，比如买早报、汉堡包或者去理发。然而，进行那些重要的买卖合同的时候，合同通常会规定双方将在未来相当长的一段时间里要去履行的行为和计划。为了保护基于合同的约定而在未来的时候，任何一方都履行自己合同义务的可期待性，合同法已成为我们社会对此予以调整的法律途径。比如转让有形和无形的财产、提供服务行为、支付报酬。
+　　在更加细致地检查合同法之前，这里我们应指出必须先要弄清楚今年你们能遇到到不同的实体法之间的关系，这种关系有时候被描述的过于简单化。法律为题并不总是很巧合地按照法律体系调整的类别来发生，有一些法律问题通常须由几个部门法共同来解决。例如，在课程里将会学到有多种欺诈行为合同法和侵权行为法都会调整到。传统上，地主与佃农之间出租土地契约的法律效力由财产法规则调整，但近年来，法院更倾向于使用传统意义上的合同法来分析他们的法律效力。法谚有云：“法网致密，无有疏漏”，尽管这种情况从来不会出现。可是，研习法律的老师和学生都应该小心不要陷入一个错误思维的窠臼：我们不同类型的法律都是坚不可破且永恒不变的，实际上它们并不这样。
 	
 第二部分	合同法的法律渊源
-	上面已经分析过合同法的概念了，那接下来，我们就要解决“如何寻找合同法”这个问题。法院是依据什么情况效力和什么授权来制定他们的所争论的合同法的规则呢？我们认为，有关合同法的效力渊源通常有2个：首要法律渊源和次要法律渊源。律师和法官通常认为首要法源是法律本身，它包括判例法（也就是把案例判决集中起来，我们称之为普通法的法律）和制定法和条例，以及相类似的适用规则，诸如基于某份裁定而合理地根据某种目的阐述某个部门法的作用范围的规则。次要法源，也许像任何事情一样，很难准确地定义它对法院的影响，我们认为，次要法源包括两种具有劝诱性的法源，即法学家评论和美国法学会出版的《法律重述汇编》，他们对普通法中的合同法已经产生了深深地影响。
-	作为一个重要的例外情况，合同法在很大程度上是由法官制定出来的普通法，这部法律的许多规则是法官们对先前的判决进行提炼和概括后而制定的。因此，今年你们的首要任务之一是学会如何读、理解和阐述使用法院的裁决。你一开始就会被发现，这些法律像是以一种外语的形式写下来的，诸如技术术语。法律语言充满了奇怪的词语，像“要求赔偿违法行为所造成的损失诉讼”和“无合同规定时，按照合理价格支付”，同时，它们具有不同的含义，且并不相似，比如对价、要约。
-	我们现在做出判决的法律体系，通常说是一种“遵循先例原则”的体系，它是对先前的判决或决定的坚持。先例是一种先前的决定，它有与将要做出判决案件相似的案件事实，法院认为必须迫使自己去遵守并提出与之类似的裁决。以判例为主要依据的法律制度通常从两个方面证明其合理性。第一，要求欲判决案件与先例在本质上具有高度一致性，法官据此去查明欲判决案件将适用的法律。第二，要求对法官个人对某些案件的癖好、个人情感因素以及其他我们可以看作是对决的有个人倾向的因素上加以控制。这种情况下的法律体系具有明显的特征：有时候是非常有效的，有时候是失败的。这些源于法律体系的稳定与保守，通常有助于法律令状的持续稳定。
-	然而，有时候一个判例法法官盲从一个先例判决会对在审案件造成不公平的结果。实际上，有很多方法可以避免这种情况的出现。一个先例是否失去效力，通常由作出它的法院或是这个法院的上级法院来认定。而在其他情况下，对于下级法院或其他无管辖权的法院对此只能做劝诱性的结论。在后一种情况下，这个先例实际上不具有“约束性”，法官及可以不考虑他而自由裁判。如果先例不仅是建议性的，而且是无效的，它及不能被简单地忽略掉，而是可以被忽略掉，排除在法官的考虑范围之外。如果目前的预判案件与先例不具有本质上的一致性或必要性，法院会把这个案件与先例区别开来，做出不同的判决。如果判例已处于事实上的无效，尽管这很难并且不太可能区分，仍有一个别外的一种方法使之无效。如果欲判决法院是做出判例的法院或是其上级法院，那就很简单地宣布这个先例无效。宣布判例无效并不对这个判例中诉讼双方的权利义务产生回溯性的改变，它只是改变了欲判决案件所适用的裁判规则。宣布无效被认为是一种严格的行为，法院通常在认为判例所建立的规则是非常错误地是偶才适用。比如，“不公正”通常可以理解为“一开始被错误的表达”或者“因后来发展而过时废弃了”。
-	事实上，合同法发端于英裔美国人制定的普通法而非制定法。直到本世纪，这一法律传统最著名的例外就是“反欺诈行为法”的制定，它首先制定于英格兰，然后，在美国各州都适用。这部法律固定：合同一经签订就订有法院强制执行力的效果。就像我们看到的这部“反欺诈行为法”法典本身已经因法院的判决而失去了原有的制定法的特色，这意味着它具有比现代意义上的制定法具有更多的普通法的特色。但总体而言，即使到了今天，除了受到现代著名的具有里程碑式的《美国统一商法典》的影响外，以这种方式修改合同法仍然是很少见的。
-	在决定使用某部法律来制裁某个案件的时候，法院会探求各普通法法律原则的各自不同适用问题。任何法院，即使是联邦最高法院，都会按照现行有效法律的规定范围去适用这部法律。这种适用义务源于当今社会的一个基本的政治信条，即在宪法授权的范围内制定法律，立法机关享有最终的立法权。因此，立法机关可以根据它的意图变更或废止任何普通法的条款。当然，有时候法律用语会有多种理解，这种情况下，法院为使法律发挥更好的效果，通常会探寻最符合立法机关立法时的意图。有时候，立法史资料包括立法资料，大会报告等等，都可以用来说明立法意图。
-	1923年，美国法学会成立。这个组织的最重要的科研项目是对诸如合同法、侵权法、财产法在内的各种领域的普通法规则的权威和真实目的进行论证和确立。【原意是“准备”和“出版”】这种《法律重述》于1932年由美国法学会正式出版，并最成功地被法官和律师界所引用。但在1932年之前的几年里，它的雏形文本就已经面世了。《法律重述》像一部法律，“黑体字”代表基本原则，或者对某个最佳原则，或者对某个最佳原则抵触的案例。另外，大多数章节至少都有法学家评论和注释作为论据支持。对于任何一个法官或者法院而言，美国司法协会出版的任何一部《法律重述》都没有法律强制力。尽管对各部门法的《法律重述》仅仅是本部门法的次要法源，但是事实上《法律重述》有着相当显著的说服力，经常有法院为了论证某个问题的公正性，就直接引用和援引《法律重述》的原文或者是相关观点的适用规则。
-	自1932年《法律重述》出版以来，合同法体系已经发生了实质性的发展，美国司法协会从1962年开始准备对《法律重述》进行修订。最终，此修订于1979年完成。《法律重述（二版）》更换了许多《一版》中裁决所依据的哲学原则模式。在损害多样性和不确定性问题上，《法律重述（一版）》往往强调规则的普遍适用性和可预测性，而《二版》则试图辅以评论和编者按，去证明《一版》中宁愿忽略对这些问题的复杂性的讨论，以及试图去建议对自由裁量权的必要限制。
-	尽管《法律重述》是次要法源。但《法律重述》中有关合同法的部分已经实实在在的影响到法官如何任何普通法中合同法的应有含义。或许没有其他次要法源可以对法律产生如此的影响。但纵观这几年来出版的各种书籍、文章、条约汇编，他们已经开始对美国法院判例集中公布的浩繁的合同案例进行分析、评价，综合归纳。这些著作的作者们着意探究法律的本意，读未决案件提出判决建议，对某些案件中的问题展开激烈的讨论。综上，这种（类型的）法律评论已经对普通法中的合同法的形成进程产生了决定性的影响。
+　　上面已经分析过合同法的概念了，那接下来，我们就要解决“如何寻找合同法”这个问题。法院是依据什么情况效力和什么授权来制定他们的所争论的合同法的规则呢？我们认为，有关合同法的效力渊源通常有2个：首要法律渊源和次要法律渊源。律师和法官通常认为首要法源是法律本身，它包括判例法（也就是把案例判决集中起来，我们称之为普通法的法律）和制定法和条例，以及相类似的适用规则，诸如基于某份裁定而合理地根据某种目的阐述某个部门法的作用范围的规则。次要法源，也许像任何事情一样，很难准确地定义它对法院的影响，我们认为，次要法源包括两种具有劝诱性的法源，即法学家评论和美国法学会出版的《法律重述汇编》，他们对普通法中的合同法已经产生了深深地影响。
+　　作为一个重要的例外情况，合同法在很大程度上是由法官制定出来的普通法，这部法律的许多规则是法官们对先前的判决进行提炼和概括后而制定的。因此，今年你们的首要任务之一是学会如何读、理解和阐述使用法院的裁决。你一开始就会被发现，这些法律像是以一种外语的形式写下来的，诸如技术术语。法律语言充满了奇怪的词语，像“要求赔偿违法行为所造成的损失诉讼”和“无合同规定时，按照合理价格支付”，同时，它们具有不同的含义，且并不相似，比如对价、要约。
+　　我们现在做出判决的法律体系，通常说是一种“遵循先例原则”的体系，它是对先前的判决或决定的坚持。先例是一种先前的决定，它有与将要做出判决案件相似的案件事实，法院认为必须迫使自己去遵守并提出与之类似的裁决。以判例为主要依据的法律制度通常从两个方面证明其合理性。第一，要求欲判决案件与先例在本质上具有高度一致性，法官据此去查明欲判决案件将适用的法律。第二，要求对法官个人对某些案件的癖好、个人情感因素以及其他我们可以看作是对决的有个人倾向的因素上加以控制。这种情况下的法律体系具有明显的特征：有时候是非常有效的，有时候是失败的。这些源于法律体系的稳定与保守，通常有助于法律令状的持续稳定。
+　　然而，有时候一个判例法法官盲从一个先例判决会对在审案件造成不公平的结果。实际上，有很多方法可以避免这种情况的出现。一个先例是否失去效力，通常由作出它的法院或是这个法院的上级法院来认定。而在其他情况下，对于下级法院或其他无管辖权的法院对此只能做劝诱性的结论。在后一种情况下，这个先例实际上不具有“约束性”，法官及可以不考虑他而自由裁判。如果先例不仅是建议性的，而且是无效的，它及不能被简单地忽略掉，而是可以被忽略掉，排除在法官的考虑范围之外。如果目前的预判案件与先例不具有本质上的一致性或必要性，法院会把这个案件与先例区别开来，做出不同的判决。如果判例已处于事实上的无效，尽管这很难并且不太可能区分，仍有一个别外的一种方法使之无效。如果欲判决法院是做出判例的法院或是其上级法院，那就很简单地宣布这个先例无效。宣布判例无效并不对这个判例中诉讼双方的权利义务产生回溯性的改变，它只是改变了欲判决案件所适用的裁判规则。宣布无效被认为是一种严格的行为，法院通常在认为判例所建立的规则是非常错误地是偶才适用。比如，“不公正”通常可以理解为“一开始被错误的表达”或者“因后来发展而过时废弃了”。
+　　事实上，合同法发端于英裔美国人制定的普通法而非制定法。直到本世纪，这一法律传统最著名的例外就是“反欺诈行为法”的制定，它首先制定于英格兰，然后，在美国各州都适用。这部法律固定：合同一经签订就订有法院强制执行力的效果。就像我们看到的这部“反欺诈行为法”法典本身已经因法院的判决而失去了原有的制定法的特色，这意味着它具有比现代意义上的制定法具有更多的普通法的特色。但总体而言，即使到了今天，除了受到现代著名的具有里程碑式的《美国统一商法典》的影响外，以这种方式修改合同法仍然是很少见的。
+　　在决定使用某部法律来制裁某个案件的时候，法院会探求各普通法法律原则的各自不同适用问题。任何法院，即使是联邦最高法院，都会按照现行有效法律的规定范围去适用这部法律。这种适用义务源于当今社会的一个基本的政治信条，即在宪法授权的范围内制定法律，立法机关享有最终的立法权。因此，立法机关可以根据它的意图变更或废止任何普通法的条款。当然，有时候法律用语会有多种理解，这种情况下，法院为使法律发挥更好的效果，通常会探寻最符合立法机关立法时的意图。有时候，立法史资料包括立法资料，大会报告等等，都可以用来说明立法意图。
+　　1923年，美国法学会成立。这个组织的最重要的科研项目是对诸如合同法、侵权法、财产法在内的各种领域的普通法规则的权威和真实目的进行论证和确立。【原意是“准备”和“出版”】这种《法律重述》于1932年由美国法学会正式出版，并最成功地被法官和律师界所引用。但在1932年之前的几年里，它的雏形文本就已经面世了。《法律重述》像一部法律，“黑体字”代表基本原则，或者对某个最佳原则，或者对某个最佳原则抵触的案例。另外，大多数章节至少都有法学家评论和注释作为论据支持。对于任何一个法官或者法院而言，美国司法协会出版的任何一部《法律重述》都没有法律强制力。尽管对各部门法的《法律重述》仅仅是本部门法的次要法源，但是事实上《法律重述》有着相当显著的说服力，经常有法院为了论证某个问题的公正性，就直接引用和援引《法律重述》的原文或者是相关观点的适用规则。
+　　自1932年《法律重述》出版以来，合同法体系已经发生了实质性的发展，美国司法协会从1962年开始准备对《法律重述》进行修订。最终，此修订于1979年完成。《法律重述（二版）》更换了许多《一版》中裁决所依据的哲学原则模式。在损害多样性和不确定性问题上，《法律重述（一版）》往往强调规则的普遍适用性和可预测性，而《二版》则试图辅以评论和编者按，去证明《一版》中宁愿忽略对这些问题的复杂性的讨论，以及试图去建议对自由裁量权的必要限制。
+　　尽管《法律重述》是次要法源。但《法律重述》中有关合同法的部分已经实实在在的影响到法官如何任何普通法中合同法的应有含义。或许没有其他次要法源可以对法律产生如此的影响。但纵观这几年来出版的各种书籍、文章、条约汇编，他们已经开始对美国法院判例集中公布的浩繁的合同案例进行分析、评价，综合归纳。这些著作的作者们着意探究法律的本意，读未决案件提出判决建议，对某些案件中的问题展开激烈的讨论。综上，这种（类型的）法律评论已经对普通法中的合同法的形成进程产生了决定性的影响。
 	
 
-第十课	侵权法
+第十课	侵权法  Tort Law
+
+::Background Knowledge 背景知识
+
+　　英文中的“侵权法”（Tort Law）一词又可译为“民事损害赔偿法”。它主要涉及侵犯他人的人身、财产、名誉、商业等方面权益的民事过错行为。虽然这种过错行为可能具有犯罪行为的性质，但是侵权诉讼与刑事诉讼的目的截然不同。前者的主要目的是赔偿受害人的损失；后者的主要目的是惩罚罪犯。
+　　在美国，侵权法主要属于州法律的范畴，而各州的侵权法并不完全相同。诚然，侵权法主要由判例法组成，但是美国大多数州都有一些独立的法律来解决有关民事侵权行为的专门问题。在联邦法律中，1946年的联邦侵权索赔法（Federal Tort Claims Act)是最主要的一个。
+　　侵权行为可以分为故意侵权行为（intentional tort）、过失侵权行为（negligence or negligent tort）和严格责任侵权行为（strict liability tort）；也可以分为人身侵权行为（personal tort）和财产侵权行为（property tort）；此外还有宪法侵权欣慰（constitutional tort）、政府侵权行为（government tort）、夫妻侵权行为（husband-wife tort）、海上侵权行为（maritime tort）、汽车侵权行为（automobile tort）、准侵权行为（quasi tort）等概念。对侵权行为的一般救济方法是对侵权行为所造成的损害予以一定的金钱补偿。在涉及交通事故等领域的侵权赔偿已广泛采用了保险赔偿的方法。
+
+::Text 课文  Introduction to Tort Law　
+				Part One Basic Issures
+　　1. The law of torts is still the source of most civil suits in the United States, with damage claims for automobile accidents taking first place。 Many circumstances contribute to this:(a) The plaintiff in an American civil suit is ordinarily entitled to try his claim before a jury which will often-and understandably——rely more on human than on legal considerations, for instance when a child has been injured in an automobile accident or through a defective product of a large enterprise; (b) Compensation and damages include not only the actual loss but also the intangible damage. A plaintiff can therefore often play on the human reaction of the jury: for instance ,　what is appropriate compensation for a permanent disability such as the loss of a limb? (c) American law permits the participation of the attorney in the plaintiff's recovery (contingent fee) which not uncommonly amounts to 25 to 33 percent of the verdict. As a results of all of these factors, a tort action may be a lengthy proceeding, result in large expensess, for instance through honoraria for experts (which may deter the "small" plaintiff from suing at all), and may end in the award of a very large verdict. It is no longer uncommon that a jury will award a verdict in excess of $ 100, 00. These conditions have been the touchstone for several reform endeavors which will be discussed in more detail below.
+　　2. Tort law and the law of contracts often overlap since an injured party frequently has the choice between a tort claim (for instance, unauthorized use of property-conversion-or personal injury) and a suit in contract, for instance, in implied contract or, in the case of personal injuries,for breach of warranty. Sinice the law of torts permits the recovery of intangible damage (which is usually not the case with respect to contract claims), the plaintiff will ordinarily choose the tort claim for personal injuries when the facts so permit.
+　　3. Everyone is liable for his tortious act, in limited form also children (however, parents only then when they acted as the child's agent or did not comply with their duty to supervise
+), but not the state unless express statutory provision has abolished state immunity.
+　　4. Everyone is protected against tortious acts, including the embryo.The heirs or next of kin may have a damage claim for the intentional or negligent death of their relative or testator(wrongful death action). The statutes of some States provide protection, and a tort claim, to third parties for injuries arising out of the intoxicatiion of the tortfeasor; under these so-called "dram-shop acts", a party injured as a result of the iintoxication of the tortfeasor has a claim against hiim who contributed to the tortfeasor's intoxiication.
+　　5. Finally it should be emphasized again that the law of torts is, iin the maiin, State law.
+
+				Part Two Intentional Torts
+　　The case law contains the usual catalogue of intentional torts. For instance: battery, assault,conversion of property, false imprisonment, trespass to personal and real property. Some torts, for instance, alienation of affection have been abolished by statute in many States. Others, such as defamation, have recently been modified significantly through constitutional case law. New torts, unknown to the traditional common law, have also been introduced by the case law; particularly iimportant among them are the torts for invasion of privacy and for products liability.
+
+				Part Three Liability for Negligence
+　　Tort liability for negligence presupposes causality between the negligent act and the injury to person or property. A person is negligent if he has not complied with his "duty of care" and, seen objectively, has not acted as "a reasonable and prudent man." the latter test takes into account the special professional qualification of the tortfeasor. Thus, different criteria apply, say, to an architect than for a construction worker. The case law has given a restricive interpretation to the concept of "duty of care". The duty must be owed toward the particular plaintiff: there is no dity of care to the public at large. Thus, a lesser duty of care is owed to him who trespasses on property than to an invited guest. Some State statutes go even further and exclude, for instance, a duty of care by the driver of a motor vehicle - toward passengers whom he transports gratuitously ( guest statutes). Even if a duty of care exists and has not been observed, the injured party may still not have a claim for compensation. This will be the case, for instance, when he has been guilty of contributory negligence or has assumed the risk. The harshness of the contributory negligence defence, the result of which would not only be a deduction from the compensation but exclude any liability on the part of the tortfeasor, has been softened in some States by adoption of the "comparative negligence" doctrine. It requires that the respective degree of negligence of both parties be determinded and compensation assessed accordingly.  The bar of the contributory negligence defence to a recovery may furthermore be excluded by the doctrine of the "last clear change", according to which  even the contributorily negligent plaintiff will be compensated if he can prove that the defendant had the "last clear chance" to prevent the damage.
+　　The extraordinarily complex law of negligence——with its difficulties of proof in a jury trial and the possibility that a jury sympathetic to the plaintiff will let hime win despite his contributory negligence but consider hte latter in its calculation of dammages——today leads to two, sometimees inconsistent, efforts of reform. One would provide for strict liability in many cases, the other would introduce a system of compensation for the injured without regard to fault, resembling a form of insurance. the following section briefly reviews these two trends.
+
+				Part Four Tort Law Reform: Strict Liability and "No-Fault"
+　　a. Strict Liability
+　　Originally, strict liability existed only in a few special cases, for instance with respect to the maintenance of dangerous animals, defamation, and by way of a rebuttable presumption, known as the doctrine of resipsa loquitur, which deduced fault or negligence from the nature of the thing or act itself, such as defective construction or negligent use.
+　　Beginning with the use of contract law concepts, particularly that of warranty which permits suit either based on contract or on tort and thus obviates the need to show negligence, the more recent case law recognizes strict liability in the area of products liability. this new tort claim no longer derives from contract law notions but has become independent: the liability of a seller today extends to all "dangerous products", without regard to whether the issure concerns the product itself or its packaging. "Dangerous products" include products "in a defective condition" which are "unreasonably dangerous to the user or consumer or to his property". In this context, "defective" means that the product does not meet the reasonable expectations of the orddinary consumer concerning the safety of the product. Everyone is protected whom the seller "should expect to be endangered by [the product's] probable use". In view of the extensive interstate commerce in the United States, this formula, for all practical purpose, extends protection to the public in general.
+　　b. "No-Fault"
+　　The trend to strict liability in the area of products liability should be contrasted with another reform endeavor which seeks to find more just soluitions for ordinary claims based on negligence, particularly with respect to the great number of automobile accidents. These reform endeavors which are based, in the main, on the plan of Professors Keeton and O'Connell seek to abolish the fault principle in tort law and to award compensation without proff of fault ("No-Fault) according to insurance principles. This notion has already proved very sucessful in those States which so far have adopted No-Fault statutes. Experience in those jurisdictions shows that insurance premiums could be lowered while a higher percentage of injured persons could be compensated. Nevertheless, compensation for losses from automobbible accidents and products liability remains a problem of overwhelming dimensions: losses amount to over five billion dollars a year but only 800 million dollors in insurance proceeds are available for their compensation. As claim arising out of products liabbility have steadily increased, the cost of liabiblity insurance (premiums) to manufacturers also increased from $25 million in 1950 to $ 125 million in 1970. Further reform movements, albeit at this time only in their infancy, seek to extend the No-Fault principle to almost all claims, principally to products liabbility, but also to other kind of liabiblity such as medical malpractice. In a No-Fault system, a manufacturer agrees——and insures himself accordingly ——  to grant compensation for certain injuries without proof of falut. "Compensation" in this context means compensation for actual losses, but not for intangible damage. Thus, liability will be limited for the manufacturer and will therefore require a relatively lesser insurance premium to cover the risk. On the other hand, the injured person will be a better pisition, compared to traditional tort law, since he will be entitled to receive immediate compensation for his actural loss (expenses, loss of profits or wages) without lengthy litigation or difficult proof of fault.
+
+Notes 注释
+
+[1] the law of torts:侵权（行为）法。
+[2] compensation and damages:补偿费和损害赔偿金。
+[3] intangible damage: 无形损害。
+[4] ...play on the human reaction of hte jury: …… 利用陪审团的人性反应。
+[5]
+[6]
+
 第一部分	基本概念
 	在美国，基于侵权行为法产生的诉讼仍然是大多民事诉讼案件的主要来源，其中基于交通事故产生的损害赔偿案件居于首位。很多因素造成了这一现象：在美国民事诉讼案件中的原告通常利用法律赋予他的诉讼权利主张赔偿。因为陪审团更多的是基于可以理解的人性考虑而非法律考虑，例如当一个孩子在一起交通事故或因购买大公司的瑕疵产品而受到伤害往往能得到陪审团的同情理解。补偿费和损害赔偿金不仅包括实际的损害而且还包括了无形损害。原告经常可以利用陪审官的人性反应：比如，当永久的失去肢体时怎样才算是一个适当的赔偿金额。美国法律允许律师分享原告所获得的赔偿金（胜诉酬金）。这种酬金达到法院判付赔偿金金额的百分之二十五到百分之三十的情况并非罕见。由于以上所有因素的存在，在侵权案件中若想获得巨额的赔偿金必将经历一个冗长的审判过程。这方面的一个例子是在陪审团对一个重大的侵权案件做出裁决后，专家（证人）的酬金可能是“渺小”的原告所获得的损害赔偿金的全部。陪审团做出一个超过100,000美元的裁决已不再是不可能的，而是极其常见的。这些因素都将成为若干改努力的试金石，我们将在下文中更多的讨论其细节。侵权行为法常常与合同法产生竞合，受损害的一方也常常在侵权之诉（例如将未经授权使用的财产转移和因非法占有他人财产所造成的个人损害）和违约之诉中做出选择。比如，在格式合同及在个人损害赔偿案件中或因为违反保证诺言的案例中。因为侵权行为法还将赔偿无形损失（而违约责任往往不赔偿无形的损失），因为侵权行为法如此的规定，在现实生活中原告往往选择它提起个人损害赔偿。每个人都要对其侵权行为承担责任，在有限的形式下儿童亦然（但是，父母仅当其作为该儿童之代理人或未能按照其监护义务行事时才负此责任），但国家不在此列，除非法律明确规定取消了国家的豁免权。每个人都受到侵权法的保护其中还包括婴儿。继承人或近亲属可以提起损害赔偿之诉，当其被继承人或近亲属故意或过失导致死亡时（非正常死亡之诉）。一些州的法律规定，对于第三方的行为使侵权行为人醉酒从而导致受害人受伤的可以提起侵权之诉，这些规定被称为“小酒店法令”，作为 侵权行为人醉酒之结果而受到伤害的一方有权向那些造成该侵权行为人醉酒的人提出索赔请求。最后需要强调的是侵权行为法主要是各州的立法。
 
