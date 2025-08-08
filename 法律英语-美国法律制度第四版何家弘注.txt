@@ -465,8 +465,89 @@ Notes 注释
 [2] compensation and damages:补偿费和损害赔偿金。
 [3] intangible damage: 无形损害。
 [4] ...play on the human reaction of hte jury: …… 利用陪审团的人性反应。
-[5]
-[6]
+[5] American law permits the participation of the attorney in the plaintiffs recovery (contingent fee) which not uncommonly amounts to 25 to 33 percent of the verdict.美国法律允许律师分享原告人所获得的赔偿金（胜诉酬金）。这种酬金达到法院判付金额指25%~33%的情况并非罕见。
+[6] honararia for experts:专家（证人）的酬金。
+[7] award a verdict:（陪审团）给出的酬金。
+[8] touchstone for several reform endeavors: 若干改革努力的试金石。
+[9] conversion：非法占有（他人财产）。
+[10] implied contract：默示合同。
+[11] breach of warranty：违反保证诺言。
+[12] ...in limited form also children (however, parents only then when they acted as the child's agent or did not comply with their duty to supervise), but not the state unless express statutory provision has abolished state immunity.  ……在有限的形式下儿童亦然（但是，父母仅当其作为该儿童之代理人或未能按照其监护义务行事时才负此责任），但国家不在此列，除非法律明文规定取消了国家的豁免权。
+[13] embryo：胎儿。
+[14] the heirs or next of kin: 继承人或近亲属。
+[15] testator：立遗嘱人。
+[16] wrongful death action：非正常死亡之诉。
+[17] "dram-shop acts"：“小酒店法令”。
+[18] ...a party injured as a result of the intoxication of the tortfeasor has a claim againt him who contributed to the tortfeasor's intoxication. ……作为侵权行为人醉酒之结果而受到伤害的一方有权向那些造成该侵权行为人醉酒的人提出索赔请求。
+[19] battery：殴打。
+[20] assault：意图伤害或威胁伤害。
+[21] false imprisonment：非法拘禁。
+[22] trespass to personal and real property。对动产和不动产权的侵犯。
+[23] alienation of affection：破坏他人夫妻关系。
+[24] defamation：诽谤
+[25] torts for invasion of privacy and for products liability：侵犯隐私权的行为和产品责任侵权行为。
+[26] Tort liability for negligence presupposes causality between the negligent act and the injury to person or proerty. 过失侵权责任以过失行为与对人身或财产的侵害之间的因果关系为前提。
+[27] duty of care：照看义务。
+[28] a reasonable and prudent man.：一个理性且谨慎的人。
+[29] Thus, different criteria apply, say, to an architect than for a construction worker. 这样，比方说对一名建筑师就要适用不同于对一名建筑工人的标准。
+[30] restrictive interpretation：限制性解释。
+[31] Thus, a lesser duty of care is owed to him who trespasses on property than to an invited guest. 这样，（一个人）对于非法进入其土地者所负有的照看义务就小于其邀请的客人。
+[32] transports gratuitously：免费运送。
+[33] guest statutes：免费乘客法。（指美国各州规定的关于机动车乘客的法律。其中规定，在免费乘坐机动车的乘客遭受伤害时，驾车人只对由于严重的故意过错、漫不经心的失误或是类似情况造成的伤害负责。有的州则规定在醉酒状态下驾驶车辆时出于一般的疏忽所造成的伤害也应负责。
+[34] contributory negligence： 共同过失。
+[35] The harshness of the contributory negligence defence... has been softened in some States by adoption of the "comparative negligence" doctrine. 共同过失辩护的严格性…… 已经因一些州采用了“比较过失”原则而得到减弱。比较过失原则又可译为相对过失原则，即通过比较双方的过失来确定双方的责任。
+[36] recovery：（通过诉讼）恢复或收回（被侵占的权利或是财产）。
+[37] the doctrine of the "last clear chance"：“最后明显机会”原则。指虽然被侵权人有共同过失，但是侵权人有最后明显机会避免该侵害的发生，因此被侵权人不负任何责任。
+[38] law of negligence：过失侵权法。
+[39] ...the possibility that a jury sympathetic to the plaintiff will let him win despite his contributory negligence but consider the latter in its calculation of damages …… 一个同情原告的陪审团可能会不管原告所具有的共同过失而让其胜诉，但是在（陪审团）估算赔偿金时考虑这一因素。
+[40] strict liability：严格责任。
+[41] No-Fault：无过错。
+[42] rebuttable presumption：可反驳指推定。
+[43] the doctrine of resipsa loquitur：不言自明原则（resipsa loguitur 意为 The thing speaks for itself.)
+【44】 In this context, "defective" means that the product does not meet the reasonable expectation of the ordinary consumer concerning the safety of the product.在此，“缺陷”一词意指该产品未达到一般消费者关于该产品安全性能的合理期望标准。
+【45】 Everyone is protected whom the seller "should expect to be endangered by [the product's] probable use". 销售商“应该预见到会由于对该产品的恰当使用而带来危险的”每一个人均受保护。
+[46] These reform endeavors which are based, in the main, on the plan of Professors Keeton and O'Connell seek to abolish the fault ("No-Fault") according to insurance principles. 这些主要建立在基顿和奥康内尔两位教授之方案基础上的改革努力视图取消侵权法中的过错原则并按照保险原则在不要过错证明（“无过错”）的情况下给予赔偿。
+[47] insurance premiums：保险费。
+[48] insurance proceeds：保险收益。
+[49] medical malpractice：医务渎职； 医生不当行为。
+[50] actual loss (expenses,loss of profits or wages):实际损失（花费、收益或工资的损失）。
+
+::EXercisses 练习
+1. Questions about the text:
+① Why is the tort law still the source of most civil suits in the United States?
+② What is contingent fee?
+③ Why do the tort law and the contract law often overlap?
+④ When will parents be liable for their child's tortious act?
+⑤ What are teh so-called "dram-shop acts" about?
+⑥ What is an intentional tort?
+⑦ What is the basic factor in deciding tort liability for negligence?
+⑧ What is the comparative negligence doctrine?
+⑨ What are the two trends in the tort law development in the United States?
+⑩ What is the No-Fault priciple?
+
+2. Dication: The Difference of Tort Law
+    The difference between tort laws in the Common-Law countries and in the Civil-Law countries is not in practice as important as it may appear at first sight.Theoretically，the range of application of the abstract provisions in a civil code is much larger than the pigeonhole system of Anglo-American case law. It must be borne in mind,however, that behind the screen of the general terms of a civil code the courts develop a bulk of so-called case law that in many ways resembles its counterpart in the common law. Although the means by which a certain solution to a legal problem is reached may be strikingly different, the results tend to be very much the same under Common-Law and Civil-Law influence.
+	
+3. Discussion: McGuire v. Almy
+	Topic: McGuire v. Almy
+	① Reference information:
+	A. The trial of the case was in 1937. (See Supplementary Reading of this lesson)
+	B. Insanity, necessity, and self-defense? With insanity the compulsion, as it were, comes from within; with necessity it comes from a third person or natural event; with self-defense it comes from the conduct of the plaintiff himself. How should these differences be captured? Will they be captured if we look only at the "reasonableness" of the defendant's conduct in the abstract instead of its reasonableness in relationship to the plaintiff's treat?
+	C. Other cases of insanity. With Almy compare Mullen v. Bruce （1959）, where defendant, being of unsound mind due to alcoholism, assaulted and injured her nurse. The court upheld a judgment for plaintiff under a statute making minors and people of unsound mind liable for compensatory damage they inflict on others, observing that the statute in question was a codification of the common law. 
+	In Morriss v. Marsden[1952]，the court held the defendant liable, though insane , for the harm he caused to the plaintiff, the mmanager of a hotel in which the defendant had a room, by striking him over the head with a blunt instrument. In the course of his opinion, Stable, J.ruled:
+	I cannot think that, if a person of unsound mind converts my property under a delusion that he is entitled to do it or that it was not property at all, that affords a defence, I can bring an action against him for the recovery of my property, or, if it has been converted and destroyed, for its value. Against that it may be said:"There all you are seeking is restitution, either the return of your property or the equivalent. In this case what is being asked for is damages, which is compensation and involves in a sense some punitive element. "On the whole, I accept the view that an intention--i.e., a voluntary act, the mind prompting and directing the act which is relied on , as in this case, as the tortious act——must be averred and proved. For example, I think that , if a person in a condition of complete automatism inflicted grievous injuryy, that would not be actionable.
+	Is it easier to deal with the defense of insanity in cases of conversion of chattels than it is in cases of physical injury? Is the test for liability here the same as that set out by Qua, J.,in McGuire v. Almy? Do automatism and insanity raise the same issures?
+	In Phillips' Committee v. Ward's Administrator (1931), defendant, who was insane,shot and killed plaintiffs decedent and was required to pay compenssatory damages. And in Aetna Casualty & Surety Co. v. Porter(1960), the insured landlord had settled with the estate of a "murdered" tenant on the theory that the landlord was negligent in hiring and retaining the janitor who "murdered" the tenant. The janitor escaped conviction because of insanity; but in this case he was held required to indemnify the landlord's insurance company, in spite of his insanity.
+	② Instructions:
+	A. The students are required to prepare for the discussion individually.
+	B. The students shall do the discussion in pairs and then present their opinions and comments about the case in big session.
+	
+	::Supplementary Reading 补充读物及参考译文
+			McGure v. Almy
+	297 Mass. 323, 8 N.E.2d 760 (1937)
+    [Plaintiff was a registered nurse employed to care for defendant, who was insane. On on occasion, when defendant had been breaking up furniture and actiing in a rough manner, plaintiff entered the room with defendant to restrain her and take away from her a table leg, so that she would not hurt herself. But defendant deliberately struck plaintiff over the head with the table leg, seriously hurting her. Verdict and judgment  for plaintiff. Affirmed. After discussing the Massachusetts precedents on the liability of an insane person for his tortious conduct and finding the point not fully settled, the court continued:]	
+	
+	
 
 第一部分	基本概念
 	在美国，基于侵权行为法产生的诉讼仍然是大多民事诉讼案件的主要来源，其中基于交通事故产生的损害赔偿案件居于首位。很多因素造成了这一现象：在美国民事诉讼案件中的原告通常利用法律赋予他的诉讼权利主张赔偿。因为陪审团更多的是基于可以理解的人性考虑而非法律考虑，例如当一个孩子在一起交通事故或因购买大公司的瑕疵产品而受到伤害往往能得到陪审团的同情理解。补偿费和损害赔偿金不仅包括实际的损害而且还包括了无形损害。原告经常可以利用陪审官的人性反应：比如，当永久的失去肢体时怎样才算是一个适当的赔偿金额。美国法律允许律师分享原告所获得的赔偿金（胜诉酬金）。这种酬金达到法院判付赔偿金金额的百分之二十五到百分之三十的情况并非罕见。由于以上所有因素的存在，在侵权案件中若想获得巨额的赔偿金必将经历一个冗长的审判过程。这方面的一个例子是在陪审团对一个重大的侵权案件做出裁决后，专家（证人）的酬金可能是“渺小”的原告所获得的损害赔偿金的全部。陪审团做出一个超过100,000美元的裁决已不再是不可能的，而是极其常见的。这些因素都将成为若干改努力的试金石，我们将在下文中更多的讨论其细节。侵权行为法常常与合同法产生竞合，受损害的一方也常常在侵权之诉（例如将未经授权使用的财产转移和因非法占有他人财产所造成的个人损害）和违约之诉中做出选择。比如，在格式合同及在个人损害赔偿案件中或因为违反保证诺言的案例中。因为侵权行为法还将赔偿无形损失（而违约责任往往不赔偿无形的损失），因为侵权行为法如此的规定，在现实生活中原告往往选择它提起个人损害赔偿。每个人都要对其侵权行为承担责任，在有限的形式下儿童亦然（但是，父母仅当其作为该儿童之代理人或未能按照其监护义务行事时才负此责任），但国家不在此列，除非法律明确规定取消了国家的豁免权。每个人都受到侵权法的保护其中还包括婴儿。继承人或近亲属可以提起损害赔偿之诉，当其被继承人或近亲属故意或过失导致死亡时（非正常死亡之诉）。一些州的法律规定，对于第三方的行为使侵权行为人醉酒从而导致受害人受伤的可以提起侵权之诉，这些规定被称为“小酒店法令”，作为 侵权行为人醉酒之结果而受到伤害的一方有权向那些造成该侵权行为人醉酒的人提出索赔请求。最后需要强调的是侵权行为法主要是各州的立法。
