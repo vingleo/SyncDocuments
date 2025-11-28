@@ -1,0 +1,238 @@
+
+
+Chapter 1
+First Steps
+
+PostgreSQL is a feature-rich, general-purpose database-management system. It’s a complex piece
+of software, but every journey begins with the first step.
+We’ll start with your first connection. Many people fall at the first hurdle, so we’ll try not to skip
+past that too swiftly. We’ll quickly move on to enabling remote users, and from there, we will
+move on to getting access through GUI administration tools.
+We will also introduce the psql query tool, which is the tool used to load our sample database,
+as well as many other examples in the book.
+For additional help, we’ve included a few useful recipes that you may need for reference.
+In this chapter, we will cover the following recipes:
+• Introducing PostgreSQL
+• How to get PostgreSQL
+• Connecting to the PostgreSQL server
+• Enabling access for network/remote users
+• Using the pgAdmin GUI tool
+• Using the psql query and scripting tool
+• Changing your password securely
+• Avoiding hardcoding your password
+• Using a connection service file
+• Troubleshooting a failed connection
+• PostgreSQL in the cloud
+• PostgreSQL with Kubernetes
+• PostgreSQL with TPA
+翻译：
+PostgreSQL 是一款功能丰富的通用数据库管理系统。它是一款复杂的软件，但一切始于第一步。
+我们将从您的首次连接开始。许多人在第一关就失败了，所以我们尽量避免跳过这一步。我们将快速讲解如何启用远程用户，然后，再讲解如何通过 GUI 管理工具获取访问权限。
+我们还将介绍 psql 查询工具，它是用于加载示例数据库的工具，
+以及本书中的许多其他示例。
+为了提供更多帮助，我们提供了一些您可能需要参考的实用技巧。
+本章将涵盖以下内容：
+• PostgreSQL 简介
+• 如何获取 PostgreSQL
+• 连接 PostgreSQL 服务器
+• 启用网络/远程用户访问权限
+• 使用 pgAdmin GUI 工具
+• 使用 psql 查询和脚本工具
+• 安全更改密码
+• 避免硬编码密码
+• 使用连接服务文件
+• 连接失败故障排除
+• 云端 PostgreSQL
+• 结合 Kubernetes 的 PostgreSQL
+• 结合 TPA 的 PostgreSQL
+
+Introducing PostgreSQL 16
+PostgreSQL is an advanced SQL database server, available on a wide range of platforms. One of the clearest benefits of PostgreSQL is that it is open source, meaning that you have a very permissive license to install, use, and distribute it without paying anyone any fees or royalties. On top of that, PostgreSQL is known as a database that stays up for long periods and requires little or no maintenance, in most cases. Overall, PostgreSQL provides a very low total cost of ownership.
+
+PostgreSQL is also known for its huge range of advanced features, developed over the course of more than 30 years of continuous development and enhancement. Originally developed by the Database Research Group at the University of California, Berkeley, PostgreSQL is now developed and maintained by a huge army of developers and contributors. Many of these contributors have full-time jobs related to PostgreSQL, working as designers, developers, database administrators, and trainers. Some, but not many, of these contributors work for companies that specialize in support for PostgreSQL. No single company owns PostgreSQL, nor are you required (or even encouraged) to register your usage.
+PostgreSQL has the following main features:
+• Excellent SQL standards compliance, up to SQL:2023
+• Client-server architecture
+• A highly concurrent design, where readers and writers don’t block each other
+• Highly configurable and extensible for many types of applications
+• Excellent scalability and performance, with extensive tuning features
+• Support for many kinds of data models, such as relational, post-relational (arrays and nested relations via record types), document (JSON and XML), and key/value
+翻译：
+PostgreSQL 16 简介
+PostgreSQL 是一款先进的 SQL 数据库服务器，可在多种平台上使用。PostgreSQL 最显著的优势之一是它是开源的，这意味着您可以拥有非常宽松的许可证来安装、使用和分发它，而无需向任何人支付任何费用或版税。此外，PostgreSQL 还以持久耐用且在大多数情况下几乎无需维护而闻名。总而言之，PostgreSQL 的总体拥有成本非常低。
+
+PostgreSQL 还以其丰富的高级功能而闻名，这些功能是经过 30 多年的持续开发和增强而开发的。PostgreSQL 最初由加州大学伯克利分校的数据库研究小组开发，现在由庞大的开发人员和贡献者团队开发和维护。其中许多贡献者从事与 PostgreSQL 相关的全职工作，担任设计师、开发人员、数据库管理员和培训师。其中一些（但不是全部）贡献者在专门为 PostgreSQL 提供支持的公司工作。 PostgreSQL 并非由任何一家公司所有，我们也并不要求（甚至不鼓励）您注册使用。
+PostgreSQL 具有以下主要特性：
+• 出色地兼容 SQL 标准，最高可达 SQL:2023
+• 客户端-服务器架构
+• 高并发设计，读写操作互不阻塞
+• 高度可配置且可扩展，适用于多种类型的应用程序
+• 卓越的可扩展性和性能，并具备丰富的调优功能
+• 支持多种数据模型，例如关系型数据、后关系型数据（通过记录类型实现数组和嵌套关系）、文档型数据（JSON 和 XML）以及键/值数据
+
+What makes PostgreSQL different?
+The PostgreSQL project focuses on the following objectives:
+• Robust, high-quality software with maintainable, well-commented code
+• Low-maintenance administration for both embedded and enterprise use
+• Standards-compliant SQL, interoperability, and compatibility
+• Performance, security, and high availability
+翻译：
+PostgreSQL 有何独特之处？
+PostgreSQL 项目专注于以下目标：
+• 强大、高质量的软件，代码易于维护且注释清晰
+• 嵌入式和企业级应用的低维护管理
+• 符合标准的 SQL、互操作性和兼容性
+• 性能、安全性和高可用性
+
+
+What surprises many people is that PostgreSQL’s feature set is more similar to Oracle or SQL Server than it is to MySQL. The only connection between MySQL and PostgreSQL is that these two projects are open source; apart from that, the features and philosophies are almost totally different.
+
+One of the key features of Oracle, since Oracle 7, has been snapshot isolation, where readers don’t block writers and writers don’t block readers. You may be surprised to learn that PostgreSQL was the first database to be designed with this feature, and it offers a complete implementation.
+
+In PostgreSQL, this feature is called Multiversion Concurrency Control (MVCC), and we will discuss this in more detail later in the book.
+
+PostgreSQL is a general-purpose database management system. You define the database that you want to manage with it. PostgreSQL offers you many ways in which to work. You can either use a normalized database model, augmented with features such as arrays and record subtypes, or use a fully dynamic schema with the help of JSONB and an extension named hstore. PostgreSQL also allows you to create your own server-side functions in any of a dozen different languages, including a formal notion of transform to ensure data is properly converted.
+
+PostgreSQL is highly extensible, so you can add your own data types, operators, index types, and functional languages. You can even override different parts of the system, using plugins to alter the execution of commands, or add a new query optimizer.
+
+All of these features offer a huge range of implementation options to software architects. There are many ways out of trouble when building applications and maintaining them over long periods of time. Regrettably, we simply don’t have space in this book for all the cool features for developers; this book is about administration, maintenance, and backup.
+
+In the early days, when PostgreSQL was still a research database, the focus was solely on the cool new features. Over the last 20 years, enormous amounts of code have been rewritten and improved, giving us one of the largest and most stable software servers available for operational use.
+
+Who is using PostgreSQL? Prominent users include Apple, BASF, Genentech, Heroku, IMDB, Skype, McAfee, NTT, the UK Met Office, and the US National Weather Service. Early in 2010, PostgreSQL received well in excess of 1,000,000 downloads per year, according to data submitted to the European Commission, which concluded that “PostgreSQL is considered by many database users to be a credible alternative.” PostgreSQL has gone on from there to be even more popular.
+
+We need to mention one last thing: when PostgreSQL was first developed, it was named Postgres, and therefore, many aspects of the project still refer to the word Postgres – for example, the default database is named postgres, and the software is frequently installed using the postgres user ID. As a result, people shorten the name PostgreSQL to simply Postgres and, in many cases, use the two names interchangeably.
+
+PostgreSQL is pronounced post-grez-q-l. Postgres is pronounced post-grez.
+Some people get confused and refer to it as Postgre or Postgre SQL, which are hard to say and likely to confuse people. Two names are enough, so don’t use a third one!
+The following sections explain the key areas in more detail.
+翻译：
+令许多人感到惊讶的是，PostgreSQL 的功能集与 Oracle 或 SQL Server 的相似程度远超与 MySQL 的相似程度。MySQL 和 PostgreSQL 之间唯一的联系在于这两个项目都是开源的；除此之外，它们的功能和理念几乎完全不同。
+
+自 Oracle 7 以来，Oracle 的一项关键特性就是快照隔离，即读取操作不会阻塞写入操作，写入操作也不会阻塞读取操作。您可能会惊讶地发现，PostgreSQL 是第一个设计时就具备此功能的数据库，并且它提供了完整的实现。
+
+在 PostgreSQL 中，此功能被称为多版本并发控制 (MVCC)，我们将在本书后面更详细地讨论它。
+
+PostgreSQL 是一个通用数据库管理系统。您可以定义要用它来管理的数据库。PostgreSQL 提供了多种工作方式。您可以使用规范化的数据库模型，并增强数组和记录子类型等功能，或者借助 JSONB 和名为 hstore 的扩展程序使用完全动态的模式。 PostgreSQL 还允许您使用十几种不同的语言创建自己的服务器端函数，包括正式的转换概念，以确保数据正确转换。
+
+PostgreSQL 具有高度可扩展性，因此您可以添加自己的数据类型、运算符、索引类型和函数式语言。您甚至可以覆盖系统的不同部分，使用插件来更改命令的执行方式，或添加新的查询优化器。
+
+所有这些功能为软件架构师提供了丰富的实现选项。在构建和长期维护应用程序时，有很多方法可以避免这些问题。遗憾的是，本书篇幅有限，无法一一介绍所有面向开发人员的酷炫功能；本书主要介绍管理、维护和备份。
+
+早期，当 PostgreSQL 还只是一个研究数据库时，其重点仅仅放在那些炫酷的新功能上。在过去的 20 年里，大量的代码被重写和改进，使其成为目前规模最大、最稳定的运维软件服务器之一。
+
+谁在使用 PostgreSQL？知名用户包括苹果、巴斯夫、基因泰克、Heroku、IMDB、Skype、迈克菲、NTT、英国气象局和美国国家气象局。根据提交给欧盟委员会的数据，PostgreSQL 的年下载量远超 100 万次，欧盟委员会的结论是“许多数据库用户认为 PostgreSQL 是一个可靠的替代方案”。从那时起，PostgreSQL 就变得越来越受欢迎。
+
+最后需要补充一点：PostgreSQL 最初开发时名为 Postgres，因此，该项目的许多方面仍然使用 Postgres 这个词——例如，默认数据库名为 postgres，并且该软件通常使用 postgres 用户 ID 进行安装。因此，人们将 PostgreSQL 简称为 Postgres，并且在很多情况下，这两个名称可以互换使用。
+
+PostgreSQL 的发音为 post-grez-q-l。Postgres 的发音为 post-grez。
+有些人容易混淆，将其称为 Postgre 或 Postgre SQL，这两个名称很难区分，而且很容易让人混淆。两个名称就足够了，所以不要使用第三个！
+以下部分将更详细地解释关键领域。
+
+Robustness
+PostgreSQL is robust, high-quality software, supported by testing for both features and concurrency.By default, the database provides strong disk-write guarantees, and developers take the risk of data loss very seriously in everything they do. Options to trade robustness for performance exist, although they are not enabled by default.
+
+All actions on the database are performed within transactions, protected by a transaction log that will perform automatic crash recovery in case of software failure.
+
+Databases may optionally be created with data block checksums to help diagnose hardware faults.Multiple backup mechanisms exist, with full and detailed Point-in-Time Recovery (PITR) if you need a detailed recovery. A variety of diagnostic tools are available as well.
+
+Database replication is supported natively. Synchronous replication can provide greater than 5 nines (99.999%) of availability and data protection, if properly configured and managed, or even higher with appropriate redundancy.
+翻译：
+稳健性
+PostgreSQL 是一款稳健、高质量的软件，并经过功能和并发性测试。默认情况下，数据库提供强大的磁盘写入保证，开发人员在执行任何操作时都非常重视数据丢失的风险。虽然默认情况下未启用，但可以选择以稳健性换取性能。
+
+数据库上的所有操作均在事务中执行，并受事务日志的保护，事务日志会在软件故障时自动执行崩溃恢复。
+
+数据库可以选择创建数据块校验和，以帮助诊断硬件故障。提供多种备份机制，如果您需要详细的恢复，可以使用完整详细的时间点恢复 (PITR)。此外，还提供各种诊断工具。
+
+数据库原生支持复制。如果配置和管理得当，同步复制可以提供超过 99.999% 的可用性和数据保护，如果配置适当，甚至可以提供更高的可用性和数据保护。
+
+
+Security
+Access to PostgreSQL is controllable via host-based access rules. Authentication is flexible and pluggable, allowing for easy integration with any external security architecture. The latest Salted Challenge Response Authentication Mechanism (SCRAM) provides full 256-bit protection.
+
+Full SSL-encrypted access is supported natively for both user access and replication. A full-featured cryptographic function library is available for database users.
+
+PostgreSQL provides role-based access privileges to access data, by command type. PostgreSQL also provides Row-Level Security (RLS) for privacy, medical, and military-grade security.
+
+Functions can execute with the permissions of the definer, while views may be defined with security barriers to ensure that security is enforced ahead of other processing.
+
+All aspects of PostgreSQL are assessed by an active security team, while known exploits are categorized and reported at http://www.postgresql.org/support/security/.
+翻译：
+安全性
+PostgreSQL 的访问可通过基于主机的访问规则进行控制。身份验证灵活且可插拔，可轻松与任何外部安全架构集成。最新的 Salted Challenge Response Authentication Mechanism (SCRAM) 提供完整的 256 位保护。
+
+用户访问和复制均原生支持完整的 SSL 加密访问。数据库用户可以使用功能齐全的加密函数库。
+
+PostgreSQL 提供基于角色的数据访问权限，可根据命令类型进行划分。PostgreSQL 还提供行级安全性 (RLS)，以实现隐私、医疗和军事级安全。
+
+函数可以在定义者的权限下执行，而视图可以使用安全屏障定义，以确保安全性优先于其他处理。
+
+PostgreSQL 的各个方面均由活跃的安全团队进行评估，已知漏洞会在 http://www.postgresql.org/support/security/ 上进行分类和报告。
+
+Ease of use
+Clear, full, and accurate documentation exists as a result of a development process where documentation changes are required.
+
+The documentation can easily be found on the PostgreSQL website at https://www.postgresql.
+
+org/docs/. In this book, we will refer many times to the URLs of specific sections of that documentation.
+
+Another option is to install a copy of the exact same documentation on your laptop, in the PDF or HTML format, for offline use. You can do it easily on most operating systems by installing the appropriate package, as in this Ubuntu/Debian example: $ sudo apt-get install postgresql-doc-16 Hundreds of small changes occur with each release, which smooth off any rough edges of usage, supplied directly by knowledgeable users.
+
+PostgreSQL works on small and large systems in the same way and across operating systems.
+
+Client access and drivers exist for every language and environment, so there is no restriction on what type of development environment is chosen now or in the future.
+
+The SQL standard is followed very closely; there is no weird behavior, such as silent truncation of data.
+
+Text data is supported via a single data type that allows the storage of anything from 1 byte to 1 gigabyte. This storage is optimized in multiple ways, so 1 byte is stored efficiently, and much larger values are automatically managed and compressed.
+
+PostgreSQL has a clear policy of minimizing the number of configuration parameters, and with each release, we work out ways to auto-tune the settings.
+翻译：
+易于使用
+清晰、完整且准确的文档源于开发过程中文档的变更。
+
+您可以在 PostgreSQL 网站 https://www.postgresql.org/docs/ 上轻松找到该文档。本书中，我们将多次引用该文档特定章节的 URL。
+
+另一种选择是将完全相同的文档副本（PDF 或 HTML 格式）安装到您的笔记本电脑上，以供离线使用。您可以在大多数操作系统上通过安装相应的软件包轻松完成此操作，例如以下 Ubuntu/Debian 示例：$ sudo apt-get install postgresql-doc-16。每个版本都会进行数百个细微的更改，这些更改由经验丰富的用户直接提供，从而消除了使用过程中的任何不便之处。
+
+PostgreSQL 可以在小型和大型系统上以相同的方式运行，并且适用于各种操作系统。
+
+每种语言和环境都提供客户端访问和驱动程序，因此现在或将来选择哪种开发环境没有任何限制。
+
+严格遵循 SQL 标准；不会出现任何异常行为，例如静默截断数据。
+
+文本数据通过单一数据类型支持，允许存储从 1 字节到 1 GB 的任何数据。此存储经过多种方式优化，因此 1 字节也能高效存储，更大的值也能自动管理和压缩。
+
+PostgreSQL 有明确的策略，即最小化配置参数的数量，并且每次发布时，我们都会研究自动调整设置的方法。
+
+
+Extensibility
+PostgreSQL is designed to be highly extensible. Database extensions can be easily loaded by using CREATE EXTENSION, which automates version checks, dependencies, and other aspects of configuration.
+PostgreSQL supports user-defined data types, operators, indexes, functions, and languages.
+Many extensions are available for PostgreSQL, including the PostGIS extension, which provides world-class Geographical Information System (GIS) features.
+翻译：
+可扩展性
+PostgreSQL 的设计目标是高度可扩展。您可以使用 CREATE EXTENSION 命令轻松加载数据库扩展，该命令可自动执行版本检查、依赖关系检查和其他配置工作。
+PostgreSQL 支持用户定义的数据类型、运算符、索引、函数和语言。
+PostgreSQL 提供许多扩展，包括 PostGIS 扩展，它提供了世界一流的地理信息系统 (GIS) 功能。
+
+Performance and concurrency
+PostgreSQL 16 can achieve significantly more than 1,000,000 reads per second on a 4-socket server, and it benchmarks at more than 50,000 write transactions per second with full durability, depending upon your hardware. With advanced hardware, even higher levels of performance are possible.
+
+PostgreSQL has an advanced optimizer that considers a variety of join types, utilizing user data statistics to guide its choices. PostgreSQL provides the widest range of index types of any commonly available database server, fully supporting all data types.
+
+PostgreSQL provides MVCC, which enables readers and writers to avoid blocking each other.
+
+Taken together, the performance features of PostgreSQL allow a mixed workload of transactional systems and complex search and analytical tasks. This is important because it means we don’t always need to unload our data from production systems and reload it into analytical data stores just to execute a few ad hoc queries. PostgreSQL’s capabilities make it the database of choice for new systems, as well as the correct long term choice in almost every case.
+翻译：
+性能与并发性
+PostgreSQL 16 在 4 路服务器上可实现每秒超过 1,000,000 次读取，其基准测试结果显示每秒超过 50,000 次写入事务，并具备完全持久性，具体取决于您的硬件。借助先进的硬件，性能甚至可能更高。
+
+PostgreSQL 拥有先进的优化器，可考虑各种连接类型，并利用用户数据统计信息来指导其选择。PostgreSQL 提供了所有常用数据库服务器中最广泛的索引类型，完全支持所有数据类型。
+
+PostgreSQL 提供 MVCC（多线程/多数据结构控制），使读取器和写入器能够避免相互阻塞。
+
+总而言之，PostgreSQL 的性能特性允许事务系统和复杂的搜索及分析任务的混合工作负载。这一点非常重要，因为这意味着我们不必为了执行一些临时查询而总是将数据从生产系统中卸载并重新加载到分析数据存储中。PostgreSQL 的功能使其成为新系统的首选数据库，并且在几乎所有情况下都是正确的长期选择。
+
+
