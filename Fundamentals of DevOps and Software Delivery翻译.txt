@@ -1612,7 +1612,28 @@ One way to interact with Kubernetes is to create YAML files to define your Kuber
 Create a new folder called kubernetes to store these YAML files:
 创建一个名为 `kubernetes` 的新文件夹来存储这些 YAML 文件：
 
-
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+name: sample-app-deployment
+spec:
+replicas: 3
+template:
+metadata:
+labels:
+app: sample-app-pods
+spec:
+containers:
+- name: sample-app
+image: sample-app:v1
+ports:
+- containerPort: 8080
+env:
+- name: NODE_ENV
+value: production
+selector:
+matchLabels:
+app: sample-app-pods
 
 This YAML file gives you a lot of functionality for just ~20 lines of code: 
 这个 YAML 文件仅用大约 20 行代码就提供了强大的功能：

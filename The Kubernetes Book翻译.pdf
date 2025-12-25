@@ -1,0 +1,88 @@
+
+
+
+4: Working with Pods
+Every app on Kubernetes runs inside a Pod.
+When you deploy an app, you deploy it in a Pod
+When you terminate an app, you terminate its Pod
+When you scale an app up, you add more Pods
+When you scale an app down, you remove Pods
+When you update an app, you deploy new Pods
+This makes Pods important and is why this chapter goes into etail.
+I’ve given the chapter two main parts:
+Pod Theory
+Hands-on with Pods
+4：使用 Pod
+Kubernetes 上的每个应用都运行在一个 Pod 中。
+部署应用时，你会将其部署到一个 Pod 中。
+终止应用时，你会终止其所在的 Pod。
+扩展应用时，你会添加更多 Pod。
+减应用时，你会移除 Pod。
+更新应用时，你会部署新的 Pod。
+这使得 Pod 非常重要，这也是本章深入探讨 Pod 的原因。
+本章分为两个主要部分：
+Pod 理论
+Pod 实战
+
+If some of the content we’re about to cover feels familiar, it’s because we’re building on some of the concepts introduced in Chapter 2.
+
+We’re also about to discover that Kubernetes uses Pods to run many different workload types. However, most of the time, Pods run containers, so most of the examples will reference containers.
+
+如果您觉得接下来要讲的内容似曾相识，那是因为我们会用到第二章中介绍的一些概念。
+我们还会了解到，Kubernetes 使用 Pod 来运行多种不同类型的工作负载。不过，大多数情况下，Pod 运行的是容器，因此接下来的大多数示例都会以容器为例。
+
+Pod theory
+Kubernetes uses Pods for a lot of reasons. They’re an abstraction layer, they enable resource sharing, they add features, they enhance scheduling, and more.
+
+Let’s take a closer look at some of those.
+
+Pods are an abstraction layer Pods abstract the workload details. This means you can run containers, VMs, serverless functions, and Wasm apps inside Pods and Kubernetes doesn’t know the difference.
+
+Using Pods as an abstraction layer benefits Kubernetes and workloads: Kubernetes can focus on deploying and managing Pods without having to care what’s inside them Heterogenous workloads can run side-by-side on the same cluster, leverage the full power of the declarative Kubernetes API, and get all the other benefits of Pods Containers and Wasm apps work with standard Pods, standard workload controllers, and standard runtimes. However, serverless functions and VMs need a bit of extra help.
+Pod 理论
+
+Kubernetes 使用 Pod 的原因有很多。它们是一个抽象层，可以实现资源共享，添加各种功能，增强调度等等。
+
+让我们更深入地了解其中的一些优势。
+
+Pod 是一个抽象层。Pod 可以抽象工作负载的细节。这意味着你可以在 Pod 中运行容器、虚拟机、无服务器函数和 Wasm 应用，而 Kubernetes 并不会区分它们。
+
+使用 Pod 作为抽象层对 Kubernetes 和工作负载都有好处：Kubernetes 可以专注于部署和管理 Pod，而无需关心 Pod 内部的内容。异构工作负载可以在同一集群上并行运行，充分利用声明式 Kubernetes API 的强大功能，并获得 Pod 的所有其他优势。容器和 Wasm 应用可以与标准 Pod、标准工作负载控制器和标准运行时配合使用。但是，无服务器函数和虚拟机需要一些额外的支持。
+
+Serverless functions run in standard Pods but require apps like Knative to extend the Kubernetes API with custom resources and controllers. VMs are similar and need apps like KubeVirt to extend the API.
+
+Figure 4.1 shows four different workloads running on the same cluster. Each workload is wrapped in a Pod, managed by a controller, and uses a standard runtime. VM workloads run in a VirtualMachineInstance (VMI) instead of a Pod, but these are very similar to Pods and utilize a lot of Pod features.
+无服务器函数运行在标准 Pod 中，但需要像 Knative 这样的应用来扩展 Kubernetes API，以添加自定义资源和控制器。虚拟机 (VM) 也类似，需要像 KubeVirt 这样的应用来扩展 API。
+
+图 4.1 展示了在同一集群上运行的四种不同的工作负载。每种工作负载都封装在一个 Pod 中，由控制器管理，并使用标准运行时环境。虚拟机工作负载运行在 VirtualMachineInstance (VMI) 中，而不是 Pod 中，但它们与 Pod 非常相似，并利用了许多 Pod 的特性。
+
+Pods augment workloads
+Pods augment workloads in many ways, including all of the following:
+Pod 可以增强工作负载
+Pod 可以通过多种方式增强工作负载，包括以下所有方面：
+
+Resource sharing
+Advanced scheduling
+Application health probes
+Restart policies
+Security policies
+Termination control
+Volumes
+
+资源共享
+高级调度
+应用程序健康探测
+重启策略
+安全策略
+终止控制
+卷
+
+The following command shows a complete list of Pod attributes and returns over 1,000 lines. Press the spacebar to page through the output and press q to return to your prompt.
+以下命令会显示完整的 Pod 属性列表，并返回超过 1000 行结果。按空格键翻页，按 q 键返回提示符。
+
+kubectl explain pods --recursive | more
+
+
+
+
+

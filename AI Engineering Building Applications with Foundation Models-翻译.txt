@@ -1,0 +1,171 @@
+
+Preface
+
+When ChatGPT came out, like many of my colleagues, I was disoriented. What surprised me wasn’t the model’s size or capabilities. For over a decade, the AI community has known that scaling up a model improves it. In 2012, the AlexNet authors noted in their landmark paper that: “All of our experiments suggest that our results can be improved simply by waiting for faster GPUs and bigger datasets to become available.”1, 2 What surprised me was the sheer number of applications this capability boost unlocked. I thought a small increase in model quality metrics might result in a modest increase in applications. Instead, it resulted in an explosion of new possibilities.
+
+Not only have these new AI capabilities increased the demand for AI applications, but they have also lowered the entry barrier for developers. It’s become so easy to get started with building AI applications. It’s even possible to build an application without writing a single line of code. This shift has transformed AI from a specialized discipline into a powerful development tool everyone can use.
+
+Even though AI adoption today seems new, it’s built upon techniques that have been around for a while. Papers about language modeling came out as early as the 1950s.
+
+Retrieval-augmented generation (RAG) applications are built upon retrieval technology that has powered search and recommender systems since long before the term RAG was coined. The best practices for deploying traditional machine learning applications— systematic experimentation, rigorous evaluation, relentless optimization for faster and cheaper models—are still the best practices for working with foundation model-based applications.
+——————————————————————————————————————————————————————
+1 An author of the AlexNet paper, Ilya Sutskever, went on to cofound OpenAI, turning this lesson into reality
+with GPT models.
+2 Even my small project in 2017, which used a language model to evaluate translation quality, concluded that
+we needed “a better language model.”
+————————————————————————————————————————————————————————————————————————————————
+
+前言
+
+ChatGPT问世时，和我的许多同事一样，我感到不知所措。让我惊讶的并非模型的规模或能力。十多年来，人工智能领域一直都知道，扩大模型规模可以提升其性能。2012年，AlexNet的作者在其里程碑式的论文中指出：“我们所有的实验都表明，只需等待更快的GPU和更大的数据集出现，我们的结果就能得到改进。”1, 2 真正让我惊讶的是，这种能力提升所带来的应用数量之多。我原以为模型质量指标的微小提升只会带来应用数量的适度增长。然而，事实却是，它带来了新可能性的爆炸式增长。
+
+这些新的人工智能能力不仅增加了对人工智能应用的需求，还降低了开发人员的入门门槛。现在，构建人工智能应用变得如此简单，甚至无需编写一行代码即可构建应用程序。这种转变使人工智能从一门专业学科转变为人人都能使用的强大开发工具。
+
+尽管如今人工智能的应用看似是新鲜事物，但它建立在一些已经存在了一段时间的技术之上。早在20世纪50年代，就出现了关于语言模型的论文。
+
+检索增强生成（RAG）应用建立在检索技术之上，而这种技术早在RAG这个术语出现之前就已经为搜索和推荐系统提供了支持。部署传统机器学习应用的最佳实践——系统性实验、严格评估、不懈地优化以获得更快、更经济的模型——仍然是使用基于基础模型的应用的最佳实践。
+——————————————————————————————————————————————————————
+1 AlexNet论文的作者之一Ilya Sutskever后来联合创立了OpenAI，并将这一经验应用于GPT模型，使其成为现实。
+2 即使是我在2017年的一个小项目，该项目使用语言模型来评估翻译质量，也得出结论：我们需要“一个更好的语言模型”。
+————————————————————————————————————————————————————————————————————————————————
+
+
+The familiarity and ease of use of many AI engineering techniques can mislead people into thinking there is nothing new to AI engineering. But while many principles for building AI applications remain the same, the scale and improved capabilities of AI models introduce opportunities and challenges that require new solutions.
+
+This book covers the end-to-end process of adapting foundation models to solve realworld problems, encompassing tried-and-true techniques from other engineering fields and techniques emerging with foundation models.
+
+I set out to write the book because I wanted to learn, and I did learn a lot. I learned from the projects I worked on, the papers I read, and the people I interviewed.
+
+During the process of writing this book, I used notes from over 100 conversations and interviews, including researchers from major AI labs (OpenAI, Google, Anthropic, ...), framework developers (NVIDIA, Meta, Hugging Face, Anyscale, LangChain, LlamaIndex, ...), executives and heads of AI/data at companies of different sizes, product managers, community researchers, and independent application developers (see “Acknowledgments” on page xx).
+
+I especially learned from early readers who tested my assumptions, introduced me to different perspectives, and exposed me to new problems and approaches. Some sections of the book have also received thousands of comments from the community after being shared on my blog, many giving me new perspectives or confirming a hypothesis.
+
+I hope that this learning process will continue for me now that the book is in your hands, as you have experiences and perspectives that are unique to you. Please feel free to share any feedback you might have for this book with me via X, LinkedIn, or email at hi@huyenchip.com.
+
+许多人工智能工程技术的熟悉性和易用性可能会让人误以为人工智能工程领域没有什么新东西。但尽管构建人工智能应用的许多原则保持不变，人工智能模型的规模和能力的提升带来了新的机遇和挑战，需要新的解决方案。
+
+本书涵盖了将基础模型应用于解决实际问题的端到端流程，包括其他工程领域久经考验的技术以及随着基础模型发展而涌现的新技术。
+
+我之所以写这本书，是因为我想学习，而且我确实学到了很多。我从我参与的项目、阅读的论文以及采访的人那里学到了很多。
+
+在撰写本书的过程中，我参考了100多次对话和访谈的笔记，其中包括来自主要人工智能实验室（OpenAI、Google、Anthropic等）的研究人员、框架开发人员（NVIDIA、Meta、Hugging Face、Anyscale、LangChain、LlamaIndex等）、不同规模公司的AI/数据部门高管和负责人、产品经理、社区研究人员以及独立应用程序开发人员（参见第xx页的“致谢”）。
+
+我尤其从早期读者那里学到了很多，他们验证了我的假设，让我接触到不同的视角，并让我了解了新的问题和方法。本书的一些章节在我的博客上分享后，也收到了来自社区的数千条评论，其中许多评论为我提供了新的视角或证实了我的假设。
+
+我希望这本书现在到了您的手中，我的学习过程也能继续下去，因为您拥有独特的经验和视角。如果您对本书有任何反馈，请随时通过X、LinkedIn或电子邮件（hi@huyenchip.com）与我联系。
+
+
+What This Book Is About
+
+This book provides a framework for adapting foundation models, which include both large language models (LLMs) and large multimodal models (LMMs), to specific applications.
+
+There are many different ways to build an application. This book outlines various solutions and also raises questions you can ask to evaluate the best solution for your needs. Some of the many questions that this book can help you answer are:
+• Should I build this AI application?
+• How do I evaluate my application? Can I use AI to evaluate AI outputs?
+• What causes hallucinations? How do I detect and mitigate hallucinations?
+• What are the best practices for prompt engineering?
+• Why does RAG work? What are the strategies for doing RAG?
+• What’s an agent? How do I build and evaluate an agent?
+• When to finetune a model? When not to finetune a model?
+• How much data do I need? How do I validate the quality of my data?
+• How do I make my model faster, cheaper, and secure?
+• How do I create a feedback loop to improve my application continually?
+
+The book will also help you navigate the overwhelming AI landscape: types of models, evaluation benchmarks, and a seemingly infinite number of use cases and application patterns.
+
+The content in this book is illustrated using case studies, many of which I worked on, backed by ample references and extensively reviewed by experts from a wide range of backgrounds. Although the book took two years to write, it draws from my experience working with language models and ML systems from the last decade.
+
+Like my previous O’Reilly book, Designing Machine Learning Systems (DMLS), this book focuses on the fundamentals of AI engineering instead of any specific tool or API. Tools become outdated quickly, but fundamentals should last longer.3
+
+本书简介
+
+本书提供了一个框架，用于将基础模型（包括大型语言模型 (LLM) 和大型多模态模型 (LMM)）应用于特定场景。
+
+构建应用程序的方法有很多种。本书概述了各种解决方案，并提出了一些问题，帮助您评估哪种解决方案最适合您的需求。本书可以帮助您解答以下诸多问题：
+• 我应该构建这个人工智能应用程序吗？
+• 如何评估我的应用程序？我可以使用人工智能来评估人工智能的输出吗？
+• 幻觉现象是如何产生的？如何检测和缓解幻觉？
+• 提示工程的最佳实践是什么？
+• RAG（检索增强生成）的工作原理是什么？RAG 的策略有哪些？
+• 什么是智能体？如何构建和评估智能体？
+• 何时应该微调模型？何时不应该微调模型？
+• 我需要多少数据？如何验证数据的质量？
+• 如何使我的模型更快、更便宜、更安全？
+• 如何创建反馈循环以持续改进我的应用程序？
+
+本书还将帮助您驾驭纷繁复杂的人工智能领域：模型类型、评估基准以及看似无穷无尽的用例和应用模式。
+
+本书的内容通过案例研究进行阐述，其中许多案例是我参与过的项目，并辅以丰富的参考文献，并由来自不同领域的专家进行了广泛评审。虽然本书耗时两年完成，但它凝聚了我过去十年在语言模型和机器学习系统方面的工作经验。
+
+与我之前的 O'Reilly 出版书籍《设计机器学习系统》(Designing Machine Learning Systems, DMLS) 一样，本书侧重于人工智能工程的基础知识，而不是任何特定的工具或 API。工具会很快过时，但基础知识应该会更持久。
+
+Reading AI Engineering (AIE) with Designing
+Machine Learning Systems (DMLS)
+
+AIE can be a companion to DMLS. DMLS focuses on building applications on top of traditional ML models, which involves more tabular data annotations, feature engineering, and model training. AIE focuses on building applications on top of foundation models, which involves more prompt engineering, context construction, and parameter-efficient finetuning. Both books are self-contained and modular, so you can read either book independently.
+
+Since foundation models are ML models, some concepts are relevant to working with both. If a topic is relevant to AIE but has been discussed extensively in DMLS, it’ll still be covered in this book, but to a lesser extent, with pointers to relevant resources.
+
+Note that many topics are covered in DMLS but not in AIE, and vice versa. The first chapter of this book also covers the differences between traditional ML engineering and AI engineering. A real-world system often involves both traditional ML models and foundation models, so knowledge about working with both is often necessary.
+
+阅读《人工智能工程》（AIE）与《设计机器学习系统》（DMLS）
+
+AIE 可以作为 DMLS 的补充读物。DMLS 侧重于在传统机器学习模型之上构建应用程序，这涉及更多表格数据标注、特征工程和模型训练。AIE 则侧重于在基础模型之上构建应用程序，这涉及更多提示工程、上下文构建和参数高效微调。这两本书都内容完整且结构模块化，因此您可以独立阅读其中任何一本。
+
+由于基础模型也是机器学习模型，因此某些概念对两者都适用。如果某个主题与 AIE 相关，但已在 DMLS 中进行了详细讨论，本书仍会涵盖该主题，但篇幅会较少，并会提供相关资源的链接。
+
+请注意，DMLS 中涵盖的许多主题在 AIE 中并未涉及，反之亦然。本书的第一章也介绍了传统机器学习工程和人工智能工程之间的区别。实际系统通常同时包含传统机器学习模型和基础模型，因此了解如何使用这两种模型通常是必要的。
+
+——————————————————————————————————————
+3 Teaching a course on how to use TensorFlow in 2017 taught me a painful lesson about how quickly tools and tutorials become outdated.
+3. 2017年，我教授了一门关于如何使用TensorFlow的课程，这让我深刻地认识到工具和教程过时得有多快。
+——————————————————————————————————————
+
+Determining whether something will last, however, is often challenging. I relied on three criteria. First, for a problem, I determined whether it results from the fundamental limitations of how AI works or if it’ll go away with better models. If a problem is fundamental, I’ll analyze its challenges and solutions to address each challenge. I’m a fan of the start-simple approach, so for many problems, I’ll start from the simplest solution and then progress with more complex solutions to address rising challenges.
+
+Second, I consulted an extensive network of researchers and engineers, who are smarter than I am, about what they think are the most important problems and solutions.
+
+Occasionally, I also relied on Lindy’s Law, which infers that the future life expectancy of a technology is proportional to its current age. So if something has been around for a while, I assume that it’ll continue existing for a while longer.
+
+In this book, however, I occasionally included a concept that I believe to be temporary because it’s immediately useful for some application developers or because it illustrates an interesting problem-solving approach.
+
+然而，判断某事物是否会持久存在往往颇具挑战性。我主要依靠三个标准。首先，对于某个问题，我会判断它是源于人工智能工作原理的根本局限性，还是可以通过改进模型来解决。如果某个问题是根本性的，我会分析其挑战以及解决每个挑战的方案。我推崇循序渐进的方法，因此对于许多问题，我会从最简单的解决方案入手，然后逐步采用更复杂的方案来应对日益增长的挑战。
+
+其次，我咨询了众多比我更聪明的研究人员和工程师，了解他们认为哪些问题和解决方案最为重要。
+
+有时，我也会借鉴林迪定律（Lindy's Law），该定律认为一项技术的未来寿命与其当前年龄成正比。因此，如果某项技术已经存在了一段时间，我就会假设它还会继续存在一段时间。
+
+然而，在本书中，我偶尔也会包含一些我认为是暂时性的概念，因为它们对某些应用程序开发人员来说具有即时实用价值，或者它们可以阐明一种有趣的解决问题的方法。
+
+What This Book Is Not
+This book isn’t a tutorial. While it mentions specific tools and includes pseudocode snippets to illustrate certain concepts, it doesn’t teach you how to use a tool. Instead, it offers a framework for selecting tools. It includes many discussions on the tradeoffs between different solutions and the questions you should ask when evaluating a solution. When you want to use a tool, it’s usually easy to find tutorials for it online.
+
+AI chatbots are also pretty good at helping you get started with popular tools.
+
+This book isn’t an ML theory book. It doesn’t explain what a neural network is or how to build and train a model from scratch. While it explains many theoretical concepts immediately relevant to the discussion, the book is a practical book that focuses on helping you build successful AI applications to solve real-world problems.
+
+While it’s possible to build foundation model-based applications without ML expertise, a basic understanding of ML and statistics can help you build better applications and save you from unnecessary suffering. You can read this book without any prior ML background. However, you will be more effective while building AI applications if you know the following concepts:
+本书并非教程
+本书并非教程。虽然书中提到了特定的工具，并包含伪代码片段来阐述某些概念，但它并不教你如何使用某个工具。相反，它提供了一个选择工具的框架。书中包含许多关于不同解决方案之间权衡取舍的讨论，以及在评估解决方案时应该提出的问题。如果你想使用某个工具，通常很容易在网上找到相关的教程。
+
+人工智能聊天机器人也非常擅长帮助你入门使用常用工具。
+
+本书并非机器学习理论书籍。它不解释什么是神经网络，也不解释如何从头开始构建和训练模型。虽然书中解释了许多与讨论直接相关的理论概念，但本书是一本实用书籍，重点在于帮助你构建成功的人工智能应用程序来解决实际问题。
+
+虽然无需机器学习专业知识也可以构建基于基础模型的应用程序，但对机器学习和统计学的基本了解可以帮助你构建更好的应用程序，并避免不必要的麻烦。即使没有任何机器学习背景，你也可以阅读本书。但是，如果你了解以下概念，在构建人工智能应用程序时会更加高效：
+
+• Probabilistic concepts such as sampling, determinism, and distribution.
+• ML concepts such as supervision, self-supervision, log-likelihood, gradient descent, backpropagation, loss function, and hyperparameter tuning.
+• Various neural network architectures, including feedforward, recurrent, and transformer.
+• Metrics such as accuracy, F1, precision, recall, cosine similarity, and cross entropy.
+If you don’t know them yet, don’t worry—this book has either brief, high-level
+explanations or pointers to resources that can get you up to speed.
+• 概率概念，例如抽样、确定性和分布。
+• 机器学习概念，例如监督学习、自监督学习、对数似然、梯度下降、反向传播、损失函数和超参数调优。
+• 各种神经网络架构，包括前馈神经网络、循环神经网络和 Transformer。
+• 各种评估指标，例如准确率、F1 分数、精确率、召回率、余弦相似度和交叉熵。
+如果您还不了解这些概念，请不用担心——本书提供了简要的高级解释或相关资源链接，可以帮助您快速入门。
+
+
+
+
