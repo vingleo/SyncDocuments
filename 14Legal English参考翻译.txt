@@ -3809,8 +3809,8 @@ Note, however, that in British English, some words which end in a double ll lose
 15 While or whilst? Both while and whilst are used in British English. In American English, while is the right word to use, and whilst is regarded as a pretentious affectation.
 
 6 l 还是 ll？在美式英语中，traveled 或 counseled 等词使用单个 l。在英式英语中，使用 ll（例如 travelled、councilled）。
-不过，请注意，在英式英语中，一些以双 ll 结尾的词在添加后缀时会少一个 l：skill 变成 skillfully，will 变成 wilfully。在美式英语中，保留了双 ll：skill 变成 skillfully，will 变成 willfully。
-7 -re 还是 -er？在美式英语中，-er 结尾用于 theatre、center、meter 和 fiber 等词。在英式英语中，这些词拼写为 theatre、centre、metre 和 fiber。
+不过，请注意，在英式英语中，一些以双 ll 结尾的词在添加后缀时会少一个 l：skill 变成 skilfully，will 变成 wilfully。在美式英语中，保留了双 ll：skill 变成 skillfully，will 变成 willfully。
+7 -re 还是 -er？在美式英语中，-er 结尾用于 theater、center、meter 和 fiber 等词。在英式英语中，这些词拼写为 theatre、centre、metre 和 fibre。
 8 oe 和 ae。一些科学术语在英式英语中保留了经典复合元音 oe 和 ae 的使用。这些包括 diarrhoea、anaesthetic、gynaecology 和 homoeopathy。在美式英语中，单个e代替复合元音：diarrhea（腹泻）、anesthetic（麻醉药）、gynecology（妇科）、homeopathy（顺势疗法）。
 9 -e 还是 -ue？在英式英语中，词尾不发音的-e或-ue在以下单词中保留，例如analogue、axe和catalogue。在美式英语中，它被省略：analog、ax和catalog。
 10 -eable 还是 -able？在构成一些带后缀的形容词时产生的不发音的e，在英式英语中通常用于likeable、unshakeable和ageing等单词。在美式英语中，它通常被省略：likable、unshakable和aging。然而，在美式英语中，e有时会影响前一个辅音的发音：traceable或manageable。
@@ -4157,5 +4157,996 @@ Smith then explained that the other side had authorised a company called Darting
 “吃块饼干吧，”史密斯说着，我们开始翻看文件。“我敢说今天早上高速公路的交通状况很糟糕吧？”我没有评论，只是开始浏览文本，而史密斯则熟练地向我解释文件的内容：“这一段规定，如果对方违约，对方有义务付款，而这一段规定了优先购买权……”我满怀怀疑地听着。
 
 史密斯随后解释说，对方已授权一家名为达廷利围墙公司（Dartingley Hoardings）的公司，在2008年11月20日至2009年11月19日的周末在市中心的公寓楼安装天线。这些服务的费用将从建房互助协会的账户中支付。“这很聪明吗？”我问道。史密斯认为这不会对公司营业额产生影响。
+
+************
+补充：
+A model answer can be found in the answer key at the back of the book.
+Alternatively, visit the Companion Website to access this question online.We signed the document on October 19, 2007, in my lawyer’s downtown offices after a great deal of complex maneuvering fueled by the need to establish a manageable program for the transport of corn by truck. It was a gray, rainy autumn day, which I remember well, because I arrived at the office rather late, after getting stuck in a traffic jam on the counterclockwise section of the beltway – on the overpass just past the Daventry crossroads, in fact.I parked the car in the parking lot next to the real estate agent’s office, placed my ticket on the windshield, and threw my empty potato chip bag into the trash can.Then I climbed the stairs to Mr. Smith’s second-floor office. I recall that Smith was wearing a rather striking vest, in a lurid purple color, together with truly appalling tartan pants and suspenders. His idea of humor, I thought.“Have a cookie,” said Smith, as we started looking at the document. “I dare say traffic on the highway was bad this morning?” I made no comment, but began to look over the text while Smith skillfully explained the document to me: “This paragraph obliges the other party to make payment in case of default, and this one provides for preemption…” I listened skeptically.Smith then explained that the other side had authorized a company called Dartingley Hoardings to install antennas in downtown flats on weekends from November 20, 2008, to November 19, 2009. Payment for these services was to be made from a savings and loan account. “Is that clever?” I asked. Smith thought it would have no effect on company turnover.
+
+修改的地方及原因（逐条标注）
+原英式英文 (BrE)|改写美式英文 (AmE)|修改原因
+19 October 2007|October 19, 2007|美国日期格式：月-日-年
+city centre offices|downtown offices|“city centre” → “downtown”（更自然的美式表达）
+manoeuvring|maneuvering|美式拼写（去掉 u）
+programme|program|美式拼写
+maize|corn|美式词汇（玉米）
+lorry|truck|美式词汇（卡车）
+grey|gray|美式拼写
+anti-clockwise|counterclockwise|美式表达
+ring road|beltway|美式常用词汇（环路）
+flyover|overpass|美式词汇（高架桥/立交桥）
+car park|parking lot|美式词汇
+estate agent’s|real estate agent’s|美式正式称呼
+windscreen|windshield|美式词汇
+crisp bag|potato chip bag|美式词汇（薯片袋）
+rubbish bin|trash can|美式词汇
+first floor|second-floor|美国楼层算法：first floor 是地面层，所以原“first floor”实际是美式的 second floor
+waistcoat|vest|美式词汇（马甲）
+colour|color|美式拼写
+tartan trousers|tartan pants|“trousers” → “pants”（美式）
+braces|suspenders|美式词汇（吊带）
+‘Have a biscuit’|“Have a cookie”|美式词汇（饼干）
+whilst|while|“whilst” 在美式中很少使用
+sceptically|skeptically|美式拼写
+aerials|antennas|美式常用词（天线）
+building society account|savings and loan account|美式对应金融机构
+flats|（保留，但上下文可理解为 apartments）|“flats” 在美式中不常用，但此处保留为中性
+
+其他小调整：添加了逗号（如日期后、引语格式），符合美式标点习惯。
+引号统一使用美式双引号样式。
+保持了原文的正式语气和幽默感，仅做词汇/拼写/文化适应性修改。
+
+以下是您提供的美式英语改写版本的中文翻译（力求自然流畅，同时保留原文的正式与幽默语气）：在本书附录的答案键中可以找到标准答案。或者，您也可以访问配套网站在线查看此问题。
+
+我们在2007年10月19日签署了这份文件，当时是在我律师位于市中心的办公室里。此前经过大量复杂的协商，只为制定出一个可行的方案，以便用卡车运输玉米。那是一个灰暗、阴雨连绵的秋日，我记得很清楚，因为我那天迟到了——被堵在环城公路逆时针方向的车流中，具体来说，是在戴文垂路口过去一点的高架桥上。我把车停在房地产中介办公室旁边的停车场里，把停车票放在挡风玻璃上，然后把吃完的薯片袋扔进了垃圾桶。随后我爬上楼梯，来到史密斯先生位于二楼的办公室。我记得史密斯穿着一件相当醒目的紫色马甲，搭配一条花得吓人的苏格兰格子裤和吊带裤。我心想，这就是他的幽默品味吧。“来块曲奇吧，”在我们开始看文件时，史密斯说道，“我想今天早上的高速公路交通一定很糟糕吧？”我没有搭话，而是开始浏览文件内容，而史密斯则熟练地向我解释这份文件：“这一段要求对方在违约时付款，而这一段则规定了优先购买权……”我半信半疑地听着。史密斯接着解释说，对方已授权一家名为 Dartingley Hoardings 的公司，从2008年11月20日至2009年11月19日，在周末为市中心的公寓安装天线。这些服务的费用将从一家储蓄贷款协会的账户中支付。“这很聪明吗？”我问道。史密斯认为这对公司的营业额不会有任何影响。
+
+以下是英式（British）与美式（American）法律/财务术语的中文翻译对照表。翻译采用大陆常用简体中文，力求在法律和财务语境中准确、自然，并标注常见对应表达。
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————
+British (英式)|American (美式)|中文翻译（British / American）
+called to the bar|admitted to the bar|获得出庭律师资格 / 获准进入律师协会（或“取得大律师资格 / 获准执业律师资格”）
+competition law|antitrust law|竞争法 / 反托拉斯法（反垄断法）
+articles of association|bylaws|公司章程 / 公司内部细则（或“组织章程细则”）
+balance sheet|statement of financial position|资产负债表 / 财务状况表
+bills|notes|票据 / 票据（或“应付票据”）
+bonus or scrip issue|stock dividend or stock split|红股发行或资本化发行 / 股票股利或股票拆分
+company|corporation|公司 / 公司（美式更强调“股份有限公司”，常译为“公司”或“法人公司”）
+creditors|payables|债权人 / 应付账款
+debtors|receivables|债务人 / 应收账款
+depreciation|amortization|折旧 / 摊销
+employment law|labor law|雇佣法 / 劳动法
+exceptional items|unusual items|例外项目 / 非经常性项目
+flotation|initial public offering (IPO)|公司上市 / 首次公开募股（IPO）
+indemnify|hold harmless and indemnify|赔偿 / 使免责并赔偿（或“补偿并使免于损害”）
+land and buildings|real estate|土地和建筑物 / 不动产（或“房地产”）
+maintenance|alimony|（离婚后）扶养费 / 赡养费（或“生活费”）
+nominal value|par value|名义价值 / 票面价值（或“面值”）
+ordinary shares|common stock|普通股 / 普通股
+preference shares|preferred stock|优先股 / 优先股
+profit and loss account|income statement|损益表 / 利润表（或“收益表”）
+provisions|allowances|准备金 / 拨备（或“备抵”）
+receivership|Chapter 11 bankruptcy|接管 / 第11章破产（重整程序）
+share premium|additional paid-in capital|股份溢价 / 额外实缴资本（或“资本公积-股本溢价”）
+shareholders’ funds|stockholders’ equity|股东资金 / 股东权益
+stocks|inventories|存货 / 存货（库存）
+theft|larceny|盗窃 / 盗窃罪（larceny 更具体为“偷窃罪”）
+turnover|revenues|营业额 / 收入（或“营收”）
+undistributable reserves|restricted surplus|不可分配储备 / 限制性盈余
+
+翻译说明公司相关：英式多用 company，美式多用 corporation，中文通常统一译为“公司”，但在正式文件中可区分“有限公司”或“股份有限公司”。
+会计术语：英式与美式会计准则（IFRS vs US GAAP）差异明显，中文翻译常参考中国企业会计准则（CAS）的对应表达。
+法律术语：部分术语在中美法律体系中实际含义有细微差异（如破产程序），翻译时已尽量体现对应关系。
+括号内为补充说明或更常用表达，便于实际使用。
+
+
+以下是英式（British）与美式（American）法律/财务术语的日文翻译对照表。
+日文使用标准法律/财务常用表达，汉字部分均标注假名（ふりがな）。
+————————————————————————————————————————————————————————————————————————————————————————————————————————————
+British (英式)|American (美式)|日本語翻译
+called to the bar|admitted to the bar|弁護士資格取得（べんごし しかく しゅとく） / 弁護士会入会（べんごし かい にゅうかい）
+competition law|antitrust law|競争法（きょうそう ほう） / 独占禁止法（どくせん きんし ほう）
+articles of association|bylaws|定款（ていかん） / 内規・細則（ないき・さいそく）
+balance sheet|statement of financial position|貸借対照表（たいしゃく たいしょう ひょう） / 財務状態計算書（ざいむ じょうたい けいさんしょ）
+bills|notes|手形（てがた） / 約束手形・借入金（やくそく てがた・かりいれ きん）
+bonus or scrip issue|stock dividend or stock split|無償増資・株式配当（むしょう ぞうし・かぶしき はいとう） / 株式配当または株式分割（かぶしき はいとう または かぶしき ぶんかつ）
+company|corporation|会社（かいしゃ） / 株式会社（かぶしき がいしゃ）
+creditors|payables|債権者（さいけんしゃ） / 支払勘定・買掛金（しはらい かんじょう・かいかけきん）
+debtors|receivables|債務者（さいむしゃ） / 受取勘定・売掛金（うけとり かんじょう・うりかけきん）
+depreciation|amortization|減価償却（げんか しょうきゃく） / 償却（しょうきゃく）
+employment law|labor law|雇用法（こよう ほう） / 労働法（ろうどう ほう）
+exceptional items|unusual items|例外項目（れいがい こうもく） / 異常項目・非経常項目（いじょう こうもく・ひけいじょう こうもく）
+flotation|initial public offering (IPO)|株式公開（かぶしき こうかい） / 新規株式公開（IPO）（しんき かぶしき こうかい）
+indemnify|hold harmless and indemnify|補償する（ほしょう する） / 免責補償する（めんせき ほしょう する）
+land and buildings|real estate|土地及び建物（とち およ び たてもの） / 不動産（ふどうさん）
+maintenance|alimony|扶養料（ふよう りょう） / 離婚手当・養育費（りこん てあて・よういくひ）
+nominal value|par value|額面価値（がくめん かち） / 額面価値（がくめん かち）
+ordinary shares|common stock|普通株式（ふつう かぶしき） / 普通株（ふつう かぶ）
+preference shares|preferred stock|優先株式（ゆうせん かぶしき） / 優先株（ゆうせん かぶ）
+profit and loss account|income statement|損益計算書（そんえき けいさんしょ） / 損益計算書（そんえき けいさんしょ）
+provisions|allowances|引当金（ひきあてきん） / 引当金・備減（ひきあてきん・びげん）
+receivership|Chapter 11 bankruptcy|会社更生・管財（かいしゃ こうせい・かんざい） / 第11章破産（だいじゅういっしょう はさん）（チャプター11）
+share premium|additional paid-in capital|株式発行溢価（かぶしき はっこう いっか） / 払込資本剰余金（はらいこみ しほん じょうよきん）
+shareholders’ funds|stockholders’ equity|株主資本（かぶぬし しほん） / 株主持分（かぶぬし もちぶん）
+stocks|inventories|在庫（ざいこ） / 棚卸資産（たなおろし しさん）
+theft|larceny|窃盗（せっとう） / 窃盗罪（せっとう ざい）
+turnover|revenues|売上高（うりあげ だか） / 収益・売上（しゅうえき・うりあげ）
+undistributable reserves|restricted surplus|非配当準備金（ひはいとう じゅんびきん） / 制限付剰余金（せいげん つき じょうよきん）
+
+补充说明日语法律术语受日本商法・会社法・独占禁止法等影响，部分英美概念在日本法律体系中对应略有差异（如破产程序）。
+定款（ていかん） 是日本公司最核心的章程文件，接近英式 articles of association。
+独占禁止法（どくせんきんしほう） 是日本的反垄断法核心法律。
+财务报表相关术语多参考日本企业会计准则（J-GAAP）。
+
+####################
+8	Contracts: performance,termination and remedies
+合同：履行、终止和救济
+
+8.1 PERFORMANCE OF CONTRACTS 
+合同履行
+
+The general rule is that a party must perform exactly what he or she undertook to do in the contract. This rule may be modified in a number of ways, including:
+一般而言，一方必须严格履行其在合同中承诺的义务。但这条规则可以通过多种方式进行修改，包括：
+
+1 Substantial performance. Where a party has performed his or her contractual obligations but there are minor defects, that party will normally be able to claim the price of the work done less any money the other party will have to spend to put the defects right. Note that this principle does not apply when a fundamental term of the contract has been breached.
+实质性履行。如果一方已履行其合同义务，但存在一些小瑕疵，该方通常可以要求对方支付已完成工作的价格，但需扣除对方为弥补瑕疵而必须支付的费用。请注意，如果合同的基本条款遭到违反，则此原则不适用。
+
+2  Voluntary acceptance of partial performance. A party may agree to accept and
+pay for partial performance of the contract by the other party. However, the courts will only infer such agreement where the party accepting partial performance had a genuine choice about the matter.
+自愿接受部分履行。一方可以同意接受并支付另一方部分履行的合同。但是，法院只有在接受部分履行的一方对此事有真正选择权的情况下，才会推定存在此类协议。
+
+3 Breach of terms relating to time. If a contract is performed but performance occurs later than agreed, the effect of the delay depends on whether time of performance is considered ‘of the essence’. If so, late performance will give rise to a right to terminate the contract. If not, late performance will not justify termination unless it amounts to a substantial failure in performance (although it may give rise to a claim for damages if loss is caused).
+违反与时间相关的条款。如果合同已履行，但履行时间晚于约定时间，则延迟的后果取决于履行时间是否被视为“合同的本质要素”。如果是，则延迟履行将使合同成立，从而赋予合同解除的权利。如果不是，则延迟履行不足以构成解除合同的理由，除非其构成实质性违约（但如果造成损失，则可能引发损害赔偿请求）。
+
+4 Vicarious performance. Vicarious performance occurs where the contractual obligations of one of the parties are performed, upon that party’s request, by a third party. The general rule is that the other party cannot object to vicarious performance unless (1) it prejudices their interests, or (2) the service contracted for is one that relies on the skill and judgement of the party contracted to provide the service (e.g. an employment contract, or a contract for musical performance), or (3) the contract stipulates that the obligations must be performed personally.
+替代履行。替代履行是指一方当事人请求第三方履行其合同义务。一般而言，除非出现以下情况，否则另一方当事人不得反对替代履行：(1) 替代履行损害其利益；(2) 所订立的合同服务依赖于提供服务方的技能和判断（例如，雇佣合同或音乐表演合同）；(3) 合同规定义务必须由本人履行。
+
+Contracts may also be varied by mutual agreement. Alternatively, where a party agrees to a request of the other party to the contract not to insist on performance of part of the contract, that second party is said to have waived his or her right to insist on performance in the manner originally agreed. The parties are then bound by the terms of the waiver and no consideration is necessary to support this.
+合同也可以通过双方协商一致进行变更。或者，如果一方同意另一方提出的不坚持履行部分合同义务的请求，则视为另一方放弃了坚持按照原约定方式履行合同的权利。双方均受该放弃条款的约束，且无需任何对价支持。
+
+8.2 TERMINATION OF CONTRACTS 
+合同终止
+
+As noted above, the most usual way in which contracts are discharged is by performance. In addition, (again, as noted above) they may be void from the outset or become void or voidable for a number of reasons, including mistake, misrepresentation, lack of capacity, duress, frustration, fraud and illegality.
+如上所述，合同解除最常见的方式是履行合同。此外（同样如上所述），合同可能从一开始就无效，或者由于多种原因而无效或可撤销，这些原因包括错误、虚假陈述、缺乏行为能力、胁迫、合同落空、欺诈和违法行为。
+
+However, in some circumstances contracts are terminated as a result of breach.
+This occurs where one party performs defectively, or in a manner different from that agreed in the contract, or not at all. There are three basic types of breach:
+然而，在某些情况下，合同会因违约而终止。这种情况发生在一方履行合同时存在瑕疵，或履行方式与合同约定不符，或根本没有履行合同。违约主要有三种类型：
+
+1 Actual breach. This occurs where one party has in fact performed the contract defectively, or in a manner different from that agreed in the contract, or not at all.
+实际违约。指一方实际履行合同时存在瑕疵，或者履行方式与合同约定的方式不同，或者根本没有履行合同。
+
+2 Anticipatory breach. This refers to the situation where it becomes clear to one
+party that the other does not intend to fulfil his or her part of the contract. For example, if A agrees to sell a car to B but in fact sells and delivers it to C before the delivery date agreed with B, then as far as B is concerned an anticipatory breach of his contract with A has occurred.
+预期违约。这指的是一方明确表示另一方无意履行合同义务的情况。例如，如果A同意将汽车卖给B，但实际上在与B约定的交货日期之前将汽车卖给了C并交付给了B，那么就B而言，A已构成预期违约。
+
+3 Lawful excuse. This occurs where an actual breach of a contract can be excused as a matter of law, because the reason for breach is regarded as sufficient to justify non-performance of contractual obligations. For example, an employee who does not go to work because he is ill is not in breach of his employment contract even though the illness is not serious enough to frustrate the contract.
+合法免责事由。这种情况指的是，即使实际违反了合同，但根据法律规定，违约原因足以构成不履行合同义务的理由。例如，即使员工的病情并不严重到足以影响合同履行，但如果他因病缺勤，也不构成违反劳动合同。
+
+Every breach of contract entitles the innocent party to sue for damages, but only certain types of breach permit the innocent party to discharge the contract. It should also be noted that in respect of any actual or anticipatory breach of contract, the innocent party is not obliged to sue for damages or to discharge the contract where applicable – he or she may also choose to affirm the contract, that is, to treat it as continuing to exist.
+任何违约行为都赋予无过错方提起损害赔偿诉讼的权利，但只有某些类型的违约行为才允许无过错方解除合同。还应注意的是，对于任何实际或预期违约行为，无过错方并非必须提起损害赔偿诉讼或解除合同（如适用）——他/她也可以选择确认合同有效，即视其继续有效。
+
+There are two main circumstances in which the innocent party may choose to discharge the contract:
+有两种主要情况，无过错方可以选择解除合同：
+
+1 Repudiation. This occurs when one party makes it clear that they no longer intend to be bound by the contract, either before the contract begins or during its performance.
+解除合同。当一方在合同开始前或履行过程中明确表示不再受合同约束时，就会发生解除合同。
+
+2 Breach of a fundamental term of the contract. The terms of a contract can be divided into fundamental terms (sometimes referred to as conditions in the UK) and warranties, which are minor terms. Breach of a fundamental term permits the innocent party to terminate the contract, while breach of a warranty does not justify termination but may entitle the innocent party to claim damages.There may also be situations in which it is unclear whether a certain term should be regarded as a fundamental term or as a warranty. These terms are called innominate terms in the UK. Breach of such a term can lead to termination of the contract where the seriousness of the results of the breach justifies it.
+违反合同基本条款。合同条款可分为基本条款（在英国有时称为条件）和保证条款（次要条款）。违反基本条款允许无过错方终止合同，而违反保证条款虽然不能终止合同，但无过错方可能有权要求赔偿。有时，某些条款究竟应被视为基本条款还是保证条款可能并不明确。在英国，这类条款被称为“无名条款”。如果违约后果的严重性足以构成终止合同的理由，则违反此类条款可能导致合同终止。
+
+Contracts may also be terminated by agreement. Most commercial contracts contain termination clauses that set out the circumstances in which either party may terminate the contract. These include, for example, the insolvency or bankruptcy of the other party.
+合同也可以通过双方协商一致的方式终止。大多数商业合同都包含终止条款，规定了任何一方可以终止合同的情况。例如，另一方破产或资不抵债就属于这种情况。
+
+8.3 REMEDIES
+救济措施
+The usual remedy for breach of contract is damages, although injunctions and specific performance are available in certain circumstances. These remedies are discussed briefly below.
+违约的通常救济措施是损害赔偿，但在某些情况下，也可以申请禁令或强制履行。以下将简要讨论这些救济措施。
+
+8.3.1 Damages 损害赔偿
+8.3.1.1 Definition 定义
+Damages means the award of a sum of money by the court as compensation for a tort or breach of contract. It is important, as a matter of terminology to distinguish damages from damage. Damage is the harm suffered – which may or may not be actionable. Many synonyms may be used 
+损害赔偿是指法院判决对侵权行为或违约行为进行赔偿的金额。从术语角度来看，区分“损害赔偿”和“损失”非常重要。“损失”是指所遭受的损害——这种损害可能构成诉讼理由，也可能不构成诉讼理由。虽然“损失”有很多同义词（例如“损害”等），但“损害赔偿”通常被视为法律术语。
+
+The general principle is that of restitutio in integrum – the claimant is entitled to full compensation for the losses suffered, and the damages awarded are intended to put the claimant back in the position s/he would have been in if the contract had been properly performed. Save for in certain very limited circumstances, damages awarded by the court are not intended to punish the defendant.
+一般原则是“恢复原状”（restitutio in integrum）——索赔人有权获得全部损失赔偿，判决的赔偿金旨在使索赔人恢复到合同得到妥善履行时的状态。除某些非常有限的情况外，法院判决的赔偿金并非旨在惩罚被告。
+
+Recovery is limited by rules relating to remoteness of damage, and the claimant is under a duty to take all reasonable steps to mitigate the losses suffered and cannot claim compensation for any loss suffered by failure to do this.
+赔偿金额受损害远近规则的限制，索赔人有义务采取一切合理措施减轻损失，并且不能就因未采取此措施而造成的任何损失要求赔偿。
+
+8.3.1.2 Limitations on awards of damages 损害赔偿金的限制
+There are three ways in which the recovery of damages is limited. These are as follows:
+损害赔偿金的追偿受到以下三种限制：
+
+1 Causation. The basic rule is that a person will only be liable for losses caused by their breach of contract. The breach need not be the sole cause but it must be an effective cause. In other words, there must be a ‘chain of causation’ between the breach and the loss suffered by the claimant. If the chain of causation is broken by intervening acts (between the breach and the loss) that cannot be said to be reasonably foreseeable, then the defendant will not be liable for damages. However, if the breach can be shown to be an actual cause of the loss, the fact that there is another contributing cause will not prevent the existence of causation.
+因果关系。基本原则是，一个人仅对其违约行为造成的损失承担责任。违约行为不必是唯一原因，但必须是有效原因。换言之，违约行为与索赔人遭受的损失之间必须存在“因果链”。如果因果链被中间行为（在违约行为与损失之间）所阻断，且该中间行为无法被合理预见，则被告不承担损害赔偿责任。但是，如果能够证明违约行为是损失的实际原因，即使存在其他促成原因，也不会妨碍因果关系的成立。
+
+2 Remoteness. The defendant must compensate for damage only if that damage was within his or her ‘reasonable contemplation’ (in other words, the damage a reasonable person would have known was likely to result from the breach in the usual course of events). Unusual damage resulting from special circumstances is within the defendant’s contemplation only if a reasonable person (objective standard) would have thought it likely to result.
+间接性。被告只有在损害在其“合理预见范围之内”（换言之，在通常情况下，一个理性的人会知道违约行为可能造成的损害）时，才必须赔偿该损害。因特殊情况造成的异常损害，只有在一个理性的人（客观标准）认为该损害可能发生的情况下，才属于被告的预见范围之内。
+
+3 Mitigation. Mitigation means the reduction in the loss or injury resulting from a tort or breach of contract. The point here is that the injured party is under a duty to take all reasonable steps to mitigate loss when claiming damages, and will not be able to claim damages for losses that could have been avoided by taking reasonable steps.
+减轻损害。减轻损害是指减少因侵权或违约行为造成的损失或伤害。关键在于，受害方在提出损害赔偿请求时有义务采取一切合理措施减轻损失，并且不得就本可通过采取合理措施避免的损失提出赔偿请求。
+
+8.3.1.3 Classification of damages 损害赔偿的分类
+Damages may be classified in a number of ways. Note that the classifications given below may overlap. For example, the term substantial damages may also be classified as general damages.
+损害赔偿可以按多种方式分类。请注意，以下分类可能存在重叠。例如，“重大损害”一词也可归类为“一般损害”。
+
+Substantial damages are given when actual damage has been caused.
+当造成实际损害时，会给予实质性赔偿。
+
+Nominal damages may be given for breach of contract and for some torts (e.g.trespass) in which no actual damage has been caused, as a means of vindicating the claimant’s rights.
+对于违反合同和某些侵权行为（例如非法侵入），即使没有造成实际损害，也可以给予象征性赔偿，以此来维护索赔人的权利。
+
+Liquidated damages are a sum fixed in advance by the parties as the amount to be paid in the event of a breach. They are recoverable provided the sum fixed was a fair estimate of the likely consequences of a breach, but not if they were imposed as a penalty.
+违约赔偿金是指双方预先约定的一笔金额，用于在发生违约时支付。如果约定的金额是对违约可能后果的合理估计，则可以追回；但如果违约赔偿金是作为惩罚性措施而设定的，则不能追回。
+
+Unliquidated damages are damages the amount of which is fixed by the court.
+非确定性损害赔偿是指由法院确定赔偿金额的损害赔偿。
+
+General damages may be: (1) damages given for losses which the law presumes are the natural and probable consequences of a wrong (e.g. libel is presumed to have damaged someone’s reputation without proof that that person’s reputation has actually suffered), or (2) damages given for a loss that cannot be precisely estimated (e.g. for pain and suffering).
+一般损害赔偿可以是：（1）法律推定为不法行为的自然和可能后果而给予的损害赔偿（例如，诽谤被推定损害了某人的名誉，而无需证明该人的名誉确实受到了损害），或者（2）无法精确估计的损失而给予的损害赔偿（例如，精神痛苦）。
+
+Special damages are: (1) damages given for losses that are not presumed but have been specifically proved, and (2) damages given for losses that can be quantified (e.g. loss of earnings).
+特殊损害赔偿包括：（1）为非推定损失而给予的损害赔偿，以及（2）为可量化损失（例如收入损失）给予的损害赔偿。
+
+Exemplary damages (also known as punitive damages) may in exceptional circumstances be awarded in tort cases but are never awarded in contract cases.
+在侵权案件中，特殊情况下可能会判处惩罚性赔偿（也称为惩戒性赔偿），但在合同案件中则绝不会判处惩罚性赔偿。
+
+Their purpose is to punish the defendant as well as compensate the claimant for harm done. They can be awarded in three circumstances:
+其目的是惩罚被告并赔偿原告所受损害。在以下三种情况下可以判处赔偿：
+
+1 when expressly authorised by statute;
+2 to punish oppressive, arbitrary or unconstitutional acts by government servants;
+3 when the defendant has deliberately calculated that the profits to be made out of committing the tort may exceed the damages at risk (put colloquially, ‘if you can do the time, do the crime’).
+1. 法律明确授权时；
+2. 为惩罚政府官员的压迫性、专断性或违宪行为时；
+3. 被告人蓄意计算，实施侵权行为所获得的利润可能超过可能造成的损害（通俗地说，“如果能承担后果，就去犯罪”）。
+
+Aggravated damages are awarded when the conduct of the defendant or the surrounding circumstances increase the injury to the claimant by subjecting him or her to humiliation, distress, or embarrassment, particularly in such torts as assault, false imprisonment, and defamation.
+当被告的行为或周围环境使原告遭受羞辱、痛苦或尴尬，从而加重原告的伤害时，尤其是在人身攻击、非法监禁和诽谤等侵权行为中，可以判处加重赔偿。
+
+8.3.2 Injunctions 禁令
+An injunction is a type of court order that either prohibits a party from doing or continuing to do a particular thing (prohibitory injunction), or orders that party to carry out a certain act (mandatory injunction).
+禁令是一种法院命令，它可以禁止一方当事人实施或继续实施特定行为（禁止性禁令），也可以命令该方当事人执行特定行为（强制性禁令）。
+
+When considering an application for a mandatory injunction, the court applies a balance of convenience test, and may refuse to grant the injunction if the defendant would lose a lot more by restoring the original position than the claimant would gain.
+在考虑强制令申请时，法院会进行利益平衡测试，如果被告恢复原状所遭受的损失远大于原告所获得的收益，则法院可能会拒绝颁发禁令。
+
+8.3.3 Specific performance 强制履行
+Specific performance is a court order, which compels a party to perform their obligations under a contract. It is only granted where damages alone would not constitute adequate compensation (although damages may be ordered in addition to specific performance). This situation arises where the goods that are the subject of the contract are in some way unique and cannot therefore be replaced by money. Therefore, specific performance is mainly applied in contracts to sell land.
+强制履行是法院的一项命令，强制一方履行其在合同项下的义务。只有在仅靠损害赔偿不足以弥补损失的情况下才会授予强制履行（尽管法院也可以在强制履行之外判令损害赔偿）。这种情况通常发生在合同标的物具有独特性，无法用金钱替代时。因此，强制履行主要适用于土地买卖合同。
+
+Specific performance is not available in cases of (1) contracts involving personal services (e.g. employment contracts), and (2) contracts that involve continuous duties.
+在以下情况下，不能强制履行：（1）涉及个人服务的合同（例如雇佣合同）；（2）涉及持续性义务的合同。
+
+8.3.4 Agreed remedies  约定的补救措施
+In order to ensure some predictability in contractual relations many commercial contracts specify the kinds of breach that will justify termination and stipulate the levels of damages to be paid in the event of certain types of breach. For example, building contracts routinely provide for specified damages to be paid in the event that the building is not completed on time.
+为了确保合同关系的可预测性，许多商业合同都会明确规定哪些违约行为构成终止合同的理由，并规定在发生特定类型的违约时应支付的赔偿金额。例如，建筑合同通常会规定，如果建筑物未能按时完工，则应支付特定的赔偿金。
+
+8.3.4.1 Liquidated damages clause 违约赔偿条款
+Liquidated damages is the term used where a contract specifies the amount of damages to be paid if the contract is breached. This amount reflects – or should reflect – the parties’ estimate of the actual loss that would be incurred in the event of such a breach. In such cases, the courts will allow the claimant to recover this amount without proof of loss, and the usual rules regarding damages will be excluded.
+违约赔偿条款是指合同中明确规定，如果合同违约，则需支付的赔偿金额。该金额反映（或应当反映）双方对违约实际损失的预估。在这种情况下，法院允许索赔人在无需证明损失的情况下获得该金额的赔偿，并且通常的损害赔偿规则将被排除在外。
+
+9	Contracts: structure and interpretation 合同：结构与解释
+9.1 STRUCTURE OF CONTRACTS  合同的结构
+There is generally no legal requirement for a contract to follow a particular format or layout. The exact structure used will vary according to the kind of document being drafted. However, most modern commercial contracts prepared by lawyers follow a similar structure.
+法律通常没有规定合同必须遵循特定的格式或布局。具体的结构会根据所起草文件的类型而有所不同。然而，大多数由律师起草的现代商业合同都遵循类似的结构。
+
+There are obvious advantages in having a structured and standard layout that is familiar both to lawyers and to parties to the contract. The aim in all cases should be to produce a document that is laid out in a clear and logical way, thus making it as easy as possible to read and understand.
+采用结构化且标准化的布局，对律师和合同双方都适用，这显然具有诸多优势。所有情况下，目标都应该是制作一份清晰、逻辑严谨的文件，使其尽可能易于阅读和理解。
+
+As a rough rule, the structure of a typical commercial contract is as follows:
+一般而言，典型商业合同的结构如下：
+● the names and addresses of the parties  当事人的姓名和地址
+● recitals 序言
+● definitions  定义
+● conditions precedent 先决条件
+● agreements 协议
+● representations and warranties 陈述与保证
+● boilerplate clauses 标准条款
+● schedules 附表
+● signatures 签名
+● appendices 附录
+
+These brief headings are considered in the notes below.
+以下注释将对这些简要标题进行探讨。
+
+9.1.1 The names and addresses of the parties 
+各方当事人的名称和地址
+The first section of the contract usually sets out the full names and postal addresses of all the parties to the contract. This section may also specify that a shortened name will be used in the remainder of the contract to denote each of the parties. For example:
+合同的第一部分通常列明合同所有当事人的全名和邮政地址。该部分还可以规定，在合同的其余部分将使用简称来指代各方当事人。例如：
+
+Pan-Oceanic Shrimp Packers plc (hereinafter referred to as “the Company”)
+泛洋虾类包装有限公司（以下简称“公司”）
+The words ‘the Company’ will then be used in the remainder of the contract in place of Pan-Oceanic Shrimp Packers plc.
+合同的其余部分将使用“本公司”一词来代替 Pan-Oceanic Shrimp Packers plc。
+
+9.1.2  Recital 序言
+The recital is often referred to as a nonoperative part of the contract since it has no specific legal effect. The purpose of the recital is to explain to the reader the background to the transaction. If necessary, the recital also sets out certain facts that may influence the way in which a court might interpret provisions of the contract.
+序言通常被认为是合同的非执行性部分，因为它不具有具体的法律效力。序言的目的是向读者解释交易的背景。如有必要，序言还会列出一些可能影响法院对合同条款解释的事实。
+
+For example, the background to an exclusion clause might be clarified by relating the decision of both parties to impose the risk of loss on one party rather than the other because this is more economical from an insurance viewpoint.
+例如，可以通过说明双方决定将损失风险转嫁给一方而不是另一方，因为从保险角度来看，这样做更经济，来阐明除外条款的背景。
+
+If it is vital to the contract that the content of the recital be treated as an integral part of the substantive part of the contract, an express clause to this effect should be included in the contract.
+如果合同的实质部分必须将序言的内容视为合同实质部分的组成部分，则应在合同中加入明确的条款。
+
+9.1.3 Definitions 定义
+The definitions section contains a list of terms used later in the contract. A definition is given for each term, which represents the way in which the drafters of the contract wish the term to be interpreted as a matter of law. Here is an example of a definition:
+定义部分列出了合同后续部分中使用的术语。每个术语都附有定义，代表合同起草者希望该术语在法律上的解释方式。以下是一个定义示例：
+
+“Execution date” shall mean 3 October 2005, the date of execution of this Agreement.
+“执行日期”是指 2005 年 10 月 3 日，即本协议的签署日期。
+
+Often the definitions section needs to be read in conjunction with another section of the agreement. For example, a definition may simply state that ‘. . . shall have the meaning assigned to that term in Section 4.3 of this Agreement’.
+通常，定义部分需要与协议的其他部分结合阅读。例如，某个定义可能只是简单地规定“……应具有本协议第4.3条中赋予该术语的含义”。
+
+The definitions form part of the substance of the contract since they prescribe that certain words and phrases shall mean certain things. It is best to state directly what these words and phrases shall mean rather than resorting to phrases such as ‘where the context so admits’, since this creates potential for ambiguity.
+这些定义构成合同实质的一部分，因为它们规定了某些词语和短语的具体含义。最好直接阐明这些词语和短语的含义，而不是使用“视上下文而定”之类的表述，因为后者容易造成歧义。
+
+Problems arise with definitions when:
+以下情况会导致定义出现问题：
+1 the defined word or phrase is used in the agreement in a different sense to the one in which it is defined;
+协议中对已定义词语或短语的使用方式与定义时的含义不同；
+2 the definition is too vague, so that the exact meaning is unclear and depends upon the parties’ interpretation;
+定义过于模糊，导致其确切含义不明确，需要双方自行解释；
+3 the definition is too narrow, in which case it can lead to absurd or unintended meanings in certain contexts;
+定义过于狭隘，在某些情况下可能导致荒谬或意想不到的含义；
+4 a term is defined to be used only once in the agreement;
+某个术语的定义仅在协议中使用一次；
+5 the definition contravenes the golden rule of drafting – which states never change your language unless you wish to change your meaning, and always change your language if you wish to change your meaning.
+定义违反了合同起草的黄金法则——即：除非你想改变含义，否则不要改变措辞；如果想改变含义，则必须改变措辞。
+
+When drafting a contract it is often convenient to insert definitions throughout the agreement, as necessary, and then to remove these once the contract has been drafted, then edit and arrange them in a suitable order in the initial definitions section.
+在起草合同时，通常可以方便地根据需要在协议中插入定义，然后在合同起草完成后删除这些定义，再在初始定义部分中编辑并按合适的顺序排列它们。
+
+9.1.4 Conditions precedent 先决条件
+Conditions precedent are conditions which have to be satisfied before the agreement comes into force. They are generally viewed as being outside the main terms of the contract.
+先决条件是指协议生效前必须满足的条件。它们通常被视为合同主要条款之外的条款。
+
+One important consequence of this fact is that these conditions are therefore not subject to the parol evidence rule. This rule states that where all the terms of a contract are contained in a written document, no external evidence may be added to it to vary the interpretation to be given to the contract. Since the conditions precedent are not regarded as forming part of the main terms of the contract, the parol evidence rule does not apply. Consequently, it follows that external evidence can be added to vary the interpretation of such clauses.
+这一事实的一个重要后果是，这些条件因此不受口头证据规则的约束。该规则规定，如果合同的所有条款都包含在书面文件中，则不得添加任何外部证据来改变对合同的解释。由于先决条件不被视为构成合同主要条款的一部分，因此口头证据规则不适用。由此可见，可以添加外部证据来改变对这些条款的解释。
+
+Contracts may stipulate that if a specified future event occurs during the term of the contract then it will be terminated. This type of stipulation is sometimes known as a condition subsequent.
+合同可以规定，如果在合同期限内发生特定的未来事件，则合同终止。这种条款有时被称为事后条件。
+
+9.1.5 Agreements 协议部分
+The agreements section contains the rights and obligations of the parties. This part reflects the heart of the deal struck between the parties. The drafting of the clauses will therefore depend upon the particular facts of the case at hand. In a simple sale of goods contract, the seller will promise to sell and deliver goods of a certain description and quality. The buyer will promise to pay for them.
+协议部分包含双方的权利和义务。这部分体现了双方达成的交易的核心。因此，条款的起草将取决于具体案件的事实。在简单的货物买卖合同中，卖方承诺出售并交付特定描述和质量的货物。买方承诺支付货款。
+
+In addition, this part of the contract will contain various clauses covering what happens if the seller fails to deliver or the buyer fails to pay.
+此外，合同的这一部分将包含各种条款，涵盖如果卖方未能交货或买方未能付款会发生什么情况。
+
+9.1.6 Representations and warranties 陈述与保证 
+The representations and warranties section contains promises by one or other party that a given statement or set of facts is true. A representation is a statement of fact made by one contracting party to the other, which induces the other to enter the contract. A warranty is a contractual promise and if such a promise is broken, the innocent party will be able to claim damages.
+陈述与保证条款包含一方或另一方对特定陈述或事实真实性的承诺。陈述是指合同一方向另一方作出的事实陈述，该陈述诱使另一方订立合同。保证是合同承诺，如果该承诺被违反，无过错方有权要求赔偿损失。
+
+9.1.7 Boilerplate clauses 格式条款
+Boilerplate clauses are standard clauses that are inserted as a matter of course into certain types of agreement. They relate to issues that are to do with the way in which the contract works rather than the heart of the deal itself. These include clauses dealing with service of notices (the means by which documents which relate to the contract must be sent) and assignment (whether and on what basis the parties can transfer the contract to other parties) together with many other types of clause.
+格式条款是指某些类型的协议中例行插入的标准条款。它们涉及合同运作方式，而非交易的核心内容。这些条款包括关于送达通知（合同相关文件的送达方式）和转让（合同当事人是否可以以及基于何种依据将合同转让给其他方）的条款，以及其他多种类型的条款。
+
+9.1.8 Schedules 附件
+If the contract contains certain very detailed agreements or information, the parties often prefer to put this in schedules that are contained at the back of the contract, instead of cluttering up the main part of the contract with a mass of detail. For example, if a contract must contain a very detailed price list for various kinds of goods sold under the contract, this is usually placed in a schedule rather than in the main part of the contract.
+如果合同包含某些非常详细的协议或信息，双方通常倾向于将其放在合同末尾的附件中，而不是让合同正文充斥着大量细节。例如，如果合同必须包含一份非常详细的各类商品价格清单，通常会将其放在附件中，而不是合同正文中。
+
+It should be noted that the stipulations contained in the schedules do form part of the substantive agreement between the parties.
+需要注意的是，附件中所载的规定构成双方之间实质性协议的一部分。
+
+9.1.9 Signature section 签名栏
+The signature section comes after the schedules and before the appendices.Witnesses are not required for most kinds of contract. All parties to the contract are required to sign the document as evidence of their agreement to its terms.
+签名栏位于附表之后、附录之前。大多数类型的合同不需要证人。合同所有当事方均须在文件上签字，以证明其同意合同条款。
+
+The parties’ names are usually printed together with the date of the contract, and the parties must then add their signatures to the contract. It is common practice for contracts to be produced in duplicate. This means that two copies of the contract are made – one for each party – and the parties each sign both copies of the contract.
+合同上通常会印有双方当事人的姓名和合同日期，然后双方当事人必须在合同上签字。合同一式两份是常见的做法。这意味着合同会制作两份副本——双方各一份——并且双方都需要在两份副本上签字。
+
+9.1.10 Appendices 附件
+Appendices usually contain documents that are referred to in the contract. These may simply be put there because they are useful reference material for the parties. They do not necessarily form part of the substantive agreement between the parties. For example, in a contract for the sale of machine parts by one company to another, the appendices to the contract might contain detailed drawings or specifications for the machine parts for illustrative purposes.
+附件通常包含合同中提及的文件。这些文件可能仅仅是为了方便双方查阅而添加的，并不一定构成双方实质性协议的一部分。例如，在一家公司向另一家公司出售机器零件的合同中，合同附件可能包含机器零件的详细图纸或规格说明，仅供参考。
+
+9.2 PRINCIPLES OF INTERPRETATION 解释原则
+9.2.1 The textual approach  文本解释法
+The basic method of interpretation traditionally used by common law lawyers is known as the textual or literal approach. This approach is based on the idea that the meaning and effect of a contract or piece of legislation should be determined solely from the words of the text itself and not from any external evidence.
+普通法律师传统上使用的基本解释方法被称为文本解释法或字面解释法。这种方法基于这样的理念：合同或法律条文的含义和效力应完全根据文本本身的文字来确定，而不应依赖任何外部证据。
+
+This method contrasts with the approach to interpretation traditionally taken in civil law jurisdictions. In such jurisdictions, the purposive or teleological approach is used. This is based on the idea that the meaning and effect of a contract or piece of legislation should be determined by taking account of object and purpose of the contract or piece of legislation and the intentions of the parties (if a contract) or intention of the drafter (if legislation).
+这种方法与大陆法系国家传统的解释方法截然不同。在大陆法系国家，通常采用目的解释或目的论解释方法。这种方法基于这样的理念：合同或法律条文的含义和效力应根据合同或法律条文的目标和目的，以及当事人的意图（如果是合同）或起草者的意图（如果是法律）来确定。
+
+The effect of this approach on the drafting of contracts is that common law lawyers tend to draft contracts in a way that seeks to cover any possible thing that might go wrong in the contract, no matter how remote. This of course leads to long and complicated documents. This tendency is made worse by the fact that many common law countries (particularly the USA and to a lesser extent the UK) have lightly regulated free-market economies in which parties’ freedom to contract is not much affected by legal rules. In such climates there is greater need for remedies and dispute resolution methods to be specifically agreed between the parties in the contract itself.
+这种方法对合同起草的影响是，普通法律师倾向于在起草合同时力求涵盖合同中可能出现的任何错误，无论这些错误多么罕见。这自然会导致合同冗长而复杂。许多普通法国家（尤其是美国，以及程度稍轻的英国）实行宽松的自由市场经济，当事人的合同自由不受法律规则的过多约束，这加剧了这种倾向。在这样的环境下，当事人更需要在合同中明确约定救济措施和争议解决方式。
+
+9.2.2 Specific rules of interpretation 具体的解释规则
+In addition to the basic approach outlined above, some specific rules of interpretation are used in common law jurisdictions. These are briefly outlined below.
+除了上述基本方法外，普通法系国家还采用一些具体的解释规则。这些规则简述如下。
+
+9.2.2.1 The document must be read as a whole 必须将文件作为一个整体来阅读。
+This rule provides that when a reader is seeking to interpret the meaning of a particular clause in a contract, this should not be done without taking into consideration what the rest of the contract says. The exact meaning of a part of the contract should become clear once the whole document has been read.
+这条规则规定，当读者试图解释合同中某一条款的含义时，不应脱离合同的其余部分。只有在通读整份文件后，合同某一部分的确切含义才会变得清晰明了。
+
+9.2.2.2 Contra proferentem rule 不利解释原则
+This rule provides that if an ambiguity in a contract cannot be resolved in any other way then it must be interpreted against the interests of the party that suggested it.
+该原则规定，如果合同中的歧义无法以任何其他方式解决，则必须作出不利于提出该歧义一方的解释。
+
+For example, if a problem arises concerning the extent of cover provided in an insurance contract and one interpretation favours the insurer and the other the insured, the court will use the interpretation that favours the insured.
+例如，如果保险合同中规定的承保范围出现问题，一种解释有利于保险人，另一种解释有利于被保险人，法院将采用有利于被保险人的解释。
+
+9.2.2.3 Noscitur a sociis rule  “Noscitur a sociis”原则
+Noscitur a sociis is Latin meaning ‘it is known by its neighbours’. The noscitur a sociis rule states that if the meaning of a phrase in a contract is unclear by itself, its meaning should be gathered from the words and phrases associated with it.
+“Noscitur a sociis”是拉丁语，意为“邻语可知”。该原则指出，如果合同中某个短语的含义本身不明确，则应从与其相关的词语和短语中推断其含义。
+
+9.2.2.4 Ejusdem generis rule 同类规则
+Ejusdem generis is Latin meaning ‘of the same kind’. The ejusdem generis rule applies when a list of specific items belonging to the same class is followed by general words; the general words are treated as confined to other items of the same class.
+同类规则（Ejusdem generis）源于拉丁语，意为“同类”。当列举一系列属于同一类别的具体项目后紧跟一般性词语时，就适用同类规则；这些一般性词语被视为仅限于同一类别的其他项目。
+
+Therefore, if a list reads ‘cats, dogs, and other animals’, the phrase ‘other animals’ will be interpreted as meaning other domestic animals only.
+因此，如果一个清单上写着“猫、狗和其他动物”，那么“其他动物”一词将被解释为仅指其他家畜。
+
+The phrase inter alia (including but not limited to) is often used to avoid this presumption being made – it indicates that the list is not exhaustive, but merely illustrative.
+“除其他事项外（包括但不限于）”这一短语经常被用来避免这种推定——它表示该列表并非详尽无遗，而只是举例说明。
+
+9.2.2.5 Expressio unius est exclusio alterius rule  “Expressio unius est exclusio alterius”规则
+Expressio unius est exclusio alterius is Latin meaning ‘the inclusion of one is the exclusion of another’. The expressio unius est exclusio alterius rule states that when a list of specific items is not followed by general words, it is taken as exhaustive. For example, ‘weekends and public holidays’ excludes ordinary weekdays.
+“Expressio unius est exclusio alterius”是拉丁语，意为“包含一项即排除另一项”。这条规则指出，当列举具体项目后没有使用概括性词语时，该列表被视为穷尽所有项目。例如，“周末和公共假日”就不包括普通工作日。
+
+9.2.3 Golden rules of interpretation 释经的黄金法则
+Two rules of interpretation are sometimes referred to as golden rules on account of their overriding importance. These are:
+由于其至关重要的重要性，有两条释经法则有时被称为黄金法则。它们是：
+
+9.2.3.1 Words should be given their ordinary meaning 词语应按其通常含义理解。
+This rule provides that when reading a contract one should stick to the ordinary and grammatical sense of the words being used. There are two exceptions to this:
+这条规则规定，在阅读合同时，应遵循所用词语的通常含义和语法意义。但有两种例外情况：
+
+● Where the ordinary meaning of a word leads either to absurdity or
+inconsistency with the rest of the document, the meaning should be modified in the light of the intentions of the parties to avoid such absurdity or inconsistency.
+如果某个词语的通常含义会导致荒谬或与文件其他部分不一致，则应根据各方的意图修改该词语的含义，以避免此类荒谬或不一致。
+● Technical words should be given their technical meanings.
+技术术语应采用其技术含义。
+
+9.2.3.2 Consistent terminology 术语一致性
+This rule is often stated as follows:
+这条规则通常表述如下：
+
+Never change your language unless you wish to change your meaning, and always change your language if you wish to change your meaning.
+除非你想改变含义，否则切勿随意更改措辞；如果想改变含义，则务必更改措辞。
+
+The basic point here is that if you have used one word to refer to a particular concept, you should stick to it consistently throughout the document. If you change to a different word, there is a risk that this will be interpreted to mean a different concept. For this reason, defined terms are often used in commercial contracts as a means of maximising consistency of terminology and fixing the meaning of words.
+关键在于，如果你用一个词来指代某个特定概念，就应该在整份文件中始终使用该词。如果改用其他词语，则存在被解读为不同概念的风险。因此，商业合同中通常会使用定义术语，以最大限度地保持术语的一致性并明确词义。
+
+EXERCISE 21 练习21
+Refer to the text above to find the answers to the following questions. The answers can be found in the answer key at the back of the book.
+Alternatively, visit the Companion Website to access this question online.
+(1) Can a valid contract be concluded by means of spoken words?
+(2) What is the meaning of the word ‘void’?
+(3) In what part of a contract might one find background information about why the contract has been concluded?
+(4) In what part of a contract might one find the meanings of certain terms used repeatedly in the contract?
+(5) What name is given to types of clauses routinely inserted into commercial contracts, which deal with the way in which the contract is governed?
+(6) What is the name given to a situation in which one party agrees not to insist on part of the agreement being carried out in the manner originally agreed?
+(7) What is the ‘literal’ approach to contract interpretation?
+(8) What is the effect of the contra proferentem rule?
+(9) When should one interpret a word in a contract differently from the ordinary meaning of that word?
+(10) Why is the phrase inter alia often used in relation to lists in contracts?
+
+请参考以上文本查找以下问题的答案。答案可在书后的答案册中找到。
+或者，您也可以访问配套网站在线查看此问题。
+(1) 口头协议可以订立有效的合同吗？
+(2) “无效”一词的含义是什么？
+(3)
+(4) 在合同的哪个部分可以找到合同中反复使用的某些术语的含义？
+(5) 合同中通常包含的、规定合同适用方式的条款类型叫什么？
+(6) 一方同意不坚持要求按照最初约定的方式履行部分协议的情况叫什么？
+(7) 什么是合同解释的“字面解释”方法？
+(8) 不利解释原则（contra proferentem rule）的效力是什么？
+(9) 在什么情况下，合同中的某个词语应该作与该词语通常含义不同的解释？
+(10) 为什么合同中的清单经常使用“除其他事项外”这样的短语？
+
+10	Contract clauses: types and specimen clauses 合同条款：类型和范本
+10.1 OVERVIEW 概述
+As discussed above, there is no legal requirement for contracts to follow a particular format or layout, but it is customary for modern commercial contracts to do so.
+如上所述，法律并未规定合同必须遵循特定的格式或布局，但现代商业合同通常都采用这种格式或布局。
+
+The notes below set out the different sections of a typical commercial contract and the kinds of clauses (and provisions that may be included within clauses also dealing with other issues) that might be included in each section. Example clauses are given in respect of those provisions which amount to complete clauses in themselves.
+以下说明列出了典型商业合同的不同部分，以及每个部分可能包含的条款类型（以及可能包含在涉及其他事项的条款中的规定）。对于本身构成完整条款的规定，则提供了示例条款。
+
+This is not intended as an exhaustive list. Furthermore, not all of the types of clauses and provisions set out below will be relevant to every type of commercial contract. However, the contents of the following subsections can be used as a rough checklist for drafters who wish to check that they have covered the most obvious aspects of the contract being prepared.
+这并非一份详尽的清单。此外，下文列出的条款和规定并非适用于所有类型的商业合同。然而，以下各小节的内容可作为合同起草者的粗略检查清单，帮助他们确认是否已涵盖合同中最显而易见的方面。
+
+10.2 DEFINITIONS 定义
+Affiliates etc: the term ‘affiliates’ refers to individuals or companies connected with a party to the contract.
+关联方等：术语“关联方”是指与合同一方有关联的个人或公司。
+
+Charges: the term ‘charges’ refers both to fees, costs and payments to be made under the contract or incurred by one of the parties, or to legal charges (e.g.mortgages) on property etc.
+费用：术语“费用”既指根据合同应支付的费用、成本和款项，也指一方应承担的费用、成本和款项，或者指财产等的法律费用（例如抵押贷款）。
+
+Commencement date: the date on which the agreement comes into effect, or the obligations under the agreement commence.
+生效日期：协议生效之日，或协议项下义务开始履行之日。
+
+Completion: the term ‘completion’ can mean either the formal coming into effect of the contract or the completion of work to be done under the contract.
+完成：术语“完成”既可以指合同正式生效，也可以指合同项下工作完成。
+
+Exclusive, non-exclusive and sole: where these words have particular meanings, for example, as applicable to agency or distribution agreements.
+独家、非​​独家和唯一：这些词语具有特定的含义，例如，适用于代理或分销协议。
+
+Force majeure: the circumstances under which the parties may be released from their obligations under the contract (see below).
+不可抗力：指当事人可以免除其在合同项下义务的情况（见下文）。
+
+Intellectual property: the extent and nature of the intellectual property dealt with and to be protected by the parties under the contract. This may be defined by means of a general definition in the definitions section cross-referenced to a schedule in which the various aspects of intellectual property to be protected are defined and itemised in detail.
+知识产权：指合同双方所涉及需要保护的知识产权的范围和性质。这可以通过定义部分中的一般定义来界定，并可参照附表，该附表详细定义和列举了需要保护的知识产权的各个方面。
+
+Interpretation: the way in which the parties should interpret references to: legislation (i.e. to include future amendments); gender (i.e. references to ‘he’ may also include ‘she’ and vice versa); singular and plural forms of words used in the contract; headings, etc.
+解释：双方应如何解释以下方面的引用：法律（即包括未来的修订）；性别（即“他”的引用也可能包括“她”，反之亦然）；合同中使用的词语的单数和复数形式；标题等。
+
+Expressions of time (months, years, etc.): the way in which the term ‘month’, ‘year’, and so on, should be interpreted.
+时间表达方式（月、年等）：术语“月”、“年”等的解释方式。
+
+Parties: the names to be used in referring to the parties in the contract (e.g. expressions such as ‘Employer’ and ‘Employee’, or ‘Company’ and ‘Distributor’) may be used in place of the parties’ full names.
+当事人：在合同中提及当事人时，可以使用“雇主”和“雇员”或“公司”和“分销商”等名称来代替当事人的全名。
+
+Price: the payment terms and interest rates applicable.
+价格：适用的付款条件和利率。
+
+Subcontracting: the identification and role of particular subcontractors that will carry out aspects of the work agreed between the parties in the main contract.
+分包：确定并指定特定分包商，由其执行主合同双方约定的部分工作。
+
+Territory: definition of the territory to which the contract applies.
+地域范围：合同适用地域的定义。
+
+10.3 MAIN COMMERCIAL PROVISIONS 主要商业条款
+Acknowledgements  确认
+This clauses indicates the existence of a legal relationship or that a person has not relied on certain statements or facts. Here is an example: Party A acknowledges that Party B has assigned certain R&D contracts with Party C to Part A (“R&D Contracts”).
+本条款表明存在法律关系，或表明某人并未依赖某些陈述或事实。例如：甲方确认乙方已将与丙方签订的某些研发合同（“研发合同”）转让给甲方。
+
+Vocabulary: to ‘assign’ means to transfer, and ‘R&D’ means ‘research and development’.
+词汇：‘assign’的意思是转移，‘R&D’的意思是‘研究与开发’。
+
+Appointment In this clause, one party appoints another party to carry out specified tasks or fulfil a specified role. It is important to ensure that the clause is clear about who is being appointed, what they are being appointed to do, whether and how much they will be paid for doing it and how long the appointment is to last.
+委任条款：本条款中，一方委任另一方执行特定任务或履行特定职责。务必确保条款明确规定受委任者是谁、受委任者负责什么工作、是否以及支付多少报酬以及委任期限。
+
+Here is an example, in which one party appoints another to provide certain services.
+以下是一个例子，其中一方指定另一方提供某些服务。
+
+Party A hereby appoints Party B to provide haulage services in the Territory for the Term in return for the Payments, and Party B accepts such appointment.
+甲方特此委任乙方在指定区域内提供运输服务，期限为指定期限，乙方将支付相应款项作为对价；乙方接受该委任。
+
+Vocabulary: ‘haulage’ means transportation, usually by lorry. The ‘Territory’ refers to a specific geographical area defined elsewhere in the contact, and the nature of the ‘Payments’ will also be defined elsewhere in the contract.
+词汇表：“运输”指运输，通常指货车运输。“地域”指合同其他条款中界定的特定地理区域，“付款”的性质也将在合同其他条款中予以规定。
+
+Audit and records
+审计和记录
+This type of clause is needed where payments under the contract are calculated by reference to variable factors (e.g. extent of work done or sales received) and provides a right of audit – that is, a right to carry out an official inspection of financial records – to the party that will receive such payments. The clause should deal with such questions as what records may be examined, whether copies may be made of them, how long the right to inspect will continue for, who bears the costs of the audit, and so forth.
+如果合同项下的付款金额是根据可变因素（例如，已完成的工作量或已收到的销售额）计算的，则需要此类条款，并赋予收款方审计权，即对财务记录进行正式检查的权利。该条款应涵盖诸如可以检查哪些记录、是否可以复制记录、检查权持续多长时间、审计费用由谁承担等问题。
+
+The example clause below empowers the authorised representatives of each party to inspect certain records.
+以下示例条款授权各方授权代表查阅特定记录。
+
+The authorised representative of each party shall be entitled at that party’s expense to inspect and audit the books, accounts and records relating to the subject matter of the contract, the times at which such inspection shall take place to be agreed between the parties in advance of each inspection.
+各方授权代表有权自费查阅和审计与本合同标的物相关的账簿、账户和记录。查阅时间由双方事先协商确定。
+
+Vocabulary: the ‘subject matter’ of the contract means the deal the contract is designed to put into effect, and ‘in advance of’ means before.
+词汇：合同的“标的物”是指合同旨在实施的交易，“提前”是指在……之前。
+
+Best endeavours
+尽力而为
+This provision is generally contained within another clause, and it creates a qualified obligation whereby a party must demonstrate a high level of commitment and effort towards achieving a certain result, but is not absolutely obliged to achieve it (e.g. ‘A shall use its best endeavours to sell the Products as specified in Appendix II’). Generally speaking, this kind of formulation should be avoided if it is possible to indicate specific and absolute obligations.
+此条款通常包含在其他条款中，它规定了一项有条件的义务，即一方必须展现出高度的投入和努力以实现特定结果，但并非绝对必须实现该结果（例如，“A应尽最大努力销售附录二中规定的产品”）。一般来说，如果能够明确规定具体且绝对的义务，则应避免使用此类表述。
+
+Here is an example of a best endeavours clause relating to dispute resolution.
+以下是关于争议解决的尽力条款示例。
+
+If the unresolved dispute is having a material and adverse effect on the Project, the Parties shall use their best endeavours to achieve an expeditious resolution of the dispute.
+如果未解决的争议对项目产生了实质性的不利影响，双方应尽最大努力尽快解决争议。
+
+Vocabulary: ‘material’ in this context means significant, and ‘adverse’ means harmful. The word ‘expeditious’ is frequently used in legal contexts to mean quick.
+词汇：此处“material”指重要的，“adverse”指有害的。“expeditious”一词在法律语境中常用于表示快速。
+
+Commencement
+生效日期
+This provision is generally contained within another clause and indicates when performance of the obligation contained in that clause is to start. Particular care should be taken in drafting where the commencement date is different from the date of the contract or where different parts of the contract commence on different dates.
+本条款通常包含在另一条款中，用于指明该条款所载义务的履行何时开始。当生效日期与合同签订日期不同，或合同的不同部分生效日期不同时，在起草本条款时应格外注意。
+
+The example clause below stipulates the commencement date in a fixed-term contract.
+以下示例条款规定了定期合同的生效日期。
+
+This agreement shall commence on [insert date] (“the Commencement Date”) and continue for a period of [ ] months unless terminated earlier by either party under the provisions of Clause [ ].
+本协议自[插入日期]（“生效日期”）起生效，有效期为[ ]个月，除非任何一方根据第[ ]条的规定提前终止本协议。
+
+Completion
+完成
+This provision is generally contained within another clause to indicate when certain defined activities are to take place. Care should be taken to ensure that the meaning of the word ‘completion’ is clear and unambiguous in the contexts in which it is used.
+本条款通常包含在另一条款中，用于指明某些特定活动何时进行。应注意确保“完成”一词在其使用语境中的含义清晰明确。
+
+This example clause provides a definition for the term ‘Completion Date’.
+本示例条款对“完成日期”一词进行了定义。
+
+The “Completion Date” means the date of actual completion of the matters detailed in clauses [ ] and Completion shall be construed accordingly.
+“完成日期”是指条款 [ ] 中详述事项实际完成的日期，完成应据此解释。
+
+Vocabulary: the word ‘construed’ means interpreted. ‘To construe’ is to interpret.
+词汇：单词“construed”的意思是解释。“to constru”就是解释。
+
+Conditions precedent and subsequent
+先决条件和后续条件
+This provision is generally contained within another clause (see 9.1.4 above).
+Here is an example of a condition precedent in relation to the grant of a patent.
+The obligations contained in paragraph [ ] of this contract shall not come into effect until the day after the date on which Party A receives formal notification from the Patent Office that a patent has been granted.
+本条款通常包含在其他条款中（见上文9.1.4）。
+以下是与专利授予相关的先决条件示例。
+本合同第[ ]款所载义务，自甲方收到专利局正式通知其专利已获授予之日起次日起生效。
+
+Vocabulary: the phrase ‘come into effect’ means to become legally valid.
+词汇：短语“生效”是指具有法律效力。
+
+Consent
+同意
+
+This provision is generally contained within another clause and has a variety of meanings: (1) that a contracting party is responsible for obtaining various consents necessary for the contract to proceed; (2) that a party is warranting that the necessary consents have been obtained; and (3) that a party may not take certain steps unless the consent of the other party has been obtained. The main issue to be considered when drafting such a provision is whether the requirement for consent should be made subject to a provision that it cannot be reasonably withheld.
+该条款通常包含在其他条款中，并有多种含义：（1）合同一方负责取得合同履行所需的各项同意；（2）一方保证已取得必要的同意；以及（3）未经另一方同意，一方不得采取某些步骤。起草此类条款时需要考虑的主要问题是，是否应规定同意要求不得被合理拒绝。
+
+Here is an example of a clause prohibiting assignment of the contract by either party in the absence of written consent from the other party.
+以下是一个禁止任何一方在未经另一方书面同意的情况下转让合同的条款示例。
+
+This contract and all the rights under it may not be assigned or transferred by either party without the prior written consent of the other party.
+未经另一方事先书面同意，任何一方均不得转让或转移本合同及其项下的所有权利。
+
+Vocabulary: the phrase ‘prior written consent’ means agreement given in writing before assignment of the contract occurs.
+词汇：短语“事先书面同意”是指在合同转让发生之前以书面形式作出的协议。
+
+Consultation
+This clause generally takes the form of a stipulation that one party must consult with another party before taking certain actions (note that this does not amount to an obligation to obtain the other party’s consent, but is more onerous than a mere obligation to inform the other party). The drafting of this kind of clause should take into account the question of what actually qualifies as proper consultation, how much time should be allowed for this process to take place, in what form the advice should be given, and so forth.
+协商
+该条款通常规定一方在采取某些行动前必须与另一方协商（请注意，这并不意味着必须获得另一方的同意，但比仅仅告知另一方更为严格）。此类条款的起草应考虑以下问题：何为恰当的协商、协商过程应持续多长时间、咨询应以何种形式进行等等。
+
+The clause set out below stipulates a general duty to consult and consider recommendations made by the other party.
+以下条款规定了咨询和考虑对方提出的建议的一般义务。
+
+Party A shall consult with Party B and give good faith consideration to any recommendations made by Party B.
+甲方应与乙方协商，并认真考虑乙方提出的任何建议。
+
+Vocabulary: the phrase ‘good faith consideration’ means genuine consideration.
+词汇：短语“善意考虑”指的是真诚的考虑。
+
+In other words, Party A must give genuine thought to recommendations made by Party B.
+换句话说，甲方必须认真考虑乙方提出的建议。
+
+Currency
+This clause stipulates the currency in which payments are to be made under the contract, and is often contained in a payments clause. The clause should also specify whether payment can only be made in that currency, how and when the currency is to be converted, and who bears the risk of the currency exchange rate changing between the date of the agreement and the date on which payment is in fact made.
+货币
+本条款规定了合同项下付款的货币，通常包含在付款条款中。该条款还应明确规定付款是否只能以该货币进行，货币兑换的方式和时间，以及在协议签订日至实际付款日期间汇率变动的风险由谁承担。
+
+Here is a simple clause specifying the currency and manner of payment.
+All sums payable under this contract by Party A to Party B shall be paid in euros by direct bank transfer to Party B’s bank account number [insert number] held at [insert name and address of bank].
+以下条款简要规定了付款的货币和方式。
+甲方根据本合同应向乙方支付的所有款项均应以欧元通过银行转账直接汇至乙方在[插入银行名称和地址]开设的银行账户[插入账号]。
+
+Deposits and part payments
+This clause stipulates when, under what circumstances, and in what amounts deposits or part payments are to be made in respect of purchases handled under the contract.
+定金和部分付款
+本条款规定了根据本合同进行的采购中，在何时、何种情况下以及以何种金额支付定金或部分付款。
+
+The example clause given below provides that one party must pay a non- returnable deposit to the other party.
+下面给出的示例条款规定，一方必须向另一方支付不可退还的定金。
+
+Party A shall pay to Party B a deposit in the sum of [ ] within seven (7) days of the date of signature of this agreement. If Party A fails to pay the balance of the Contract Price by [insert date] or seeks to terminate the Order, Party B may retain all of the deposit.
+甲方应于本协议签署之日起七（7）日内向乙方支付[ ]金额的定金。如甲方未能于[插入日期]前支付合同价款余额或寻求终止订单，乙方有权保留全部定金。
+
+Vocabulary: a deposit is a preliminary payment made in the purchase of an item, which may or may not be returnable if the purchase is not completed. In this case, the deposit is not returnable if Party A does not pay the rest of the agreed price or tries to terminate the order.
+词汇：定金是指购买商品时支付的预付款，如果最终未能完成交易，定金可能退还，也可能不退还。在本例中，如果甲方未支付剩余款项或试图取消订单，则定金不予退还。
+
+Exclusive, non-exclusive and sole
+See note above. This provision may be contained within a main commercial clause (see above), or may also be a stand-alone clause.
+独家、非​​独家和唯一
+参见上文注释。此条款可包含在主要商业条款（见上文）中，也可作为独立条款。
+
+Here is a clause granting an exclusive licence to sell certain products.
+Party A hereby grants Party B, subject to the provisions of this contract, an exclusive licence to manufacture, use and sell the Licensed Products in the Territory.
+以下条款授予乙方独家销售特定产品的许可。
+甲方特此授予乙方在本合同条款范围内独家生产、使用和销售许可产品的许可。
+
+Vocabulary: an exclusive licence is one granted to only one party (as opposed to a nonexclusive licence). Therefore, under this clause Party B is the only one able to manufacture, use and sell the Licensed Products in the specified territory.
+词汇：独家许可是指仅授予一方的许可（与非独家许可相对）。因此，根据本条款，乙方是唯一有权在指定区域内生产、使用和销售许可产品的一方。
+
+Indexation
+This provision gives a means by which the parties can adjust prices for goods and services or salaries or wages in order to take account of the effects of inflation. It should stipulate the method of calculation, the index used, whether notice should be given in case of increases, and so forth. Such a provision is often contained within a payment clause.
+指数化调整
+该条款规定了各方调整商品和服务价格或薪金工资以应对通货膨胀影响的途径。它应明确规定计算方法、所用指数、价格上涨时是否需要通知等事项。此类条款通常包含在付款条款中。
+
+The example clause given below is taken from a UK contract and provides a means of increasing a salary automatically by reference to the Retail Prices Index (which is the primary consumer price index used in the UK).
+下面给出的示例条款取自英国的一份合同，它提供了一种根据零售价格指数（英国使用的主要消费者价格指数）自动提高工资的方法。
+
+On each anniversary of the Commencement Date, the Salary specified in clause [ ] shall be increased by the percentage by which the Retail Prices Index has increased during the preceding year.
+在每个生效日周年日，条款 [ ] 中规定的薪金应按上一年零售价格指数的增长百分比增加。
+
+Vocabulary: ‘preceding’ means previous.
+词汇：“preceding”意为先前的。
+Interest
+利息
+This provision specifies whether interest should be charged on late payments of contractual debts, at what rate it should be charged and whether any other rights are obtained by the party receiving payment. It is often contained in a payments clause.
+本条款规定了对逾期支付的合同债务是否应收取利息、利息利率以及收款方是否享有其他权利。它通常包含在付款条款中。
+
+The clause set out below simply provides for the payment of interest at a specified rate on invoiced amounts paid late.
+以下条款规定，对于逾期支付的发票金额，应按规定利率支付利息。
+
+All sums payable by Party A to Party B under this contract shall be paid against invoice within [insert time period] of the date of invoice, and in the event of late payment all sums due shall bear interest at the rate of [insert percentage] per month.
+甲方根据本合同应向乙方支付的所有款项，应在发票日期后[插入期限]内根据发票支付；如逾期付款，所有到期款项应按每月[插入百分比]的利率计息。
+
+Vocabulary: the expression ‘paid against invoice’ means that Party B must send an invoice to Party A stating the amount to be paid and the date on which payment must be made, and Party A must pay as stated in the invoice.
+词汇：术语“根据发票付款”是指乙方必须向甲方发送发票，说明应付金额和付款日期，甲方必须按照发票上的规定付款。
+
+Net sales value
+净销售额
+This provision is usually contained within a payments clause, where payments are calculated by reference to the amount of a party’s sales of goods (e.g. in agency and sales agreements). The word net indicates that certain items (VAT, insurance, etc.) may be deducted from the amount actually charged to the customer.
+此条款通常包含在付款条款中，付款金额根据一方的商品销售额计算（例如，在代理和销售协议中）。“净额”一词表示某些项目（增值税、保险费等）可以从实际向客户收取的金额中扣除。
+
+The example given below shows how the net sales value definition can be applied in a payments clause.
+下面给出的示例说明了如何在付款条款中应用净销售额定义。
+
+The Licensee shall pay to the Licensor a royalty being a percentage of the Net Sales Value of all the Licensed Products sold by the Licensee.
+被许可方应向许可方支付特许权使用费，该费用为被许可方销售的所有许可产品的净销售额的一定百分比。
+
+Vocabulary: the word ‘royalty’ means a payment made to an author or patent holder in respect of the use or sale of published work or products.
+词汇： “版税”一词是指因使用或销售已发表的作品或产品而向作者或专利持有人支付的款项。
+
+Options
+期权
+An ‘option’ is a contractual right for one party (the ‘option holder’) to elect to bring into force a certain term of a contract. Options often relate to the purchase of land or shares or to take a licence (e.g. in relation to intellectual property).
+“期权”是指一方（“期权持有人”）选择执行合同中特定条款的合同权利。期权通常与购买土地或股份或获得许可（例如，与知识产权相关的许可）有关。
+
+They generally continue for a specified term and are exercisable on pre-agreed terms.
+它们通常持续一段特定的期限，并可按照预先约定的条款行使。
+
+An option clause should include a clear statement of what the option holder receives on exercising the option. It should also cover the questions of whether the option is exclusive or not, whether a lockout agreement (an agreement not to negotiate with a third party during the period of the negotiations) is being created, what payment is to be made for the option, and how the option may be exercised etc.
+期权条款应明确规定期权持有人在行使期权时可获得的权益。此外，还应涵盖期权是否具有排他性、是否构成锁定协议（即在谈判期间不与第三方进行谈判的协议）、期权的支付方式以及期权的行使方式等问题。
+
+The provision set out below is taken from an option clause in a franchise agreement, and provides the franchisee with a right of first refusal where the franchisor indicates its aim to grant a franchise to a third party in respect of a further retail outlet.
+以下规定摘自特许经营协议中的选择权条款，规定当特许人表示有意将另一零售店的特许经营权授予第三方时，被特许人享有优先购买权。
+
+In the event that the Franchisor wishes to grant to a third party a franchise for a new Outlet in the Designated Territory during the term of this contract the Franchisor shall notify the Franchisee in writing of such desire, following which the Franchisee shall have 90 days from the date of such notice in which to notify the Franchisor in writing that it shall exercise the Option in respect of such Outlet failing which the Franchisor shall be at liberty to grant a franchise to a third party for such Outlet.
+如果特许人希望在本合同期限内将指定区域内新门店的特许经营权授予第三方，特许人应以书面形式通知被特许人，被特许人应自收到该通知之日起 90 天内以书面形式通知特许人其将行使该门店的选择权，否则特许人有权将该门店的特许经营权授予第三方。
+
+Vocabulary: a ‘franchise’ is a licence given to a trader (the franchisee) enabling them to manufacture or sell a named product or service in a particular area for a stated period. The franchise is granted by the franchisor to the franchisee.
+词汇：特许经营权是指授予经营者（被特许经营者）的许可，使其能够在特定区域和特定期限内生产或销售指定的产品或服务。特许经营权由特许人授予被特许经营者。
+
+
+Payment terms and interest
+This clause provides relevant stipulations about payment, including: when payments are to be made; the method of calculation; retention of title; whether VAT is included; by what method payment is to be made; whether interest is to be added; the currency of payment; any deductions; whether time is of the essence; what statements or receipts are required, and so forth.
+付款条款和利息
+本条款对付款作出了相关规定，包括：付款时间；计算方法；所有权保留；是否包含增值税；付款方式；是否加收利息；付款币种；任何扣除；时间是否至关重要；需要哪些报表或收据等等。
+
+Here is a simple clause that merely records that payments are to be made without deductions of any kind.
+这是一条简单的条款，仅记录了付款时不得扣除任何费用。
+
+Payments made under this contract shall be made without deductions (including taxes or charges). If the applicable law requires any tax or charge to be deducted before payment, the amount due under this agreement shall be increased so that the payment made will equal the amount due to [specify party] as if no such tax or charge had been imposed.
+本合同项下支付的款项应全额支付，不得扣除任何费用（包括税款或手续费）。如果适用法律要求在付款前扣除任何税款或手续费，则本协议项下应付金额应增加，以使实际支付金额等于未扣除该等税款或手续费时应付给[指定方]的金额。
+
+Vocabulary: deductions are amounts subtracted from the sum to be paid before payment of that sum.
+词汇：扣款是指在支付该款项之前从应付总额中减去的金额。
+
+Receipts
+收据
+This provision is usually contained in another clause (e.g. payment clause) and is necessary when a party is required to acknowledge that it has received something. It is important to ensure that the payment for which a receipt is required is sufficiently identified in the relevant provision.
+此条款通常包含在其他条款（例如付款条款）中，当一方需要确认已收到某项款项时，此条款必不可少。务必确保相关条款中已充分明确需要收据的款项。
+
+The example clause below imposes a duty on the payee to issue receipts to the payer in respect of the amounts paid under a certain clause of the contract.
+下面的示例条款规定，收款人有义务就根据合同的某一条款支付的款项向付款人出具收据。
+
+Party B shall issue a written receipt to Party A within seven (7) days of receipt of each payment received under clause [ ] of this contract, confirming the amount of payment made and the date on which it was received.
+乙方应在收到根据本合同第 [ ] 条收到的每一笔款项后七 (7) 天内向甲方出具书面收据，确认付款金额和收到付款的日期。
+
+Vocabulary: a receipt is a document acknowledging that a specific payment has been made.
+词汇：收据是确认已完成特定付款的文件。
+
+Reporting
+报告条款
+This clause is used when a party is required to make regular reports to the other parties about its activities under the contract (as in a consultancy or agency agreement). It should stipulate what information is provided, in what form it should be provided, the rights of the recipient, and so forth.
+本条款用于规定一方需定期向其他各方报告其在合同项下的活动（例如咨询或代理协议）。本条款应明确规定提供哪些信息、以何种形式提供、接收方的权利等等。
+
+In the clause below, one party agrees to provide specified sales information to the other party, which extends to details of competing products.
+在以下条款中，一方同意向另一方提供特定的销售信息，其中包括竞争产品的详细信息。
+
+Party B shall supply such reports, returns and other information as Party A from time to time requests, including sales forecasts and information with regard to products competing with or likely to compete with the products marketed by Party A in the Territory.
+乙方应根据甲方的要求，不时提供报告、报表和其他信息，包括销售预测以及与甲方在该地区销售的产品竞争或可能竞争的产品的信息。
+
+Vocabulary: the expression ‘from time to time’ usually means periodically or at any particular time.
+词汇：表达“from time to time”通常指周期性地或在某个特定时间。
+
+Retention of title
+所有权保留
+Under a provision for retention of title, a seller of goods seeks to retain ownership of the goods, even after delivery to the buyer, until they have been paid for. Such a clause should ensure full title is retained, clearly identify the goods, indicate what the purchaser may do with the goods, and so forth. This type of provision is usually contained in a payments clause.
+根据所有权保留条款，货物卖方即使在将货物交付给买方后，仍力求保留货物的所有权，直至买方付清货款为止。此类条款应确保卖方保留完全所有权，明确标明货物，并说明买方对货物的处置方式等。此类条款通常包含在付款条款中。
+
+The clause below specifies that the buyer does not own the goods until they have been paid for, but at the same time clarifies that the risk in the goods passes to the buyer at the time of delivery.
+以下条款规定，买方在货款付清之前不拥有货物的所有权，但同时明确规定，货物的风险在交货时转移给买方。
+
+Ownership of the goods which are the subject of this contract shall not pass to the Buyer until they are fully paid for, but the risk in the goods shall be borne by the Buyer from the date of delivery by the Seller or its agents to the Buyer.
+本合同项下货物的所有权在买方全额付款之前不转移给买方，但货物的风险自卖方或其代理人将货物交付给买方之日起由买方承担。
+
+Vocabulary: the word ‘borne’ means carried by the specified party. In other words, in this context if anything happens to the goods the responsibility for this is the Buyer’s.
+词汇表：此处“承运”一词指的是由指定方承担。换言之，在此语境下，如果货物发生任何意外，责任均由买方承担。
+
+Set-off and retention
+抵销和保留
+This provision is usually contained in a payments clause. ‘Set-off’ generally means ‘deduction’. It occurs when party A to the contract is obliged to pay party B a sum of money, but party B also owes party A a smaller sum. In such a situation, it may be agreed that party A will deduct from the sum to be paid to party B the amount that party B owes to party A. ‘Retention’ generally means ‘holding back’. For example, a contract may provide that a sum is not to be paid until the contract work is successfully completed.
+此条款通常包含在付款条款中。“抵销”一般指“扣除”。当合同一方A有义务向另一方B支付一定金额的款项，而另一方B也欠A一笔较小的款项时，就会发生抵销。在这种情况下，双方可以约定A从应付给B的款项中扣除B欠A的款项。“保留”一般指“暂扣”。例如，合同可以规定，在合同工作圆满完成之前，不得支付任何款项。
+
+The example clause below simply records that set-off is not permitted.
+下面的示例条款只是简单地记录了不允许抵销。
+
+Party B agrees with Party A throughout the term of the contract not to set-off for any reason any money payable by Party B to Party A for supplies of products under the contract.
+乙方同意在合同有效期内，不得以任何理由抵销乙方根据合同向甲方支付的任何产品供应款项。
+
+Subcontracting
+分包
+This clause deals with: whether subcontracting of the work required under the contract is allowed at all; on what terms it might be allowed; whether there is a duty to consult the other party; and the situations in which particular obligations and requirements are laid upon subcontractors (e.g. as to intellectual property rights).
+本条款涉及：是否允许将合同项下所需的工作分包；允许分包的条件是什么；是否有义务与另一方协商；以及在哪些情况下对分包商提出特定义务和要求（例如，关于知识产权）。
+
+The example clause below provides that subcontracting is permitted but must be personally supervised by the contractor.
+下面的示例条款规定，允许分包，但必须由承包商亲自监督。
+
+All work undertaken or services provided by the Contractor, or by any subcontractor appointed by the Contractor, under the terms of this contract, shall be done or performed by, or under the personal supervision and direction of, the Contractor.
+根据本合同条款，承包商或承包商指定的任何分包商所进行的所有工作或提供的所有服务，均应由承包商亲自完成或执行，或在其亲自监督和指导下完成或执行。
+
+Time of the essence
+Where a term of a contract is said to be ‘of the essence’, breach of that term will usually entitle the other party to terminate the contract (i.e. delays are regarded as a fundamental breach of the contract). Provisions to this effect will usually form part of another clause, and should indicate the consequences of failing to meet the time limits stipulated.
+时间至关重要
+如果合同中的某项条款被认定为“至关重要”，则违反该条款通常使另一方有权终止合同（即，延误被视为根本违约）。此类规定通常会包含在另一条款中，并应明确指出未能遵守规定时限的后果。
+
+The example clause set out below provides that time is of the essence with respect to the dates and periods set out in the contract or to any other dates and periods agreed between the parties. The result of this is that delays in the performance of obligations past these time limits will be treated as fundamental breaches of the contract (giving rise to the right to terminate the agreement) instead of minor breaches (giving rising only to a possible claim for damages).
+以下示例条款规定，时间对于合同中规定的日期和期限，或双方约定的任何其他日期和期限，都至关重要。因此，超过这些期限履行义务的延误将被视为根本违约（从而导致对方有权终止协议），而非轻微违约（仅可能导致对方提出损害赔偿请求）。
+
+Time shall be of the essence of this contract, both as regards the dates and periods specifically mentioned and as regards any dates and periods which may be substituted for them by agreement in writing between the parties.
+时间是本合同的要素，包括合同中明确规定的日期和期限，以及双方以书面形式约定的任何其他日期和期限。
+
+Vocabulary: the phrase ‘substituted for’ means to replace with. In this clause if the agreed dates and periods are changed by agreement between the parties, time will still be of the essence in relation to the new dates and periods.
+词汇表：短语“substituted for”意为“替换为”。在本条款中，如果双方协商一致更改了约定的日期和期限，则就新的日期和期限而言，时间仍然至关重要。
+
+10.4 SECONDARY COMMERCIAL PROVISIONS 二级商业条款
+Capacity
+行为能力
+‘Capacity’ refers to whether a person or legal entity has the legal right to enter into a contract. A provision on this issue is usually contained in another clause, and its purpose is to indicate that various documents that may be signed under the contract (e.g. notices, approvals, variations of contract) may only be signed by an authorised representative of a party.
+“行为能力”是指个人或法人实体是否具有订立合同的法律权利。关于此问题的规定通常包含在其他条款中，其目的是表明根据合同可能签署的各种文件（例如通知、批准、合同变更等）只能由一方的授权代表签署。
+
+In the clause given below a party warrants that a certain person has authorisation to sign documents on its behalf.
+The Company warrants that its duly authorised representative [insert name] has the necessary authority to enter into this contract on the Company’s behalf.
+在以下条款中，一方保证特定人员已获得授权代表其签署文件。公司保证其正式授权代表[插入姓名]已获得必要的授权代表公司签订本合同。
+
+Vocabulary: the word ‘warrants’ in this context means to make a legally binding statement.
+词汇：这里的“warrants”一词指的是做出具有法律约束力的声明。
+
+Confidentiality
+保密条款
+A confidentiality clause allows one or both parties to protect the confidentiality of sensitive information. Such a clause should identify the information to be covered, which parties are bound by the clause, what the confidential information can be used for, to what extent it can be disclosed (e.g. to employees or third parties), and whether there are any exceptions to the requirement of confidentiality, and so forth.
+保密条款允许一方或双方保护敏感信息的机密性。此类条款应明确规定受保护的信息范围、受条款约束的各方、机密信息的用途、披露范围（例如，向员工或第三方披露）、保密要求的例外情况等等。
+
+The short clause set out below provides a general duty of confidentiality in respect of information shared as a result of the contract.
+下文列出的简短条款规定了针对因本合同而共享的信息的普遍保密义务。
+
+The parties to this contract shall at all times keep confidential all information acquired in consequence of this contract, except for information to which they may be entitled or bound to disclose by force of law or where required to do so by regulatory agencies.
+本合同各方应始终对因本合​​同而获悉的所有信息予以保密，但法律规定有权或有义务披露的信息，以及监管机构要求披露的信息除外。
+
+Vocabulary: the expression ‘by force of law’ means as a result of a legal requirement. Therefore, in this clause if either a binding legal provision stipulates that information must be disclosed, or a court orders such disclosure, then such disclosure must be made.
+词汇解析：“by force of law”（依法/因法律强制要求）一词是指因法律规定而产生的结果。因此，在本条款中，如果具有约束力的法律规定要求披露信息，或者法院下令进行此类披露，则必须进行相应的披露。
+
+Consequences of termination
+In many cases, certain rights or obligations contained in the contract may continue to exist or come into existence after the contract has ended. The contract may contain a clause on this subject. This clause should indicate which provisions survive termination, how long they survive for, whether any payments are to made, whether termination of this agreement impacts on other related agreements, whether any new rights are granted on termination, and so forth.
+终止后的后果
+在许多情况下，合同终止后，合同中包含的某些权利或义务可能继续存在或产生。合同中可能包含关于此事项的条款。该条款应明确规定哪些条款在合同终止后继续有效、其有效期限、是否涉及款项支付、本协议的终止是否影响其他相关协议、终止时是否产生新的权利，等等。
+
+The clause below specifies which clauses shall survive termination of the contract.
+No term, other than clause [insert clause or clauses that will survive termination], shall survive expiry or termination of this contract unless expressly agreed in writing between the parties.
+以下条款规定了哪些条款在合同终止后仍然有效。除[插入将在合同终止后继续有效的条款]条款外，除非双方另有书面约定，否则任何其他条款均不在本合同期满或终止后继续有效。
+
+Vocabulary: the expression ‘expressly agreed’ means specifically agreed. In other words, there must be specific agreement between the parties on that particular issue.
+词汇释义：“明确约定”（expressly agreed）一词意指具体约定。换言之，当事各方必须就该特定事项达成具体的协议。
+
+Cumulative remedies
+This type of clause provides that remedies provided for under the contract are in addition to any other rights or remedies a party might have. The aim of such a clause is to prevent a party from arguing that only one of a possible range of remedies can be used.
+累积性救济条款
+此类条款规定，合同项下提供的救济措施是对当事人可能享有的其他权利或救济措施的补充。该条款旨在防止一方当事人主张只能行使多种可能救济措施中的某一项。
+
+The clause below provides that both parties may use the full range of legal remedies and rights available to them under the applicable law.
+下文条款规定，双方均可依据适用法律行使其享有的各项法律救济与权利。
+
+Any remedy or right conferred on either party for breach of this contract shall be in addition to and without prejudice to all other rights and remedies available to it under the applicable law.
+因违反本合同而赋予任一方的任何救济或权利，均应作为其根据适用法律可享有的所有其他权利和救济的补充，且不损害该等其他权利和救济。
+
+Vocabulary: the use of the phrase ‘without prejudice’ in this clause means that the fact that a party has used a remedy granted under the contract does not prevent them from using other remedies.
+词汇：本条款中“不影响其他权利”（without prejudice）这一措辞的含义是，一方行使合同项下授予的某项救济措施，并不妨碍其行使其他救济措施。
+
+Disclaimers
+A disclaimer is used by a party to a contract in order to disclaim (i.e. avoid) responsibility for a particular fact or situation. Such a provision is often used in the context of warranties to indicate an understanding that no legal liability arises in a context where it might otherwise arise.
+免责声明
+合同一方使用免责声明来免除（即避免）对特定事实或情况的责任。此类条款通常用于保证，以表明一种理解，即在可能产生法律责任的情况下不会产生法律责任。
+
+Here is a simple clause in which the purchaser of goods acknowledges that it has inspected the goods to be sold and entered into the contract on that basis rather than on the basis of representations made by the Vendor. This acts as a disclaimer on the Vendor’s part for any possible liability arising from misrepresentation.
+这是一项简单的条款，其中货物买方确认其已对拟售货物进行了检查，并基于该检查（而非基于卖方的陈述）订立了合同。该条款旨在免除卖方因失实陈述而可能承担的任何责任。
+
+The Purchaser agrees that the goods to be sold have been inspected by him or on his behalf and he has entered into this agreement on the basis of such inspection and not in reliance on any representation or warranty made by or on behalf of the Vendor.
+买方同意，拟出售的货物已由其本人或其代表进行过检验，且其订立本协议系基于该等检验，而非依赖于卖方或其代表所作的任何陈述或保证。
+
+Vocabulary: the phrase ‘on his behalf’ means that the inspection is carried out by another person on the instruction of the Purchaser.
+词汇：“on his behalf”这一短语意指该项检查由他人根据买方的指示进行。
+
+Exemption clauses
+Commercial contracts invariably contain provisions that seek to exclude or limit liability (collectively known as exemption clauses). These are discussed in further detail in 11.3 below.
+免责条款
+商业合同中通常包含旨在排除或限制责任的条款（统称为“免责条款”）。下文第 11.3 节将对此作进一步探讨。
+
+The example clause below seeks to exclude liability for one party’s failure to deliver goods or provide services by the dates specified in the contract, or for any damage caused to the other party as a result of failing to deliver the goods or provide the services by those dates.
+下文的示例条款旨在免除一方因未能在合同约定的日期交付货物或提供服务而应承担的责任，或免除其因未能在该等日期交付货物或提供服务而致使另一方遭受损害所应承担的责任。
+
+While Party A will endeavour to meet estimated dates for delivery of the goods and performance of services specified in Schedule II, Party A undertakes no obligation to deliver or perform by such dates, and Party A shall not be liable for any damage resulting from any failure to deliver or perform by such dates however caused.
+尽管甲方将尽力满足附表二所列的货物交付及服务履行预计日期，但甲方并不承担必须于该等日期交付或履行的义务；对于因未能于该等日期交付或履行而造成的任何损失（无论何种原因引起），甲方均不承担责任。
+
+Vocabulary: the phrase ‘undertakes no obligation’ means ‘accepts no obligation’.
+The word ‘liable’ means to be legally responsible for.
+词汇：“undertakes no obligation”这一短语意为“不承担任何义务”。
+单词“liable”意为“负有法律责任”。
+
+Expiration and termination at will
+This type of provision is used in fixed-term contracts to specify the date on which the contract automatically expires, and is generally contained in the termination clause. It may also provide that the contract may be terminated earlier by one or more of the parties by notice to the other parties.
+期满与任意终止
+此类条款常见于定期合同中，用于明确合同自动到期的日期，通常包含在终止条款内；此外，该条款也可规定，一方或多方当事人可通过向其他方发出通知，提前终止合同。
+
+The clause given below provides that the contract terminates on a fixed date if it has not been terminated prior to that under any other applicable provision of the contract.
+下文所述条款规定，若合同未曾根据合同其他适用条款在此之前终止，则合同将于指定日期终止。
+
+Subject to any earlier termination under clause [ ], this contract shall continue in force until the [ ] of the Commencement Date when it shall terminate automatically by expiry.
+除根据第 [ ] 条规定提前终止外，本合同将持续有效，直至生效日后的第 [ ] [日/月/年] 届满时自动终止。
+
+Vocabulary: the phrase ‘terminate automatically by expiry’ means that when the specified date is reached, the contract is no longer valid and no action is required by either party to achieve this.
+词汇：“因期满而自动终止”这一短语是指，一旦达到指定日期，合同即告失效，且无需任何一方采取行动即可实现这一结果。
+
+Force majeure
+Under common law, where a contract becomes impossible to perform or can only be performed in a manner substantially different from that originally envisaged, then performance is excused under the doctrine of frustration.
+不可抗力
+根据普通法，若合同无法履行，或仅能以与最初设想截然不同的方式履行，则依据“合同目的落空”原则（doctrine of frustration），当事人可免除履行义务。
+
+The purpose of a force majeure clause is therefore to define the circumstances in which performance may be excused. This may either be done by setting out a long list of such circumstances (but see the expressio unius est exclusio alterius rule at 9.2.2.5 above) or by merely referring to ‘circumstances beyond the control of the parties’, and so forth.
+因此，不可抗力条款旨在界定在何种情况下可免除履行义务。实现这一目的的方式，既可以是列举一系列此类情形（但请参阅上文 9.2.2.5 节所述的“明示其一即排除其他”原则），也可以是仅笼统地表述为“当事人无法控制的情形”等。
+
+The clause sets out below that no liability applies in respect of breaches of contract caused by circumstances beyond the reasonable control of the parties, and incorporates an extension of time for performance in the event of delay being caused by force majeure events.
+下文条款规定，对于因超出当事方合理控制范围的情形而导致的违约，不承担责任；同时，该条款还规定，若因不可抗力事件导致延误，履行期限将相应延长。
+
+Neither party shall be liable for delay in performing or failure to perform obligations under this contract if such delay or failure results from events or circumstances beyond its reasonable control. Such delay or failure shall not constitute a breach of this contract and the time allowed for performance shall be extended by a period equivalent to that during which performance is so prevented.
+若因超出其合理控制范围的事件或情形导致迟延履行或未能履行本合同项下的义务，任何一方均不承担责任。此类迟延或不履行不构成违约，且履行期限应相应延长，延长时间应与受阻碍期间相当。
+
+Vocabulary: the phrase ‘circumstances beyond reasonable control’ means circumstances over which the parties cannot for legal purposes be expected to have control, even if it might theoretically be possible for them to influence such circumstances.
+词汇释义：“超出合理控制范围的情形”是指在法律层面上无法预期当事人能够加以控制的情形，即使当事人在理论上或许有可能对这些情形施加影响。
+
+Indemnities
+An indemnity consists of an undertaking given by party A to party B that party A will make good any losses suffered by B arising from claims made against B by a third party in specified situations.
+赔偿保证
+赔偿保证是指一方（A方）向另一方（B方）作出的承诺，即在特定情形下，若B方因第三方提出的索赔而遭受损失，A方将负责弥补该等损失。
+
+The wording ‘hold harmless’ is often used in US contracts to indicate that the party giving the indemnity will not sue the other party for recovery of its losses.The clause should indicate what the indemnifying party will be responsible for, whether there are any limits on the amount to be paid, what the indemnity covers, whether other persons are covered by the indemnity, and so forth.
+美国合同中常使用“免责”（hold harmless）这一表述，意指提供赔偿保证的一方不会就其自身损失向另一方提起追偿诉讼。该条款应明确规定赔偿方的责任范围、赔偿金额是否存在限制、赔偿涵盖的具体内容、赔偿范围是否包括其他主体等事项。
+
+In the clause below, Party A provides a general indemnity to Party B in respect of any breach of warranties given in the contract.
+在下述条款中，针对合同项下所作保证的任何违约行为，甲方须向乙方提供全面赔偿保证。
+
+Party A undertakes to indemnify Party B and keep Party B fully indemnified against all losses, liabilities, costs and expenses arising out of the breach of the [above warranties] or out of any claim made by a third party which if substantiated would constitute such a breach.
+
+Vocabulary: the phrase ‘losses, liabilities, costs and expenses’ covers a variety of slightly different types of financial losses. The word ‘losses’ means losses in income caused by the breach of warranty; ‘liabilities’ means legal obligations (which may also be financial) brought about by the breach; ‘costs’ means legal costs; and ‘expenses’ means financial outlay necessitated by the breach.
+
+Insurance
+This clause generally includes warranties as to the level and scope of insurance cover held by a contracting party, and may also include obligations on a party to ensure against certain risks. The drafting should take account of whether the party requires insurance in the circumstances of the contract, what kinds of incidents are to be covered by the clause, what level of cover is required and for how long, and so forth.
+
+The clause set out below provides a warranty that valid insurance is in place in relation to the subject-matter of the contract.
+
+The Vendor warrants that:
+1 Insurance policies are in force in respect of the Assets to their full reinstatement value and against all other risks and liabilities (including but not limited to product liability and consequential loss of profits); and 
+2 To the best of the Vendor’s knowledge and belief there are no circumstances which could lead to any such insurance being revoked or not renewed in the ordinary course of events
+
+Vocabulary: ‘reinstatement’ is roughly a synonym for replacement. ‘Product liability’ refers to defects in the products caused by the manufacturing process.The phrase ‘to the best of the Vendor’s knowledge’ means ‘as far as the Vendor knows’.
+
+Warranties
+Warranties are statements of fact, which the party giving the warranty asserts to be true, and breach of which will usually lead to the other party being entitled to claim damages.
+
+They include standard warranties as to a party’s ability to enter into an agreement as well as detailed warranties regarding the quality of the goods or services that form the subject-matter of the contract. It is common for the party giving the warranty to limit the warranty to matters within its knowledge (using the formulation ‘to the best of his/her knowledge, information and belief’).
+
+The clause below provides a warranty about the quality of the goods to be supplied under the contract. It should be noted that Party B’s acceptance of designs that are provided to it is not in itself sufficient to relieve Party A of liability for defects in the products.
+
+Party A warrants that all goods delivered under this contract shall be free from defects in material and workmanship, conform to applicable specifications and drawings and free from design defects and suitable for the purposes intended by Party B. Party B’s approval of designs provided to it by Party A shall not relieve Party A of its obligations under any provision of this contract including the warranty contained in this clause.
+
+10.5 BOILERPLATE CLAUSES 
+
+
 
 
